@@ -1,0 +1,20 @@
+{
+    "zip": 54454,
+    "lat": 44.60259,
+    "lng": -89.8846,
+    "city": "Milladore",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1356.0,
+    "density": 11.6,
+    "county_fips": 55141,
+    "county_name": "Wood",
+    "county_weights": "{\"55141\": 94.96, \"55097\": 5.04}",
+    "county_names_all": "Wood|Portage",
+    "county_fips_all": "55141|55097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 54965,
+    "lat": 44.16429,
+    "lng": -89.0324,
+    "city": "Pine River",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1253.0,
+    "density": 8.2,
+    "county_fips": 55137,
+    "county_name": "Waushara",
+    "county_weights": "{\"55137\": 98.69, \"55135\": 1.31}",
+    "county_names_all": "Waushara|Waupaca",
+    "county_fips_all": "55137|55135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 32162,
+    "lat": 28.91629,
+    "lng": -81.99374,
+    "city": "The Villages",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 54019.0,
+    "density": 916.0,
+    "county_fips": 12119,
+    "county_name": "Sumter",
+    "county_weights": "{\"12119\": 84.95, \"12083\": 15.05}",
+    "county_names_all": "Sumter|Marion",
+    "county_fips_all": "12119|12083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

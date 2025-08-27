@@ -1,0 +1,20 @@
+{
+    "zip": 35184,
+    "lat": 33.1152,
+    "lng": -87.13931,
+    "city": "West Blocton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6188.0,
+    "density": 16.8,
+    "county_fips": 1007,
+    "county_name": "Bibb",
+    "county_weights": "{\"01007\": 99.75, \"01125\": 0.25}",
+    "county_names_all": "Bibb|Tuscaloosa",
+    "county_fips_all": "01007|01125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 79754,
+    "lat": 31.81735,
+    "lng": -103.49163,
+    "city": "Mentone",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 54.0,
+    "density": 0.0,
+    "county_fips": 48301,
+    "county_name": "Loving",
+    "county_weights": "{\"48301\": 100}",
+    "county_names_all": "Loving",
+    "county_fips_all": "48301",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 5602,
+    "lat": 44.2848,
+    "lng": -72.61498,
+    "city": "Montpelier",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12491.0,
+    "density": 54.9,
+    "county_fips": 50023,
+    "county_name": "Washington",
+    "county_weights": "{\"50023\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "50023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

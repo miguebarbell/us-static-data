@@ -1,0 +1,20 @@
+{
+    "zip": 71068,
+    "lat": 32.28464,
+    "lng": -93.32186,
+    "city": "Ringgold",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3325.0,
+    "density": 8.9,
+    "county_fips": 22013,
+    "county_name": "Bienville",
+    "county_weights": "{\"22013\": 75.15, \"22081\": 24.85}",
+    "county_names_all": "Bienville|Red River",
+    "county_fips_all": "22013|22081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 14502,
+    "lat": 43.09532,
+    "lng": -77.33598,
+    "city": "Macedon",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10515.0,
+    "density": 113.4,
+    "county_fips": 36117,
+    "county_name": "Wayne",
+    "county_weights": "{\"36117\": 96.24, \"36055\": 3.76}",
+    "county_names_all": "Wayne|Monroe",
+    "county_fips_all": "36117|36055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

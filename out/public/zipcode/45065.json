@@ -1,0 +1,20 @@
+{
+    "zip": 45065,
+    "lat": 39.37016,
+    "lng": -84.21426,
+    "city": "South Lebanon",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6938.0,
+    "density": 912.5,
+    "county_fips": 39165,
+    "county_name": "Warren",
+    "county_weights": "{\"39165\": 100}",
+    "county_names_all": "Warren",
+    "county_fips_all": "39165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

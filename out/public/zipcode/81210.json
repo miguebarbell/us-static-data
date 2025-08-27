@@ -1,0 +1,20 @@
+{
+    "zip": 81210,
+    "lat": 38.81898,
+    "lng": -106.62219,
+    "city": "Almont",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 423.0,
+    "density": 0.3,
+    "county_fips": 8051,
+    "county_name": "Gunnison",
+    "county_weights": "{\"08051\": 100}",
+    "county_names_all": "Gunnison",
+    "county_fips_all": "08051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

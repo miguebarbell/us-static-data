@@ -1,0 +1,20 @@
+{
+    "zip": 70654,
+    "lat": 30.69212,
+    "lng": -92.88075,
+    "city": "Mittie",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 164.0,
+    "density": 2.7,
+    "county_fips": 22003,
+    "county_name": "Allen",
+    "county_weights": "{\"22003\": 100}",
+    "county_names_all": "Allen",
+    "county_fips_all": "22003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

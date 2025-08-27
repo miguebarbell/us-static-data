@@ -1,0 +1,20 @@
+{
+    "zip": 54748,
+    "lat": 45.07919,
+    "lng": -91.26586,
+    "city": "Jim Falls",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1209.0,
+    "density": 11.6,
+    "county_fips": 55017,
+    "county_name": "Chippewa",
+    "county_weights": "{\"55017\": 100}",
+    "county_names_all": "Chippewa",
+    "county_fips_all": "55017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 77982,
+    "lat": 28.44903,
+    "lng": -96.48657,
+    "city": "Port O'Connor",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 698.0,
+    "density": 6.3,
+    "county_fips": 48057,
+    "county_name": "Calhoun",
+    "county_weights": "{\"48057\": 100}",
+    "county_names_all": "Calhoun",
+    "county_fips_all": "48057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

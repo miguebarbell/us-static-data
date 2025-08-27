@@ -1,0 +1,20 @@
+{
+    "zip": 46777,
+    "lat": 40.87248,
+    "lng": -85.15236,
+    "city": "Ossian",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6136.0,
+    "density": 41.0,
+    "county_fips": 18179,
+    "county_name": "Wells",
+    "county_weights": "{\"18179\": 92.3, \"18003\": 4.95, \"18001\": 2.75}",
+    "county_names_all": "Wells|Allen|Adams",
+    "county_fips_all": "18179|18003|18001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

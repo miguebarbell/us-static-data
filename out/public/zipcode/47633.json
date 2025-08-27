@@ -1,0 +1,20 @@
+{
+    "zip": 47633,
+    "lat": 38.16835,
+    "lng": -87.78736,
+    "city": "Poseyville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2402.0,
+    "density": 15.1,
+    "county_fips": 18129,
+    "county_name": "Posey",
+    "county_weights": "{\"18129\": 88.95, \"18051\": 10.41, \"18163\": 0.64}",
+    "county_names_all": "Posey|Gibson|Vanderburgh",
+    "county_fips_all": "18129|18051|18163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

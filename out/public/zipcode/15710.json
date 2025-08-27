@@ -1,0 +1,20 @@
+{
+    "zip": 15710,
+    "lat": 40.64019,
+    "lng": -78.87193,
+    "city": "Alverda",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 206.0,
+    "density": 44.0,
+    "county_fips": 42063,
+    "county_name": "Indiana",
+    "county_weights": "{\"42063\": 100}",
+    "county_names_all": "Indiana",
+    "county_fips_all": "42063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

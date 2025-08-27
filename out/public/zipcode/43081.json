@@ -1,0 +1,20 @@
+{
+    "zip": 43081,
+    "lat": 40.11064,
+    "lng": -82.89083,
+    "city": "Westerville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 64314.0,
+    "density": 988.7,
+    "county_fips": 39049,
+    "county_name": "Franklin",
+    "county_weights": "{\"39049\": 99.38, \"39041\": 0.62}",
+    "county_names_all": "Franklin|Delaware",
+    "county_fips_all": "39049|39041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 41464,
+    "lat": 37.65974,
+    "lng": -82.97201,
+    "city": "Royalton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 349.0,
+    "density": 12.8,
+    "county_fips": 21153,
+    "county_name": "Magoffin",
+    "county_weights": "{\"21153\": 100}",
+    "county_names_all": "Magoffin",
+    "county_fips_all": "21153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

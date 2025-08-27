@@ -1,0 +1,20 @@
+{
+    "zip": 19472,
+    "lat": 40.34036,
+    "lng": -75.58189,
+    "city": "Sassamansville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 55.0,
+    "density": 32.7,
+    "county_fips": 42091,
+    "county_name": "Montgomery",
+    "county_weights": "{\"42091\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "42091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

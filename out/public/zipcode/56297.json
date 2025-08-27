@@ -1,0 +1,20 @@
+{
+    "zip": 56297,
+    "lat": 44.63005,
+    "lng": -95.54428,
+    "city": "Wood Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 824.0,
+    "density": 4.7,
+    "county_fips": 27173,
+    "county_name": "Yellow Medicine",
+    "county_weights": "{\"27173\": 94.06, \"27127\": 5.94}",
+    "county_names_all": "Yellow Medicine|Redwood",
+    "county_fips_all": "27173|27127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

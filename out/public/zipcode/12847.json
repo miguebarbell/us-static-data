@@ -1,0 +1,20 @@
+{
+    "zip": 12847,
+    "lat": 43.98698,
+    "lng": -74.59024,
+    "city": "Long Lake",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 667.0,
+    "density": 0.6,
+    "county_fips": 36041,
+    "county_name": "Hamilton",
+    "county_weights": "{\"36041\": 91.52, \"36089\": 8.48}",
+    "county_names_all": "Hamilton|St. Lawrence",
+    "county_fips_all": "36041|36089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

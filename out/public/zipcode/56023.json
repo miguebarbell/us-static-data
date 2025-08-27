@@ -1,0 +1,20 @@
+{
+    "zip": 56023,
+    "lat": 43.77224,
+    "lng": -94.01402,
+    "city": "Delavan",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 527.0,
+    "density": 3.6,
+    "county_fips": 27043,
+    "county_name": "Faribault",
+    "county_weights": "{\"27043\": 100}",
+    "county_names_all": "Faribault",
+    "county_fips_all": "27043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

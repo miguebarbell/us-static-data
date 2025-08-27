@@ -1,0 +1,20 @@
+{
+    "zip": 17111,
+    "lat": 40.27041,
+    "lng": -76.78265,
+    "city": "Harrisburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35818.0,
+    "density": 753.0,
+    "county_fips": 42043,
+    "county_name": "Dauphin",
+    "county_weights": "{\"42043\": 100}",
+    "county_names_all": "Dauphin",
+    "county_fips_all": "42043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

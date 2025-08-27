@@ -1,0 +1,20 @@
+{
+    "zip": 42631,
+    "lat": 36.74039,
+    "lng": -84.48098,
+    "city": "Marshes Siding",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36.0,
+    "density": 106.8,
+    "county_fips": 21147,
+    "county_name": "McCreary",
+    "county_weights": "{\"21147\": 100}",
+    "county_names_all": "McCreary",
+    "county_fips_all": "21147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

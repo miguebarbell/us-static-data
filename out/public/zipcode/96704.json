@@ -1,0 +1,20 @@
+{
+    "zip": 96704,
+    "lat": 19.30612,
+    "lng": -155.83884,
+    "city": "Captain Cook",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7975.0,
+    "density": 12.5,
+    "county_fips": 15001,
+    "county_name": "Hawaii",
+    "county_weights": "{\"15001\": 100}",
+    "county_names_all": "Hawaii",
+    "county_fips_all": "15001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "Pacific/Honolulu"
+}

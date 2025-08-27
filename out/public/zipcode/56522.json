@@ -1,0 +1,20 @@
+{
+    "zip": 56522,
+    "lat": 46.1352,
+    "lng": -96.3887,
+    "city": "Campbell",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 540.0,
+    "density": 1.4,
+    "county_fips": 27167,
+    "county_name": "Wilkin",
+    "county_weights": "{\"27167\": 87.63, \"27111\": 12.37}",
+    "county_names_all": "Wilkin|Otter Tail",
+    "county_fips_all": "27167|27111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

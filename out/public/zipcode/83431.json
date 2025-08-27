@@ -1,0 +1,20 @@
+{
+    "zip": 83431,
+    "lat": 43.68808,
+    "lng": -112.03012,
+    "city": "Lewisville",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1066.0,
+    "density": 32.8,
+    "county_fips": 16051,
+    "county_name": "Jefferson",
+    "county_weights": "{\"16051\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "16051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

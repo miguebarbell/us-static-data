@@ -1,0 +1,20 @@
+{
+    "zip": 36028,
+    "lat": 31.49031,
+    "lng": -86.38271,
+    "city": "Dozier",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1531.0,
+    "density": 5.2,
+    "county_fips": 1039,
+    "county_name": "Covington",
+    "county_weights": "{\"01039\": 60.06, \"01041\": 39.94}",
+    "county_names_all": "Covington|Crenshaw",
+    "county_fips_all": "01039|01041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

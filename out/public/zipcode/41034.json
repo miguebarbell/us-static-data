@@ -1,0 +1,20 @@
+{
+    "zip": 41034,
+    "lat": 38.70104,
+    "lng": -83.90426,
+    "city": "Dover",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1061.0,
+    "density": 13.3,
+    "county_fips": 21161,
+    "county_name": "Mason",
+    "county_weights": "{\"21161\": 97.57, \"21023\": 2.43}",
+    "county_names_all": "Mason|Bracken",
+    "county_fips_all": "21161|21023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

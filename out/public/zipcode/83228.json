@@ -1,0 +1,20 @@
+{
+    "zip": 83228,
+    "lat": 42.19496,
+    "lng": -112.03658,
+    "city": "Clifton",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1120.0,
+    "density": 6.2,
+    "county_fips": 16041,
+    "county_name": "Franklin",
+    "county_weights": "{\"16041\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "16041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

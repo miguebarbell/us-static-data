@@ -1,0 +1,20 @@
+{
+    "zip": 60968,
+    "lat": 40.6746,
+    "lng": -88.12049,
+    "city": "Thawville",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 453.0,
+    "density": 3.7,
+    "county_fips": 17075,
+    "county_name": "Iroquois",
+    "county_weights": "{\"17075\": 52.29, \"17053\": 45.6, \"17105\": 2.11}",
+    "county_names_all": "Iroquois|Ford|Livingston",
+    "county_fips_all": "17075|17053|17105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 28090,
+    "lat": 35.45987,
+    "lng": -81.55957,
+    "city": "Lawndale",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7422.0,
+    "density": 30.6,
+    "county_fips": 37045,
+    "county_name": "Cleveland",
+    "county_weights": "{\"37045\": 94.26, \"37109\": 3.46, \"37023\": 1.22, \"37035\": 1.06}",
+    "county_names_all": "Cleveland|Lincoln|Burke|Catawba",
+    "county_fips_all": "37045|37109|37023|37035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

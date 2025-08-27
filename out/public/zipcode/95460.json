@@ -1,0 +1,20 @@
+{
+    "zip": 95460,
+    "lat": 39.30386,
+    "lng": -123.73737,
+    "city": "Mendocino",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2144.0,
+    "density": 23.9,
+    "county_fips": 6045,
+    "county_name": "Mendocino",
+    "county_weights": "{\"06045\": 100}",
+    "county_names_all": "Mendocino",
+    "county_fips_all": "06045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

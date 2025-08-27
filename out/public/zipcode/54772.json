@@ -1,0 +1,20 @@
+{
+    "zip": 54772,
+    "lat": 45.09668,
+    "lng": -91.87303,
+    "city": "Wheeler",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1131.0,
+    "density": 7.4,
+    "county_fips": 55033,
+    "county_name": "Dunn",
+    "county_weights": "{\"55033\": 100}",
+    "county_names_all": "Dunn",
+    "county_fips_all": "55033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

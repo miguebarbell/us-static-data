@@ -1,0 +1,20 @@
+{
+    "zip": 27504,
+    "lat": 35.39963,
+    "lng": -78.51863,
+    "city": "Benson",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15999.0,
+    "density": 68.8,
+    "county_fips": 37101,
+    "county_name": "Johnston",
+    "county_weights": "{\"37101\": 97.15, \"37085\": 2.85}",
+    "county_names_all": "Johnston|Harnett",
+    "county_fips_all": "37101|37085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

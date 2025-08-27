@@ -1,0 +1,20 @@
+{
+    "zip": 81040,
+    "lat": 37.79283,
+    "lng": -105.2493,
+    "city": "Gardner",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 328.0,
+    "density": 0.3,
+    "county_fips": 8055,
+    "county_name": "Huerfano",
+    "county_weights": "{\"08055\": 100}",
+    "county_names_all": "Huerfano",
+    "county_fips_all": "08055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

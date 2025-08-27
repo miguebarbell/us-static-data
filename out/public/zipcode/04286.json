@@ -1,0 +1,20 @@
+{
+    "zip": 4286,
+    "lat": 44.4032,
+    "lng": -70.86019,
+    "city": "West Bethel",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 23017,
+    "county_name": "Oxford",
+    "county_weights": "{\"23017\": 100}",
+    "county_names_all": "Oxford",
+    "county_fips_all": "23017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 26717,
+    "lat": 39.34583,
+    "lng": -79.17597,
+    "city": "Elk Garden",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1421.0,
+    "density": 13.4,
+    "county_fips": 54057,
+    "county_name": "Mineral",
+    "county_weights": "{\"54057\": 82.6, \"54023\": 17.4}",
+    "county_names_all": "Mineral|Grant",
+    "county_fips_all": "54057|54023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

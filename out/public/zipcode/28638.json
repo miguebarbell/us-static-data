@@ -1,0 +1,20 @@
+{
+    "zip": 28638,
+    "lat": 35.84411,
+    "lng": -81.47701,
+    "city": "Hudson",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11629.0,
+    "density": 224.8,
+    "county_fips": 37027,
+    "county_name": "Caldwell",
+    "county_weights": "{\"37027\": 100}",
+    "county_names_all": "Caldwell",
+    "county_fips_all": "37027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

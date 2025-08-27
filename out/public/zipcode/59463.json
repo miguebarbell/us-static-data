@@ -1,0 +1,20 @@
+{
+    "zip": 59463,
+    "lat": 47.0489,
+    "lng": -110.86668,
+    "city": "Monarch",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 110.0,
+    "density": 0.2,
+    "county_fips": 30013,
+    "county_name": "Cascade",
+    "county_weights": "{\"30013\": 94.01, \"30045\": 5.99}",
+    "county_names_all": "Cascade|Judith Basin",
+    "county_fips_all": "30013|30045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

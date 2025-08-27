@@ -1,0 +1,20 @@
+{
+    "zip": 83330,
+    "lat": 42.94207,
+    "lng": -114.69291,
+    "city": "Gooding",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7120.0,
+    "density": 18.5,
+    "county_fips": 16047,
+    "county_name": "Gooding",
+    "county_weights": "{\"16047\": 99.05, \"16063\": 0.95}",
+    "county_names_all": "Gooding|Lincoln",
+    "county_fips_all": "16047|16063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

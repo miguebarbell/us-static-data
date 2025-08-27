@@ -1,0 +1,20 @@
+{
+    "zip": 14510,
+    "lat": 42.69485,
+    "lng": -77.87167,
+    "city": "Mount Morris",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4781.0,
+    "density": 24.5,
+    "county_fips": 36051,
+    "county_name": "Livingston",
+    "county_weights": "{\"36051\": 100}",
+    "county_names_all": "Livingston",
+    "county_fips_all": "36051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

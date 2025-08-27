@@ -1,0 +1,20 @@
+{
+    "zip": 70748,
+    "lat": 30.8164,
+    "lng": -91.20613,
+    "city": "Jackson",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7016.0,
+    "density": 36.5,
+    "county_fips": 22037,
+    "county_name": "East Feliciana",
+    "county_weights": "{\"22037\": 98.75, \"22033\": 1.25}",
+    "county_names_all": "East Feliciana|East Baton Rouge",
+    "county_fips_all": "22037|22033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 50071,
+    "lat": 42.64931,
+    "lng": -93.50597,
+    "city": "Dows",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 793.0,
+    "density": 2.8,
+    "county_fips": 19197,
+    "county_name": "Wright",
+    "county_weights": "{\"19197\": 55.84, \"19069\": 44.16}",
+    "county_names_all": "Wright|Franklin",
+    "county_fips_all": "19197|19069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 61111,
+    "lat": 42.33538,
+    "lng": -89.00369,
+    "city": "Loves Park",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22838.0,
+    "density": 619.8,
+    "county_fips": 17201,
+    "county_name": "Winnebago",
+    "county_weights": "{\"17201\": 95.79, \"17007\": 4.21}",
+    "county_names_all": "Winnebago|Boone",
+    "county_fips_all": "17201|17007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

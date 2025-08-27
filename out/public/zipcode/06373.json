@@ -1,0 +1,20 @@
+{
+    "zip": 6373,
+    "lat": 41.68394,
+    "lng": -71.79881,
+    "city": "Oneco",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 137.0,
+    "density": 28.5,
+    "county_fips": 9150,
+    "county_name": "Northeastern Connecticut",
+    "county_weights": "{\"09150\": 100}",
+    "county_names_all": "Northeastern Connecticut",
+    "county_fips_all": "09150",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

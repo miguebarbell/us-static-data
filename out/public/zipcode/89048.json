@@ -1,0 +1,20 @@
+{
+    "zip": 89048,
+    "lat": 36.16452,
+    "lng": -115.98833,
+    "city": "Pahrump",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25473.0,
+    "density": 114.4,
+    "county_fips": 32023,
+    "county_name": "Nye",
+    "county_weights": "{\"32023\": 100}",
+    "county_names_all": "Nye",
+    "county_fips_all": "32023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

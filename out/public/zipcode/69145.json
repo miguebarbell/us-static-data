@@ -1,0 +1,20 @@
+{
+    "zip": 69145,
+    "lat": 41.24913,
+    "lng": -103.67097,
+    "city": "Kimball",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2583.0,
+    "density": 2.4,
+    "county_fips": 31105,
+    "county_name": "Kimball",
+    "county_weights": "{\"31105\": 82.06, \"31007\": 17.94}",
+    "county_names_all": "Kimball|Banner",
+    "county_fips_all": "31105|31007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

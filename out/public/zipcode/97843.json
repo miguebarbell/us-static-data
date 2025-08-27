@@ -1,0 +1,20 @@
+{
+    "zip": 97843,
+    "lat": 45.50479,
+    "lng": -119.88066,
+    "city": "Ione",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 725.0,
+    "density": 0.8,
+    "county_fips": 41049,
+    "county_name": "Morrow",
+    "county_weights": "{\"41049\": 94.71, \"41021\": 5.29}",
+    "county_names_all": "Morrow|Gilliam",
+    "county_fips_all": "41049|41021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

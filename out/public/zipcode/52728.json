@@ -1,0 +1,20 @@
+{
+    "zip": 52728,
+    "lat": 41.45907,
+    "lng": -90.72592,
+    "city": "Buffalo",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 987.0,
+    "density": 124.1,
+    "county_fips": 19163,
+    "county_name": "Scott",
+    "county_weights": "{\"19163\": 100}",
+    "county_names_all": "Scott",
+    "county_fips_all": "19163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 35774,
+    "lat": 34.7611,
+    "lng": -86.22805,
+    "city": "Trenton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 153.0,
+    "density": 4.2,
+    "county_fips": 1071,
+    "county_name": "Jackson",
+    "county_weights": "{\"01071\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "01071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,16 @@
+{
+    "zip": [
+        "06103",
+        "06105",
+        "06106",
+        "06112",
+        "06114",
+        "06120"
+    ],
+    "city": "Hartford",
+    "state": "CT",
+    "lat": 41.79185,
+    "lng": -72.85107,
+    "state_name": "Connecticut",
+    "timezone": "America/New_York"
+}

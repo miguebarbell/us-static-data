@@ -1,0 +1,20 @@
+{
+    "zip": 77336,
+    "lat": 30.06842,
+    "lng": -95.10306,
+    "city": "Huffman",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12510.0,
+    "density": 135.4,
+    "county_fips": 48201,
+    "county_name": "Harris",
+    "county_weights": "{\"48201\": 100}",
+    "county_names_all": "Harris",
+    "county_fips_all": "48201",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

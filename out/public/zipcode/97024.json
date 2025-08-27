@@ -1,0 +1,20 @@
+{
+    "zip": 97024,
+    "lat": 45.54576,
+    "lng": -122.44142,
+    "city": "Fairview",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11702.0,
+    "density": 1310.6,
+    "county_fips": 41051,
+    "county_name": "Multnomah",
+    "county_weights": "{\"41051\": 100}",
+    "county_names_all": "Multnomah",
+    "county_fips_all": "41051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 45680,
+    "lat": 38.45526,
+    "lng": -82.54489,
+    "city": "South Point",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11878.0,
+    "density": 132.6,
+    "county_fips": 39087,
+    "county_name": "Lawrence",
+    "county_weights": "{\"39087\": 100}",
+    "county_names_all": "Lawrence",
+    "county_fips_all": "39087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

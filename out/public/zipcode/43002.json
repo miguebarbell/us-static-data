@@ -1,0 +1,20 @@
+{
+    "zip": 43002,
+    "lat": 40.05982,
+    "lng": -83.17305,
+    "city": "Amlin",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 711.0,
+    "density": 769.9,
+    "county_fips": 39049,
+    "county_name": "Franklin",
+    "county_weights": "{\"39049\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "39049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

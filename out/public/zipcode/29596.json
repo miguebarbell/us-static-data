@@ -1,0 +1,20 @@
+{
+    "zip": 29596,
+    "lat": 34.74456,
+    "lng": -79.83978,
+    "city": "Wallace",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1972.0,
+    "density": 11.8,
+    "county_fips": 45069,
+    "county_name": "Marlboro",
+    "county_weights": "{\"45069\": 100}",
+    "county_names_all": "Marlboro",
+    "county_fips_all": "45069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

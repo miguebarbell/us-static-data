@@ -1,0 +1,20 @@
+{
+    "zip": 40972,
+    "lat": 37.24501,
+    "lng": -83.60692,
+    "city": "Oneida",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1443.0,
+    "density": 7.5,
+    "county_fips": 21051,
+    "county_name": "Clay",
+    "county_weights": "{\"21051\": 98.79, \"21131\": 1.21}",
+    "county_names_all": "Clay|Leslie",
+    "county_fips_all": "21051|21131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

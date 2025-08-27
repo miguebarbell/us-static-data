@@ -1,0 +1,20 @@
+{
+    "zip": 76389,
+    "lat": 33.49713,
+    "lng": -98.47568,
+    "city": "Windthorst",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1475.0,
+    "density": 2.9,
+    "county_fips": 48009,
+    "county_name": "Archer",
+    "county_weights": "{\"48009\": 71.92, \"48077\": 21.36, \"48237\": 6.72}",
+    "county_names_all": "Archer|Clay|Jack",
+    "county_fips_all": "48009|48077|48237",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 6085,
+    "lat": 41.74717,
+    "lng": -72.88883,
+    "city": "Unionville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7521.0,
+    "density": 645.7,
+    "county_fips": 9110,
+    "county_name": "Capitol",
+    "county_weights": "{\"09110\": 100}",
+    "county_names_all": "Capitol",
+    "county_fips_all": "09110",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

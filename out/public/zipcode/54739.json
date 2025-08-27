@@ -1,0 +1,20 @@
+{
+    "zip": 54739,
+    "lat": 44.86177,
+    "lng": -91.70097,
+    "city": "Elk Mound",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5315.0,
+    "density": 20.0,
+    "county_fips": 55033,
+    "county_name": "Dunn",
+    "county_weights": "{\"55033\": 81.86, \"55017\": 18.0, \"55035\": 0.14}",
+    "county_names_all": "Dunn|Chippewa|Eau Claire",
+    "county_fips_all": "55033|55017|55035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

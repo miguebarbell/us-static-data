@@ -1,0 +1,20 @@
+{
+    "zip": 58384,
+    "lat": 48.59401,
+    "lng": -100.26465,
+    "city": "Willow City",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 322.0,
+    "density": 0.3,
+    "county_fips": 38009,
+    "county_name": "Bottineau",
+    "county_weights": "{\"38009\": 42.77, \"38049\": 22.36, \"38069\": 20.75, \"38079\": 14.11}",
+    "county_names_all": "Bottineau|McHenry|Pierce|Rolette",
+    "county_fips_all": "38009|38049|38069|38079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

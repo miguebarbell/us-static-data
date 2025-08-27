@@ -1,0 +1,20 @@
+{
+    "zip": 87117,
+    "lat": 34.99486,
+    "lng": -106.51697,
+    "city": "Kirtland Afb",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24.0,
+    "density": 0.2,
+    "county_fips": 35001,
+    "county_name": "Bernalillo",
+    "county_weights": "{\"35001\": 100}",
+    "county_names_all": "Bernalillo",
+    "county_fips_all": "35001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

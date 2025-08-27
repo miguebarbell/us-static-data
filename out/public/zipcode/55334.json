@@ -1,0 +1,20 @@
+{
+    "zip": 55334,
+    "lat": 44.53578,
+    "lng": -94.20772,
+    "city": "Gaylord",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2777.0,
+    "density": 12.6,
+    "county_fips": 27143,
+    "county_name": "Sibley",
+    "county_weights": "{\"27143\": 87.92, \"27103\": 11.4, \"27085\": 0.68}",
+    "county_names_all": "Sibley|Nicollet|McLeod",
+    "county_fips_all": "27143|27103|27085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

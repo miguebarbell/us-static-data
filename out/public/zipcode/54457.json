@@ -1,0 +1,20 @@
+{
+    "zip": 54457,
+    "lat": 44.22965,
+    "lng": -89.89502,
+    "city": "Nekoosa",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8262.0,
+    "density": 22.8,
+    "county_fips": 55001,
+    "county_name": "Adams",
+    "county_weights": "{\"55001\": 42.83, \"55141\": 32.36, \"55057\": 24.82}",
+    "county_names_all": "Adams|Wood|Juneau",
+    "county_fips_all": "55001|55141|55057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 96731,
+    "lat": 21.68488,
+    "lng": -157.96999,
+    "city": "Kahuku",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2827.0,
+    "density": 112.4,
+    "county_fips": 15003,
+    "county_name": "Honolulu",
+    "county_weights": "{\"15003\": 100}",
+    "county_names_all": "Honolulu",
+    "county_fips_all": "15003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "Pacific/Honolulu"
+}

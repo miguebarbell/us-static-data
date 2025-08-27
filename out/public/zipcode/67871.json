@@ -1,0 +1,20 @@
+{
+    "zip": 67871,
+    "lat": 38.49162,
+    "lng": -100.91145,
+    "city": "Scott City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5067.0,
+    "density": 2.6,
+    "county_fips": 20171,
+    "county_name": "Scott",
+    "county_weights": "{\"20171\": 87.63, \"20063\": 4.93, \"20109\": 3.25, \"20055\": 3.16, \"20203\": 1.03}",
+    "county_names_all": "Scott|Gove|Logan|Finney|Wichita",
+    "county_fips_all": "20171|20063|20109|20055|20203",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

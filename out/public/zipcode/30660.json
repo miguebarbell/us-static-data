@@ -1,0 +1,20 @@
+{
+    "zip": 30660,
+    "lat": 33.78237,
+    "lng": -82.94369,
+    "city": "Rayle",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1023.0,
+    "density": 4.0,
+    "county_fips": 13317,
+    "county_name": "Wilkes",
+    "county_weights": "{\"13317\": 62.93, \"13221\": 36.09, \"13265\": 0.98}",
+    "county_names_all": "Wilkes|Oglethorpe|Taliaferro",
+    "county_fips_all": "13317|13221|13265",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

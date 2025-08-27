@@ -1,0 +1,20 @@
+{
+    "zip": 87524,
+    "lat": 36.96986,
+    "lng": -105.5375,
+    "city": "Costilla",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 498.0,
+    "density": 44.8,
+    "county_fips": 35055,
+    "county_name": "Taos",
+    "county_weights": "{\"35055\": 100}",
+    "county_names_all": "Taos",
+    "county_fips_all": "35055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

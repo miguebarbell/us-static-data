@@ -1,0 +1,20 @@
+{
+    "zip": 37160,
+    "lat": 35.46562,
+    "lng": -86.48268,
+    "city": "Shelbyville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36422.0,
+    "density": 60.3,
+    "county_fips": 47003,
+    "county_name": "Bedford",
+    "county_weights": "{\"47003\": 97.91, \"47127\": 2.09}",
+    "county_names_all": "Bedford|Moore",
+    "county_fips_all": "47003|47127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

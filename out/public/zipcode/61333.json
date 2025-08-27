@@ -1,0 +1,20 @@
+{
+    "zip": 61333,
+    "lat": 40.98845,
+    "lng": -88.88931,
+    "city": "Long Point",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 270.0,
+    "density": 6.0,
+    "county_fips": 17105,
+    "county_name": "Livingston",
+    "county_weights": "{\"17105\": 100}",
+    "county_names_all": "Livingston",
+    "county_fips_all": "17105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

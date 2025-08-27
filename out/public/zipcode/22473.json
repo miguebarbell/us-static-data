@@ -1,0 +1,20 @@
+{
+    "zip": 22473,
+    "lat": 37.88316,
+    "lng": -76.41386,
+    "city": "Heathsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5646.0,
+    "density": 19.1,
+    "county_fips": 51133,
+    "county_name": "Northumberland",
+    "county_weights": "{\"51133\": 96.92, \"51103\": 3.08}",
+    "county_names_all": "Northumberland|Lancaster",
+    "county_fips_all": "51133|51103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

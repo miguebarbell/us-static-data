@@ -1,0 +1,20 @@
+{
+    "zip": 43541,
+    "lat": 41.30075,
+    "lng": -83.82953,
+    "city": "Milton Center",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 240.0,
+    "density": 232.8,
+    "county_fips": 39173,
+    "county_name": "Wood",
+    "county_weights": "{\"39173\": 100}",
+    "county_names_all": "Wood",
+    "county_fips_all": "39173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

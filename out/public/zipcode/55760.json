@@ -1,0 +1,20 @@
+{
+    "zip": 55760,
+    "lat": 46.62491,
+    "lng": -93.27049,
+    "city": "Mcgregor",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2831.0,
+    "density": 3.6,
+    "county_fips": 27001,
+    "county_name": "Aitkin",
+    "county_weights": "{\"27001\": 100}",
+    "county_names_all": "Aitkin",
+    "county_fips_all": "27001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

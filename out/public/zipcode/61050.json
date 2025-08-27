@@ -1,0 +1,20 @@
+{
+    "zip": 61050,
+    "lat": 42.43932,
+    "lng": -89.7319,
+    "city": "McConnell",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 284.0,
+    "density": 10.7,
+    "county_fips": 17177,
+    "county_name": "Stephenson",
+    "county_weights": "{\"17177\": 100}",
+    "county_names_all": "Stephenson",
+    "county_fips_all": "17177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

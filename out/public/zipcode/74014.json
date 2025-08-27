@@ -1,0 +1,20 @@
+{
+    "zip": 74014,
+    "lat": 36.05538,
+    "lng": -95.66819,
+    "city": "Broken Arrow",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43072.0,
+    "density": 158.4,
+    "county_fips": 40145,
+    "county_name": "Wagoner",
+    "county_weights": "{\"40145\": 100}",
+    "county_names_all": "Wagoner",
+    "county_fips_all": "40145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

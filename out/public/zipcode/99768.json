@@ -1,0 +1,20 @@
+{
+    "zip": 99768,
+    "lat": 65.38635,
+    "lng": -153.53826,
+    "city": "Ruby",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 180.0,
+    "density": 0.0,
+    "county_fips": 2290,
+    "county_name": "Yukon-Koyukuk",
+    "county_weights": "{\"02290\": 100}",
+    "county_names_all": "Yukon-Koyukuk",
+    "county_fips_all": "02290",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

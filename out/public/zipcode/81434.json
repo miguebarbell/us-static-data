@@ -1,0 +1,20 @@
+{
+    "zip": 81434,
+    "lat": 38.95384,
+    "lng": -107.35954,
+    "city": "Somerset",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 85.0,
+    "density": 0.1,
+    "county_fips": 8051,
+    "county_name": "Gunnison",
+    "county_weights": "{\"08051\": 91.77, \"08029\": 8.23}",
+    "county_names_all": "Gunnison|Delta",
+    "county_fips_all": "08051|08029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

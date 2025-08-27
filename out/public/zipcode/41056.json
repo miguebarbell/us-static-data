@@ -1,0 +1,20 @@
+{
+    "zip": 41056,
+    "lat": 38.59913,
+    "lng": -83.77576,
+    "city": "Maysville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13978.0,
+    "density": 38.7,
+    "county_fips": 21161,
+    "county_name": "Mason",
+    "county_weights": "{\"21161\": 98.23, \"21135\": 1.27, \"21069\": 0.5}",
+    "county_names_all": "Mason|Lewis|Fleming",
+    "county_fips_all": "21161|21135|21069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

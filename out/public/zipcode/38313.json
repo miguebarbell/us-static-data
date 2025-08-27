@@ -1,0 +1,20 @@
+{
+    "zip": 38313,
+    "lat": 35.60107,
+    "lng": -88.62541,
+    "city": "Beech Bluff",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3611.0,
+    "density": 18.4,
+    "county_fips": 47113,
+    "county_name": "Madison",
+    "county_weights": "{\"47113\": 55.62, \"47077\": 22.31, \"47023\": 22.07}",
+    "county_names_all": "Madison|Henderson|Chester",
+    "county_fips_all": "47113|47077|47023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

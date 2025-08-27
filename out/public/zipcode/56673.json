@@ -1,0 +1,20 @@
+{
+    "zip": 56673,
+    "lat": 48.74365,
+    "lng": -95.13896,
+    "city": "Roosevelt",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 608.0,
+    "density": 1.2,
+    "county_fips": 27077,
+    "county_name": "Lake of the Woods",
+    "county_weights": "{\"27077\": 81.18, \"27135\": 18.82}",
+    "county_names_all": "Lake of the Woods|Roseau",
+    "county_fips_all": "27077|27135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

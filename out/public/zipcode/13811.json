@@ -1,0 +1,20 @@
+{
+    "zip": 13811,
+    "lat": 42.23099,
+    "lng": -76.17481,
+    "city": "Newark Valley",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4102.0,
+    "density": 25.5,
+    "county_fips": 36107,
+    "county_name": "Tioga",
+    "county_weights": "{\"36107\": 91.0, \"36007\": 9.0}",
+    "county_names_all": "Tioga|Broome",
+    "county_fips_all": "36107|36007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

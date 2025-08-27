@@ -1,0 +1,20 @@
+{
+    "zip": 96770,
+    "lat": 21.13465,
+    "lng": -157.20354,
+    "city": "Maunaloa",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 548.0,
+    "density": 2.9,
+    "county_fips": 15009,
+    "county_name": "Maui",
+    "county_weights": "{\"15009\": 100}",
+    "county_names_all": "Maui",
+    "county_fips_all": "15009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "Pacific/Honolulu"
+}

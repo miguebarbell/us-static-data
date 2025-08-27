@@ -1,0 +1,20 @@
+{
+    "zip": 21077,
+    "lat": 39.1583,
+    "lng": -76.69953,
+    "city": "Harmans",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 137.0,
+    "density": 120.6,
+    "county_fips": 24003,
+    "county_name": "Anne Arundel",
+    "county_weights": "{\"24003\": 100}",
+    "county_names_all": "Anne Arundel",
+    "county_fips_all": "24003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

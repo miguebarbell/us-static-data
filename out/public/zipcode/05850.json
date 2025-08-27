@@ -1,0 +1,20 @@
+{
+    "zip": 5850,
+    "lat": 44.55955,
+    "lng": -72.03417,
+    "city": "Lyndon Center",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 351.0,
+    "density": 97.0,
+    "county_fips": 50005,
+    "county_name": "Caledonia",
+    "county_weights": "{\"50005\": 100}",
+    "county_names_all": "Caledonia",
+    "county_fips_all": "50005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

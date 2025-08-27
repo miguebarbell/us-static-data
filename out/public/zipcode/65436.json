@@ -1,0 +1,20 @@
+{
+    "zip": 65436,
+    "lat": 37.62239,
+    "lng": -91.9726,
+    "city": "Beulah",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 29161,
+    "county_name": "Phelps",
+    "county_weights": "{\"29161\": 95.23, \"29215\": 4.77}",
+    "county_names_all": "Phelps|Texas",
+    "county_fips_all": "29161|29215",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

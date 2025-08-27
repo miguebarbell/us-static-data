@@ -1,0 +1,20 @@
+{
+    "zip": 70427,
+    "lat": 30.74587,
+    "lng": -89.9125,
+    "city": "Bogalusa",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17564.0,
+    "density": 48.0,
+    "county_fips": 22117,
+    "county_name": "Washington",
+    "county_weights": "{\"22117\": 90.01, \"22103\": 9.99}",
+    "county_names_all": "Washington|St. Tammany",
+    "county_fips_all": "22117|22103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

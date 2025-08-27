@@ -1,0 +1,20 @@
+{
+    "zip": 49680,
+    "lat": 44.64174,
+    "lng": -85.25089,
+    "city": "South Boardman",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2125.0,
+    "density": 14.8,
+    "county_fips": 26079,
+    "county_name": "Kalkaska",
+    "county_weights": "{\"26079\": 100}",
+    "county_names_all": "Kalkaska",
+    "county_fips_all": "26079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 70730,
+    "lat": 30.81588,
+    "lng": -91.10869,
+    "city": "Ethel",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3520.0,
+    "density": 18.8,
+    "county_fips": 22037,
+    "county_name": "East Feliciana",
+    "county_weights": "{\"22037\": 100}",
+    "county_names_all": "East Feliciana",
+    "county_fips_all": "22037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

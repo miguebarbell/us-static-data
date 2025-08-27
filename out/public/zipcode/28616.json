@@ -1,0 +1,20 @@
+{
+    "zip": 28616,
+    "lat": 36.02138,
+    "lng": -81.93021,
+    "city": "Crossnore",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 129.0,
+    "density": 94.2,
+    "county_fips": 37011,
+    "county_name": "Avery",
+    "county_weights": "{\"37011\": 100}",
+    "county_names_all": "Avery",
+    "county_fips_all": "37011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

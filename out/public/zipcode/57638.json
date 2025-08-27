@@ -1,0 +1,20 @@
+{
+    "zip": 57638,
+    "lat": 45.86899,
+    "lng": -102.20758,
+    "city": "Lemmon",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1963.0,
+    "density": 0.7,
+    "county_fips": 46105,
+    "county_name": "Perkins",
+    "county_weights": "{\"46105\": 60.42, \"38001\": 25.18, \"38037\": 5.1, \"38085\": 4.66, \"46031\": 4.64}",
+    "county_names_all": "Perkins|Adams|Grant|Sioux|Corson",
+    "county_fips_all": "46105|38001|38037|38085|46031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

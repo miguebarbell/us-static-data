@@ -1,0 +1,20 @@
+{
+    "zip": 18071,
+    "lat": 40.83098,
+    "lng": -75.57843,
+    "city": "Palmerton",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11047.0,
+    "density": 137.1,
+    "county_fips": 42025,
+    "county_name": "Carbon",
+    "county_weights": "{\"42025\": 96.89, \"42089\": 3.11}",
+    "county_names_all": "Carbon|Monroe",
+    "county_fips_all": "42025|42089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

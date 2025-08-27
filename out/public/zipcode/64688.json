@@ -1,0 +1,20 @@
+{
+    "zip": 64688,
+    "lat": 39.8139,
+    "lng": -93.37664,
+    "city": "Wheeling",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 718.0,
+    "density": 4.2,
+    "county_fips": 29117,
+    "county_name": "Livingston",
+    "county_weights": "{\"29117\": 74.33, \"29115\": 25.67}",
+    "county_names_all": "Livingston|Linn",
+    "county_fips_all": "29117|29115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

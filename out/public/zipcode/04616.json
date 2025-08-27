@@ -1,0 +1,20 @@
+{
+    "zip": 4616,
+    "lat": 44.28346,
+    "lng": -68.57069,
+    "city": "Brooklin",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 817.0,
+    "density": 17.6,
+    "county_fips": 23009,
+    "county_name": "Hancock",
+    "county_weights": "{\"23009\": 100}",
+    "county_names_all": "Hancock",
+    "county_fips_all": "23009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

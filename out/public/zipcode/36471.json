@@ -1,0 +1,20 @@
+{
+    "zip": 36471,
+    "lat": 31.62616,
+    "lng": -87.22861,
+    "city": "Peterman",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 665.0,
+    "density": 2.7,
+    "county_fips": 1099,
+    "county_name": "Monroe",
+    "county_weights": "{\"01099\": 90.14, \"01035\": 9.86}",
+    "county_names_all": "Monroe|Conecuh",
+    "county_fips_all": "01099|01035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

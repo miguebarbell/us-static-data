@@ -1,0 +1,20 @@
+{
+    "zip": 80102,
+    "lat": 39.73237,
+    "lng": -104.43874,
+    "city": "Bennett",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5994.0,
+    "density": 7.9,
+    "county_fips": 8001,
+    "county_name": "Adams",
+    "county_weights": "{\"08001\": 48.72, \"08005\": 36.4, \"08039\": 14.88}",
+    "county_names_all": "Adams|Arapahoe|Elbert",
+    "county_fips_all": "08001|08005|08039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

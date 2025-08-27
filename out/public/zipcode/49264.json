@@ -1,0 +1,20 @@
+{
+    "zip": 49264,
+    "lat": 42.44118,
+    "lng": -84.55122,
+    "city": "Onondaga",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1571.0,
+    "density": 22.7,
+    "county_fips": 26065,
+    "county_name": "Ingham",
+    "county_weights": "{\"26065\": 71.83, \"26075\": 26.3, \"26045\": 1.87}",
+    "county_names_all": "Ingham|Jackson|Eaton",
+    "county_fips_all": "26065|26075|26045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

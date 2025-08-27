@@ -1,0 +1,20 @@
+{
+    "zip": 24256,
+    "lat": 37.22344,
+    "lng": -82.28503,
+    "city": "Haysi",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2965.0,
+    "density": 20.9,
+    "county_fips": 51051,
+    "county_name": "Dickenson",
+    "county_weights": "{\"51051\": 82.43, \"51027\": 17.57}",
+    "county_names_all": "Dickenson|Buchanan",
+    "county_fips_all": "51051|51027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

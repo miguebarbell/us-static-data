@@ -1,0 +1,20 @@
+{
+    "zip": 48471,
+    "lat": 43.41868,
+    "lng": -82.85369,
+    "city": "Sandusky",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5518.0,
+    "density": 21.1,
+    "county_fips": 26151,
+    "county_name": "Sanilac",
+    "county_weights": "{\"26151\": 100}",
+    "county_names_all": "Sanilac",
+    "county_fips_all": "26151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 44827,
+    "lat": 40.81921,
+    "lng": -82.75923,
+    "city": "Crestline",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7009.0,
+    "density": 55.8,
+    "county_fips": 39033,
+    "county_name": "Crawford",
+    "county_weights": "{\"39033\": 78.14, \"39139\": 21.86}",
+    "county_names_all": "Crawford|Richland",
+    "county_fips_all": "39033|39139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

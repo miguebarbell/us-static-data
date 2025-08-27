@@ -1,0 +1,20 @@
+{
+    "zip": 72479,
+    "lat": 35.62924,
+    "lng": -90.90535,
+    "city": "Weiner",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1017.0,
+    "density": 2.1,
+    "county_fips": 5111,
+    "county_name": "Poinsett",
+    "county_weights": "{\"05111\": 87.86, \"05067\": 6.63, \"05031\": 5.51}",
+    "county_names_all": "Poinsett|Jackson|Craighead",
+    "county_fips_all": "05111|05067|05031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

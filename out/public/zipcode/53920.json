@@ -1,0 +1,20 @@
+{
+    "zip": 53920,
+    "lat": 43.66579,
+    "lng": -89.60364,
+    "city": "Briggsville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 544.0,
+    "density": 36.8,
+    "county_fips": 55001,
+    "county_name": "Adams",
+    "county_weights": "{\"55001\": 50.85, \"55077\": 49.15}",
+    "county_names_all": "Adams|Marquette",
+    "county_fips_all": "55001|55077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

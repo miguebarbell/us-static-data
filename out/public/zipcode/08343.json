@@ -1,0 +1,20 @@
+{
+    "zip": 8343,
+    "lat": 39.64057,
+    "lng": -75.1699,
+    "city": "Monroeville",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4438.0,
+    "density": 53.1,
+    "county_fips": 34033,
+    "county_name": "Salem",
+    "county_weights": "{\"34033\": 51.41, \"34015\": 48.59}",
+    "county_names_all": "Salem|Gloucester",
+    "county_fips_all": "34033|34015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

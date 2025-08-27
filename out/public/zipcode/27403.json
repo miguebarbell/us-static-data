@@ -1,0 +1,20 @@
+{
+    "zip": 27403,
+    "lat": 36.06406,
+    "lng": -79.82538,
+    "city": "Greensboro",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20675.0,
+    "density": 1385.2,
+    "county_fips": 37081,
+    "county_name": "Guilford",
+    "county_weights": "{\"37081\": 100}",
+    "county_names_all": "Guilford",
+    "county_fips_all": "37081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

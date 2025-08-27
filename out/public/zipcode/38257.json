@@ -1,0 +1,20 @@
+{
+    "zip": 38257,
+    "lat": 36.46386,
+    "lng": -88.88397,
+    "city": "South Fulton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4205.0,
+    "density": 29.3,
+    "county_fips": 47131,
+    "county_name": "Obion",
+    "county_weights": "{\"47131\": 85.93, \"47183\": 14.07}",
+    "county_names_all": "Obion|Weakley",
+    "county_fips_all": "47131|47183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

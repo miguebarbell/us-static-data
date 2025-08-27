@@ -1,0 +1,20 @@
+{
+    "zip": 27360,
+    "lat": 35.85684,
+    "lng": -80.09987,
+    "city": "Thomasville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 48520.0,
+    "density": 211.8,
+    "county_fips": 37057,
+    "county_name": "Davidson",
+    "county_weights": "{\"37057\": 87.83, \"37151\": 12.17}",
+    "county_names_all": "Davidson|Randolph",
+    "county_fips_all": "37057|37151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

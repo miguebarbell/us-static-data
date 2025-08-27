@@ -1,0 +1,20 @@
+{
+    "zip": 16845,
+    "lat": 41.15641,
+    "lng": -78.02422,
+    "city": "Karthaus",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 955.0,
+    "density": 3.7,
+    "county_fips": 42027,
+    "county_name": "Centre",
+    "county_weights": "{\"42027\": 63.45, \"42033\": 35.92, \"42035\": 0.63}",
+    "county_names_all": "Centre|Clearfield|Clinton",
+    "county_fips_all": "42027|42033|42035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

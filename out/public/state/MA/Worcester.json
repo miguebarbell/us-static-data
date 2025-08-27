@@ -1,0 +1,19 @@
+{
+    "zip": [
+        "01602",
+        "01603",
+        "01604",
+        "01605",
+        "01606",
+        "01607",
+        "01608",
+        "01609",
+        "01610"
+    ],
+    "city": "Worcester",
+    "state": "MA",
+    "lat": 42.06262,
+    "lng": -72.62521,
+    "state_name": "Massachusetts",
+    "timezone": "America/New_York"
+}

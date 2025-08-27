@@ -1,0 +1,20 @@
+{
+    "zip": 31784,
+    "lat": 31.25671,
+    "lng": -84.0431,
+    "city": "Sale City",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 601.0,
+    "density": 7.1,
+    "county_fips": 13205,
+    "county_name": "Mitchell",
+    "county_weights": "{\"13205\": 100}",
+    "county_names_all": "Mitchell",
+    "county_fips_all": "13205",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

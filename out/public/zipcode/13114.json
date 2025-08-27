@@ -1,0 +1,20 @@
+{
+    "zip": 13114,
+    "lat": 43.46386,
+    "lng": -76.24328,
+    "city": "Mexico",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7313.0,
+    "density": 44.8,
+    "county_fips": 36075,
+    "county_name": "Oswego",
+    "county_weights": "{\"36075\": 100}",
+    "county_names_all": "Oswego",
+    "county_fips_all": "36075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 46902,
+    "lat": 40.43743,
+    "lng": -86.09111,
+    "city": "Kokomo",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36640.0,
+    "density": 279.0,
+    "county_fips": 18067,
+    "county_name": "Howard",
+    "county_weights": "{\"18067\": 97.65, \"18159\": 2.35}",
+    "county_names_all": "Howard|Tipton",
+    "county_fips_all": "18067|18159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

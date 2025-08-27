@@ -1,0 +1,20 @@
+{
+    "zip": 78352,
+    "lat": 27.98154,
+    "lng": -97.68978,
+    "city": "Edroy",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 51.0,
+    "density": 4.8,
+    "county_fips": 48409,
+    "county_name": "San Patricio",
+    "county_weights": "{\"48409\": 100}",
+    "county_names_all": "San Patricio",
+    "county_fips_all": "48409",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

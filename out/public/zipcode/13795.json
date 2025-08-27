@@ -1,0 +1,20 @@
+{
+    "zip": 13795,
+    "lat": 42.05844,
+    "lng": -75.77419,
+    "city": "Kirkwood",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3180.0,
+    "density": 51.4,
+    "county_fips": 36007,
+    "county_name": "Broome",
+    "county_weights": "{\"36007\": 100}",
+    "county_names_all": "Broome",
+    "county_fips_all": "36007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

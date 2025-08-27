@@ -1,0 +1,20 @@
+{
+    "zip": 24315,
+    "lat": 37.1393,
+    "lng": -81.0534,
+    "city": "Bland",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3789.0,
+    "density": 8.6,
+    "county_fips": 51021,
+    "county_name": "Bland",
+    "county_weights": "{\"51021\": 95.66, \"51071\": 4.34}",
+    "county_names_all": "Bland|Giles",
+    "county_fips_all": "51021|51071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

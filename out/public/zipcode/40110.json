@@ -1,0 +1,20 @@
+{
+    "zip": 40110,
+    "lat": 37.93478,
+    "lng": -85.64015,
+    "city": "Clermont",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 478.0,
+    "density": 36.9,
+    "county_fips": 21029,
+    "county_name": "Bullitt",
+    "county_weights": "{\"21029\": 100}",
+    "county_names_all": "Bullitt",
+    "county_fips_all": "21029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

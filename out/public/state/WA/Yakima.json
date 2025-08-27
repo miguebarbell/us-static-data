@@ -1,0 +1,14 @@
+{
+    "zip": [
+        "98901",
+        "98902",
+        "98903",
+        "98908"
+    ],
+    "city": "Yakima",
+    "state": "WA",
+    "lat": 47.30919,
+    "lng": -122.26426,
+    "state_name": "Washington",
+    "timezone": "America/Los_Angeles"
+}

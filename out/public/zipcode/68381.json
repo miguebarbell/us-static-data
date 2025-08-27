@@ -1,0 +1,20 @@
+{
+    "zip": 68381,
+    "lat": 40.07979,
+    "lng": -96.48176,
+    "city": "Liberty",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 135.0,
+    "density": 0.9,
+    "county_fips": 31067,
+    "county_name": "Gage",
+    "county_weights": "{\"31067\": 71.33, \"31133\": 28.67}",
+    "county_names_all": "Gage|Pawnee",
+    "county_fips_all": "31067|31133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 76271,
+    "lat": 33.46953,
+    "lng": -96.91412,
+    "city": "Tioga",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1864.0,
+    "density": 16.6,
+    "county_fips": 48181,
+    "county_name": "Grayson",
+    "county_weights": "{\"48181\": 59.15, \"48097\": 40.85}",
+    "county_names_all": "Grayson|Cooke",
+    "county_fips_all": "48181|48097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

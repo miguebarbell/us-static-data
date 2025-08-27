@@ -1,0 +1,20 @@
+{
+    "zip": 98237,
+    "lat": 48.53272,
+    "lng": -121.69748,
+    "city": "Concrete",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5110.0,
+    "density": 4.7,
+    "county_fips": 53057,
+    "county_name": "Skagit",
+    "county_weights": "{\"53057\": 83.35, \"53073\": 16.65}",
+    "county_names_all": "Skagit|Whatcom",
+    "county_fips_all": "53057|53073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

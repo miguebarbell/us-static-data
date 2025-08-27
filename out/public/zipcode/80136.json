@@ -1,0 +1,20 @@
+{
+    "zip": 80136,
+    "lat": 39.80729,
+    "lng": -104.29613,
+    "city": "Strasburg",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5965.0,
+    "density": 10.9,
+    "county_fips": 8001,
+    "county_name": "Adams",
+    "county_weights": "{\"08001\": 68.68, \"08005\": 31.32}",
+    "county_names_all": "Adams|Arapahoe",
+    "county_fips_all": "08001|08005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

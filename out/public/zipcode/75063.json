@@ -1,0 +1,20 @@
+{
+    "zip": 75063,
+    "lat": 32.90797,
+    "lng": -96.9961,
+    "city": "Irving",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 45486.0,
+    "density": 868.2,
+    "county_fips": 48113,
+    "county_name": "Dallas",
+    "county_weights": "{\"48113\": 100}",
+    "county_names_all": "Dallas",
+    "county_fips_all": "48113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

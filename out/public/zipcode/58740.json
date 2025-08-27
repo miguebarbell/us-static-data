@@ -1,0 +1,20 @@
+{
+    "zip": 58740,
+    "lat": 48.4711,
+    "lng": -101.22744,
+    "city": "Glenburn",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 744.0,
+    "density": 1.7,
+    "county_fips": 38075,
+    "county_name": "Renville",
+    "county_weights": "{\"38075\": 58.3, \"38101\": 37.01, \"38009\": 2.38, \"38049\": 2.31}",
+    "county_names_all": "Renville|Ward|Bottineau|McHenry",
+    "county_fips_all": "38075|38101|38009|38049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

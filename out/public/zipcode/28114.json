@@ -1,0 +1,20 @@
+{
+    "zip": 28114,
+    "lat": 35.23,
+    "lng": -81.74814,
+    "city": "Mooresboro",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7568.0,
+    "density": 44.5,
+    "county_fips": 37045,
+    "county_name": "Cleveland",
+    "county_weights": "{\"37045\": 54.43, \"37161\": 45.57}",
+    "county_names_all": "Cleveland|Rutherford",
+    "county_fips_all": "37045|37161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

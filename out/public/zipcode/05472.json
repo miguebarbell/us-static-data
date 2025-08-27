@@ -1,0 +1,20 @@
+{
+    "zip": 5472,
+    "lat": 44.11377,
+    "lng": -73.1611,
+    "city": "New Haven",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1957.0,
+    "density": 17.6,
+    "county_fips": 50001,
+    "county_name": "Addison",
+    "county_weights": "{\"50001\": 100}",
+    "county_names_all": "Addison",
+    "county_fips_all": "50001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 12859,
+    "lat": 43.16587,
+    "lng": -73.90569,
+    "city": "Porter Corners",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1629.0,
+    "density": 31.6,
+    "county_fips": 36091,
+    "county_name": "Saratoga",
+    "county_weights": "{\"36091\": 100}",
+    "county_names_all": "Saratoga",
+    "county_fips_all": "36091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

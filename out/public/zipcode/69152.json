@@ -1,0 +1,20 @@
+{
+    "zip": 69152,
+    "lat": 42.08697,
+    "lng": -101.12216,
+    "city": "Mullen",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 707.0,
+    "density": 0.2,
+    "county_fips": 31091,
+    "county_name": "Hooker",
+    "county_weights": "{\"31091\": 50.94, \"31031\": 49.06}",
+    "county_names_all": "Hooker|Cherry",
+    "county_fips_all": "31091|31031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

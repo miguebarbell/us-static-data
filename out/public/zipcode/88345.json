@@ -1,0 +1,20 @@
+{
+    "zip": 88345,
+    "lat": 33.35127,
+    "lng": -105.67092,
+    "city": "Ruidoso",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7747.0,
+    "density": 76.0,
+    "county_fips": 35027,
+    "county_name": "Lincoln",
+    "county_weights": "{\"35027\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "35027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

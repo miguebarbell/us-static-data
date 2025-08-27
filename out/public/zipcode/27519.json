@@ -1,0 +1,20 @@
+{
+    "zip": 27519,
+    "lat": 35.80815,
+    "lng": -78.88711,
+    "city": "Cary",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 67976.0,
+    "density": 1177.4,
+    "county_fips": 37183,
+    "county_name": "Wake",
+    "county_weights": "{\"37183\": 91.86, \"37037\": 8.14}",
+    "county_names_all": "Wake|Chatham",
+    "county_fips_all": "37183|37037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

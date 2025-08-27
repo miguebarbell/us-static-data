@@ -1,0 +1,20 @@
+{
+    "zip": 45368,
+    "lat": 39.84376,
+    "lng": -83.65413,
+    "city": "South Charleston",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3860.0,
+    "density": 18.8,
+    "county_fips": 39023,
+    "county_name": "Clark",
+    "county_weights": "{\"39023\": 93.17, \"39057\": 6.83}",
+    "county_names_all": "Clark|Greene",
+    "county_fips_all": "39023|39057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

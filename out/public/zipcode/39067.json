@@ -1,0 +1,20 @@
+{
+    "zip": 39067,
+    "lat": 33.11574,
+    "lng": -89.44853,
+    "city": "Ethel",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1072.0,
+    "density": 4.0,
+    "county_fips": 28007,
+    "county_name": "Attala",
+    "county_weights": "{\"28007\": 100}",
+    "county_names_all": "Attala",
+    "county_fips_all": "28007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

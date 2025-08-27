@@ -1,0 +1,20 @@
+{
+    "zip": 24589,
+    "lat": 36.75528,
+    "lng": -78.75555,
+    "city": "Scottsburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1859.0,
+    "density": 9.5,
+    "county_fips": 51083,
+    "county_name": "Halifax",
+    "county_weights": "{\"51083\": 100}",
+    "county_names_all": "Halifax",
+    "county_fips_all": "51083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

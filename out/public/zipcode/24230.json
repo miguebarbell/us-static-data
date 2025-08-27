@@ -1,0 +1,20 @@
+{
+    "zip": 24230,
+    "lat": 36.96928,
+    "lng": -82.45449,
+    "city": "Coeburn",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7057.0,
+    "density": 22.0,
+    "county_fips": 51195,
+    "county_name": "Wise",
+    "county_weights": "{\"51195\": 58.47, \"51051\": 34.02, \"51169\": 7.51}",
+    "county_names_all": "Wise|Dickenson|Scott",
+    "county_fips_all": "51195|51051|51169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43021,
+    "lat": 40.20301,
+    "lng": -82.88476,
+    "city": "Galena",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14855.0,
+    "density": 147.5,
+    "county_fips": 39041,
+    "county_name": "Delaware",
+    "county_weights": "{\"39041\": 100}",
+    "county_names_all": "Delaware",
+    "county_fips_all": "39041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

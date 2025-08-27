@@ -1,0 +1,20 @@
+{
+    "zip": 64739,
+    "lat": 38.51139,
+    "lng": -94.09389,
+    "city": "Creighton",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1074.0,
+    "density": 7.9,
+    "county_fips": 29037,
+    "county_name": "Cass",
+    "county_weights": "{\"29037\": 71.48, \"29083\": 28.52}",
+    "county_names_all": "Cass|Henry",
+    "county_fips_all": "29037|29083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

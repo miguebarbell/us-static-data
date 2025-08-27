@@ -1,0 +1,20 @@
+{
+    "zip": 95245,
+    "lat": 38.30189,
+    "lng": -120.61975,
+    "city": "Mokelumne Hill",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3227.0,
+    "density": 17.8,
+    "county_fips": 6009,
+    "county_name": "Calaveras",
+    "county_weights": "{\"06009\": 100}",
+    "county_names_all": "Calaveras",
+    "county_fips_all": "06009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

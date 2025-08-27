@@ -1,0 +1,20 @@
+{
+    "zip": 62947,
+    "lat": 37.55676,
+    "lng": -88.4348,
+    "city": "Herod",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 478.0,
+    "density": 2.5,
+    "county_fips": 17151,
+    "county_name": "Pope",
+    "county_weights": "{\"17151\": 58.03, \"17069\": 33.91, \"17165\": 8.06}",
+    "county_names_all": "Pope|Hardin|Saline",
+    "county_fips_all": "17151|17069|17165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

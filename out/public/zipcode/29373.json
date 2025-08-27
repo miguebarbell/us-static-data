@@ -1,0 +1,20 @@
+{
+    "zip": 29373,
+    "lat": 34.92442,
+    "lng": -81.74276,
+    "city": "Pacolet Mills",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 293.0,
+    "density": 358.0,
+    "county_fips": 45083,
+    "county_name": "Spartanburg",
+    "county_weights": "{\"45083\": 100}",
+    "county_names_all": "Spartanburg",
+    "county_fips_all": "45083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 15063,
+    "lat": 40.19487,
+    "lng": -79.92228,
+    "city": "Monongahela",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10479.0,
+    "density": 147.5,
+    "county_fips": 42125,
+    "county_name": "Washington",
+    "county_weights": "{\"42125\": 60.86, \"42003\": 39.14}",
+    "county_names_all": "Washington|Allegheny",
+    "county_fips_all": "42125|42003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

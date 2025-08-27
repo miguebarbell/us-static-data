@@ -1,0 +1,20 @@
+{
+    "zip": 78039,
+    "lat": 29.31324,
+    "lng": -98.82528,
+    "city": "La Coste",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2311.0,
+    "density": 43.0,
+    "county_fips": 48325,
+    "county_name": "Medina",
+    "county_weights": "{\"48325\": 70.91, \"48029\": 29.09}",
+    "county_names_all": "Medina|Bexar",
+    "county_fips_all": "48325|48029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

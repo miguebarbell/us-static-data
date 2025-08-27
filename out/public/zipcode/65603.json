@@ -1,0 +1,20 @@
+{
+    "zip": 65603,
+    "lat": 37.54574,
+    "lng": -93.86072,
+    "city": "Arcola",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 113.0,
+    "density": 2.2,
+    "county_fips": 29057,
+    "county_name": "Dade",
+    "county_weights": "{\"29057\": 100}",
+    "county_names_all": "Dade",
+    "county_fips_all": "29057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

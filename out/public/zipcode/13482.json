@@ -1,0 +1,20 @@
+{
+    "zip": 13482,
+    "lat": 42.69661,
+    "lng": -75.17695,
+    "city": "West Burlington",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 73.0,
+    "density": 6.5,
+    "county_fips": 36077,
+    "county_name": "Otsego",
+    "county_weights": "{\"36077\": 100}",
+    "county_names_all": "Otsego",
+    "county_fips_all": "36077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

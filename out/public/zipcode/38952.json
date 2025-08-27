@@ -1,0 +1,20 @@
+{
+    "zip": 38952,
+    "lat": 33.63041,
+    "lng": -90.33711,
+    "city": "Schlater",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 365.0,
+    "density": 1.3,
+    "county_fips": 28083,
+    "county_name": "Leflore",
+    "county_weights": "{\"28083\": 100}",
+    "county_names_all": "Leflore",
+    "county_fips_all": "28083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 5444,
+    "lat": 44.62628,
+    "lng": -72.88242,
+    "city": "Cambridge",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1711.0,
+    "density": 23.6,
+    "county_fips": 50015,
+    "county_name": "Lamoille",
+    "county_weights": "{\"50015\": 60.09, \"50011\": 39.07, \"50007\": 0.84}",
+    "county_names_all": "Lamoille|Franklin|Chittenden",
+    "county_fips_all": "50015|50011|50007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

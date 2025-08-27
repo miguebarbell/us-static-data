@@ -1,0 +1,20 @@
+{
+    "zip": 77446,
+    "lat": 30.0871,
+    "lng": -95.9895,
+    "city": "Prairie View",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6060.0,
+    "density": 881.8,
+    "county_fips": 48473,
+    "county_name": "Waller",
+    "county_weights": "{\"48473\": 100}",
+    "county_names_all": "Waller",
+    "county_fips_all": "48473",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

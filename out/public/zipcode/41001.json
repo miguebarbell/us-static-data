@@ -1,0 +1,20 @@
+{
+    "zip": 41001,
+    "lat": 38.91409,
+    "lng": -84.40256,
+    "city": "Alexandria",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19206.0,
+    "density": 143.5,
+    "county_fips": 21037,
+    "county_name": "Campbell",
+    "county_weights": "{\"21037\": 100}",
+    "county_names_all": "Campbell",
+    "county_fips_all": "21037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

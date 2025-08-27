@@ -1,0 +1,20 @@
+{
+    "zip": 81611,
+    "lat": 39.14561,
+    "lng": -106.74885,
+    "city": "Aspen",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9232.0,
+    "density": 11.7,
+    "county_fips": 8097,
+    "county_name": "Pitkin",
+    "county_weights": "{\"08097\": 100}",
+    "county_names_all": "Pitkin",
+    "county_fips_all": "08097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

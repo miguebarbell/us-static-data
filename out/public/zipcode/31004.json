@@ -1,0 +1,20 @@
+{
+    "zip": 31004,
+    "lat": 32.95167,
+    "lng": -83.80536,
+    "city": "Bolingbroke",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 13207,
+    "county_name": "Monroe",
+    "county_weights": "{\"13207\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "13207",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

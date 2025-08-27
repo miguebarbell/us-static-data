@@ -1,0 +1,20 @@
+{
+    "zip": 54968,
+    "lat": 43.84872,
+    "lng": -89.13255,
+    "city": "Princeton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2742.0,
+    "density": 17.2,
+    "county_fips": 55047,
+    "county_name": "Green Lake",
+    "county_weights": "{\"55047\": 81.88, \"55077\": 18.12}",
+    "county_names_all": "Green Lake|Marquette",
+    "county_fips_all": "55047|55077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

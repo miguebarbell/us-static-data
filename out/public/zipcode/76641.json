@@ -1,0 +1,20 @@
+{
+    "zip": 76641,
+    "lat": 32.03847,
+    "lng": -96.78723,
+    "city": "Frost",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2094.0,
+    "density": 11.2,
+    "county_fips": 48349,
+    "county_name": "Navarro",
+    "county_weights": "{\"48349\": 91.53, \"48139\": 8.47}",
+    "county_names_all": "Navarro|Ellis",
+    "county_fips_all": "48349|48139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

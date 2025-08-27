@@ -1,0 +1,20 @@
+{
+    "zip": 56258,
+    "lat": 44.44121,
+    "lng": -95.75906,
+    "city": "Marshall",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15843.0,
+    "density": 31.6,
+    "county_fips": 27083,
+    "county_name": "Lyon",
+    "county_weights": "{\"27083\": 96.02, \"27127\": 3.98}",
+    "county_names_all": "Lyon|Redwood",
+    "county_fips_all": "27083|27127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

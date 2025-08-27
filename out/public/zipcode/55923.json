@@ -1,0 +1,20 @@
+{
+    "zip": 55923,
+    "lat": 43.8494,
+    "lng": -92.18315,
+    "city": "Chatfield",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4387.0,
+    "density": 13.4,
+    "county_fips": 27045,
+    "county_name": "Fillmore",
+    "county_weights": "{\"27045\": 50.38, \"27109\": 46.37, \"27169\": 3.25}",
+    "county_names_all": "Fillmore|Olmsted|Winona",
+    "county_fips_all": "27045|27109|27169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

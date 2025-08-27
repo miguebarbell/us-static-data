@@ -1,0 +1,20 @@
+{
+    "zip": 68379,
+    "lat": 40.52908,
+    "lng": -95.86979,
+    "city": "Julian",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42.0,
+    "density": 13.0,
+    "county_fips": 31131,
+    "county_name": "Otoe",
+    "county_weights": "{\"31131\": 92.63, \"31127\": 7.37}",
+    "county_names_all": "Otoe|Nemaha",
+    "county_fips_all": "31131|31127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

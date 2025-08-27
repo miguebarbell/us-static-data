@@ -1,0 +1,20 @@
+{
+    "zip": 32464,
+    "lat": 30.89687,
+    "lng": -85.95592,
+    "city": "Westville",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3914.0,
+    "density": 8.6,
+    "county_fips": 12059,
+    "county_name": "Holmes",
+    "county_weights": "{\"12059\": 81.84, \"12131\": 18.16}",
+    "county_names_all": "Holmes|Walton",
+    "county_fips_all": "12059|12131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

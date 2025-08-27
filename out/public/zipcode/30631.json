@@ -1,0 +1,20 @@
+{
+    "zip": 30631,
+    "lat": 33.56553,
+    "lng": -82.87034,
+    "city": "Crawfordville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1927.0,
+    "density": 4.1,
+    "county_fips": 13265,
+    "county_name": "Taliaferro",
+    "county_weights": "{\"13265\": 95.84, \"13317\": 2.97, \"13133\": 1.19}",
+    "county_names_all": "Taliaferro|Wilkes|Greene",
+    "county_fips_all": "13265|13317|13133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

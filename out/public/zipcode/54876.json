@@ -1,0 +1,20 @@
+{
+    "zip": 54876,
+    "lat": 45.82811,
+    "lng": -91.51439,
+    "city": "Stone Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1690.0,
+    "density": 7.0,
+    "county_fips": 55113,
+    "county_name": "Sawyer",
+    "county_weights": "{\"55113\": 60.55, \"55129\": 39.45}",
+    "county_names_all": "Sawyer|Washburn",
+    "county_fips_all": "55113|55129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

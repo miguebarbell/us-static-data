@@ -1,0 +1,20 @@
+{
+    "zip": 72040,
+    "lat": 34.96957,
+    "lng": -91.52129,
+    "city": "Des Arc",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2432.0,
+    "density": 5.4,
+    "county_fips": 5117,
+    "county_name": "Prairie",
+    "county_weights": "{\"05117\": 92.81, \"05147\": 7.19}",
+    "county_names_all": "Prairie|Woodruff",
+    "county_fips_all": "05117|05147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

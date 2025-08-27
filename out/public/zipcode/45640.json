@@ -1,0 +1,20 @@
+{
+    "zip": 45640,
+    "lat": 39.02345,
+    "lng": -82.65032,
+    "city": "Jackson",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16360.0,
+    "density": 36.2,
+    "county_fips": 39079,
+    "county_name": "Jackson",
+    "county_weights": "{\"39079\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "39079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

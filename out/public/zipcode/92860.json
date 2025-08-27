@@ -1,0 +1,20 @@
+{
+    "zip": 92860,
+    "lat": 33.9262,
+    "lng": -117.54913,
+    "city": "Norco",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25268.0,
+    "density": 691.1,
+    "county_fips": 6065,
+    "county_name": "Riverside",
+    "county_weights": "{\"06065\": 100}",
+    "county_names_all": "Riverside",
+    "county_fips_all": "06065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 75287,
+    "lat": 33.00015,
+    "lng": -96.84075,
+    "city": "Dallas",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 52727.0,
+    "density": 3676.4,
+    "county_fips": 48085,
+    "county_name": "Collin",
+    "county_weights": "{\"48085\": 58.42, \"48121\": 41.3, \"48113\": 0.28}",
+    "county_names_all": "Collin|Denton|Dallas",
+    "county_fips_all": "48085|48121|48113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

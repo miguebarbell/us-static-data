@@ -1,0 +1,20 @@
+{
+    "zip": 36528,
+    "lat": 30.25253,
+    "lng": -88.14381,
+    "city": "Dauphin Island",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1944.0,
+    "density": 119.5,
+    "county_fips": 1097,
+    "county_name": "Mobile",
+    "county_weights": "{\"01097\": 100}",
+    "county_names_all": "Mobile",
+    "county_fips_all": "01097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

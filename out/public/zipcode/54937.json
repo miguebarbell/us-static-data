@@ -1,0 +1,20 @@
+{
+    "zip": 54937,
+    "lat": 43.75959,
+    "lng": -88.43335,
+    "city": "Fond Du Lac",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21877.0,
+    "density": 70.3,
+    "county_fips": 55039,
+    "county_name": "Fond du Lac",
+    "county_weights": "{\"55039\": 100}",
+    "county_names_all": "Fond du Lac",
+    "county_fips_all": "55039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

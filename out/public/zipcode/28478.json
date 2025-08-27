@@ -1,0 +1,20 @@
+{
+    "zip": 28478,
+    "lat": 34.64217,
+    "lng": -78.04255,
+    "city": "Willard",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4591.0,
+    "density": 14.4,
+    "county_fips": 37141,
+    "county_name": "Pender",
+    "county_weights": "{\"37141\": 91.58, \"37163\": 7.09, \"37061\": 1.33}",
+    "county_names_all": "Pender|Sampson|Duplin",
+    "county_fips_all": "37141|37163|37061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 18239,
+    "lat": 40.98962,
+    "lng": -75.98154,
+    "city": "Milnesville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 42079,
+    "county_name": "Luzerne",
+    "county_weights": "{\"42079\": 100}",
+    "county_names_all": "Luzerne",
+    "county_fips_all": "42079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

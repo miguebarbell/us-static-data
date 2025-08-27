@@ -1,0 +1,20 @@
+{
+    "zip": 33414,
+    "lat": 26.64829,
+    "lng": -80.24943,
+    "city": "Wellington",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 59229.0,
+    "density": 806.8,
+    "county_fips": 12099,
+    "county_name": "Palm Beach",
+    "county_weights": "{\"12099\": 100}",
+    "county_names_all": "Palm Beach",
+    "county_fips_all": "12099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

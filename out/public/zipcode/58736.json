@@ -1,0 +1,20 @@
+{
+    "zip": 58736,
+    "lat": 47.92804,
+    "lng": -100.38732,
+    "city": "Drake",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 430.0,
+    "density": 1.0,
+    "county_fips": 38049,
+    "county_name": "McHenry",
+    "county_weights": "{\"38049\": 72.86, \"38083\": 27.14}",
+    "county_names_all": "McHenry|Sheridan",
+    "county_fips_all": "38049|38083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

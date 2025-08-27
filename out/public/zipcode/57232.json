@@ -1,0 +1,20 @@
+{
+    "zip": 57232,
+    "lat": 45.61752,
+    "lng": -97.38393,
+    "city": "Eden",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 601.0,
+    "density": 3.0,
+    "county_fips": 46091,
+    "county_name": "Marshall",
+    "county_weights": "{\"46091\": 100}",
+    "county_names_all": "Marshall",
+    "county_fips_all": "46091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

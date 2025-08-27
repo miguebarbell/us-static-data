@@ -1,0 +1,20 @@
+{
+    "zip": 63563,
+    "lat": 40.30387,
+    "lng": -92.07439,
+    "city": "Rutledge",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 551.0,
+    "density": 2.8,
+    "county_fips": 29103,
+    "county_name": "Knox",
+    "county_weights": "{\"29103\": 51.96, \"29199\": 48.04}",
+    "county_names_all": "Knox|Scotland",
+    "county_fips_all": "29103|29199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 28631,
+    "lat": 36.55218,
+    "lng": -81.40994,
+    "city": "Grassy Creek",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 724.0,
+    "density": 12.0,
+    "county_fips": 37009,
+    "county_name": "Ashe",
+    "county_weights": "{\"37009\": 90.26, \"37005\": 9.74}",
+    "county_names_all": "Ashe|Alleghany",
+    "county_fips_all": "37009|37005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

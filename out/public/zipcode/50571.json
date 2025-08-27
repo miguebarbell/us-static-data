@@ -1,0 +1,20 @@
+{
+    "zip": 50571,
+    "lat": 42.63485,
+    "lng": -94.5806,
+    "city": "Palmer",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 260.0,
+    "density": 2.1,
+    "county_fips": 19151,
+    "county_name": "Pocahontas",
+    "county_weights": "{\"19151\": 100}",
+    "county_names_all": "Pocahontas",
+    "county_fips_all": "19151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

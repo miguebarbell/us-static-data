@@ -1,0 +1,20 @@
+{
+    "zip": 52052,
+    "lat": 42.7411,
+    "lng": -91.12083,
+    "city": "Guttenberg",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2807.0,
+    "density": 12.1,
+    "county_fips": 19043,
+    "county_name": "Clayton",
+    "county_weights": "{\"19043\": 90.38, \"19061\": 9.62}",
+    "county_names_all": "Clayton|Dubuque",
+    "county_fips_all": "19043|19061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 99109,
+    "lat": 48.29787,
+    "lng": -117.69852,
+    "city": "Chewelah",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5075.0,
+    "density": 6.3,
+    "county_fips": 53065,
+    "county_name": "Stevens",
+    "county_weights": "{\"53065\": 100}",
+    "county_names_all": "Stevens",
+    "county_fips_all": "53065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

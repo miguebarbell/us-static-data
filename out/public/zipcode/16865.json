@@ -1,0 +1,20 @@
+{
+    "zip": 16865,
+    "lat": 40.72086,
+    "lng": -77.96396,
+    "city": "Pennsylvania Furnace",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1657.0,
+    "density": 27.8,
+    "county_fips": 42027,
+    "county_name": "Centre",
+    "county_weights": "{\"42027\": 84.25, \"42061\": 15.75}",
+    "county_names_all": "Centre|Huntingdon",
+    "county_fips_all": "42027|42061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

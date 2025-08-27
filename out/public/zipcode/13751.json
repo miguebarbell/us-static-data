@@ -1,0 +1,20 @@
+{
+    "zip": 13751,
+    "lat": 42.45745,
+    "lng": -74.88363,
+    "city": "Davenport Center",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 334.0,
+    "density": 39.5,
+    "county_fips": 36025,
+    "county_name": "Delaware",
+    "county_weights": "{\"36025\": 100}",
+    "county_names_all": "Delaware",
+    "county_fips_all": "36025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

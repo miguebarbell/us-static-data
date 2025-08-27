@@ -1,0 +1,20 @@
+{
+    "zip": 48756,
+    "lat": 44.23142,
+    "lng": -83.97409,
+    "city": "Prescott",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3939.0,
+    "density": 19.0,
+    "county_fips": 26129,
+    "county_name": "Ogemaw",
+    "county_weights": "{\"26129\": 99.67, \"26011\": 0.33}",
+    "county_names_all": "Ogemaw|Arenac",
+    "county_fips_all": "26129|26011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

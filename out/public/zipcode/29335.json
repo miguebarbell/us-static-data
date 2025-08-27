@@ -1,0 +1,20 @@
+{
+    "zip": 29335,
+    "lat": 34.65714,
+    "lng": -81.90035,
+    "city": "Enoree",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5751.0,
+    "density": 23.2,
+    "county_fips": 45083,
+    "county_name": "Spartanburg",
+    "county_weights": "{\"45083\": 66.79, \"45059\": 18.98, \"45087\": 14.23}",
+    "county_names_all": "Spartanburg|Laurens|Union",
+    "county_fips_all": "45083|45059|45087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 66736,
+    "lat": 37.55335,
+    "lng": -95.86381,
+    "city": "Fredonia",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3517.0,
+    "density": 4.9,
+    "county_fips": 20205,
+    "county_name": "Wilson",
+    "county_weights": "{\"20205\": 88.16, \"20049\": 9.95, \"20207\": 0.82, \"20073\": 0.54, \"20125\": 0.53}",
+    "county_names_all": "Wilson|Elk|Woodson|Greenwood|Montgomery",
+    "county_fips_all": "20205|20049|20207|20073|20125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

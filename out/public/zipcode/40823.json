@@ -1,0 +1,20 @@
+{
+    "zip": 40823,
+    "lat": 36.95664,
+    "lng": -82.98864,
+    "city": "Cumberland",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3907.0,
+    "density": 31.1,
+    "county_fips": 21095,
+    "county_name": "Harlan",
+    "county_weights": "{\"21095\": 99.85, \"21133\": 0.15}",
+    "county_names_all": "Harlan|Letcher",
+    "county_fips_all": "21095|21133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

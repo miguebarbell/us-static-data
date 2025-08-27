@@ -1,0 +1,20 @@
+{
+    "zip": 59418,
+    "lat": 46.80258,
+    "lng": -109.87849,
+    "city": "Buffalo",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 105.0,
+    "density": 0.3,
+    "county_fips": 30045,
+    "county_name": "Judith Basin",
+    "county_weights": "{\"30045\": 76.86, \"30027\": 23.14}",
+    "county_names_all": "Judith Basin|Fergus",
+    "county_fips_all": "30045|30027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

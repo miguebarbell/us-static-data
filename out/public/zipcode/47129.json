@@ -1,0 +1,20 @@
+{
+    "zip": 47129,
+    "lat": 38.31378,
+    "lng": -85.76874,
+    "city": "Clarksville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19611.0,
+    "density": 791.3,
+    "county_fips": 18019,
+    "county_name": "Clark",
+    "county_weights": "{\"18019\": 99.79, \"18043\": 0.21}",
+    "county_names_all": "Clark|Floyd",
+    "county_fips_all": "18019|18043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Kentucky/Louisville"
+}

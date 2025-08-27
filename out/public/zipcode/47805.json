@@ -1,0 +1,20 @@
+{
+    "zip": 47805,
+    "lat": 39.54768,
+    "lng": -87.32739,
+    "city": "Terre Haute",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12809.0,
+    "density": 94.8,
+    "county_fips": 18167,
+    "county_name": "Vigo",
+    "county_weights": "{\"18167\": 100}",
+    "county_names_all": "Vigo",
+    "county_fips_all": "18167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 97206,
+    "lat": 45.48173,
+    "lng": -122.5988,
+    "city": "Portland",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 50258.0,
+    "density": 3007.6,
+    "county_fips": 41051,
+    "county_name": "Multnomah",
+    "county_weights": "{\"41051\": 91.87, \"41005\": 8.13}",
+    "county_names_all": "Multnomah|Clackamas",
+    "county_fips_all": "41051|41005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

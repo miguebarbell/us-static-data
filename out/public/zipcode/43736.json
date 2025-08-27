@@ -1,0 +1,20 @@
+{
+    "zip": 43736,
+    "lat": 40.05755,
+    "lng": -81.23689,
+    "city": "Fairview",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23.0,
+    "density": 216.1,
+    "county_fips": 39059,
+    "county_name": "Guernsey",
+    "county_weights": "{\"39059\": 100}",
+    "county_names_all": "Guernsey",
+    "county_fips_all": "39059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

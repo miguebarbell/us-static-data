@@ -1,0 +1,17 @@
+{
+    "zip": [
+        "49001",
+        "49004",
+        "49006",
+        "49007",
+        "49008",
+        "49009",
+        "49048"
+    ],
+    "city": "Kalamazoo",
+    "state": "MI",
+    "lat": 42.63732,
+    "lng": -82.57949,
+    "state_name": "Michigan",
+    "timezone": "America/Detroit"
+}

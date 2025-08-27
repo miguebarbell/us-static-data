@@ -1,0 +1,20 @@
+{
+    "zip": 27596,
+    "lat": 36.00906,
+    "lng": -78.44448,
+    "city": "Youngsville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19574.0,
+    "density": 143.1,
+    "county_fips": 37069,
+    "county_name": "Franklin",
+    "county_weights": "{\"37069\": 90.88, \"37183\": 5.86, \"37077\": 3.26}",
+    "county_names_all": "Franklin|Wake|Granville",
+    "county_fips_all": "37069|37183|37077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

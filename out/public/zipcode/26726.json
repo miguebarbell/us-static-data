@@ -1,0 +1,20 @@
+{
+    "zip": 26726,
+    "lat": 39.40508,
+    "lng": -78.98222,
+    "city": "Keyser",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12619.0,
+    "density": 32.5,
+    "county_fips": 54057,
+    "county_name": "Mineral",
+    "county_weights": "{\"54057\": 85.82, \"54023\": 14.18}",
+    "county_names_all": "Mineral|Grant",
+    "county_fips_all": "54057|54023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

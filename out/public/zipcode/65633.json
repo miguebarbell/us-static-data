@@ -1,0 +1,20 @@
+{
+    "zip": 65633,
+    "lat": 36.89841,
+    "lng": -93.5346,
+    "city": "Crane",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3940.0,
+    "density": 18.1,
+    "county_fips": 29209,
+    "county_name": "Stone",
+    "county_weights": "{\"29209\": 81.13, \"29009\": 18.87}",
+    "county_names_all": "Stone|Barry",
+    "county_fips_all": "29209|29009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

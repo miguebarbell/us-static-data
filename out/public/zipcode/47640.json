@@ -1,0 +1,20 @@
+{
+    "zip": 47640,
+    "lat": 38.47708,
+    "lng": -87.49301,
+    "city": "Hazleton",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 882.0,
+    "density": 8.9,
+    "county_fips": 18051,
+    "county_name": "Gibson",
+    "county_weights": "{\"18051\": 69.02, \"18125\": 30.98}",
+    "county_names_all": "Gibson|Pike",
+    "county_fips_all": "18051|18125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Vincennes"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65675,
+    "lat": 36.93101,
+    "lng": -93.49245,
+    "city": "Hurley",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37.0,
+    "density": 110.4,
+    "county_fips": 29209,
+    "county_name": "Stone",
+    "county_weights": "{\"29209\": 100}",
+    "county_names_all": "Stone",
+    "county_fips_all": "29209",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

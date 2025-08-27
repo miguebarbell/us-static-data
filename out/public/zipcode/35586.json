@@ -1,0 +1,20 @@
+{
+    "zip": 35586,
+    "lat": 33.87332,
+    "lng": -88.13837,
+    "city": "Sulligent",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3442.0,
+    "density": 7.5,
+    "county_fips": 1075,
+    "county_name": "Lamar",
+    "county_weights": "{\"01075\": 100}",
+    "county_names_all": "Lamar",
+    "county_fips_all": "01075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 28667,
+    "lat": 35.77423,
+    "lng": -81.42793,
+    "city": "Rhodhiss",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 282.0,
+    "density": 231.9,
+    "county_fips": 37027,
+    "county_name": "Caldwell",
+    "county_weights": "{\"37027\": 85.97, \"37023\": 14.03}",
+    "county_names_all": "Caldwell|Burke",
+    "county_fips_all": "37027|37023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

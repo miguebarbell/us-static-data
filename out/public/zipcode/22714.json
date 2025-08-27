@@ -1,0 +1,20 @@
+{
+    "zip": 22714,
+    "lat": 38.52068,
+    "lng": -77.89363,
+    "city": "Brandy Station",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 785.0,
+    "density": 14.5,
+    "county_fips": 51047,
+    "county_name": "Culpeper",
+    "county_weights": "{\"51047\": 100}",
+    "county_names_all": "Culpeper",
+    "county_fips_all": "51047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

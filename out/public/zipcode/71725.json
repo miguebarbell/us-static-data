@@ -1,0 +1,20 @@
+{
+    "zip": 71725,
+    "lat": 34.03791,
+    "lng": -92.53252,
+    "city": "Carthage",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 253.0,
+    "density": 0.5,
+    "county_fips": 5039,
+    "county_name": "Dallas",
+    "county_weights": "{\"05039\": 84.24, \"05025\": 15.76}",
+    "county_names_all": "Dallas|Cleveland",
+    "county_fips_all": "05039|05025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

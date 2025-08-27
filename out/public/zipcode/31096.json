@@ -1,0 +1,20 @@
+{
+    "zip": 31096,
+    "lat": 32.71875,
+    "lng": -82.70636,
+    "city": "Wrightsville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7307.0,
+    "density": 15.6,
+    "county_fips": 13167,
+    "county_name": "Johnson",
+    "county_weights": "{\"13167\": 88.74, \"13303\": 6.9, \"13175\": 4.36}",
+    "county_names_all": "Johnson|Washington|Laurens",
+    "county_fips_all": "13167|13303|13175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

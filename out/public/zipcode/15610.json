@@ -1,0 +1,20 @@
+{
+    "zip": 15610,
+    "lat": 40.13699,
+    "lng": -79.41613,
+    "city": "Acme",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4130.0,
+    "density": 40.2,
+    "county_fips": 42129,
+    "county_name": "Westmoreland",
+    "county_weights": "{\"42129\": 67.37, \"42051\": 32.63}",
+    "county_names_all": "Westmoreland|Fayette",
+    "county_fips_all": "42129|42051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

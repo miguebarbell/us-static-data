@@ -1,0 +1,20 @@
+{
+    "zip": 37078,
+    "lat": 35.92366,
+    "lng": -87.77138,
+    "city": "Hurricane Mills",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 881.0,
+    "density": 3.5,
+    "county_fips": 47085,
+    "county_name": "Humphreys",
+    "county_weights": "{\"47085\": 97.58, \"47081\": 2.42}",
+    "county_names_all": "Humphreys|Hickman",
+    "county_fips_all": "47085|47081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 55065,
+    "lat": 44.54662,
+    "lng": -93.01835,
+    "city": "Randolph",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1320.0,
+    "density": 15.6,
+    "county_fips": 27037,
+    "county_name": "Dakota",
+    "county_weights": "{\"27037\": 98.36, \"27049\": 1.64}",
+    "county_names_all": "Dakota|Goodhue",
+    "county_fips_all": "27037|27049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

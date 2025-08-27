@@ -1,0 +1,20 @@
+{
+    "zip": 35481,
+    "lat": 33.39852,
+    "lng": -88.03934,
+    "city": "Reform",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2909.0,
+    "density": 10.2,
+    "county_fips": 1107,
+    "county_name": "Pickens",
+    "county_weights": "{\"01107\": 100}",
+    "county_names_all": "Pickens",
+    "county_fips_all": "01107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

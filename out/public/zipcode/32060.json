@@ -1,0 +1,20 @@
+{
+    "zip": 32060,
+    "lat": 30.27554,
+    "lng": -83.04935,
+    "city": "Live Oak",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22085.0,
+    "density": 21.6,
+    "county_fips": 12121,
+    "county_name": "Suwannee",
+    "county_weights": "{\"12121\": 100}",
+    "county_names_all": "Suwannee",
+    "county_fips_all": "12121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 21635,
+    "lat": 39.34006,
+    "lng": -75.83826,
+    "city": "Galena",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2200.0,
+    "density": 27.6,
+    "county_fips": 24029,
+    "county_name": "Kent",
+    "county_weights": "{\"24029\": 100}",
+    "county_names_all": "Kent",
+    "county_fips_all": "24029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

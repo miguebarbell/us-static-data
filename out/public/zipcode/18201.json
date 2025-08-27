@@ -1,0 +1,20 @@
+{
+    "zip": 18201,
+    "lat": 40.95198,
+    "lng": -75.95395,
+    "city": "Hazleton",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31428.0,
+    "density": 694.6,
+    "county_fips": 42079,
+    "county_name": "Luzerne",
+    "county_weights": "{\"42079\": 97.59, \"42025\": 2.41}",
+    "county_names_all": "Luzerne|Carbon",
+    "county_fips_all": "42079|42025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

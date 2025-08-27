@@ -1,0 +1,20 @@
+{
+    "zip": 63334,
+    "lat": 39.30747,
+    "lng": -91.18838,
+    "city": "Bowling Green",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7251.0,
+    "density": 16.8,
+    "county_fips": 29163,
+    "county_name": "Pike",
+    "county_weights": "{\"29163\": 94.91, \"29113\": 5.09}",
+    "county_names_all": "Pike|Lincoln",
+    "county_fips_all": "29163|29113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

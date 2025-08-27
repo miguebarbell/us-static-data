@@ -1,0 +1,20 @@
+{
+    "zip": 28756,
+    "lat": 35.34256,
+    "lng": -82.18219,
+    "city": "Mill Spring",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4468.0,
+    "density": 21.7,
+    "county_fips": 37149,
+    "county_name": "Polk",
+    "county_weights": "{\"37149\": 98.85, \"37161\": 1.15}",
+    "county_names_all": "Polk|Rutherford",
+    "county_fips_all": "37149|37161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

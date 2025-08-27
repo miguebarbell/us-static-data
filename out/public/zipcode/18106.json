@@ -1,0 +1,20 @@
+{
+    "zip": 18106,
+    "lat": 40.57472,
+    "lng": -75.59542,
+    "city": "Allentown",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6437.0,
+    "density": 312.3,
+    "county_fips": 42077,
+    "county_name": "Lehigh",
+    "county_weights": "{\"42077\": 100}",
+    "county_names_all": "Lehigh",
+    "county_fips_all": "42077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

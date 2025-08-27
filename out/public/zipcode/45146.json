@@ -1,0 +1,20 @@
+{
+    "zip": 45146,
+    "lat": 39.3154,
+    "lng": -83.79945,
+    "city": "Martinsville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1129.0,
+    "density": 16.8,
+    "county_fips": 39027,
+    "county_name": "Clinton",
+    "county_weights": "{\"39027\": 100}",
+    "county_names_all": "Clinton",
+    "county_fips_all": "39027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

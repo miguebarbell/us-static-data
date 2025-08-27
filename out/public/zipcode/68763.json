@@ -1,0 +1,20 @@
+{
+    "zip": 68763,
+    "lat": 42.51809,
+    "lng": -98.58254,
+    "city": "Oneill",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4536.0,
+    "density": 3.2,
+    "county_fips": 31089,
+    "county_name": "Holt",
+    "county_weights": "{\"31089\": 98.58, \"31107\": 1.42}",
+    "county_names_all": "Holt|Knox",
+    "county_fips_all": "31089|31107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

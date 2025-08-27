@@ -1,0 +1,20 @@
+{
+    "zip": 63436,
+    "lat": 39.50093,
+    "lng": -91.54524,
+    "city": "Center",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1109.0,
+    "density": 5.4,
+    "county_fips": 29173,
+    "county_name": "Ralls",
+    "county_weights": "{\"29173\": 100}",
+    "county_names_all": "Ralls",
+    "county_fips_all": "29173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 44813,
+    "lat": 40.60135,
+    "lng": -82.52814,
+    "city": "Bellville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7816.0,
+    "density": 44.2,
+    "county_fips": 39139,
+    "county_name": "Richland",
+    "county_weights": "{\"39139\": 86.15, \"39117\": 9.01, \"39083\": 4.84}",
+    "county_names_all": "Richland|Morrow|Knox",
+    "county_fips_all": "39139|39117|39083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 73946,
+    "lat": 36.92316,
+    "lng": -102.81258,
+    "city": "Kenton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24.0,
+    "density": 0.1,
+    "county_fips": 40025,
+    "county_name": "Cimarron",
+    "county_weights": "{\"40025\": 100}",
+    "county_names_all": "Cimarron",
+    "county_fips_all": "40025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

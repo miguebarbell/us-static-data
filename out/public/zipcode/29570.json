@@ -1,0 +1,20 @@
+{
+    "zip": 29570,
+    "lat": 34.67495,
+    "lng": -79.5624,
+    "city": "McColl",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3992.0,
+    "density": 31.9,
+    "county_fips": 45069,
+    "county_name": "Marlboro",
+    "county_weights": "{\"45069\": 100}",
+    "county_names_all": "Marlboro",
+    "county_fips_all": "45069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

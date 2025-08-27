@@ -1,0 +1,20 @@
+{
+    "zip": 64074,
+    "lat": 39.08106,
+    "lng": -94.07658,
+    "city": "Napoleon",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 498.0,
+    "density": 9.3,
+    "county_fips": 29107,
+    "county_name": "Lafayette",
+    "county_weights": "{\"29107\": 100}",
+    "county_names_all": "Lafayette",
+    "county_fips_all": "29107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

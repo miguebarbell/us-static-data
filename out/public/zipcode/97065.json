@@ -1,0 +1,20 @@
+{
+    "zip": 97065,
+    "lat": 45.59803,
+    "lng": -120.65696,
+    "city": "Wasco",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 752.0,
+    "density": 1.2,
+    "county_fips": 41055,
+    "county_name": "Sherman",
+    "county_weights": "{\"41055\": 100}",
+    "county_names_all": "Sherman",
+    "county_fips_all": "41055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 19968,
+    "lat": 38.77553,
+    "lng": -75.28466,
+    "city": "Milton",
+    "state_id": "DE",
+    "state_name": "Delaware",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14791.0,
+    "density": 89.4,
+    "county_fips": 10005,
+    "county_name": "Sussex",
+    "county_weights": "{\"10005\": 100}",
+    "county_names_all": "Sussex",
+    "county_fips_all": "10005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

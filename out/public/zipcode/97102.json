@@ -1,0 +1,20 @@
+{
+    "zip": 97102,
+    "lat": 45.7934,
+    "lng": -123.94793,
+    "city": "Arch Cape",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 378.0,
+    "density": 17.5,
+    "county_fips": 41007,
+    "county_name": "Clatsop",
+    "county_weights": "{\"41007\": 62.04, \"41057\": 37.96}",
+    "county_names_all": "Clatsop|Tillamook",
+    "county_fips_all": "41007|41057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 26181,
+    "lat": 39.20707,
+    "lng": -81.6733,
+    "city": "Washington",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5708.0,
+    "density": 56.6,
+    "county_fips": 54107,
+    "county_name": "Wood",
+    "county_weights": "{\"54107\": 100}",
+    "county_names_all": "Wood",
+    "county_fips_all": "54107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

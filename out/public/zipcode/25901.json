@@ -1,0 +1,20 @@
+{
+    "zip": 25901,
+    "lat": 37.93575,
+    "lng": -81.11242,
+    "city": "Oak Hill",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10225.0,
+    "density": 102.8,
+    "county_fips": 54019,
+    "county_name": "Fayette",
+    "county_weights": "{\"54019\": 100}",
+    "county_names_all": "Fayette",
+    "county_fips_all": "54019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

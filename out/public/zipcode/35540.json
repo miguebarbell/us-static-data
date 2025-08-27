@@ -1,0 +1,20 @@
+{
+    "zip": 35540,
+    "lat": 34.23066,
+    "lng": -87.18374,
+    "city": "Addison",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2092.0,
+    "density": 11.5,
+    "county_fips": 1133,
+    "county_name": "Winston",
+    "county_weights": "{\"01133\": 97.88, \"01043\": 2.12}",
+    "county_names_all": "Winston|Cullman",
+    "county_fips_all": "01133|01043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

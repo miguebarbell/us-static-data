@@ -1,0 +1,20 @@
+{
+    "zip": 95991,
+    "lat": 39.02205,
+    "lng": -121.61317,
+    "city": "Yuba City",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42490.0,
+    "density": 399.0,
+    "county_fips": 6101,
+    "county_name": "Sutter",
+    "county_weights": "{\"06101\": 100}",
+    "county_names_all": "Sutter",
+    "county_fips_all": "06101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

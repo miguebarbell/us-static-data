@@ -1,0 +1,20 @@
+{
+    "zip": 35757,
+    "lat": 34.78426,
+    "lng": -86.74419,
+    "city": "Madison",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18250.0,
+    "density": 604.2,
+    "county_fips": 1089,
+    "county_name": "Madison",
+    "county_weights": "{\"01089\": 96.68, \"01083\": 3.32}",
+    "county_names_all": "Madison|Limestone",
+    "county_fips_all": "01089|01083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

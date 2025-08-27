@@ -1,0 +1,20 @@
+{
+    "zip": 67665,
+    "lat": 38.847,
+    "lng": -98.88022,
+    "city": "Russell",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4893.0,
+    "density": 5.8,
+    "county_fips": 20167,
+    "county_name": "Russell",
+    "county_weights": "{\"20167\": 93.73, \"20009\": 6.27}",
+    "county_names_all": "Russell|Barton",
+    "county_fips_all": "20167|20009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

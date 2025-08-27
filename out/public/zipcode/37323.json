@@ -1,0 +1,20 @@
+{
+    "zip": 37323,
+    "lat": 35.09627,
+    "lng": -84.81984,
+    "city": "Cleveland",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30764.0,
+    "density": 103.6,
+    "county_fips": 47011,
+    "county_name": "Bradley",
+    "county_weights": "{\"47011\": 99.66, \"47139\": 0.34}",
+    "county_names_all": "Bradley|Polk",
+    "county_fips_all": "47011|47139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

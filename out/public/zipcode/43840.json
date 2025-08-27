@@ -1,0 +1,20 @@
+{
+    "zip": 43840,
+    "lat": 40.40511,
+    "lng": -81.60025,
+    "city": "Stone Creek",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1666.0,
+    "density": 18.8,
+    "county_fips": 39157,
+    "county_name": "Tuscarawas",
+    "county_weights": "{\"39157\": 99.62, \"39031\": 0.38}",
+    "county_names_all": "Tuscarawas|Coshocton",
+    "county_fips_all": "39157|39031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

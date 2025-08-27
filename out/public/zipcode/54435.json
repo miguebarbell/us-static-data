@@ -1,0 +1,20 @@
+{
+    "zip": 54435,
+    "lat": 45.35084,
+    "lng": -89.44349,
+    "city": "Gleason",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1977.0,
+    "density": 3.8,
+    "county_fips": 55069,
+    "county_name": "Lincoln",
+    "county_weights": "{\"55069\": 58.77, \"55067\": 41.23}",
+    "county_names_all": "Lincoln|Langlade",
+    "county_fips_all": "55069|55067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

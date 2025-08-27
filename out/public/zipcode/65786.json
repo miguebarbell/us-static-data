@@ -1,0 +1,20 @@
+{
+    "zip": 65786,
+    "lat": 37.96715,
+    "lng": -92.96516,
+    "city": "Macks Creek",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1835.0,
+    "density": 6.4,
+    "county_fips": 29029,
+    "county_name": "Camden",
+    "county_weights": "{\"29029\": 96.43, \"29059\": 3.57}",
+    "county_names_all": "Camden|Dallas",
+    "county_fips_all": "29029|29059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

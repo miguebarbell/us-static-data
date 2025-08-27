@@ -1,0 +1,20 @@
+{
+    "zip": 42718,
+    "lat": 37.38994,
+    "lng": -85.37561,
+    "city": "Campbellsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26461.0,
+    "density": 38.5,
+    "county_fips": 21217,
+    "county_name": "Taylor",
+    "county_weights": "{\"21217\": 74.82, \"21155\": 13.06, \"21087\": 7.12, \"21123\": 5.0}",
+    "county_names_all": "Taylor|Marion|Green|Larue",
+    "county_fips_all": "21217|21155|21087|21123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

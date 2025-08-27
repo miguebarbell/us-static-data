@@ -1,0 +1,20 @@
+{
+    "zip": 28338,
+    "lat": 35.09644,
+    "lng": -79.75506,
+    "city": "Ellerbe",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3320.0,
+    "density": 8.7,
+    "county_fips": 37153,
+    "county_name": "Richmond",
+    "county_weights": "{\"37153\": 100}",
+    "county_names_all": "Richmond",
+    "county_fips_all": "37153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

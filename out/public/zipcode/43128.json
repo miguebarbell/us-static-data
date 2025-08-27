@@ -1,0 +1,20 @@
+{
+    "zip": 43128,
+    "lat": 39.66359,
+    "lng": -83.57893,
+    "city": "Jeffersonville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2038.0,
+    "density": 16.2,
+    "county_fips": 39047,
+    "county_name": "Fayette",
+    "county_weights": "{\"39047\": 100}",
+    "county_names_all": "Fayette",
+    "county_fips_all": "39047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

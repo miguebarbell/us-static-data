@@ -1,0 +1,20 @@
+{
+    "zip": 40472,
+    "lat": 37.71841,
+    "lng": -83.87562,
+    "city": "Ravenna",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1398.0,
+    "density": 12.0,
+    "county_fips": 21065,
+    "county_name": "Estill",
+    "county_weights": "{\"21065\": 100}",
+    "county_names_all": "Estill",
+    "county_fips_all": "21065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

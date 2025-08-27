@@ -1,0 +1,20 @@
+{
+    "zip": 95758,
+    "lat": 38.42932,
+    "lng": -121.44603,
+    "city": "Elk Grove",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 65999.0,
+    "density": 1870.4,
+    "county_fips": 6067,
+    "county_name": "Sacramento",
+    "county_weights": "{\"06067\": 100}",
+    "county_names_all": "Sacramento",
+    "county_fips_all": "06067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

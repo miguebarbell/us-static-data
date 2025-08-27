@@ -1,0 +1,20 @@
+{
+    "zip": 52352,
+    "lat": 42.28706,
+    "lng": -91.77897,
+    "city": "Walker",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1906.0,
+    "density": 9.1,
+    "county_fips": 19113,
+    "county_name": "Linn",
+    "county_weights": "{\"19113\": 47.12, \"19019\": 36.49, \"19011\": 16.38}",
+    "county_names_all": "Linn|Buchanan|Benton",
+    "county_fips_all": "19113|19019|19011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

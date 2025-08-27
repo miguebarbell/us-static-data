@@ -1,0 +1,20 @@
+{
+    "zip": 28525,
+    "lat": 35.1241,
+    "lng": -77.68987,
+    "city": "Deep Run",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2684.0,
+    "density": 21.9,
+    "county_fips": 37107,
+    "county_name": "Lenoir",
+    "county_weights": "{\"37107\": 92.43, \"37061\": 7.57}",
+    "county_names_all": "Lenoir|Duplin",
+    "county_fips_all": "37107|37061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

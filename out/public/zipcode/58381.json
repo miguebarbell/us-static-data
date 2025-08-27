@@ -1,0 +1,20 @@
+{
+    "zip": 58381,
+    "lat": 47.82731,
+    "lng": -98.74476,
+    "city": "Warwick",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 468.0,
+    "density": 1.0,
+    "county_fips": 38027,
+    "county_name": "Eddy",
+    "county_weights": "{\"38027\": 60.45, \"38005\": 39.55}",
+    "county_names_all": "Eddy|Benson",
+    "county_fips_all": "38027|38005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

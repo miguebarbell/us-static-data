@@ -1,0 +1,20 @@
+{
+    "zip": 98353,
+    "lat": 47.53885,
+    "lng": -122.49294,
+    "city": "Manchester",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 53035,
+    "county_name": "Kitsap",
+    "county_weights": "{\"53035\": 100}",
+    "county_names_all": "Kitsap",
+    "county_fips_all": "53035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

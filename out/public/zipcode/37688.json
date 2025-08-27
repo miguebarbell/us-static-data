@@ -1,0 +1,20 @@
+{
+    "zip": 37688,
+    "lat": 36.54548,
+    "lng": -81.88281,
+    "city": "Shady Valley",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1057.0,
+    "density": 7.5,
+    "county_fips": 47091,
+    "county_name": "Johnson",
+    "county_weights": "{\"47091\": 100}",
+    "county_names_all": "Johnson",
+    "county_fips_all": "47091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

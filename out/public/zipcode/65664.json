@@ -1,0 +1,20 @@
+{
+    "zip": 65664,
+    "lat": 37.19728,
+    "lng": -93.61732,
+    "city": "Halltown",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 51.0,
+    "density": 25.2,
+    "county_fips": 29109,
+    "county_name": "Lawrence",
+    "county_weights": "{\"29109\": 100}",
+    "county_names_all": "Lawrence",
+    "county_fips_all": "29109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

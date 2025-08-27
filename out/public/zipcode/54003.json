@@ -1,0 +1,20 @@
+{
+    "zip": 54003,
+    "lat": 44.79019,
+    "lng": -92.44218,
+    "city": "Beldenville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 979.0,
+    "density": 12.2,
+    "county_fips": 55093,
+    "county_name": "Pierce",
+    "county_weights": "{\"55093\": 100}",
+    "county_names_all": "Pierce",
+    "county_fips_all": "55093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

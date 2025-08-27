@@ -1,0 +1,20 @@
+{
+    "zip": 39088,
+    "lat": 32.73287,
+    "lng": -90.7545,
+    "city": "Holly Bluff",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19.0,
+    "density": 0.1,
+    "county_fips": 28125,
+    "county_name": "Sharkey",
+    "county_weights": "{\"28125\": 100}",
+    "county_names_all": "Sharkey",
+    "county_fips_all": "28125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

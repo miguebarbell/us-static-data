@@ -1,0 +1,20 @@
+{
+    "zip": 6897,
+    "lat": 41.20705,
+    "lng": -73.44009,
+    "city": "Wilton",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18439.0,
+    "density": 265.7,
+    "county_fips": 9190,
+    "county_name": "Western Connecticut",
+    "county_weights": "{\"09190\": 100}",
+    "county_names_all": "Western Connecticut",
+    "county_fips_all": "09190",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 38381,
+    "lat": 35.35144,
+    "lng": -88.96205,
+    "city": "Toone",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1525.0,
+    "density": 10.3,
+    "county_fips": 47069,
+    "county_name": "Hardeman",
+    "county_weights": "{\"47069\": 100}",
+    "county_names_all": "Hardeman",
+    "county_fips_all": "47069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

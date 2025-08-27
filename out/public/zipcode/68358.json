@@ -1,0 +1,20 @@
+{
+    "zip": 68358,
+    "lat": 40.53321,
+    "lng": -96.60973,
+    "city": "Firth",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1660.0,
+    "density": 14.1,
+    "county_fips": 31109,
+    "county_name": "Lancaster",
+    "county_weights": "{\"31109\": 67.45, \"31067\": 32.55}",
+    "county_names_all": "Lancaster|Gage",
+    "county_fips_all": "31109|31067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

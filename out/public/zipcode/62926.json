@@ -1,0 +1,20 @@
+{
+    "zip": 62926,
+    "lat": 37.3692,
+    "lng": -89.13589,
+    "city": "Dongola",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2166.0,
+    "density": 10.8,
+    "county_fips": 17181,
+    "county_name": "Union",
+    "county_weights": "{\"17181\": 77.84, \"17153\": 22.16}",
+    "county_names_all": "Union|Pulaski",
+    "county_fips_all": "17181|17153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

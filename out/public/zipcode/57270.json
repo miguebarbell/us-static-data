@@ -1,0 +1,20 @@
+{
+    "zip": 57270,
+    "lat": 45.84824,
+    "lng": -97.32999,
+    "city": "Veblen",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 740.0,
+    "density": 1.8,
+    "county_fips": 46091,
+    "county_name": "Marshall",
+    "county_weights": "{\"46091\": 86.85, \"46109\": 13.15}",
+    "county_names_all": "Marshall|Roberts",
+    "county_fips_all": "46091|46109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

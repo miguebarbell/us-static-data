@@ -1,0 +1,20 @@
+{
+    "zip": 88351,
+    "lat": 33.47154,
+    "lng": -105.09777,
+    "city": "Tinnie",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 128.0,
+    "density": 0.2,
+    "county_fips": 35027,
+    "county_name": "Lincoln",
+    "county_weights": "{\"35027\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "35027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

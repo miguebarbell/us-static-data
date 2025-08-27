@@ -1,0 +1,20 @@
+{
+    "zip": 22639,
+    "lat": 38.82625,
+    "lng": -78.0321,
+    "city": "Hume",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 619.0,
+    "density": 7.3,
+    "county_fips": 51061,
+    "county_name": "Fauquier",
+    "county_weights": "{\"51061\": 100}",
+    "county_names_all": "Fauquier",
+    "county_fips_all": "51061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

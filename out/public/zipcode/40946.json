@@ -1,0 +1,20 @@
+{
+    "zip": 40946,
+    "lat": 36.95757,
+    "lng": -83.82467,
+    "city": "Green Road",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32.0,
+    "density": 7.7,
+    "county_fips": 21121,
+    "county_name": "Knox",
+    "county_weights": "{\"21121\": 100}",
+    "county_names_all": "Knox",
+    "county_fips_all": "21121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

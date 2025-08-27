@@ -1,0 +1,20 @@
+{
+    "zip": 56329,
+    "lat": 45.70934,
+    "lng": -93.90577,
+    "city": "Foley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7700.0,
+    "density": 15.5,
+    "county_fips": 27009,
+    "county_name": "Benton",
+    "county_weights": "{\"27009\": 88.02, \"27097\": 11.63, \"27141\": 0.35}",
+    "county_names_all": "Benton|Morrison|Sherburne",
+    "county_fips_all": "27009|27097|27141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

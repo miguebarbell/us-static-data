@@ -1,0 +1,20 @@
+{
+    "zip": 44838,
+    "lat": 40.77186,
+    "lng": -82.25947,
+    "city": "Hayesville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 214.0,
+    "density": 297.0,
+    "county_fips": 39005,
+    "county_name": "Ashland",
+    "county_weights": "{\"39005\": 100}",
+    "county_names_all": "Ashland",
+    "county_fips_all": "39005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

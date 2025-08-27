@@ -1,0 +1,20 @@
+{
+    "zip": 54865,
+    "lat": 46.74787,
+    "lng": -91.37517,
+    "city": "Port Wing",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 492.0,
+    "density": 2.9,
+    "county_fips": 55007,
+    "county_name": "Bayfield",
+    "county_weights": "{\"55007\": 100}",
+    "county_names_all": "Bayfield",
+    "county_fips_all": "55007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

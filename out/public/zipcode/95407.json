@@ -1,0 +1,20 @@
+{
+    "zip": 95407,
+    "lat": 38.39465,
+    "lng": -122.74591,
+    "city": "Santa Rosa",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42135.0,
+    "density": 752.8,
+    "county_fips": 6097,
+    "county_name": "Sonoma",
+    "county_weights": "{\"06097\": 100}",
+    "county_names_all": "Sonoma",
+    "county_fips_all": "06097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

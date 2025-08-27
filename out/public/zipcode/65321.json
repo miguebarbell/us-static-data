@@ -1,0 +1,20 @@
+{
+    "zip": 65321,
+    "lat": 39.08604,
+    "lng": -93.4526,
+    "city": "Blackburn",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 316.0,
+    "density": 3.2,
+    "county_fips": 29195,
+    "county_name": "Saline",
+    "county_weights": "{\"29195\": 86.26, \"29107\": 13.74}",
+    "county_names_all": "Saline|Lafayette",
+    "county_fips_all": "29195|29107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

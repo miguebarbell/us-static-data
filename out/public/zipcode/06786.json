@@ -1,0 +1,20 @@
+{
+    "zip": 6786,
+    "lat": 41.66912,
+    "lng": -73.01502,
+    "city": "Terryville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9617.0,
+    "density": 259.0,
+    "county_fips": 9140,
+    "county_name": "Naugatuck Valley",
+    "county_weights": "{\"09140\": 100}",
+    "county_names_all": "Naugatuck Valley",
+    "county_fips_all": "09140",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

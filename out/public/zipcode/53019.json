@@ -1,0 +1,20 @@
+{
+    "zip": 53019,
+    "lat": 43.69667,
+    "lng": -88.30752,
+    "city": "Eden",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1796.0,
+    "density": 19.6,
+    "county_fips": 55039,
+    "county_name": "Fond du Lac",
+    "county_weights": "{\"55039\": 100}",
+    "county_names_all": "Fond du Lac",
+    "county_fips_all": "55039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

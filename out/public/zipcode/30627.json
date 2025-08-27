@@ -1,0 +1,20 @@
+{
+    "zip": 30627,
+    "lat": 33.98264,
+    "lng": -82.96265,
+    "city": "Carlton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2304.0,
+    "density": 7.5,
+    "county_fips": 13221,
+    "county_name": "Oglethorpe",
+    "county_weights": "{\"13221\": 82.31, \"13195\": 17.69}",
+    "county_names_all": "Oglethorpe|Madison",
+    "county_fips_all": "13221|13195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

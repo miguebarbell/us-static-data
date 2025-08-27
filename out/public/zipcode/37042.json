@@ -1,0 +1,20 @@
+{
+    "zip": 37042,
+    "lat": 36.56894,
+    "lng": -87.41225,
+    "city": "Clarksville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 85169.0,
+    "density": 578.2,
+    "county_fips": 47125,
+    "county_name": "Montgomery",
+    "county_weights": "{\"47125\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "47125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

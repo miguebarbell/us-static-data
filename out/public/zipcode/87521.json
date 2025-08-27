@@ -1,0 +1,20 @@
+{
+    "zip": 87521,
+    "lat": 36.08506,
+    "lng": -105.70477,
+    "city": "Chamisal",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 846.0,
+    "density": 3.2,
+    "county_fips": 35039,
+    "county_name": "Rio Arriba",
+    "county_weights": "{\"35039\": 66.48, \"35055\": 33.52}",
+    "county_names_all": "Rio Arriba|Taos",
+    "county_fips_all": "35039|35055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

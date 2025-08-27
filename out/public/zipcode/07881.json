@@ -1,0 +1,20 @@
+{
+    "zip": 7881,
+    "lat": 41.12213,
+    "lng": -74.93249,
+    "city": "Wallpack Center",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 34037,
+    "county_name": "Sussex",
+    "county_weights": "{\"34037\": 100}",
+    "county_names_all": "Sussex",
+    "county_fips_all": "34037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 57057,
+    "lat": 44.10261,
+    "lng": -96.95717,
+    "city": "Rutland",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 205.0,
+    "density": 2.5,
+    "county_fips": 46079,
+    "county_name": "Lake",
+    "county_weights": "{\"46079\": 93.98, \"46101\": 6.02}",
+    "county_names_all": "Lake|Moody",
+    "county_fips_all": "46079|46101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

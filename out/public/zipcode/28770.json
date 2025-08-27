@@ -1,0 +1,20 @@
+{
+    "zip": 28770,
+    "lat": 35.62104,
+    "lng": -82.2782,
+    "city": "Ridgecrest",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 37021,
+    "county_name": "Buncombe",
+    "county_weights": "{\"37021\": 99.85, \"37111\": 0.15}",
+    "county_names_all": "Buncombe|McDowell",
+    "county_fips_all": "37021|37111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

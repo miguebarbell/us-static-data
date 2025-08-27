@@ -1,0 +1,20 @@
+{
+    "zip": 27217,
+    "lat": 36.19221,
+    "lng": -79.38404,
+    "city": "Burlington",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40561.0,
+    "density": 127.1,
+    "county_fips": 37001,
+    "county_name": "Alamance",
+    "county_weights": "{\"37001\": 82.77, \"37033\": 17.23}",
+    "county_names_all": "Alamance|Caswell",
+    "county_fips_all": "37001|37033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

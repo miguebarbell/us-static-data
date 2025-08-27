@@ -1,0 +1,20 @@
+{
+    "zip": 37733,
+    "lat": 36.35676,
+    "lng": -84.69497,
+    "city": "Rugby",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 47129,
+    "county_name": "Morgan",
+    "county_weights": "{\"47129\": 99.75, \"47151\": 0.25}",
+    "county_names_all": "Morgan|Scott",
+    "county_fips_all": "47129|47151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

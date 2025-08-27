@@ -1,0 +1,20 @@
+{
+    "zip": 94063,
+    "lat": 37.49367,
+    "lng": -122.20823,
+    "city": "Redwood City",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 34695.0,
+    "density": 2060.2,
+    "county_fips": 6081,
+    "county_name": "San Mateo",
+    "county_weights": "{\"06081\": 100}",
+    "county_names_all": "San Mateo",
+    "county_fips_all": "06081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 70661,
+    "lat": 30.36683,
+    "lng": -93.64833,
+    "city": "Starks",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1712.0,
+    "density": 3.6,
+    "county_fips": 22019,
+    "county_name": "Calcasieu",
+    "county_weights": "{\"22019\": 68.51, \"22011\": 31.49}",
+    "county_names_all": "Calcasieu|Beauregard",
+    "county_fips_all": "22019|22011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

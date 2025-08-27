@@ -1,0 +1,20 @@
+{
+    "zip": 97342,
+    "lat": 44.73382,
+    "lng": -121.94524,
+    "city": "Detroit",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 144.0,
+    "density": 0.7,
+    "county_fips": 41047,
+    "county_name": "Marion",
+    "county_weights": "{\"41047\": 99.74, \"41043\": 0.26}",
+    "county_names_all": "Marion|Linn",
+    "county_fips_all": "41047|41043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

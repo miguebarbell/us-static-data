@@ -1,0 +1,20 @@
+{
+    "zip": 8006,
+    "lat": 39.75299,
+    "lng": -74.10953,
+    "city": "Barnegat Light",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 473.0,
+    "density": 219.8,
+    "county_fips": 34029,
+    "county_name": "Ocean",
+    "county_weights": "{\"34029\": 100}",
+    "county_names_all": "Ocean",
+    "county_fips_all": "34029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

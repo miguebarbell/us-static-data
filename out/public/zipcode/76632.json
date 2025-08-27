@@ -1,0 +1,20 @@
+{
+    "zip": 76632,
+    "lat": 31.29602,
+    "lng": -97.06158,
+    "city": "Chilton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1464.0,
+    "density": 10.8,
+    "county_fips": 48145,
+    "county_name": "Falls",
+    "county_weights": "{\"48145\": 100}",
+    "county_names_all": "Falls",
+    "county_fips_all": "48145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

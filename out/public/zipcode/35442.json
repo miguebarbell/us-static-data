@@ -1,0 +1,20 @@
+{
+    "zip": 35442,
+    "lat": 33.06016,
+    "lng": -88.20159,
+    "city": "Aliceville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5539.0,
+    "density": 8.0,
+    "county_fips": 1107,
+    "county_name": "Pickens",
+    "county_weights": "{\"01107\": 74.47, \"01119\": 20.41, \"01063\": 5.12}",
+    "county_names_all": "Pickens|Sumter|Greene",
+    "county_fips_all": "01107|01119|01063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 56550,
+    "lat": 47.2697,
+    "lng": -96.74867,
+    "city": "Hendrum",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 291.0,
+    "density": 2.3,
+    "county_fips": 27107,
+    "county_name": "Norman",
+    "county_weights": "{\"27107\": 100}",
+    "county_names_all": "Norman",
+    "county_fips_all": "27107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

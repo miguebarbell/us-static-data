@@ -1,0 +1,20 @@
+{
+    "zip": 32958,
+    "lat": 27.79364,
+    "lng": -80.49135,
+    "city": "Sebastian",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29641.0,
+    "density": 410.9,
+    "county_fips": 12061,
+    "county_name": "Indian River",
+    "county_weights": "{\"12061\": 100}",
+    "county_names_all": "Indian River",
+    "county_fips_all": "12061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

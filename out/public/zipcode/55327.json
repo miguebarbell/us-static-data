@@ -1,0 +1,20 @@
+{
+    "zip": 55327,
+    "lat": 45.19922,
+    "lng": -93.4753,
+    "city": "Dayton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5542.0,
+    "density": 121.8,
+    "county_fips": 27053,
+    "county_name": "Hennepin",
+    "county_weights": "{\"27053\": 100}",
+    "county_names_all": "Hennepin",
+    "county_fips_all": "27053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

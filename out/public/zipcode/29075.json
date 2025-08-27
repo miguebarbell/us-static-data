@@ -1,0 +1,20 @@
+{
+    "zip": 29075,
+    "lat": 34.19985,
+    "lng": -81.37581,
+    "city": "Little Mountain",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2746.0,
+    "density": 25.6,
+    "county_fips": 45071,
+    "county_name": "Newberry",
+    "county_weights": "{\"45071\": 66.45, \"45079\": 26.93, \"45063\": 6.62}",
+    "county_names_all": "Newberry|Richland|Lexington",
+    "county_fips_all": "45071|45079|45063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

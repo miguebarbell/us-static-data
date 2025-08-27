@@ -1,0 +1,20 @@
+{
+    "zip": 81416,
+    "lat": 38.66482,
+    "lng": -108.20403,
+    "city": "Delta",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14219.0,
+    "density": 9.6,
+    "county_fips": 8029,
+    "county_name": "Delta",
+    "county_weights": "{\"08029\": 56.93, \"08085\": 43.07}",
+    "county_names_all": "Delta|Montrose",
+    "county_fips_all": "08029|08085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

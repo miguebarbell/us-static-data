@@ -1,0 +1,20 @@
+{
+    "zip": 83348,
+    "lat": 43.28489,
+    "lng": -114.10592,
+    "city": "Picabo",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 88.0,
+    "density": 1.2,
+    "county_fips": 16013,
+    "county_name": "Blaine",
+    "county_weights": "{\"16013\": 100}",
+    "county_names_all": "Blaine",
+    "county_fips_all": "16013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

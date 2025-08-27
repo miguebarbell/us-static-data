@@ -1,0 +1,20 @@
+{
+    "zip": 54653,
+    "lat": 43.82586,
+    "lng": -90.9129,
+    "city": "Rockland",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1232.0,
+    "density": 22.1,
+    "county_fips": 55063,
+    "county_name": "La Crosse",
+    "county_weights": "{\"55063\": 60.97, \"55081\": 39.03}",
+    "county_names_all": "La Crosse|Monroe",
+    "county_fips_all": "55063|55081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

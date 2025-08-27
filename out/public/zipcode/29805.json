@@ -1,0 +1,20 @@
+{
+    "zip": 29805,
+    "lat": 33.6495,
+    "lng": -81.61044,
+    "city": "Aiken",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4882.0,
+    "density": 19.3,
+    "county_fips": 45003,
+    "county_name": "Aiken",
+    "county_weights": "{\"45003\": 100}",
+    "county_names_all": "Aiken",
+    "county_fips_all": "45003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

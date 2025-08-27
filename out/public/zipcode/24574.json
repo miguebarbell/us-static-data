@@ -1,0 +1,20 @@
+{
+    "zip": 24574,
+    "lat": 37.57589,
+    "lng": -79.24714,
+    "city": "Monroe",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4071.0,
+    "density": 14.8,
+    "county_fips": 51009,
+    "county_name": "Amherst",
+    "county_weights": "{\"51009\": 100}",
+    "county_names_all": "Amherst",
+    "county_fips_all": "51009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

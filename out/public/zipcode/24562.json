@@ -1,0 +1,20 @@
+{
+    "zip": 24562,
+    "lat": 37.70577,
+    "lng": -78.62241,
+    "city": "Howardsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 619.0,
+    "density": 10.5,
+    "county_fips": 51029,
+    "county_name": "Buckingham",
+    "county_weights": "{\"51029\": 64.72, \"51125\": 27.28, \"51003\": 8.0}",
+    "county_names_all": "Buckingham|Nelson|Albemarle",
+    "county_fips_all": "51029|51125|51003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 74569,
+    "lat": 34.47921,
+    "lng": -95.90315,
+    "city": "Stringtown",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 610.0,
+    "density": 1.3,
+    "county_fips": 40005,
+    "county_name": "Atoka",
+    "county_weights": "{\"40005\": 100}",
+    "county_names_all": "Atoka",
+    "county_fips_all": "40005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

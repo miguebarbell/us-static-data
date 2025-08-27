@@ -1,0 +1,20 @@
+{
+    "zip": 78592,
+    "lat": 26.06516,
+    "lng": -97.8461,
+    "city": "Santa Maria",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 600.0,
+    "density": 67.0,
+    "county_fips": 48061,
+    "county_name": "Cameron",
+    "county_weights": "{\"48061\": 100}",
+    "county_names_all": "Cameron",
+    "county_fips_all": "48061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

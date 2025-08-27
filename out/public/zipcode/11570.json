@@ -1,0 +1,20 @@
+{
+    "zip": 11570,
+    "lat": 40.66504,
+    "lng": -73.63882,
+    "city": "Rockville Centre",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28162.0,
+    "density": 3030.2,
+    "county_fips": 36059,
+    "county_name": "Nassau",
+    "county_weights": "{\"36059\": 100}",
+    "county_names_all": "Nassau",
+    "county_fips_all": "36059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 24844,
+    "lat": 37.48554,
+    "lng": -81.78703,
+    "city": "Iaeger",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1070.0,
+    "density": 7.2,
+    "county_fips": 54047,
+    "county_name": "McDowell",
+    "county_weights": "{\"54047\": 71.52, \"54109\": 28.48}",
+    "county_names_all": "McDowell|Wyoming",
+    "county_fips_all": "54047|54109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

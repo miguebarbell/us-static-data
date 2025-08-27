@@ -1,0 +1,20 @@
+{
+    "zip": 93635,
+    "lat": 37.016,
+    "lng": -120.88294,
+    "city": "Los Banos",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 49232.0,
+    "density": 48.6,
+    "county_fips": 6047,
+    "county_name": "Merced",
+    "county_weights": "{\"06047\": 100}",
+    "county_names_all": "Merced",
+    "county_fips_all": "06047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

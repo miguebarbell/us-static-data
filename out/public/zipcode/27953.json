@@ -1,0 +1,20 @@
+{
+    "zip": 27953,
+    "lat": 35.79298,
+    "lng": -75.8685,
+    "city": "Manns Harbor",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1056.0,
+    "density": 1.6,
+    "county_fips": 37055,
+    "county_name": "Dare",
+    "county_weights": "{\"37055\": 100}",
+    "county_names_all": "Dare",
+    "county_fips_all": "37055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

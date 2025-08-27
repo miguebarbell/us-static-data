@@ -1,0 +1,20 @@
+{
+    "zip": 78111,
+    "lat": 29.03696,
+    "lng": -97.74074,
+    "city": "Ecleto",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 48255,
+    "county_name": "Karnes",
+    "county_weights": "{\"48255\": 100}",
+    "county_names_all": "Karnes",
+    "county_fips_all": "48255",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

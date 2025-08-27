@@ -1,0 +1,20 @@
+{
+    "zip": 98645,
+    "lat": 46.32509,
+    "lng": -122.77993,
+    "city": "Silverlake",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2195.0,
+    "density": 55.8,
+    "county_fips": 53015,
+    "county_name": "Cowlitz",
+    "county_weights": "{\"53015\": 100}",
+    "county_names_all": "Cowlitz",
+    "county_fips_all": "53015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

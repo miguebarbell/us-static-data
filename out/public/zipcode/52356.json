@@ -1,0 +1,20 @@
+{
+    "zip": 52356,
+    "lat": 41.4749,
+    "lng": -91.84769,
+    "city": "Wellman",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2754.0,
+    "density": 11.2,
+    "county_fips": 19183,
+    "county_name": "Washington",
+    "county_weights": "{\"19183\": 73.71, \"19095\": 16.85, \"19103\": 8.16, \"19107\": 1.28}",
+    "county_names_all": "Washington|Iowa|Johnson|Keokuk",
+    "county_fips_all": "19183|19095|19103|19107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

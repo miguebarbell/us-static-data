@@ -1,0 +1,20 @@
+{
+    "zip": 58530,
+    "lat": 47.13357,
+    "lng": -101.15257,
+    "city": "Center",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1090.0,
+    "density": 1.2,
+    "county_fips": 38065,
+    "county_name": "Oliver",
+    "county_weights": "{\"38065\": 99.64, \"38057\": 0.36}",
+    "county_names_all": "Oliver|Mercer",
+    "county_fips_all": "38065|38057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/North_Dakota/Center"
+}

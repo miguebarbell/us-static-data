@@ -1,0 +1,20 @@
+{
+    "zip": 95612,
+    "lat": 38.38644,
+    "lng": -121.58118,
+    "city": "Clarksburg",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1519.0,
+    "density": 9.2,
+    "county_fips": 6113,
+    "county_name": "Yolo",
+    "county_weights": "{\"06113\": 88.11, \"06095\": 11.89}",
+    "county_names_all": "Yolo|Solano",
+    "county_fips_all": "06113|06095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

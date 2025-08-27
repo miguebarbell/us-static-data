@@ -1,0 +1,20 @@
+{
+    "zip": 78834,
+    "lat": 28.54776,
+    "lng": -99.87286,
+    "city": "Carrizo Springs",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7204.0,
+    "density": 5.4,
+    "county_fips": 48127,
+    "county_name": "Dimmit",
+    "county_weights": "{\"48127\": 89.11, \"48507\": 10.89}",
+    "county_names_all": "Dimmit|Zavala",
+    "county_fips_all": "48127|48507",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

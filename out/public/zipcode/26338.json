@@ -1,0 +1,20 @@
+{
+    "zip": 26338,
+    "lat": 39.08503,
+    "lng": -80.61941,
+    "city": "Camden",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 592.0,
+    "density": 5.8,
+    "county_fips": 54041,
+    "county_name": "Lewis",
+    "county_weights": "{\"54041\": 100}",
+    "county_names_all": "Lewis",
+    "county_fips_all": "54041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

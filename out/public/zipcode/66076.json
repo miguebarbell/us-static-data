@@ -1,0 +1,20 @@
+{
+    "zip": 66076,
+    "lat": 38.62811,
+    "lng": -95.43917,
+    "city": "Pomona",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2231.0,
+    "density": 9.4,
+    "county_fips": 20059,
+    "county_name": "Franklin",
+    "county_weights": "{\"20059\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "20059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 61944,
+    "lat": 39.59969,
+    "lng": -87.70146,
+    "city": "Paris",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11426.0,
+    "density": 16.8,
+    "county_fips": 17045,
+    "county_name": "Edgar",
+    "county_weights": "{\"17045\": 99.21, \"17023\": 0.79}",
+    "county_names_all": "Edgar|Clark",
+    "county_fips_all": "17045|17023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

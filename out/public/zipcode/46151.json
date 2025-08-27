@@ -1,0 +1,20 @@
+{
+    "zip": 46151,
+    "lat": 39.44783,
+    "lng": -86.4275,
+    "city": "Martinsville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32339.0,
+    "density": 61.3,
+    "county_fips": 18109,
+    "county_name": "Morgan",
+    "county_weights": "{\"18109\": 96.47, \"18105\": 3.31, \"18081\": 0.22}",
+    "county_names_all": "Morgan|Monroe|Johnson",
+    "county_fips_all": "18109|18105|18081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

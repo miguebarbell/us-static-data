@@ -1,0 +1,20 @@
+{
+    "zip": 98253,
+    "lat": 48.079,
+    "lng": -122.57568,
+    "city": "Greenbank",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2141.0,
+    "density": 75.5,
+    "county_fips": 53029,
+    "county_name": "Island",
+    "county_weights": "{\"53029\": 100}",
+    "county_names_all": "Island",
+    "county_fips_all": "53029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

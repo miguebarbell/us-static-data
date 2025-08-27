@@ -1,0 +1,20 @@
+{
+    "zip": 7407,
+    "lat": 40.90493,
+    "lng": -74.12007,
+    "city": "Elmwood Park",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21287.0,
+    "density": 3109.8,
+    "county_fips": 34003,
+    "county_name": "Bergen",
+    "county_weights": "{\"34003\": 99.89, \"34031\": 0.11}",
+    "county_names_all": "Bergen|Passaic",
+    "county_fips_all": "34003|34031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

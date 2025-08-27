@@ -1,0 +1,20 @@
+{
+    "zip": 70075,
+    "lat": 29.93158,
+    "lng": -89.92081,
+    "city": "Meraux",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5349.0,
+    "density": 605.9,
+    "county_fips": 22087,
+    "county_name": "St. Bernard",
+    "county_weights": "{\"22087\": 99.87, \"22071\": 0.13}",
+    "county_names_all": "St. Bernard|Orleans",
+    "county_fips_all": "22087|22071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

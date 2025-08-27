@@ -1,0 +1,20 @@
+{
+    "zip": 77833,
+    "lat": 30.20842,
+    "lng": -96.40797,
+    "city": "Brenham",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28234.0,
+    "density": 34.8,
+    "county_fips": 48477,
+    "county_name": "Washington",
+    "county_weights": "{\"48477\": 91.62, \"48015\": 8.38}",
+    "county_names_all": "Washington|Austin",
+    "county_fips_all": "48477|48015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 59053,
+    "lat": 46.45713,
+    "lng": -110.43492,
+    "city": "Martinsdale",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 283.0,
+    "density": 0.2,
+    "county_fips": 30059,
+    "county_name": "Meagher",
+    "county_weights": "{\"30059\": 96.81, \"30107\": 3.19}",
+    "county_names_all": "Meagher|Wheatland",
+    "county_fips_all": "30059|30107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

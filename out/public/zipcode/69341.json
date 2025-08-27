@@ -1,0 +1,20 @@
+{
+    "zip": 69341,
+    "lat": 41.74154,
+    "lng": -103.67937,
+    "city": "Gering",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10721.0,
+    "density": 20.0,
+    "county_fips": 31157,
+    "county_name": "Scotts Bluff",
+    "county_weights": "{\"31157\": 81.56, \"31007\": 18.44}",
+    "county_names_all": "Scotts Bluff|Banner",
+    "county_fips_all": "31157|31007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

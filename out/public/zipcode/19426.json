@@ -1,0 +1,20 @@
+{
+    "zip": 19426,
+    "lat": 40.18972,
+    "lng": -75.43734,
+    "city": "Collegeville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43284.0,
+    "density": 491.1,
+    "county_fips": 42091,
+    "county_name": "Montgomery",
+    "county_weights": "{\"42091\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "42091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

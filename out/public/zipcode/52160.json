@@ -1,0 +1,20 @@
+{
+    "zip": 52160,
+    "lat": 43.46733,
+    "lng": -91.3521,
+    "city": "New Albin",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 930.0,
+    "density": 8.0,
+    "county_fips": 19005,
+    "county_name": "Allamakee",
+    "county_weights": "{\"19005\": 100}",
+    "county_names_all": "Allamakee",
+    "county_fips_all": "19005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

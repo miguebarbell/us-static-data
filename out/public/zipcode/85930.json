@@ -1,0 +1,20 @@
+{
+    "zip": 85930,
+    "lat": 34.02744,
+    "lng": -109.77141,
+    "city": "Mcnary",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1436.0,
+    "density": 4.2,
+    "county_fips": 4001,
+    "county_name": "Apache",
+    "county_weights": "{\"04001\": 88.57, \"04017\": 11.43}",
+    "county_names_all": "Apache|Navajo",
+    "county_fips_all": "04001|04017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

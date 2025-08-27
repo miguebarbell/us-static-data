@@ -1,0 +1,20 @@
+{
+    "zip": 13820,
+    "lat": 42.47204,
+    "lng": -75.03893,
+    "city": "Oneonta",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22954.0,
+    "density": 82.6,
+    "county_fips": 36077,
+    "county_name": "Otsego",
+    "county_weights": "{\"36077\": 70.43, \"36025\": 29.57}",
+    "county_names_all": "Otsego|Delaware",
+    "county_fips_all": "36077|36025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

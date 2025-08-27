@@ -1,0 +1,20 @@
+{
+    "zip": 47591,
+    "lat": 38.62136,
+    "lng": -87.50594,
+    "city": "Vincennes",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25191.0,
+    "density": 58.4,
+    "county_fips": 18083,
+    "county_name": "Knox",
+    "county_weights": "{\"18083\": 100}",
+    "county_names_all": "Knox",
+    "county_fips_all": "18083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Vincennes"
+}

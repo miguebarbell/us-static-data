@@ -1,0 +1,20 @@
+{
+    "zip": 89420,
+    "lat": 38.50802,
+    "lng": -118.18051,
+    "city": "Luning",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 95.0,
+    "density": 12.2,
+    "county_fips": 32021,
+    "county_name": "Mineral",
+    "county_weights": "{\"32021\": 100}",
+    "county_names_all": "Mineral",
+    "county_fips_all": "32021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

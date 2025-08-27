@@ -1,0 +1,20 @@
+{
+    "zip": 707,
+    "lat": 18.01752,
+    "lng": -65.92127,
+    "city": "Maunabo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10400.0,
+    "density": 191.9,
+    "county_fips": 72095,
+    "county_name": "Maunabo",
+    "county_weights": "{\"72095\": 100}",
+    "county_names_all": "Maunabo",
+    "county_fips_all": "72095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

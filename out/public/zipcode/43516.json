@@ -1,0 +1,20 @@
+{
+    "zip": 43516,
+    "lat": 41.21579,
+    "lng": -83.91081,
+    "city": "Deshler",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3014.0,
+    "density": 16.0,
+    "county_fips": 39069,
+    "county_name": "Henry",
+    "county_weights": "{\"39069\": 67.72, \"39173\": 27.27, \"39063\": 3.68, \"39137\": 1.33}",
+    "county_names_all": "Henry|Wood|Hancock|Putnam",
+    "county_fips_all": "39069|39173|39063|39137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

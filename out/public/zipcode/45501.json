@@ -1,0 +1,20 @@
+{
+    "zip": 45501,
+    "lat": 39.92634,
+    "lng": -83.80745,
+    "city": "Springfield",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 39023,
+    "county_name": "Clark",
+    "county_weights": "{\"39023\": 100}",
+    "county_names_all": "Clark",
+    "county_fips_all": "39023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

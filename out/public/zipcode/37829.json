@@ -1,0 +1,20 @@
+{
+    "zip": 37829,
+    "lat": 36.00094,
+    "lng": -84.61331,
+    "city": "Oakdale",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1939.0,
+    "density": 16.9,
+    "county_fips": 47129,
+    "county_name": "Morgan",
+    "county_weights": "{\"47129\": 100}",
+    "county_names_all": "Morgan",
+    "county_fips_all": "47129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

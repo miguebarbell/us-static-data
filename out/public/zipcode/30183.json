@@ -1,0 +1,20 @@
+{
+    "zip": 30183,
+    "lat": 34.33854,
+    "lng": -84.59762,
+    "city": "Waleska",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6320.0,
+    "density": 38.8,
+    "county_fips": 13057,
+    "county_name": "Cherokee",
+    "county_weights": "{\"13057\": 95.95, \"13227\": 3.61, \"13015\": 0.44}",
+    "county_names_all": "Cherokee|Pickens|Bartow",
+    "county_fips_all": "13057|13227|13015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

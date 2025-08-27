@@ -1,0 +1,20 @@
+{
+    "zip": 49744,
+    "lat": 45.00354,
+    "lng": -83.66405,
+    "city": "Herron",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 843.0,
+    "density": 8.7,
+    "county_fips": 26007,
+    "county_name": "Alpena",
+    "county_weights": "{\"26007\": 100}",
+    "county_names_all": "Alpena",
+    "county_fips_all": "26007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

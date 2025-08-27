@@ -1,0 +1,20 @@
+{
+    "zip": 717,
+    "lat": 18.00272,
+    "lng": -66.61146,
+    "city": "Ponce",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14651.0,
+    "density": 2384.0,
+    "county_fips": 72113,
+    "county_name": "Ponce",
+    "county_weights": "{\"72113\": 100}",
+    "county_names_all": "Ponce",
+    "county_fips_all": "72113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

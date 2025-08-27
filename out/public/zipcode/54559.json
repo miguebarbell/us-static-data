@@ -1,0 +1,20 @@
+{
+    "zip": 54559,
+    "lat": 46.49382,
+    "lng": -90.47083,
+    "city": "Saxon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 855.0,
+    "density": 2.7,
+    "county_fips": 55051,
+    "county_name": "Iron",
+    "county_weights": "{\"55051\": 85.35, \"55003\": 14.65}",
+    "county_names_all": "Iron|Ashland",
+    "county_fips_all": "55051|55003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

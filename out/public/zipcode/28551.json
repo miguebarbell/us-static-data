@@ -1,0 +1,20 @@
+{
+    "zip": 28551,
+    "lat": 35.32204,
+    "lng": -77.78087,
+    "city": "La Grange",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13264.0,
+    "density": 38.6,
+    "county_fips": 37107,
+    "county_name": "Lenoir",
+    "county_weights": "{\"37107\": 57.95, \"37191\": 26.94, \"37079\": 15.11}",
+    "county_names_all": "Lenoir|Wayne|Greene",
+    "county_fips_all": "37107|37191|37079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

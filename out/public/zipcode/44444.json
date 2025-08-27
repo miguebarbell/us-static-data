@@ -1,0 +1,20 @@
+{
+    "zip": 44444,
+    "lat": 41.17559,
+    "lng": -80.97647,
+    "city": "Newton Falls",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9306.0,
+    "density": 87.5,
+    "county_fips": 39155,
+    "county_name": "Trumbull",
+    "county_weights": "{\"39155\": 72.24, \"39133\": 21.21, \"39099\": 6.55}",
+    "county_names_all": "Trumbull|Portage|Mahoning",
+    "county_fips_all": "39155|39133|39099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

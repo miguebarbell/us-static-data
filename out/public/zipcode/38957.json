@@ -1,0 +1,20 @@
+{
+    "zip": 38957,
+    "lat": 33.98747,
+    "lng": -90.37296,
+    "city": "Sumner",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 411.0,
+    "density": 14.7,
+    "county_fips": 28135,
+    "county_name": "Tallahatchie",
+    "county_weights": "{\"28135\": 100}",
+    "county_names_all": "Tallahatchie",
+    "county_fips_all": "28135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 15129,
+    "lat": 40.29348,
+    "lng": -79.99515,
+    "city": "South Park",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10553.0,
+    "density": 526.1,
+    "county_fips": 42003,
+    "county_name": "Allegheny",
+    "county_weights": "{\"42003\": 98.09, \"42125\": 1.91}",
+    "county_names_all": "Allegheny|Washington",
+    "county_fips_all": "42003|42125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

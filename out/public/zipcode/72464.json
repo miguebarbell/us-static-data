@@ -1,0 +1,20 @@
+{
+    "zip": 72464,
+    "lat": 36.45405,
+    "lng": -90.1434,
+    "city": "Saint Francis",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13.0,
+    "density": 189.9,
+    "county_fips": 5021,
+    "county_name": "Clay",
+    "county_weights": "{\"05021\": 100}",
+    "county_names_all": "Clay",
+    "county_fips_all": "05021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

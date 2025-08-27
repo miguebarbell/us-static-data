@@ -1,0 +1,20 @@
+{
+    "zip": 56368,
+    "lat": 45.45158,
+    "lng": -94.5392,
+    "city": "Richmond",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4162.0,
+    "density": 22.8,
+    "county_fips": 27145,
+    "county_name": "Stearns",
+    "county_weights": "{\"27145\": 100}",
+    "county_names_all": "Stearns",
+    "county_fips_all": "27145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

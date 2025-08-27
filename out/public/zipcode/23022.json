@@ -1,0 +1,20 @@
+{
+    "zip": 23022,
+    "lat": 37.7353,
+    "lng": -78.26432,
+    "city": "Bremo Bluff",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1130.0,
+    "density": 16.9,
+    "county_fips": 51065,
+    "county_name": "Fluvanna",
+    "county_weights": "{\"51065\": 100}",
+    "county_names_all": "Fluvanna",
+    "county_fips_all": "51065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

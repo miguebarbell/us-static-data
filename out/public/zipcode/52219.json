@@ -1,0 +1,20 @@
+{
+    "zip": 52219,
+    "lat": 42.23758,
+    "lng": -91.42576,
+    "city": "Prairieburg",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 140.0,
+    "density": 120.6,
+    "county_fips": 19113,
+    "county_name": "Linn",
+    "county_weights": "{\"19113\": 100}",
+    "county_names_all": "Linn",
+    "county_fips_all": "19113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

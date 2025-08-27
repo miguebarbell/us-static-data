@@ -1,0 +1,20 @@
+{
+    "zip": 95305,
+    "lat": 37.8306,
+    "lng": -120.34821,
+    "city": "Big Oak Flat",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 203.0,
+    "density": 1.3,
+    "county_fips": 6109,
+    "county_name": "Tuolumne",
+    "county_weights": "{\"06109\": 100}",
+    "county_names_all": "Tuolumne",
+    "county_fips_all": "06109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

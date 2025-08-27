@@ -1,0 +1,20 @@
+{
+    "zip": 46771,
+    "lat": 41.69272,
+    "lng": -85.29639,
+    "city": "Mongo",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 193.0,
+    "density": 64.5,
+    "county_fips": 18087,
+    "county_name": "LaGrange",
+    "county_weights": "{\"18087\": 100}",
+    "county_names_all": "LaGrange",
+    "county_fips_all": "18087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

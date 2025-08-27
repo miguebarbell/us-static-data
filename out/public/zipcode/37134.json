@@ -1,0 +1,20 @@
+{
+    "zip": 37134,
+    "lat": 36.0014,
+    "lng": -87.95063,
+    "city": "New Johnsonville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2922.0,
+    "density": 28.8,
+    "county_fips": 47085,
+    "county_name": "Humphreys",
+    "county_weights": "{\"47085\": 100}",
+    "county_names_all": "Humphreys",
+    "county_fips_all": "47085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

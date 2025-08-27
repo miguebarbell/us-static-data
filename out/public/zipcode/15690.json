@@ -1,0 +1,20 @@
+{
+    "zip": 15690,
+    "lat": 40.6455,
+    "lng": -79.54243,
+    "city": "Vandergrift",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9359.0,
+    "density": 137.2,
+    "county_fips": 42005,
+    "county_name": "Armstrong",
+    "county_weights": "{\"42005\": 90.5, \"42129\": 9.5}",
+    "county_names_all": "Armstrong|Westmoreland",
+    "county_fips_all": "42005|42129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

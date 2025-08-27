@@ -1,0 +1,20 @@
+{
+    "zip": 60586,
+    "lat": 41.57036,
+    "lng": -88.23162,
+    "city": "Plainfield",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 48006.0,
+    "density": 1061.7,
+    "county_fips": 17197,
+    "county_name": "Will",
+    "county_weights": "{\"17197\": 73.61, \"17093\": 26.39}",
+    "county_names_all": "Will|Kendall",
+    "county_fips_all": "17197|17093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 66835,
+    "lat": 38.53458,
+    "lng": -96.26266,
+    "city": "Americus",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1369.0,
+    "density": 9.0,
+    "county_fips": 20111,
+    "county_name": "Lyon",
+    "county_weights": "{\"20111\": 98.91, \"20127\": 1.09}",
+    "county_names_all": "Lyon|Morris",
+    "county_fips_all": "20111|20127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

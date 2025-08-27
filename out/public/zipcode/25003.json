@@ -1,0 +1,20 @@
+{
+    "zip": 25003,
+    "lat": 38.25101,
+    "lng": -81.77925,
+    "city": "Alum Creek",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1734.0,
+    "density": 18.0,
+    "county_fips": 54039,
+    "county_name": "Kanawha",
+    "county_weights": "{\"54039\": 70.54, \"54043\": 29.36, \"54005\": 0.1}",
+    "county_names_all": "Kanawha|Lincoln|Boone",
+    "county_fips_all": "54039|54043|54005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

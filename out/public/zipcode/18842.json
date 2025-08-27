@@ -1,0 +1,20 @@
+{
+    "zip": 18842,
+    "lat": 41.75594,
+    "lng": -75.61652,
+    "city": "South Gibson",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 170.0,
+    "density": 15.3,
+    "county_fips": 42115,
+    "county_name": "Susquehanna",
+    "county_weights": "{\"42115\": 100}",
+    "county_names_all": "Susquehanna",
+    "county_fips_all": "42115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

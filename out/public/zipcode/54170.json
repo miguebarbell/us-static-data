@@ -1,0 +1,20 @@
+{
+    "zip": 54170,
+    "lat": 44.51783,
+    "lng": -88.57241,
+    "city": "Shiocton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3767.0,
+    "density": 12.0,
+    "county_fips": 55087,
+    "county_name": "Outagamie",
+    "county_weights": "{\"55087\": 74.99, \"55115\": 21.91, \"55135\": 3.1}",
+    "county_names_all": "Outagamie|Shawano|Waupaca",
+    "county_fips_all": "55087|55115|55135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

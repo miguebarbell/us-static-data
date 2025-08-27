@@ -1,0 +1,20 @@
+{
+    "zip": 63701,
+    "lat": 37.33522,
+    "lng": -89.58043,
+    "city": "Cape Girardeau",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38809.0,
+    "density": 112.9,
+    "county_fips": 29031,
+    "county_name": "Cape Girardeau",
+    "county_weights": "{\"29031\": 100}",
+    "county_names_all": "Cape Girardeau",
+    "county_fips_all": "29031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

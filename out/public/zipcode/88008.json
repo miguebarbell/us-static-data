@@ -1,0 +1,20 @@
+{
+    "zip": 88008,
+    "lat": 31.81867,
+    "lng": -106.74188,
+    "city": "Santa Teresa",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11776.0,
+    "density": 56.4,
+    "county_fips": 35013,
+    "county_name": "Do\u00f1a Ana",
+    "county_weights": "{\"35013\": 100}",
+    "county_names_all": "Do\u00f1a Ana",
+    "county_fips_all": "35013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

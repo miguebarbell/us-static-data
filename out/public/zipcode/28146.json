@@ -1,0 +1,20 @@
+{
+    "zip": 28146,
+    "lat": 35.62194,
+    "lng": -80.39563,
+    "city": "Salisbury",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31757.0,
+    "density": 126.3,
+    "county_fips": 37159,
+    "county_name": "Rowan",
+    "county_weights": "{\"37159\": 100}",
+    "county_names_all": "Rowan",
+    "county_fips_all": "37159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

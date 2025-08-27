@@ -1,0 +1,20 @@
+{
+    "zip": 36907,
+    "lat": 32.43895,
+    "lng": -88.34797,
+    "city": "Cuba",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1523.0,
+    "density": 4.9,
+    "county_fips": 1119,
+    "county_name": "Sumter",
+    "county_weights": "{\"01119\": 100}",
+    "county_names_all": "Sumter",
+    "county_fips_all": "01119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

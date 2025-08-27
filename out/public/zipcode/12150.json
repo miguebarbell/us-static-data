@@ -1,0 +1,20 @@
+{
+    "zip": 12150,
+    "lat": 42.87613,
+    "lng": -74.04923,
+    "city": "Rotterdam Junction",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 665.0,
+    "density": 215.8,
+    "county_fips": 36093,
+    "county_name": "Schenectady",
+    "county_weights": "{\"36093\": 100}",
+    "county_names_all": "Schenectady",
+    "county_fips_all": "36093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

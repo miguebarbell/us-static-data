@@ -1,0 +1,20 @@
+{
+    "zip": 74078,
+    "lat": 36.12528,
+    "lng": -97.07969,
+    "city": "Stillwater",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 441.0,
+    "density": 1234.4,
+    "county_fips": 40119,
+    "county_name": "Payne",
+    "county_weights": "{\"40119\": 100}",
+    "county_names_all": "Payne",
+    "county_fips_all": "40119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

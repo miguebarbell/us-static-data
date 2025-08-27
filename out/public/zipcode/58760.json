@@ -1,0 +1,20 @@
+{
+    "zip": 58760,
+    "lat": 48.69854,
+    "lng": -101.14158,
+    "city": "Maxbass",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 258.0,
+    "density": 0.7,
+    "county_fips": 38009,
+    "county_name": "Bottineau",
+    "county_weights": "{\"38009\": 100}",
+    "county_names_all": "Bottineau",
+    "county_fips_all": "38009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

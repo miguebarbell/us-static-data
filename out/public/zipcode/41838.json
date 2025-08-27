@@ -1,0 +1,20 @@
+{
+    "zip": 41838,
+    "lat": 37.19677,
+    "lng": -82.75144,
+    "city": "Millstone",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1033.0,
+    "density": 46.4,
+    "county_fips": 21133,
+    "county_name": "Letcher",
+    "county_weights": "{\"21133\": 100}",
+    "county_names_all": "Letcher",
+    "county_fips_all": "21133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

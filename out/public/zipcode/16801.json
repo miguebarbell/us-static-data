@@ -1,0 +1,20 @@
+{
+    "zip": 16801,
+    "lat": 40.78538,
+    "lng": -77.84214,
+    "city": "State College",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42153.0,
+    "density": 523.8,
+    "county_fips": 42027,
+    "county_name": "Centre",
+    "county_weights": "{\"42027\": 100}",
+    "county_names_all": "Centre",
+    "county_fips_all": "42027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

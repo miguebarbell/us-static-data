@@ -1,0 +1,20 @@
+{
+    "zip": 70070,
+    "lat": 29.83302,
+    "lng": -90.3052,
+    "city": "Luling",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13873.0,
+    "density": 58.6,
+    "county_fips": 22089,
+    "county_name": "St. Charles",
+    "county_weights": "{\"22089\": 100}",
+    "county_names_all": "St. Charles",
+    "county_fips_all": "22089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

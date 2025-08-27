@@ -1,0 +1,20 @@
+{
+    "zip": 57265,
+    "lat": 44.98866,
+    "lng": -96.79591,
+    "city": "Strandburg",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 255.0,
+    "density": 1.2,
+    "county_fips": 46051,
+    "county_name": "Grant",
+    "county_weights": "{\"46051\": 58.57, \"46039\": 38.01, \"46029\": 3.42}",
+    "county_names_all": "Grant|Deuel|Codington",
+    "county_fips_all": "46051|46039|46029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

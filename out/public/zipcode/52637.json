@@ -1,0 +1,20 @@
+{
+    "zip": 52637,
+    "lat": 41.01949,
+    "lng": -91.13774,
+    "city": "Mediapolis",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3054.0,
+    "density": 16.8,
+    "county_fips": 19057,
+    "county_name": "Des Moines",
+    "county_weights": "{\"19057\": 100}",
+    "county_names_all": "Des Moines",
+    "county_fips_all": "19057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

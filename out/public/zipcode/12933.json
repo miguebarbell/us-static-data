@@ -1,0 +1,20 @@
+{
+    "zip": 12933,
+    "lat": 44.89118,
+    "lng": -73.84512,
+    "city": "Ellenburg",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7.0,
+    "density": 98.8,
+    "county_fips": 36019,
+    "county_name": "Clinton",
+    "county_weights": "{\"36019\": 100}",
+    "county_names_all": "Clinton",
+    "county_fips_all": "36019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

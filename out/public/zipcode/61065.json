@@ -1,0 +1,20 @@
+{
+    "zip": 61065,
+    "lat": 42.40786,
+    "lng": -88.82747,
+    "city": "Poplar Grove",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10927.0,
+    "density": 82.8,
+    "county_fips": 17007,
+    "county_name": "Boone",
+    "county_weights": "{\"17007\": 100}",
+    "county_names_all": "Boone",
+    "county_fips_all": "17007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

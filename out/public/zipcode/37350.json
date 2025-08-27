@@ -1,0 +1,20 @@
+{
+    "zip": 37350,
+    "lat": 34.99445,
+    "lng": -85.3516,
+    "city": "Lookout Mountain",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2112.0,
+    "density": 607.2,
+    "county_fips": 47065,
+    "county_name": "Hamilton",
+    "county_weights": "{\"47065\": 100}",
+    "county_names_all": "Hamilton",
+    "county_fips_all": "47065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

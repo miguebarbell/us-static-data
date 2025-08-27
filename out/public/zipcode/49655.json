@@ -1,0 +1,20 @@
+{
+    "zip": 49655,
+    "lat": 44.02718,
+    "lng": -85.43875,
+    "city": "Leroy",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3415.0,
+    "density": 15.0,
+    "county_fips": 26133,
+    "county_name": "Osceola",
+    "county_weights": "{\"26133\": 97.74, \"26085\": 2.26}",
+    "county_names_all": "Osceola|Lake",
+    "county_fips_all": "26133|26085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

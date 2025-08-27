@@ -1,0 +1,20 @@
+{
+    "zip": 92320,
+    "lat": 33.9874,
+    "lng": -117.05024,
+    "city": "Calimesa",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10680.0,
+    "density": 295.6,
+    "county_fips": 6065,
+    "county_name": "Riverside",
+    "county_weights": "{\"06065\": 100}",
+    "county_names_all": "Riverside",
+    "county_fips_all": "06065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

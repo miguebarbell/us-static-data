@@ -1,0 +1,20 @@
+{
+    "zip": 59917,
+    "lat": 48.90614,
+    "lng": -114.91359,
+    "city": "Eureka",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5086.0,
+    "density": 8.0,
+    "county_fips": 30053,
+    "county_name": "Lincoln",
+    "county_weights": "{\"30053\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "30053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

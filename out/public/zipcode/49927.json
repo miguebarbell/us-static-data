@@ -1,0 +1,20 @@
+{
+    "zip": 49927,
+    "lat": 46.04475,
+    "lng": -88.57108,
+    "city": "Gaastra",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 404.0,
+    "density": 9.4,
+    "county_fips": 26071,
+    "county_name": "Iron",
+    "county_weights": "{\"26071\": 100}",
+    "county_names_all": "Iron",
+    "county_fips_all": "26071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Menominee"
+}

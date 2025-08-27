@@ -1,0 +1,20 @@
+{
+    "zip": 28741,
+    "lat": 35.06614,
+    "lng": -83.21053,
+    "city": "Highlands",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4266.0,
+    "density": 18.2,
+    "county_fips": 37113,
+    "county_name": "Macon",
+    "county_weights": "{\"37113\": 86.99, \"37099\": 13.01}",
+    "county_names_all": "Macon|Jackson",
+    "county_fips_all": "37113|37099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 58012,
+    "lat": 46.93639,
+    "lng": -97.16113,
+    "city": "Casselton",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2805.0,
+    "density": 14.8,
+    "county_fips": 38017,
+    "county_name": "Cass",
+    "county_weights": "{\"38017\": 100}",
+    "county_names_all": "Cass",
+    "county_fips_all": "38017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

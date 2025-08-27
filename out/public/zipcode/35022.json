@@ -1,0 +1,20 @@
+{
+    "zip": 35022,
+    "lat": 33.33107,
+    "lng": -86.95959,
+    "city": "Bessemer",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23989.0,
+    "density": 144.3,
+    "county_fips": 1073,
+    "county_name": "Jefferson",
+    "county_weights": "{\"01073\": 93.68, \"01117\": 6.32}",
+    "county_names_all": "Jefferson|Shelby",
+    "county_fips_all": "01073|01117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

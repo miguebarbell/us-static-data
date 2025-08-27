@@ -1,0 +1,20 @@
+{
+    "zip": 50540,
+    "lat": 42.60019,
+    "lng": -94.8407,
+    "city": "Fonda",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1253.0,
+    "density": 4.5,
+    "county_fips": 19151,
+    "county_name": "Pocahontas",
+    "county_weights": "{\"19151\": 72.51, \"19025\": 24.9, \"19161\": 2.59}",
+    "county_names_all": "Pocahontas|Calhoun|Sac",
+    "county_fips_all": "19151|19025|19161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

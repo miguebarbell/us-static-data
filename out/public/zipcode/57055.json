@@ -1,0 +1,20 @@
+{
+    "zip": 57055,
+    "lat": 43.66638,
+    "lng": -96.73973,
+    "city": "Renner",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1178.0,
+    "density": 27.0,
+    "county_fips": 46099,
+    "county_name": "Minnehaha",
+    "county_weights": "{\"46099\": 100}",
+    "county_names_all": "Minnehaha",
+    "county_fips_all": "46099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

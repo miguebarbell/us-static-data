@@ -1,0 +1,20 @@
+{
+    "zip": 56431,
+    "lat": 46.4828,
+    "lng": -93.64356,
+    "city": "Aitkin",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9142.0,
+    "density": 7.6,
+    "county_fips": 27001,
+    "county_name": "Aitkin",
+    "county_weights": "{\"27001\": 87.08, \"27035\": 12.92}",
+    "county_names_all": "Aitkin|Crow Wing",
+    "county_fips_all": "27001|27035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

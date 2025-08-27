@@ -1,0 +1,20 @@
+{
+    "zip": 73065,
+    "lat": 35.25008,
+    "lng": -97.61209,
+    "city": "Newcastle",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11136.0,
+    "density": 83.0,
+    "county_fips": 40087,
+    "county_name": "McClain",
+    "county_weights": "{\"40087\": 100}",
+    "county_names_all": "McClain",
+    "county_fips_all": "40087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

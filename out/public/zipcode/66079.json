@@ -1,0 +1,20 @@
+{
+    "zip": 66079,
+    "lat": 38.53828,
+    "lng": -95.11371,
+    "city": "Rantoul",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 678.0,
+    "density": 6.8,
+    "county_fips": 20059,
+    "county_name": "Franklin",
+    "county_weights": "{\"20059\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "20059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

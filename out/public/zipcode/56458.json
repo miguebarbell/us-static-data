@@ -1,0 +1,20 @@
+{
+    "zip": 56458,
+    "lat": 47.19924,
+    "lng": -94.99341,
+    "city": "Lake George",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 344.0,
+    "density": 6.2,
+    "county_fips": 27057,
+    "county_name": "Hubbard",
+    "county_weights": "{\"27057\": 100}",
+    "county_names_all": "Hubbard",
+    "county_fips_all": "27057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

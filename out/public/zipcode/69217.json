@@ -1,0 +1,20 @@
+{
+    "zip": 69217,
+    "lat": 42.42045,
+    "lng": -99.71314,
+    "city": "Long Pine",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 523.0,
+    "density": 1.1,
+    "county_fips": 31017,
+    "county_name": "Brown",
+    "county_weights": "{\"31017\": 85.29, \"31149\": 14.71}",
+    "county_names_all": "Brown|Rock",
+    "county_fips_all": "31017|31149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

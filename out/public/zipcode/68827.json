@@ -1,0 +1,20 @@
+{
+    "zip": 68827,
+    "lat": 41.04247,
+    "lng": -98.1811,
+    "city": "Chapman",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 737.0,
+    "density": 4.7,
+    "county_fips": 31121,
+    "county_name": "Merrick",
+    "county_weights": "{\"31121\": 100}",
+    "county_names_all": "Merrick",
+    "county_fips_all": "31121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

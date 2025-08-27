@@ -1,0 +1,20 @@
+{
+    "zip": 64628,
+    "lat": 39.79711,
+    "lng": -93.05002,
+    "city": "Brookfield",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5602.0,
+    "density": 14.5,
+    "county_fips": 29115,
+    "county_name": "Linn",
+    "county_weights": "{\"29115\": 86.85, \"29041\": 13.15}",
+    "county_names_all": "Linn|Chariton",
+    "county_fips_all": "29115|29041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

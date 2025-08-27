@@ -1,0 +1,20 @@
+{
+    "zip": 28729,
+    "lat": 35.31961,
+    "lng": -82.60283,
+    "city": "Etowah",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3386.0,
+    "density": 314.9,
+    "county_fips": 37089,
+    "county_name": "Henderson",
+    "county_weights": "{\"37089\": 100}",
+    "county_names_all": "Henderson",
+    "county_fips_all": "37089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

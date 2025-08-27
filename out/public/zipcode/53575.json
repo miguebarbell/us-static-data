@@ -1,0 +1,20 @@
+{
+    "zip": 53575,
+    "lat": 42.93148,
+    "lng": -89.38627,
+    "city": "Oregon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17790.0,
+    "density": 124.2,
+    "county_fips": 55025,
+    "county_name": "Dane",
+    "county_weights": "{\"55025\": 100}",
+    "county_names_all": "Dane",
+    "county_fips_all": "55025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

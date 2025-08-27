@@ -1,0 +1,20 @@
+{
+    "zip": 47270,
+    "lat": 38.8397,
+    "lng": -85.71913,
+    "city": "Paris Crossing",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 543.0,
+    "density": 11.8,
+    "county_fips": 18079,
+    "county_name": "Jennings",
+    "county_weights": "{\"18079\": 87.67, \"18077\": 12.33}",
+    "county_names_all": "Jennings|Jefferson",
+    "county_fips_all": "18079|18077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

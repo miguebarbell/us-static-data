@@ -1,0 +1,20 @@
+{
+    "zip": 75904,
+    "lat": 31.33872,
+    "lng": -94.83467,
+    "city": "Lufkin",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33578.0,
+    "density": 80.8,
+    "county_fips": 48005,
+    "county_name": "Angelina",
+    "county_weights": "{\"48005\": 85.07, \"48455\": 14.93}",
+    "county_names_all": "Angelina|Trinity",
+    "county_fips_all": "48005|48455",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

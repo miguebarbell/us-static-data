@@ -1,0 +1,20 @@
+{
+    "zip": 53036,
+    "lat": 43.17141,
+    "lng": -88.57693,
+    "city": "Ixonia",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3483.0,
+    "density": 47.0,
+    "county_fips": 55055,
+    "county_name": "Jefferson",
+    "county_weights": "{\"55055\": 70.41, \"55027\": 24.76, \"55133\": 4.83}",
+    "county_names_all": "Jefferson|Dodge|Waukesha",
+    "county_fips_all": "55055|55027|55133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

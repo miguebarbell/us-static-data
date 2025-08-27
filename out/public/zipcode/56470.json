@@ -1,0 +1,20 @@
+{
+    "zip": 56470,
+    "lat": 47.02368,
+    "lng": -95.09433,
+    "city": "Park Rapids",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10859.0,
+    "density": 11.0,
+    "county_fips": 27057,
+    "county_name": "Hubbard",
+    "county_weights": "{\"27057\": 67.13, \"27005\": 22.15, \"27029\": 10.12, \"27159\": 0.6}",
+    "county_names_all": "Hubbard|Becker|Clearwater|Wadena",
+    "county_fips_all": "27057|27005|27029|27159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

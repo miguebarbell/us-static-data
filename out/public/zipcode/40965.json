@@ -1,0 +1,20 @@
+{
+    "zip": 40965,
+    "lat": 36.62469,
+    "lng": -83.73461,
+    "city": "Middlesboro",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11698.0,
+    "density": 52.3,
+    "county_fips": 21013,
+    "county_name": "Bell",
+    "county_weights": "{\"21013\": 85.05, \"47025\": 14.95}",
+    "county_names_all": "Bell|Claiborne",
+    "county_fips_all": "21013|47025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 15024,
+    "lat": 40.57649,
+    "lng": -79.84649,
+    "city": "Cheswick",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9192.0,
+    "density": 202.2,
+    "county_fips": 42003,
+    "county_name": "Allegheny",
+    "county_weights": "{\"42003\": 100}",
+    "county_names_all": "Allegheny",
+    "county_fips_all": "42003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

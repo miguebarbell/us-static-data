@@ -1,0 +1,20 @@
+{
+    "zip": 93618,
+    "lat": 36.52213,
+    "lng": -119.38661,
+    "city": "Dinuba",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32223.0,
+    "density": 186.0,
+    "county_fips": 6107,
+    "county_name": "Tulare",
+    "county_weights": "{\"06107\": 88.96, \"06019\": 11.04}",
+    "county_names_all": "Tulare|Fresno",
+    "county_fips_all": "06107|06019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

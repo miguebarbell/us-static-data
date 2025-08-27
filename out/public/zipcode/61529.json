@@ -1,0 +1,20 @@
+{
+    "zip": 61529,
+    "lat": 40.7809,
+    "lng": -89.93673,
+    "city": "Elmwood",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2784.0,
+    "density": 16.7,
+    "county_fips": 17143,
+    "county_name": "Peoria",
+    "county_weights": "{\"17143\": 97.55, \"17095\": 2.45}",
+    "county_names_all": "Peoria|Knox",
+    "county_fips_all": "17143|17095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

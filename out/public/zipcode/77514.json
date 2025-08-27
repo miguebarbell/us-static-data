@@ -1,0 +1,20 @@
+{
+    "zip": 77514,
+    "lat": 29.69096,
+    "lng": -94.62598,
+    "city": "Anahuac",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5213.0,
+    "density": 11.1,
+    "county_fips": 48071,
+    "county_name": "Chambers",
+    "county_weights": "{\"48071\": 100}",
+    "county_names_all": "Chambers",
+    "county_fips_all": "48071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

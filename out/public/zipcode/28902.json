@@ -1,0 +1,20 @@
+{
+    "zip": 28902,
+    "lat": 35.02503,
+    "lng": -83.9571,
+    "city": "Brasstown",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 966.0,
+    "density": 16.6,
+    "county_fips": 37043,
+    "county_name": "Clay",
+    "county_weights": "{\"37043\": 66.76, \"37039\": 33.24}",
+    "county_names_all": "Clay|Cherokee",
+    "county_fips_all": "37043|37039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

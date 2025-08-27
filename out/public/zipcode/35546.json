@@ -1,0 +1,20 @@
+{
+    "zip": 35546,
+    "lat": 33.60555,
+    "lng": -87.54763,
+    "city": "Berry",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4157.0,
+    "density": 6.8,
+    "county_fips": 1125,
+    "county_name": "Tuscaloosa",
+    "county_weights": "{\"01125\": 48.66, \"01057\": 43.36, \"01127\": 7.97}",
+    "county_names_all": "Tuscaloosa|Fayette|Walker",
+    "county_fips_all": "01125|01057|01127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

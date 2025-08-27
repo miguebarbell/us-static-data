@@ -1,0 +1,20 @@
+{
+    "zip": 80234,
+    "lat": 39.91208,
+    "lng": -105.00526,
+    "city": "Denver",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29573.0,
+    "density": 1621.3,
+    "county_fips": 8001,
+    "county_name": "Adams",
+    "county_weights": "{\"08001\": 97.9, \"08014\": 2.1}",
+    "county_names_all": "Adams|Broomfield",
+    "county_fips_all": "08001|08014",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

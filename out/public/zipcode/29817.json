@@ -1,0 +1,20 @@
+{
+    "zip": 29817,
+    "lat": 33.36989,
+    "lng": -81.27096,
+    "city": "Blackville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4230.0,
+    "density": 14.3,
+    "county_fips": 45011,
+    "county_name": "Barnwell",
+    "county_weights": "{\"45011\": 83.85, \"45009\": 16.15}",
+    "county_names_all": "Barnwell|Bamberg",
+    "county_fips_all": "45011|45009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 21030,
+    "lat": 39.49002,
+    "lng": -76.6659,
+    "city": "Cockeysville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25312.0,
+    "density": 406.4,
+    "county_fips": 24005,
+    "county_name": "Baltimore",
+    "county_weights": "{\"24005\": 100}",
+    "county_names_all": "Baltimore",
+    "county_fips_all": "24005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

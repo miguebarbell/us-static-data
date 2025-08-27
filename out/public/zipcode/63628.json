@@ -1,0 +1,20 @@
+{
+    "zip": 63628,
+    "lat": 37.9392,
+    "lng": -90.52466,
+    "city": "Bonne Terre",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15864.0,
+    "density": 50.9,
+    "county_fips": 29187,
+    "county_name": "St. Francois",
+    "county_weights": "{\"29187\": 84.03, \"29186\": 7.71, \"29221\": 6.3, \"29099\": 1.96}",
+    "county_names_all": "St. Francois|Ste. Genevieve|Washington|Jefferson",
+    "county_fips_all": "29187|29186|29221|29099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

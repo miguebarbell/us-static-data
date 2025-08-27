@@ -1,0 +1,20 @@
+{
+    "zip": 37745,
+    "lat": 36.2784,
+    "lng": -82.82631,
+    "city": "Greeneville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21131.0,
+    "density": 66.9,
+    "county_fips": 47059,
+    "county_name": "Greene",
+    "county_weights": "{\"47059\": 96.61, \"47073\": 3.39}",
+    "county_names_all": "Greene|Hawkins",
+    "county_fips_all": "47059|47073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

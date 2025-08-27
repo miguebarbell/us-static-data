@@ -1,0 +1,20 @@
+{
+    "zip": 48627,
+    "lat": 44.46177,
+    "lng": -84.74869,
+    "city": "Higgins Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 129.0,
+    "density": 240.7,
+    "county_fips": 26143,
+    "county_name": "Roscommon",
+    "county_weights": "{\"26143\": 100}",
+    "county_names_all": "Roscommon",
+    "county_fips_all": "26143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

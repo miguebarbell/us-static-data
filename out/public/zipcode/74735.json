@@ -1,0 +1,20 @@
+{
+    "zip": 74735,
+    "lat": 34.10142,
+    "lng": -95.25595,
+    "city": "Fort Towson",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2075.0,
+    "density": 3.9,
+    "county_fips": 40023,
+    "county_name": "Choctaw",
+    "county_weights": "{\"40023\": 66.38, \"40127\": 33.62}",
+    "county_names_all": "Choctaw|Pushmataha",
+    "county_fips_all": "40023|40127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

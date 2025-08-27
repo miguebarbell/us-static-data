@@ -1,0 +1,20 @@
+{
+    "zip": 22923,
+    "lat": 38.18671,
+    "lng": -78.32405,
+    "city": "Barboursville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6727.0,
+    "density": 54.8,
+    "county_fips": 51003,
+    "county_name": "Albemarle",
+    "county_weights": "{\"51003\": 43.13, \"51137\": 41.95, \"51079\": 14.91}",
+    "county_names_all": "Albemarle|Orange|Greene",
+    "county_fips_all": "51003|51137|51079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

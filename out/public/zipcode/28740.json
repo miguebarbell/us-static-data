@@ -1,0 +1,20 @@
+{
+    "zip": 28740,
+    "lat": 36.04118,
+    "lng": -82.30287,
+    "city": "Green Mountain",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1872.0,
+    "density": 8.2,
+    "county_fips": 37199,
+    "county_name": "Yancey",
+    "county_weights": "{\"37199\": 54.55, \"37121\": 45.45}",
+    "county_names_all": "Yancey|Mitchell",
+    "county_fips_all": "37199|37121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

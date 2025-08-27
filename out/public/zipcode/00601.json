@@ -1,0 +1,20 @@
+{
+    "zip": 601,
+    "lat": 18.18027,
+    "lng": -66.75266,
+    "city": "Adjuntas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16721.0,
+    "density": 100.2,
+    "county_fips": 72001,
+    "county_name": "Adjuntas",
+    "county_weights": "{\"72001\": 98.74, \"72141\": 1.26}",
+    "county_names_all": "Adjuntas|Utuado",
+    "county_fips_all": "72001|72141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 15864,
+    "lat": 41.09911,
+    "lng": -79.19532,
+    "city": "Summerville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1852.0,
+    "density": 18.4,
+    "county_fips": 42065,
+    "county_name": "Jefferson",
+    "county_weights": "{\"42065\": 56.21, \"42031\": 43.79}",
+    "county_names_all": "Jefferson|Clarion",
+    "county_fips_all": "42065|42031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

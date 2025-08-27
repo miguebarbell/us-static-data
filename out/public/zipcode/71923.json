@@ -1,0 +1,20 @@
+{
+    "zip": 71923,
+    "lat": 34.08424,
+    "lng": -93.05551,
+    "city": "Arkadelphia",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14374.0,
+    "density": 14.5,
+    "county_fips": 5019,
+    "county_name": "Clark",
+    "county_weights": "{\"05019\": 89.04, \"05059\": 6.77, \"05039\": 4.19}",
+    "county_names_all": "Clark|Hot Spring|Dallas",
+    "county_fips_all": "05019|05059|05039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

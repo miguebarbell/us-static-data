@@ -1,0 +1,20 @@
+{
+    "zip": 19440,
+    "lat": 40.285,
+    "lng": -75.29102,
+    "city": "Hatfield",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19650.0,
+    "density": 669.2,
+    "county_fips": 42091,
+    "county_name": "Montgomery",
+    "county_weights": "{\"42091\": 75.31, \"42017\": 24.69}",
+    "county_names_all": "Montgomery|Bucks",
+    "county_fips_all": "42091|42017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

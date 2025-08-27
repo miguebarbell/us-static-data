@@ -1,0 +1,20 @@
+{
+    "zip": 31047,
+    "lat": 32.46786,
+    "lng": -83.58009,
+    "city": "Kathleen",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19945.0,
+    "density": 102.3,
+    "county_fips": 13153,
+    "county_name": "Houston",
+    "county_weights": "{\"13153\": 100}",
+    "county_names_all": "Houston",
+    "county_fips_all": "13153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

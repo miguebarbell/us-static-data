@@ -1,0 +1,20 @@
+{
+    "zip": 83647,
+    "lat": 43.39487,
+    "lng": -115.51159,
+    "city": "Mountain Home",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22580.0,
+    "density": 5.8,
+    "county_fips": 16039,
+    "county_name": "Elmore",
+    "county_weights": "{\"16039\": 97.7, \"16073\": 2.3}",
+    "county_names_all": "Elmore|Owyhee",
+    "county_fips_all": "16039|16073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

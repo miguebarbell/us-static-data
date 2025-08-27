@@ -1,0 +1,20 @@
+{
+    "zip": 17579,
+    "lat": 39.95938,
+    "lng": -76.18032,
+    "city": "Strasburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6373.0,
+    "density": 168.0,
+    "county_fips": 42071,
+    "county_name": "Lancaster",
+    "county_weights": "{\"42071\": 100}",
+    "county_names_all": "Lancaster",
+    "county_fips_all": "42071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

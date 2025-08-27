@@ -1,0 +1,20 @@
+{
+    "zip": 54956,
+    "lat": 44.18444,
+    "lng": -88.52778,
+    "city": "Neenah",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 46658.0,
+    "density": 292.1,
+    "county_fips": 55139,
+    "county_name": "Winnebago",
+    "county_weights": "{\"55139\": 96.53, \"55087\": 3.47}",
+    "county_names_all": "Winnebago|Outagamie",
+    "county_fips_all": "55139|55087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

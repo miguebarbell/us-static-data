@@ -1,0 +1,20 @@
+{
+    "zip": 50226,
+    "lat": 41.79716,
+    "lng": -93.70566,
+    "city": "Polk City",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7290.0,
+    "density": 77.4,
+    "county_fips": 19153,
+    "county_name": "Polk",
+    "county_weights": "{\"19153\": 99.44, \"19169\": 0.56}",
+    "county_names_all": "Polk|Story",
+    "county_fips_all": "19153|19169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

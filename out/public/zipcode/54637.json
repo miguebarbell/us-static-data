@@ -1,0 +1,20 @@
+{
+    "zip": 54637,
+    "lat": 43.87874,
+    "lng": -90.27076,
+    "city": "Hustler",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 134.0,
+    "density": 150.4,
+    "county_fips": 55057,
+    "county_name": "Juneau",
+    "county_weights": "{\"55057\": 100}",
+    "county_names_all": "Juneau",
+    "county_fips_all": "55057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

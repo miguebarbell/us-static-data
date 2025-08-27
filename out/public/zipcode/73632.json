@@ -1,0 +1,20 @@
+{
+    "zip": 73632,
+    "lat": 35.27036,
+    "lng": -98.90853,
+    "city": "Cordell",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3041.0,
+    "density": 5.3,
+    "county_fips": 40149,
+    "county_name": "Washita",
+    "county_weights": "{\"40149\": 100}",
+    "county_names_all": "Washita",
+    "county_fips_all": "40149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

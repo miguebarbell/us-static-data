@@ -1,0 +1,20 @@
+{
+    "zip": 46914,
+    "lat": 40.63068,
+    "lng": -86.09515,
+    "city": "Bunker Hill",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3997.0,
+    "density": 53.2,
+    "county_fips": 18103,
+    "county_name": "Miami",
+    "county_weights": "{\"18103\": 100}",
+    "county_names_all": "Miami",
+    "county_fips_all": "18103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,15 @@
+{
+    "zip": [
+        "90401",
+        "90402",
+        "90403",
+        "90404",
+        "90405"
+    ],
+    "city": "Santa Monica",
+    "state": "CA",
+    "lat": 33.97365,
+    "lng": -118.24904,
+    "state_name": "California",
+    "timezone": "America/Los_Angeles"
+}

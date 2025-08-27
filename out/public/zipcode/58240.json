@@ -1,0 +1,20 @@
+{
+    "zip": 58240,
+    "lat": 47.63491,
+    "lng": -97.47675,
+    "city": "Hatton",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1065.0,
+    "density": 2.9,
+    "county_fips": 38091,
+    "county_name": "Steele",
+    "county_weights": "{\"38091\": 47.77, \"38097\": 33.02, \"38035\": 19.22}",
+    "county_names_all": "Steele|Traill|Grand Forks",
+    "county_fips_all": "38091|38097|38035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

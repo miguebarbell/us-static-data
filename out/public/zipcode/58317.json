@@ -1,0 +1,20 @@
+{
+    "zip": 58317,
+    "lat": 48.62576,
+    "lng": -99.38679,
+    "city": "Bisbee",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 189.0,
+    "density": 0.5,
+    "county_fips": 38095,
+    "county_name": "Towner",
+    "county_weights": "{\"38095\": 95.21, \"38079\": 4.79}",
+    "county_names_all": "Towner|Rolette",
+    "county_fips_all": "38095|38079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

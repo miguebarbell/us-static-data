@@ -1,0 +1,20 @@
+{
+    "zip": 47011,
+    "lat": 38.8724,
+    "lng": -85.06887,
+    "city": "Bennington",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1533.0,
+    "density": 17.8,
+    "county_fips": 18155,
+    "county_name": "Switzerland",
+    "county_weights": "{\"18155\": 90.63, \"18115\": 9.37}",
+    "county_names_all": "Switzerland|Ohio",
+    "county_fips_all": "18155|18115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Vevay"
+}

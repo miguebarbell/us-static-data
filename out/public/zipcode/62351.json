@@ -1,0 +1,20 @@
+{
+    "zip": 62351,
+    "lat": 40.11374,
+    "lng": -91.26751,
+    "city": "Mendon",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2026.0,
+    "density": 10.7,
+    "county_fips": 17001,
+    "county_name": "Adams",
+    "county_weights": "{\"17001\": 95.13, \"17067\": 4.87}",
+    "county_names_all": "Adams|Hancock",
+    "county_fips_all": "17001|17067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

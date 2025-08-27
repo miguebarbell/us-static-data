@@ -1,0 +1,20 @@
+{
+    "zip": 33865,
+    "lat": 27.42944,
+    "lng": -81.96262,
+    "city": "Ona",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 388.0,
+    "density": 0.9,
+    "county_fips": 12049,
+    "county_name": "Hardee",
+    "county_weights": "{\"12049\": 97.04, \"12027\": 2.96}",
+    "county_names_all": "Hardee|DeSoto",
+    "county_fips_all": "12049|12027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

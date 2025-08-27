@@ -1,0 +1,20 @@
+{
+    "zip": 44319,
+    "lat": 40.98402,
+    "lng": -81.53169,
+    "city": "Akron",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21469.0,
+    "density": 435.3,
+    "county_fips": 39153,
+    "county_name": "Summit",
+    "county_weights": "{\"39153\": 100}",
+    "county_names_all": "Summit",
+    "county_fips_all": "39153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 79093,
+    "lat": 36.26637,
+    "lng": -101.02997,
+    "city": "Waka",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 114.0,
+    "density": 2.0,
+    "county_fips": 48357,
+    "county_name": "Ochiltree",
+    "county_weights": "{\"48357\": 100}",
+    "county_names_all": "Ochiltree",
+    "county_fips_all": "48357",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

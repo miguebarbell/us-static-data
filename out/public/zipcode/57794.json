@@ -1,0 +1,20 @@
+{
+    "zip": 57794,
+    "lat": 43.12071,
+    "lng": -102.40695,
+    "city": "Wounded Knee",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1062.0,
+    "density": 8.1,
+    "county_fips": 46102,
+    "county_name": "Oglala Lakota",
+    "county_weights": "{\"46102\": 100}",
+    "county_names_all": "Oglala Lakota",
+    "county_fips_all": "46102",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

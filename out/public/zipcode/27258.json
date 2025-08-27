@@ -1,0 +1,20 @@
+{
+    "zip": 27258,
+    "lat": 36.03401,
+    "lng": -79.32623,
+    "city": "Haw River",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7162.0,
+    "density": 147.3,
+    "county_fips": 37001,
+    "county_name": "Alamance",
+    "county_weights": "{\"37001\": 100}",
+    "county_names_all": "Alamance",
+    "county_fips_all": "37001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

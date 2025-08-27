@@ -1,0 +1,20 @@
+{
+    "zip": 54728,
+    "lat": 45.30778,
+    "lng": -91.6417,
+    "city": "Chetek",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5631.0,
+    "density": 17.3,
+    "county_fips": 55005,
+    "county_name": "Barron",
+    "county_weights": "{\"55005\": 79.95, \"55107\": 19.28, \"55033\": 0.77}",
+    "county_names_all": "Barron|Rusk|Dunn",
+    "county_fips_all": "55005|55107|55033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

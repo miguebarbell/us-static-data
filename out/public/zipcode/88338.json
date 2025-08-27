@@ -1,0 +1,20 @@
+{
+    "zip": 88338,
+    "lat": 33.53723,
+    "lng": -105.38468,
+    "city": "Lincoln",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 254.0,
+    "density": 0.6,
+    "county_fips": 35027,
+    "county_name": "Lincoln",
+    "county_weights": "{\"35027\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "35027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65714,
+    "lat": 37.03801,
+    "lng": -93.31976,
+    "city": "Nixa",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35243.0,
+    "density": 266.2,
+    "county_fips": 29043,
+    "county_name": "Christian",
+    "county_weights": "{\"29043\": 93.75, \"29209\": 6.25}",
+    "county_names_all": "Christian|Stone",
+    "county_fips_all": "29043|29209",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

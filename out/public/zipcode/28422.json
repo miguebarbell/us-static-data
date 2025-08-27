@@ -1,0 +1,20 @@
+{
+    "zip": 28422,
+    "lat": 34.05192,
+    "lng": -78.20147,
+    "city": "Bolivia",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8590.0,
+    "density": 25.0,
+    "county_fips": 37019,
+    "county_name": "Brunswick",
+    "county_weights": "{\"37019\": 100}",
+    "county_names_all": "Brunswick",
+    "county_fips_all": "37019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

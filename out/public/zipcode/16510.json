@@ -1,0 +1,20 @@
+{
+    "zip": 16510,
+    "lat": 42.11184,
+    "lng": -79.95395,
+    "city": "Erie",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25152.0,
+    "density": 294.5,
+    "county_fips": 42049,
+    "county_name": "Erie",
+    "county_weights": "{\"42049\": 100}",
+    "county_names_all": "Erie",
+    "county_fips_all": "42049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

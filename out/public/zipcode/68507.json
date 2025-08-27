@@ -1,0 +1,20 @@
+{
+    "zip": 68507,
+    "lat": 40.85954,
+    "lng": -96.61172,
+    "city": "Lincoln",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16481.0,
+    "density": 572.2,
+    "county_fips": 31109,
+    "county_name": "Lancaster",
+    "county_weights": "{\"31109\": 100}",
+    "county_names_all": "Lancaster",
+    "county_fips_all": "31109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

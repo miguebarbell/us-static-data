@@ -1,0 +1,20 @@
+{
+    "zip": 83121,
+    "lat": 41.84982,
+    "lng": -110.54023,
+    "city": "Frontier",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 56023,
+    "county_name": "Lincoln",
+    "county_weights": "{\"56023\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "56023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 70737,
+    "lat": 30.22587,
+    "lng": -90.92271,
+    "city": "Gonzales",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 47971.0,
+    "density": 343.0,
+    "county_fips": 22005,
+    "county_name": "Ascension",
+    "county_weights": "{\"22005\": 100}",
+    "county_names_all": "Ascension",
+    "county_fips_all": "22005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

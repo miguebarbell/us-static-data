@@ -1,0 +1,20 @@
+{
+    "zip": 17750,
+    "lat": 41.05517,
+    "lng": -77.47805,
+    "city": "Mackeyville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 164.0,
+    "density": 45.9,
+    "county_fips": 42035,
+    "county_name": "Clinton",
+    "county_weights": "{\"42035\": 100}",
+    "county_names_all": "Clinton",
+    "county_fips_all": "42035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

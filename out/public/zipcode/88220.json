@@ -1,0 +1,20 @@
+{
+    "zip": 88220,
+    "lat": 32.31421,
+    "lng": -104.41732,
+    "city": "Carlsbad",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40151.0,
+    "density": 8.1,
+    "county_fips": 35015,
+    "county_name": "Eddy",
+    "county_weights": "{\"35015\": 100}",
+    "county_names_all": "Eddy",
+    "county_fips_all": "35015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

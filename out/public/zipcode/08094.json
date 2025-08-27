@@ -1,0 +1,20 @@
+{
+    "zip": 8094,
+    "lat": 39.65096,
+    "lng": -74.96529,
+    "city": "Williamstown",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40542.0,
+    "density": 285.8,
+    "county_fips": 34015,
+    "county_name": "Gloucester",
+    "county_weights": "{\"34015\": 89.23, \"34001\": 10.77}",
+    "county_names_all": "Gloucester|Atlantic",
+    "county_fips_all": "34015|34001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

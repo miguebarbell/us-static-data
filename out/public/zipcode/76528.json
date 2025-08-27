@@ -1,0 +1,20 @@
+{
+    "zip": 76528,
+    "lat": 31.43589,
+    "lng": -97.7844,
+    "city": "Gatesville",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18490.0,
+    "density": 14.7,
+    "county_fips": 48099,
+    "county_name": "Coryell",
+    "county_weights": "{\"48099\": 98.06, \"48027\": 1.94}",
+    "county_names_all": "Coryell|Bell",
+    "county_fips_all": "48099|48027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

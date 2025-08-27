@@ -1,0 +1,20 @@
+{
+    "zip": 95721,
+    "lat": 38.82341,
+    "lng": -120.09379,
+    "city": "Echo Lake",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 6017,
+    "county_name": "El Dorado",
+    "county_weights": "{\"06017\": 100}",
+    "county_names_all": "El Dorado",
+    "county_fips_all": "06017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

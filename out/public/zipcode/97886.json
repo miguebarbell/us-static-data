@@ -1,0 +1,20 @@
+{
+    "zip": 97886,
+    "lat": 45.79604,
+    "lng": -118.24924,
+    "city": "Weston",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1185.0,
+    "density": 3.1,
+    "county_fips": 41059,
+    "county_name": "Umatilla",
+    "county_weights": "{\"41059\": 100}",
+    "county_names_all": "Umatilla",
+    "county_fips_all": "41059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

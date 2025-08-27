@@ -1,0 +1,20 @@
+{
+    "zip": 38504,
+    "lat": 36.39314,
+    "lng": -84.73528,
+    "city": "Allardt",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 496.0,
+    "density": 4.2,
+    "county_fips": 47049,
+    "county_name": "Fentress",
+    "county_weights": "{\"47049\": 84.27, \"47151\": 15.73}",
+    "county_names_all": "Fentress|Scott",
+    "county_fips_all": "47049|47151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

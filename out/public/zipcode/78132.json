@@ -1,0 +1,20 @@
+{
+    "zip": 78132,
+    "lat": 29.76299,
+    "lng": -98.19,
+    "city": "New Braunfels",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40383.0,
+    "density": 86.9,
+    "county_fips": 48091,
+    "county_name": "Comal",
+    "county_weights": "{\"48091\": 99.47, \"48187\": 0.53}",
+    "county_names_all": "Comal|Guadalupe",
+    "county_fips_all": "48091|48187",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

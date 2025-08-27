@@ -1,0 +1,20 @@
+{
+    "zip": 80938,
+    "lat": 38.90157,
+    "lng": -104.65926,
+    "city": "Colorado Springs",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1345.0,
+    "density": 97.6,
+    "county_fips": 8041,
+    "county_name": "El Paso",
+    "county_weights": "{\"08041\": 100}",
+    "county_names_all": "El Paso",
+    "county_fips_all": "08041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

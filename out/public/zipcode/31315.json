@@ -1,0 +1,20 @@
+{
+    "zip": 31315,
+    "lat": 31.88768,
+    "lng": -81.60598,
+    "city": "Fort Stewart",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8319.0,
+    "density": 950.2,
+    "county_fips": 13179,
+    "county_name": "Liberty",
+    "county_weights": "{\"13179\": 100}",
+    "county_names_all": "Liberty",
+    "county_fips_all": "13179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

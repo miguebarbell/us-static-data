@@ -1,0 +1,20 @@
+{
+    "zip": 84028,
+    "lat": 41.93107,
+    "lng": -111.38267,
+    "city": "Garden City",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 667.0,
+    "density": 5.3,
+    "county_fips": 49033,
+    "county_name": "Rich",
+    "county_weights": "{\"49033\": 100}",
+    "county_names_all": "Rich",
+    "county_fips_all": "49033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

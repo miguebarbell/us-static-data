@@ -1,0 +1,20 @@
+{
+    "zip": 31634,
+    "lat": 31.02867,
+    "lng": -82.7321,
+    "city": "Homerville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5178.0,
+    "density": 9.8,
+    "county_fips": 13065,
+    "county_name": "Clinch",
+    "county_weights": "{\"13065\": 100}",
+    "county_names_all": "Clinch",
+    "county_fips_all": "13065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 80235,
+    "lat": 39.64615,
+    "lng": -105.08909,
+    "city": "Denver",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8374.0,
+    "density": 952.1,
+    "county_fips": 8059,
+    "county_name": "Jefferson",
+    "county_weights": "{\"08059\": 75.04, \"08031\": 24.96}",
+    "county_names_all": "Jefferson|Denver",
+    "county_fips_all": "08059|08031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

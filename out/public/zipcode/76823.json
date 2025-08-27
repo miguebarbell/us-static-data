@@ -1,0 +1,20 @@
+{
+    "zip": 76823,
+    "lat": 31.68718,
+    "lng": -99.16205,
+    "city": "Bangs",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2911.0,
+    "density": 12.2,
+    "county_fips": 48049,
+    "county_name": "Brown",
+    "county_weights": "{\"48049\": 87.42, \"48083\": 12.58}",
+    "county_names_all": "Brown|Coleman",
+    "county_fips_all": "48049|48083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

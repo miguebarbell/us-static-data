@@ -1,0 +1,20 @@
+{
+    "zip": 20612,
+    "lat": 38.50708,
+    "lng": -76.67789,
+    "city": "Benedict",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 68.0,
+    "density": 112.4,
+    "county_fips": 24017,
+    "county_name": "Charles",
+    "county_weights": "{\"24017\": 100}",
+    "county_names_all": "Charles",
+    "county_fips_all": "24017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

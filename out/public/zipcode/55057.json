@@ -1,0 +1,20 @@
+{
+    "zip": 55057,
+    "lat": 44.47281,
+    "lng": -93.17939,
+    "city": "Northfield",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25458.0,
+    "density": 78.8,
+    "county_fips": 27131,
+    "county_name": "Rice",
+    "county_weights": "{\"27131\": 53.89, \"27037\": 45.88, \"27049\": 0.23}",
+    "county_names_all": "Rice|Dakota|Goodhue",
+    "county_fips_all": "27131|27037|27049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

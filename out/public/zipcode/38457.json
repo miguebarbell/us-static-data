@@ -1,0 +1,20 @@
+{
+    "zip": 38457,
+    "lat": 35.0297,
+    "lng": -87.28482,
+    "city": "Five Points",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 491.0,
+    "density": 7.2,
+    "county_fips": 47099,
+    "county_name": "Lawrence",
+    "county_weights": "{\"47099\": 100}",
+    "county_names_all": "Lawrence",
+    "county_fips_all": "47099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

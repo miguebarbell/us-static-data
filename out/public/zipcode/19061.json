@@ -1,0 +1,20 @@
+{
+    "zip": 19061,
+    "lat": 39.82741,
+    "lng": -75.432,
+    "city": "Marcus Hook",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20135.0,
+    "density": 1110.6,
+    "county_fips": 42045,
+    "county_name": "Delaware",
+    "county_weights": "{\"42045\": 100}",
+    "county_names_all": "Delaware",
+    "county_fips_all": "42045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

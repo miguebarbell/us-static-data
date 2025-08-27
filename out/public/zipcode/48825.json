@@ -1,0 +1,20 @@
+{
+    "zip": 48825,
+    "lat": 42.72844,
+    "lng": -84.48067,
+    "city": "East Lansing",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11127.0,
+    "density": 6249.4,
+    "county_fips": 26065,
+    "county_name": "Ingham",
+    "county_weights": "{\"26065\": 100}",
+    "county_names_all": "Ingham",
+    "county_fips_all": "26065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

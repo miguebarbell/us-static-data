@@ -1,0 +1,20 @@
+{
+    "zip": 23124,
+    "lat": 37.55271,
+    "lng": -77.05949,
+    "city": "New Kent",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4913.0,
+    "density": 35.6,
+    "county_fips": 51127,
+    "county_name": "New Kent",
+    "county_weights": "{\"51127\": 100}",
+    "county_names_all": "New Kent",
+    "county_fips_all": "51127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 25060,
+    "lat": 37.97058,
+    "lng": -81.47286,
+    "city": "Dorothy",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 47.0,
+    "density": 3.7,
+    "county_fips": 54081,
+    "county_name": "Raleigh",
+    "county_weights": "{\"54081\": 99.87, \"54005\": 0.13}",
+    "county_names_all": "Raleigh|Boone",
+    "county_fips_all": "54081|54005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 3457,
+    "lat": 43.00282,
+    "lng": -72.12933,
+    "city": "Nelson",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 720.0,
+    "density": 9.5,
+    "county_fips": 33005,
+    "county_name": "Cheshire",
+    "county_weights": "{\"33005\": 100}",
+    "county_names_all": "Cheshire",
+    "county_fips_all": "33005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

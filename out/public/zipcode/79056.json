@@ -1,0 +1,20 @@
+{
+    "zip": 79056,
+    "lat": 36.21724,
+    "lng": -100.22139,
+    "city": "Lipscomb",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 99.0,
+    "density": 0.9,
+    "county_fips": 48295,
+    "county_name": "Lipscomb",
+    "county_weights": "{\"48295\": 100}",
+    "county_names_all": "Lipscomb",
+    "county_fips_all": "48295",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

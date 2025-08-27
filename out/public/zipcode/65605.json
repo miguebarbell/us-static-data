@@ -1,0 +1,20 @@
+{
+    "zip": 65605,
+    "lat": 36.88408,
+    "lng": -93.69132,
+    "city": "Aurora",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11611.0,
+    "density": 27.6,
+    "county_fips": 29009,
+    "county_name": "Barry",
+    "county_weights": "{\"29009\": 56.64, \"29109\": 42.17, \"29209\": 1.19}",
+    "county_names_all": "Barry|Lawrence|Stone",
+    "county_fips_all": "29009|29109|29209",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

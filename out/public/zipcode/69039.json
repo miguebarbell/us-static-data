@@ -1,0 +1,20 @@
+{
+    "zip": 69039,
+    "lat": 40.7013,
+    "lng": -100.38529,
+    "city": "Moorefield",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 91.0,
+    "density": 0.3,
+    "county_fips": 31111,
+    "county_name": "Lincoln",
+    "county_weights": "{\"31111\": 54.33, \"31063\": 45.67}",
+    "county_names_all": "Lincoln|Frontier",
+    "county_fips_all": "31111|31063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

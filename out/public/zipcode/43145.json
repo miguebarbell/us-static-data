@@ -1,0 +1,20 @@
+{
+    "zip": 43145,
+    "lat": 39.56281,
+    "lng": -83.2594,
+    "city": "New Holland",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2143.0,
+    "density": 15.4,
+    "county_fips": 39129,
+    "county_name": "Pickaway",
+    "county_weights": "{\"39129\": 51.17, \"39047\": 48.83}",
+    "county_names_all": "Pickaway|Fayette",
+    "county_fips_all": "39129|39047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

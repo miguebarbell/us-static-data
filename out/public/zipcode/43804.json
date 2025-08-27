@@ -1,0 +1,20 @@
+{
+    "zip": 43804,
+    "lat": 40.4545,
+    "lng": -81.73704,
+    "city": "Baltic",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3503.0,
+    "density": 44.1,
+    "county_fips": 39075,
+    "county_name": "Holmes",
+    "county_weights": "{\"39075\": 66.56, \"39157\": 18.74, \"39031\": 14.7}",
+    "county_names_all": "Holmes|Tuscarawas|Coshocton",
+    "county_fips_all": "39075|39157|39031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

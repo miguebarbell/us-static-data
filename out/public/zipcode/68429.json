@@ -1,0 +1,20 @@
+{
+    "zip": 68429,
+    "lat": 40.06406,
+    "lng": -97.37437,
+    "city": "Reynolds",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 68.0,
+    "density": 1.4,
+    "county_fips": 31095,
+    "county_name": "Jefferson",
+    "county_weights": "{\"31095\": 52.11, \"31169\": 47.89}",
+    "county_names_all": "Jefferson|Thayer",
+    "county_fips_all": "31095|31169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

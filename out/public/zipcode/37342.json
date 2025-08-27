@@ -1,0 +1,20 @@
+{
+    "zip": 37342,
+    "lat": 35.38175,
+    "lng": -85.94937,
+    "city": "Hillsboro",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3759.0,
+    "density": 21.2,
+    "county_fips": 47031,
+    "county_name": "Coffee",
+    "county_weights": "{\"47031\": 100}",
+    "county_names_all": "Coffee",
+    "county_fips_all": "47031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

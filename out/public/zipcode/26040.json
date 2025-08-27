@@ -1,0 +1,20 @@
+{
+    "zip": 26040,
+    "lat": 39.98389,
+    "lng": -80.73104,
+    "city": "Mcmechen",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1855.0,
+    "density": 952.1,
+    "county_fips": 54051,
+    "county_name": "Marshall",
+    "county_weights": "{\"54051\": 100}",
+    "county_names_all": "Marshall",
+    "county_fips_all": "54051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

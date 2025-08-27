@@ -1,0 +1,20 @@
+{
+    "zip": 29418,
+    "lat": 32.88896,
+    "lng": -80.0644,
+    "city": "North Charleston",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25589.0,
+    "density": 746.9,
+    "county_fips": 45019,
+    "county_name": "Charleston",
+    "county_weights": "{\"45019\": 78.22, \"45035\": 21.78}",
+    "county_names_all": "Charleston|Dorchester",
+    "county_fips_all": "45019|45035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

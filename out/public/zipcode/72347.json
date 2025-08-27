@@ -1,0 +1,20 @@
+{
+    "zip": 72347,
+    "lat": 35.38415,
+    "lng": -90.99892,
+    "city": "Hickory Ridge",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 877.0,
+    "density": 3.5,
+    "county_fips": 5037,
+    "county_name": "Cross",
+    "county_weights": "{\"05037\": 76.9, \"05067\": 23.1}",
+    "county_names_all": "Cross|Jackson",
+    "county_fips_all": "05037|05067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

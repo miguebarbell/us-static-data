@@ -1,0 +1,20 @@
+{
+    "zip": 61067,
+    "lat": 42.30472,
+    "lng": -89.47454,
+    "city": "Ridott",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 496.0,
+    "density": 6.1,
+    "county_fips": 17177,
+    "county_name": "Stephenson",
+    "county_weights": "{\"17177\": 100}",
+    "county_names_all": "Stephenson",
+    "county_fips_all": "17177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

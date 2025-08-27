@@ -1,0 +1,20 @@
+{
+    "zip": 62992,
+    "lat": 37.27855,
+    "lng": -89.1556,
+    "city": "Ullin",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 811.0,
+    "density": 8.3,
+    "county_fips": 17153,
+    "county_name": "Pulaski",
+    "county_weights": "{\"17153\": 82.16, \"17003\": 17.84}",
+    "county_names_all": "Pulaski|Alexander",
+    "county_fips_all": "17153|17003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

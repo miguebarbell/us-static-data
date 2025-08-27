@@ -1,0 +1,20 @@
+{
+    "zip": 37705,
+    "lat": 36.22862,
+    "lng": -84.00947,
+    "city": "Andersonville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5479.0,
+    "density": 47.4,
+    "county_fips": 47001,
+    "county_name": "Anderson",
+    "county_weights": "{\"47001\": 67.5, \"47173\": 32.5}",
+    "county_names_all": "Anderson|Union",
+    "county_fips_all": "47001|47173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

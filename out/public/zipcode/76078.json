@@ -1,0 +1,20 @@
+{
+    "zip": 76078,
+    "lat": 33.0896,
+    "lng": -97.46647,
+    "city": "Rhome",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10200.0,
+    "density": 61.4,
+    "county_fips": 48497,
+    "county_name": "Wise",
+    "county_weights": "{\"48497\": 99.61, \"48121\": 0.39}",
+    "county_names_all": "Wise|Denton",
+    "county_fips_all": "48497|48121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

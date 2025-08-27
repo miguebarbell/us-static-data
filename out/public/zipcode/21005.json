@@ -1,0 +1,20 @@
+{
+    "zip": 21005,
+    "lat": 39.44101,
+    "lng": -76.16509,
+    "city": "Aberdeen Proving Ground",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2354.0,
+    "density": 27.3,
+    "county_fips": 24025,
+    "county_name": "Harford",
+    "county_weights": "{\"24025\": 100}",
+    "county_names_all": "Harford",
+    "county_fips_all": "24025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 28442,
+    "lat": 34.31023,
+    "lng": -78.60106,
+    "city": "Hallsboro",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1134.0,
+    "density": 11.5,
+    "county_fips": 37047,
+    "county_name": "Columbus",
+    "county_weights": "{\"37047\": 100}",
+    "county_names_all": "Columbus",
+    "county_fips_all": "37047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

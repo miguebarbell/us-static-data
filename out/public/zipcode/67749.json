@@ -1,0 +1,20 @@
+{
+    "zip": 67749,
+    "lat": 39.83214,
+    "lng": -100.56728,
+    "city": "Oberlin",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2152.0,
+    "density": 1.9,
+    "county_fips": 20039,
+    "county_name": "Decatur",
+    "county_weights": "{\"20039\": 93.93, \"20153\": 6.07}",
+    "county_names_all": "Decatur|Rawlins",
+    "county_fips_all": "20039|20153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

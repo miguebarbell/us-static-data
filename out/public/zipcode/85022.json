@@ -1,0 +1,20 @@
+{
+    "zip": 85022,
+    "lat": 33.62685,
+    "lng": -112.05113,
+    "city": "Phoenix",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 52488.0,
+    "density": 2155.8,
+    "county_fips": 4013,
+    "county_name": "Maricopa",
+    "county_weights": "{\"04013\": 100}",
+    "county_names_all": "Maricopa",
+    "county_fips_all": "04013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

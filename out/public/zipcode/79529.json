@@ -1,0 +1,20 @@
+{
+    "zip": 79529,
+    "lat": 33.42911,
+    "lng": -99.82915,
+    "city": "Knox City",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1052.0,
+    "density": 4.3,
+    "county_fips": 48275,
+    "county_name": "Knox",
+    "county_weights": "{\"48275\": 84.73, \"48207\": 15.27}",
+    "county_names_all": "Knox|Haskell",
+    "county_fips_all": "48275|48207",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

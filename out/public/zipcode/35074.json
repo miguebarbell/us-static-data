@@ -1,0 +1,20 @@
+{
+    "zip": 35074,
+    "lat": 33.22235,
+    "lng": -87.12415,
+    "city": "Green Pond",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 140.0,
+    "density": 969.5,
+    "county_fips": 1007,
+    "county_name": "Bibb",
+    "county_weights": "{\"01007\": 100}",
+    "county_names_all": "Bibb",
+    "county_fips_all": "01007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

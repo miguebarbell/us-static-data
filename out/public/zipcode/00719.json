@@ -1,0 +1,20 @@
+{
+    "zip": 719,
+    "lat": 18.28879,
+    "lng": -66.25316,
+    "city": "Naranjito",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29732.0,
+    "density": 406.9,
+    "county_fips": 72105,
+    "county_name": "Naranjito",
+    "county_weights": "{\"72105\": 96.91, \"72047\": 2.23, \"72045\": 0.46, \"72135\": 0.4}",
+    "county_names_all": "Naranjito|Corozal|Comer\u00edo|Toa Alta",
+    "county_fips_all": "72105|72047|72045|72135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

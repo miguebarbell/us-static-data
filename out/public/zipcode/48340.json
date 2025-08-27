@@ -1,0 +1,20 @@
+{
+    "zip": 48340,
+    "lat": 42.67065,
+    "lng": -83.29019,
+    "city": "Pontiac",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25696.0,
+    "density": 1295.6,
+    "county_fips": 26125,
+    "county_name": "Oakland",
+    "county_weights": "{\"26125\": 100}",
+    "county_names_all": "Oakland",
+    "county_fips_all": "26125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 44850,
+    "lat": 41.03539,
+    "lng": -82.68403,
+    "city": "New Haven",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 213.0,
+    "density": 217.2,
+    "county_fips": 39077,
+    "county_name": "Huron",
+    "county_weights": "{\"39077\": 100}",
+    "county_names_all": "Huron",
+    "county_fips_all": "39077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

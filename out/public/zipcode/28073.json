@@ -1,0 +1,20 @@
+{
+    "zip": 28073,
+    "lat": 35.19776,
+    "lng": -81.48126,
+    "city": "Grover",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6246.0,
+    "density": 93.8,
+    "county_fips": 37045,
+    "county_name": "Cleveland",
+    "county_weights": "{\"37045\": 100}",
+    "county_names_all": "Cleveland",
+    "county_fips_all": "37045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

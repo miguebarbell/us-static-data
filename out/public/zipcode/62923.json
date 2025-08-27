@@ -1,0 +1,20 @@
+{
+    "zip": 62923,
+    "lat": 37.33709,
+    "lng": -89.03671,
+    "city": "Cypress",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 393.0,
+    "density": 6.5,
+    "county_fips": 17087,
+    "county_name": "Johnson",
+    "county_weights": "{\"17087\": 59.62, \"17181\": 21.52, \"17153\": 18.86}",
+    "county_names_all": "Johnson|Union|Pulaski",
+    "county_fips_all": "17087|17181|17153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

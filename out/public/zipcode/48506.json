@@ -1,0 +1,20 @@
+{
+    "zip": 48506,
+    "lat": 43.06775,
+    "lng": -83.62253,
+    "city": "Flint",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24538.0,
+    "density": 512.2,
+    "county_fips": 26049,
+    "county_name": "Genesee",
+    "county_weights": "{\"26049\": 100}",
+    "county_names_all": "Genesee",
+    "county_fips_all": "26049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

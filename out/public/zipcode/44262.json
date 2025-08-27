@@ -1,0 +1,20 @@
+{
+    "zip": 44262,
+    "lat": 41.13901,
+    "lng": -81.43492,
+    "city": "Munroe Falls",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5019.0,
+    "density": 724.7,
+    "county_fips": 39153,
+    "county_name": "Summit",
+    "county_weights": "{\"39153\": 100}",
+    "county_names_all": "Summit",
+    "county_fips_all": "39153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

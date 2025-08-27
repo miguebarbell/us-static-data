@@ -1,0 +1,20 @@
+{
+    "zip": 21750,
+    "lat": 39.68698,
+    "lng": -78.2129,
+    "city": "Hancock",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3585.0,
+    "density": 22.5,
+    "county_fips": 24043,
+    "county_name": "Washington",
+    "county_weights": "{\"24043\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "24043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 44681,
+    "lat": 40.50018,
+    "lng": -81.6625,
+    "city": "Sugarcreek",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9071.0,
+    "density": 62.1,
+    "county_fips": 39157,
+    "county_name": "Tuscarawas",
+    "county_weights": "{\"39157\": 58.88, \"39075\": 41.12}",
+    "county_names_all": "Tuscarawas|Holmes",
+    "county_fips_all": "39157|39075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

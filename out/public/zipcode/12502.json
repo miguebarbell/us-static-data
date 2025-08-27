@@ -1,0 +1,20 @@
+{
+    "zip": 12502,
+    "lat": 42.08324,
+    "lng": -73.65409,
+    "city": "Ancram",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1019.0,
+    "density": 12.3,
+    "county_fips": 36021,
+    "county_name": "Columbia",
+    "county_weights": "{\"36021\": 100}",
+    "county_names_all": "Columbia",
+    "county_fips_all": "36021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

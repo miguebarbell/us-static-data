@@ -1,0 +1,20 @@
+{
+    "zip": 26435,
+    "lat": 39.26743,
+    "lng": -80.08875,
+    "city": "Simpson",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 67.0,
+    "density": 266.3,
+    "county_fips": 54091,
+    "county_name": "Taylor",
+    "county_weights": "{\"54091\": 100}",
+    "county_names_all": "Taylor",
+    "county_fips_all": "54091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

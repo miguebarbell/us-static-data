@@ -1,0 +1,20 @@
+{
+    "zip": 27332,
+    "lat": 35.37836,
+    "lng": -79.13599,
+    "city": "Sanford",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 34378.0,
+    "density": 124.0,
+    "county_fips": 37105,
+    "county_name": "Lee",
+    "county_weights": "{\"37105\": 64.17, \"37085\": 35.83}",
+    "county_names_all": "Lee|Harnett",
+    "county_fips_all": "37105|37085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

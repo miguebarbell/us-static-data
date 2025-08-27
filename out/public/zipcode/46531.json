@@ -1,0 +1,20 @@
+{
+    "zip": 46531,
+    "lat": 41.35686,
+    "lng": -86.51558,
+    "city": "Grovertown",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1818.0,
+    "density": 33.1,
+    "county_fips": 18149,
+    "county_name": "Starke",
+    "county_weights": "{\"18149\": 98.92, \"18099\": 1.08}",
+    "county_names_all": "Starke|Marshall",
+    "county_fips_all": "18149|18099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Knox"
+}

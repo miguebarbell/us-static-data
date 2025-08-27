@@ -1,0 +1,20 @@
+{
+    "zip": 75859,
+    "lat": 31.8842,
+    "lng": -96.25512,
+    "city": "Streetman",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2468.0,
+    "density": 7.2,
+    "county_fips": 48161,
+    "county_name": "Freestone",
+    "county_weights": "{\"48161\": 68.61, \"48349\": 31.39}",
+    "county_names_all": "Freestone|Navarro",
+    "county_fips_all": "48161|48349",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

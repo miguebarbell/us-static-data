@@ -1,0 +1,20 @@
+{
+    "zip": 44405,
+    "lat": 41.07787,
+    "lng": -80.59136,
+    "city": "Campbell",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7834.0,
+    "density": 844.6,
+    "county_fips": 39099,
+    "county_name": "Mahoning",
+    "county_weights": "{\"39099\": 100}",
+    "county_names_all": "Mahoning",
+    "county_fips_all": "39099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

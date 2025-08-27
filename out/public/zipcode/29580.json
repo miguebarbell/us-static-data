@@ -1,0 +1,20 @@
+{
+    "zip": 29580,
+    "lat": 33.65827,
+    "lng": -79.56164,
+    "city": "Nesmith",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1285.0,
+    "density": 6.5,
+    "county_fips": 45089,
+    "county_name": "Williamsburg",
+    "county_weights": "{\"45089\": 100}",
+    "county_names_all": "Williamsburg",
+    "county_fips_all": "45089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

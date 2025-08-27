@@ -1,0 +1,20 @@
+{
+    "zip": 85624,
+    "lat": 31.51768,
+    "lng": -110.71039,
+    "city": "Patagonia",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1342.0,
+    "density": 1.5,
+    "county_fips": 4023,
+    "county_name": "Santa Cruz",
+    "county_weights": "{\"04023\": 100}",
+    "county_names_all": "Santa Cruz",
+    "county_fips_all": "04023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

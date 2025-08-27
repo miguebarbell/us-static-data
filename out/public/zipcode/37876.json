@@ -1,0 +1,20 @@
+{
+    "zip": 37876,
+    "lat": 35.8645,
+    "lng": -83.47876,
+    "city": "Sevierville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32964.0,
+    "density": 68.1,
+    "county_fips": 47155,
+    "county_name": "Sevier",
+    "county_weights": "{\"47155\": 91.46, \"47089\": 8.54}",
+    "county_names_all": "Sevier|Jefferson",
+    "county_fips_all": "47155|47089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

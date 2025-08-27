@@ -1,0 +1,20 @@
+{
+    "zip": 43045,
+    "lat": 40.16932,
+    "lng": -83.44975,
+    "city": "Milford Center",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1665.0,
+    "density": 17.1,
+    "county_fips": 39159,
+    "county_name": "Union",
+    "county_weights": "{\"39159\": 92.87, \"39021\": 7.13}",
+    "county_names_all": "Union|Champaign",
+    "county_fips_all": "39159|39021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

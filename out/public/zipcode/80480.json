@@ -1,0 +1,20 @@
+{
+    "zip": 80480,
+    "lat": 40.67188,
+    "lng": -106.34175,
+    "city": "Walden",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1199.0,
+    "density": 0.3,
+    "county_fips": 8057,
+    "county_name": "Jackson",
+    "county_weights": "{\"08057\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "08057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 24577,
+    "lat": 36.93762,
+    "lng": -78.97553,
+    "city": "Nathalie",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4701.0,
+    "density": 9.7,
+    "county_fips": 51083,
+    "county_name": "Halifax",
+    "county_weights": "{\"51083\": 100}",
+    "county_names_all": "Halifax",
+    "county_fips_all": "51083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

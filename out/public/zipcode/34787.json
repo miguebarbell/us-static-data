@@ -1,0 +1,20 @@
+{
+    "zip": 34787,
+    "lat": 28.48309,
+    "lng": -81.62833,
+    "city": "Winter Garden",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 93064.0,
+    "density": 534.3,
+    "county_fips": 12095,
+    "county_name": "Orange",
+    "county_weights": "{\"12095\": 83.13, \"12069\": 16.87}",
+    "county_names_all": "Orange|Lake",
+    "county_fips_all": "12095|12069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

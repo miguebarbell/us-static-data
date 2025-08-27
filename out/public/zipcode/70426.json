@@ -1,0 +1,20 @@
+{
+    "zip": 70426,
+    "lat": 30.93142,
+    "lng": -89.85807,
+    "city": "Angie",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5880.0,
+    "density": 18.3,
+    "county_fips": 22117,
+    "county_name": "Washington",
+    "county_weights": "{\"22117\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "22117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

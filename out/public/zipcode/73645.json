@@ -1,0 +1,20 @@
+{
+    "zip": 73645,
+    "lat": 35.16954,
+    "lng": -99.87038,
+    "city": "Erick",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1090.0,
+    "density": 1.6,
+    "county_fips": 40009,
+    "county_name": "Beckham",
+    "county_weights": "{\"40009\": 100}",
+    "county_names_all": "Beckham",
+    "county_fips_all": "40009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

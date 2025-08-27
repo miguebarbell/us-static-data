@@ -1,0 +1,20 @@
+{
+    "zip": 88136,
+    "lat": 34.25356,
+    "lng": -104.83347,
+    "city": "Yeso",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 94.0,
+    "density": 0.1,
+    "county_fips": 35011,
+    "county_name": "De Baca",
+    "county_weights": "{\"35011\": 67.01, \"35027\": 32.99}",
+    "county_names_all": "De Baca|Lincoln",
+    "county_fips_all": "35011|35027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 4005,
+    "lat": 43.49591,
+    "lng": -70.49537,
+    "city": "Biddeford",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24698.0,
+    "density": 199.0,
+    "county_fips": 23031,
+    "county_name": "York",
+    "county_weights": "{\"23031\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "23031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

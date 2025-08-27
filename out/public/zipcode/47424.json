@@ -1,0 +1,20 @@
+{
+    "zip": 47424,
+    "lat": 39.01918,
+    "lng": -86.86998,
+    "city": "Bloomfield",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8620.0,
+    "density": 17.8,
+    "county_fips": 18055,
+    "county_name": "Greene",
+    "county_weights": "{\"18055\": 100}",
+    "county_names_all": "Greene",
+    "county_fips_all": "18055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 2122,
+    "lat": 42.29427,
+    "lng": -71.05185,
+    "city": "Dorchester",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23471.0,
+    "density": 5339.0,
+    "county_fips": 25025,
+    "county_name": "Suffolk",
+    "county_weights": "{\"25025\": 100}",
+    "county_names_all": "Suffolk",
+    "county_fips_all": "25025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

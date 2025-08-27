@@ -1,0 +1,20 @@
+{
+    "zip": 88112,
+    "lat": 34.91023,
+    "lng": -103.15863,
+    "city": "Broadview",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 312.0,
+    "density": 0.5,
+    "county_fips": 35009,
+    "county_name": "Curry",
+    "county_weights": "{\"35009\": 66.23, \"35037\": 33.77}",
+    "county_names_all": "Curry|Quay",
+    "county_fips_all": "35009|35037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

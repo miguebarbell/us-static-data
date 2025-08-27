@@ -1,0 +1,20 @@
+{
+    "zip": 82510,
+    "lat": 42.99294,
+    "lng": -108.6055,
+    "city": "Arapahoe",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1113.0,
+    "density": 6.7,
+    "county_fips": 56013,
+    "county_name": "Fremont",
+    "county_weights": "{\"56013\": 100}",
+    "county_names_all": "Fremont",
+    "county_fips_all": "56013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

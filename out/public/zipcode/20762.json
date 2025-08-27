@@ -1,0 +1,20 @@
+{
+    "zip": 20762,
+    "lat": 38.80748,
+    "lng": -76.87457,
+    "city": "Andrews Air Force Base",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3075.0,
+    "density": 203.8,
+    "county_fips": 24033,
+    "county_name": "Prince George's",
+    "county_weights": "{\"24033\": 100}",
+    "county_names_all": "Prince George's",
+    "county_fips_all": "24033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

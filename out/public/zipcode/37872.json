@@ -1,0 +1,20 @@
+{
+    "zip": 37872,
+    "lat": 36.26869,
+    "lng": -84.68119,
+    "city": "Sunbright",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2096.0,
+    "density": 8.8,
+    "county_fips": 47129,
+    "county_name": "Morgan",
+    "county_weights": "{\"47129\": 86.35, \"47151\": 13.65}",
+    "county_names_all": "Morgan|Scott",
+    "county_fips_all": "47129|47151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

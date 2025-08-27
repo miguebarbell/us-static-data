@@ -1,0 +1,20 @@
+{
+    "zip": 41030,
+    "lat": 38.78582,
+    "lng": -84.58754,
+    "city": "Crittenden",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6472.0,
+    "density": 76.6,
+    "county_fips": 21081,
+    "county_name": "Grant",
+    "county_weights": "{\"21081\": 62.27, \"21117\": 29.19, \"21015\": 7.74, \"21191\": 0.8}",
+    "county_names_all": "Grant|Kenton|Boone|Pendleton",
+    "county_fips_all": "21081|21117|21015|21191",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

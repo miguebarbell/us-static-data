@@ -1,0 +1,20 @@
+{
+    "zip": 34990,
+    "lat": 27.13623,
+    "lng": -80.35655,
+    "city": "Palm City",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29874.0,
+    "density": 111.9,
+    "county_fips": 12085,
+    "county_name": "Martin",
+    "county_weights": "{\"12085\": 97.47, \"12111\": 2.53}",
+    "county_names_all": "Martin|St. Lucie",
+    "county_fips_all": "12085|12111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

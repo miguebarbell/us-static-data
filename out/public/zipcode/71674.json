@@ -1,0 +1,20 @@
+{
+    "zip": 71674,
+    "lat": 33.82694,
+    "lng": -91.18261,
+    "city": "Watson",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 545.0,
+    "density": 1.0,
+    "county_fips": 5041,
+    "county_name": "Desha",
+    "county_weights": "{\"05041\": 100}",
+    "county_names_all": "Desha",
+    "county_fips_all": "05041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

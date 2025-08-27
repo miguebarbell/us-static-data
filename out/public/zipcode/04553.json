@@ -1,0 +1,20 @@
+{
+    "zip": 4553,
+    "lat": 44.04787,
+    "lng": -69.57145,
+    "city": "Newcastle",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1773.0,
+    "density": 23.6,
+    "county_fips": 23015,
+    "county_name": "Lincoln",
+    "county_weights": "{\"23015\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "23015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

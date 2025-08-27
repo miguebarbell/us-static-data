@@ -1,0 +1,20 @@
+{
+    "zip": 54155,
+    "lat": 44.51979,
+    "lng": -88.19038,
+    "city": "Oneida",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7599.0,
+    "density": 92.8,
+    "county_fips": 55009,
+    "county_name": "Brown",
+    "county_weights": "{\"55009\": 50.18, \"55087\": 49.82}",
+    "county_names_all": "Brown|Outagamie",
+    "county_fips_all": "55009|55087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

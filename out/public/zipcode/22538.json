@@ -1,0 +1,20 @@
+{
+    "zip": 22538,
+    "lat": 38.18941,
+    "lng": -77.27334,
+    "city": "Rappahannock Academy",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 278.0,
+    "density": 4.4,
+    "county_fips": 51033,
+    "county_name": "Caroline",
+    "county_weights": "{\"51033\": 100}",
+    "county_names_all": "Caroline",
+    "county_fips_all": "51033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

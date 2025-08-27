@@ -1,0 +1,20 @@
+{
+    "zip": 35592,
+    "lat": 33.74315,
+    "lng": -88.09672,
+    "city": "Vernon",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4573.0,
+    "density": 15.3,
+    "county_fips": 1075,
+    "county_name": "Lamar",
+    "county_weights": "{\"01075\": 100}",
+    "county_names_all": "Lamar",
+    "county_fips_all": "01075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

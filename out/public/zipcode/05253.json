@@ -1,0 +1,20 @@
+{
+    "zip": 5253,
+    "lat": 43.25235,
+    "lng": -72.99913,
+    "city": "East Dorset",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 624.0,
+    "density": 18.2,
+    "county_fips": 50003,
+    "county_name": "Bennington",
+    "county_weights": "{\"50003\": 94.83, \"50021\": 5.17}",
+    "county_names_all": "Bennington|Rutland",
+    "county_fips_all": "50003|50021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

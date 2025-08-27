@@ -1,0 +1,20 @@
+{
+    "zip": 46595,
+    "lat": 41.52633,
+    "lng": -86.16367,
+    "city": "Wyatt",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 54.0,
+    "density": 138.0,
+    "county_fips": 18141,
+    "county_name": "St. Joseph",
+    "county_weights": "{\"18141\": 100}",
+    "county_names_all": "St. Joseph",
+    "county_fips_all": "18141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

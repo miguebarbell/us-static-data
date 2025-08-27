@@ -1,0 +1,20 @@
+{
+    "zip": 37658,
+    "lat": 36.26352,
+    "lng": -82.1535,
+    "city": "Hampton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3637.0,
+    "density": 31.3,
+    "county_fips": 47019,
+    "county_name": "Carter",
+    "county_weights": "{\"47019\": 99.75, \"47171\": 0.25}",
+    "county_names_all": "Carter|Unicoi",
+    "county_fips_all": "47019|47171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 5866,
+    "lat": 44.63863,
+    "lng": -72.12699,
+    "city": "Sheffield",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 746.0,
+    "density": 8.4,
+    "county_fips": 50005,
+    "county_name": "Caledonia",
+    "county_weights": "{\"50005\": 99.76, \"50019\": 0.24}",
+    "county_names_all": "Caledonia|Orleans",
+    "county_fips_all": "50005|50019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 58620,
+    "lat": 46.49732,
+    "lng": -103.3551,
+    "city": "Amidon",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 193.0,
+    "density": 0.3,
+    "county_fips": 38087,
+    "county_name": "Slope",
+    "county_weights": "{\"38087\": 98.5, \"38007\": 1.5}",
+    "county_names_all": "Slope|Billings",
+    "county_fips_all": "38087|38007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

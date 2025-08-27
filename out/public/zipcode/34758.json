@@ -1,0 +1,20 @@
+{
+    "zip": 34758,
+    "lat": 28.19142,
+    "lng": -81.4871,
+    "city": "Kissimmee",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 46521.0,
+    "density": 688.8,
+    "county_fips": 12097,
+    "county_name": "Osceola",
+    "county_weights": "{\"12097\": 100}",
+    "county_names_all": "Osceola",
+    "county_fips_all": "12097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

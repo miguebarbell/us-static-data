@@ -1,0 +1,20 @@
+{
+    "zip": 86514,
+    "lat": 36.90487,
+    "lng": -109.32028,
+    "city": "Teec Nos Pos",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2762.0,
+    "density": 1.5,
+    "county_fips": 4001,
+    "county_name": "Apache",
+    "county_weights": "{\"04001\": 83.89, \"49037\": 15.12, \"35045\": 0.99}",
+    "county_names_all": "Apache|San Juan|San Juan",
+    "county_fips_all": "04001|49037|35045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

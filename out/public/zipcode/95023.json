@@ -1,0 +1,20 @@
+{
+    "zip": 95023,
+    "lat": 36.92113,
+    "lng": -121.36117,
+    "city": "Hollister",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 58374.0,
+    "density": 57.1,
+    "county_fips": 6069,
+    "county_name": "San Benito",
+    "county_weights": "{\"06069\": 63.42, \"06085\": 36.58}",
+    "county_names_all": "San Benito|Santa Clara",
+    "county_fips_all": "06069|06085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

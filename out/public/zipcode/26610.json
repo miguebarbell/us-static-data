@@ -1,0 +1,20 @@
+{
+    "zip": 26610,
+    "lat": 38.47769,
+    "lng": -80.71887,
+    "city": "Birch River",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 811.0,
+    "density": 4.2,
+    "county_fips": 54067,
+    "county_name": "Nicholas",
+    "county_weights": "{\"54067\": 80.24, \"54101\": 19.76}",
+    "county_names_all": "Nicholas|Webster",
+    "county_fips_all": "54067|54101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

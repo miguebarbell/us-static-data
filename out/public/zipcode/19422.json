@@ -1,0 +1,20 @@
+{
+    "zip": 19422,
+    "lat": 40.15835,
+    "lng": -75.27858,
+    "city": "Blue Bell",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20068.0,
+    "density": 631.7,
+    "county_fips": 42091,
+    "county_name": "Montgomery",
+    "county_weights": "{\"42091\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "42091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

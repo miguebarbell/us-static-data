@@ -1,0 +1,20 @@
+{
+    "zip": 18428,
+    "lat": 41.42946,
+    "lng": -75.1253,
+    "city": "Hawley",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12446.0,
+    "density": 31.8,
+    "county_fips": 42103,
+    "county_name": "Pike",
+    "county_weights": "{\"42103\": 75.43, \"42127\": 24.57}",
+    "county_names_all": "Pike|Wayne",
+    "county_fips_all": "42103|42127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

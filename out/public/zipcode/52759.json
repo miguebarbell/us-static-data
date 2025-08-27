@@ -1,0 +1,20 @@
+{
+    "zip": 52759,
+    "lat": 41.46043,
+    "lng": -90.80989,
+    "city": "Montpelier",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 187.0,
+    "density": 307.6,
+    "county_fips": 19139,
+    "county_name": "Muscatine",
+    "county_weights": "{\"19139\": 100}",
+    "county_names_all": "Muscatine",
+    "county_fips_all": "19139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

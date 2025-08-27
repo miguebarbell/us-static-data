@@ -1,0 +1,20 @@
+{
+    "zip": 29403,
+    "lat": 32.80347,
+    "lng": -79.94561,
+    "city": "Charleston",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22319.0,
+    "density": 1596.4,
+    "county_fips": 45019,
+    "county_name": "Charleston",
+    "county_weights": "{\"45019\": 100}",
+    "county_names_all": "Charleston",
+    "county_fips_all": "45019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

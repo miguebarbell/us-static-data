@@ -1,0 +1,20 @@
+{
+    "zip": 84604,
+    "lat": 40.3313,
+    "lng": -111.57284,
+    "city": "Provo",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43749.0,
+    "density": 178.1,
+    "county_fips": 49049,
+    "county_name": "Utah",
+    "county_weights": "{\"49049\": 88.33, \"49051\": 11.67}",
+    "county_names_all": "Utah|Wasatch",
+    "county_fips_all": "49049|49051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

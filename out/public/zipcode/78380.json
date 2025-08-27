@@ -1,0 +1,20 @@
+{
+    "zip": 78380,
+    "lat": 27.77872,
+    "lng": -97.7363,
+    "city": "Robstown",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23752.0,
+    "density": 26.8,
+    "county_fips": 48355,
+    "county_name": "Nueces",
+    "county_weights": "{\"48355\": 99.72, \"48249\": 0.28}",
+    "county_names_all": "Nueces|Jim Wells",
+    "county_fips_all": "48355|48249",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

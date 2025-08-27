@@ -1,0 +1,20 @@
+{
+    "zip": 40507,
+    "lat": 38.04686,
+    "lng": -84.49628,
+    "city": "Lexington",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2225.0,
+    "density": 1994.8,
+    "county_fips": 21067,
+    "county_name": "Fayette",
+    "county_weights": "{\"21067\": 100}",
+    "county_names_all": "Fayette",
+    "county_fips_all": "21067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

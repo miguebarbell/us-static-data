@@ -1,0 +1,20 @@
+{
+    "zip": 58562,
+    "lat": 46.36354,
+    "lng": -102.01095,
+    "city": "New Leipzig",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 371.0,
+    "density": 0.5,
+    "county_fips": 38037,
+    "county_name": "Grant",
+    "county_weights": "{\"38037\": 62.96, \"38041\": 28.66, \"38001\": 8.38}",
+    "county_names_all": "Grant|Hettinger|Adams",
+    "county_fips_all": "38037|38041|38001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

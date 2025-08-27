@@ -1,0 +1,20 @@
+{
+    "zip": 6410,
+    "lat": 41.51183,
+    "lng": -72.90441,
+    "city": "Cheshire",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28792.0,
+    "density": 344.8,
+    "county_fips": 9140,
+    "county_name": "Naugatuck Valley",
+    "county_weights": "{\"09140\": 100}",
+    "county_names_all": "Naugatuck Valley",
+    "county_fips_all": "09140",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

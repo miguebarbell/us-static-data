@@ -1,0 +1,20 @@
+{
+    "zip": 84774,
+    "lat": 37.24324,
+    "lng": -113.28089,
+    "city": "Toquerville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2115.0,
+    "density": 32.2,
+    "county_fips": 49053,
+    "county_name": "Washington",
+    "county_weights": "{\"49053\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "49053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 2350,
+    "lat": 42.02043,
+    "lng": -70.84562,
+    "city": "Monponsett",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 149.0,
+    "density": 505.0,
+    "county_fips": 25023,
+    "county_name": "Plymouth",
+    "county_weights": "{\"25023\": 100}",
+    "county_names_all": "Plymouth",
+    "county_fips_all": "25023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

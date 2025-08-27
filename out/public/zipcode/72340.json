@@ -1,0 +1,20 @@
+{
+    "zip": 72340,
+    "lat": 34.95687,
+    "lng": -91.03202,
+    "city": "Goodwin",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43.0,
+    "density": 2.6,
+    "county_fips": 5123,
+    "county_name": "St. Francis",
+    "county_weights": "{\"05123\": 100}",
+    "county_names_all": "St. Francis",
+    "county_fips_all": "05123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

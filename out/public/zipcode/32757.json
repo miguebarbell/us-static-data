@@ -1,0 +1,20 @@
+{
+    "zip": 32757,
+    "lat": 28.77954,
+    "lng": -81.637,
+    "city": "Mount Dora",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32712.0,
+    "density": 358.1,
+    "county_fips": 12069,
+    "county_name": "Lake",
+    "county_weights": "{\"12069\": 67.86, \"12095\": 32.14}",
+    "county_names_all": "Lake|Orange",
+    "county_fips_all": "12069|12095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

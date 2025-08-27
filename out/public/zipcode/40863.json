@@ -1,0 +1,20 @@
+{
+    "zip": 40863,
+    "lat": 36.74048,
+    "lng": -83.44567,
+    "city": "Pathfork",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 801.0,
+    "density": 12.5,
+    "county_fips": 21095,
+    "county_name": "Harlan",
+    "county_weights": "{\"21095\": 100}",
+    "county_names_all": "Harlan",
+    "county_fips_all": "21095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

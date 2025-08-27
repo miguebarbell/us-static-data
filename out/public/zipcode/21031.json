@@ -1,0 +1,20 @@
+{
+    "zip": 21031,
+    "lat": 39.4874,
+    "lng": -76.65792,
+    "city": "Hunt Valley",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25.0,
+    "density": 10.3,
+    "county_fips": 24005,
+    "county_name": "Baltimore",
+    "county_weights": "{\"24005\": 100}",
+    "county_names_all": "Baltimore",
+    "county_fips_all": "24005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

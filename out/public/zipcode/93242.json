@@ -1,0 +1,20 @@
+{
+    "zip": 93242,
+    "lat": 36.44115,
+    "lng": -119.73024,
+    "city": "Laton",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2611.0,
+    "density": 24.8,
+    "county_fips": 6019,
+    "county_name": "Fresno",
+    "county_weights": "{\"06019\": 83.05, \"06031\": 16.95}",
+    "county_names_all": "Fresno|Kings",
+    "county_fips_all": "06019|06031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

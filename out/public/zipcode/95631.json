@@ -1,0 +1,20 @@
+{
+    "zip": 95631,
+    "lat": 39.05453,
+    "lng": -120.75365,
+    "city": "Foresthill",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6934.0,
+    "density": 15.4,
+    "county_fips": 6061,
+    "county_name": "Placer",
+    "county_weights": "{\"06061\": 100}",
+    "county_names_all": "Placer",
+    "county_fips_all": "06061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

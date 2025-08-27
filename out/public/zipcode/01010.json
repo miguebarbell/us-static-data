@@ -1,0 +1,20 @@
+{
+    "zip": 1010,
+    "lat": 42.12904,
+    "lng": -72.20597,
+    "city": "Brimfield",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3694.0,
+    "density": 40.5,
+    "county_fips": 25013,
+    "county_name": "Hampden",
+    "county_weights": "{\"25013\": 98.73, \"25027\": 1.27}",
+    "county_names_all": "Hampden|Worcester",
+    "county_fips_all": "25013|25027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 21645,
+    "lat": 39.31979,
+    "lng": -75.96216,
+    "city": "Kennedyville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 872.0,
+    "density": 8.0,
+    "county_fips": 24029,
+    "county_name": "Kent",
+    "county_weights": "{\"24029\": 100}",
+    "county_names_all": "Kent",
+    "county_fips_all": "24029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

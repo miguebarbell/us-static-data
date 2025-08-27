@@ -1,0 +1,20 @@
+{
+    "zip": 43338,
+    "lat": 40.56207,
+    "lng": -82.75958,
+    "city": "Mount Gilead",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10394.0,
+    "density": 42.2,
+    "county_fips": 39117,
+    "county_name": "Morrow",
+    "county_weights": "{\"39117\": 100}",
+    "county_names_all": "Morrow",
+    "county_fips_all": "39117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

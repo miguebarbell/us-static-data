@@ -1,0 +1,20 @@
+{
+    "zip": 46818,
+    "lat": 41.14698,
+    "lng": -85.25111,
+    "city": "Fort Wayne",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21914.0,
+    "density": 126.7,
+    "county_fips": 18003,
+    "county_name": "Allen",
+    "county_weights": "{\"18003\": 98.04, \"18183\": 1.96}",
+    "county_names_all": "Allen|Whitley",
+    "county_fips_all": "18003|18183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

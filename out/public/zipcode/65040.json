@@ -1,0 +1,20 @@
+{
+    "zip": 65040,
+    "lat": 38.36367,
+    "lng": -92.31252,
+    "city": "Henley",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1468.0,
+    "density": 13.9,
+    "county_fips": 29051,
+    "county_name": "Cole",
+    "county_weights": "{\"29051\": 83.53, \"29131\": 16.47}",
+    "county_names_all": "Cole|Miller",
+    "county_fips_all": "29051|29131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

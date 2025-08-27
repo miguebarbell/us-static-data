@@ -1,0 +1,20 @@
+{
+    "zip": 71858,
+    "lat": 33.58543,
+    "lng": -93.26706,
+    "city": "Rosston",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1686.0,
+    "density": 3.4,
+    "county_fips": 5099,
+    "county_name": "Nevada",
+    "county_weights": "{\"05099\": 100}",
+    "county_names_all": "Nevada",
+    "county_fips_all": "05099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

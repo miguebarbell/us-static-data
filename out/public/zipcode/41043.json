@@ -1,0 +1,20 @@
+{
+    "zip": 41043,
+    "lat": 38.75644,
+    "lng": -84.19832,
+    "city": "Foster",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1576.0,
+    "density": 12.2,
+    "county_fips": 21023,
+    "county_name": "Bracken",
+    "county_weights": "{\"21023\": 71.85, \"21191\": 28.15}",
+    "county_names_all": "Bracken|Pendleton",
+    "county_fips_all": "21023|21191",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

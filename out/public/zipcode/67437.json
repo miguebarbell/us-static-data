@@ -1,0 +1,20 @@
+{
+    "zip": 67437,
+    "lat": 39.50705,
+    "lng": -98.55857,
+    "city": "Downs",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 907.0,
+    "density": 2.9,
+    "county_fips": 20141,
+    "county_name": "Osborne",
+    "county_weights": "{\"20141\": 77.3, \"20183\": 22.7}",
+    "county_names_all": "Osborne|Smith",
+    "county_fips_all": "20141|20183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

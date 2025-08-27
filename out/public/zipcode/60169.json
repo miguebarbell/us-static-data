@@ -1,0 +1,20 @@
+{
+    "zip": 60169,
+    "lat": 42.05192,
+    "lng": -88.11656,
+    "city": "Hoffman Estates",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33529.0,
+    "density": 1689.3,
+    "county_fips": 17031,
+    "county_name": "Cook",
+    "county_weights": "{\"17031\": 100}",
+    "county_names_all": "Cook",
+    "county_fips_all": "17031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

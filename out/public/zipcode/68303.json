@@ -1,0 +1,20 @@
+{
+    "zip": 68303,
+    "lat": 40.25753,
+    "lng": -97.41033,
+    "city": "Alexandria",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 208.0,
+    "density": 1.2,
+    "county_fips": 31169,
+    "county_name": "Thayer",
+    "county_weights": "{\"31169\": 85.01, \"31095\": 14.99}",
+    "county_names_all": "Thayer|Jefferson",
+    "county_fips_all": "31169|31095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

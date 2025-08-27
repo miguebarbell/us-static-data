@@ -1,0 +1,20 @@
+{
+    "zip": 7716,
+    "lat": 40.40237,
+    "lng": -74.03533,
+    "city": "Atlantic Highlands",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8528.0,
+    "density": 747.4,
+    "county_fips": 34025,
+    "county_name": "Monmouth",
+    "county_weights": "{\"34025\": 100}",
+    "county_names_all": "Monmouth",
+    "county_fips_all": "34025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

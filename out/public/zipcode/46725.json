@@ -1,0 +1,20 @@
+{
+    "zip": 46725,
+    "lat": 41.1518,
+    "lng": -85.47655,
+    "city": "Columbia City",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22941.0,
+    "density": 43.7,
+    "county_fips": 18183,
+    "county_name": "Whitley",
+    "county_weights": "{\"18183\": 97.79, \"18113\": 2.21}",
+    "county_names_all": "Whitley|Noble",
+    "county_fips_all": "18183|18113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

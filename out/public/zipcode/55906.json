@@ -1,0 +1,20 @@
+{
+    "zip": 55906,
+    "lat": 44.10751,
+    "lng": -92.40142,
+    "city": "Rochester",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20080.0,
+    "density": 126.1,
+    "county_fips": 27109,
+    "county_name": "Olmsted",
+    "county_weights": "{\"27109\": 91.93, \"27157\": 8.07}",
+    "county_names_all": "Olmsted|Wabasha",
+    "county_fips_all": "27109|27157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 75652,
+    "lat": 32.2301,
+    "lng": -94.7281,
+    "city": "Henderson",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14782.0,
+    "density": 33.2,
+    "county_fips": 48401,
+    "county_name": "Rusk",
+    "county_weights": "{\"48401\": 98.38, \"48365\": 1.62}",
+    "county_names_all": "Rusk|Panola",
+    "county_fips_all": "48401|48365",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

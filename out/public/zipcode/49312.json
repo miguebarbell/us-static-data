@@ -1,0 +1,20 @@
+{
+    "zip": 49312,
+    "lat": 43.69009,
+    "lng": -85.79992,
+    "city": "Brohman",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 188.0,
+    "density": 2.8,
+    "county_fips": 26123,
+    "county_name": "Newaygo",
+    "county_weights": "{\"26123\": 100}",
+    "county_names_all": "Newaygo",
+    "county_fips_all": "26123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

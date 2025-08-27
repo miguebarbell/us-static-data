@@ -1,0 +1,20 @@
+{
+    "zip": 21624,
+    "lat": 38.83407,
+    "lng": -76.27212,
+    "city": "Claiborne",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 165.0,
+    "density": 27.4,
+    "county_fips": 24041,
+    "county_name": "Talbot",
+    "county_weights": "{\"24041\": 100}",
+    "county_names_all": "Talbot",
+    "county_fips_all": "24041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

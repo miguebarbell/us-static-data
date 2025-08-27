@@ -1,0 +1,20 @@
+{
+    "zip": 38824,
+    "lat": 34.52303,
+    "lng": -88.64334,
+    "city": "Baldwyn",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7900.0,
+    "density": 20.8,
+    "county_fips": 28117,
+    "county_name": "Prentiss",
+    "county_weights": "{\"28117\": 47.39, \"28081\": 24.64, \"28145\": 14.22, \"28057\": 7.8, \"28139\": 5.95}",
+    "county_names_all": "Prentiss|Lee|Union|Itawamba|Tippah",
+    "county_fips_all": "28117|28081|28145|28057|28139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 98340,
+    "lat": 47.90622,
+    "lng": -122.56406,
+    "city": "Hansville",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2834.0,
+    "density": 146.3,
+    "county_fips": 53035,
+    "county_name": "Kitsap",
+    "county_weights": "{\"53035\": 100}",
+    "county_names_all": "Kitsap",
+    "county_fips_all": "53035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

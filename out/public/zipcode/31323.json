@@ -1,0 +1,20 @@
+{
+    "zip": 31323,
+    "lat": 31.67359,
+    "lng": -81.45304,
+    "city": "Riceboro",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1461.0,
+    "density": 3.6,
+    "county_fips": 13179,
+    "county_name": "Liberty",
+    "county_weights": "{\"13179\": 56.16, \"13191\": 30.48, \"13183\": 13.36}",
+    "county_names_all": "Liberty|McIntosh|Long",
+    "county_fips_all": "13179|13191|13183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

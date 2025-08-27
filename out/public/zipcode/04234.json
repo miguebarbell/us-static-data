@@ -1,0 +1,20 @@
+{
+    "zip": 4234,
+    "lat": 44.61624,
+    "lng": -70.19359,
+    "city": "East Wilton",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 23007,
+    "county_name": "Franklin",
+    "county_weights": "{\"23007\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "23007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43317,
+    "lat": 40.47748,
+    "lng": -82.68202,
+    "city": "Chesterville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 215.0,
+    "density": 377.2,
+    "county_fips": 39117,
+    "county_name": "Morrow",
+    "county_weights": "{\"39117\": 100}",
+    "county_names_all": "Morrow",
+    "county_fips_all": "39117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

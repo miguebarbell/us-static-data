@@ -1,0 +1,20 @@
+{
+    "zip": 48706,
+    "lat": 43.59937,
+    "lng": -83.95623,
+    "city": "Bay City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38756.0,
+    "density": 225.7,
+    "county_fips": 26017,
+    "county_name": "Bay",
+    "county_weights": "{\"26017\": 100}",
+    "county_names_all": "Bay",
+    "county_fips_all": "26017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

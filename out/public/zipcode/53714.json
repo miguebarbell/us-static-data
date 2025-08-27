@@ -1,0 +1,20 @@
+{
+    "zip": 53714,
+    "lat": 43.09884,
+    "lng": -89.31287,
+    "city": "Madison",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16340.0,
+    "density": 1357.1,
+    "county_fips": 55025,
+    "county_name": "Dane",
+    "county_weights": "{\"55025\": 100}",
+    "county_names_all": "Dane",
+    "county_fips_all": "55025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

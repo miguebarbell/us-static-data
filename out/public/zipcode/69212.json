@@ -1,0 +1,20 @@
+{
+    "zip": 69212,
+    "lat": 42.98729,
+    "lng": -100.80438,
+    "city": "Crookston",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 347.0,
+    "density": 0.6,
+    "county_fips": 31031,
+    "county_name": "Cherry",
+    "county_weights": "{\"31031\": 57.03, \"46121\": 42.97}",
+    "county_names_all": "Cherry|Todd",
+    "county_fips_all": "31031|46121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

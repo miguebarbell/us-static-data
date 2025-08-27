@@ -1,0 +1,20 @@
+{
+    "zip": 48821,
+    "lat": 42.63873,
+    "lng": -84.64958,
+    "city": "Dimondale",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6180.0,
+    "density": 119.8,
+    "county_fips": 26045,
+    "county_name": "Eaton",
+    "county_weights": "{\"26045\": 95.33, \"26065\": 4.67}",
+    "county_names_all": "Eaton|Ingham",
+    "county_fips_all": "26045|26065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

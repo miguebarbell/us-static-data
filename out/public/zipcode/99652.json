@@ -1,0 +1,20 @@
+{
+    "zip": 99652,
+    "lat": 61.52621,
+    "lng": -149.9616,
+    "city": "Big Lake",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4066.0,
+    "density": 12.7,
+    "county_fips": 2170,
+    "county_name": "Matanuska-Susitna",
+    "county_weights": "{\"02170\": 100}",
+    "county_names_all": "Matanuska-Susitna",
+    "county_fips_all": "02170",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

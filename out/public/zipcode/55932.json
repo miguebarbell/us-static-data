@@ -1,0 +1,20 @@
+{
+    "zip": 55932,
+    "lat": 44.13804,
+    "lng": -92.30081,
+    "city": "Elgin",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2080.0,
+    "density": 15.3,
+    "county_fips": 27109,
+    "county_name": "Olmsted",
+    "county_weights": "{\"27109\": 52.15, \"27157\": 47.85}",
+    "county_names_all": "Olmsted|Wabasha",
+    "county_fips_all": "27109|27157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

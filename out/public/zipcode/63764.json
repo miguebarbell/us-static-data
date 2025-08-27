@@ -1,0 +1,20 @@
+{
+    "zip": 63764,
+    "lat": 37.32944,
+    "lng": -89.9837,
+    "city": "Marble Hill",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4568.0,
+    "density": 10.3,
+    "county_fips": 29017,
+    "county_name": "Bollinger",
+    "county_weights": "{\"29017\": 97.66, \"29031\": 2.34}",
+    "county_names_all": "Bollinger|Cape Girardeau",
+    "county_fips_all": "29017|29031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

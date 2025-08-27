@@ -1,0 +1,20 @@
+{
+    "zip": 92234,
+    "lat": 33.81386,
+    "lng": -116.46663,
+    "city": "Cathedral City",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 52047.0,
+    "density": 1361.2,
+    "county_fips": 6065,
+    "county_name": "Riverside",
+    "county_weights": "{\"06065\": 100}",
+    "county_names_all": "Riverside",
+    "county_fips_all": "06065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

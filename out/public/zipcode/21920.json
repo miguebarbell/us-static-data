@@ -1,0 +1,20 @@
+{
+    "zip": 21920,
+    "lat": 39.65675,
+    "lng": -75.83449,
+    "city": "Elk Mills",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1153.0,
+    "density": 450.0,
+    "county_fips": 24015,
+    "county_name": "Cecil",
+    "county_weights": "{\"24015\": 100}",
+    "county_names_all": "Cecil",
+    "county_fips_all": "24015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

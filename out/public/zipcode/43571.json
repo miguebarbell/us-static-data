@@ -1,0 +1,20 @@
+{
+    "zip": 43571,
+    "lat": 41.51574,
+    "lng": -83.81796,
+    "city": "Whitehouse",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7166.0,
+    "density": 126.1,
+    "county_fips": 39095,
+    "county_name": "Lucas",
+    "county_weights": "{\"39095\": 100}",
+    "county_names_all": "Lucas",
+    "county_fips_all": "39095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 25524,
+    "lat": 38.01309,
+    "lng": -82.11712,
+    "city": "Harts",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2373.0,
+    "density": 9.4,
+    "county_fips": 54043,
+    "county_name": "Lincoln",
+    "county_weights": "{\"54043\": 71.06, \"54045\": 23.23, \"54099\": 5.71}",
+    "county_names_all": "Lincoln|Logan|Wayne",
+    "county_fips_all": "54043|54045|54099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 67335,
+    "lat": 37.28005,
+    "lng": -95.53381,
+    "city": "Cherryvale",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3300.0,
+    "density": 10.1,
+    "county_fips": 20125,
+    "county_name": "Montgomery",
+    "county_weights": "{\"20125\": 56.95, \"20099\": 41.0, \"20205\": 2.05}",
+    "county_names_all": "Montgomery|Labette|Wilson",
+    "county_fips_all": "20125|20099|20205",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

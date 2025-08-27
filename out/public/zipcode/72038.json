@@ -1,0 +1,20 @@
+{
+    "zip": 72038,
+    "lat": 34.44606,
+    "lng": -91.2349,
+    "city": "Crocketts Bluff",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 79.0,
+    "density": 1.0,
+    "county_fips": 5001,
+    "county_name": "Arkansas",
+    "county_weights": "{\"05001\": 100}",
+    "county_names_all": "Arkansas",
+    "county_fips_all": "05001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

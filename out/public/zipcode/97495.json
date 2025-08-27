@@ -1,0 +1,20 @@
+{
+    "zip": 97495,
+    "lat": 43.28765,
+    "lng": -123.30463,
+    "city": "Winchester",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1569.0,
+    "density": 82.6,
+    "county_fips": 41019,
+    "county_name": "Douglas",
+    "county_weights": "{\"41019\": 100}",
+    "county_names_all": "Douglas",
+    "county_fips_all": "41019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

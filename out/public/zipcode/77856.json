@@ -1,0 +1,20 @@
+{
+    "zip": 77856,
+    "lat": 31.07714,
+    "lng": -96.41499,
+    "city": "Franklin",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4832.0,
+    "density": 5.0,
+    "county_fips": 48395,
+    "county_name": "Robertson",
+    "county_weights": "{\"48395\": 100}",
+    "county_names_all": "Robertson",
+    "county_fips_all": "48395",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

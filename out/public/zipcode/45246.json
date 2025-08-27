@@ -1,0 +1,20 @@
+{
+    "zip": 45246,
+    "lat": 39.2906,
+    "lng": -84.46612,
+    "city": "Cincinnati",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13925.0,
+    "density": 570.0,
+    "county_fips": 39061,
+    "county_name": "Hamilton",
+    "county_weights": "{\"39061\": 76.73, \"39017\": 23.27}",
+    "county_names_all": "Hamilton|Butler",
+    "county_fips_all": "39061|39017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

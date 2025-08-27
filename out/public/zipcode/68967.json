@@ -1,0 +1,20 @@
+{
+    "zip": 68967,
+    "lat": 40.25263,
+    "lng": -99.63085,
+    "city": "Oxford",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 962.0,
+    "density": 1.9,
+    "county_fips": 31065,
+    "county_name": "Furnas",
+    "county_weights": "{\"31065\": 48.82, \"31083\": 47.6, \"31073\": 3.58}",
+    "county_names_all": "Furnas|Harlan|Gosper",
+    "county_fips_all": "31065|31083|31073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

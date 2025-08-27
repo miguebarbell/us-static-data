@@ -1,0 +1,20 @@
+{
+    "zip": 58570,
+    "lat": 46.37243,
+    "lng": -100.87237,
+    "city": "Solen",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 489.0,
+    "density": 0.6,
+    "county_fips": 38059,
+    "county_name": "Morton",
+    "county_weights": "{\"38059\": 51.53, \"38085\": 48.47}",
+    "county_names_all": "Morton|Sioux",
+    "county_fips_all": "38059|38085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/North_Dakota/New_Salem"
+}

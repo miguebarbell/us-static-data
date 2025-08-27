@@ -1,0 +1,20 @@
+{
+    "zip": 94574,
+    "lat": 38.52742,
+    "lng": -122.39261,
+    "city": "Saint Helena",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7646.0,
+    "density": 23.8,
+    "county_fips": 6055,
+    "county_name": "Napa",
+    "county_weights": "{\"06055\": 98.7, \"06097\": 1.3}",
+    "county_names_all": "Napa|Sonoma",
+    "county_fips_all": "06055|06097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

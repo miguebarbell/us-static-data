@@ -1,0 +1,20 @@
+{
+    "zip": 97880,
+    "lat": 45.08631,
+    "lng": -118.89269,
+    "city": "Ukiah",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 367.0,
+    "density": 0.5,
+    "county_fips": 41059,
+    "county_name": "Umatilla",
+    "county_weights": "{\"41059\": 84.71, \"41023\": 15.29}",
+    "county_names_all": "Umatilla|Grant",
+    "county_fips_all": "41059|41023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

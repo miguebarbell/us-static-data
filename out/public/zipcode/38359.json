@@ -1,0 +1,20 @@
+{
+    "zip": 38359,
+    "lat": 35.37222,
+    "lng": -88.35109,
+    "city": "Milledgeville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 306.0,
+    "density": 19.4,
+    "county_fips": 47071,
+    "county_name": "Hardin",
+    "county_weights": "{\"47071\": 81.75, \"47109\": 14.58, \"47023\": 3.67}",
+    "county_names_all": "Hardin|McNairy|Chester",
+    "county_fips_all": "47071|47109|47023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

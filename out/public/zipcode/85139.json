@@ -1,0 +1,20 @@
+{
+    "zip": 85139,
+    "lat": 32.92096,
+    "lng": -112.21117,
+    "city": "Maricopa",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19522.0,
+    "density": 15.0,
+    "county_fips": 4021,
+    "county_name": "Pinal",
+    "county_weights": "{\"04021\": 52.77, \"04013\": 47.23}",
+    "county_names_all": "Pinal|Maricopa",
+    "county_fips_all": "04021|04013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

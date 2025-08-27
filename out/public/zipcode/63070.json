@@ -1,0 +1,20 @@
+{
+    "zip": 63070,
+    "lat": 38.28625,
+    "lng": -90.41822,
+    "city": "Pevely",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8365.0,
+    "density": 214.7,
+    "county_fips": 29099,
+    "county_name": "Jefferson",
+    "county_weights": "{\"29099\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "29099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

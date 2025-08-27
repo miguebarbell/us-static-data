@@ -1,0 +1,20 @@
+{
+    "zip": 76380,
+    "lat": 33.60434,
+    "lng": -99.22305,
+    "city": "Seymour",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3484.0,
+    "density": 1.6,
+    "county_fips": 48023,
+    "county_name": "Baylor",
+    "county_weights": "{\"48023\": 92.57, \"48275\": 7.43}",
+    "county_names_all": "Baylor|Knox",
+    "county_fips_all": "48023|48275",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

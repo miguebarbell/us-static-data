@@ -1,0 +1,20 @@
+{
+    "zip": 49682,
+    "lat": 44.97954,
+    "lng": -85.6512,
+    "city": "Suttons Bay",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4528.0,
+    "density": 42.4,
+    "county_fips": 26089,
+    "county_name": "Leelanau",
+    "county_weights": "{\"26089\": 100}",
+    "county_names_all": "Leelanau",
+    "county_fips_all": "26089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

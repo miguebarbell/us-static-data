@@ -1,0 +1,20 @@
+{
+    "zip": 75253,
+    "lat": 32.67278,
+    "lng": -96.61171,
+    "city": "Dallas",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23822.0,
+    "density": 615.5,
+    "county_fips": 48113,
+    "county_name": "Dallas",
+    "county_weights": "{\"48113\": 100}",
+    "county_names_all": "Dallas",
+    "county_fips_all": "48113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

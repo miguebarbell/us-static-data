@@ -1,0 +1,20 @@
+{
+    "zip": 52326,
+    "lat": 42.39513,
+    "lng": -91.75641,
+    "city": "Quasqueton",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 745.0,
+    "density": 290.0,
+    "county_fips": 19019,
+    "county_name": "Buchanan",
+    "county_weights": "{\"19019\": 100}",
+    "county_names_all": "Buchanan",
+    "county_fips_all": "19019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

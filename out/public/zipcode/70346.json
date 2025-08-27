@@ -1,0 +1,20 @@
+{
+    "zip": 70346,
+    "lat": 30.10774,
+    "lng": -91.02061,
+    "city": "Donaldsonville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9831.0,
+    "density": 58.5,
+    "county_fips": 22005,
+    "county_name": "Ascension",
+    "county_weights": "{\"22005\": 80.62, \"22007\": 19.38}",
+    "county_names_all": "Ascension|Assumption",
+    "county_fips_all": "22005|22007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

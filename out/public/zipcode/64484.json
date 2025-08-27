@@ -1,0 +1,20 @@
+{
+    "zip": 64484,
+    "lat": 39.55638,
+    "lng": -95.01974,
+    "city": "Rushville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 843.0,
+    "density": 4.5,
+    "county_fips": 29021,
+    "county_name": "Buchanan",
+    "county_weights": "{\"29021\": 65.72, \"29165\": 34.28}",
+    "county_names_all": "Buchanan|Platte",
+    "county_fips_all": "29021|29165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 28399,
+    "lat": 34.77885,
+    "lng": -78.72953,
+    "city": "White Oak",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1552.0,
+    "density": 7.6,
+    "county_fips": 37017,
+    "county_name": "Bladen",
+    "county_weights": "{\"37017\": 93.9, \"37051\": 6.1}",
+    "county_names_all": "Bladen|Cumberland",
+    "county_fips_all": "37017|37051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

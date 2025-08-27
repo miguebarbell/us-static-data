@@ -1,0 +1,20 @@
+{
+    "zip": 79547,
+    "lat": 33.20478,
+    "lng": -99.91023,
+    "city": "Rule",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 869.0,
+    "density": 4.2,
+    "county_fips": 48207,
+    "county_name": "Haskell",
+    "county_weights": "{\"48207\": 99.53, \"48433\": 0.47}",
+    "county_names_all": "Haskell|Stonewall",
+    "county_fips_all": "48207|48433",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

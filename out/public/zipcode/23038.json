@@ -1,0 +1,20 @@
+{
+    "zip": 23038,
+    "lat": 37.75627,
+    "lng": -78.14552,
+    "city": "Columbia",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1487.0,
+    "density": 7.6,
+    "county_fips": 51075,
+    "county_name": "Goochland",
+    "county_weights": "{\"51075\": 40.87, \"51049\": 39.3, \"51065\": 19.83}",
+    "county_names_all": "Goochland|Cumberland|Fluvanna",
+    "county_fips_all": "51075|51049|51065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

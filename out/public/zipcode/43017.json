@@ -1,0 +1,20 @@
+{
+    "zip": 43017,
+    "lat": 40.1189,
+    "lng": -83.13314,
+    "city": "Dublin",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41422.0,
+    "density": 990.6,
+    "county_fips": 39049,
+    "county_name": "Franklin",
+    "county_weights": "{\"39049\": 74.02, \"39041\": 21.92, \"39159\": 4.06}",
+    "county_names_all": "Franklin|Delaware|Union",
+    "county_fips_all": "39049|39041|39159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

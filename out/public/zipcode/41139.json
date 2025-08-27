@@ -1,0 +1,20 @@
+{
+    "zip": 41139,
+    "lat": 38.50927,
+    "lng": -82.73288,
+    "city": "Flatwoods",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8258.0,
+    "density": 386.9,
+    "county_fips": 21089,
+    "county_name": "Greenup",
+    "county_weights": "{\"21089\": 100}",
+    "county_names_all": "Greenup",
+    "county_fips_all": "21089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

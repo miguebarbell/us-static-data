@@ -1,0 +1,20 @@
+{
+    "zip": 94706,
+    "lat": 37.88969,
+    "lng": -122.29581,
+    "city": "Albany",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20486.0,
+    "density": 5401.6,
+    "county_fips": 6001,
+    "county_name": "Alameda",
+    "county_weights": "{\"06001\": 99.54, \"06013\": 0.46}",
+    "county_names_all": "Alameda|Contra Costa",
+    "county_fips_all": "06001|06013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

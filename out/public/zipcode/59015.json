@@ -1,0 +1,20 @@
+{
+    "zip": 59015,
+    "lat": 46.08464,
+    "lng": -108.83464,
+    "city": "Broadview",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 366.0,
+    "density": 0.6,
+    "county_fips": 30111,
+    "county_name": "Yellowstone",
+    "county_weights": "{\"30111\": 51.75, \"30095\": 28.84, \"30065\": 19.41}",
+    "county_names_all": "Yellowstone|Stillwater|Musselshell",
+    "county_fips_all": "30111|30095|30065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

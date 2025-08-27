@@ -1,0 +1,20 @@
+{
+    "zip": 46160,
+    "lat": 39.35429,
+    "lng": -86.26753,
+    "city": "Morgantown",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6416.0,
+    "density": 28.4,
+    "county_fips": 18013,
+    "county_name": "Brown",
+    "county_weights": "{\"18013\": 48.18, \"18109\": 26.2, \"18081\": 25.62}",
+    "county_names_all": "Brown|Morgan|Johnson",
+    "county_fips_all": "18013|18109|18081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

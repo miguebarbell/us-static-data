@@ -1,0 +1,20 @@
+{
+    "zip": 29563,
+    "lat": 34.35301,
+    "lng": -79.2044,
+    "city": "Lake View",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2016.0,
+    "density": 20.7,
+    "county_fips": 45033,
+    "county_name": "Dillon",
+    "county_weights": "{\"45033\": 100}",
+    "county_names_all": "Dillon",
+    "county_fips_all": "45033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

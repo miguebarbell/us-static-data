@@ -1,0 +1,20 @@
+{
+    "zip": 23888,
+    "lat": 36.95383,
+    "lng": -76.97802,
+    "city": "Wakefield",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2563.0,
+    "density": 11.4,
+    "county_fips": 51183,
+    "county_name": "Sussex",
+    "county_weights": "{\"51183\": 43.38, \"51181\": 28.85, \"51175\": 27.76}",
+    "county_names_all": "Sussex|Surry|Southampton",
+    "county_fips_all": "51183|51181|51175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

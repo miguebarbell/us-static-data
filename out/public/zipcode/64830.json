@@ -1,0 +1,20 @@
+{
+    "zip": 64830,
+    "lat": 37.2308,
+    "lng": -94.41053,
+    "city": "Alba",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 745.0,
+    "density": 188.8,
+    "county_fips": 29097,
+    "county_name": "Jasper",
+    "county_weights": "{\"29097\": 100}",
+    "county_names_all": "Jasper",
+    "county_fips_all": "29097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

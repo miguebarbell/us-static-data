@@ -1,0 +1,20 @@
+{
+    "zip": 84083,
+    "lat": 40.84354,
+    "lng": -113.6944,
+    "city": "Wendover",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1264.0,
+    "density": 0.8,
+    "county_fips": 49045,
+    "county_name": "Tooele",
+    "county_weights": "{\"49045\": 100}",
+    "county_names_all": "Tooele",
+    "county_fips_all": "49045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

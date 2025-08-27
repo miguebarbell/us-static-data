@@ -1,0 +1,20 @@
+{
+    "zip": 87020,
+    "lat": 35.0589,
+    "lng": -107.92797,
+    "city": "Grants",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11874.0,
+    "density": 5.1,
+    "county_fips": 35006,
+    "county_name": "Cibola",
+    "county_weights": "{\"35006\": 86.5, \"35031\": 13.5}",
+    "county_names_all": "Cibola|McKinley",
+    "county_fips_all": "35006|35031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 84741,
+    "lat": 37.19749,
+    "lng": -112.25533,
+    "city": "Kanab",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6145.0,
+    "density": 1.8,
+    "county_fips": 49025,
+    "county_name": "Kane",
+    "county_weights": "{\"49025\": 100}",
+    "county_names_all": "Kane",
+    "county_fips_all": "49025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

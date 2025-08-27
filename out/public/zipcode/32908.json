@@ -1,0 +1,20 @@
+{
+    "zip": 32908,
+    "lat": 27.95622,
+    "lng": -80.69827,
+    "city": "Palm Bay",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14970.0,
+    "density": 301.0,
+    "county_fips": 12009,
+    "county_name": "Brevard",
+    "county_weights": "{\"12009\": 100}",
+    "county_names_all": "Brevard",
+    "county_fips_all": "12009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

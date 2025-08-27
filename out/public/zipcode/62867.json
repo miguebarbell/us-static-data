@@ -1,0 +1,20 @@
+{
+    "zip": 62867,
+    "lat": 37.90503,
+    "lng": -88.10091,
+    "city": "New Haven",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 528.0,
+    "density": 5.0,
+    "county_fips": 17193,
+    "county_name": "White",
+    "county_weights": "{\"17193\": 64.35, \"17059\": 35.65}",
+    "county_names_all": "White|Gallatin",
+    "county_fips_all": "17193|17059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

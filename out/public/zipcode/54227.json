@@ -1,0 +1,20 @@
+{
+    "zip": 54227,
+    "lat": 44.28096,
+    "lng": -87.80656,
+    "city": "Maribel",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1670.0,
+    "density": 20.0,
+    "county_fips": 55071,
+    "county_name": "Manitowoc",
+    "county_weights": "{\"55071\": 100}",
+    "county_names_all": "Manitowoc",
+    "county_fips_all": "55071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

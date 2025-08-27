@@ -1,0 +1,20 @@
+{
+    "zip": 35087,
+    "lat": 34.30556,
+    "lng": -86.58252,
+    "city": "Joppa",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2338.0,
+    "density": 39.5,
+    "county_fips": 1043,
+    "county_name": "Cullman",
+    "county_weights": "{\"01043\": 48.41, \"01103\": 38.46, \"01095\": 13.12}",
+    "county_names_all": "Cullman|Morgan|Marshall",
+    "county_fips_all": "01043|01103|01095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

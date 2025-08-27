@@ -1,0 +1,20 @@
+{
+    "zip": 53059,
+    "lat": 43.28954,
+    "lng": -88.53012,
+    "city": "Neosho",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1902.0,
+    "density": 22.8,
+    "county_fips": 55027,
+    "county_name": "Dodge",
+    "county_weights": "{\"55027\": 100}",
+    "county_names_all": "Dodge",
+    "county_fips_all": "55027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

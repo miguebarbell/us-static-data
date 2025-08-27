@@ -1,0 +1,20 @@
+{
+    "zip": 56359,
+    "lat": 46.08979,
+    "lng": -93.67786,
+    "city": "Onamia",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3451.0,
+    "density": 7.8,
+    "county_fips": 27095,
+    "county_name": "Mille Lacs",
+    "county_weights": "{\"27095\": 100}",
+    "county_names_all": "Mille Lacs",
+    "county_fips_all": "27095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

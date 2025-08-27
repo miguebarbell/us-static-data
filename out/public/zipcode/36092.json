@@ -1,0 +1,20 @@
+{
+    "zip": 36092,
+    "lat": 32.61401,
+    "lng": -86.19619,
+    "city": "Wetumpka",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21170.0,
+    "density": 59.2,
+    "county_fips": 1051,
+    "county_name": "Elmore",
+    "county_weights": "{\"01051\": 100}",
+    "county_names_all": "Elmore",
+    "county_fips_all": "01051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

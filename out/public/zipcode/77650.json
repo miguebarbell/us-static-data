@@ -1,0 +1,20 @@
+{
+    "zip": 77650,
+    "lat": 29.42995,
+    "lng": -94.68096,
+    "city": "Port Bolivar",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2362.0,
+    "density": 41.5,
+    "county_fips": 48167,
+    "county_name": "Galveston",
+    "county_weights": "{\"48167\": 100}",
+    "county_names_all": "Galveston",
+    "county_fips_all": "48167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

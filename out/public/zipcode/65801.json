@@ -1,0 +1,20 @@
+{
+    "zip": 65801,
+    "lat": 37.21421,
+    "lng": -93.29521,
+    "city": "Springfield",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 29077,
+    "county_name": "Greene",
+    "county_weights": "{\"29077\": 100}",
+    "county_names_all": "Greene",
+    "county_fips_all": "29077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

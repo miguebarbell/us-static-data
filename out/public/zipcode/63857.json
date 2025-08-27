@@ -1,0 +1,20 @@
+{
+    "zip": 63857,
+    "lat": 36.22402,
+    "lng": -90.04612,
+    "city": "Kennett",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11964.0,
+    "density": 43.5,
+    "county_fips": 29069,
+    "county_name": "Dunklin",
+    "county_weights": "{\"29069\": 97.11, \"29155\": 2.89}",
+    "county_names_all": "Dunklin|Pemiscot",
+    "county_fips_all": "29069|29155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

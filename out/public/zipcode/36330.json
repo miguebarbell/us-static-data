@@ -1,0 +1,20 @@
+{
+    "zip": 36330,
+    "lat": 31.30743,
+    "lng": -85.85854,
+    "city": "Enterprise",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38697.0,
+    "density": 134.4,
+    "county_fips": 1031,
+    "county_name": "Coffee",
+    "county_weights": "{\"01031\": 92.39, \"01045\": 7.61}",
+    "county_names_all": "Coffee|Dale",
+    "county_fips_all": "01031|01045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 59068,
+    "lat": 45.15929,
+    "lng": -109.45626,
+    "city": "Red Lodge",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3513.0,
+    "density": 2.6,
+    "county_fips": 30009,
+    "county_name": "Carbon",
+    "county_weights": "{\"30009\": 100}",
+    "county_names_all": "Carbon",
+    "county_fips_all": "30009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

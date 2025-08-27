@@ -1,0 +1,20 @@
+{
+    "zip": 72453,
+    "lat": 36.30909,
+    "lng": -90.67887,
+    "city": "Peach Orchard",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 191.0,
+    "density": 1.9,
+    "county_fips": 5021,
+    "county_name": "Clay",
+    "county_weights": "{\"05021\": 99.15, \"05055\": 0.85}",
+    "county_names_all": "Clay|Greene",
+    "county_fips_all": "05021|05055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

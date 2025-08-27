@@ -1,0 +1,20 @@
+{
+    "zip": 3254,
+    "lat": 43.72505,
+    "lng": -71.37782,
+    "city": "Moultonborough",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5089.0,
+    "density": 32.6,
+    "county_fips": 33003,
+    "county_name": "Carroll",
+    "county_weights": "{\"33003\": 100}",
+    "county_names_all": "Carroll",
+    "county_fips_all": "33003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

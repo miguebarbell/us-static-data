@@ -1,0 +1,20 @@
+{
+    "zip": 23486,
+    "lat": 37.5177,
+    "lng": -75.80824,
+    "city": "Willis Wharf",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 322.0,
+    "density": 353.4,
+    "county_fips": 51131,
+    "county_name": "Northampton",
+    "county_weights": "{\"51131\": 100}",
+    "county_names_all": "Northampton",
+    "county_fips_all": "51131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

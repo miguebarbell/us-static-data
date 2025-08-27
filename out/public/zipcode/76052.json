@@ -1,0 +1,20 @@
+{
+    "zip": 76052,
+    "lat": 32.98205,
+    "lng": -97.38037,
+    "city": "Haslet",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31569.0,
+    "density": 294.0,
+    "county_fips": 48439,
+    "county_name": "Tarrant",
+    "county_weights": "{\"48439\": 57.29, \"48121\": 23.64, \"48497\": 19.07}",
+    "county_names_all": "Tarrant|Denton|Wise",
+    "county_fips_all": "48439|48121|48497",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

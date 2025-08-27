@@ -1,0 +1,20 @@
+{
+    "zip": 25849,
+    "lat": 37.73175,
+    "lng": -81.27799,
+    "city": "Glen White",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 200.0,
+    "density": 111.8,
+    "county_fips": 54081,
+    "county_name": "Raleigh",
+    "county_weights": "{\"54081\": 100}",
+    "county_names_all": "Raleigh",
+    "county_fips_all": "54081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

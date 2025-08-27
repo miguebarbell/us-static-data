@@ -1,0 +1,20 @@
+{
+    "zip": 8691,
+    "lat": 40.20953,
+    "lng": -74.59919,
+    "city": "Robbinsville",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16924.0,
+    "density": 269.7,
+    "county_fips": 34021,
+    "county_name": "Mercer",
+    "county_weights": "{\"34021\": 88.55, \"34025\": 11.45}",
+    "county_names_all": "Mercer|Monmouth",
+    "county_fips_all": "34021|34025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

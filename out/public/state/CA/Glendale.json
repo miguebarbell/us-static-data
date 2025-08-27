@@ -1,0 +1,19 @@
+{
+    "zip": [
+        "91201",
+        "91202",
+        "91203",
+        "91204",
+        "91205",
+        "91206",
+        "91207",
+        "91208",
+        "91210"
+    ],
+    "city": "Glendale",
+    "state": "CA",
+    "lat": 33.97365,
+    "lng": -118.24904,
+    "state_name": "California",
+    "timezone": "America/Los_Angeles"
+}

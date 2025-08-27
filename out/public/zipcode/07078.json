@@ -1,0 +1,20 @@
+{
+    "zip": 7078,
+    "lat": 40.74196,
+    "lng": -74.3277,
+    "city": "Short Hills",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14183.0,
+    "density": 685.2,
+    "county_fips": 34013,
+    "county_name": "Essex",
+    "county_weights": "{\"34013\": 99.89, \"34027\": 0.11}",
+    "county_names_all": "Essex|Morris",
+    "county_fips_all": "34013|34027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

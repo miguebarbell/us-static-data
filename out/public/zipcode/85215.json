@@ -1,0 +1,20 @@
+{
+    "zip": 85215,
+    "lat": 33.51101,
+    "lng": -111.58027,
+    "city": "Mesa",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16600.0,
+    "density": 77.4,
+    "county_fips": 4013,
+    "county_name": "Maricopa",
+    "county_weights": "{\"04013\": 100}",
+    "county_names_all": "Maricopa",
+    "county_fips_all": "04013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

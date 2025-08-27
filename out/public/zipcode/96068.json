@@ -1,0 +1,20 @@
+{
+    "zip": 96068,
+    "lat": 41.10525,
+    "lng": -121.20455,
+    "city": "Nubieber",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 152.0,
+    "density": 2.1,
+    "county_fips": 6035,
+    "county_name": "Lassen",
+    "county_weights": "{\"06035\": 100}",
+    "county_names_all": "Lassen",
+    "county_fips_all": "06035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

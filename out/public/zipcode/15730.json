@@ -1,0 +1,20 @@
+{
+    "zip": 15730,
+    "lat": 41.02749,
+    "lng": -79.07921,
+    "city": "Coolspring",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 140.0,
+    "density": 14.2,
+    "county_fips": 42065,
+    "county_name": "Jefferson",
+    "county_weights": "{\"42065\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "42065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

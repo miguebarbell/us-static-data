@@ -1,0 +1,20 @@
+{
+    "zip": 71851,
+    "lat": 33.85728,
+    "lng": -93.94658,
+    "city": "Mineral Springs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1822.0,
+    "density": 8.7,
+    "county_fips": 5061,
+    "county_name": "Howard",
+    "county_weights": "{\"05061\": 100}",
+    "county_names_all": "Howard",
+    "county_fips_all": "05061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

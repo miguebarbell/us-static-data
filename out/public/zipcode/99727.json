@@ -1,0 +1,20 @@
+{
+    "zip": 99727,
+    "lat": 65.97654,
+    "lng": -161.13918,
+    "city": "Buckland",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 629.0,
+    "density": 462.3,
+    "county_fips": 2188,
+    "county_name": "Northwest Arctic",
+    "county_weights": "{\"02188\": 100}",
+    "county_names_all": "Northwest Arctic",
+    "county_fips_all": "02188",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

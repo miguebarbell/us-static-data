@@ -1,0 +1,20 @@
+{
+    "zip": 64443,
+    "lat": 39.74724,
+    "lng": -94.65205,
+    "city": "Easton",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1647.0,
+    "density": 13.1,
+    "county_fips": 29021,
+    "county_name": "Buchanan",
+    "county_weights": "{\"29021\": 100}",
+    "county_names_all": "Buchanan",
+    "county_fips_all": "29021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

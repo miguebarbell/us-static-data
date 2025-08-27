@@ -1,0 +1,20 @@
+{
+    "zip": 32190,
+    "lat": 29.33289,
+    "lng": -81.49056,
+    "city": "Seville",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1657.0,
+    "density": 17.2,
+    "county_fips": 12127,
+    "county_name": "Volusia",
+    "county_weights": "{\"12127\": 100}",
+    "county_names_all": "Volusia",
+    "county_fips_all": "12127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

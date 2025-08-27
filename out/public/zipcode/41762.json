@@ -1,0 +1,20 @@
+{
+    "zip": 41762,
+    "lat": 37.20742,
+    "lng": -83.50077,
+    "city": "Sizerock",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 113.0,
+    "density": 7.8,
+    "county_fips": 21131,
+    "county_name": "Leslie",
+    "county_weights": "{\"21131\": 100}",
+    "county_names_all": "Leslie",
+    "county_fips_all": "21131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

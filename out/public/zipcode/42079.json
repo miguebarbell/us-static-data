@@ -1,0 +1,20 @@
+{
+    "zip": 42079,
+    "lat": 36.55978,
+    "lng": -88.57611,
+    "city": "Sedalia",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1446.0,
+    "density": 10.3,
+    "county_fips": 21083,
+    "county_name": "Graves",
+    "county_weights": "{\"21083\": 100}",
+    "county_names_all": "Graves",
+    "county_fips_all": "21083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

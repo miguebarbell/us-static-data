@@ -1,0 +1,20 @@
+{
+    "zip": 56088,
+    "lat": 43.82647,
+    "lng": -94.45031,
+    "city": "Truman",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2063.0,
+    "density": 6.4,
+    "county_fips": 27091,
+    "county_name": "Martin",
+    "county_weights": "{\"27091\": 68.34, \"27165\": 23.83, \"27013\": 7.83}",
+    "county_names_all": "Martin|Watonwan|Blue Earth",
+    "county_fips_all": "27091|27165|27013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

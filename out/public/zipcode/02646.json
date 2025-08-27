@@ -1,0 +1,20 @@
+{
+    "zip": 2646,
+    "lat": 41.67103,
+    "lng": -70.07144,
+    "city": "Harwich Port",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1715.0,
+    "density": 228.1,
+    "county_fips": 25001,
+    "county_name": "Barnstable",
+    "county_weights": "{\"25001\": 100}",
+    "county_names_all": "Barnstable",
+    "county_fips_all": "25001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

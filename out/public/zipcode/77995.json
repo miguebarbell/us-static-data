@@ -1,0 +1,20 @@
+{
+    "zip": 77995,
+    "lat": 29.20384,
+    "lng": -97.08814,
+    "city": "Yoakum",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10244.0,
+    "density": 10.5,
+    "county_fips": 48123,
+    "county_name": "DeWitt",
+    "county_weights": "{\"48123\": 48.16, \"48285\": 43.01, \"48469\": 8.83}",
+    "county_names_all": "DeWitt|Lavaca|Victoria",
+    "county_fips_all": "48123|48285|48469",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 75791,
+    "lat": 32.22214,
+    "lng": -95.22103,
+    "city": "Whitehouse",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15320.0,
+    "density": 150.2,
+    "county_fips": 48423,
+    "county_name": "Smith",
+    "county_weights": "{\"48423\": 100}",
+    "county_names_all": "Smith",
+    "county_fips_all": "48423",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

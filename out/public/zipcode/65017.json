@@ -1,0 +1,20 @@
+{
+    "zip": 65017,
+    "lat": 38.09185,
+    "lng": -92.49548,
+    "city": "Brumley",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1165.0,
+    "density": 7.3,
+    "county_fips": 29131,
+    "county_name": "Miller",
+    "county_weights": "{\"29131\": 98.59, \"29029\": 1.41}",
+    "county_names_all": "Miller|Camden",
+    "county_fips_all": "29131|29029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 39776,
+    "lat": 33.78517,
+    "lng": -89.03239,
+    "city": "Woodland",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1421.0,
+    "density": 6.5,
+    "county_fips": 28017,
+    "county_name": "Chickasaw",
+    "county_weights": "{\"28017\": 81.36, \"28025\": 18.64}",
+    "county_names_all": "Chickasaw|Clay",
+    "county_fips_all": "28017|28025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

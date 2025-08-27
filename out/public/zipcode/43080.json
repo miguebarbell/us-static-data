@@ -1,0 +1,20 @@
+{
+    "zip": 43080,
+    "lat": 40.24284,
+    "lng": -82.43126,
+    "city": "Utica",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5309.0,
+    "density": 27.9,
+    "county_fips": 39089,
+    "county_name": "Licking",
+    "county_weights": "{\"39089\": 59.93, \"39083\": 40.07}",
+    "county_names_all": "Licking|Knox",
+    "county_fips_all": "39089|39083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

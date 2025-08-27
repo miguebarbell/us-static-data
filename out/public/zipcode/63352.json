@@ -1,0 +1,20 @@
+{
+    "zip": 63352,
+    "lat": 39.25097,
+    "lng": -91.65526,
+    "city": "Laddonia",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 992.0,
+    "density": 3.6,
+    "county_fips": 29007,
+    "county_name": "Audrain",
+    "county_weights": "{\"29007\": 89.61, \"29173\": 10.39}",
+    "county_names_all": "Audrain|Ralls",
+    "county_fips_all": "29007|29173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

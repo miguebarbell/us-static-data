@@ -1,0 +1,20 @@
+{
+    "zip": 38311,
+    "lat": 35.43842,
+    "lng": -88.09737,
+    "city": "Bath Springs",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 767.0,
+    "density": 5.3,
+    "county_fips": 47039,
+    "county_name": "Decatur",
+    "county_weights": "{\"47039\": 100}",
+    "county_names_all": "Decatur",
+    "county_fips_all": "47039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

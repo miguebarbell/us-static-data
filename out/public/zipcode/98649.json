@@ -1,0 +1,20 @@
+{
+    "zip": 98649,
+    "lat": 46.31504,
+    "lng": -122.53415,
+    "city": "Toutle",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 980.0,
+    "density": 1.9,
+    "county_fips": 53015,
+    "county_name": "Cowlitz",
+    "county_weights": "{\"53015\": 100}",
+    "county_names_all": "Cowlitz",
+    "county_fips_all": "53015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

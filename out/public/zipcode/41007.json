@@ -1,0 +1,20 @@
+{
+    "zip": 41007,
+    "lat": 38.89289,
+    "lng": -84.30788,
+    "city": "California",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4606.0,
+    "density": 35.8,
+    "county_fips": 21037,
+    "county_name": "Campbell",
+    "county_weights": "{\"21037\": 89.46, \"21191\": 10.54}",
+    "county_names_all": "Campbell|Pendleton",
+    "county_fips_all": "21037|21191",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

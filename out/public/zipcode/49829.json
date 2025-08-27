@@ -1,0 +1,20 @@
+{
+    "zip": 49829,
+    "lat": 45.76773,
+    "lng": -87.16522,
+    "city": "Escanaba",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16859.0,
+    "density": 97.5,
+    "county_fips": 26041,
+    "county_name": "Delta",
+    "county_weights": "{\"26041\": 100}",
+    "county_names_all": "Delta",
+    "county_fips_all": "26041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

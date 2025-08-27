@@ -1,0 +1,20 @@
+{
+    "zip": 95625,
+    "lat": 38.35728,
+    "lng": -121.90861,
+    "city": "Elmira",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 248.0,
+    "density": 104.0,
+    "county_fips": 6095,
+    "county_name": "Solano",
+    "county_weights": "{\"06095\": 100}",
+    "county_names_all": "Solano",
+    "county_fips_all": "06095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

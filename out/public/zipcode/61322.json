@@ -1,0 +1,20 @@
+{
+    "zip": 61322,
+    "lat": 41.3185,
+    "lng": -89.30566,
+    "city": "Depue",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1550.0,
+    "density": 167.1,
+    "county_fips": 17011,
+    "county_name": "Bureau",
+    "county_weights": "{\"17011\": 100}",
+    "county_names_all": "Bureau",
+    "county_fips_all": "17011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

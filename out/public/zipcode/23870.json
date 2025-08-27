@@ -1,0 +1,20 @@
+{
+    "zip": 23870,
+    "lat": 36.75241,
+    "lng": -77.50016,
+    "city": "Jarratt",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 51081,
+    "county_name": "Greensville",
+    "county_weights": "{\"51081\": 100}",
+    "county_names_all": "Greensville",
+    "county_fips_all": "51081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

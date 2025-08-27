@@ -1,0 +1,20 @@
+{
+    "zip": 61321,
+    "lat": 40.96754,
+    "lng": -88.97621,
+    "city": "Dana",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 232.0,
+    "density": 3.1,
+    "county_fips": 17099,
+    "county_name": "LaSalle",
+    "county_weights": "{\"17099\": 96.79, \"17123\": 3.21}",
+    "county_names_all": "LaSalle|Marshall",
+    "county_fips_all": "17099|17123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

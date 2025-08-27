@@ -1,0 +1,20 @@
+{
+    "zip": 27563,
+    "lat": 36.4312,
+    "lng": -78.23343,
+    "city": "Norlina",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5300.0,
+    "density": 28.7,
+    "county_fips": 37185,
+    "county_name": "Warren",
+    "county_weights": "{\"37185\": 97.02, \"37181\": 2.98}",
+    "county_names_all": "Warren|Vance",
+    "county_fips_all": "37185|37181",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 69154,
+    "lat": 41.4642,
+    "lng": -102.35349,
+    "city": "Oshkosh",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1077.0,
+    "density": 1.0,
+    "county_fips": 31069,
+    "county_name": "Garden",
+    "county_weights": "{\"31069\": 100}",
+    "county_names_all": "Garden",
+    "county_fips_all": "31069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

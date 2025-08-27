@@ -1,0 +1,20 @@
+{
+    "zip": 28753,
+    "lat": 35.87181,
+    "lng": -82.7002,
+    "city": "Marshall",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9778.0,
+    "density": 14.7,
+    "county_fips": 37115,
+    "county_name": "Madison",
+    "county_weights": "{\"37115\": 97.86, \"37021\": 2.14}",
+    "county_names_all": "Madison|Buncombe",
+    "county_fips_all": "37115|37021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

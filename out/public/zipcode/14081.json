@@ -1,0 +1,20 @@
+{
+    "zip": 14081,
+    "lat": 42.56332,
+    "lng": -79.06528,
+    "city": "Irving",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2736.0,
+    "density": 33.0,
+    "county_fips": 36029,
+    "county_name": "Erie",
+    "county_weights": "{\"36029\": 76.34, \"36013\": 21.43, \"36009\": 2.23}",
+    "county_names_all": "Erie|Chautauqua|Cattaraugus",
+    "county_fips_all": "36029|36013|36009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

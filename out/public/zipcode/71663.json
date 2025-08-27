@@ -1,0 +1,20 @@
+{
+    "zip": 71663,
+    "lat": 33.22755,
+    "lng": -91.42665,
+    "city": "Portland",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 507.0,
+    "density": 2.4,
+    "county_fips": 5017,
+    "county_name": "Chicot",
+    "county_weights": "{\"05017\": 63.95, \"05003\": 36.05}",
+    "county_names_all": "Chicot|Ashley",
+    "county_fips_all": "05017|05003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

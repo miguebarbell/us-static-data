@@ -1,0 +1,20 @@
+{
+    "zip": 58436,
+    "lat": 46.08203,
+    "lng": -98.58773,
+    "city": "Ellendale",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1665.0,
+    "density": 2.0,
+    "county_fips": 38021,
+    "county_name": "Dickey",
+    "county_weights": "{\"38021\": 95.42, \"46013\": 4.58}",
+    "county_names_all": "Dickey|Brown",
+    "county_fips_all": "38021|46013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

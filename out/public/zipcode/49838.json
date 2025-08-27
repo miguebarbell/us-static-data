@@ -1,0 +1,20 @@
+{
+    "zip": 49838,
+    "lat": 46.06473,
+    "lng": -85.75035,
+    "city": "Gould City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 434.0,
+    "density": 1.2,
+    "county_fips": 26097,
+    "county_name": "Mackinac",
+    "county_weights": "{\"26097\": 100}",
+    "county_names_all": "Mackinac",
+    "county_fips_all": "26097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

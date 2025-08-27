@@ -1,0 +1,20 @@
+{
+    "zip": 61235,
+    "lat": 41.39972,
+    "lng": -90.0237,
+    "city": "Atkinson",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1329.0,
+    "density": 9.8,
+    "county_fips": 17073,
+    "county_name": "Henry",
+    "county_weights": "{\"17073\": 100}",
+    "county_names_all": "Henry",
+    "county_fips_all": "17073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

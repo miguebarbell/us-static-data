@@ -1,0 +1,20 @@
+{
+    "zip": 72729,
+    "lat": 35.78992,
+    "lng": -94.46338,
+    "city": "Evansville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 121.0,
+    "density": 4.1,
+    "county_fips": 5143,
+    "county_name": "Washington",
+    "county_weights": "{\"05143\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "05143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

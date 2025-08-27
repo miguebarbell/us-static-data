@@ -1,0 +1,20 @@
+{
+    "zip": 56170,
+    "lat": 44.16694,
+    "lng": -96.08647,
+    "city": "Ruthton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 486.0,
+    "density": 3.0,
+    "county_fips": 27117,
+    "county_name": "Pipestone",
+    "county_weights": "{\"27117\": 49.45, \"27101\": 37.84, \"27083\": 7.9, \"27081\": 4.81}",
+    "county_names_all": "Pipestone|Murray|Lyon|Lincoln",
+    "county_fips_all": "27117|27101|27083|27081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

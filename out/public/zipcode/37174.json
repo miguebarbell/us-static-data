@@ -1,0 +1,20 @@
+{
+    "zip": 37174,
+    "lat": 35.72197,
+    "lng": -86.8995,
+    "city": "Spring Hill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 50778.0,
+    "density": 281.3,
+    "county_fips": 47119,
+    "county_name": "Maury",
+    "county_weights": "{\"47119\": 74.76, \"47187\": 23.76, \"47117\": 1.48}",
+    "county_names_all": "Maury|Williamson|Marshall",
+    "county_fips_all": "47119|47187|47117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

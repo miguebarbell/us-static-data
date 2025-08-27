@@ -1,0 +1,20 @@
+{
+    "zip": 64648,
+    "lat": 39.98517,
+    "lng": -93.79922,
+    "city": "Jamesport",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2422.0,
+    "density": 8.0,
+    "county_fips": 29061,
+    "county_name": "Daviess",
+    "county_weights": "{\"29061\": 78.16, \"29079\": 14.86, \"29117\": 6.98}",
+    "county_names_all": "Daviess|Grundy|Livingston",
+    "county_fips_all": "29061|29079|29117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

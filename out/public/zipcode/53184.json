@@ -1,0 +1,20 @@
+{
+    "zip": 53184,
+    "lat": 42.53075,
+    "lng": -88.60945,
+    "city": "Walworth",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4233.0,
+    "density": 52.8,
+    "county_fips": 55127,
+    "county_name": "Walworth",
+    "county_weights": "{\"55127\": 100}",
+    "county_names_all": "Walworth",
+    "county_fips_all": "55127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

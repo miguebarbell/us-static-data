@@ -1,0 +1,20 @@
+{
+    "zip": 58788,
+    "lat": 48.33198,
+    "lng": -100.48045,
+    "city": "Towner",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 803.0,
+    "density": 0.6,
+    "county_fips": 38049,
+    "county_name": "McHenry",
+    "county_weights": "{\"38049\": 96.88, \"38069\": 3.12}",
+    "county_names_all": "McHenry|Pierce",
+    "county_fips_all": "38049|38069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

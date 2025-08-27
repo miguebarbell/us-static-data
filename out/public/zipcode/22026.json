@@ -1,0 +1,20 @@
+{
+    "zip": 22026,
+    "lat": 38.56717,
+    "lng": -77.29476,
+    "city": "Dumfries",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21025.0,
+    "density": 967.3,
+    "county_fips": 51153,
+    "county_name": "Prince William",
+    "county_weights": "{\"51153\": 100}",
+    "county_names_all": "Prince William",
+    "county_fips_all": "51153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

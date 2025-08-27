@@ -1,0 +1,20 @@
+{
+    "zip": 72458,
+    "lat": 36.06844,
+    "lng": -91.15619,
+    "city": "Powhatan",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 619.0,
+    "density": 10.2,
+    "county_fips": 5075,
+    "county_name": "Lawrence",
+    "county_weights": "{\"05075\": 100}",
+    "county_names_all": "Lawrence",
+    "county_fips_all": "05075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

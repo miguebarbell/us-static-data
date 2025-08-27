@@ -1,0 +1,20 @@
+{
+    "zip": 31735,
+    "lat": 31.97195,
+    "lng": -83.96446,
+    "city": "Cobb",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 570.0,
+    "density": 11.1,
+    "county_fips": 13261,
+    "county_name": "Sumter",
+    "county_weights": "{\"13261\": 100}",
+    "county_names_all": "Sumter",
+    "county_fips_all": "13261",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

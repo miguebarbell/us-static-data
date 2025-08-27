@@ -1,0 +1,20 @@
+{
+    "zip": 36483,
+    "lat": 31.04273,
+    "lng": -86.68494,
+    "city": "Wing",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 572.0,
+    "density": 2.0,
+    "county_fips": 1039,
+    "county_name": "Covington",
+    "county_weights": "{\"01039\": 54.84, \"01053\": 45.16}",
+    "county_names_all": "Covington|Escambia",
+    "county_fips_all": "01039|01053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 2170,
+    "lat": 42.26644,
+    "lng": -71.01621,
+    "city": "Quincy",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19685.0,
+    "density": 3645.4,
+    "county_fips": 25021,
+    "county_name": "Norfolk",
+    "county_weights": "{\"25021\": 100}",
+    "county_names_all": "Norfolk",
+    "county_fips_all": "25021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

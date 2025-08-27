@@ -1,0 +1,20 @@
+{
+    "zip": 35016,
+    "lat": 34.32545,
+    "lng": -86.5033,
+    "city": "Arab",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17435.0,
+    "density": 85.2,
+    "county_fips": 1095,
+    "county_name": "Marshall",
+    "county_weights": "{\"01095\": 68.68, \"01043\": 21.19, \"01009\": 5.6, \"01103\": 4.53}",
+    "county_names_all": "Marshall|Cullman|Blount|Morgan",
+    "county_fips_all": "01095|01043|01009|01103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

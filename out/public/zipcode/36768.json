@@ -1,0 +1,20 @@
+{
+    "zip": 36768,
+    "lat": 31.8837,
+    "lng": -87.01186,
+    "city": "Pine Apple",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 824.0,
+    "density": 1.4,
+    "county_fips": 1131,
+    "county_name": "Wilcox",
+    "county_weights": "{\"01131\": 73.4, \"01099\": 26.6}",
+    "county_names_all": "Wilcox|Monroe",
+    "county_fips_all": "01131|01099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

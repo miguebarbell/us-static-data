@@ -1,0 +1,20 @@
+{
+    "zip": 99579,
+    "lat": 58.21813,
+    "lng": -157.40364,
+    "city": "Egegik",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 50.0,
+    "density": 0.7,
+    "county_fips": 2164,
+    "county_name": "Lake and Peninsula",
+    "county_weights": "{\"02164\": 100}",
+    "county_names_all": "Lake and Peninsula",
+    "county_fips_all": "02164",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

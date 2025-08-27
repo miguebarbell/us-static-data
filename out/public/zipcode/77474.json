@@ -1,0 +1,20 @@
+{
+    "zip": 77474,
+    "lat": 29.77583,
+    "lng": -96.18518,
+    "city": "Sealy",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14846.0,
+    "density": 27.7,
+    "county_fips": 48015,
+    "county_name": "Austin",
+    "county_weights": "{\"48015\": 98.1, \"48089\": 1.9}",
+    "county_names_all": "Austin|Colorado",
+    "county_fips_all": "48015|48089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

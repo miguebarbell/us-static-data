@@ -1,0 +1,20 @@
+{
+    "zip": 74555,
+    "lat": 34.2459,
+    "lng": -95.96944,
+    "city": "Lane",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 537.0,
+    "density": 4.5,
+    "county_fips": 40005,
+    "county_name": "Atoka",
+    "county_weights": "{\"40005\": 100}",
+    "county_names_all": "Atoka",
+    "county_fips_all": "40005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

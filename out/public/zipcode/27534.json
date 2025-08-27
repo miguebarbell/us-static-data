@@ -1,0 +1,20 @@
+{
+    "zip": 27534,
+    "lat": 35.37153,
+    "lng": -77.90646,
+    "city": "Goldsboro",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31340.0,
+    "density": 165.6,
+    "county_fips": 37191,
+    "county_name": "Wayne",
+    "county_weights": "{\"37191\": 99.22, \"37079\": 0.78}",
+    "county_names_all": "Wayne|Greene",
+    "county_fips_all": "37191|37079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

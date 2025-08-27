@@ -1,0 +1,20 @@
+{
+    "zip": 73059,
+    "lat": 35.3251,
+    "lng": -98.05431,
+    "city": "Minco",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2809.0,
+    "density": 6.7,
+    "county_fips": 40051,
+    "county_name": "Grady",
+    "county_weights": "{\"40051\": 59.01, \"40015\": 28.04, \"40017\": 12.95}",
+    "county_names_all": "Grady|Caddo|Canadian",
+    "county_fips_all": "40051|40015|40017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

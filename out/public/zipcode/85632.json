@@ -1,0 +1,20 @@
+{
+    "zip": 85632,
+    "lat": 32.05855,
+    "lng": -109.18305,
+    "city": "San Simon",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 873.0,
+    "density": 0.4,
+    "county_fips": 4003,
+    "county_name": "Cochise",
+    "county_weights": "{\"04003\": 100}",
+    "county_names_all": "Cochise",
+    "county_fips_all": "04003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

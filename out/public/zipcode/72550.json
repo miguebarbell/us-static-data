@@ -1,0 +1,20 @@
+{
+    "zip": 72550,
+    "lat": 35.70836,
+    "lng": -91.78387,
+    "city": "Locust Grove",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 797.0,
+    "density": 6.4,
+    "county_fips": 5063,
+    "county_name": "Independence",
+    "county_weights": "{\"05063\": 69.01, \"05023\": 18.49, \"05137\": 12.5}",
+    "county_names_all": "Independence|Cleburne|Stone",
+    "county_fips_all": "05063|05023|05137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

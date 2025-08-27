@@ -1,0 +1,20 @@
+{
+    "zip": 28436,
+    "lat": 34.26703,
+    "lng": -78.27552,
+    "city": "Delco",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2145.0,
+    "density": 19.0,
+    "county_fips": 37047,
+    "county_name": "Columbus",
+    "county_weights": "{\"37047\": 100}",
+    "county_names_all": "Columbus",
+    "county_fips_all": "37047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

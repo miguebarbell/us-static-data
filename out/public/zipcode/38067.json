@@ -1,0 +1,20 @@
+{
+    "zip": 38067,
+    "lat": 35.08561,
+    "lng": -89.04804,
+    "city": "Saulsbury",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1890.0,
+    "density": 12.4,
+    "county_fips": 47069,
+    "county_name": "Hardeman",
+    "county_weights": "{\"47069\": 100}",
+    "county_names_all": "Hardeman",
+    "county_fips_all": "47069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

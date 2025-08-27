@@ -1,0 +1,20 @@
+{
+    "zip": 98520,
+    "lat": 46.99478,
+    "lng": -123.81054,
+    "city": "Aberdeen",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25072.0,
+    "density": 44.5,
+    "county_fips": 53027,
+    "county_name": "Grays Harbor",
+    "county_weights": "{\"53027\": 100}",
+    "county_names_all": "Grays Harbor",
+    "county_fips_all": "53027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

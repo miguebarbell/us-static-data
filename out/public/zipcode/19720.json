@@ -1,0 +1,20 @@
+{
+    "zip": 19720,
+    "lat": 39.645,
+    "lng": -75.60678,
+    "city": "New Castle",
+    "state_id": "DE",
+    "state_name": "Delaware",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 60593.0,
+    "density": 610.8,
+    "county_fips": 10003,
+    "county_name": "New Castle",
+    "county_weights": "{\"10003\": 100}",
+    "county_names_all": "New Castle",
+    "county_fips_all": "10003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

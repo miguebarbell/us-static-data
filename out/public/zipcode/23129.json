@@ -1,0 +1,20 @@
+{
+    "zip": 23129,
+    "lat": 37.705,
+    "lng": -77.78261,
+    "city": "Oilville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 394.0,
+    "density": 38.0,
+    "county_fips": 51075,
+    "county_name": "Goochland",
+    "county_weights": "{\"51075\": 100}",
+    "county_names_all": "Goochland",
+    "county_fips_all": "51075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

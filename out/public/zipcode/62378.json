@@ -1,0 +1,20 @@
+{
+    "zip": 62378,
+    "lat": 39.89602,
+    "lng": -90.63652,
+    "city": "Versailles",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 879.0,
+    "density": 5.1,
+    "county_fips": 17009,
+    "county_name": "Brown",
+    "county_weights": "{\"17009\": 100}",
+    "county_names_all": "Brown",
+    "county_fips_all": "17009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

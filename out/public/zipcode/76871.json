@@ -1,0 +1,20 @@
+{
+    "zip": 76871,
+    "lat": 31.27333,
+    "lng": -98.995,
+    "city": "Richland Springs",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 560.0,
+    "density": 0.9,
+    "county_fips": 48411,
+    "county_name": "San Saba",
+    "county_weights": "{\"48411\": 90.8, \"48307\": 9.2}",
+    "county_names_all": "San Saba|McCulloch",
+    "county_fips_all": "48411|48307",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

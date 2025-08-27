@@ -1,0 +1,20 @@
+{
+    "zip": 72116,
+    "lat": 34.80025,
+    "lng": -92.24505,
+    "city": "North Little Rock",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21090.0,
+    "density": 1254.5,
+    "county_fips": 5119,
+    "county_name": "Pulaski",
+    "county_weights": "{\"05119\": 100}",
+    "county_names_all": "Pulaski",
+    "county_fips_all": "05119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

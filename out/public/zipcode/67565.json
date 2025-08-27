@@ -1,0 +1,20 @@
+{
+    "zip": 67565,
+    "lat": 38.60428,
+    "lng": -99.04439,
+    "city": "Otis",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 469.0,
+    "density": 1.8,
+    "county_fips": 20165,
+    "county_name": "Rush",
+    "county_weights": "{\"20165\": 58.88, \"20009\": 40.12, \"20051\": 1.0}",
+    "county_names_all": "Rush|Barton|Ellis",
+    "county_fips_all": "20165|20009|20051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

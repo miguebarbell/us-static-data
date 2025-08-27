@@ -1,0 +1,20 @@
+{
+    "zip": 77575,
+    "lat": 30.07738,
+    "lng": -94.73666,
+    "city": "Liberty",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16617.0,
+    "density": 26.9,
+    "county_fips": 48291,
+    "county_name": "Liberty",
+    "county_weights": "{\"48291\": 96.67, \"48071\": 3.33}",
+    "county_names_all": "Liberty|Chambers",
+    "county_fips_all": "48291|48071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 71660,
+    "lat": 33.7627,
+    "lng": -92.19728,
+    "city": "New Edinburg",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 913.0,
+    "density": 3.1,
+    "county_fips": 5025,
+    "county_name": "Cleveland",
+    "county_weights": "{\"05025\": 99.62, \"05011\": 0.38}",
+    "county_names_all": "Cleveland|Bradley",
+    "county_fips_all": "05025|05011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 95205,
+    "lat": 37.96425,
+    "lng": -121.25955,
+    "city": "Stockton",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39154.0,
+    "density": 1681.3,
+    "county_fips": 6077,
+    "county_name": "San Joaquin",
+    "county_weights": "{\"06077\": 100}",
+    "county_names_all": "San Joaquin",
+    "county_fips_all": "06077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

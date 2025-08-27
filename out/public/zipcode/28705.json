@@ -1,0 +1,20 @@
+{
+    "zip": 28705,
+    "lat": 36.04349,
+    "lng": -82.1573,
+    "city": "Bakersville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6733.0,
+    "density": 20.9,
+    "county_fips": 37121,
+    "county_name": "Mitchell",
+    "county_weights": "{\"37121\": 99.53, \"37199\": 0.47}",
+    "county_names_all": "Mitchell|Yancey",
+    "county_fips_all": "37121|37199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 68448,
+    "lat": 40.54429,
+    "lng": -96.035,
+    "city": "Talmage",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 263.0,
+    "density": 2.2,
+    "county_fips": 31131,
+    "county_name": "Otoe",
+    "county_weights": "{\"31131\": 80.61, \"31127\": 10.77, \"31097\": 8.62}",
+    "county_names_all": "Otoe|Nemaha|Johnson",
+    "county_fips_all": "31131|31127|31097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

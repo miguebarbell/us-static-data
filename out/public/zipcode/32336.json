@@ -1,0 +1,20 @@
+{
+    "zip": 32336,
+    "lat": 30.26371,
+    "lng": -83.86319,
+    "city": "Lamont",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1218.0,
+    "density": 2.1,
+    "county_fips": 12123,
+    "county_name": "Taylor",
+    "county_weights": "{\"12123\": 47.44, \"12065\": 40.29, \"12079\": 12.27}",
+    "county_names_all": "Taylor|Jefferson|Madison",
+    "county_fips_all": "12123|12065|12079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

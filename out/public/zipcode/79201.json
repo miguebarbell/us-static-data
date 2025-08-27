@@ -1,0 +1,20 @@
+{
+    "zip": 79201,
+    "lat": 34.4101,
+    "lng": -100.33521,
+    "city": "Childress",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6817.0,
+    "density": 3.0,
+    "county_fips": 48075,
+    "county_name": "Childress",
+    "county_weights": "{\"48075\": 54.66, \"48101\": 18.38, \"48191\": 16.4, \"48345\": 10.56}",
+    "county_names_all": "Childress|Cottle|Hall|Motley",
+    "county_fips_all": "48075|48101|48191|48345",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

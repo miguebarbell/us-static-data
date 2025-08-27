@@ -1,0 +1,20 @@
+{
+    "zip": 97304,
+    "lat": 45.0078,
+    "lng": -123.1078,
+    "city": "Salem",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 34846.0,
+    "density": 236.8,
+    "county_fips": 41053,
+    "county_name": "Polk",
+    "county_weights": "{\"41053\": 86.91, \"41071\": 13.09}",
+    "county_names_all": "Polk|Yamhill",
+    "county_fips_all": "41053|41071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 47527,
+    "lat": 38.47232,
+    "lng": -86.77772,
+    "city": "Dubois",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2230.0,
+    "density": 15.5,
+    "county_fips": 18037,
+    "county_name": "Dubois",
+    "county_weights": "{\"18037\": 98.81, \"18117\": 1.19}",
+    "county_names_all": "Dubois|Orange",
+    "county_fips_all": "18037|18117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Vincennes"
+}

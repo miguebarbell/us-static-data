@@ -1,0 +1,20 @@
+{
+    "zip": 98366,
+    "lat": 47.53732,
+    "lng": -122.58647,
+    "city": "Port Orchard",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37692.0,
+    "density": 621.6,
+    "county_fips": 53035,
+    "county_name": "Kitsap",
+    "county_weights": "{\"53035\": 100}",
+    "county_names_all": "Kitsap",
+    "county_fips_all": "53035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

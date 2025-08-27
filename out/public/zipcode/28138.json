@@ -1,0 +1,20 @@
+{
+    "zip": 28138,
+    "lat": 35.52121,
+    "lng": -80.44193,
+    "city": "Rockwell",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9795.0,
+    "density": 84.1,
+    "county_fips": 37159,
+    "county_name": "Rowan",
+    "county_weights": "{\"37159\": 74.97, \"37025\": 25.03}",
+    "county_names_all": "Rowan|Cabarrus",
+    "county_fips_all": "37159|37025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

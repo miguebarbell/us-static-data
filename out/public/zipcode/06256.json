@@ -1,0 +1,20 @@
+{
+    "zip": 6256,
+    "lat": 41.73699,
+    "lng": -72.15723,
+    "city": "North Windham",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1796.0,
+    "density": 91.8,
+    "county_fips": 9180,
+    "county_name": "Southeastern Connecticut",
+    "county_weights": "{\"09180\": 99.47, \"09150\": 0.41, \"09110\": 0.12}",
+    "county_names_all": "Southeastern Connecticut|Northeastern Connecticut|Capitol",
+    "county_fips_all": "09180|09150|09110",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

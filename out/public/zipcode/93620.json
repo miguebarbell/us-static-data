@@ -1,0 +1,20 @@
+{
+    "zip": 93620,
+    "lat": 37.0448,
+    "lng": -120.6223,
+    "city": "Dos Palos",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10173.0,
+    "density": 24.4,
+    "county_fips": 6047,
+    "county_name": "Merced",
+    "county_weights": "{\"06047\": 75.66, \"06019\": 24.09, \"06039\": 0.25}",
+    "county_names_all": "Merced|Fresno|Madera",
+    "county_fips_all": "06047|06019|06039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

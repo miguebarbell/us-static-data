@@ -1,0 +1,20 @@
+{
+    "zip": 35503,
+    "lat": 33.93664,
+    "lng": -87.30147,
+    "city": "Jasper",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9601.0,
+    "density": 47.2,
+    "county_fips": 1127,
+    "county_name": "Walker",
+    "county_weights": "{\"01127\": 91.1, \"01133\": 8.9}",
+    "county_names_all": "Walker|Winston",
+    "county_fips_all": "01127|01133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

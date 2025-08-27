@@ -1,0 +1,20 @@
+{
+    "zip": 54631,
+    "lat": 43.28795,
+    "lng": -90.8327,
+    "city": "Gays Mills",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1828.0,
+    "density": 6.8,
+    "county_fips": 55023,
+    "county_name": "Crawford",
+    "county_weights": "{\"55023\": 100}",
+    "county_names_all": "Crawford",
+    "county_fips_all": "55023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

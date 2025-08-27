@@ -1,0 +1,20 @@
+{
+    "zip": 12857,
+    "lat": 43.84033,
+    "lng": -73.93354,
+    "city": "Olmstedville",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 613.0,
+    "density": 3.5,
+    "county_fips": 36031,
+    "county_name": "Essex",
+    "county_weights": "{\"36031\": 98.26, \"36113\": 1.74}",
+    "county_names_all": "Essex|Warren",
+    "county_fips_all": "36031|36113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

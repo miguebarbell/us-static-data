@@ -1,0 +1,20 @@
+{
+    "zip": 37340,
+    "lat": 35.02085,
+    "lng": -85.53179,
+    "city": "Guild",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 206.0,
+    "density": 9.4,
+    "county_fips": 47115,
+    "county_name": "Marion",
+    "county_weights": "{\"47115\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "47115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

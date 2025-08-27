@@ -1,0 +1,20 @@
+{
+    "zip": 37351,
+    "lat": 35.10073,
+    "lng": -85.26135,
+    "city": "Lupton City",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 295.0,
+    "density": 261.2,
+    "county_fips": 47065,
+    "county_name": "Hamilton",
+    "county_weights": "{\"47065\": 100}",
+    "county_names_all": "Hamilton",
+    "county_fips_all": "47065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

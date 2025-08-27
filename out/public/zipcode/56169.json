@@ -1,0 +1,20 @@
+{
+    "zip": 56169,
+    "lat": 44.33136,
+    "lng": -96.00555,
+    "city": "Russell",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 734.0,
+    "density": 5.2,
+    "county_fips": 27083,
+    "county_name": "Lyon",
+    "county_weights": "{\"27083\": 100}",
+    "county_names_all": "Lyon",
+    "county_fips_all": "27083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

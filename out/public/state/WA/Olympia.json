@@ -1,0 +1,17 @@
+{
+    "zip": [
+        "98501",
+        "98502",
+        "98505",
+        "98506",
+        "98512",
+        "98513",
+        "98516"
+    ],
+    "city": "Olympia",
+    "state": "WA",
+    "lat": 47.30919,
+    "lng": -122.26426,
+    "state_name": "Washington",
+    "timezone": "America/Los_Angeles"
+}

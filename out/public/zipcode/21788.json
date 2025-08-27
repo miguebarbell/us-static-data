@@ -1,0 +1,20 @@
+{
+    "zip": 21788,
+    "lat": 39.59429,
+    "lng": -77.41958,
+    "city": "Thurmont",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11919.0,
+    "density": 70.3,
+    "county_fips": 24021,
+    "county_name": "Frederick",
+    "county_weights": "{\"24021\": 100}",
+    "county_names_all": "Frederick",
+    "county_fips_all": "24021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 47944,
+    "lat": 40.61067,
+    "lng": -87.32804,
+    "city": "Fowler",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3492.0,
+    "density": 7.1,
+    "county_fips": 18007,
+    "county_name": "Benton",
+    "county_weights": "{\"18007\": 97.59, \"18171\": 1.88, \"18181\": 0.53}",
+    "county_names_all": "Benton|Warren|White",
+    "county_fips_all": "18007|18171|18181",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

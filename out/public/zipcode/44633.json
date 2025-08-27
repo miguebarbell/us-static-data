@@ -1,0 +1,20 @@
+{
+    "zip": 44633,
+    "lat": 40.63182,
+    "lng": -81.93601,
+    "city": "Holmesville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2275.0,
+    "density": 39.3,
+    "county_fips": 39075,
+    "county_name": "Holmes",
+    "county_weights": "{\"39075\": 100}",
+    "county_names_all": "Holmes",
+    "county_fips_all": "39075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 93210,
+    "lat": 36.19519,
+    "lng": -120.43245,
+    "city": "Coalinga",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18975.0,
+    "density": 9.4,
+    "county_fips": 6019,
+    "county_name": "Fresno",
+    "county_weights": "{\"06019\": 90.26, \"06053\": 6.38, \"06069\": 3.36}",
+    "county_names_all": "Fresno|Monterey|San Benito",
+    "county_fips_all": "06019|06053|06069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

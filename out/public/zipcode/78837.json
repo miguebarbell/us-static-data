@@ -1,0 +1,20 @@
+{
+    "zip": 78837,
+    "lat": 29.92708,
+    "lng": -101.28057,
+    "city": "Comstock",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 137.0,
+    "density": 0.1,
+    "county_fips": 48465,
+    "county_name": "Val Verde",
+    "county_weights": "{\"48465\": 100}",
+    "county_names_all": "Val Verde",
+    "county_fips_all": "48465",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

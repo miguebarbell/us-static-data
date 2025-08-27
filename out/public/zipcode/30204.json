@@ -1,0 +1,20 @@
+{
+    "zip": 30204,
+    "lat": 33.05844,
+    "lng": -84.12343,
+    "city": "Barnesville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13425.0,
+    "density": 41.4,
+    "county_fips": 13171,
+    "county_name": "Lamar",
+    "county_weights": "{\"13171\": 91.93, \"13293\": 4.15, \"13207\": 3.92}",
+    "county_names_all": "Lamar|Upson|Monroe",
+    "county_fips_all": "13171|13293|13207",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

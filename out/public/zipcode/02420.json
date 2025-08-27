@@ -1,0 +1,20 @@
+{
+    "zip": 2420,
+    "lat": 42.45821,
+    "lng": -71.21762,
+    "city": "Lexington",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16287.0,
+    "density": 893.5,
+    "county_fips": 25017,
+    "county_name": "Middlesex",
+    "county_weights": "{\"25017\": 100}",
+    "county_names_all": "Middlesex",
+    "county_fips_all": "25017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

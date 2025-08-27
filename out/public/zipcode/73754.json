@@ -1,0 +1,20 @@
+{
+    "zip": 73754,
+    "lat": 36.39016,
+    "lng": -98.09455,
+    "city": "Lahoma",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1109.0,
+    "density": 8.8,
+    "county_fips": 40047,
+    "county_name": "Garfield",
+    "county_weights": "{\"40047\": 61.87, \"40093\": 36.07, \"40003\": 2.06}",
+    "county_names_all": "Garfield|Major|Alfalfa",
+    "county_fips_all": "40047|40093|40003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

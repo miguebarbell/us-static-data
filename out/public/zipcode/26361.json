@@ -1,0 +1,20 @@
+{
+    "zip": 26361,
+    "lat": 39.36507,
+    "lng": -80.31776,
+    "city": "Gypsy",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 53.0,
+    "density": 72.6,
+    "county_fips": 54033,
+    "county_name": "Harrison",
+    "county_weights": "{\"54033\": 100}",
+    "county_names_all": "Harrison",
+    "county_fips_all": "54033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

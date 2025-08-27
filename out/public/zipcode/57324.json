@@ -1,0 +1,20 @@
+{
+    "zip": 57324,
+    "lat": 44.30154,
+    "lng": -98.04535,
+    "city": "Cavour",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 371.0,
+    "density": 1.7,
+    "county_fips": 46005,
+    "county_name": "Beadle",
+    "county_weights": "{\"46005\": 100}",
+    "county_names_all": "Beadle",
+    "county_fips_all": "46005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

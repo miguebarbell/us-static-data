@@ -1,0 +1,20 @@
+{
+    "zip": 71219,
+    "lat": 32.32344,
+    "lng": -91.6842,
+    "city": "Baskin",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1141.0,
+    "density": 7.3,
+    "county_fips": 22041,
+    "county_name": "Franklin",
+    "county_weights": "{\"22041\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "22041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

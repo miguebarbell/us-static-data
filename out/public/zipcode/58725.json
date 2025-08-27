@@ -1,0 +1,20 @@
+{
+    "zip": 58725,
+    "lat": 48.48699,
+    "lng": -101.68361,
+    "city": "Carpio",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 438.0,
+    "density": 1.1,
+    "county_fips": 38075,
+    "county_name": "Renville",
+    "county_weights": "{\"38075\": 61.1, \"38101\": 38.9}",
+    "county_names_all": "Renville|Ward",
+    "county_fips_all": "38075|38101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

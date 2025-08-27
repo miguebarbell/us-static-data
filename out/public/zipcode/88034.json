@@ -1,0 +1,20 @@
+{
+    "zip": 88034,
+    "lat": 32.58114,
+    "lng": -107.96764,
+    "city": "Faywood",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30.0,
+    "density": 0.2,
+    "county_fips": 35017,
+    "county_name": "Grant",
+    "county_weights": "{\"35017\": 95.45, \"35029\": 4.55}",
+    "county_names_all": "Grant|Luna",
+    "county_fips_all": "35017|35029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 59484,
+    "lat": 48.95074,
+    "lng": -111.76795,
+    "city": "Sweet Grass",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 74.0,
+    "density": 0.2,
+    "county_fips": 30101,
+    "county_name": "Toole",
+    "county_weights": "{\"30101\": 100}",
+    "county_names_all": "Toole",
+    "county_fips_all": "30101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 66050,
+    "lat": 39.01961,
+    "lng": -95.43697,
+    "city": "Lecompton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1777.0,
+    "density": 17.0,
+    "county_fips": 20045,
+    "county_name": "Douglas",
+    "county_weights": "{\"20045\": 99.21, \"20177\": 0.79}",
+    "county_names_all": "Douglas|Shawnee",
+    "county_fips_all": "20045|20177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 63766,
+    "lat": 37.43558,
+    "lng": -89.84424,
+    "city": "Millersville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1830.0,
+    "density": 14.6,
+    "county_fips": 29031,
+    "county_name": "Cape Girardeau",
+    "county_weights": "{\"29031\": 67.41, \"29017\": 32.59}",
+    "county_names_all": "Cape Girardeau|Bollinger",
+    "county_fips_all": "29031|29017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

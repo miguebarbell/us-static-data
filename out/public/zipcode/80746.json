@@ -1,0 +1,20 @@
+{
+    "zip": 80746,
+    "lat": 40.60706,
+    "lng": -102.45695,
+    "city": "Paoli",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 60.0,
+    "density": 14.8,
+    "county_fips": 8095,
+    "county_name": "Phillips",
+    "county_weights": "{\"08095\": 100}",
+    "county_names_all": "Phillips",
+    "county_fips_all": "08095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

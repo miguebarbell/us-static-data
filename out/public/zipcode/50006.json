@@ -1,0 +1,20 @@
+{
+    "zip": 50006,
+    "lat": 42.51354,
+    "lng": -93.40227,
+    "city": "Alden",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1503.0,
+    "density": 4.7,
+    "county_fips": 19083,
+    "county_name": "Hardin",
+    "county_weights": "{\"19083\": 68.8, \"19069\": 30.33, \"19079\": 0.87}",
+    "county_names_all": "Hardin|Franklin|Hamilton",
+    "county_fips_all": "19083|19069|19079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

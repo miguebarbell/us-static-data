@@ -1,0 +1,20 @@
+{
+    "zip": 74048,
+    "lat": 36.69265,
+    "lng": -95.65192,
+    "city": "Nowata",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5592.0,
+    "density": 10.2,
+    "county_fips": 40105,
+    "county_name": "Nowata",
+    "county_weights": "{\"40105\": 99.58, \"40147\": 0.42}",
+    "county_names_all": "Nowata|Washington",
+    "county_fips_all": "40105|40147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

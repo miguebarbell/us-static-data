@@ -1,0 +1,20 @@
+{
+    "zip": 49001,
+    "lat": 42.2647,
+    "lng": -85.56265,
+    "city": "Kalamazoo",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21313.0,
+    "density": 1072.4,
+    "county_fips": 26077,
+    "county_name": "Kalamazoo",
+    "county_weights": "{\"26077\": 100}",
+    "county_names_all": "Kalamazoo",
+    "county_fips_all": "26077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

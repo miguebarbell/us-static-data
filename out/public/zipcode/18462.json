@@ -1,0 +1,20 @@
+{
+    "zip": 18462,
+    "lat": 41.9049,
+    "lng": -75.42988,
+    "city": "Starrucca",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 545.0,
+    "density": 6.3,
+    "county_fips": 42127,
+    "county_name": "Wayne",
+    "county_weights": "{\"42127\": 85.15, \"42115\": 14.85}",
+    "county_names_all": "Wayne|Susquehanna",
+    "county_fips_all": "42127|42115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

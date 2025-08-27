@@ -1,0 +1,20 @@
+{
+    "zip": 54974,
+    "lat": 43.7801,
+    "lng": -88.65997,
+    "city": "Rosendale",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1515.0,
+    "density": 22.2,
+    "county_fips": 55039,
+    "county_name": "Fond du Lac",
+    "county_weights": "{\"55039\": 100}",
+    "county_names_all": "Fond du Lac",
+    "county_fips_all": "55039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

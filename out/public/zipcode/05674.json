@@ -1,0 +1,20 @@
+{
+    "zip": 5674,
+    "lat": 44.11112,
+    "lng": -72.86081,
+    "city": "Warren",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1678.0,
+    "density": 16.2,
+    "county_fips": 50023,
+    "county_name": "Washington",
+    "county_weights": "{\"50023\": 99.22, \"50001\": 0.78}",
+    "county_names_all": "Washington|Addison",
+    "county_fips_all": "50023|50001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

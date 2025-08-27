@@ -1,0 +1,20 @@
+{
+    "zip": 37322,
+    "lat": 35.49562,
+    "lng": -84.81512,
+    "city": "Decatur",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8509.0,
+    "density": 24.4,
+    "county_fips": 47121,
+    "county_name": "Meigs",
+    "county_weights": "{\"47121\": 92.04, \"47107\": 7.96}",
+    "county_names_all": "Meigs|McMinn",
+    "county_fips_all": "47121|47107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

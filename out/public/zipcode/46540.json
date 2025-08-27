@@ -1,0 +1,20 @@
+{
+    "zip": 46540,
+    "lat": 41.67571,
+    "lng": -85.69768,
+    "city": "Middlebury",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13239.0,
+    "density": 86.1,
+    "county_fips": 18039,
+    "county_name": "Elkhart",
+    "county_weights": "{\"18039\": 85.1, \"18087\": 14.9}",
+    "county_names_all": "Elkhart|LaGrange",
+    "county_fips_all": "18039|18087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

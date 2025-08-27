@@ -1,0 +1,20 @@
+{
+    "zip": 29571,
+    "lat": 34.138,
+    "lng": -79.42205,
+    "city": "Marion",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13788.0,
+    "density": 26.4,
+    "county_fips": 45067,
+    "county_name": "Marion",
+    "county_weights": "{\"45067\": 99.56, \"45033\": 0.44}",
+    "county_names_all": "Marion|Dillon",
+    "county_fips_all": "45067|45033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

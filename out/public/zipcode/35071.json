@@ -1,0 +1,20 @@
+{
+    "zip": 35071,
+    "lat": 33.70376,
+    "lng": -86.84286,
+    "city": "Gardendale",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17627.0,
+    "density": 118.0,
+    "county_fips": 1073,
+    "county_name": "Jefferson",
+    "county_weights": "{\"01073\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "01073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

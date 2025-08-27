@@ -1,0 +1,20 @@
+{
+    "zip": 28384,
+    "lat": 34.79687,
+    "lng": -78.95035,
+    "city": "Saint Pauls",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11166.0,
+    "density": 42.5,
+    "county_fips": 37155,
+    "county_name": "Robeson",
+    "county_weights": "{\"37155\": 83.86, \"37017\": 13.07, \"37051\": 3.07}",
+    "county_names_all": "Robeson|Bladen|Cumberland",
+    "county_fips_all": "37155|37017|37051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

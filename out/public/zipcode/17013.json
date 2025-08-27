@@ -1,0 +1,20 @@
+{
+    "zip": 17013,
+    "lat": 40.241,
+    "lng": -77.19286,
+    "city": "Carlisle",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37738.0,
+    "density": 371.8,
+    "county_fips": 42041,
+    "county_name": "Cumberland",
+    "county_weights": "{\"42041\": 100}",
+    "county_names_all": "Cumberland",
+    "county_fips_all": "42041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 10552,
+    "lat": 40.92376,
+    "lng": -73.82497,
+    "city": "Mount Vernon",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21499.0,
+    "density": 5029.7,
+    "county_fips": 36119,
+    "county_name": "Westchester",
+    "county_weights": "{\"36119\": 100}",
+    "county_names_all": "Westchester",
+    "county_fips_all": "36119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 66407,
+    "lat": 39.22517,
+    "lng": -96.19218,
+    "city": "Belvue",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 309.0,
+    "density": 2.1,
+    "county_fips": 20149,
+    "county_name": "Pottawatomie",
+    "county_weights": "{\"20149\": 59.05, \"20197\": 40.95}",
+    "county_names_all": "Pottawatomie|Wabaunsee",
+    "county_fips_all": "20149|20197",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

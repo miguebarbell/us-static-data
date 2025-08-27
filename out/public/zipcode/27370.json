@@ -1,0 +1,20 @@
+{
+    "zip": 27370,
+    "lat": 35.8116,
+    "lng": -79.99133,
+    "city": "Trinity",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15223.0,
+    "density": 98.4,
+    "county_fips": 37151,
+    "county_name": "Randolph",
+    "county_weights": "{\"37151\": 100}",
+    "county_names_all": "Randolph",
+    "county_fips_all": "37151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

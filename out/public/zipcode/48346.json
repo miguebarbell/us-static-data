@@ -1,0 +1,20 @@
+{
+    "zip": 48346,
+    "lat": 42.72156,
+    "lng": -83.42388,
+    "city": "Clarkston",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22954.0,
+    "density": 489.1,
+    "county_fips": 26125,
+    "county_name": "Oakland",
+    "county_weights": "{\"26125\": 100}",
+    "county_names_all": "Oakland",
+    "county_fips_all": "26125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

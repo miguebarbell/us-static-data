@@ -1,0 +1,20 @@
+{
+    "zip": 38485,
+    "lat": 35.33281,
+    "lng": -87.77659,
+    "city": "Waynesboro",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6120.0,
+    "density": 8.4,
+    "county_fips": 47181,
+    "county_name": "Wayne",
+    "county_weights": "{\"47181\": 99.02, \"47101\": 0.98}",
+    "county_names_all": "Wayne|Lewis",
+    "county_fips_all": "47181|47101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

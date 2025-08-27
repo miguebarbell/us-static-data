@@ -1,0 +1,20 @@
+{
+    "zip": 76932,
+    "lat": 31.19124,
+    "lng": -101.54984,
+    "city": "Big Lake",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3239.0,
+    "density": 1.1,
+    "county_fips": 48383,
+    "county_name": "Reagan",
+    "county_weights": "{\"48383\": 63.1, \"48105\": 36.9}",
+    "county_names_all": "Reagan|Crockett",
+    "county_fips_all": "48383|48105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 71654,
+    "lat": 33.62476,
+    "lng": -91.37234,
+    "city": "McGehee",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4290.0,
+    "density": 23.8,
+    "county_fips": 5041,
+    "county_name": "Desha",
+    "county_weights": "{\"05041\": 100}",
+    "county_names_all": "Desha",
+    "county_fips_all": "05041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

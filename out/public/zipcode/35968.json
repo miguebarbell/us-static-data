@@ -1,0 +1,20 @@
+{
+    "zip": 35968,
+    "lat": 34.48095,
+    "lng": -85.77232,
+    "city": "Fort Payne",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4540.0,
+    "density": 27.6,
+    "county_fips": 1049,
+    "county_name": "DeKalb",
+    "county_weights": "{\"01049\": 100}",
+    "county_names_all": "DeKalb",
+    "county_fips_all": "01049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

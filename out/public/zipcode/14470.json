@@ -1,0 +1,20 @@
+{
+    "zip": 14470,
+    "lat": 43.21099,
+    "lng": -78.05456,
+    "city": "Holley",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7765.0,
+    "density": 46.1,
+    "county_fips": 36073,
+    "county_name": "Orleans",
+    "county_weights": "{\"36073\": 96.39, \"36055\": 3.61}",
+    "county_names_all": "Orleans|Monroe",
+    "county_fips_all": "36073|36055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 53005,
+    "lat": 43.0625,
+    "lng": -88.0992,
+    "city": "Brookfield",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22125.0,
+    "density": 581.6,
+    "county_fips": 55133,
+    "county_name": "Waukesha",
+    "county_weights": "{\"55133\": 100}",
+    "county_names_all": "Waukesha",
+    "county_fips_all": "55133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

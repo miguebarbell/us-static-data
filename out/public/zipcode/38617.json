@@ -1,0 +1,20 @@
+{
+    "zip": 38617,
+    "lat": 34.36261,
+    "lng": -90.49342,
+    "city": "Coahoma",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 805.0,
+    "density": 3.6,
+    "county_fips": 28027,
+    "county_name": "Coahoma",
+    "county_weights": "{\"28027\": 99.14, \"28119\": 0.86}",
+    "county_names_all": "Coahoma|Quitman",
+    "county_fips_all": "28027|28119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

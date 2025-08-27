@@ -1,0 +1,20 @@
+{
+    "zip": 58425,
+    "lat": 47.45391,
+    "lng": -98.12378,
+    "city": "Cooperstown",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1446.0,
+    "density": 2.7,
+    "county_fips": 38039,
+    "county_name": "Griggs",
+    "county_weights": "{\"38039\": 98.65, \"38091\": 1.35}",
+    "county_names_all": "Griggs|Steele",
+    "county_fips_all": "38039|38091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

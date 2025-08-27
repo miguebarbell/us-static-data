@@ -1,0 +1,20 @@
+{
+    "zip": 79703,
+    "lat": 31.97998,
+    "lng": -102.13158,
+    "city": "Midland",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20638.0,
+    "density": 1225.6,
+    "county_fips": 48329,
+    "county_name": "Midland",
+    "county_weights": "{\"48329\": 100}",
+    "county_names_all": "Midland",
+    "county_fips_all": "48329",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

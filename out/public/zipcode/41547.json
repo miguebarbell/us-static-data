@@ -1,0 +1,20 @@
+{
+    "zip": 41547,
+    "lat": 37.53821,
+    "lng": -82.09437,
+    "city": "Majestic",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 459.0,
+    "density": 24.4,
+    "county_fips": 21195,
+    "county_name": "Pike",
+    "county_weights": "{\"21195\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "21195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

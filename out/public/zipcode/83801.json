@@ -1,0 +1,20 @@
+{
+    "zip": 83801,
+    "lat": 47.95631,
+    "lng": -116.6434,
+    "city": "Athol",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7285.0,
+    "density": 16.1,
+    "county_fips": 16055,
+    "county_name": "Kootenai",
+    "county_weights": "{\"16055\": 60.01, \"16017\": 39.99}",
+    "county_names_all": "Kootenai|Bonner",
+    "county_fips_all": "16055|16017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

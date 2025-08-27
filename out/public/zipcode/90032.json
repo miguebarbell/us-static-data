@@ -1,0 +1,20 @@
+{
+    "zip": 90032,
+    "lat": 34.0793,
+    "lng": -118.17835,
+    "city": "Los Angeles",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43724.0,
+    "density": 3506.2,
+    "county_fips": 6037,
+    "county_name": "Los Angeles",
+    "county_weights": "{\"06037\": 100}",
+    "county_names_all": "Los Angeles",
+    "county_fips_all": "06037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

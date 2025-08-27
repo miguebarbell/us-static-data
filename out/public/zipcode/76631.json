@@ -1,0 +1,20 @@
+{
+    "zip": 76631,
+    "lat": 31.97905,
+    "lng": -96.96277,
+    "city": "Bynum",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 471.0,
+    "density": 5.2,
+    "county_fips": 48217,
+    "county_name": "Hill",
+    "county_weights": "{\"48217\": 100}",
+    "county_names_all": "Hill",
+    "county_fips_all": "48217",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

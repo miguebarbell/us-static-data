@@ -1,0 +1,20 @@
+{
+    "zip": 29720,
+    "lat": 34.74265,
+    "lng": -80.73684,
+    "city": "Lancaster",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 51603.0,
+    "density": 69.9,
+    "county_fips": 45057,
+    "county_name": "Lancaster",
+    "county_weights": "{\"45057\": 100}",
+    "county_names_all": "Lancaster",
+    "county_fips_all": "45057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

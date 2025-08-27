@@ -1,0 +1,20 @@
+{
+    "zip": 55051,
+    "lat": 45.93818,
+    "lng": -93.33201,
+    "city": "Mora",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9927.0,
+    "density": 17.6,
+    "county_fips": 27065,
+    "county_name": "Kanabec",
+    "county_weights": "{\"27065\": 86.48, \"27095\": 13.52}",
+    "county_names_all": "Kanabec|Mille Lacs",
+    "county_fips_all": "27065|27095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

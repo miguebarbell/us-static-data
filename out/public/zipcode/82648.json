@@ -1,0 +1,20 @@
+{
+    "zip": 82648,
+    "lat": 43.14749,
+    "lng": -107.04194,
+    "city": "Powder River",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20.0,
+    "density": 0.0,
+    "county_fips": 56025,
+    "county_name": "Natrona",
+    "county_weights": "{\"56025\": 100}",
+    "county_names_all": "Natrona",
+    "county_fips_all": "56025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

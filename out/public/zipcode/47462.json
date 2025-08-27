@@ -1,0 +1,20 @@
+{
+    "zip": 47462,
+    "lat": 38.95755,
+    "lng": -86.64815,
+    "city": "Springville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4949.0,
+    "density": 24.3,
+    "county_fips": 18093,
+    "county_name": "Lawrence",
+    "county_weights": "{\"18093\": 56.08, \"18055\": 30.75, \"18105\": 13.17}",
+    "county_names_all": "Lawrence|Greene|Monroe",
+    "county_fips_all": "18093|18055|18105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

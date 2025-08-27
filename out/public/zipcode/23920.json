@@ -1,0 +1,20 @@
+{
+    "zip": 23920,
+    "lat": 36.72452,
+    "lng": -77.97266,
+    "city": "Brodnax",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3080.0,
+    "density": 9.3,
+    "county_fips": 51025,
+    "county_name": "Brunswick",
+    "county_weights": "{\"51025\": 82.44, \"51117\": 10.51, \"51111\": 7.05}",
+    "county_names_all": "Brunswick|Mecklenburg|Lunenburg",
+    "county_fips_all": "51025|51117|51111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

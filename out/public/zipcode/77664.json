@@ -1,0 +1,20 @@
+{
+    "zip": 77664,
+    "lat": 30.58901,
+    "lng": -94.39529,
+    "city": "Warren",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2590.0,
+    "density": 5.4,
+    "county_fips": 48457,
+    "county_name": "Tyler",
+    "county_weights": "{\"48457\": 90.44, \"48199\": 9.56}",
+    "county_names_all": "Tyler|Hardin",
+    "county_fips_all": "48457|48199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

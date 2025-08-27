@@ -1,0 +1,20 @@
+{
+    "zip": 54738,
+    "lat": 44.59478,
+    "lng": -91.47892,
+    "city": "Eleva",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3759.0,
+    "density": 14.7,
+    "county_fips": 55035,
+    "county_name": "Eau Claire",
+    "county_weights": "{\"55035\": 53.46, \"55121\": 45.46, \"55011\": 1.08}",
+    "county_names_all": "Eau Claire|Trempealeau|Buffalo",
+    "county_fips_all": "55035|55121|55011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

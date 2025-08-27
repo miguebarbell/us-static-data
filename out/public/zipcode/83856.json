@@ -1,0 +1,20 @@
+{
+    "zip": 83856,
+    "lat": 48.34228,
+    "lng": -116.91058,
+    "city": "Priest River",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6913.0,
+    "density": 6.7,
+    "county_fips": 16017,
+    "county_name": "Bonner",
+    "county_weights": "{\"16017\": 91.97, \"53051\": 8.03}",
+    "county_names_all": "Bonner|Pend Oreille",
+    "county_fips_all": "16017|53051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

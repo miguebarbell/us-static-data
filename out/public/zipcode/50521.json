@@ -1,0 +1,20 @@
+{
+    "zip": 50521,
+    "lat": 42.3462,
+    "lng": -94.10276,
+    "city": "Burnside",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3.0,
+    "density": 0.9,
+    "county_fips": 19187,
+    "county_name": "Webster",
+    "county_weights": "{\"19187\": 100}",
+    "county_names_all": "Webster",
+    "county_fips_all": "19187",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

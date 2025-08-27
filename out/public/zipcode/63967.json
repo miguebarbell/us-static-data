@@ -1,0 +1,20 @@
+{
+    "zip": 63967,
+    "lat": 36.94867,
+    "lng": -90.47721,
+    "city": "Williamsville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1416.0,
+    "density": 4.5,
+    "county_fips": 29223,
+    "county_name": "Wayne",
+    "county_weights": "{\"29223\": 70.24, \"29023\": 29.76}",
+    "county_names_all": "Wayne|Butler",
+    "county_fips_all": "29223|29023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

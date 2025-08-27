@@ -1,0 +1,20 @@
+{
+    "zip": 32640,
+    "lat": 29.56889,
+    "lng": -82.08021,
+    "city": "Hawthorne",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10780.0,
+    "density": 22.2,
+    "county_fips": 12001,
+    "county_name": "Alachua",
+    "county_weights": "{\"12001\": 62.72, \"12107\": 37.28}",
+    "county_names_all": "Alachua|Putnam",
+    "county_fips_all": "12001|12107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

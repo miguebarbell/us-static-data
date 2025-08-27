@@ -1,0 +1,20 @@
+{
+    "zip": 71247,
+    "lat": 32.27255,
+    "lng": -92.72077,
+    "city": "Hodge",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1225.0,
+    "density": 344.7,
+    "county_fips": 22049,
+    "county_name": "Jackson",
+    "county_weights": "{\"22049\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "22049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 46947,
+    "lat": 40.76044,
+    "lng": -86.37303,
+    "city": "Logansport",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28830.0,
+    "density": 58.5,
+    "county_fips": 18017,
+    "county_name": "Cass",
+    "county_weights": "{\"18017\": 92.12, \"18015\": 7.88}",
+    "county_names_all": "Cass|Carroll",
+    "county_fips_all": "18017|18015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

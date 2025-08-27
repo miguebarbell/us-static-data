@@ -1,0 +1,20 @@
+{
+    "zip": 30907,
+    "lat": 33.52193,
+    "lng": -82.08596,
+    "city": "Augusta",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 47167.0,
+    "density": 755.0,
+    "county_fips": 13073,
+    "county_name": "Columbia",
+    "county_weights": "{\"13073\": 77.23, \"13245\": 22.77}",
+    "county_names_all": "Columbia|Richmond",
+    "county_fips_all": "13073|13245",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

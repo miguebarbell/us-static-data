@@ -1,0 +1,20 @@
+{
+    "zip": 23962,
+    "lat": 36.93865,
+    "lng": -78.70399,
+    "city": "Randolph",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 498.0,
+    "density": 3.6,
+    "county_fips": 51037,
+    "county_name": "Charlotte",
+    "county_weights": "{\"51037\": 80.59, \"51083\": 19.41}",
+    "county_names_all": "Charlotte|Halifax",
+    "county_fips_all": "51037|51083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

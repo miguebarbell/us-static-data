@@ -1,0 +1,20 @@
+{
+    "zip": 72824,
+    "lat": 35.12768,
+    "lng": -93.41146,
+    "city": "Belleville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2085.0,
+    "density": 11.1,
+    "county_fips": 5149,
+    "county_name": "Yell",
+    "county_weights": "{\"05149\": 100}",
+    "county_names_all": "Yell",
+    "county_fips_all": "05149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

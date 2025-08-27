@@ -1,0 +1,20 @@
+{
+    "zip": 26143,
+    "lat": 39.06338,
+    "lng": -81.3764,
+    "city": "Elizabeth",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3326.0,
+    "density": 9.6,
+    "county_fips": 54105,
+    "county_name": "Wirt",
+    "county_weights": "{\"54105\": 85.28, \"54107\": 7.0, \"54085\": 5.06, \"54035\": 2.66}",
+    "county_names_all": "Wirt|Wood|Ritchie|Jackson",
+    "county_fips_all": "54105|54107|54085|54035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

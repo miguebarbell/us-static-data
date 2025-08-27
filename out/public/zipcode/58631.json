@@ -1,0 +1,20 @@
+{
+    "zip": 58631,
+    "lat": 46.7969,
+    "lng": -101.82156,
+    "city": "Glen Ullin",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 948.0,
+    "density": 1.0,
+    "county_fips": 38059,
+    "county_name": "Morton",
+    "county_weights": "{\"38059\": 61.46, \"38037\": 29.73, \"38057\": 8.81}",
+    "county_names_all": "Morton|Grant|Mercer",
+    "county_fips_all": "38059|38037|38057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/North_Dakota/New_Salem"
+}

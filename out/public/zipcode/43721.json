@@ -1,0 +1,20 @@
+{
+    "zip": 43721,
+    "lat": 39.94927,
+    "lng": -82.26015,
+    "city": "Brownsville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 316.0,
+    "density": 342.5,
+    "county_fips": 39089,
+    "county_name": "Licking",
+    "county_weights": "{\"39089\": 100}",
+    "county_names_all": "Licking",
+    "county_fips_all": "39089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

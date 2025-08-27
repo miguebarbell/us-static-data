@@ -1,0 +1,20 @@
+{
+    "zip": 19505,
+    "lat": 40.3795,
+    "lng": -75.62331,
+    "city": "Bechtelsville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3038.0,
+    "density": 148.7,
+    "county_fips": 42011,
+    "county_name": "Berks",
+    "county_weights": "{\"42011\": 92.82, \"42091\": 7.18}",
+    "county_names_all": "Berks|Montgomery",
+    "county_fips_all": "42011|42091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

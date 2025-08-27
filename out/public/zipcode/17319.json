@@ -1,0 +1,20 @@
+{
+    "zip": 17319,
+    "lat": 40.1585,
+    "lng": -76.79468,
+    "city": "Etters",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10990.0,
+    "density": 252.6,
+    "county_fips": 42133,
+    "county_name": "York",
+    "county_weights": "{\"42133\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "42133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

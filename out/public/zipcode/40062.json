@@ -1,0 +1,20 @@
+{
+    "zip": 40062,
+    "lat": 37.59969,
+    "lng": -85.43161,
+    "city": "Saint Francis",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 235.0,
+    "density": 15.9,
+    "county_fips": 21155,
+    "county_name": "Marion",
+    "county_weights": "{\"21155\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "21155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

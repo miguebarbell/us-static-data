@@ -1,0 +1,20 @@
+{
+    "zip": 10974,
+    "lat": 41.15826,
+    "lng": -74.18993,
+    "city": "Sloatsburg",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3324.0,
+    "density": 173.2,
+    "county_fips": 36087,
+    "county_name": "Rockland",
+    "county_weights": "{\"36087\": 99.4, \"36071\": 0.6}",
+    "county_names_all": "Rockland|Orange",
+    "county_fips_all": "36087|36071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

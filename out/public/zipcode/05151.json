@@ -1,0 +1,20 @@
+{
+    "zip": 5151,
+    "lat": 43.39374,
+    "lng": -72.49566,
+    "city": "Perkinsville",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1691.0,
+    "density": 27.5,
+    "county_fips": 50027,
+    "county_name": "Windsor",
+    "county_weights": "{\"50027\": 100}",
+    "county_names_all": "Windsor",
+    "county_fips_all": "50027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

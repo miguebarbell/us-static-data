@@ -1,0 +1,20 @@
+{
+    "zip": 48619,
+    "lat": 44.82224,
+    "lng": -84.01996,
+    "city": "Comins",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 474.0,
+    "density": 2.3,
+    "county_fips": 26135,
+    "county_name": "Oscoda",
+    "county_weights": "{\"26135\": 81.46, \"26119\": 18.54}",
+    "county_names_all": "Oscoda|Montmorency",
+    "county_fips_all": "26135|26119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

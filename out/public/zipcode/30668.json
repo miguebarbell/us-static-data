@@ -1,0 +1,20 @@
+{
+    "zip": 30668,
+    "lat": 33.90835,
+    "lng": -82.69486,
+    "city": "Tignall",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2336.0,
+    "density": 6.2,
+    "county_fips": 13317,
+    "county_name": "Wilkes",
+    "county_weights": "{\"13317\": 79.77, \"13181\": 20.23}",
+    "county_names_all": "Wilkes|Lincoln",
+    "county_fips_all": "13317|13181",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 64487,
+    "lat": 40.31218,
+    "lng": -95.10293,
+    "city": "Skidmore",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 546.0,
+    "density": 1.6,
+    "county_fips": 29147,
+    "county_name": "Nodaway",
+    "county_weights": "{\"29147\": 75.08, \"29005\": 16.26, \"29087\": 8.66}",
+    "county_names_all": "Nodaway|Atchison|Holt",
+    "county_fips_all": "29147|29005|29087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

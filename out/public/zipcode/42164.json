@@ -1,0 +1,20 @@
+{
+    "zip": 42164,
+    "lat": 36.7704,
+    "lng": -86.18096,
+    "city": "Scottsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17416.0,
+    "density": 25.7,
+    "county_fips": 21003,
+    "county_name": "Allen",
+    "county_weights": "{\"21003\": 100}",
+    "county_names_all": "Allen",
+    "county_fips_all": "21003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

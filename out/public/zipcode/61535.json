@@ -1,0 +1,20 @@
+{
+    "zip": 61535,
+    "lat": 40.58578,
+    "lng": -89.52316,
+    "city": "Groveland",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1906.0,
+    "density": 99.1,
+    "county_fips": 17179,
+    "county_name": "Tazewell",
+    "county_weights": "{\"17179\": 100}",
+    "county_names_all": "Tazewell",
+    "county_fips_all": "17179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

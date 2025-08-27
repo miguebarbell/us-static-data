@@ -1,0 +1,20 @@
+{
+    "zip": 94550,
+    "lat": 37.51746,
+    "lng": -121.59406,
+    "city": "Livermore",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 49610.0,
+    "density": 70.4,
+    "county_fips": 6001,
+    "county_name": "Alameda",
+    "county_weights": "{\"06001\": 61.55, \"06085\": 38.45}",
+    "county_names_all": "Alameda|Santa Clara",
+    "county_fips_all": "06001|06085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 98844,
+    "lat": 48.91618,
+    "lng": -119.24767,
+    "city": "Oroville",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4814.0,
+    "density": 5.6,
+    "county_fips": 53047,
+    "county_name": "Okanogan",
+    "county_weights": "{\"53047\": 100}",
+    "county_names_all": "Okanogan",
+    "county_fips_all": "53047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

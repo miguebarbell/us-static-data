@@ -1,0 +1,20 @@
+{
+    "zip": 63462,
+    "lat": 39.42279,
+    "lng": -91.69977,
+    "city": "Perry",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1592.0,
+    "density": 4.9,
+    "county_fips": 29173,
+    "county_name": "Ralls",
+    "county_weights": "{\"29173\": 58.58, \"29137\": 41.42}",
+    "county_names_all": "Ralls|Monroe",
+    "county_fips_all": "29173|29137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

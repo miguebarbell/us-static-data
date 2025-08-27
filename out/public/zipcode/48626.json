@@ -1,0 +1,20 @@
+{
+    "zip": 48626,
+    "lat": 43.4218,
+    "lng": -84.22686,
+    "city": "Hemlock",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5813.0,
+    "density": 34.3,
+    "county_fips": 26145,
+    "county_name": "Saginaw",
+    "county_weights": "{\"26145\": 87.85, \"26111\": 12.15}",
+    "county_names_all": "Saginaw|Midland",
+    "county_fips_all": "26145|26111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

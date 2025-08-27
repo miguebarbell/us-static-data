@@ -1,0 +1,20 @@
+{
+    "zip": 29117,
+    "lat": 33.49828,
+    "lng": -80.85,
+    "city": "Orangeburg",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 422.0,
+    "density": 1663.8,
+    "county_fips": 45075,
+    "county_name": "Orangeburg",
+    "county_weights": "{\"45075\": 100}",
+    "county_names_all": "Orangeburg",
+    "county_fips_all": "45075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

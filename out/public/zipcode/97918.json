@@ -1,0 +1,20 @@
+{
+    "zip": 97918,
+    "lat": 43.96255,
+    "lng": -117.38073,
+    "city": "Vale",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4358.0,
+    "density": 2.9,
+    "county_fips": 41045,
+    "county_name": "Malheur",
+    "county_weights": "{\"41045\": 100}",
+    "county_names_all": "Malheur",
+    "county_fips_all": "41045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

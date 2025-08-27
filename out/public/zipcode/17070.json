@@ -1,0 +1,20 @@
+{
+    "zip": 17070,
+    "lat": 40.20217,
+    "lng": -76.86377,
+    "city": "New Cumberland",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16891.0,
+    "density": 446.8,
+    "county_fips": 42133,
+    "county_name": "York",
+    "county_weights": "{\"42133\": 86.42, \"42041\": 13.58}",
+    "county_names_all": "York|Cumberland",
+    "county_fips_all": "42133|42041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

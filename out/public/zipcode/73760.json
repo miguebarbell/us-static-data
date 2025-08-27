@@ -1,0 +1,20 @@
+{
+    "zip": 73760,
+    "lat": 36.38658,
+    "lng": -98.1693,
+    "city": "Meno",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 352.0,
+    "density": 2.6,
+    "county_fips": 40093,
+    "county_name": "Major",
+    "county_weights": "{\"40093\": 95.25, \"40003\": 4.75}",
+    "county_names_all": "Major|Alfalfa",
+    "county_fips_all": "40093|40003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

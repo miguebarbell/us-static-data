@@ -1,0 +1,20 @@
+{
+    "zip": 23833,
+    "lat": 37.21094,
+    "lng": -77.66947,
+    "city": "Church Road",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2284.0,
+    "density": 15.1,
+    "county_fips": 51053,
+    "county_name": "Dinwiddie",
+    "county_weights": "{\"51053\": 72.88, \"51007\": 27.12}",
+    "county_names_all": "Dinwiddie|Amelia",
+    "county_fips_all": "51053|51007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

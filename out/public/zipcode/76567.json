@@ -1,0 +1,20 @@
+{
+    "zip": 76567,
+    "lat": 30.64535,
+    "lng": -97.01363,
+    "city": "Rockdale",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8457.0,
+    "density": 15.2,
+    "county_fips": 48331,
+    "county_name": "Milam",
+    "county_weights": "{\"48331\": 90.63, \"48051\": 9.37}",
+    "county_names_all": "Milam|Burleson",
+    "county_fips_all": "48331|48051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

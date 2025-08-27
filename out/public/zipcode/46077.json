@@ -1,0 +1,20 @@
+{
+    "zip": 46077,
+    "lat": 39.98281,
+    "lng": -86.28346,
+    "city": "Zionsville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35378.0,
+    "density": 308.2,
+    "county_fips": 18011,
+    "county_name": "Boone",
+    "county_weights": "{\"18011\": 91.98, \"18057\": 6.55, \"18097\": 1.47}",
+    "county_names_all": "Boone|Hamilton|Marion",
+    "county_fips_all": "18011|18057|18097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

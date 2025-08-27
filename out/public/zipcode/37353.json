@@ -1,0 +1,20 @@
+{
+    "zip": 37353,
+    "lat": 35.12288,
+    "lng": -84.9855,
+    "city": "McDonald",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4703.0,
+    "density": 44.9,
+    "county_fips": 47011,
+    "county_name": "Bradley",
+    "county_weights": "{\"47011\": 87.24, \"47065\": 12.76}",
+    "county_names_all": "Bradley|Hamilton",
+    "county_fips_all": "47011|47065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

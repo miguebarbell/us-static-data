@@ -1,0 +1,20 @@
+{
+    "zip": 65612,
+    "lat": 37.21897,
+    "lng": -93.54694,
+    "city": "Bois D Arc",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1908.0,
+    "density": 20.5,
+    "county_fips": 29077,
+    "county_name": "Greene",
+    "county_weights": "{\"29077\": 89.92, \"29109\": 10.08}",
+    "county_names_all": "Greene|Lawrence",
+    "county_fips_all": "29077|29109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

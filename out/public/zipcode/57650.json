@@ -1,0 +1,20 @@
+{
+    "zip": 57650,
+    "lat": 45.8346,
+    "lng": -103.03033,
+    "city": "Ralph",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14.0,
+    "density": 0.1,
+    "county_fips": 46063,
+    "county_name": "Harding",
+    "county_weights": "{\"46063\": 100}",
+    "county_names_all": "Harding",
+    "county_fips_all": "46063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

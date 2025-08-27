@@ -1,0 +1,20 @@
+{
+    "zip": 27213,
+    "lat": 35.6473,
+    "lng": -79.40454,
+    "city": "Bonlee",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 53.0,
+    "density": 32.7,
+    "county_fips": 37037,
+    "county_name": "Chatham",
+    "county_weights": "{\"37037\": 100}",
+    "county_names_all": "Chatham",
+    "county_fips_all": "37037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

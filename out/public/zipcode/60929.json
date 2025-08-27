@@ -1,0 +1,20 @@
+{
+    "zip": 60929,
+    "lat": 40.87601,
+    "lng": -88.29242,
+    "city": "Cullom",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 598.0,
+    "density": 6.0,
+    "county_fips": 17105,
+    "county_name": "Livingston",
+    "county_weights": "{\"17105\": 88.65, \"17053\": 11.35}",
+    "county_names_all": "Livingston|Ford",
+    "county_fips_all": "17105|17053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

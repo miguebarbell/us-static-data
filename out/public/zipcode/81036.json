@@ -1,0 +1,20 @@
+{
+    "zip": 81036,
+    "lat": 38.42984,
+    "lng": -102.79292,
+    "city": "Eads",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 994.0,
+    "density": 0.5,
+    "county_fips": 8061,
+    "county_name": "Kiowa",
+    "county_weights": "{\"08061\": 100}",
+    "county_names_all": "Kiowa",
+    "county_fips_all": "08061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

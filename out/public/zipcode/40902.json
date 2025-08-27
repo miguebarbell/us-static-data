@@ -1,0 +1,20 @@
+{
+    "zip": 40902,
+    "lat": 36.84824,
+    "lng": -83.62435,
+    "city": "Arjay",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 696.0,
+    "density": 8.0,
+    "county_fips": 21013,
+    "county_name": "Bell",
+    "county_weights": "{\"21013\": 100}",
+    "county_names_all": "Bell",
+    "county_fips_all": "21013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

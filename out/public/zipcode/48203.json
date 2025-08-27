@@ -1,0 +1,20 @@
+{
+    "zip": 48203,
+    "lat": 42.42176,
+    "lng": -83.1031,
+    "city": "Highland Park",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20472.0,
+    "density": 962.6,
+    "county_fips": 26163,
+    "county_name": "Wayne",
+    "county_weights": "{\"26163\": 100}",
+    "county_names_all": "Wayne",
+    "county_fips_all": "26163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

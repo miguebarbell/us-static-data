@@ -1,0 +1,20 @@
+{
+    "zip": 68444,
+    "lat": 40.41117,
+    "lng": -97.5847,
+    "city": "Strang",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38.0,
+    "density": 0.6,
+    "county_fips": 31059,
+    "county_name": "Fillmore",
+    "county_weights": "{\"31059\": 100}",
+    "county_names_all": "Fillmore",
+    "county_fips_all": "31059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 74354,
+    "lat": 36.88962,
+    "lng": -94.88096,
+    "city": "Miami",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16972.0,
+    "density": 35.6,
+    "county_fips": 40115,
+    "county_name": "Ottawa",
+    "county_weights": "{\"40115\": 96.79, \"40035\": 3.21}",
+    "county_names_all": "Ottawa|Craig",
+    "county_fips_all": "40115|40035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 23149,
+    "lat": 37.56794,
+    "lng": -76.61599,
+    "city": "Saluda",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2535.0,
+    "density": 18.6,
+    "county_fips": 51119,
+    "county_name": "Middlesex",
+    "county_weights": "{\"51119\": 43.64, \"51073\": 38.74, \"51097\": 17.61}",
+    "county_names_all": "Middlesex|Gloucester|King and Queen",
+    "county_fips_all": "51119|51073|51097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

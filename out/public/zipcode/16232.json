@@ -1,0 +1,20 @@
+{
+    "zip": 16232,
+    "lat": 41.22197,
+    "lng": -79.54923,
+    "city": "Knox",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4091.0,
+    "density": 26.6,
+    "county_fips": 42031,
+    "county_name": "Clarion",
+    "county_weights": "{\"42031\": 98.73, \"42121\": 1.27}",
+    "county_names_all": "Clarion|Venango",
+    "county_fips_all": "42031|42121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

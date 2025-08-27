@@ -1,0 +1,20 @@
+{
+    "zip": 65753,
+    "lat": 36.9955,
+    "lng": -93.05386,
+    "city": "Sparta",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5120.0,
+    "density": 27.9,
+    "county_fips": 29043,
+    "county_name": "Christian",
+    "county_weights": "{\"29043\": 93.18, \"29067\": 6.82}",
+    "county_names_all": "Christian|Douglas",
+    "county_fips_all": "29043|29067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

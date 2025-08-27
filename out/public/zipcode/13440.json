@@ -1,0 +1,20 @@
+{
+    "zip": 13440,
+    "lat": 43.21807,
+    "lng": -75.45941,
+    "city": "Rome",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41273.0,
+    "density": 136.7,
+    "county_fips": 36065,
+    "county_name": "Oneida",
+    "county_weights": "{\"36065\": 100}",
+    "county_names_all": "Oneida",
+    "county_fips_all": "36065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

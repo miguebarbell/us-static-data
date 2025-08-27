@@ -1,0 +1,20 @@
+{
+    "zip": 83443,
+    "lat": 43.50942,
+    "lng": -111.56155,
+    "city": "Ririe",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1227.0,
+    "density": 2.3,
+    "county_fips": 16019,
+    "county_name": "Bonneville",
+    "county_weights": "{\"16019\": 95.1, \"16051\": 3.69, \"16065\": 1.21}",
+    "county_names_all": "Bonneville|Jefferson|Madison",
+    "county_fips_all": "16019|16051|16065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

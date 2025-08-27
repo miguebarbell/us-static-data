@@ -1,0 +1,20 @@
+{
+    "zip": 40360,
+    "lat": 38.15665,
+    "lng": -83.76679,
+    "city": "Owingsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7071.0,
+    "density": 18.4,
+    "county_fips": 21011,
+    "county_name": "Bath",
+    "county_weights": "{\"21011\": 96.04, \"21173\": 3.96}",
+    "county_names_all": "Bath|Montgomery",
+    "county_fips_all": "21011|21173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

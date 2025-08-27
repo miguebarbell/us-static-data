@@ -1,0 +1,20 @@
+{
+    "zip": 16036,
+    "lat": 41.13519,
+    "lng": -79.66948,
+    "city": "Foxburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 297.0,
+    "density": 52.3,
+    "county_fips": 42031,
+    "county_name": "Clarion",
+    "county_weights": "{\"42031\": 99.74, \"42005\": 0.26}",
+    "county_names_all": "Clarion|Armstrong",
+    "county_fips_all": "42031|42005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

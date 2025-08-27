@@ -1,0 +1,20 @@
+{
+    "zip": 55787,
+    "lat": 46.73707,
+    "lng": -93.11756,
+    "city": "Tamarack",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 585.0,
+    "density": 1.7,
+    "county_fips": 27001,
+    "county_name": "Aitkin",
+    "county_weights": "{\"27001\": 88.38, \"27017\": 11.52, \"27137\": 0.1}",
+    "county_names_all": "Aitkin|Carlton|St. Louis",
+    "county_fips_all": "27001|27017|27137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

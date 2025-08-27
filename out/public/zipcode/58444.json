@@ -1,0 +1,20 @@
+{
+    "zip": 58444,
+    "lat": 47.48278,
+    "lng": -100.13156,
+    "city": "Goodrich",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 160.0,
+    "density": 0.4,
+    "county_fips": 38083,
+    "county_name": "Sheridan",
+    "county_weights": "{\"38083\": 100}",
+    "county_names_all": "Sheridan",
+    "county_fips_all": "38083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

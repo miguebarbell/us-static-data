@@ -1,0 +1,20 @@
+{
+    "zip": 41606,
+    "lat": 37.34594,
+    "lng": -82.7375,
+    "city": "Bevinsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 245.0,
+    "density": 9.7,
+    "county_fips": 21071,
+    "county_name": "Floyd",
+    "county_weights": "{\"21071\": 100}",
+    "county_names_all": "Floyd",
+    "county_fips_all": "21071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

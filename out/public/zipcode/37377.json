@@ -1,0 +1,20 @@
+{
+    "zip": 37377,
+    "lat": 35.21243,
+    "lng": -85.3389,
+    "city": "Signal Mountain",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16819.0,
+    "density": 80.7,
+    "county_fips": 47065,
+    "county_name": "Hamilton",
+    "county_weights": "{\"47065\": 50.17, \"47153\": 46.24, \"47115\": 3.59}",
+    "county_names_all": "Hamilton|Sequatchie|Marion",
+    "county_fips_all": "47065|47153|47115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

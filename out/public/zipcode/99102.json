@@ -1,0 +1,20 @@
+{
+    "zip": 99102,
+    "lat": 46.79218,
+    "lng": -117.25029,
+    "city": "Albion",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 448.0,
+    "density": 507.6,
+    "county_fips": 53075,
+    "county_name": "Whitman",
+    "county_weights": "{\"53075\": 100}",
+    "county_names_all": "Whitman",
+    "county_fips_all": "53075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

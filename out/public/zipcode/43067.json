@@ -1,0 +1,20 @@
+{
+    "zip": 43067,
+    "lat": 40.34368,
+    "lng": -83.48388,
+    "city": "Raymond",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1655.0,
+    "density": 19.5,
+    "county_fips": 39159,
+    "county_name": "Union",
+    "county_weights": "{\"39159\": 89.6, \"39091\": 10.4}",
+    "county_names_all": "Union|Logan",
+    "county_fips_all": "39159|39091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

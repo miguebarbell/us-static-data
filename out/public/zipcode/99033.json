@@ -1,0 +1,20 @@
+{
+    "zip": 99033,
+    "lat": 47.23061,
+    "lng": -117.09782,
+    "city": "Tekoa",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 826.0,
+    "density": 8.1,
+    "county_fips": 53075,
+    "county_name": "Whitman",
+    "county_weights": "{\"53075\": 81.97, \"53063\": 16.13, \"16009\": 1.9}",
+    "county_names_all": "Whitman|Spokane|Benewah",
+    "county_fips_all": "53075|53063|16009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

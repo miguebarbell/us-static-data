@@ -1,0 +1,20 @@
+{
+    "zip": 61450,
+    "lat": 40.57629,
+    "lng": -90.98088,
+    "city": "La Harpe",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1617.0,
+    "density": 8.2,
+    "county_fips": 17067,
+    "county_name": "Hancock",
+    "county_weights": "{\"17067\": 89.11, \"17071\": 7.19, \"17109\": 3.7}",
+    "county_names_all": "Hancock|Henderson|McDonough",
+    "county_fips_all": "17067|17071|17109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

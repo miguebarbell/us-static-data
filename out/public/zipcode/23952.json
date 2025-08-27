@@ -1,0 +1,20 @@
+{
+    "zip": 23952,
+    "lat": 36.91786,
+    "lng": -78.27886,
+    "city": "Lunenburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 62.0,
+    "density": 1.6,
+    "county_fips": 51111,
+    "county_name": "Lunenburg",
+    "county_weights": "{\"51111\": 100}",
+    "county_names_all": "Lunenburg",
+    "county_fips_all": "51111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

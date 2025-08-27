@@ -1,0 +1,20 @@
+{
+    "zip": 30457,
+    "lat": 32.39852,
+    "lng": -82.56498,
+    "city": "Soperton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5440.0,
+    "density": 12.1,
+    "county_fips": 13283,
+    "county_name": "Treutlen",
+    "county_weights": "{\"13283\": 92.7, \"13209\": 4.56, \"13107\": 2.74}",
+    "county_names_all": "Treutlen|Montgomery|Emanuel",
+    "county_fips_all": "13283|13209|13107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

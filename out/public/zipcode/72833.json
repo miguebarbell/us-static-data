@@ -1,0 +1,20 @@
+{
+    "zip": 72833,
+    "lat": 35.01845,
+    "lng": -93.49748,
+    "city": "Danville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3432.0,
+    "density": 6.0,
+    "county_fips": 5149,
+    "county_name": "Yell",
+    "county_weights": "{\"05149\": 87.12, \"05127\": 12.88}",
+    "county_names_all": "Yell|Scott",
+    "county_fips_all": "05149|05127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

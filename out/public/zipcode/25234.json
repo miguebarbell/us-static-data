@@ -1,0 +1,20 @@
+{
+    "zip": 25234,
+    "lat": 38.81291,
+    "lng": -81.12343,
+    "city": "Arnoldsburg",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 624.0,
+    "density": 5.3,
+    "county_fips": 54013,
+    "county_name": "Calhoun",
+    "county_weights": "{\"54013\": 100}",
+    "county_names_all": "Calhoun",
+    "county_fips_all": "54013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

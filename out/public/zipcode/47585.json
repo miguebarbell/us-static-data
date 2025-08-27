@@ -1,0 +1,20 @@
+{
+    "zip": 47585,
+    "lat": 38.26787,
+    "lng": -87.16617,
+    "city": "Stendal",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 664.0,
+    "density": 6.4,
+    "county_fips": 18125,
+    "county_name": "Pike",
+    "county_weights": "{\"18125\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "18125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Petersburg"
+}

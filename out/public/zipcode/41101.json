@@ -1,0 +1,20 @@
+{
+    "zip": 41101,
+    "lat": 38.47392,
+    "lng": -82.65045,
+    "city": "Ashland",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19331.0,
+    "density": 728.0,
+    "county_fips": 21019,
+    "county_name": "Boyd",
+    "county_weights": "{\"21019\": 82.64, \"21089\": 17.36}",
+    "county_names_all": "Boyd|Greenup",
+    "county_fips_all": "21019|21089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

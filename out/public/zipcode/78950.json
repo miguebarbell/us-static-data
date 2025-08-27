@@ -1,0 +1,20 @@
+{
+    "zip": 78950,
+    "lat": 29.90735,
+    "lng": -96.48518,
+    "city": "New Ulm",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2244.0,
+    "density": 7.5,
+    "county_fips": 48015,
+    "county_name": "Austin",
+    "county_weights": "{\"48015\": 69.2, \"48089\": 28.26, \"48149\": 2.54}",
+    "county_names_all": "Austin|Colorado|Fayette",
+    "county_fips_all": "48015|48089|48149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

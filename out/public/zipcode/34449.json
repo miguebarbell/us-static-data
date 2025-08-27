@@ -1,0 +1,20 @@
+{
+    "zip": 34449,
+    "lat": 29.10451,
+    "lng": -82.68694,
+    "city": "Inglis",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3508.0,
+    "density": 10.4,
+    "county_fips": 12075,
+    "county_name": "Levy",
+    "county_weights": "{\"12075\": 92.97, \"12017\": 7.03}",
+    "county_names_all": "Levy|Citrus",
+    "county_fips_all": "12075|12017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

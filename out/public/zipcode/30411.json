@@ -1,0 +1,20 @@
+{
+    "zip": 30411,
+    "lat": 32.1254,
+    "lng": -82.79362,
+    "city": "Alamo",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4905.0,
+    "density": 14.6,
+    "county_fips": 13309,
+    "county_name": "Wheeler",
+    "county_weights": "{\"13309\": 85.11, \"13175\": 14.89}",
+    "county_names_all": "Wheeler|Laurens",
+    "county_fips_all": "13309|13175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

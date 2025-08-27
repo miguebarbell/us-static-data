@@ -1,0 +1,20 @@
+{
+    "zip": 31821,
+    "lat": 32.14048,
+    "lng": -84.97083,
+    "city": "Omaha",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 121.0,
+    "density": 0.7,
+    "county_fips": 13259,
+    "county_name": "Stewart",
+    "county_weights": "{\"13259\": 100}",
+    "county_names_all": "Stewart",
+    "county_fips_all": "13259",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 44483,
+    "lat": 41.26537,
+    "lng": -80.81575,
+    "city": "Warren",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25602.0,
+    "density": 539.1,
+    "county_fips": 39155,
+    "county_name": "Trumbull",
+    "county_weights": "{\"39155\": 100}",
+    "county_names_all": "Trumbull",
+    "county_fips_all": "39155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

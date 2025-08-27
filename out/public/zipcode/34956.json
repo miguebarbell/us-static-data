@@ -1,0 +1,20 @@
+{
+    "zip": 34956,
+    "lat": 27.07969,
+    "lng": -80.50074,
+    "city": "Indiantown",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9639.0,
+    "density": 22.4,
+    "county_fips": 12085,
+    "county_name": "Martin",
+    "county_weights": "{\"12085\": 100}",
+    "county_names_all": "Martin",
+    "county_fips_all": "12085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

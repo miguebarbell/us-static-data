@@ -1,0 +1,20 @@
+{
+    "zip": 32666,
+    "lat": 29.72301,
+    "lng": -81.99145,
+    "city": "Melrose",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5542.0,
+    "density": 37.6,
+    "county_fips": 12107,
+    "county_name": "Putnam",
+    "county_weights": "{\"12107\": 59.73, \"12001\": 20.37, \"12019\": 14.2, \"12007\": 5.7}",
+    "county_names_all": "Putnam|Alachua|Clay|Bradford",
+    "county_fips_all": "12107|12001|12019|12007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

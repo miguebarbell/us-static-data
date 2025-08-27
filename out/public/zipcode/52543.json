@@ -1,0 +1,20 @@
+{
+    "zip": 52543,
+    "lat": 41.20065,
+    "lng": -92.51773,
+    "city": "Cedar",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 486.0,
+    "density": 8.7,
+    "county_fips": 19123,
+    "county_name": "Mahaska",
+    "county_weights": "{\"19123\": 100}",
+    "county_names_all": "Mahaska",
+    "county_fips_all": "19123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

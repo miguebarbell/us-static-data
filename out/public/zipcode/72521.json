@@ -1,0 +1,20 @@
+{
+    "zip": 72521,
+    "lat": 35.95196,
+    "lng": -91.54522,
+    "city": "Cave City",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5176.0,
+    "density": 16.8,
+    "county_fips": 5135,
+    "county_name": "Sharp",
+    "county_weights": "{\"05135\": 67.99, \"05063\": 32.01}",
+    "county_names_all": "Sharp|Independence",
+    "county_fips_all": "05135|05063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 71061,
+    "lat": 32.75342,
+    "lng": -93.97742,
+    "city": "Oil City",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1834.0,
+    "density": 34.8,
+    "county_fips": 22017,
+    "county_name": "Caddo",
+    "county_weights": "{\"22017\": 100}",
+    "county_names_all": "Caddo",
+    "county_fips_all": "22017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

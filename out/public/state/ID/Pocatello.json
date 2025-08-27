@@ -1,0 +1,14 @@
+{
+    "zip": [
+        "83201",
+        "83202",
+        "83204",
+        "83209"
+    ],
+    "city": "Pocatello",
+    "state": "ID",
+    "lat": 42.88949,
+    "lng": -112.38324,
+    "state_name": "Idaho",
+    "timezone": "America/Boise"
+}

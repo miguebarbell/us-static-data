@@ -1,0 +1,20 @@
+{
+    "zip": 20754,
+    "lat": 38.736,
+    "lng": -76.65493,
+    "city": "Dunkirk",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7512.0,
+    "density": 180.9,
+    "county_fips": 24009,
+    "county_name": "Calvert",
+    "county_weights": "{\"24009\": 83.86, \"24003\": 16.14}",
+    "county_names_all": "Calvert|Anne Arundel",
+    "county_fips_all": "24009|24003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

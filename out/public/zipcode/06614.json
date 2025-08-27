@@ -1,0 +1,20 @@
+{
+    "zip": 6614,
+    "lat": 41.22989,
+    "lng": -73.12785,
+    "city": "Stratford",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35538.0,
+    "density": 1238.8,
+    "county_fips": 9120,
+    "county_name": "Greater Bridgeport",
+    "county_weights": "{\"09120\": 100}",
+    "county_names_all": "Greater Bridgeport",
+    "county_fips_all": "09120",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

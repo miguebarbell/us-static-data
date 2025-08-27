@@ -1,0 +1,20 @@
+{
+    "zip": 47452,
+    "lat": 38.6422,
+    "lng": -86.41901,
+    "city": "Orleans",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5118.0,
+    "density": 19.9,
+    "county_fips": 18117,
+    "county_name": "Orange",
+    "county_weights": "{\"18117\": 87.92, \"18093\": 11.57, \"18175\": 0.51}",
+    "county_names_all": "Orange|Lawrence|Washington",
+    "county_fips_all": "18117|18093|18175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

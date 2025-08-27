@@ -1,0 +1,20 @@
+{
+    "zip": 54854,
+    "lat": 46.64127,
+    "lng": -91.66864,
+    "city": "Maple",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 907.0,
+    "density": 4.2,
+    "county_fips": 55031,
+    "county_name": "Douglas",
+    "county_weights": "{\"55031\": 100}",
+    "county_names_all": "Douglas",
+    "county_fips_all": "55031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

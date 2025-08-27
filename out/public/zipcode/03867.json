@@ -1,0 +1,20 @@
+{
+    "zip": 3867,
+    "lat": 43.3031,
+    "lng": -70.98891,
+    "city": "Rochester",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22886.0,
+    "density": 311.1,
+    "county_fips": 33017,
+    "county_name": "Strafford",
+    "county_weights": "{\"33017\": 100}",
+    "county_names_all": "Strafford",
+    "county_fips_all": "33017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

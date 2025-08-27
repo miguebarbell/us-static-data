@@ -1,0 +1,20 @@
+{
+    "zip": 63740,
+    "lat": 37.17564,
+    "lng": -89.68557,
+    "city": "Chaffee",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5447.0,
+    "density": 23.9,
+    "county_fips": 29201,
+    "county_name": "Scott",
+    "county_weights": "{\"29201\": 50.36, \"29031\": 49.64}",
+    "county_names_all": "Scott|Cape Girardeau",
+    "county_fips_all": "29201|29031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

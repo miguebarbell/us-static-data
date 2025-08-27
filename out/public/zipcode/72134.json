@@ -1,0 +1,20 @@
+{
+    "zip": 72134,
+    "lat": 34.61189,
+    "lng": -91.37247,
+    "city": "Roe",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 543.0,
+    "density": 4.9,
+    "county_fips": 5095,
+    "county_name": "Monroe",
+    "county_weights": "{\"05095\": 91.72, \"05001\": 8.28}",
+    "county_names_all": "Monroe|Arkansas",
+    "county_fips_all": "05095|05001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

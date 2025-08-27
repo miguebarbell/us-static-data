@@ -1,0 +1,20 @@
+{
+    "zip": 68421,
+    "lat": 40.492,
+    "lng": -95.74426,
+    "city": "Peru",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1019.0,
+    "density": 7.9,
+    "county_fips": 31127,
+    "county_name": "Nemaha",
+    "county_weights": "{\"31127\": 94.21, \"31131\": 5.79}",
+    "county_names_all": "Nemaha|Otoe",
+    "county_fips_all": "31127|31131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

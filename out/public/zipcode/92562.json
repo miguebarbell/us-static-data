@@ -1,0 +1,20 @@
+{
+    "zip": 92562,
+    "lat": 33.53579,
+    "lng": -117.35098,
+    "city": "Murrieta",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 65116.0,
+    "density": 227.8,
+    "county_fips": 6065,
+    "county_name": "Riverside",
+    "county_weights": "{\"06065\": 81.48, \"06073\": 18.52}",
+    "county_names_all": "Riverside|San Diego",
+    "county_fips_all": "06065|06073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

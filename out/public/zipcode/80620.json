@@ -1,0 +1,20 @@
+{
+    "zip": 80620,
+    "lat": 40.37425,
+    "lng": -104.71337,
+    "city": "Evans",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20776.0,
+    "density": 1355.1,
+    "county_fips": 8123,
+    "county_name": "Weld",
+    "county_weights": "{\"08123\": 100}",
+    "county_names_all": "Weld",
+    "county_fips_all": "08123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

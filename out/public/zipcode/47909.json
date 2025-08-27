@@ -1,0 +1,20 @@
+{
+    "zip": 47909,
+    "lat": 40.32357,
+    "lng": -86.89933,
+    "city": "Lafayette",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42971.0,
+    "density": 140.6,
+    "county_fips": 18157,
+    "county_name": "Tippecanoe",
+    "county_weights": "{\"18157\": 100}",
+    "county_names_all": "Tippecanoe",
+    "county_fips_all": "18157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

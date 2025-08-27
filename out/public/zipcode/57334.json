@@ -1,0 +1,20 @@
+{
+    "zip": 57334,
+    "lat": 43.54199,
+    "lng": -97.99492,
+    "city": "Ethan",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 886.0,
+    "density": 3.2,
+    "county_fips": 46035,
+    "county_name": "Davison",
+    "county_weights": "{\"46035\": 51.59, \"46061\": 35.66, \"46067\": 12.75}",
+    "county_names_all": "Davison|Hanson|Hutchinson",
+    "county_fips_all": "46035|46061|46067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

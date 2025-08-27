@@ -1,0 +1,20 @@
+{
+    "zip": 22654,
+    "lat": 39.06863,
+    "lng": -78.4586,
+    "city": "Star Tannery",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 993.0,
+    "density": 9.2,
+    "county_fips": 51069,
+    "county_name": "Frederick",
+    "county_weights": "{\"51069\": 68.19, \"51171\": 31.81}",
+    "county_names_all": "Frederick|Shenandoah",
+    "county_fips_all": "51069|51171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 88049,
+    "lat": 33.04814,
+    "lng": -108.06782,
+    "city": "Mimbres",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 586.0,
+    "density": 0.5,
+    "county_fips": 35017,
+    "county_name": "Grant",
+    "county_weights": "{\"35017\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "35017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

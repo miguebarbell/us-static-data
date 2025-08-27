@@ -1,0 +1,20 @@
+{
+    "zip": 28160,
+    "lat": 35.36064,
+    "lng": -81.92234,
+    "city": "Spindale",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3825.0,
+    "density": 268.2,
+    "county_fips": 37161,
+    "county_name": "Rutherford",
+    "county_weights": "{\"37161\": 100}",
+    "county_names_all": "Rutherford",
+    "county_fips_all": "37161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

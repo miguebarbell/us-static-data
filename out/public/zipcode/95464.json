@@ -1,0 +1,20 @@
+{
+    "zip": 95464,
+    "lat": 39.12736,
+    "lng": -122.84733,
+    "city": "Nice",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2417.0,
+    "density": 367.9,
+    "county_fips": 6033,
+    "county_name": "Lake",
+    "county_weights": "{\"06033\": 100}",
+    "county_names_all": "Lake",
+    "county_fips_all": "06033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

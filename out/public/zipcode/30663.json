@@ -1,0 +1,20 @@
+{
+    "zip": 30663,
+    "lat": 33.61572,
+    "lng": -83.60357,
+    "city": "Rutledge",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3507.0,
+    "density": 26.9,
+    "county_fips": 13211,
+    "county_name": "Morgan",
+    "county_weights": "{\"13211\": 100}",
+    "county_names_all": "Morgan",
+    "county_fips_all": "13211",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

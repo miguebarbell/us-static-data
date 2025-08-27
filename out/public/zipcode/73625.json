@@ -1,0 +1,20 @@
+{
+    "zip": 73625,
+    "lat": 35.6964,
+    "lng": -99.19698,
+    "city": "Butler",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 364.0,
+    "density": 1.2,
+    "county_fips": 40039,
+    "county_name": "Custer",
+    "county_weights": "{\"40039\": 100}",
+    "county_names_all": "Custer",
+    "county_fips_all": "40039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

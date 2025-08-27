@@ -1,0 +1,20 @@
+{
+    "zip": 84772,
+    "lat": 37.79706,
+    "lng": -112.94168,
+    "city": "Summit",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 208.0,
+    "density": 54.9,
+    "county_fips": 49021,
+    "county_name": "Iron",
+    "county_weights": "{\"49021\": 100}",
+    "county_names_all": "Iron",
+    "county_fips_all": "49021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

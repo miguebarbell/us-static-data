@@ -1,0 +1,20 @@
+{
+    "zip": 16423,
+    "lat": 42.01881,
+    "lng": -80.34253,
+    "city": "Lake City",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3880.0,
+    "density": 163.6,
+    "county_fips": 42049,
+    "county_name": "Erie",
+    "county_weights": "{\"42049\": 100}",
+    "county_names_all": "Erie",
+    "county_fips_all": "42049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

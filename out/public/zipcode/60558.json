@@ -1,0 +1,20 @@
+{
+    "zip": 60558,
+    "lat": 41.80207,
+    "lng": -87.90076,
+    "city": "Western Springs",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13353.0,
+    "density": 1812.7,
+    "county_fips": 17031,
+    "county_name": "Cook",
+    "county_weights": "{\"17031\": 100}",
+    "county_names_all": "Cook",
+    "county_fips_all": "17031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

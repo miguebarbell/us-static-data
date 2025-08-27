@@ -1,0 +1,20 @@
+{
+    "zip": 79331,
+    "lat": 32.66775,
+    "lng": -101.97488,
+    "city": "Lamesa",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11751.0,
+    "density": 5.7,
+    "county_fips": 48115,
+    "county_name": "Dawson",
+    "county_weights": "{\"48115\": 77.58, \"48317\": 15.32, \"48033\": 4.1, \"48165\": 3.0}",
+    "county_names_all": "Dawson|Martin|Borden|Gaines",
+    "county_fips_all": "48115|48317|48033|48165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

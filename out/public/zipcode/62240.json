@@ -1,0 +1,20 @@
+{
+    "zip": 62240,
+    "lat": 38.52084,
+    "lng": -90.21011,
+    "city": "East Carondelet",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1994.0,
+    "density": 51.7,
+    "county_fips": 17163,
+    "county_name": "St. Clair",
+    "county_weights": "{\"17163\": 100}",
+    "county_names_all": "St. Clair",
+    "county_fips_all": "17163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

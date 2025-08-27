@@ -1,0 +1,20 @@
+{
+    "zip": 94512,
+    "lat": 38.1263,
+    "lng": -121.83793,
+    "city": "Birds Landing",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 134.0,
+    "density": 2.3,
+    "county_fips": 6095,
+    "county_name": "Solano",
+    "county_weights": "{\"06095\": 100}",
+    "county_names_all": "Solano",
+    "county_fips_all": "06095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

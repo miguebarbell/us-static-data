@@ -1,0 +1,20 @@
+{
+    "zip": 37819,
+    "lat": 36.55649,
+    "lng": -84.21169,
+    "city": "Newcomb",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 632.0,
+    "density": 11.6,
+    "county_fips": 47013,
+    "county_name": "Campbell",
+    "county_weights": "{\"47013\": 100}",
+    "county_names_all": "Campbell",
+    "county_fips_all": "47013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

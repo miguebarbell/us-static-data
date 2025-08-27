@@ -1,0 +1,20 @@
+{
+    "zip": 83401,
+    "lat": 43.53222,
+    "lng": -111.86516,
+    "city": "Idaho Falls",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 47170.0,
+    "density": 92.3,
+    "county_fips": 16019,
+    "county_name": "Bonneville",
+    "county_weights": "{\"16019\": 99.79, \"16051\": 0.21}",
+    "county_names_all": "Bonneville|Jefferson",
+    "county_fips_all": "16019|16051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

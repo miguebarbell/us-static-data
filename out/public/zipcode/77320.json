@@ -1,0 +1,20 @@
+{
+    "zip": 77320,
+    "lat": 30.80672,
+    "lng": -95.55687,
+    "city": "Huntsville",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37458.0,
+    "density": 42.1,
+    "county_fips": 48471,
+    "county_name": "Walker",
+    "county_weights": "{\"48471\": 91.4, \"48407\": 8.6}",
+    "county_names_all": "Walker|San Jacinto",
+    "county_fips_all": "48471|48407",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

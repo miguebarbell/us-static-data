@@ -1,0 +1,20 @@
+{
+    "zip": 63544,
+    "lat": 40.24603,
+    "lng": -92.84943,
+    "city": "Green Castle",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1119.0,
+    "density": 3.1,
+    "county_fips": 29001,
+    "county_name": "Adair",
+    "county_weights": "{\"29001\": 45.0, \"29211\": 42.94, \"29171\": 12.06}",
+    "county_names_all": "Adair|Sullivan|Putnam",
+    "county_fips_all": "29001|29211|29171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

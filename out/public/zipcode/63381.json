@@ -1,0 +1,20 @@
+{
+    "zip": 63381,
+    "lat": 38.98237,
+    "lng": -91.25429,
+    "city": "Truxton",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 678.0,
+    "density": 9.3,
+    "county_fips": 29219,
+    "county_name": "Warren",
+    "county_weights": "{\"29219\": 34.36, \"29139\": 32.84, \"29113\": 32.8}",
+    "county_names_all": "Warren|Montgomery|Lincoln",
+    "county_fips_all": "29219|29139|29113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

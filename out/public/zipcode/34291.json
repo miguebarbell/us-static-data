@@ -1,0 +1,20 @@
+{
+    "zip": 34291,
+    "lat": 27.11494,
+    "lng": -82.21722,
+    "city": "North Port",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8089.0,
+    "density": 173.0,
+    "county_fips": 12115,
+    "county_name": "Sarasota",
+    "county_weights": "{\"12115\": 100}",
+    "county_names_all": "Sarasota",
+    "county_fips_all": "12115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

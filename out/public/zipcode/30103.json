@@ -1,0 +1,20 @@
+{
+    "zip": 30103,
+    "lat": 34.36457,
+    "lng": -84.92014,
+    "city": "Adairsville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14415.0,
+    "density": 53.6,
+    "county_fips": 13015,
+    "county_name": "Bartow",
+    "county_weights": "{\"13015\": 68.56, \"13129\": 24.04, \"13115\": 7.4}",
+    "county_names_all": "Bartow|Gordon|Floyd",
+    "county_fips_all": "13015|13129|13115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 37820,
+    "lat": 36.08364,
+    "lng": -83.56715,
+    "city": "New Market",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7743.0,
+    "density": 44.2,
+    "county_fips": 47089,
+    "county_name": "Jefferson",
+    "county_weights": "{\"47089\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "47089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 73533,
+    "lat": 34.49484,
+    "lng": -97.84774,
+    "city": "Duncan",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27935.0,
+    "density": 32.7,
+    "county_fips": 40137,
+    "county_name": "Stephens",
+    "county_weights": "{\"40137\": 99.69, \"40033\": 0.31}",
+    "county_names_all": "Stephens|Cotton",
+    "county_fips_all": "40137|40033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 76578,
+    "lat": 30.53488,
+    "lng": -97.24092,
+    "city": "Thrall",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1561.0,
+    "density": 9.2,
+    "county_fips": 48491,
+    "county_name": "Williamson",
+    "county_weights": "{\"48491\": 99.21, \"48331\": 0.79}",
+    "county_names_all": "Williamson|Milam",
+    "county_fips_all": "48491|48331",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

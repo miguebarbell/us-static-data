@@ -1,0 +1,20 @@
+{
+    "zip": 75933,
+    "lat": 30.55314,
+    "lng": -93.81608,
+    "city": "Call",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1506.0,
+    "density": 6.8,
+    "county_fips": 48351,
+    "county_name": "Newton",
+    "county_weights": "{\"48351\": 91.67, \"48241\": 8.33}",
+    "county_names_all": "Newton|Jasper",
+    "county_fips_all": "48351|48241",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

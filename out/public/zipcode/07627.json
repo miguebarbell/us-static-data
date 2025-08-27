@@ -1,0 +1,20 @@
+{
+    "zip": 7627,
+    "lat": 40.95504,
+    "lng": -73.95678,
+    "city": "Demarest",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4916.0,
+    "density": 915.9,
+    "county_fips": 34003,
+    "county_name": "Bergen",
+    "county_weights": "{\"34003\": 100}",
+    "county_names_all": "Bergen",
+    "county_fips_all": "34003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

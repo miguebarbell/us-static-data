@@ -1,0 +1,20 @@
+{
+    "zip": 25811,
+    "lat": 37.60835,
+    "lng": -81.3065,
+    "city": "Amigo",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 51.0,
+    "density": 0.9,
+    "county_fips": 54081,
+    "county_name": "Raleigh",
+    "county_weights": "{\"54081\": 99.81, \"54109\": 0.19}",
+    "county_names_all": "Raleigh|Wyoming",
+    "county_fips_all": "54081|54109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

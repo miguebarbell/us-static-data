@@ -1,0 +1,20 @@
+{
+    "zip": 40328,
+    "lat": 37.56632,
+    "lng": -85.02565,
+    "city": "Gravel Switch",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1016.0,
+    "density": 6.5,
+    "county_fips": 21155,
+    "county_name": "Marion",
+    "county_weights": "{\"21155\": 39.24, \"21021\": 33.85, \"21045\": 26.91}",
+    "county_names_all": "Marion|Boyle|Casey",
+    "county_fips_all": "21155|21021|21045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

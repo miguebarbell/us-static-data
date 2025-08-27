@@ -1,0 +1,20 @@
+{
+    "zip": 43727,
+    "lat": 39.8714,
+    "lng": -81.79884,
+    "city": "Chandlersville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1176.0,
+    "density": 6.3,
+    "county_fips": 39119,
+    "county_name": "Muskingum",
+    "county_weights": "{\"39119\": 100}",
+    "county_names_all": "Muskingum",
+    "county_fips_all": "39119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

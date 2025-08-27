@@ -1,0 +1,20 @@
+{
+    "zip": 70402,
+    "lat": 30.51652,
+    "lng": -90.46932,
+    "city": "Hammond",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1859.0,
+    "density": 5840.9,
+    "county_fips": 22105,
+    "county_name": "Tangipahoa",
+    "county_weights": "{\"22105\": 100}",
+    "county_names_all": "Tangipahoa",
+    "county_fips_all": "22105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

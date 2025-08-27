@@ -1,0 +1,20 @@
+{
+    "zip": 45831,
+    "lat": 41.11141,
+    "lng": -84.24993,
+    "city": "Continental",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3566.0,
+    "density": 18.5,
+    "county_fips": 39137,
+    "county_name": "Putnam",
+    "county_weights": "{\"39137\": 97.08, \"39039\": 2.23, \"39125\": 0.69}",
+    "county_names_all": "Putnam|Defiance|Paulding",
+    "county_fips_all": "39137|39039|39125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

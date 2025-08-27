@@ -1,0 +1,20 @@
+{
+    "zip": 76071,
+    "lat": 33.00613,
+    "lng": -97.47821,
+    "city": "Newark",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4723.0,
+    "density": 205.7,
+    "county_fips": 48497,
+    "county_name": "Wise",
+    "county_weights": "{\"48497\": 95.08, \"48439\": 4.92}",
+    "county_names_all": "Wise|Tarrant",
+    "county_fips_all": "48497|48439",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

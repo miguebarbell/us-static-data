@@ -1,0 +1,20 @@
+{
+    "zip": 74558,
+    "lat": 34.49174,
+    "lng": -95.15081,
+    "city": "Nashoba",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 388.0,
+    "density": 1.9,
+    "county_fips": 40127,
+    "county_name": "Pushmataha",
+    "county_weights": "{\"40127\": 100}",
+    "county_names_all": "Pushmataha",
+    "county_fips_all": "40127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

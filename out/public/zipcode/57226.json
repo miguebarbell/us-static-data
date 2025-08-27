@@ -1,0 +1,20 @@
+{
+    "zip": 57226,
+    "lat": 44.78565,
+    "lng": -96.72368,
+    "city": "Clear Lake",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1834.0,
+    "density": 3.7,
+    "county_fips": 46039,
+    "county_name": "Deuel",
+    "county_weights": "{\"46039\": 96.42, \"46057\": 3.58}",
+    "county_names_all": "Deuel|Hamlin",
+    "county_fips_all": "46039|46057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

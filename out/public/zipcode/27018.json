@@ -1,0 +1,20 @@
+{
+    "zip": 27018,
+    "lat": 36.1978,
+    "lng": -80.52096,
+    "city": "East Bend",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7838.0,
+    "density": 36.8,
+    "county_fips": 37197,
+    "county_name": "Yadkin",
+    "county_weights": "{\"37197\": 100}",
+    "county_names_all": "Yadkin",
+    "county_fips_all": "37197",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

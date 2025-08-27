@@ -1,0 +1,20 @@
+{
+    "zip": 81647,
+    "lat": 39.57972,
+    "lng": -107.5364,
+    "city": "New Castle",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7037.0,
+    "density": 9.5,
+    "county_fips": 8045,
+    "county_name": "Garfield",
+    "county_weights": "{\"08045\": 100}",
+    "county_names_all": "Garfield",
+    "county_fips_all": "08045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

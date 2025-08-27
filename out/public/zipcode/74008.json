@@ -1,0 +1,20 @@
+{
+    "zip": 74008,
+    "lat": 35.92614,
+    "lng": -95.87575,
+    "city": "Bixby",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32433.0,
+    "density": 168.4,
+    "county_fips": 40143,
+    "county_name": "Tulsa",
+    "county_weights": "{\"40143\": 95.98, \"40145\": 4.02}",
+    "county_names_all": "Tulsa|Wagoner",
+    "county_fips_all": "40143|40145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

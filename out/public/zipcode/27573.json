@@ -1,0 +1,20 @@
+{
+    "zip": 27573,
+    "lat": 36.3978,
+    "lng": -78.97476,
+    "city": "Roxboro",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11954.0,
+    "density": 266.6,
+    "county_fips": 37145,
+    "county_name": "Person",
+    "county_weights": "{\"37145\": 100}",
+    "county_names_all": "Person",
+    "county_fips_all": "37145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

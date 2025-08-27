@@ -1,0 +1,20 @@
+{
+    "zip": 44275,
+    "lat": 41.09976,
+    "lng": -82.09927,
+    "city": "Spencer",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3190.0,
+    "density": 33.2,
+    "county_fips": 39103,
+    "county_name": "Medina",
+    "county_weights": "{\"39103\": 93.29, \"39093\": 6.71}",
+    "county_names_all": "Medina|Lorain",
+    "county_fips_all": "39103|39093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

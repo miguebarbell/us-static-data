@@ -1,0 +1,20 @@
+{
+    "zip": 71865,
+    "lat": 33.74169,
+    "lng": -94.14598,
+    "city": "Wilton",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 197.0,
+    "density": 90.4,
+    "county_fips": 5081,
+    "county_name": "Little River",
+    "county_weights": "{\"05081\": 100}",
+    "county_names_all": "Little River",
+    "county_fips_all": "05081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

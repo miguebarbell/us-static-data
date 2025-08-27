@@ -1,0 +1,20 @@
+{
+    "zip": 8550,
+    "lat": 40.28125,
+    "lng": -74.61926,
+    "city": "Princeton Junction",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20876.0,
+    "density": 421.2,
+    "county_fips": 34021,
+    "county_name": "Mercer",
+    "county_weights": "{\"34021\": 100}",
+    "county_names_all": "Mercer",
+    "county_fips_all": "34021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

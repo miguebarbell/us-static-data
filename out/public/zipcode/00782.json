@@ -1,0 +1,20 @@
+{
+    "zip": 782,
+    "lat": 18.22501,
+    "lng": -66.22452,
+    "city": "Comerio",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18397.0,
+    "density": 253.9,
+    "county_fips": 72045,
+    "county_name": "Comer\u00edo",
+    "county_weights": "{\"72045\": 97.39, \"72019\": 2.61}",
+    "county_names_all": "Comer\u00edo|Barranquitas",
+    "county_fips_all": "72045|72019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

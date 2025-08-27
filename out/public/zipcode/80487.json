@@ -1,0 +1,20 @@
+{
+    "zip": 80487,
+    "lat": 40.58803,
+    "lng": -106.89321,
+    "city": "Steamboat Springs",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18378.0,
+    "density": 8.9,
+    "county_fips": 8107,
+    "county_name": "Routt",
+    "county_weights": "{\"08107\": 100}",
+    "county_names_all": "Routt",
+    "county_fips_all": "08107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

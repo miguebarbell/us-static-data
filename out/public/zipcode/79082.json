@@ -1,0 +1,20 @@
+{
+    "zip": 79082,
+    "lat": 34.21881,
+    "lng": -102.2862,
+    "city": "Springlake",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 401.0,
+    "density": 1.6,
+    "county_fips": 48279,
+    "county_name": "Lamb",
+    "county_weights": "{\"48279\": 100}",
+    "county_names_all": "Lamb",
+    "county_fips_all": "48279",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

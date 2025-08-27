@@ -1,0 +1,20 @@
+{
+    "zip": 57235,
+    "lat": 45.06896,
+    "lng": -97.31338,
+    "city": "Florence",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 796.0,
+    "density": 2.3,
+    "county_fips": 46029,
+    "county_name": "Codington",
+    "county_weights": "{\"46029\": 94.95, \"46037\": 5.05}",
+    "county_names_all": "Codington|Day",
+    "county_fips_all": "46029|46037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

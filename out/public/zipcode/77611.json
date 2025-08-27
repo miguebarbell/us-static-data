@@ -1,0 +1,20 @@
+{
+    "zip": 77611,
+    "lat": 30.01259,
+    "lng": -93.8222,
+    "city": "Bridge City",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9550.0,
+    "density": 190.3,
+    "county_fips": 48361,
+    "county_name": "Orange",
+    "county_weights": "{\"48361\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "48361",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

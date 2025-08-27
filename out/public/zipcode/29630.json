@@ -1,0 +1,20 @@
+{
+    "zip": 29630,
+    "lat": 34.73882,
+    "lng": -82.79646,
+    "city": "Central",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15497.0,
+    "density": 97.2,
+    "county_fips": 45077,
+    "county_name": "Pickens",
+    "county_weights": "{\"45077\": 88.02, \"45007\": 11.98}",
+    "county_names_all": "Pickens|Anderson",
+    "county_fips_all": "45077|45007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

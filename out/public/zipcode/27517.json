@@ -1,0 +1,20 @@
+{
+    "zip": 27517,
+    "lat": 35.84389,
+    "lng": -79.03186,
+    "city": "Chapel Hill",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28676.0,
+    "density": 240.6,
+    "county_fips": 37037,
+    "county_name": "Chatham",
+    "county_weights": "{\"37037\": 61.14, \"37135\": 21.46, \"37063\": 17.4}",
+    "county_names_all": "Chatham|Orange|Durham",
+    "county_fips_all": "37037|37135|37063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

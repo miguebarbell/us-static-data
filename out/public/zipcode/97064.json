@@ -1,0 +1,20 @@
+{
+    "zip": 97064,
+    "lat": 45.87276,
+    "lng": -123.2309,
+    "city": "Vernonia",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3730.0,
+    "density": 14.7,
+    "county_fips": 41009,
+    "county_name": "Columbia",
+    "county_weights": "{\"41009\": 93.11, \"41067\": 6.89}",
+    "county_names_all": "Columbia|Washington",
+    "county_fips_all": "41009|41067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

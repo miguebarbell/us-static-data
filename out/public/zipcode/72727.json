@@ -1,0 +1,20 @@
+{
+    "zip": 72727,
+    "lat": 35.91456,
+    "lng": -93.92612,
+    "city": "Elkins",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6459.0,
+    "density": 16.0,
+    "county_fips": 5087,
+    "county_name": "Madison",
+    "county_weights": "{\"05087\": 63.13, \"05143\": 32.38, \"05047\": 4.49}",
+    "county_names_all": "Madison|Washington|Franklin",
+    "county_fips_all": "05087|05143|05047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

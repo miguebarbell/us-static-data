@@ -1,0 +1,20 @@
+{
+    "zip": 23116,
+    "lat": 37.67152,
+    "lng": -77.33458,
+    "city": "Mechanicsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 34058.0,
+    "density": 239.2,
+    "county_fips": 51085,
+    "county_name": "Hanover",
+    "county_weights": "{\"51085\": 100}",
+    "county_names_all": "Hanover",
+    "county_fips_all": "51085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

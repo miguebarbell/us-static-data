@@ -1,0 +1,20 @@
+{
+    "zip": 74080,
+    "lat": 36.52849,
+    "lng": -95.74192,
+    "city": "Talala",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2810.0,
+    "density": 11.0,
+    "county_fips": 40131,
+    "county_name": "Rogers",
+    "county_weights": "{\"40131\": 87.06, \"40147\": 12.94}",
+    "county_names_all": "Rogers|Washington",
+    "county_fips_all": "40131|40147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 31824,
+    "lat": 32.05687,
+    "lng": -84.5229,
+    "city": "Preston",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1181.0,
+    "density": 3.9,
+    "county_fips": 13307,
+    "county_name": "Webster",
+    "county_weights": "{\"13307\": 98.18, \"13197\": 1.82}",
+    "county_names_all": "Webster|Marion",
+    "county_fips_all": "13307|13197",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

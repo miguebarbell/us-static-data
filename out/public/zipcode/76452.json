@@ -1,0 +1,20 @@
+{
+    "zip": 76452,
+    "lat": 31.77119,
+    "lng": -98.39198,
+    "city": "Energy",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 138.0,
+    "density": 2.2,
+    "county_fips": 48093,
+    "county_name": "Comanche",
+    "county_weights": "{\"48093\": 100}",
+    "county_names_all": "Comanche",
+    "county_fips_all": "48093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

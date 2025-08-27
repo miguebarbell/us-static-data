@@ -1,0 +1,20 @@
+{
+    "zip": 22534,
+    "lat": 38.08473,
+    "lng": -77.67062,
+    "city": "Partlow",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3337.0,
+    "density": 38.9,
+    "county_fips": 51177,
+    "county_name": "Spotsylvania",
+    "county_weights": "{\"51177\": 100}",
+    "county_names_all": "Spotsylvania",
+    "county_fips_all": "51177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

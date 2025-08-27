@@ -1,0 +1,20 @@
+{
+    "zip": 22908,
+    "lat": 38.03103,
+    "lng": -78.49639,
+    "city": "Charlottesville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 51540,
+    "county_name": "Charlottesville",
+    "county_weights": "{\"51540\": 100}",
+    "county_names_all": "Charlottesville",
+    "county_fips_all": "51540",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

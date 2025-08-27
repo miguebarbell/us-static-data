@@ -1,0 +1,20 @@
+{
+    "zip": 73096,
+    "lat": 35.51305,
+    "lng": -98.7295,
+    "city": "Weatherford",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14282.0,
+    "density": 28.6,
+    "county_fips": 40039,
+    "county_name": "Custer",
+    "county_weights": "{\"40039\": 69.38, \"40149\": 29.59, \"40011\": 1.03}",
+    "county_names_all": "Custer|Washita|Blaine",
+    "county_fips_all": "40039|40149|40011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

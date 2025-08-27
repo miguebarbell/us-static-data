@@ -1,0 +1,20 @@
+{
+    "zip": 37036,
+    "lat": 36.23979,
+    "lng": -87.27182,
+    "city": "Charlotte",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6653.0,
+    "density": 25.8,
+    "county_fips": 47043,
+    "county_name": "Dickson",
+    "county_weights": "{\"47043\": 93.34, \"47021\": 6.66}",
+    "county_names_all": "Dickson|Cheatham",
+    "county_fips_all": "47043|47021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

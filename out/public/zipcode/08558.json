@@ -1,0 +1,20 @@
+{
+    "zip": 8558,
+    "lat": 40.41382,
+    "lng": -74.70236,
+    "city": "Skillman",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7236.0,
+    "density": 179.2,
+    "county_fips": 34035,
+    "county_name": "Somerset",
+    "county_weights": "{\"34035\": 95.45, \"34021\": 4.55}",
+    "county_names_all": "Somerset|Mercer",
+    "county_fips_all": "34035|34021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

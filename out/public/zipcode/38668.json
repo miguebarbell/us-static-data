@@ -1,0 +1,20 @@
+{
+    "zip": 38668,
+    "lat": 34.60109,
+    "lng": -89.92505,
+    "city": "Senatobia",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14123.0,
+    "density": 34.0,
+    "county_fips": 28137,
+    "county_name": "Tate",
+    "county_weights": "{\"28137\": 97.15, \"28107\": 2.85}",
+    "county_names_all": "Tate|Panola",
+    "county_fips_all": "28137|28107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

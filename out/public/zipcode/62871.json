@@ -1,0 +1,20 @@
+{
+    "zip": 62871,
+    "lat": 37.8757,
+    "lng": -88.26499,
+    "city": "Omaha",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 669.0,
+    "density": 4.7,
+    "county_fips": 17059,
+    "county_name": "Gallatin",
+    "county_weights": "{\"17059\": 98.88, \"17193\": 1.12}",
+    "county_names_all": "Gallatin|White",
+    "county_fips_all": "17059|17193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

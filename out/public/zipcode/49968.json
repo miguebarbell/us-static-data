@@ -1,0 +1,20 @@
+{
+    "zip": 49968,
+    "lat": 46.50199,
+    "lng": -89.88314,
+    "city": "Wakefield",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2305.0,
+    "density": 3.4,
+    "county_fips": 26053,
+    "county_name": "Gogebic",
+    "county_weights": "{\"26053\": 100}",
+    "county_names_all": "Gogebic",
+    "county_fips_all": "26053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Menominee"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 15828,
+    "lat": 41.35104,
+    "lng": -79.13906,
+    "city": "Clarington",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 287.0,
+    "density": 4.5,
+    "county_fips": 42053,
+    "county_name": "Forest",
+    "county_weights": "{\"42053\": 56.28, \"42065\": 43.72}",
+    "county_names_all": "Forest|Jefferson",
+    "county_fips_all": "42053|42065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

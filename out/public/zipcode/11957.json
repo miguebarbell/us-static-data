@@ -1,0 +1,20 @@
+{
+    "zip": 11957,
+    "lat": 41.1492,
+    "lng": -72.26181,
+    "city": "Orient",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1152.0,
+    "density": 68.7,
+    "county_fips": 36103,
+    "county_name": "Suffolk",
+    "county_weights": "{\"36103\": 100}",
+    "county_names_all": "Suffolk",
+    "county_fips_all": "36103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

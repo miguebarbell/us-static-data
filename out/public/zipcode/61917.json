@@ -1,0 +1,20 @@
+{
+    "zip": 61917,
+    "lat": 39.71746,
+    "lng": -87.8941,
+    "city": "Brocton",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 411.0,
+    "density": 2.3,
+    "county_fips": 17045,
+    "county_name": "Edgar",
+    "county_weights": "{\"17045\": 93.59, \"17041\": 6.41}",
+    "county_names_all": "Edgar|Douglas",
+    "county_fips_all": "17045|17041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

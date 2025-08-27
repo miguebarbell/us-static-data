@@ -1,0 +1,20 @@
+{
+    "zip": 28438,
+    "lat": 34.4166,
+    "lng": -78.92221,
+    "city": "Evergreen",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1706.0,
+    "density": 14.6,
+    "county_fips": 37047,
+    "county_name": "Columbus",
+    "county_weights": "{\"37047\": 95.51, \"37017\": 4.49}",
+    "county_names_all": "Columbus|Bladen",
+    "county_fips_all": "37047|37017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

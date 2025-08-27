@@ -1,0 +1,20 @@
+{
+    "zip": 62934,
+    "lat": 37.70876,
+    "lng": -88.36175,
+    "city": "Equality",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 698.0,
+    "density": 3.8,
+    "county_fips": 17059,
+    "county_name": "Gallatin",
+    "county_weights": "{\"17059\": 66.06, \"17165\": 33.94}",
+    "county_names_all": "Gallatin|Saline",
+    "county_fips_all": "17059|17165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

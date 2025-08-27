@@ -1,0 +1,20 @@
+{
+    "zip": 3824,
+    "lat": 43.11744,
+    "lng": -70.91937,
+    "city": "Durham",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15054.0,
+    "density": 259.3,
+    "county_fips": 33017,
+    "county_name": "Strafford",
+    "county_weights": "{\"33017\": 100}",
+    "county_names_all": "Strafford",
+    "county_fips_all": "33017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

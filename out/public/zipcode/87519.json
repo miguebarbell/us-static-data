@@ -1,0 +1,20 @@
+{
+    "zip": 87519,
+    "lat": 36.76472,
+    "lng": -105.63502,
+    "city": "Cerro",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 760.0,
+    "density": 10.3,
+    "county_fips": 35055,
+    "county_name": "Taos",
+    "county_weights": "{\"35055\": 100}",
+    "county_names_all": "Taos",
+    "county_fips_all": "35055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

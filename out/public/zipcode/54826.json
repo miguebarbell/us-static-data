@@ -1,0 +1,20 @@
+{
+    "zip": 54826,
+    "lat": 45.49971,
+    "lng": -92.16422,
+    "city": "Comstock",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 772.0,
+    "density": 6.4,
+    "county_fips": 55095,
+    "county_name": "Polk",
+    "county_weights": "{\"55095\": 54.99, \"55005\": 45.01}",
+    "county_names_all": "Polk|Barron",
+    "county_fips_all": "55095|55005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

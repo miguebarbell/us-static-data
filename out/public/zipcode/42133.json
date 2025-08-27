@@ -1,0 +1,20 @@
+{
+    "zip": 42133,
+    "lat": 36.72248,
+    "lng": -85.95468,
+    "city": "Fountain Run",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1311.0,
+    "density": 6.6,
+    "county_fips": 21171,
+    "county_name": "Monroe",
+    "county_weights": "{\"21171\": 43.23, \"21009\": 32.32, \"21003\": 24.45}",
+    "county_names_all": "Monroe|Barren|Allen",
+    "county_fips_all": "21171|21009|21003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 81064,
+    "lat": 37.24593,
+    "lng": -102.99753,
+    "city": "Pritchett",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 304.0,
+    "density": 0.2,
+    "county_fips": 8009,
+    "county_name": "Baca",
+    "county_weights": "{\"08009\": 80.62, \"08071\": 19.38}",
+    "county_names_all": "Baca|Las Animas",
+    "county_fips_all": "08009|08071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

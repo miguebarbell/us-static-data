@@ -1,0 +1,20 @@
+{
+    "zip": 28523,
+    "lat": 35.20662,
+    "lng": -77.29541,
+    "city": "Cove City",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2710.0,
+    "density": 16.0,
+    "county_fips": 37049,
+    "county_name": "Craven",
+    "county_weights": "{\"37049\": 100}",
+    "county_names_all": "Craven",
+    "county_fips_all": "37049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

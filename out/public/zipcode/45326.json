@@ -1,0 +1,20 @@
+{
+    "zip": 45326,
+    "lat": 40.14201,
+    "lng": -84.09039,
+    "city": "Fletcher",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1509.0,
+    "density": 24.9,
+    "county_fips": 39109,
+    "county_name": "Miami",
+    "county_weights": "{\"39109\": 100}",
+    "county_names_all": "Miami",
+    "county_fips_all": "39109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

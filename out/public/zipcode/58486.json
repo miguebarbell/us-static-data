@@ -1,0 +1,20 @@
+{
+    "zip": 58486,
+    "lat": 47.39421,
+    "lng": -99.39279,
+    "city": "Sykeston",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 145.0,
+    "density": 0.4,
+    "county_fips": 38103,
+    "county_name": "Wells",
+    "county_weights": "{\"38103\": 79.88, \"38093\": 20.12}",
+    "county_names_all": "Wells|Stutsman",
+    "county_fips_all": "38103|38093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

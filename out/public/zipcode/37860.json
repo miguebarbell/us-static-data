@@ -1,0 +1,20 @@
+{
+    "zip": 37860,
+    "lat": 36.24492,
+    "lng": -83.18441,
+    "city": "Russellville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3739.0,
+    "density": 60.0,
+    "county_fips": 47063,
+    "county_name": "Hamblen",
+    "county_weights": "{\"47063\": 100}",
+    "county_names_all": "Hamblen",
+    "county_fips_all": "47063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

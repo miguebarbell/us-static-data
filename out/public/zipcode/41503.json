@@ -1,0 +1,20 @@
+{
+    "zip": 41503,
+    "lat": 37.66079,
+    "lng": -82.28446,
+    "city": "South Williamson",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 301.0,
+    "density": 49.5,
+    "county_fips": 21195,
+    "county_name": "Pike",
+    "county_weights": "{\"21195\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "21195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 45727,
+    "lat": 39.64495,
+    "lng": -81.48171,
+    "city": "Dexter City",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 909.0,
+    "density": 11.1,
+    "county_fips": 39121,
+    "county_name": "Noble",
+    "county_weights": "{\"39121\": 96.67, \"39167\": 3.33}",
+    "county_names_all": "Noble|Washington",
+    "county_fips_all": "39121|39167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

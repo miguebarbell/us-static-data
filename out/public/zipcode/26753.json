@@ -1,0 +1,20 @@
+{
+    "zip": 26753,
+    "lat": 39.56017,
+    "lng": -78.79026,
+    "city": "Ridgeley",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5858.0,
+    "density": 87.7,
+    "county_fips": 54057,
+    "county_name": "Mineral",
+    "county_weights": "{\"54057\": 100}",
+    "county_names_all": "Mineral",
+    "county_fips_all": "54057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

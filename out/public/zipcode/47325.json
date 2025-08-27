@@ -1,0 +1,20 @@
+{
+    "zip": 47325,
+    "lat": 39.69395,
+    "lng": -85.01834,
+    "city": "Brownsville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 578.0,
+    "density": 10.1,
+    "county_fips": 18161,
+    "county_name": "Union",
+    "county_weights": "{\"18161\": 71.02, \"18041\": 17.78, \"18177\": 11.2}",
+    "county_names_all": "Union|Fayette|Wayne",
+    "county_fips_all": "18161|18041|18177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

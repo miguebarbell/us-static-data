@@ -1,0 +1,20 @@
+{
+    "zip": 41181,
+    "lat": 38.20758,
+    "lng": -82.87425,
+    "city": "Willard",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 80.0,
+    "density": 16.1,
+    "county_fips": 21043,
+    "county_name": "Carter",
+    "county_weights": "{\"21043\": 100}",
+    "county_names_all": "Carter",
+    "county_fips_all": "21043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

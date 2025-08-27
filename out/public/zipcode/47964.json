@@ -1,0 +1,20 @@
+{
+    "zip": 47964,
+    "lat": 40.9523,
+    "lng": -87.2996,
+    "city": "Mount Ayr",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 93.0,
+    "density": 239.7,
+    "county_fips": 18111,
+    "county_name": "Newton",
+    "county_weights": "{\"18111\": 100}",
+    "county_names_all": "Newton",
+    "county_fips_all": "18111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

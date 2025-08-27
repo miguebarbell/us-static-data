@@ -1,0 +1,20 @@
+{
+    "zip": 24282,
+    "lat": 36.82159,
+    "lng": -83.05533,
+    "city": "Saint Charles",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 796.0,
+    "density": 20.0,
+    "county_fips": 51105,
+    "county_name": "Lee",
+    "county_weights": "{\"51105\": 100}",
+    "county_names_all": "Lee",
+    "county_fips_all": "51105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 41004,
+    "lat": 38.65549,
+    "lng": -84.10134,
+    "city": "Brooksville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4105.0,
+    "density": 14.1,
+    "county_fips": 21023,
+    "county_name": "Bracken",
+    "county_weights": "{\"21023\": 93.73, \"21201\": 5.86, \"21191\": 0.41}",
+    "county_names_all": "Bracken|Robertson|Pendleton",
+    "county_fips_all": "21023|21201|21191",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

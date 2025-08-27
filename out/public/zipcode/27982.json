@@ -1,0 +1,20 @@
+{
+    "zip": 27982,
+    "lat": 35.5635,
+    "lng": -75.46466,
+    "city": "Waves",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 138.0,
+    "density": 80.6,
+    "county_fips": 37055,
+    "county_name": "Dare",
+    "county_weights": "{\"37055\": 100}",
+    "county_names_all": "Dare",
+    "county_fips_all": "37055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

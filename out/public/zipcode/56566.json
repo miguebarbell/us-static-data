@@ -1,0 +1,20 @@
+{
+    "zip": 56566,
+    "lat": 47.24724,
+    "lng": -95.61322,
+    "city": "Naytahwaush",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 594.0,
+    "density": 17.3,
+    "county_fips": 27087,
+    "county_name": "Mahnomen",
+    "county_weights": "{\"27087\": 100}",
+    "county_names_all": "Mahnomen",
+    "county_fips_all": "27087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

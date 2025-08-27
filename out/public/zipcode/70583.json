@@ -1,0 +1,20 @@
+{
+    "zip": 70583,
+    "lat": 30.25846,
+    "lng": -92.12204,
+    "city": "Scott",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8670.0,
+    "density": 118.0,
+    "county_fips": 22055,
+    "county_name": "Lafayette",
+    "county_weights": "{\"22055\": 85.52, \"22001\": 14.48}",
+    "county_names_all": "Lafayette|Acadia",
+    "county_fips_all": "22055|22001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

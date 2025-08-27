@@ -1,0 +1,20 @@
+{
+    "zip": 50169,
+    "lat": 41.65617,
+    "lng": -93.35062,
+    "city": "Mitchellville",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3532.0,
+    "density": 29.9,
+    "county_fips": 19153,
+    "county_name": "Polk",
+    "county_weights": "{\"19153\": 56.08, \"19099\": 43.92}",
+    "county_names_all": "Polk|Jasper",
+    "county_fips_all": "19153|19099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

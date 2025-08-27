@@ -1,0 +1,20 @@
+{
+    "zip": 60969,
+    "lat": 41.11101,
+    "lng": -88.14975,
+    "city": "Union Hill",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 66.0,
+    "density": 99.9,
+    "county_fips": 17091,
+    "county_name": "Kankakee",
+    "county_weights": "{\"17091\": 100}",
+    "county_names_all": "Kankakee",
+    "county_fips_all": "17091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

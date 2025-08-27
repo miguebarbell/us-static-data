@@ -1,0 +1,20 @@
+{
+    "zip": 2043,
+    "lat": 42.21678,
+    "lng": -70.88494,
+    "city": "Hingham",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24185.0,
+    "density": 421.0,
+    "county_fips": 25023,
+    "county_name": "Plymouth",
+    "county_weights": "{\"25023\": 100}",
+    "county_names_all": "Plymouth",
+    "county_fips_all": "25023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43064,
+    "lat": 40.09819,
+    "lng": -83.28863,
+    "city": "Plain City",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17829.0,
+    "density": 66.4,
+    "county_fips": 39097,
+    "county_name": "Madison",
+    "county_weights": "{\"39097\": 56.33, \"39159\": 43.38, \"39049\": 0.29}",
+    "county_names_all": "Madison|Union|Franklin",
+    "county_fips_all": "39097|39159|39049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

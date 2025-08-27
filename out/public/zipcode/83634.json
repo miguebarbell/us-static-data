@@ -1,0 +1,20 @@
+{
+    "zip": 83634,
+    "lat": 43.44824,
+    "lng": -116.33287,
+    "city": "Kuna",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35506.0,
+    "density": 87.8,
+    "county_fips": 16001,
+    "county_name": "Ada",
+    "county_weights": "{\"16001\": 95.19, \"16027\": 4.81}",
+    "county_names_all": "Ada|Canyon",
+    "county_fips_all": "16001|16027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

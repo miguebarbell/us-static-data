@@ -1,0 +1,20 @@
+{
+    "zip": 28733,
+    "lat": 35.43536,
+    "lng": -83.78403,
+    "city": "Fontana Dam",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 55.0,
+    "density": 1.7,
+    "county_fips": 37075,
+    "county_name": "Graham",
+    "county_weights": "{\"37075\": 100}",
+    "county_names_all": "Graham",
+    "county_fips_all": "37075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

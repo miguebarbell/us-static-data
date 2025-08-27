@@ -1,0 +1,20 @@
+{
+    "zip": 39358,
+    "lat": 32.83317,
+    "lng": -88.45605,
+    "city": "Scooba",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1123.0,
+    "density": 2.4,
+    "county_fips": 28069,
+    "county_name": "Kemper",
+    "county_weights": "{\"28069\": 96.25, \"28103\": 3.75}",
+    "county_names_all": "Kemper|Noxubee",
+    "county_fips_all": "28069|28103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

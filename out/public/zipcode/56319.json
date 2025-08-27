@@ -1,0 +1,20 @@
+{
+    "zip": 56319,
+    "lat": 46.00488,
+    "lng": -95.22322,
+    "city": "Carlos",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1336.0,
+    "density": 12.8,
+    "county_fips": 27041,
+    "county_name": "Douglas",
+    "county_weights": "{\"27041\": 80.76, \"27153\": 19.24}",
+    "county_names_all": "Douglas|Todd",
+    "county_fips_all": "27041|27153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

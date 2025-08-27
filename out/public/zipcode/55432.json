@@ -1,0 +1,20 @@
+{
+    "zip": 55432,
+    "lat": 45.09693,
+    "lng": -93.25466,
+    "city": "Minneapolis",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32935.0,
+    "density": 1287.4,
+    "county_fips": 27003,
+    "county_name": "Anoka",
+    "county_weights": "{\"27003\": 99.47, \"27123\": 0.53}",
+    "county_names_all": "Anoka|Ramsey",
+    "county_fips_all": "27003|27123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 47963,
+    "lat": 40.96811,
+    "lng": -87.44371,
+    "city": "Morocco",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2362.0,
+    "density": 8.7,
+    "county_fips": 18111,
+    "county_name": "Newton",
+    "county_weights": "{\"18111\": 100}",
+    "county_names_all": "Newton",
+    "county_fips_all": "18111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

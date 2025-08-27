@@ -1,0 +1,20 @@
+{
+    "zip": 33873,
+    "lat": 27.56181,
+    "lng": -81.77855,
+    "city": "Wauchula",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14162.0,
+    "density": 43.9,
+    "county_fips": 12049,
+    "county_name": "Hardee",
+    "county_weights": "{\"12049\": 100}",
+    "county_names_all": "Hardee",
+    "county_fips_all": "12049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

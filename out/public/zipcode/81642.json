@@ -1,0 +1,20 @@
+{
+    "zip": 81642,
+    "lat": 39.31202,
+    "lng": -106.58448,
+    "city": "Meredith",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12.0,
+    "density": 0.0,
+    "county_fips": 8097,
+    "county_name": "Pitkin",
+    "county_weights": "{\"08097\": 100}",
+    "county_names_all": "Pitkin",
+    "county_fips_all": "08097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 46931,
+    "lat": 40.94693,
+    "lng": -86.26456,
+    "city": "Fulton",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 290.0,
+    "density": 620.5,
+    "county_fips": 18049,
+    "county_name": "Fulton",
+    "county_weights": "{\"18049\": 100}",
+    "county_names_all": "Fulton",
+    "county_fips_all": "18049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

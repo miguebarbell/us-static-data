@@ -1,0 +1,20 @@
+{
+    "zip": 29926,
+    "lat": 32.22936,
+    "lng": -80.74931,
+    "city": "Hilton Head Island",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25174.0,
+    "density": 338.6,
+    "county_fips": 45013,
+    "county_name": "Beaufort",
+    "county_weights": "{\"45013\": 100}",
+    "county_names_all": "Beaufort",
+    "county_fips_all": "45013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

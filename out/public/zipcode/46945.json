@@ -1,0 +1,20 @@
+{
+    "zip": 46945,
+    "lat": 41.1211,
+    "lng": -86.38516,
+    "city": "Leiters Ford",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 18049,
+    "county_name": "Fulton",
+    "county_weights": "{\"18049\": 100}",
+    "county_names_all": "Fulton",
+    "county_fips_all": "18049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

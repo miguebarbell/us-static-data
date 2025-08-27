@@ -1,0 +1,20 @@
+{
+    "zip": 56307,
+    "lat": 45.62666,
+    "lng": -94.58769,
+    "city": "Albany",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5227.0,
+    "density": 19.1,
+    "county_fips": 27145,
+    "county_name": "Stearns",
+    "county_weights": "{\"27145\": 99.31, \"27097\": 0.69}",
+    "county_names_all": "Stearns|Morrison",
+    "county_fips_all": "27145|27097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

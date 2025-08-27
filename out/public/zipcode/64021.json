@@ -1,0 +1,20 @@
+{
+    "zip": 64021,
+    "lat": 39.11498,
+    "lng": -93.624,
+    "city": "Corder",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 675.0,
+    "density": 6.1,
+    "county_fips": 29107,
+    "county_name": "Lafayette",
+    "county_weights": "{\"29107\": 100}",
+    "county_names_all": "Lafayette",
+    "county_fips_all": "29107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

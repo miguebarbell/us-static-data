@@ -1,0 +1,20 @@
+{
+    "zip": 73855,
+    "lat": 36.88481,
+    "lng": -99.85877,
+    "city": "Rosston",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 204.0,
+    "density": 0.5,
+    "county_fips": 40059,
+    "county_name": "Harper",
+    "county_weights": "{\"40059\": 100}",
+    "county_names_all": "Harper",
+    "county_fips_all": "40059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

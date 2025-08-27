@@ -1,0 +1,20 @@
+{
+    "zip": 46567,
+    "lat": 41.41473,
+    "lng": -85.73044,
+    "city": "Syracuse",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9371.0,
+    "density": 63.2,
+    "county_fips": 18085,
+    "county_name": "Kosciusko",
+    "county_weights": "{\"18085\": 65.64, \"18039\": 34.36}",
+    "county_names_all": "Kosciusko|Elkhart",
+    "county_fips_all": "18085|18039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 53520,
+    "lat": 42.60133,
+    "lng": -89.36123,
+    "city": "Brodhead",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6758.0,
+    "density": 21.8,
+    "county_fips": 55105,
+    "county_name": "Rock",
+    "county_weights": "{\"55105\": 53.44, \"55045\": 46.56}",
+    "county_names_all": "Rock|Green",
+    "county_fips_all": "55105|55045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 16057,
+    "lat": 41.03427,
+    "lng": -80.0579,
+    "city": "Slippery Rock",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15264.0,
+    "density": 66.5,
+    "county_fips": 42019,
+    "county_name": "Butler",
+    "county_weights": "{\"42019\": 86.19, \"42073\": 12.69, \"42085\": 1.12}",
+    "county_names_all": "Butler|Lawrence|Mercer",
+    "county_fips_all": "42019|42073|42085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

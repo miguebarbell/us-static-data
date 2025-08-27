@@ -1,0 +1,20 @@
+{
+    "zip": 13144,
+    "lat": 43.57034,
+    "lng": -75.97464,
+    "city": "Richland",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1105.0,
+    "density": 11.5,
+    "county_fips": 36075,
+    "county_name": "Oswego",
+    "county_weights": "{\"36075\": 100}",
+    "county_names_all": "Oswego",
+    "county_fips_all": "36075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

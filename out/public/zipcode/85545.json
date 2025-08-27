@@ -1,0 +1,20 @@
+{
+    "zip": 85545,
+    "lat": 33.53759,
+    "lng": -111.11955,
+    "city": "Roosevelt",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 669.0,
+    "density": 0.7,
+    "county_fips": 4007,
+    "county_name": "Gila",
+    "county_weights": "{\"04007\": 50.78, \"04013\": 49.22}",
+    "county_names_all": "Gila|Maricopa",
+    "county_fips_all": "04007|04013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

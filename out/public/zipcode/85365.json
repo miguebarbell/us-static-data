@@ -1,0 +1,20 @@
+{
+    "zip": 85365,
+    "lat": 33.07067,
+    "lng": -114.13801,
+    "city": "Yuma",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 53149.0,
+    "density": 15.2,
+    "county_fips": 4027,
+    "county_name": "Yuma",
+    "county_weights": "{\"04027\": 100}",
+    "county_names_all": "Yuma",
+    "county_fips_all": "04027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

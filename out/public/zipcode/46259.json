@@ -1,0 +1,20 @@
+{
+    "zip": 46259,
+    "lat": 39.65078,
+    "lng": -85.98692,
+    "city": "Indianapolis",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15049.0,
+    "density": 256.1,
+    "county_fips": 18097,
+    "county_name": "Marion",
+    "county_weights": "{\"18097\": 67.89, \"18081\": 21.67, \"18145\": 10.44}",
+    "county_names_all": "Marion|Johnson|Shelby",
+    "county_fips_all": "18097|18081|18145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

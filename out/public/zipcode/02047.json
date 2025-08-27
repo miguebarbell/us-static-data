@@ -1,0 +1,20 @@
+{
+    "zip": 2047,
+    "lat": 42.14582,
+    "lng": -70.69603,
+    "city": "Humarock",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 142.0,
+    "density": 95.1,
+    "county_fips": 25023,
+    "county_name": "Plymouth",
+    "county_weights": "{\"25023\": 100}",
+    "county_names_all": "Plymouth",
+    "county_fips_all": "25023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 64451,
+    "lat": 39.99067,
+    "lng": -95.20664,
+    "city": "Forest City",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 383.0,
+    "density": 2.6,
+    "county_fips": 29087,
+    "county_name": "Holt",
+    "county_weights": "{\"29087\": 100}",
+    "county_names_all": "Holt",
+    "county_fips_all": "29087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

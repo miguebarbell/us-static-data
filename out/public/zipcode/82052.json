@@ -1,0 +1,20 @@
+{
+    "zip": 82052,
+    "lat": 41.12399,
+    "lng": -105.34802,
+    "city": "Buford",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 86.0,
+    "density": 1.4,
+    "county_fips": 56001,
+    "county_name": "Albany",
+    "county_weights": "{\"56001\": 100}",
+    "county_names_all": "Albany",
+    "county_fips_all": "56001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

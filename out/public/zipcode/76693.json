@@ -1,0 +1,20 @@
+{
+    "zip": 76693,
+    "lat": 31.80977,
+    "lng": -96.43843,
+    "city": "Wortham",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1966.0,
+    "density": 6.5,
+    "county_fips": 48161,
+    "county_name": "Freestone",
+    "county_weights": "{\"48161\": 52.13, \"48349\": 37.62, \"48293\": 10.25}",
+    "county_names_all": "Freestone|Navarro|Limestone",
+    "county_fips_all": "48161|48349|48293",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

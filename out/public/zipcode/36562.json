@@ -1,0 +1,20 @@
+{
+    "zip": 36562,
+    "lat": 31.03738,
+    "lng": -87.66274,
+    "city": "Perdido",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1390.0,
+    "density": 10.8,
+    "county_fips": 1003,
+    "county_name": "Baldwin",
+    "county_weights": "{\"01003\": 94.77, \"01053\": 5.23}",
+    "county_names_all": "Baldwin|Escambia",
+    "county_fips_all": "01003|01053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

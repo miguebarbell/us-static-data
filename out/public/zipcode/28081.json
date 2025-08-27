@@ -1,0 +1,20 @@
+{
+    "zip": 28081,
+    "lat": 35.50199,
+    "lng": -80.67024,
+    "city": "Kannapolis",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29071.0,
+    "density": 370.8,
+    "county_fips": 37025,
+    "county_name": "Cabarrus",
+    "county_weights": "{\"37025\": 50.66, \"37159\": 49.34}",
+    "county_names_all": "Cabarrus|Rowan",
+    "county_fips_all": "37025|37159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

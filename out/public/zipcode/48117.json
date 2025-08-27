@@ -1,0 +1,20 @@
+{
+    "zip": 48117,
+    "lat": 42.04984,
+    "lng": -83.40997,
+    "city": "Carleton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10199.0,
+    "density": 72.8,
+    "county_fips": 26115,
+    "county_name": "Monroe",
+    "county_weights": "{\"26115\": 99.35, \"26163\": 0.65}",
+    "county_names_all": "Monroe|Wayne",
+    "county_fips_all": "26115|26163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

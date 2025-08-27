@@ -1,0 +1,20 @@
+{
+    "zip": 22448,
+    "lat": 38.33996,
+    "lng": -77.03238,
+    "city": "Dahlgren",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 658.0,
+    "density": 62.0,
+    "county_fips": 51099,
+    "county_name": "King George",
+    "county_weights": "{\"51099\": 100}",
+    "county_names_all": "King George",
+    "county_fips_all": "51099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

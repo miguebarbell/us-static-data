@@ -1,0 +1,20 @@
+{
+    "zip": 30525,
+    "lat": 34.91289,
+    "lng": -83.35853,
+    "city": "Clayton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7265.0,
+    "density": 14.2,
+    "county_fips": 13241,
+    "county_name": "Rabun",
+    "county_weights": "{\"13241\": 98.06, \"13281\": 1.94}",
+    "county_names_all": "Rabun|Towns",
+    "county_fips_all": "13241|13281",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

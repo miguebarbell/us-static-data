@@ -1,0 +1,20 @@
+{
+    "zip": 78956,
+    "lat": 29.68322,
+    "lng": -96.93454,
+    "city": "Schulenburg",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5494.0,
+    "density": 12.5,
+    "county_fips": 48149,
+    "county_name": "Fayette",
+    "county_weights": "{\"48149\": 75.02, \"48285\": 24.98}",
+    "county_names_all": "Fayette|Lavaca",
+    "county_fips_all": "48149|48285",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 54530,
+    "lat": 45.53202,
+    "lng": -90.71537,
+    "city": "Hawkins",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 739.0,
+    "density": 2.4,
+    "county_fips": 55107,
+    "county_name": "Rusk",
+    "county_weights": "{\"55107\": 71.32, \"55099\": 24.1, \"55113\": 4.58}",
+    "county_names_all": "Rusk|Price|Sawyer",
+    "county_fips_all": "55107|55099|55113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

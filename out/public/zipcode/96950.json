@@ -1,0 +1,20 @@
+{
+    "zip": 96950,
+    "lat": 15.18888,
+    "lng": 145.75349,
+    "city": "Saipan",
+    "state_id": "MP",
+    "state_name": "Northern Mariana Islands",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": NaN,
+    "density": NaN,
+    "county_fips": 69110,
+    "county_name": "Saipan",
+    "county_weights": "{\"69110\": 100}",
+    "county_names_all": "Saipan",
+    "county_fips_all": "69110",
+    "imprecise": false,
+    "military": false,
+    "timezone": "Pacific/Saipan"
+}

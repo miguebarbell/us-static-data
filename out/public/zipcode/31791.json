@@ -1,0 +1,20 @@
+{
+    "zip": 31791,
+    "lat": 31.53383,
+    "lng": -83.87833,
+    "city": "Sylvester",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11312.0,
+    "density": 20.8,
+    "county_fips": 13321,
+    "county_name": "Worth",
+    "county_weights": "{\"13321\": 99.64, \"13095\": 0.36}",
+    "county_names_all": "Worth|Dougherty",
+    "county_fips_all": "13321|13095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

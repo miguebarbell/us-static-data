@@ -1,0 +1,20 @@
+{
+    "zip": 74825,
+    "lat": 34.80591,
+    "lng": -96.4028,
+    "city": "Allen",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1763.0,
+    "density": 4.4,
+    "county_fips": 40123,
+    "county_name": "Pontotoc",
+    "county_weights": "{\"40123\": 47.93, \"40063\": 33.1, \"40029\": 18.97}",
+    "county_names_all": "Pontotoc|Hughes|Coal",
+    "county_fips_all": "40123|40063|40029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

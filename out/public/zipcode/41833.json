@@ -1,0 +1,20 @@
+{
+    "zip": 41833,
+    "lat": 37.02919,
+    "lng": -82.97323,
+    "city": "Linefork",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 88.0,
+    "density": 1.7,
+    "county_fips": 21133,
+    "county_name": "Letcher",
+    "county_weights": "{\"21133\": 100}",
+    "county_names_all": "Letcher",
+    "county_fips_all": "21133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

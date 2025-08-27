@@ -1,0 +1,20 @@
+{
+    "zip": 89444,
+    "lat": 38.72695,
+    "lng": -119.35101,
+    "city": "Wellington",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3198.0,
+    "density": 5.9,
+    "county_fips": 32019,
+    "county_name": "Lyon",
+    "county_weights": "{\"32019\": 79.05, \"32005\": 20.95}",
+    "county_names_all": "Lyon|Douglas",
+    "county_fips_all": "32019|32005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

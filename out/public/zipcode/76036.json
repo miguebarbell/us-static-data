@@ -1,0 +1,20 @@
+{
+    "zip": 76036,
+    "lat": 32.57366,
+    "lng": -97.41434,
+    "city": "Crowley",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 34145.0,
+    "density": 299.2,
+    "county_fips": 48439,
+    "county_name": "Tarrant",
+    "county_weights": "{\"48439\": 77.98, \"48251\": 22.02}",
+    "county_names_all": "Tarrant|Johnson",
+    "county_fips_all": "48439|48251",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

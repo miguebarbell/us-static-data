@@ -1,0 +1,20 @@
+{
+    "zip": 66024,
+    "lat": 39.76211,
+    "lng": -94.87719,
+    "city": "Elwood",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 684.0,
+    "density": 186.1,
+    "county_fips": 20043,
+    "county_name": "Doniphan",
+    "county_weights": "{\"20043\": 100}",
+    "county_names_all": "Doniphan",
+    "county_fips_all": "20043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

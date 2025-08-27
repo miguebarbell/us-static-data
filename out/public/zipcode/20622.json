@@ -1,0 +1,20 @@
+{
+    "zip": 20622,
+    "lat": 38.45281,
+    "lng": -76.84504,
+    "city": "Charlotte Hall",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5259.0,
+    "density": 55.6,
+    "county_fips": 24017,
+    "county_name": "Charles",
+    "county_weights": "{\"24017\": 83.11, \"24037\": 16.89}",
+    "county_names_all": "Charles|St. Mary's",
+    "county_fips_all": "24017|24037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

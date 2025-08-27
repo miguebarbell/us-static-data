@@ -1,0 +1,20 @@
+{
+    "zip": 88120,
+    "lat": 34.90329,
+    "lng": -103.42523,
+    "city": "Grady",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 283.0,
+    "density": 0.3,
+    "county_fips": 35037,
+    "county_name": "Quay",
+    "county_weights": "{\"35037\": 71.54, \"35009\": 28.46}",
+    "county_names_all": "Quay|Curry",
+    "county_fips_all": "35037|35009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

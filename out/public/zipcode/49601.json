@@ -1,0 +1,20 @@
+{
+    "zip": 49601,
+    "lat": 44.2385,
+    "lng": -85.5211,
+    "city": "Cadillac",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22121.0,
+    "density": 38.8,
+    "county_fips": 26165,
+    "county_name": "Wexford",
+    "county_weights": "{\"26165\": 88.41, \"26085\": 8.68, \"26113\": 2.91}",
+    "county_names_all": "Wexford|Lake|Missaukee",
+    "county_fips_all": "26165|26085|26113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

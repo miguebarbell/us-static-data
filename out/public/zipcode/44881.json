@@ -1,0 +1,20 @@
+{
+    "zip": 44881,
+    "lat": 40.8703,
+    "lng": -82.87687,
+    "city": "Sulphur Springs",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 174.0,
+    "density": 1127.8,
+    "county_fips": 39033,
+    "county_name": "Crawford",
+    "county_weights": "{\"39033\": 100}",
+    "county_names_all": "Crawford",
+    "county_fips_all": "39033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

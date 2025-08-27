@@ -1,0 +1,20 @@
+{
+    "zip": 30710,
+    "lat": 34.95002,
+    "lng": -84.91993,
+    "city": "Cohutta",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7725.0,
+    "density": 63.8,
+    "county_fips": 13313,
+    "county_name": "Whitfield",
+    "county_weights": "{\"13313\": 99.79, \"13047\": 0.21}",
+    "county_names_all": "Whitfield|Catoosa",
+    "county_fips_all": "13313|13047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

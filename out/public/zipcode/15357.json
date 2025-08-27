@@ -1,0 +1,20 @@
+{
+    "zip": 15357,
+    "lat": 39.93721,
+    "lng": -79.98153,
+    "city": "Rices Landing",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1704.0,
+    "density": 83.3,
+    "county_fips": 42059,
+    "county_name": "Greene",
+    "county_weights": "{\"42059\": 100}",
+    "county_names_all": "Greene",
+    "county_fips_all": "42059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

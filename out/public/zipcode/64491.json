@@ -1,0 +1,20 @@
+{
+    "zip": 64491,
+    "lat": 40.44868,
+    "lng": -95.34499,
+    "city": "Tarkio",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1642.0,
+    "density": 5.5,
+    "county_fips": 29005,
+    "county_name": "Atchison",
+    "county_weights": "{\"29005\": 100}",
+    "county_names_all": "Atchison",
+    "county_fips_all": "29005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

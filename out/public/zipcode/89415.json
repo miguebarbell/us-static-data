@@ -1,0 +1,20 @@
+{
+    "zip": 89415,
+    "lat": 38.50993,
+    "lng": -118.77958,
+    "city": "Hawthorne",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3357.0,
+    "density": 3.4,
+    "county_fips": 32021,
+    "county_name": "Mineral",
+    "county_weights": "{\"32021\": 100}",
+    "county_names_all": "Mineral",
+    "county_fips_all": "32021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

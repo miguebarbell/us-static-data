@@ -1,0 +1,20 @@
+{
+    "zip": 45055,
+    "lat": 39.45701,
+    "lng": -84.51094,
+    "city": "Overpeck",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 97.0,
+    "density": 163.2,
+    "county_fips": 39017,
+    "county_name": "Butler",
+    "county_weights": "{\"39017\": 100}",
+    "county_names_all": "Butler",
+    "county_fips_all": "39017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

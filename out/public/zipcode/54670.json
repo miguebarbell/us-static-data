@@ -1,0 +1,20 @@
+{
+    "zip": 54670,
+    "lat": 43.83802,
+    "lng": -90.48273,
+    "city": "Wilton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2060.0,
+    "density": 15.1,
+    "county_fips": 55081,
+    "county_name": "Monroe",
+    "county_weights": "{\"55081\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "55081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 31045,
+    "lat": 33.28484,
+    "lng": -82.78933,
+    "city": "Jewell",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 63.0,
+    "density": 2.8,
+    "county_fips": 13141,
+    "county_name": "Hancock",
+    "county_weights": "{\"13141\": 75.24, \"13301\": 24.76}",
+    "county_names_all": "Hancock|Warren",
+    "county_fips_all": "13141|13301",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

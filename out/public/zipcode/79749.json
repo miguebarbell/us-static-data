@@ -1,0 +1,20 @@
+{
+    "zip": 79749,
+    "lat": 32.25551,
+    "lng": -101.83419,
+    "city": "Lenorah",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 557.0,
+    "density": 3.8,
+    "county_fips": 48317,
+    "county_name": "Martin",
+    "county_weights": "{\"48317\": 100}",
+    "county_names_all": "Martin",
+    "county_fips_all": "48317",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 50228,
+    "lat": 41.57008,
+    "lng": -93.24154,
+    "city": "Prairie City",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2345.0,
+    "density": 13.1,
+    "county_fips": 19099,
+    "county_name": "Jasper",
+    "county_weights": "{\"19099\": 89.28, \"19125\": 9.8, \"19153\": 0.92}",
+    "county_names_all": "Jasper|Marion|Polk",
+    "county_fips_all": "19099|19125|19153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

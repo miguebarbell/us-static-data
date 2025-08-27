@@ -1,0 +1,20 @@
+{
+    "zip": 13775,
+    "lat": 42.33706,
+    "lng": -75.14728,
+    "city": "Franklin",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1839.0,
+    "density": 14.6,
+    "county_fips": 36025,
+    "county_name": "Delaware",
+    "county_weights": "{\"36025\": 98.26, \"36077\": 1.74}",
+    "county_names_all": "Delaware|Otsego",
+    "county_fips_all": "36025|36077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

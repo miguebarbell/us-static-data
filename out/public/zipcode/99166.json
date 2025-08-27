@@ -1,0 +1,20 @@
+{
+    "zip": 99166,
+    "lat": 48.61033,
+    "lng": -118.6715,
+    "city": "Republic",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2879.0,
+    "density": 2.3,
+    "county_fips": 53019,
+    "county_name": "Ferry",
+    "county_weights": "{\"53019\": 98.47, \"53047\": 1.53}",
+    "county_names_all": "Ferry|Okanogan",
+    "county_fips_all": "53019|53047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 52359,
+    "lat": 41.35428,
+    "lng": -91.81006,
+    "city": "West Chester",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 344.0,
+    "density": 9.6,
+    "county_fips": 19183,
+    "county_name": "Washington",
+    "county_weights": "{\"19183\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "19183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

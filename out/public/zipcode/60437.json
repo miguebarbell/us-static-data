@@ -1,0 +1,20 @@
+{
+    "zip": 60437,
+    "lat": 41.16168,
+    "lng": -88.54981,
+    "city": "Kinsman",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 103.0,
+    "density": 2.1,
+    "county_fips": 17063,
+    "county_name": "Grundy",
+    "county_weights": "{\"17063\": 99.83, \"17105\": 0.17}",
+    "county_names_all": "Grundy|Livingston",
+    "county_fips_all": "17063|17105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

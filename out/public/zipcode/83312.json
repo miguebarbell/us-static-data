@@ -1,0 +1,20 @@
+{
+    "zip": 83312,
+    "lat": 42.10296,
+    "lng": -113.6319,
+    "city": "Almo",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 152.0,
+    "density": 0.6,
+    "county_fips": 16031,
+    "county_name": "Cassia",
+    "county_weights": "{\"16031\": 100}",
+    "county_names_all": "Cassia",
+    "county_fips_all": "16031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

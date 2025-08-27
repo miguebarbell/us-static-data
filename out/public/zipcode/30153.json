@@ -1,0 +1,20 @@
+{
+    "zip": 30153,
+    "lat": 33.96678,
+    "lng": -85.05425,
+    "city": "Rockmart",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18006.0,
+    "density": 56.4,
+    "county_fips": 13233,
+    "county_name": "Polk",
+    "county_weights": "{\"13233\": 70.91, \"13223\": 19.95, \"13143\": 9.14}",
+    "county_names_all": "Polk|Paulding|Haralson",
+    "county_fips_all": "13233|13223|13143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

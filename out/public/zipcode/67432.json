@@ -1,0 +1,20 @@
+{
+    "zip": 67432,
+    "lat": 39.33503,
+    "lng": -97.17997,
+    "city": "Clay Center",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5536.0,
+    "density": 5.9,
+    "county_fips": 20027,
+    "county_name": "Clay",
+    "county_weights": "{\"20027\": 90.24, \"20143\": 9.37, \"20161\": 0.39}",
+    "county_names_all": "Clay|Ottawa|Riley",
+    "county_fips_all": "20027|20143|20161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

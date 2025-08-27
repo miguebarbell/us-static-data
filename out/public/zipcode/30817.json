@@ -1,0 +1,20 @@
+{
+    "zip": 30817,
+    "lat": 33.7746,
+    "lng": -82.43469,
+    "city": "Lincolnton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7742.0,
+    "density": 15.6,
+    "county_fips": 13181,
+    "county_name": "Lincoln",
+    "county_weights": "{\"13181\": 98.35, \"13317\": 1.65}",
+    "county_names_all": "Lincoln|Wilkes",
+    "county_fips_all": "13181|13317",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

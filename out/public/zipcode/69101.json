@@ -1,0 +1,20 @@
+{
+    "zip": 69101,
+    "lat": 41.1502,
+    "lng": -100.80319,
+    "city": "North Platte",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27572.0,
+    "density": 18.2,
+    "county_fips": 31111,
+    "county_name": "Lincoln",
+    "county_weights": "{\"31111\": 94.1, \"31117\": 5.9}",
+    "county_names_all": "Lincoln|McPherson",
+    "county_fips_all": "31111|31117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 78959,
+    "lat": 29.69877,
+    "lng": -97.30153,
+    "city": "Waelder",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1401.0,
+    "density": 3.7,
+    "county_fips": 48177,
+    "county_name": "Gonzales",
+    "county_weights": "{\"48177\": 79.82, \"48149\": 16.44, \"48055\": 2.66, \"48021\": 1.08}",
+    "county_names_all": "Gonzales|Fayette|Caldwell|Bastrop",
+    "county_fips_all": "48177|48149|48055|48021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

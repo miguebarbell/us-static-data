@@ -1,0 +1,20 @@
+{
+    "zip": 16652,
+    "lat": 40.51692,
+    "lng": -77.95302,
+    "city": "Huntingdon",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15858.0,
+    "density": 35.3,
+    "county_fips": 42061,
+    "county_name": "Huntingdon",
+    "county_weights": "{\"42061\": 100}",
+    "county_names_all": "Huntingdon",
+    "county_fips_all": "42061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 82435,
+    "lat": 44.82409,
+    "lng": -109.0348,
+    "city": "Powell",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12259.0,
+    "density": 6.1,
+    "county_fips": 56029,
+    "county_name": "Park",
+    "county_weights": "{\"56029\": 95.53, \"56003\": 4.47}",
+    "county_names_all": "Park|Big Horn",
+    "county_fips_all": "56029|56003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

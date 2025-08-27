@@ -1,0 +1,20 @@
+{
+    "zip": 49333,
+    "lat": 42.69546,
+    "lng": -85.46343,
+    "city": "Middleville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12448.0,
+    "density": 60.7,
+    "county_fips": 26015,
+    "county_name": "Barry",
+    "county_weights": "{\"26015\": 96.51, \"26081\": 2.26, \"26005\": 1.23}",
+    "county_names_all": "Barry|Kent|Allegan",
+    "county_fips_all": "26015|26081|26005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

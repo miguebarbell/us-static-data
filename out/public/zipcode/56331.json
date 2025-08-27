@@ -1,0 +1,20 @@
+{
+    "zip": 56331,
+    "lat": 45.67926,
+    "lng": -94.6742,
+    "city": "Freeport",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2176.0,
+    "density": 12.1,
+    "county_fips": 27145,
+    "county_name": "Stearns",
+    "county_weights": "{\"27145\": 98.89, \"27097\": 1.11}",
+    "county_names_all": "Stearns|Morrison",
+    "county_fips_all": "27145|27097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

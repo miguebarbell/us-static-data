@@ -1,0 +1,20 @@
+{
+    "zip": 28097,
+    "lat": 35.29675,
+    "lng": -80.39327,
+    "city": "Locust",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7976.0,
+    "density": 102.3,
+    "county_fips": 37167,
+    "county_name": "Stanly",
+    "county_weights": "{\"37167\": 98.05, \"37025\": 1.95}",
+    "county_names_all": "Stanly|Cabarrus",
+    "county_fips_all": "37167|37025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

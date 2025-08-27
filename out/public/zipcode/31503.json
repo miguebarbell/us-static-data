@@ -1,0 +1,20 @@
+{
+    "zip": 31503,
+    "lat": 31.17687,
+    "lng": -82.40173,
+    "city": "Waycross",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23173.0,
+    "density": 26.5,
+    "county_fips": 13299,
+    "county_name": "Ware",
+    "county_weights": "{\"13299\": 91.34, \"13025\": 7.94, \"13229\": 0.72}",
+    "county_names_all": "Ware|Brantley|Pierce",
+    "county_fips_all": "13299|13025|13229",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 73548,
+    "lat": 34.21427,
+    "lng": -98.13818,
+    "city": "Hastings",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 421.0,
+    "density": 2.7,
+    "county_fips": 40033,
+    "county_name": "Cotton",
+    "county_weights": "{\"40033\": 46.0, \"40067\": 43.54, \"40137\": 10.45}",
+    "county_names_all": "Cotton|Jefferson|Stephens",
+    "county_fips_all": "40033|40067|40137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

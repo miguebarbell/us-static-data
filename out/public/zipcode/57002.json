@@ -1,0 +1,20 @@
+{
+    "zip": 57002,
+    "lat": 44.28785,
+    "lng": -96.67752,
+    "city": "Aurora",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1615.0,
+    "density": 9.8,
+    "county_fips": 46011,
+    "county_name": "Brookings",
+    "county_weights": "{\"46011\": 92.4, \"46101\": 7.6}",
+    "county_names_all": "Brookings|Moody",
+    "county_fips_all": "46011|46101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

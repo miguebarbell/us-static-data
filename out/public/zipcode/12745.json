@@ -1,0 +1,20 @@
+{
+    "zip": 12745,
+    "lat": 41.78503,
+    "lng": -75.02633,
+    "city": "Hortonville",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6.0,
+    "density": 1.9,
+    "county_fips": 36105,
+    "county_name": "Sullivan",
+    "county_weights": "{\"36105\": 100}",
+    "county_names_all": "Sullivan",
+    "county_fips_all": "36105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 21875,
+    "lat": 38.44038,
+    "lng": -75.54559,
+    "city": "Delmar",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7455.0,
+    "density": 118.1,
+    "county_fips": 24045,
+    "county_name": "Wicomico",
+    "county_weights": "{\"24045\": 100}",
+    "county_names_all": "Wicomico",
+    "county_fips_all": "24045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

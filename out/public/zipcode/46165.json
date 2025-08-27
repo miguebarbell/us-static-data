@@ -1,0 +1,20 @@
+{
+    "zip": 46165,
+    "lat": 39.84522,
+    "lng": -86.64716,
+    "city": "North Salem",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2060.0,
+    "density": 19.0,
+    "county_fips": 18063,
+    "county_name": "Hendricks",
+    "county_weights": "{\"18063\": 96.4, \"18133\": 3.6}",
+    "county_names_all": "Hendricks|Putnam",
+    "county_fips_all": "18063|18133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

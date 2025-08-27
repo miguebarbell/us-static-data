@@ -1,0 +1,20 @@
+{
+    "zip": 27341,
+    "lat": 35.52467,
+    "lng": -79.70014,
+    "city": "Seagrove",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4201.0,
+    "density": 17.0,
+    "county_fips": 37151,
+    "county_name": "Randolph",
+    "county_weights": "{\"37151\": 63.49, \"37125\": 28.68, \"37123\": 7.83}",
+    "county_names_all": "Randolph|Moore|Montgomery",
+    "county_fips_all": "37151|37125|37123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

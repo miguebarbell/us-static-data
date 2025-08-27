@@ -1,0 +1,20 @@
+{
+    "zip": 21042,
+    "lat": 39.27105,
+    "lng": -76.8924,
+    "city": "Ellicott City",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43021.0,
+    "density": 448.9,
+    "county_fips": 24027,
+    "county_name": "Howard",
+    "county_weights": "{\"24027\": 100}",
+    "county_names_all": "Howard",
+    "county_fips_all": "24027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

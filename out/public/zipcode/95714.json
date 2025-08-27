@@ -1,0 +1,20 @@
+{
+    "zip": 95714,
+    "lat": 39.2013,
+    "lng": -120.83677,
+    "city": "Dutch Flat",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 383.0,
+    "density": 41.1,
+    "county_fips": 6061,
+    "county_name": "Placer",
+    "county_weights": "{\"06061\": 100}",
+    "county_names_all": "Placer",
+    "county_fips_all": "06061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

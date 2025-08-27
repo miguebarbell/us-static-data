@@ -1,0 +1,20 @@
+{
+    "zip": 71423,
+    "lat": 31.60012,
+    "lng": -92.56341,
+    "city": "Dry Prong",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5058.0,
+    "density": 15.0,
+    "county_fips": 22043,
+    "county_name": "Grant",
+    "county_weights": "{\"22043\": 96.5, \"22079\": 3.5}",
+    "county_names_all": "Grant|Rapides",
+    "county_fips_all": "22043|22079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

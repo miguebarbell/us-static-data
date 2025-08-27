@@ -1,0 +1,20 @@
+{
+    "zip": 30607,
+    "lat": 34.01895,
+    "lng": -83.44774,
+    "city": "Athens",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11220.0,
+    "density": 116.5,
+    "county_fips": 13157,
+    "county_name": "Jackson",
+    "county_weights": "{\"13157\": 62.9, \"13059\": 37.1}",
+    "county_names_all": "Jackson|Clarke",
+    "county_fips_all": "13157|13059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

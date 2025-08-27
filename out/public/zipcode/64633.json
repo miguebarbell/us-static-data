@@ -1,0 +1,20 @@
+{
+    "zip": 64633,
+    "lat": 39.35951,
+    "lng": -93.48171,
+    "city": "Carrollton",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4504.0,
+    "density": 7.3,
+    "county_fips": 29033,
+    "county_name": "Carroll",
+    "county_weights": "{\"29033\": 100}",
+    "county_names_all": "Carroll",
+    "county_fips_all": "29033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

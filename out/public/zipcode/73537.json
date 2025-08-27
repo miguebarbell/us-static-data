@@ -1,0 +1,20 @@
+{
+    "zip": 73537,
+    "lat": 34.46994,
+    "lng": -99.67189,
+    "city": "Eldorado",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 503.0,
+    "density": 1.3,
+    "county_fips": 40065,
+    "county_name": "Jackson",
+    "county_weights": "{\"40065\": 80.25, \"40057\": 19.75}",
+    "county_names_all": "Jackson|Harmon",
+    "county_fips_all": "40065|40057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

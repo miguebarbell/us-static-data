@@ -1,0 +1,20 @@
+{
+    "zip": 43502,
+    "lat": 41.53181,
+    "lng": -84.30201,
+    "city": "Archbold",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6916.0,
+    "density": 36.7,
+    "county_fips": 39051,
+    "county_name": "Fulton",
+    "county_weights": "{\"39051\": 77.62, \"39069\": 20.19, \"39171\": 2.19}",
+    "county_names_all": "Fulton|Henry|Williams",
+    "county_fips_all": "39051|39069|39171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

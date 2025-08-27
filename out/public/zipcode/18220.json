@@ -1,0 +1,20 @@
+{
+    "zip": 18220,
+    "lat": 40.83958,
+    "lng": -76.07509,
+    "city": "Delano",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 184.0,
+    "density": 56.1,
+    "county_fips": 42107,
+    "county_name": "Schuylkill",
+    "county_weights": "{\"42107\": 100}",
+    "county_names_all": "Schuylkill",
+    "county_fips_all": "42107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

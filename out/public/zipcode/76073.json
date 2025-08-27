@@ -1,0 +1,20 @@
+{
+    "zip": 76073,
+    "lat": 33.10416,
+    "lng": -97.72571,
+    "city": "Paradise",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7267.0,
+    "density": 33.4,
+    "county_fips": 48497,
+    "county_name": "Wise",
+    "county_weights": "{\"48497\": 100}",
+    "county_names_all": "Wise",
+    "county_fips_all": "48497",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

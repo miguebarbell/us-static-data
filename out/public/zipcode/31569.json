@@ -1,0 +1,20 @@
+{
+    "zip": 31569,
+    "lat": 30.90167,
+    "lng": -81.68249,
+    "city": "Woodbine",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4998.0,
+    "density": 25.0,
+    "county_fips": 13039,
+    "county_name": "Camden",
+    "county_weights": "{\"13039\": 100}",
+    "county_names_all": "Camden",
+    "county_fips_all": "13039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

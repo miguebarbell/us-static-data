@@ -1,0 +1,20 @@
+{
+    "zip": 77477,
+    "lat": 29.62625,
+    "lng": -95.56718,
+    "city": "Stafford",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32722.0,
+    "density": 1238.0,
+    "county_fips": 48157,
+    "county_name": "Fort Bend",
+    "county_weights": "{\"48157\": 94.77, \"48201\": 5.23}",
+    "county_names_all": "Fort Bend|Harris",
+    "county_fips_all": "48157|48201",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

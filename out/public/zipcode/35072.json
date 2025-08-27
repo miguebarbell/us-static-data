@@ -1,0 +1,20 @@
+{
+    "zip": 35072,
+    "lat": 33.08985,
+    "lng": -86.06057,
+    "city": "Goodwater",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4725.0,
+    "density": 9.9,
+    "county_fips": 1037,
+    "county_name": "Coosa",
+    "county_weights": "{\"01037\": 46.66, \"01027\": 42.07, \"01123\": 11.11, \"01121\": 0.16}",
+    "county_names_all": "Coosa|Clay|Tallapoosa|Talladega",
+    "county_fips_all": "01037|01027|01123|01121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

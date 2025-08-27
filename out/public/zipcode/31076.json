@@ -1,0 +1,20 @@
+{
+    "zip": 31076,
+    "lat": 32.54709,
+    "lng": -84.10762,
+    "city": "Reynolds",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2775.0,
+    "density": 8.7,
+    "county_fips": 13269,
+    "county_name": "Taylor",
+    "county_weights": "{\"13269\": 69.78, \"13193\": 30.22}",
+    "county_names_all": "Taylor|Macon",
+    "county_fips_all": "13269|13193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

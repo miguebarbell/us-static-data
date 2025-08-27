@@ -1,0 +1,20 @@
+{
+    "zip": 2568,
+    "lat": 41.44341,
+    "lng": -70.61534,
+    "city": "Vineyard Haven",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8829.0,
+    "density": 265.3,
+    "county_fips": 25007,
+    "county_name": "Dukes",
+    "county_weights": "{\"25007\": 100}",
+    "county_names_all": "Dukes",
+    "county_fips_all": "25007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

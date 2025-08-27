@@ -1,0 +1,20 @@
+{
+    "zip": 36925,
+    "lat": 32.43468,
+    "lng": -88.1791,
+    "city": "York",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3322.0,
+    "density": 8.0,
+    "county_fips": 1119,
+    "county_name": "Sumter",
+    "county_weights": "{\"01119\": 100}",
+    "county_names_all": "Sumter",
+    "county_fips_all": "01119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

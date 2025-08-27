@@ -1,0 +1,20 @@
+{
+    "zip": 75042,
+    "lat": 32.91401,
+    "lng": -96.67466,
+    "city": "Garland",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38040.0,
+    "density": 1924.4,
+    "county_fips": 48113,
+    "county_name": "Dallas",
+    "county_weights": "{\"48113\": 100}",
+    "county_names_all": "Dallas",
+    "county_fips_all": "48113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

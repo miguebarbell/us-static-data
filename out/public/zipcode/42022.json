@@ -1,0 +1,20 @@
+{
+    "zip": 42022,
+    "lat": 37.14593,
+    "lng": -88.94553,
+    "city": "Bandana",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 200.0,
+    "density": 157.1,
+    "county_fips": 21007,
+    "county_name": "Ballard",
+    "county_weights": "{\"21007\": 100}",
+    "county_names_all": "Ballard",
+    "county_fips_all": "21007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

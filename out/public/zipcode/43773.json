@@ -1,0 +1,20 @@
+{
+    "zip": 43773,
+    "lat": 39.98758,
+    "lng": -81.29636,
+    "city": "Quaker City",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2798.0,
+    "density": 10.3,
+    "county_fips": 39059,
+    "county_name": "Guernsey",
+    "county_weights": "{\"39059\": 59.14, \"39121\": 39.41, \"39111\": 1.45}",
+    "county_names_all": "Guernsey|Noble|Monroe",
+    "county_fips_all": "39059|39121|39111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

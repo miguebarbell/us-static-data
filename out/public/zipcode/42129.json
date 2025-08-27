@@ -1,0 +1,20 @@
+{
+    "zip": 42129,
+    "lat": 36.99,
+    "lng": -85.58992,
+    "city": "Edmonton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7044.0,
+    "density": 14.1,
+    "county_fips": 21169,
+    "county_name": "Metcalfe",
+    "county_weights": "{\"21169\": 95.1, \"21001\": 4.9}",
+    "county_names_all": "Metcalfe|Adair",
+    "county_fips_all": "21169|21001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

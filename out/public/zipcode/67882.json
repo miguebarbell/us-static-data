@@ -1,0 +1,20 @@
+{
+    "zip": 67882,
+    "lat": 37.8019,
+    "lng": -99.88505,
+    "city": "Wright",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 107.0,
+    "density": 0.4,
+    "county_fips": 20057,
+    "county_name": "Ford",
+    "county_weights": "{\"20057\": 100}",
+    "county_names_all": "Ford",
+    "county_fips_all": "20057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

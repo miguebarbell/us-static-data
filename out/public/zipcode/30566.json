@@ -1,0 +1,20 @@
+{
+    "zip": 30566,
+    "lat": 34.23747,
+    "lng": -83.89477,
+    "city": "Oakwood",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9168.0,
+    "density": 440.0,
+    "county_fips": 13139,
+    "county_name": "Hall",
+    "county_weights": "{\"13139\": 100}",
+    "county_names_all": "Hall",
+    "county_fips_all": "13139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

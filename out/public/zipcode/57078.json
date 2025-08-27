@@ -1,0 +1,20 @@
+{
+    "zip": 57078,
+    "lat": 42.91782,
+    "lng": -97.44702,
+    "city": "Yankton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20547.0,
+    "density": 71.3,
+    "county_fips": 46135,
+    "county_name": "Yankton",
+    "county_weights": "{\"46135\": 100}",
+    "county_names_all": "Yankton",
+    "county_fips_all": "46135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

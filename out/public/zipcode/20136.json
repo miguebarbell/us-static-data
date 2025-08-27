@@ -1,0 +1,20 @@
+{
+    "zip": 20136,
+    "lat": 38.7374,
+    "lng": -77.55473,
+    "city": "Bristow",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31204.0,
+    "density": 870.8,
+    "county_fips": 51153,
+    "county_name": "Prince William",
+    "county_weights": "{\"51153\": 100}",
+    "county_names_all": "Prince William",
+    "county_fips_all": "51153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

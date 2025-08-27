@@ -1,0 +1,20 @@
+{
+    "zip": 11040,
+    "lat": 40.74572,
+    "lng": -73.67979,
+    "city": "New Hyde Park",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42344.0,
+    "density": 3399.6,
+    "county_fips": 36059,
+    "county_name": "Nassau",
+    "county_weights": "{\"36059\": 96.61, \"36081\": 3.39}",
+    "county_names_all": "Nassau|Queens",
+    "county_fips_all": "36059|36081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

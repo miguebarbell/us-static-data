@@ -1,0 +1,20 @@
+{
+    "zip": 40363,
+    "lat": 38.51439,
+    "lng": -85.00976,
+    "city": "Perry Park",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9.0,
+    "density": 166.5,
+    "county_fips": 21187,
+    "county_name": "Owen",
+    "county_weights": "{\"21187\": 100}",
+    "county_names_all": "Owen",
+    "county_fips_all": "21187",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

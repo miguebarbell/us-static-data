@@ -1,0 +1,20 @@
+{
+    "zip": 60073,
+    "lat": 42.3516,
+    "lng": -88.10597,
+    "city": "Round Lake",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 62000.0,
+    "density": 1296.0,
+    "county_fips": 17097,
+    "county_name": "Lake",
+    "county_weights": "{\"17097\": 100}",
+    "county_names_all": "Lake",
+    "county_fips_all": "17097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

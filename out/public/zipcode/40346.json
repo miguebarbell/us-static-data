@@ -1,0 +1,20 @@
+{
+    "zip": 40346,
+    "lat": 37.98339,
+    "lng": -83.74384,
+    "city": "Means",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 765.0,
+    "density": 15.6,
+    "county_fips": 21165,
+    "county_name": "Menifee",
+    "county_weights": "{\"21165\": 64.08, \"21011\": 20.05, \"21173\": 15.87}",
+    "county_names_all": "Menifee|Bath|Montgomery",
+    "county_fips_all": "21165|21011|21173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 74875,
+    "lat": 35.8751,
+    "lng": -96.95877,
+    "city": "Tryon",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 997.0,
+    "density": 8.2,
+    "county_fips": 40081,
+    "county_name": "Lincoln",
+    "county_weights": "{\"40081\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "40081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72136,
+    "lat": 35.23538,
+    "lng": -92.02129,
+    "city": "Romance",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2519.0,
+    "density": 19.6,
+    "county_fips": 5145,
+    "county_name": "White",
+    "county_weights": "{\"05145\": 100}",
+    "county_names_all": "White",
+    "county_fips_all": "05145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

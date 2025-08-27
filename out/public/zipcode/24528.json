@@ -1,0 +1,20 @@
+{
+    "zip": 24528,
+    "lat": 37.07733,
+    "lng": -78.8777,
+    "city": "Brookneal",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3793.0,
+    "density": 14.7,
+    "county_fips": 51031,
+    "county_name": "Campbell",
+    "county_weights": "{\"51031\": 56.86, \"51037\": 43.14}",
+    "county_names_all": "Campbell|Charlotte",
+    "county_fips_all": "51031|51037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

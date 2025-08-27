@@ -1,0 +1,20 @@
+{
+    "zip": 97630,
+    "lat": 42.29832,
+    "lng": -120.39166,
+    "city": "Lakeview",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5484.0,
+    "density": 2.0,
+    "county_fips": 41037,
+    "county_name": "Lake",
+    "county_weights": "{\"41037\": 100}",
+    "county_names_all": "Lake",
+    "county_fips_all": "41037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

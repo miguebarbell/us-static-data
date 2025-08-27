@@ -1,0 +1,20 @@
+{
+    "zip": 65275,
+    "lat": 39.45935,
+    "lng": -91.99414,
+    "city": "Paris",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2491.0,
+    "density": 5.6,
+    "county_fips": 29137,
+    "county_name": "Monroe",
+    "county_weights": "{\"29137\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "29137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

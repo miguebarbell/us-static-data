@@ -1,0 +1,20 @@
+{
+    "zip": 55749,
+    "lat": 46.44701,
+    "lng": -92.43128,
+    "city": "Holyoke",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 539.0,
+    "density": 2.4,
+    "county_fips": 27017,
+    "county_name": "Carlton",
+    "county_weights": "{\"27017\": 80.17, \"27115\": 19.83}",
+    "county_names_all": "Carlton|Pine",
+    "county_fips_all": "27017|27115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

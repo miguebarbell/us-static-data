@@ -1,0 +1,20 @@
+{
+    "zip": 41465,
+    "lat": 37.72985,
+    "lng": -83.08494,
+    "city": "Salyersville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10539.0,
+    "density": 15.5,
+    "county_fips": 21153,
+    "county_name": "Magoffin",
+    "county_weights": "{\"21153\": 100}",
+    "county_names_all": "Magoffin",
+    "county_fips_all": "21153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

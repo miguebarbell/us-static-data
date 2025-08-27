@@ -1,0 +1,20 @@
+{
+    "zip": 19530,
+    "lat": 40.54012,
+    "lng": -75.77675,
+    "city": "Kutztown",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14896.0,
+    "density": 105.3,
+    "county_fips": 42011,
+    "county_name": "Berks",
+    "county_weights": "{\"42011\": 90.38, \"42077\": 9.62}",
+    "county_names_all": "Berks|Lehigh",
+    "county_fips_all": "42011|42077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 74834,
+    "lat": 35.6961,
+    "lng": -96.87902,
+    "city": "Chandler",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7551.0,
+    "density": 16.3,
+    "county_fips": 40081,
+    "county_name": "Lincoln",
+    "county_weights": "{\"40081\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "40081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

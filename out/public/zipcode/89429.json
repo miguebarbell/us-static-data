@@ -1,0 +1,20 @@
+{
+    "zip": 89429,
+    "lat": 39.36221,
+    "lng": -119.29063,
+    "city": "Silver Springs",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7949.0,
+    "density": 13.0,
+    "county_fips": 32019,
+    "county_name": "Lyon",
+    "county_weights": "{\"32019\": 100}",
+    "county_names_all": "Lyon",
+    "county_fips_all": "32019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 30633,
+    "lat": 34.17896,
+    "lng": -83.24612,
+    "city": "Danielsville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8706.0,
+    "density": 33.8,
+    "county_fips": 13195,
+    "county_name": "Madison",
+    "county_weights": "{\"13195\": 97.79, \"13119\": 1.92, \"13011\": 0.29}",
+    "county_names_all": "Madison|Franklin|Banks",
+    "county_fips_all": "13195|13119|13011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

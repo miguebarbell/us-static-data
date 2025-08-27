@@ -1,0 +1,20 @@
+{
+    "zip": 78830,
+    "lat": 28.53226,
+    "lng": -99.48219,
+    "city": "Big Wells",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 471.0,
+    "density": 1.1,
+    "county_fips": 48127,
+    "county_name": "Dimmit",
+    "county_weights": "{\"48127\": 100}",
+    "county_names_all": "Dimmit",
+    "county_fips_all": "48127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

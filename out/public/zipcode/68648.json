@@ -1,0 +1,20 @@
+{
+    "zip": 68648,
+    "lat": 41.40482,
+    "lng": -96.78949,
+    "city": "Morse Bluff",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 274.0,
+    "density": 2.7,
+    "county_fips": 31155,
+    "county_name": "Saunders",
+    "county_weights": "{\"31155\": 100}",
+    "county_names_all": "Saunders",
+    "county_fips_all": "31155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

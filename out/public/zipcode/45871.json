@@ -1,0 +1,20 @@
+{
+    "zip": 45871,
+    "lat": 40.4932,
+    "lng": -84.30089,
+    "city": "New Knoxville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2091.0,
+    "density": 34.2,
+    "county_fips": 39011,
+    "county_name": "Auglaize",
+    "county_weights": "{\"39011\": 72.45, \"39149\": 27.55}",
+    "county_names_all": "Auglaize|Shelby",
+    "county_fips_all": "39011|39149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

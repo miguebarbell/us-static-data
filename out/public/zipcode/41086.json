@@ -1,0 +1,20 @@
+{
+    "zip": 41086,
+    "lat": 38.69219,
+    "lng": -84.88241,
+    "city": "Sparta",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2126.0,
+    "density": 17.1,
+    "county_fips": 21077,
+    "county_name": "Gallatin",
+    "county_weights": "{\"21077\": 53.64, \"21187\": 46.36}",
+    "county_names_all": "Gallatin|Owen",
+    "county_fips_all": "21077|21187",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

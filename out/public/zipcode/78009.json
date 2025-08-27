@@ -1,0 +1,20 @@
+{
+    "zip": 78009,
+    "lat": 29.36251,
+    "lng": -98.88442,
+    "city": "Castroville",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9494.0,
+    "density": 52.0,
+    "county_fips": 48325,
+    "county_name": "Medina",
+    "county_weights": "{\"48325\": 100}",
+    "county_names_all": "Medina",
+    "county_fips_all": "48325",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

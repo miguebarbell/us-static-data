@@ -1,0 +1,20 @@
+{
+    "zip": 77905,
+    "lat": 28.72789,
+    "lng": -97.0508,
+    "city": "Victoria",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16346.0,
+    "density": 14.7,
+    "county_fips": 48469,
+    "county_name": "Victoria",
+    "county_weights": "{\"48469\": 90.1, \"48175\": 9.9}",
+    "county_names_all": "Victoria|Goliad",
+    "county_fips_all": "48469|48175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

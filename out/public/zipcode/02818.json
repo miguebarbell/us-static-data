@@ -1,0 +1,20 @@
+{
+    "zip": 2818,
+    "lat": 41.64214,
+    "lng": -71.49307,
+    "city": "East Greenwich",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19869.0,
+    "density": 361.4,
+    "county_fips": 44003,
+    "county_name": "Kent",
+    "county_weights": "{\"44003\": 100}",
+    "county_names_all": "Kent",
+    "county_fips_all": "44003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

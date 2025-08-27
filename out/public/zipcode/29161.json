@@ -1,0 +1,20 @@
+{
+    "zip": 29161,
+    "lat": 34.10532,
+    "lng": -79.94143,
+    "city": "Timmonsville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10114.0,
+    "density": 28.9,
+    "county_fips": 45041,
+    "county_name": "Florence",
+    "county_weights": "{\"45041\": 75.74, \"45031\": 24.26}",
+    "county_names_all": "Florence|Darlington",
+    "county_fips_all": "45041|45031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

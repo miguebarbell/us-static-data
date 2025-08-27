@@ -1,0 +1,20 @@
+{
+    "zip": 28759,
+    "lat": 35.38348,
+    "lng": -82.58431,
+    "city": "Mills River",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7564.0,
+    "density": 119.2,
+    "county_fips": 37089,
+    "county_name": "Henderson",
+    "county_weights": "{\"37089\": 98.59, \"37021\": 1.41}",
+    "county_names_all": "Henderson|Buncombe",
+    "county_fips_all": "37089|37021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

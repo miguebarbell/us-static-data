@@ -1,0 +1,20 @@
+{
+    "zip": 83525,
+    "lat": 45.73798,
+    "lng": -115.39367,
+    "city": "Elk City",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 372.0,
+    "density": 0.2,
+    "county_fips": 16049,
+    "county_name": "Idaho",
+    "county_weights": "{\"16049\": 100}",
+    "county_names_all": "Idaho",
+    "county_fips_all": "16049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

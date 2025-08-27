@@ -1,0 +1,20 @@
+{
+    "zip": 7853,
+    "lat": 40.78785,
+    "lng": -74.78315,
+    "city": "Long Valley",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12360.0,
+    "density": 146.7,
+    "county_fips": 34027,
+    "county_name": "Morris",
+    "county_weights": "{\"34027\": 100}",
+    "county_names_all": "Morris",
+    "county_fips_all": "34027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

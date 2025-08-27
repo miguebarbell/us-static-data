@@ -1,0 +1,20 @@
+{
+    "zip": 36256,
+    "lat": 33.04181,
+    "lng": -85.70775,
+    "city": "Daviston",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1422.0,
+    "density": 5.8,
+    "county_fips": 1123,
+    "county_name": "Tallapoosa",
+    "county_weights": "{\"01123\": 96.07, \"01027\": 3.93}",
+    "county_names_all": "Tallapoosa|Clay",
+    "county_fips_all": "01123|01027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

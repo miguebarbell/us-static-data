@@ -1,0 +1,20 @@
+{
+    "zip": 63655,
+    "lat": 37.39312,
+    "lng": -90.20552,
+    "city": "Marquand",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1431.0,
+    "density": 3.6,
+    "county_fips": 29123,
+    "county_name": "Madison",
+    "county_weights": "{\"29123\": 65.75, \"29017\": 22.26, \"29223\": 11.99}",
+    "county_names_all": "Madison|Bollinger|Wayne",
+    "county_fips_all": "29123|29017|29223",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 44720,
+    "lat": 40.90112,
+    "lng": -81.43259,
+    "city": "North Canton",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39656.0,
+    "density": 445.9,
+    "county_fips": 39151,
+    "county_name": "Stark",
+    "county_weights": "{\"39151\": 72.22, \"39153\": 27.78}",
+    "county_names_all": "Stark|Summit",
+    "county_fips_all": "39151|39153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

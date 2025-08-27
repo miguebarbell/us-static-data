@@ -1,0 +1,20 @@
+{
+    "zip": 41605,
+    "lat": 37.55498,
+    "lng": -82.63009,
+    "city": "Betsy Layne",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 546.0,
+    "density": 64.7,
+    "county_fips": 21071,
+    "county_name": "Floyd",
+    "county_weights": "{\"21071\": 72.77, \"21195\": 27.23}",
+    "county_names_all": "Floyd|Pike",
+    "county_fips_all": "21071|21195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

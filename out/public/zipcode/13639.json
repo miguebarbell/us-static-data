@@ -1,0 +1,20 @@
+{
+    "zip": 13639,
+    "lat": 44.2594,
+    "lng": -75.14324,
+    "city": "Fine",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23.0,
+    "density": 2.6,
+    "county_fips": 36089,
+    "county_name": "St. Lawrence",
+    "county_weights": "{\"36089\": 100}",
+    "county_names_all": "St. Lawrence",
+    "county_fips_all": "36089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

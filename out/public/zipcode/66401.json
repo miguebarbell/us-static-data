@@ -1,0 +1,20 @@
+{
+    "zip": 66401,
+    "lat": 38.96894,
+    "lng": -96.30539,
+    "city": "Alma",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1928.0,
+    "density": 3.1,
+    "county_fips": 20197,
+    "county_name": "Wabaunsee",
+    "county_weights": "{\"20197\": 100}",
+    "county_names_all": "Wabaunsee",
+    "county_fips_all": "20197",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

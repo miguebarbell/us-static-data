@@ -1,0 +1,20 @@
+{
+    "zip": 81071,
+    "lat": 38.44838,
+    "lng": -102.2816,
+    "city": "Sheridan Lake",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 299.0,
+    "density": 0.2,
+    "county_fips": 8061,
+    "county_name": "Kiowa",
+    "county_weights": "{\"08061\": 100}",
+    "county_names_all": "Kiowa",
+    "county_fips_all": "08061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

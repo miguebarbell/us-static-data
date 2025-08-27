@@ -1,0 +1,20 @@
+{
+    "zip": 74047,
+    "lat": 35.85522,
+    "lng": -96.02583,
+    "city": "Mounds",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7451.0,
+    "density": 29.2,
+    "county_fips": 40111,
+    "county_name": "Okmulgee",
+    "county_weights": "{\"40111\": 55.65, \"40143\": 24.44, \"40037\": 19.91}",
+    "county_names_all": "Okmulgee|Tulsa|Creek",
+    "county_fips_all": "40111|40143|40037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

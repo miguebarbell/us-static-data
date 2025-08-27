@@ -1,0 +1,20 @@
+{
+    "zip": 6801,
+    "lat": 41.37468,
+    "lng": -73.39275,
+    "city": "Bethel",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20498.0,
+    "density": 467.9,
+    "county_fips": 9190,
+    "county_name": "Western Connecticut",
+    "county_weights": "{\"09190\": 100}",
+    "county_names_all": "Western Connecticut",
+    "county_fips_all": "09190",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

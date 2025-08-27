@@ -1,0 +1,20 @@
+{
+    "zip": 61081,
+    "lat": 41.84425,
+    "lng": -89.73613,
+    "city": "Sterling",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20916.0,
+    "density": 64.9,
+    "county_fips": 17195,
+    "county_name": "Whiteside",
+    "county_weights": "{\"17195\": 94.54, \"17103\": 5.46}",
+    "county_names_all": "Whiteside|Lee",
+    "county_fips_all": "17195|17103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

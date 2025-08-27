@@ -1,0 +1,20 @@
+{
+    "zip": 60961,
+    "lat": 41.10611,
+    "lng": -88.23098,
+    "city": "Reddick",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 928.0,
+    "density": 9.4,
+    "county_fips": 17091,
+    "county_name": "Kankakee",
+    "county_weights": "{\"17091\": 68.54, \"17105\": 26.03, \"17063\": 5.43}",
+    "county_names_all": "Kankakee|Livingston|Grundy",
+    "county_fips_all": "17091|17105|17063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

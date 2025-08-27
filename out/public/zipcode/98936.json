@@ -1,0 +1,20 @@
+{
+    "zip": 98936,
+    "lat": 46.53597,
+    "lng": -120.15391,
+    "city": "Moxee",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8898.0,
+    "density": 24.8,
+    "county_fips": 53077,
+    "county_name": "Yakima",
+    "county_weights": "{\"53077\": 100}",
+    "county_names_all": "Yakima",
+    "county_fips_all": "53077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

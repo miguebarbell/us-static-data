@@ -1,0 +1,20 @@
+{
+    "zip": 48041,
+    "lat": 42.93861,
+    "lng": -82.80271,
+    "city": "Memphis",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4385.0,
+    "density": 42.3,
+    "county_fips": 26147,
+    "county_name": "St. Clair",
+    "county_weights": "{\"26147\": 96.79, \"26099\": 3.21}",
+    "county_names_all": "St. Clair|Macomb",
+    "county_fips_all": "26147|26099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

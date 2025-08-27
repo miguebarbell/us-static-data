@@ -1,0 +1,20 @@
+{
+    "zip": 92254,
+    "lat": 33.54371,
+    "lng": -115.99995,
+    "city": "Mecca",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10779.0,
+    "density": 86.9,
+    "county_fips": 6065,
+    "county_name": "Riverside",
+    "county_weights": "{\"06065\": 100}",
+    "county_names_all": "Riverside",
+    "county_fips_all": "06065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 25419,
+    "lat": 39.58286,
+    "lng": -77.88493,
+    "city": "Falling Waters",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12850.0,
+    "density": 283.7,
+    "county_fips": 54003,
+    "county_name": "Berkeley",
+    "county_weights": "{\"54003\": 100}",
+    "county_names_all": "Berkeley",
+    "county_fips_all": "54003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

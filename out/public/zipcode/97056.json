@@ -1,0 +1,20 @@
+{
+    "zip": 97056,
+    "lat": 45.78935,
+    "lng": -122.96941,
+    "city": "Scappoose",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12794.0,
+    "density": 44.6,
+    "county_fips": 41009,
+    "county_name": "Columbia",
+    "county_weights": "{\"41009\": 85.2, \"41067\": 10.6, \"41051\": 4.2}",
+    "county_names_all": "Columbia|Washington|Multnomah",
+    "county_fips_all": "41009|41067|41051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

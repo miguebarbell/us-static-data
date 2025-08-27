@@ -1,0 +1,20 @@
+{
+    "zip": 95634,
+    "lat": 38.9123,
+    "lng": -120.69443,
+    "city": "Georgetown",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3792.0,
+    "density": 12.3,
+    "county_fips": 6017,
+    "county_name": "El Dorado",
+    "county_weights": "{\"06017\": 100}",
+    "county_names_all": "El Dorado",
+    "county_fips_all": "06017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

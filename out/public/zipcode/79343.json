@@ -1,0 +1,20 @@
+{
+    "zip": 79343,
+    "lat": 33.65096,
+    "lng": -101.54459,
+    "city": "Lorenzo",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1309.0,
+    "density": 3.9,
+    "county_fips": 48107,
+    "county_name": "Crosby",
+    "county_weights": "{\"48107\": 63.82, \"48303\": 36.18}",
+    "county_names_all": "Crosby|Lubbock",
+    "county_fips_all": "48107|48303",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

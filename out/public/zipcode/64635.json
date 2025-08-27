@@ -1,0 +1,20 @@
+{
+    "zip": 64635,
+    "lat": 39.93943,
+    "lng": -93.43632,
+    "city": "Chula",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 410.0,
+    "density": 2.5,
+    "county_fips": 29117,
+    "county_name": "Livingston",
+    "county_weights": "{\"29117\": 74.47, \"29115\": 15.46, \"29079\": 10.07}",
+    "county_names_all": "Livingston|Linn|Grundy",
+    "county_fips_all": "29117|29115|29079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

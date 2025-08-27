@@ -1,0 +1,20 @@
+{
+    "zip": 64854,
+    "lat": 36.54369,
+    "lng": -94.44144,
+    "city": "Noel",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4867.0,
+    "density": 25.3,
+    "county_fips": 29119,
+    "county_name": "McDonald",
+    "county_weights": "{\"29119\": 100}",
+    "county_names_all": "McDonald",
+    "county_fips_all": "29119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

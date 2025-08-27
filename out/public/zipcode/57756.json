@@ -1,0 +1,20 @@
+{
+    "zip": 57756,
+    "lat": 43.23729,
+    "lng": -102.47544,
+    "city": "Manderson",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 922.0,
+    "density": 5.4,
+    "county_fips": 46102,
+    "county_name": "Oglala Lakota",
+    "county_weights": "{\"46102\": 100}",
+    "county_names_all": "Oglala Lakota",
+    "county_fips_all": "46102",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

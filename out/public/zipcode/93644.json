@@ -1,0 +1,20 @@
+{
+    "zip": 93644,
+    "lat": 37.41245,
+    "lng": -119.59431,
+    "city": "Oakhurst",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6490.0,
+    "density": 21.4,
+    "county_fips": 6039,
+    "county_name": "Madera",
+    "county_weights": "{\"06039\": 100}",
+    "county_names_all": "Madera",
+    "county_fips_all": "06039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

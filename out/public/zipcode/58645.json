@@ -1,0 +1,20 @@
+{
+    "zip": 58645,
+    "lat": 46.95845,
+    "lng": -103.52945,
+    "city": "Medora",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 269.0,
+    "density": 0.2,
+    "county_fips": 38007,
+    "county_name": "Billings",
+    "county_weights": "{\"38007\": 92.08, \"38033\": 7.92}",
+    "county_names_all": "Billings|Golden Valley",
+    "county_fips_all": "38007|38033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

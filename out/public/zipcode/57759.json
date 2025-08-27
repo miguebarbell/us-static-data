@@ -1,0 +1,20 @@
+{
+    "zip": 57759,
+    "lat": 44.2202,
+    "lng": -103.55373,
+    "city": "Nemo",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 393.0,
+    "density": 2.8,
+    "county_fips": 46081,
+    "county_name": "Lawrence",
+    "county_weights": "{\"46081\": 100}",
+    "county_names_all": "Lawrence",
+    "county_fips_all": "46081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

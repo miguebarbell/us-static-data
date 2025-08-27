@@ -1,0 +1,20 @@
+{
+    "zip": 32751,
+    "lat": 28.631,
+    "lng": -81.36457,
+    "city": "Maitland",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22853.0,
+    "density": 1257.1,
+    "county_fips": 12095,
+    "county_name": "Orange",
+    "county_weights": "{\"12095\": 76.68, \"12117\": 23.32}",
+    "county_names_all": "Orange|Seminole",
+    "county_fips_all": "12095|12117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

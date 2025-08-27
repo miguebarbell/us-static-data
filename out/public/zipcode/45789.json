@@ -1,0 +1,20 @@
+{
+    "zip": 45789,
+    "lat": 39.5514,
+    "lng": -81.25592,
+    "city": "Wingett Run",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 177.0,
+    "density": 4.9,
+    "county_fips": 39167,
+    "county_name": "Washington",
+    "county_weights": "{\"39167\": 89.94, \"39111\": 10.06}",
+    "county_names_all": "Washington|Monroe",
+    "county_fips_all": "39167|39111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

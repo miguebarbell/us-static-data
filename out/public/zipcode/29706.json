@@ -1,0 +1,20 @@
+{
+    "zip": 29706,
+    "lat": 34.71773,
+    "lng": -81.23055,
+    "city": "Chester",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19181.0,
+    "density": 27.6,
+    "county_fips": 45023,
+    "county_name": "Chester",
+    "county_weights": "{\"45023\": 99.68, \"45091\": 0.32}",
+    "county_names_all": "Chester|York",
+    "county_fips_all": "45023|45091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49961,
+    "lat": 46.50667,
+    "lng": -88.74358,
+    "city": "Sidnaw",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 137.0,
+    "density": 0.8,
+    "county_fips": 26061,
+    "county_name": "Houghton",
+    "county_weights": "{\"26061\": 100}",
+    "county_names_all": "Houghton",
+    "county_fips_all": "26061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

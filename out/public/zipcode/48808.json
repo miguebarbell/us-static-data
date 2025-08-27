@@ -1,0 +1,20 @@
+{
+    "zip": 48808,
+    "lat": 42.82591,
+    "lng": -84.45081,
+    "city": "Bath",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6424.0,
+    "density": 103.0,
+    "county_fips": 26037,
+    "county_name": "Clinton",
+    "county_weights": "{\"26037\": 100}",
+    "county_names_all": "Clinton",
+    "county_fips_all": "26037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

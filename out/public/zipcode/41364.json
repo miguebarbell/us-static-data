@@ -1,0 +1,20 @@
+{
+    "zip": 41364,
+    "lat": 37.37569,
+    "lng": -83.64172,
+    "city": "Ricetown",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 76.0,
+    "density": 2.0,
+    "county_fips": 21189,
+    "county_name": "Owsley",
+    "county_weights": "{\"21189\": 100}",
+    "county_names_all": "Owsley",
+    "county_fips_all": "21189",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 66720,
+    "lat": 37.64631,
+    "lng": -95.459,
+    "city": "Chanute",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10913.0,
+    "density": 21.2,
+    "county_fips": 20133,
+    "county_name": "Neosho",
+    "county_weights": "{\"20133\": 71.58, \"20205\": 24.14, \"20001\": 3.03, \"20207\": 1.25}",
+    "county_names_all": "Neosho|Wilson|Allen|Woodson",
+    "county_fips_all": "20133|20205|20001|20207",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

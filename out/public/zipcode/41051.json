@@ -1,0 +1,20 @@
+{
+    "zip": 41051,
+    "lat": 38.93233,
+    "lng": -84.54451,
+    "city": "Independence",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32192.0,
+    "density": 412.4,
+    "county_fips": 21117,
+    "county_name": "Kenton",
+    "county_weights": "{\"21117\": 100}",
+    "county_names_all": "Kenton",
+    "county_fips_all": "21117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

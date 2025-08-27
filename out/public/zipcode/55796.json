@@ -1,0 +1,20 @@
+{
+    "zip": 55796,
+    "lat": 47.92905,
+    "lng": -91.79732,
+    "city": "Winton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 113.0,
+    "density": 199.1,
+    "county_fips": 27075,
+    "county_name": "Lake",
+    "county_weights": "{\"27075\": 56.68, \"27137\": 43.32}",
+    "county_names_all": "Lake|St. Louis",
+    "county_fips_all": "27075|27137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

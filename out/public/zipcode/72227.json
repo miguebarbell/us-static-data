@@ -1,0 +1,20 @@
+{
+    "zip": 72227,
+    "lat": 34.7782,
+    "lng": -92.37498,
+    "city": "Little Rock",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11800.0,
+    "density": 1210.7,
+    "county_fips": 5119,
+    "county_name": "Pulaski",
+    "county_weights": "{\"05119\": 100}",
+    "county_names_all": "Pulaski",
+    "county_fips_all": "05119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

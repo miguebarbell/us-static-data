@@ -1,0 +1,20 @@
+{
+    "zip": 83342,
+    "lat": 42.15014,
+    "lng": -113.22915,
+    "city": "Malta",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1584.0,
+    "density": 0.5,
+    "county_fips": 16031,
+    "county_name": "Cassia",
+    "county_weights": "{\"16031\": 65.43, \"16071\": 21.35, \"49003\": 13.22}",
+    "county_names_all": "Cassia|Oneida|Box Elder",
+    "county_fips_all": "16031|16071|49003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72434,
+    "lat": 36.21847,
+    "lng": -91.16025,
+    "city": "Imboden",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2206.0,
+    "density": 9.8,
+    "county_fips": 5121,
+    "county_name": "Randolph",
+    "county_weights": "{\"05121\": 68.13, \"05075\": 31.87}",
+    "county_names_all": "Randolph|Lawrence",
+    "county_fips_all": "05121|05075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

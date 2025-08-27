@@ -1,0 +1,20 @@
+{
+    "zip": 68944,
+    "lat": 40.63741,
+    "lng": -98.0949,
+    "city": "Harvard",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1230.0,
+    "density": 4.4,
+    "county_fips": 31035,
+    "county_name": "Clay",
+    "county_weights": "{\"31035\": 89.34, \"31081\": 10.66}",
+    "county_names_all": "Clay|Hamilton",
+    "county_fips_all": "31035|31081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

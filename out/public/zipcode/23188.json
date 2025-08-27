@@ -1,0 +1,20 @@
+{
+    "zip": 23188,
+    "lat": 37.33849,
+    "lng": -76.74925,
+    "city": "Williamsburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 45342.0,
+    "density": 180.0,
+    "county_fips": 51095,
+    "county_name": "James City",
+    "county_weights": "{\"51095\": 70.69, \"51199\": 28.22, \"51830\": 1.09}",
+    "county_names_all": "James City|York|Williamsburg",
+    "county_fips_all": "51095|51199|51830",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

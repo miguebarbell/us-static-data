@@ -1,0 +1,20 @@
+{
+    "zip": 76426,
+    "lat": 33.16493,
+    "lng": -97.83772,
+    "city": "Bridgeport",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11065.0,
+    "density": 32.6,
+    "county_fips": 48497,
+    "county_name": "Wise",
+    "county_weights": "{\"48497\": 87.94, \"48237\": 12.06}",
+    "county_names_all": "Wise|Jack",
+    "county_fips_all": "48497|48237",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

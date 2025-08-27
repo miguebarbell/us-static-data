@@ -1,0 +1,20 @@
+{
+    "zip": 97389,
+    "lat": 44.53269,
+    "lng": -123.09028,
+    "city": "Tangent",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1706.0,
+    "density": 18.5,
+    "county_fips": 41043,
+    "county_name": "Linn",
+    "county_weights": "{\"41043\": 100}",
+    "county_names_all": "Linn",
+    "county_fips_all": "41043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

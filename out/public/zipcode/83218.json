@@ -1,0 +1,20 @@
+{
+    "zip": 83218,
+    "lat": 43.31803,
+    "lng": -112.16453,
+    "city": "Basalt",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 520.0,
+    "density": 444.3,
+    "county_fips": 16011,
+    "county_name": "Bingham",
+    "county_weights": "{\"16011\": 100}",
+    "county_names_all": "Bingham",
+    "county_fips_all": "16011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

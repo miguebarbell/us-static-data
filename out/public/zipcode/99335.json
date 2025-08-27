@@ -1,0 +1,20 @@
+{
+    "zip": 99335,
+    "lat": 46.65544,
+    "lng": -118.47686,
+    "city": "Kahlotus",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 229.0,
+    "density": 0.6,
+    "county_fips": 53021,
+    "county_name": "Franklin",
+    "county_weights": "{\"53021\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "53021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

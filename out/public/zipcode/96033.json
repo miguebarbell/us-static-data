@@ -1,0 +1,20 @@
+{
+    "zip": 96033,
+    "lat": 40.75076,
+    "lng": -122.60004,
+    "city": "French Gulch",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 245.0,
+    "density": 0.7,
+    "county_fips": 6089,
+    "county_name": "Shasta",
+    "county_weights": "{\"06089\": 100}",
+    "county_names_all": "Shasta",
+    "county_fips_all": "06089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

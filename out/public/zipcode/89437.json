@@ -1,0 +1,20 @@
+{
+    "zip": 89437,
+    "lat": 39.50101,
+    "lng": -119.46864,
+    "city": "Sparks",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 32029,
+    "county_name": "Storey",
+    "county_weights": "{\"32029\": 100}",
+    "county_names_all": "Storey",
+    "county_fips_all": "32029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 45696,
+    "lat": 38.60356,
+    "lng": -82.45201,
+    "city": "Willow Wood",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 951.0,
+    "density": 10.6,
+    "county_fips": 39087,
+    "county_name": "Lawrence",
+    "county_weights": "{\"39087\": 100}",
+    "county_names_all": "Lawrence",
+    "county_fips_all": "39087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

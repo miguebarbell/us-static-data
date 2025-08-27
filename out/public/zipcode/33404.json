@@ -1,0 +1,20 @@
+{
+    "zip": 33404,
+    "lat": 26.78248,
+    "lng": -80.06567,
+    "city": "West Palm Beach",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30533.0,
+    "density": 1615.7,
+    "county_fips": 12099,
+    "county_name": "Palm Beach",
+    "county_weights": "{\"12099\": 100}",
+    "county_names_all": "Palm Beach",
+    "county_fips_all": "12099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 82083,
+    "lat": 41.72291,
+    "lng": -105.99118,
+    "city": "Rock River",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 326.0,
+    "density": 0.5,
+    "county_fips": 56001,
+    "county_name": "Albany",
+    "county_weights": "{\"56001\": 65.36, \"56007\": 34.64}",
+    "county_names_all": "Albany|Carbon",
+    "county_fips_all": "56001|56007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 95901,
+    "lat": 39.2225,
+    "lng": -121.48855,
+    "city": "Marysville",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36807.0,
+    "density": 71.0,
+    "county_fips": 6115,
+    "county_name": "Yuba",
+    "county_weights": "{\"06115\": 96.97, \"06007\": 3.03}",
+    "county_names_all": "Yuba|Butte",
+    "county_fips_all": "06115|06007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

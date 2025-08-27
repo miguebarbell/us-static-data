@@ -1,0 +1,20 @@
+{
+    "zip": 27936,
+    "lat": 35.24224,
+    "lng": -75.60547,
+    "city": "Frisco",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 613.0,
+    "density": 45.4,
+    "county_fips": 37055,
+    "county_name": "Dare",
+    "county_weights": "{\"37055\": 100}",
+    "county_names_all": "Dare",
+    "county_fips_all": "37055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

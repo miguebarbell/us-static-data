@@ -1,0 +1,20 @@
+{
+    "zip": 38370,
+    "lat": 35.38942,
+    "lng": -88.2465,
+    "city": "Saltillo",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1048.0,
+    "density": 18.6,
+    "county_fips": 47071,
+    "county_name": "Hardin",
+    "county_weights": "{\"47071\": 88.4, \"47077\": 11.5, \"47039\": 0.1}",
+    "county_names_all": "Hardin|Henderson|Decatur",
+    "county_fips_all": "47071|47077|47039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

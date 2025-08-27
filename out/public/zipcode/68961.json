@@ -1,0 +1,20 @@
+{
+    "zip": 68961,
+    "lat": 40.20679,
+    "lng": -98.03502,
+    "city": "Nelson",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 615.0,
+    "density": 1.8,
+    "county_fips": 31129,
+    "county_name": "Nuckolls",
+    "county_weights": "{\"31129\": 100}",
+    "county_names_all": "Nuckolls",
+    "county_fips_all": "31129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

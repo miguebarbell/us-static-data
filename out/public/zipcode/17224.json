@@ -1,0 +1,20 @@
+{
+    "zip": 17224,
+    "lat": 39.9723,
+    "lng": -77.89195,
+    "city": "Fort Loudon",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1731.0,
+    "density": 16.9,
+    "county_fips": 42055,
+    "county_name": "Franklin",
+    "county_weights": "{\"42055\": 94.99, \"42057\": 5.01}",
+    "county_names_all": "Franklin|Fulton",
+    "county_fips_all": "42055|42057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

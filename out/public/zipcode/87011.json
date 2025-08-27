@@ -1,0 +1,20 @@
+{
+    "zip": 87011,
+    "lat": 34.08236,
+    "lng": -105.97225,
+    "city": "Claunch",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5.0,
+    "density": 0.0,
+    "county_fips": 35053,
+    "county_name": "Socorro",
+    "county_weights": "{\"35053\": 72.29, \"35027\": 27.71}",
+    "county_names_all": "Socorro|Lincoln",
+    "county_fips_all": "35053|35027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 68701,
+    "lat": 42.02024,
+    "lng": -97.44099,
+    "city": "Norfolk",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31172.0,
+    "density": 63.8,
+    "county_fips": 31119,
+    "county_name": "Madison",
+    "county_weights": "{\"31119\": 68.93, \"31167\": 18.85, \"31139\": 12.22}",
+    "county_names_all": "Madison|Stanton|Pierce",
+    "county_fips_all": "31119|31167|31139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

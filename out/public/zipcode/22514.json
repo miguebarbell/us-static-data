@@ -1,0 +1,20 @@
+{
+    "zip": 22514,
+    "lat": 37.9724,
+    "lng": -77.24471,
+    "city": "Milford",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2397.0,
+    "density": 12.0,
+    "county_fips": 51033,
+    "county_name": "Caroline",
+    "county_weights": "{\"51033\": 97.63, \"51097\": 2.37}",
+    "county_names_all": "Caroline|King and Queen",
+    "county_fips_all": "51033|51097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

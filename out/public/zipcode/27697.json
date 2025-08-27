@@ -1,0 +1,20 @@
+{
+    "zip": 27697,
+    "lat": 35.7788,
+    "lng": -78.62297,
+    "city": "Raleigh",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 37183,
+    "county_name": "Wake",
+    "county_weights": "{\"37183\": 100}",
+    "county_names_all": "Wake",
+    "county_fips_all": "37183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

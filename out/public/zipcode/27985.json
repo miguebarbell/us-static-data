@@ -1,0 +1,20 @@
+{
+    "zip": 27985,
+    "lat": 36.22085,
+    "lng": -76.46928,
+    "city": "Winfall",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 326.0,
+    "density": 479.1,
+    "county_fips": 37143,
+    "county_name": "Perquimans",
+    "county_weights": "{\"37143\": 100}",
+    "county_names_all": "Perquimans",
+    "county_fips_all": "37143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

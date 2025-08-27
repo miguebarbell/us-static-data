@@ -1,0 +1,20 @@
+{
+    "zip": 45656,
+    "lat": 38.87565,
+    "lng": -82.59143,
+    "city": "Oak Hill",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6812.0,
+    "density": 19.7,
+    "county_fips": 39079,
+    "county_name": "Jackson",
+    "county_weights": "{\"39079\": 73.44, \"39053\": 14.93, \"39087\": 10.82, \"39145\": 0.81}",
+    "county_names_all": "Jackson|Gallia|Lawrence|Scioto",
+    "county_fips_all": "39079|39053|39087|39145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

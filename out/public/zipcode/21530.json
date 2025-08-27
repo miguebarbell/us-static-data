@@ -1,0 +1,20 @@
+{
+    "zip": 21530,
+    "lat": 39.68878,
+    "lng": -78.54138,
+    "city": "Flintstone",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1481.0,
+    "density": 9.4,
+    "county_fips": 24001,
+    "county_name": "Allegany",
+    "county_weights": "{\"24001\": 100}",
+    "county_names_all": "Allegany",
+    "county_fips_all": "24001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 74021,
+    "lat": 36.37915,
+    "lng": -95.84758,
+    "city": "Collinsville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23504.0,
+    "density": 135.4,
+    "county_fips": 40143,
+    "county_name": "Tulsa",
+    "county_weights": "{\"40143\": 66.23, \"40131\": 18.92, \"40147\": 14.85}",
+    "county_names_all": "Tulsa|Rogers|Washington",
+    "county_fips_all": "40143|40131|40147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 75662,
+    "lat": 32.38076,
+    "lng": -94.87503,
+    "city": "Kilgore",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24570.0,
+    "density": 74.8,
+    "county_fips": 48183,
+    "county_name": "Gregg",
+    "county_weights": "{\"48183\": 52.8, \"48401\": 39.5, \"48423\": 7.7}",
+    "county_names_all": "Gregg|Rusk|Smith",
+    "county_fips_all": "48183|48401|48423",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

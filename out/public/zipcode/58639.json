@@ -1,0 +1,20 @@
+{
+    "zip": 58639,
+    "lat": 46.04056,
+    "lng": -102.63905,
+    "city": "Hettinger",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1715.0,
+    "density": 1.2,
+    "county_fips": 38001,
+    "county_name": "Adams",
+    "county_weights": "{\"38001\": 78.81, \"46105\": 21.19}",
+    "county_names_all": "Adams|Perkins",
+    "county_fips_all": "38001|46105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

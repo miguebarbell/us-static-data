@@ -1,0 +1,20 @@
+{
+    "zip": 56627,
+    "lat": 48.1953,
+    "lng": -94.04118,
+    "city": "Big Falls",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 215.0,
+    "density": 0.1,
+    "county_fips": 27071,
+    "county_name": "Koochiching",
+    "county_weights": "{\"27071\": 100}",
+    "county_names_all": "Koochiching",
+    "county_fips_all": "27071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

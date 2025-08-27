@@ -1,0 +1,20 @@
+{
+    "zip": 65616,
+    "lat": 36.67133,
+    "lng": -93.24887,
+    "city": "Branson",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28295.0,
+    "density": 142.9,
+    "county_fips": 29213,
+    "county_name": "Taney",
+    "county_weights": "{\"29213\": 87.73, \"29209\": 12.27}",
+    "county_names_all": "Taney|Stone",
+    "county_fips_all": "29213|29209",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 75670,
+    "lat": 32.56456,
+    "lng": -94.42326,
+    "city": "Marshall",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18549.0,
+    "density": 56.1,
+    "county_fips": 48203,
+    "county_name": "Harrison",
+    "county_weights": "{\"48203\": 100}",
+    "county_names_all": "Harrison",
+    "county_fips_all": "48203",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43925,
+    "lat": 40.44583,
+    "lng": -80.86242,
+    "city": "East Springfield",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 65.0,
+    "density": 120.2,
+    "county_fips": 39081,
+    "county_name": "Jefferson",
+    "county_weights": "{\"39081\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "39081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

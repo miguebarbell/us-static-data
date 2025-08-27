@@ -1,0 +1,20 @@
+{
+    "zip": 54409,
+    "lat": 45.11928,
+    "lng": -89.16909,
+    "city": "Antigo",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12757.0,
+    "density": 23.8,
+    "county_fips": 55067,
+    "county_name": "Langlade",
+    "county_weights": "{\"55067\": 87.82, \"55073\": 8.42, \"55115\": 3.76}",
+    "county_names_all": "Langlade|Marathon|Shawano",
+    "county_fips_all": "55067|55073|55115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

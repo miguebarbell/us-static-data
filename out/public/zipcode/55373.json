@@ -1,0 +1,20 @@
+{
+    "zip": 55373,
+    "lat": 45.08779,
+    "lng": -93.72282,
+    "city": "Rockford",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5725.0,
+    "density": 206.9,
+    "county_fips": 27053,
+    "county_name": "Hennepin",
+    "county_weights": "{\"27053\": 76.78, \"27171\": 23.22}",
+    "county_names_all": "Hennepin|Wright",
+    "county_fips_all": "27053|27171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

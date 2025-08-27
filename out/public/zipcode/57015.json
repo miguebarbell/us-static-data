@@ -1,0 +1,20 @@
+{
+    "zip": 57015,
+    "lat": 43.42182,
+    "lng": -96.98006,
+    "city": "Chancellor",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 815.0,
+    "density": 6.3,
+    "county_fips": 46125,
+    "county_name": "Turner",
+    "county_weights": "{\"46125\": 97.97, \"46099\": 2.03}",
+    "county_names_all": "Turner|Minnehaha",
+    "county_fips_all": "46125|46099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

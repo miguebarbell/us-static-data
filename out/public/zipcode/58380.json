@@ -1,0 +1,20 @@
+{
+    "zip": 58380,
+    "lat": 47.82872,
+    "lng": -98.52029,
+    "city": "Tolna",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 399.0,
+    "density": 1.0,
+    "county_fips": 38063,
+    "county_name": "Nelson",
+    "county_weights": "{\"38063\": 51.46, \"38027\": 34.6, \"38005\": 13.94}",
+    "county_names_all": "Nelson|Eddy|Benson",
+    "county_fips_all": "38063|38027|38005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

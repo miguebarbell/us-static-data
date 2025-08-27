@@ -1,0 +1,20 @@
+{
+    "zip": 64659,
+    "lat": 39.78138,
+    "lng": -93.29224,
+    "city": "Meadville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 876.0,
+    "density": 5.1,
+    "county_fips": 29115,
+    "county_name": "Linn",
+    "county_weights": "{\"29115\": 100}",
+    "county_names_all": "Linn",
+    "county_fips_all": "29115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 96025,
+    "lat": 41.20409,
+    "lng": -122.32523,
+    "city": "Dunsmuir",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2150.0,
+    "density": 8.0,
+    "county_fips": 6093,
+    "county_name": "Siskiyou",
+    "county_weights": "{\"06093\": 72.25, \"06089\": 27.75}",
+    "county_names_all": "Siskiyou|Shasta",
+    "county_fips_all": "06093|06089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

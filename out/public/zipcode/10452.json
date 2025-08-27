@@ -1,0 +1,20 @@
+{
+    "zip": 10452,
+    "lat": 40.8378,
+    "lng": -73.92333,
+    "city": "Bronx",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 76745.0,
+    "density": 30167.9,
+    "county_fips": 36005,
+    "county_name": "Bronx",
+    "county_weights": "{\"36005\": 99.79, \"36061\": 0.21}",
+    "county_names_all": "Bronx|New York",
+    "county_fips_all": "36005|36061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

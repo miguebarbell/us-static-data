@@ -1,0 +1,20 @@
+{
+    "zip": 21872,
+    "lat": 38.4163,
+    "lng": -75.29399,
+    "city": "Whaleyville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 675.0,
+    "density": 15.9,
+    "county_fips": 24047,
+    "county_name": "Worcester",
+    "county_weights": "{\"24047\": 100}",
+    "county_names_all": "Worcester",
+    "county_fips_all": "24047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

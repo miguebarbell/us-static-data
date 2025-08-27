@@ -1,0 +1,20 @@
+{
+    "zip": 18407,
+    "lat": 41.59971,
+    "lng": -75.53026,
+    "city": "Carbondale",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14664.0,
+    "density": 136.4,
+    "county_fips": 42069,
+    "county_name": "Lackawanna",
+    "county_weights": "{\"42069\": 92.53, \"42115\": 7.47}",
+    "county_names_all": "Lackawanna|Susquehanna",
+    "county_fips_all": "42069|42115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

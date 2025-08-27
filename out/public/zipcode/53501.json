@@ -1,0 +1,20 @@
+{
+    "zip": 53501,
+    "lat": 42.60484,
+    "lng": -89.07165,
+    "city": "Afton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 147.0,
+    "density": 124.2,
+    "county_fips": 55105,
+    "county_name": "Rock",
+    "county_weights": "{\"55105\": 100}",
+    "county_names_all": "Rock",
+    "county_fips_all": "55105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

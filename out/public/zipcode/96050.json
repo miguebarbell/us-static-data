@@ -1,0 +1,20 @@
+{
+    "zip": 96050,
+    "lat": 41.85389,
+    "lng": -122.95689,
+    "city": "Klamath River",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 369.0,
+    "density": 0.6,
+    "county_fips": 6093,
+    "county_name": "Siskiyou",
+    "county_weights": "{\"06093\": 100}",
+    "county_names_all": "Siskiyou",
+    "county_fips_all": "06093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

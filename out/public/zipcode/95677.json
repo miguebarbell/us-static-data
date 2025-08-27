@@ -1,0 +1,20 @@
+{
+    "zip": 95677,
+    "lat": 38.79298,
+    "lng": -121.23133,
+    "city": "Rocklin",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28873.0,
+    "density": 1146.4,
+    "county_fips": 6061,
+    "county_name": "Placer",
+    "county_weights": "{\"06061\": 100}",
+    "county_names_all": "Placer",
+    "county_fips_all": "06061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

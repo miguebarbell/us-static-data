@@ -1,0 +1,20 @@
+{
+    "zip": 58254,
+    "lat": 47.77111,
+    "lng": -98.14748,
+    "city": "Mcville",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 596.0,
+    "density": 2.1,
+    "county_fips": 38063,
+    "county_name": "Nelson",
+    "county_weights": "{\"38063\": 100}",
+    "county_names_all": "Nelson",
+    "county_fips_all": "38063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

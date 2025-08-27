@@ -1,0 +1,20 @@
+{
+    "zip": 7931,
+    "lat": 40.70791,
+    "lng": -74.65732,
+    "city": "Far Hills",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3271.0,
+    "density": 57.5,
+    "county_fips": 34035,
+    "county_name": "Somerset",
+    "county_weights": "{\"34035\": 75.06, \"34027\": 24.94}",
+    "county_names_all": "Somerset|Morris",
+    "county_fips_all": "34035|34027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

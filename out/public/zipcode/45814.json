@@ -1,0 +1,20 @@
+{
+    "zip": 45814,
+    "lat": 40.90119,
+    "lng": -83.61545,
+    "city": "Arlington",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2580.0,
+    "density": 27.8,
+    "county_fips": 39063,
+    "county_name": "Hancock",
+    "county_weights": "{\"39063\": 100}",
+    "county_names_all": "Hancock",
+    "county_fips_all": "39063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

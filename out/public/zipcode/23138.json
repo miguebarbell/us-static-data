@@ -1,0 +1,20 @@
+{
+    "zip": 23138,
+    "lat": 37.36245,
+    "lng": -76.30062,
+    "city": "Port Haywood",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1066.0,
+    "density": 36.3,
+    "county_fips": 51115,
+    "county_name": "Mathews",
+    "county_weights": "{\"51115\": 100}",
+    "county_names_all": "Mathews",
+    "county_fips_all": "51115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

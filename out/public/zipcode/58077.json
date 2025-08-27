@@ -1,0 +1,20 @@
+{
+    "zip": 58077,
+    "lat": 46.52457,
+    "lng": -96.97593,
+    "city": "Walcott",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 726.0,
+    "density": 2.0,
+    "county_fips": 38077,
+    "county_name": "Richland",
+    "county_weights": "{\"38077\": 100}",
+    "county_names_all": "Richland",
+    "county_fips_all": "38077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

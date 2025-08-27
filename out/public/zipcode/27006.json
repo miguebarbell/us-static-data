@@ -1,0 +1,20 @@
+{
+    "zip": 27006,
+    "lat": 35.94352,
+    "lng": -80.43673,
+    "city": "Advance",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16254.0,
+    "density": 100.0,
+    "county_fips": 37059,
+    "county_name": "Davie",
+    "county_weights": "{\"37059\": 100}",
+    "county_names_all": "Davie",
+    "county_fips_all": "37059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

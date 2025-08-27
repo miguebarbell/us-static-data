@@ -1,0 +1,20 @@
+{
+    "zip": 30101,
+    "lat": 34.04355,
+    "lng": -84.71244,
+    "city": "Acworth",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 62871.0,
+    "density": 592.6,
+    "county_fips": 13067,
+    "county_name": "Cobb",
+    "county_weights": "{\"13067\": 68.58, \"13223\": 25.33, \"13015\": 5.53, \"13057\": 0.56}",
+    "county_names_all": "Cobb|Paulding|Bartow|Cherokee",
+    "county_fips_all": "13067|13223|13015|13057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

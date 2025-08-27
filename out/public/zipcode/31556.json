@@ -1,0 +1,20 @@
+{
+    "zip": 31556,
+    "lat": 31.40508,
+    "lng": -82.1152,
+    "city": "Offerman",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23.0,
+    "density": 80.6,
+    "county_fips": 13229,
+    "county_name": "Pierce",
+    "county_weights": "{\"13229\": 100}",
+    "county_names_all": "Pierce",
+    "county_fips_all": "13229",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

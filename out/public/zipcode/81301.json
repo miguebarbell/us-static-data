@@ -1,0 +1,20 @@
+{
+    "zip": 81301,
+    "lat": 37.51095,
+    "lng": -107.82066,
+    "city": "Durango",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29892.0,
+    "density": 15.3,
+    "county_fips": 8067,
+    "county_name": "La Plata",
+    "county_weights": "{\"08067\": 78.31, \"08111\": 21.69}",
+    "county_names_all": "La Plata|San Juan",
+    "county_fips_all": "08067|08111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

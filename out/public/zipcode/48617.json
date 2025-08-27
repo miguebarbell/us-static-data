@@ -1,0 +1,20 @@
+{
+    "zip": 48617,
+    "lat": 43.84695,
+    "lng": -84.71717,
+    "city": "Clare",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9729.0,
+    "density": 27.3,
+    "county_fips": 26035,
+    "county_name": "Clare",
+    "county_weights": "{\"26035\": 64.86, \"26073\": 35.14}",
+    "county_names_all": "Clare|Isabella",
+    "county_fips_all": "26035|26073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

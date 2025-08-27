@@ -1,0 +1,20 @@
+{
+    "zip": 4680,
+    "lat": 44.50699,
+    "lng": -67.94485,
+    "city": "Steuben",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1233.0,
+    "density": 11.1,
+    "county_fips": 23029,
+    "county_name": "Washington",
+    "county_weights": "{\"23029\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "23029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

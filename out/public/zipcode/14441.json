@@ -1,0 +1,20 @@
+{
+    "zip": 14441,
+    "lat": 42.68608,
+    "lng": -76.95756,
+    "city": "Dresden",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 339.0,
+    "density": 333.1,
+    "county_fips": 36123,
+    "county_name": "Yates",
+    "county_weights": "{\"36123\": 100}",
+    "county_names_all": "Yates",
+    "county_fips_all": "36123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 37601,
+    "lat": 36.32838,
+    "lng": -82.31974,
+    "city": "Johnson City",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38622.0,
+    "density": 312.5,
+    "county_fips": 47179,
+    "county_name": "Washington",
+    "county_weights": "{\"47179\": 53.45, \"47019\": 44.06, \"47171\": 2.49}",
+    "county_names_all": "Washington|Carter|Unicoi",
+    "county_fips_all": "47179|47019|47171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

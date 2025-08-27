@@ -1,0 +1,20 @@
+{
+    "zip": 67664,
+    "lat": 39.81609,
+    "lng": -99.5875,
+    "city": "Prairie View",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 281.0,
+    "density": 1.1,
+    "county_fips": 20147,
+    "county_name": "Phillips",
+    "county_weights": "{\"20147\": 69.01, \"20137\": 30.99}",
+    "county_names_all": "Phillips|Norton",
+    "county_fips_all": "20147|20137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

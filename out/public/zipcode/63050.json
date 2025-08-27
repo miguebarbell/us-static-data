@@ -1,0 +1,20 @@
+{
+    "zip": 63050,
+    "lat": 38.25977,
+    "lng": -90.57628,
+    "city": "Hillsboro",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17681.0,
+    "density": 74.3,
+    "county_fips": 29099,
+    "county_name": "Jefferson",
+    "county_weights": "{\"29099\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "29099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

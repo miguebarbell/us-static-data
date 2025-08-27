@@ -1,0 +1,20 @@
+{
+    "zip": 41301,
+    "lat": 37.72121,
+    "lng": -83.48941,
+    "city": "Campton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5804.0,
+    "density": 10.7,
+    "county_fips": 21237,
+    "county_name": "Wolfe",
+    "county_weights": "{\"21237\": 84.29, \"21025\": 7.93, \"21129\": 7.78}",
+    "county_names_all": "Wolfe|Breathitt|Lee",
+    "county_fips_all": "21237|21025|21129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

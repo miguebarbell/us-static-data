@@ -1,0 +1,20 @@
+{
+    "zip": 5764,
+    "lat": 43.52854,
+    "lng": -73.19401,
+    "city": "Poultney",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3094.0,
+    "density": 26.8,
+    "county_fips": 50021,
+    "county_name": "Rutland",
+    "county_weights": "{\"50021\": 100}",
+    "county_names_all": "Rutland",
+    "county_fips_all": "50021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65707,
+    "lat": 37.22862,
+    "lng": -93.84574,
+    "city": "Miller",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2263.0,
+    "density": 9.2,
+    "county_fips": 29109,
+    "county_name": "Lawrence",
+    "county_weights": "{\"29109\": 100}",
+    "county_names_all": "Lawrence",
+    "county_fips_all": "29109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

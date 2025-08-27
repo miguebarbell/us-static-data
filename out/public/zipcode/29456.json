@@ -1,0 +1,20 @@
+{
+    "zip": 29456,
+    "lat": 32.98433,
+    "lng": -80.11206,
+    "city": "Ladson",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39280.0,
+    "density": 839.6,
+    "county_fips": 45019,
+    "county_name": "Charleston",
+    "county_weights": "{\"45019\": 46.42, \"45015\": 28.85, \"45035\": 24.74}",
+    "county_names_all": "Charleston|Berkeley|Dorchester",
+    "county_fips_all": "45019|45015|45035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 31756,
+    "lat": 31.17558,
+    "lng": -83.96224,
+    "city": "Hartsfield",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1314.0,
+    "density": 11.8,
+    "county_fips": 13071,
+    "county_name": "Colquitt",
+    "county_weights": "{\"13071\": 99.82, \"13205\": 0.18}",
+    "county_names_all": "Colquitt|Mitchell",
+    "county_fips_all": "13071|13205",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

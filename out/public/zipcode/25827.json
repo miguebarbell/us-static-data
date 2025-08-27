@@ -1,0 +1,20 @@
+{
+    "zip": 25827,
+    "lat": 37.73869,
+    "lng": -81.25368,
+    "city": "Crab Orchard",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1851.0,
+    "density": 129.1,
+    "county_fips": 54081,
+    "county_name": "Raleigh",
+    "county_weights": "{\"54081\": 100}",
+    "county_names_all": "Raleigh",
+    "county_fips_all": "54081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

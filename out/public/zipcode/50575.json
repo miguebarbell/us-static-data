@@ -1,0 +1,20 @@
+{
+    "zip": 50575,
+    "lat": 42.5588,
+    "lng": -94.70065,
+    "city": "Pomeroy",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 677.0,
+    "density": 4.2,
+    "county_fips": 19025,
+    "county_name": "Calhoun",
+    "county_weights": "{\"19025\": 53.09, \"19151\": 46.91}",
+    "county_names_all": "Calhoun|Pocahontas",
+    "county_fips_all": "19025|19151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

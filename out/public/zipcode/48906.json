@@ -1,0 +1,20 @@
+{
+    "zip": 48906,
+    "lat": 42.78489,
+    "lng": -84.58886,
+    "city": "Lansing",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25960.0,
+    "density": 308.2,
+    "county_fips": 26037,
+    "county_name": "Clinton",
+    "county_weights": "{\"26037\": 77.23, \"26065\": 17.04, \"26045\": 5.73}",
+    "county_names_all": "Clinton|Ingham|Eaton",
+    "county_fips_all": "26037|26065|26045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

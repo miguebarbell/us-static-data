@@ -1,0 +1,20 @@
+{
+    "zip": 44065,
+    "lat": 41.46308,
+    "lng": -81.24408,
+    "city": "Newbury",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3987.0,
+    "density": 70.4,
+    "county_fips": 39055,
+    "county_name": "Geauga",
+    "county_weights": "{\"39055\": 100}",
+    "county_names_all": "Geauga",
+    "county_fips_all": "39055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

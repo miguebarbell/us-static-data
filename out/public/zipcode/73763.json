@@ -1,0 +1,20 @@
+{
+    "zip": 73763,
+    "lat": 36.10302,
+    "lng": -98.3201,
+    "city": "Okeene",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1746.0,
+    "density": 3.5,
+    "county_fips": 40011,
+    "county_name": "Blaine",
+    "county_weights": "{\"40011\": 74.7, \"40073\": 13.52, \"40093\": 11.78}",
+    "county_names_all": "Blaine|Kingfisher|Major",
+    "county_fips_all": "40011|40073|40093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 68133,
+    "lat": 41.11754,
+    "lng": -96.00292,
+    "city": "Papillion",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13411.0,
+    "density": 336.7,
+    "county_fips": 31153,
+    "county_name": "Sarpy",
+    "county_weights": "{\"31153\": 100}",
+    "county_names_all": "Sarpy",
+    "county_fips_all": "31153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

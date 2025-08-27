@@ -1,0 +1,20 @@
+{
+    "zip": 38233,
+    "lat": 36.20411,
+    "lng": -89.04622,
+    "city": "Kenton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2795.0,
+    "density": 11.6,
+    "county_fips": 47053,
+    "county_name": "Gibson",
+    "county_weights": "{\"47053\": 51.34, \"47131\": 48.66}",
+    "county_names_all": "Gibson|Obion",
+    "county_fips_all": "47053|47131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 35748,
+    "lat": 34.71925,
+    "lng": -86.39036,
+    "city": "Gurley",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7311.0,
+    "density": 36.5,
+    "county_fips": 1089,
+    "county_name": "Madison",
+    "county_weights": "{\"01089\": 92.96, \"01071\": 7.04}",
+    "county_names_all": "Madison|Jackson",
+    "county_fips_all": "01089|01071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

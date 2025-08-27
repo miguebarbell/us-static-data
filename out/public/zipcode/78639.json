@@ -1,0 +1,20 @@
+{
+    "zip": 78639,
+    "lat": 30.65823,
+    "lng": -98.45506,
+    "city": "Kingsland",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8517.0,
+    "density": 74.9,
+    "county_fips": 48299,
+    "county_name": "Llano",
+    "county_weights": "{\"48299\": 81.82, \"48053\": 18.18}",
+    "county_names_all": "Llano|Burnet",
+    "county_fips_all": "48299|48053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

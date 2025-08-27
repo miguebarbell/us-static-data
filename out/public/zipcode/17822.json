@@ -1,0 +1,20 @@
+{
+    "zip": 17822,
+    "lat": 40.96861,
+    "lng": -76.60365,
+    "city": "Danville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 42093,
+    "county_name": "Montour",
+    "county_weights": "{\"42093\": 100}",
+    "county_names_all": "Montour",
+    "county_fips_all": "42093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

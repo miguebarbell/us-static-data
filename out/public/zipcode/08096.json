@@ -1,0 +1,20 @@
+{
+    "zip": 8096,
+    "lat": 39.82921,
+    "lng": -75.12871,
+    "city": "Woodbury",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35896.0,
+    "density": 997.8,
+    "county_fips": 34015,
+    "county_name": "Gloucester",
+    "county_weights": "{\"34015\": 100}",
+    "county_names_all": "Gloucester",
+    "county_fips_all": "34015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

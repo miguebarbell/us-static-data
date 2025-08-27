@@ -1,0 +1,20 @@
+{
+    "zip": 48195,
+    "lat": 42.20472,
+    "lng": -83.20568,
+    "city": "Southgate",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29551.0,
+    "density": 1659.7,
+    "county_fips": 26163,
+    "county_name": "Wayne",
+    "county_weights": "{\"26163\": 100}",
+    "county_names_all": "Wayne",
+    "county_fips_all": "26163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

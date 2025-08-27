@@ -1,0 +1,20 @@
+{
+    "zip": 14070,
+    "lat": 42.43673,
+    "lng": -78.92798,
+    "city": "Gowanda",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5437.0,
+    "density": 41.3,
+    "county_fips": 36009,
+    "county_name": "Cattaraugus",
+    "county_weights": "{\"36009\": 57.85, \"36029\": 42.15}",
+    "county_names_all": "Cattaraugus|Erie",
+    "county_fips_all": "36009|36029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

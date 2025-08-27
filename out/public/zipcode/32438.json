@@ -1,0 +1,20 @@
+{
+    "zip": 32438,
+    "lat": 30.51251,
+    "lng": -85.41744,
+    "city": "Fountain",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4839.0,
+    "density": 32.9,
+    "county_fips": 12005,
+    "county_name": "Bay",
+    "county_weights": "{\"12005\": 77.1, \"12013\": 17.09, \"12063\": 4.6, \"12133\": 1.21}",
+    "county_names_all": "Bay|Calhoun|Jackson|Washington",
+    "county_fips_all": "12005|12013|12063|12133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

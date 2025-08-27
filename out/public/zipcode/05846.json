@@ -1,0 +1,20 @@
+{
+    "zip": 5846,
+    "lat": 44.82671,
+    "lng": -71.82795,
+    "city": "Island Pond",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1144.0,
+    "density": 4.3,
+    "county_fips": 50009,
+    "county_name": "Essex",
+    "county_weights": "{\"50009\": 93.51, \"50019\": 6.49}",
+    "county_names_all": "Essex|Orleans",
+    "county_fips_all": "50009|50019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

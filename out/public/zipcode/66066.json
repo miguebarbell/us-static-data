@@ -1,0 +1,20 @@
+{
+    "zip": 66066,
+    "lat": 39.20359,
+    "lng": -95.33142,
+    "city": "Oskaloosa",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2750.0,
+    "density": 13.8,
+    "county_fips": 20087,
+    "county_name": "Jefferson",
+    "county_weights": "{\"20087\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "20087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

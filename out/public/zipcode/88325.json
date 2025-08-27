@@ -1,0 +1,20 @@
+{
+    "zip": 88325,
+    "lat": 32.8529,
+    "lng": -105.86027,
+    "city": "High Rolls Mountain Park",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1523.0,
+    "density": 5.5,
+    "county_fips": 35035,
+    "county_name": "Otero",
+    "county_weights": "{\"35035\": 100}",
+    "county_names_all": "Otero",
+    "county_fips_all": "35035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

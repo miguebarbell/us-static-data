@@ -1,0 +1,20 @@
+{
+    "zip": 77901,
+    "lat": 28.80629,
+    "lng": -96.98553,
+    "city": "Victoria",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39965.0,
+    "density": 852.4,
+    "county_fips": 48469,
+    "county_name": "Victoria",
+    "county_weights": "{\"48469\": 100}",
+    "county_names_all": "Victoria",
+    "county_fips_all": "48469",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

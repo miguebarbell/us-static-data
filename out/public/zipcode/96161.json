@@ -1,0 +1,20 @@
+{
+    "zip": 96161,
+    "lat": 39.34848,
+    "lng": -120.22603,
+    "city": "Truckee",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19231.0,
+    "density": 28.3,
+    "county_fips": 6057,
+    "county_name": "Nevada",
+    "county_weights": "{\"06057\": 70.01, \"06061\": 29.99}",
+    "county_names_all": "Nevada|Placer",
+    "county_fips_all": "06057|06061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72032,
+    "lat": 35.07393,
+    "lng": -92.36451,
+    "city": "Conway",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35120.0,
+    "density": 118.5,
+    "county_fips": 5045,
+    "county_name": "Faulkner",
+    "county_weights": "{\"05045\": 100}",
+    "county_names_all": "Faulkner",
+    "county_fips_all": "05045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

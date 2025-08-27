@@ -1,0 +1,20 @@
+{
+    "zip": 1247,
+    "lat": 42.69813,
+    "lng": -73.09264,
+    "city": "North Adams",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14967.0,
+    "density": 125.9,
+    "county_fips": 25003,
+    "county_name": "Berkshire",
+    "county_weights": "{\"25003\": 100}",
+    "county_names_all": "Berkshire",
+    "county_fips_all": "25003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

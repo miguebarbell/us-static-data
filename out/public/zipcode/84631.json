@@ -1,0 +1,20 @@
+{
+    "zip": 84631,
+    "lat": 38.99771,
+    "lng": -112.39675,
+    "city": "Fillmore",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3072.0,
+    "density": 9.4,
+    "county_fips": 49027,
+    "county_name": "Millard",
+    "county_weights": "{\"49027\": 100}",
+    "county_names_all": "Millard",
+    "county_fips_all": "49027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

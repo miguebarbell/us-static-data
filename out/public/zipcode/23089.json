@@ -1,0 +1,20 @@
+{
+    "zip": 23089,
+    "lat": 37.47593,
+    "lng": -76.91212,
+    "city": "Lanexa",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4807.0,
+    "density": 30.7,
+    "county_fips": 51127,
+    "county_name": "New Kent",
+    "county_weights": "{\"51127\": 87.35, \"51095\": 12.65}",
+    "county_names_all": "New Kent|James City",
+    "county_fips_all": "51127|51095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

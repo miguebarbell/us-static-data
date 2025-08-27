@@ -1,0 +1,20 @@
+{
+    "zip": 44861,
+    "lat": 41.24254,
+    "lng": -83.14626,
+    "city": "Old Fort",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 120.0,
+    "density": 217.6,
+    "county_fips": 39147,
+    "county_name": "Seneca",
+    "county_weights": "{\"39147\": 100}",
+    "county_names_all": "Seneca",
+    "county_fips_all": "39147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

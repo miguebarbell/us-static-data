@@ -1,0 +1,20 @@
+{
+    "zip": 81147,
+    "lat": 37.28675,
+    "lng": -107.08333,
+    "city": "Pagosa Springs",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12923.0,
+    "density": 3.7,
+    "county_fips": 8007,
+    "county_name": "Archuleta",
+    "county_weights": "{\"08007\": 73.81, \"08053\": 21.98, \"08079\": 4.21}",
+    "county_names_all": "Archuleta|Hinsdale|Mineral",
+    "county_fips_all": "08007|08053|08079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

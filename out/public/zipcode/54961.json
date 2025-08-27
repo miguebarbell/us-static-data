@@ -1,0 +1,20 @@
+{
+    "zip": 54961,
+    "lat": 44.41173,
+    "lng": -88.7628,
+    "city": "New London",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14310.0,
+    "density": 44.5,
+    "county_fips": 55135,
+    "county_name": "Waupaca",
+    "county_weights": "{\"55135\": 64.13, \"55087\": 35.87}",
+    "county_names_all": "Waupaca|Outagamie",
+    "county_fips_all": "55135|55087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

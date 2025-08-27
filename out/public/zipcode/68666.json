@@ -1,0 +1,20 @@
+{
+    "zip": 68666,
+    "lat": 41.10775,
+    "lng": -97.61369,
+    "city": "Stromsburg",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1598.0,
+    "density": 7.2,
+    "county_fips": 31143,
+    "county_name": "Polk",
+    "county_weights": "{\"31143\": 97.53, \"31185\": 2.47}",
+    "county_names_all": "Polk|York",
+    "county_fips_all": "31143|31185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

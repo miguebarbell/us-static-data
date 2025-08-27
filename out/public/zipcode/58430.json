@@ -1,0 +1,20 @@
+{
+    "zip": 58430,
+    "lat": 47.50831,
+    "lng": -100.25954,
+    "city": "Denhoff",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 121.0,
+    "density": 0.5,
+    "county_fips": 38083,
+    "county_name": "Sheridan",
+    "county_weights": "{\"38083\": 100}",
+    "county_names_all": "Sheridan",
+    "county_fips_all": "38083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

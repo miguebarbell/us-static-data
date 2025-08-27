@@ -1,0 +1,20 @@
+{
+    "zip": 95004,
+    "lat": 36.86818,
+    "lng": -121.63237,
+    "city": "Aromas",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3917.0,
+    "density": 68.9,
+    "county_fips": 6053,
+    "county_name": "Monterey",
+    "county_weights": "{\"06053\": 56.39, \"06069\": 43.61}",
+    "county_names_all": "Monterey|San Benito",
+    "county_fips_all": "06053|06069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

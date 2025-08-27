@@ -1,0 +1,20 @@
+{
+    "zip": 24986,
+    "lat": 37.91189,
+    "lng": -80.19455,
+    "city": "White Sulphur Springs",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5082.0,
+    "density": 8.2,
+    "county_fips": 54025,
+    "county_name": "Greenbrier",
+    "county_weights": "{\"54025\": 96.91, \"54075\": 3.09}",
+    "county_names_all": "Greenbrier|Pocahontas",
+    "county_fips_all": "54025|54075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

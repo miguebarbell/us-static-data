@@ -1,0 +1,20 @@
+{
+    "zip": 21237,
+    "lat": 39.33938,
+    "lng": -76.49456,
+    "city": "Rosedale",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30851.0,
+    "density": 1058.5,
+    "county_fips": 24005,
+    "county_name": "Baltimore",
+    "county_weights": "{\"24005\": 93.92, \"24510\": 6.08}",
+    "county_names_all": "Baltimore|Baltimore",
+    "county_fips_all": "24005|24510",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

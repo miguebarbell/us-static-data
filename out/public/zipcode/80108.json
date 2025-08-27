@@ -1,0 +1,20 @@
+{
+    "zip": 80108,
+    "lat": 39.44441,
+    "lng": -104.85321,
+    "city": "Castle Rock",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35485.0,
+    "density": 388.2,
+    "county_fips": 8035,
+    "county_name": "Douglas",
+    "county_weights": "{\"08035\": 100}",
+    "county_names_all": "Douglas",
+    "county_fips_all": "08035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

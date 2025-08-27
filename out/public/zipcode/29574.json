@@ -1,0 +1,20 @@
+{
+    "zip": 29574,
+    "lat": 34.17134,
+    "lng": -79.26695,
+    "city": "Mullins",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9383.0,
+    "density": 36.8,
+    "county_fips": 45067,
+    "county_name": "Marion",
+    "county_weights": "{\"45067\": 99.55, \"45033\": 0.45}",
+    "county_names_all": "Marion|Dillon",
+    "county_fips_all": "45067|45033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

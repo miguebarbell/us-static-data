@@ -1,0 +1,20 @@
+{
+    "zip": 76849,
+    "lat": 30.45849,
+    "lng": -99.83805,
+    "city": "Junction",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3488.0,
+    "density": 1.7,
+    "county_fips": 48267,
+    "county_name": "Kimble",
+    "county_weights": "{\"48267\": 97.0, \"48265\": 3.0}",
+    "county_names_all": "Kimble|Kerr",
+    "county_fips_all": "48267|48265",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

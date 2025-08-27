@@ -1,0 +1,20 @@
+{
+    "zip": 85383,
+    "lat": 33.80297,
+    "lng": -112.31734,
+    "city": "Peoria",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 72101.0,
+    "density": 177.5,
+    "county_fips": 4013,
+    "county_name": "Maricopa",
+    "county_weights": "{\"04013\": 100}",
+    "county_names_all": "Maricopa",
+    "county_fips_all": "04013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

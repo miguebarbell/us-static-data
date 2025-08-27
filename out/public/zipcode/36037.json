@@ -1,0 +1,20 @@
+{
+    "zip": 36037,
+    "lat": 31.79384,
+    "lng": -86.62356,
+    "city": "Greenville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12974.0,
+    "density": 13.4,
+    "county_fips": 1013,
+    "county_name": "Butler",
+    "county_weights": "{\"01013\": 98.02, \"01041\": 1.98}",
+    "county_names_all": "Butler|Crenshaw",
+    "county_fips_all": "01013|01041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

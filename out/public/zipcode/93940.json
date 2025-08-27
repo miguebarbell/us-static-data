@@ -1,0 +1,20 @@
+{
+    "zip": 93940,
+    "lat": 36.45294,
+    "lng": -121.8498,
+    "city": "Monterey",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30951.0,
+    "density": 340.1,
+    "county_fips": 6053,
+    "county_name": "Monterey",
+    "county_weights": "{\"06053\": 100}",
+    "county_names_all": "Monterey",
+    "county_fips_all": "06053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

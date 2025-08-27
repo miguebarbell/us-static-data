@@ -1,0 +1,20 @@
+{
+    "zip": 11951,
+    "lat": 40.76624,
+    "lng": -72.83655,
+    "city": "Mastic Beach",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15830.0,
+    "density": 1273.6,
+    "county_fips": 36103,
+    "county_name": "Suffolk",
+    "county_weights": "{\"36103\": 100}",
+    "county_names_all": "Suffolk",
+    "county_fips_all": "36103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

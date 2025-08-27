@@ -1,0 +1,20 @@
+{
+    "zip": 28755,
+    "lat": 35.90825,
+    "lng": -82.21756,
+    "city": "Micaville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 37199,
+    "county_name": "Yancey",
+    "county_weights": "{\"37199\": 100}",
+    "county_names_all": "Yancey",
+    "county_fips_all": "37199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

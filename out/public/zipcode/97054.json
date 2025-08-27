@@ -1,0 +1,20 @@
+{
+    "zip": 97054,
+    "lat": 45.95406,
+    "lng": -122.92995,
+    "city": "Deer Island",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1404.0,
+    "density": 13.6,
+    "county_fips": 41009,
+    "county_name": "Columbia",
+    "county_weights": "{\"41009\": 100}",
+    "county_names_all": "Columbia",
+    "county_fips_all": "41009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

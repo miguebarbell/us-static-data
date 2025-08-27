@@ -1,0 +1,20 @@
+{
+    "zip": 68739,
+    "lat": 42.6284,
+    "lng": -97.26265,
+    "city": "Hartington",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2766.0,
+    "density": 4.5,
+    "county_fips": 31027,
+    "county_name": "Cedar",
+    "county_weights": "{\"31027\": 98.74, \"31051\": 1.26}",
+    "county_names_all": "Cedar|Dixon",
+    "county_fips_all": "31027|31051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

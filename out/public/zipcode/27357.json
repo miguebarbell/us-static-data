@@ -1,0 +1,20 @@
+{
+    "zip": 27357,
+    "lat": 36.26844,
+    "lng": -79.97641,
+    "city": "Stokesdale",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9785.0,
+    "density": 88.5,
+    "county_fips": 37157,
+    "county_name": "Rockingham",
+    "county_weights": "{\"37157\": 63.45, \"37081\": 36.42, \"37169\": 0.13}",
+    "county_names_all": "Rockingham|Guilford|Stokes",
+    "county_fips_all": "37157|37081|37169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

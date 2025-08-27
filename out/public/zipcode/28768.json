@@ -1,0 +1,20 @@
+{
+    "zip": 28768,
+    "lat": 35.30437,
+    "lng": -82.70925,
+    "city": "Pisgah Forest",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6836.0,
+    "density": 31.8,
+    "county_fips": 37175,
+    "county_name": "Transylvania",
+    "county_weights": "{\"37175\": 100}",
+    "county_names_all": "Transylvania",
+    "county_fips_all": "37175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

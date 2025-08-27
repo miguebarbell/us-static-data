@@ -1,0 +1,20 @@
+{
+    "zip": 23938,
+    "lat": 36.90541,
+    "lng": -78.00464,
+    "city": "Dundas",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 257.0,
+    "density": 4.5,
+    "county_fips": 51025,
+    "county_name": "Brunswick",
+    "county_weights": "{\"51025\": 59.94, \"51111\": 40.06}",
+    "county_names_all": "Brunswick|Lunenburg",
+    "county_fips_all": "51025|51111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

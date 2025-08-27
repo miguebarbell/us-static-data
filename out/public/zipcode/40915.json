@@ -1,0 +1,20 @@
+{
+    "zip": 40915,
+    "lat": 36.89235,
+    "lng": -83.82025,
+    "city": "Bimble",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 731.0,
+    "density": 50.8,
+    "county_fips": 21121,
+    "county_name": "Knox",
+    "county_weights": "{\"21121\": 100}",
+    "county_names_all": "Knox",
+    "county_fips_all": "21121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

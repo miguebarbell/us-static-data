@@ -1,0 +1,20 @@
+{
+    "zip": 47470,
+    "lat": 38.81623,
+    "lng": -86.64799,
+    "city": "Williams",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1441.0,
+    "density": 12.7,
+    "county_fips": 18093,
+    "county_name": "Lawrence",
+    "county_weights": "{\"18093\": 82.2, \"18101\": 17.8}",
+    "county_names_all": "Lawrence|Martin",
+    "county_fips_all": "18093|18101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

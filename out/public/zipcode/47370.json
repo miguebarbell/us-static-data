@@ -1,0 +1,20 @@
+{
+    "zip": 47370,
+    "lat": 39.81281,
+    "lng": -85.13779,
+    "city": "Pershing",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 145.0,
+    "density": 890.0,
+    "county_fips": 18177,
+    "county_name": "Wayne",
+    "county_weights": "{\"18177\": 100}",
+    "county_names_all": "Wayne",
+    "county_fips_all": "18177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

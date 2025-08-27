@@ -1,0 +1,20 @@
+{
+    "zip": 42051,
+    "lat": 36.85629,
+    "lng": -88.64522,
+    "city": "Hickory",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2000.0,
+    "density": 14.6,
+    "county_fips": 21083,
+    "county_name": "Graves",
+    "county_weights": "{\"21083\": 100}",
+    "county_names_all": "Graves",
+    "county_fips_all": "21083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

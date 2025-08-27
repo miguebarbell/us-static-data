@@ -1,0 +1,20 @@
+{
+    "zip": 29125,
+    "lat": 33.70165,
+    "lng": -80.47434,
+    "city": "Pinewood",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3081.0,
+    "density": 10.3,
+    "county_fips": 45085,
+    "county_name": "Sumter",
+    "county_weights": "{\"45085\": 53.33, \"45027\": 46.67}",
+    "county_names_all": "Sumter|Clarendon",
+    "county_fips_all": "45085|45027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

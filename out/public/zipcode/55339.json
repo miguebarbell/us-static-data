@@ -1,0 +1,20 @@
+{
+    "zip": 55339,
+    "lat": 44.7289,
+    "lng": -93.95905,
+    "city": "Hamburg",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 934.0,
+    "density": 15.8,
+    "county_fips": 27019,
+    "county_name": "Carver",
+    "county_weights": "{\"27019\": 65.35, \"27143\": 30.73, \"27085\": 3.92}",
+    "county_names_all": "Carver|Sibley|McLeod",
+    "county_fips_all": "27019|27143|27085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

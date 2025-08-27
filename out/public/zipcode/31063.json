@@ -1,0 +1,20 @@
+{
+    "zip": 31063,
+    "lat": 32.29249,
+    "lng": -83.9648,
+    "city": "Montezuma",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4262.0,
+    "density": 14.7,
+    "county_fips": 13193,
+    "county_name": "Macon",
+    "county_weights": "{\"13193\": 88.2, \"13093\": 11.8}",
+    "county_names_all": "Macon|Dooly",
+    "county_fips_all": "13193|13093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

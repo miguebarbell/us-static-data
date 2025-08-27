@@ -1,0 +1,20 @@
+{
+    "zip": 72073,
+    "lat": 34.36529,
+    "lng": -91.65251,
+    "city": "Humphrey",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 862.0,
+    "density": 2.9,
+    "county_fips": 5001,
+    "county_name": "Arkansas",
+    "county_weights": "{\"05001\": 90.89, \"05069\": 9.11}",
+    "county_names_all": "Arkansas|Jefferson",
+    "county_fips_all": "05001|05069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

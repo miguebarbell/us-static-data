@@ -1,0 +1,20 @@
+{
+    "zip": 45169,
+    "lat": 39.505,
+    "lng": -83.65035,
+    "city": "Sabina",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4410.0,
+    "density": 18.2,
+    "county_fips": 39027,
+    "county_name": "Clinton",
+    "county_weights": "{\"39027\": 73.83, \"39047\": 19.91, \"39057\": 6.26}",
+    "county_names_all": "Clinton|Fayette|Greene",
+    "county_fips_all": "39027|39047|39057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

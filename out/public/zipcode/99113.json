@@ -1,0 +1,20 @@
+{
+    "zip": 99113,
+    "lat": 46.58628,
+    "lng": -117.1935,
+    "city": "Colton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 535.0,
+    "density": 2.1,
+    "county_fips": 53075,
+    "county_name": "Whitman",
+    "county_weights": "{\"53075\": 100}",
+    "county_names_all": "Whitman",
+    "county_fips_all": "53075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

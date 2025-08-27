@@ -1,0 +1,20 @@
+{
+    "zip": 59424,
+    "lat": 47.34929,
+    "lng": -110.1022,
+    "city": "Coffee Creek",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 66.0,
+    "density": 0.3,
+    "county_fips": 30027,
+    "county_name": "Fergus",
+    "county_weights": "{\"30027\": 66.71, \"30045\": 33.29}",
+    "county_names_all": "Fergus|Judith Basin",
+    "county_fips_all": "30027|30045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

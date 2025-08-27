@@ -1,0 +1,20 @@
+{
+    "zip": 52060,
+    "lat": 42.10217,
+    "lng": -90.67961,
+    "city": "Maquoketa",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8139.0,
+    "density": 19.8,
+    "county_fips": 19097,
+    "county_name": "Jackson",
+    "county_weights": "{\"19097\": 88.17, \"19045\": 11.83}",
+    "county_names_all": "Jackson|Clinton",
+    "county_fips_all": "19097|19045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

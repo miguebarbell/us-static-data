@@ -1,0 +1,20 @@
+{
+    "zip": 92880,
+    "lat": 33.92096,
+    "lng": -117.61052,
+    "city": "Eastvale",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 75453.0,
+    "density": 1113.4,
+    "county_fips": 6065,
+    "county_name": "Riverside",
+    "county_weights": "{\"06065\": 92.79, \"06071\": 7.21}",
+    "county_names_all": "Riverside|San Bernardino",
+    "county_fips_all": "06065|06071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

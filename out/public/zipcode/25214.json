@@ -1,0 +1,20 @@
+{
+    "zip": 25214,
+    "lat": 38.18947,
+    "lng": -81.55127,
+    "city": "Winifrede",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1042.0,
+    "density": 60.8,
+    "county_fips": 54039,
+    "county_name": "Kanawha",
+    "county_weights": "{\"54039\": 100}",
+    "county_names_all": "Kanawha",
+    "county_fips_all": "54039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

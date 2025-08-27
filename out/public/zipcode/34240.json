@@ -1,0 +1,20 @@
+{
+    "zip": 34240,
+    "lat": 27.34218,
+    "lng": -82.35177,
+    "city": "Sarasota",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16356.0,
+    "density": 95.0,
+    "county_fips": 12115,
+    "county_name": "Sarasota",
+    "county_weights": "{\"12115\": 99.86, \"12081\": 0.14}",
+    "county_names_all": "Sarasota|Manatee",
+    "county_fips_all": "12115|12081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 56020,
+    "lat": 43.6146,
+    "lng": -93.53019,
+    "city": "Conger",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 83.0,
+    "density": 508.9,
+    "county_fips": 27047,
+    "county_name": "Freeborn",
+    "county_weights": "{\"27047\": 100}",
+    "county_names_all": "Freeborn",
+    "county_fips_all": "27047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

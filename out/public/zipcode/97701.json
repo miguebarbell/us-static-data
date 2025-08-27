@@ -1,0 +1,20 @@
+{
+    "zip": 97701,
+    "lat": 44.00065,
+    "lng": -121.03289,
+    "city": "Bend",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42543.0,
+    "density": 52.7,
+    "county_fips": 41017,
+    "county_name": "Deschutes",
+    "county_weights": "{\"41017\": 92.44, \"41013\": 7.56}",
+    "county_names_all": "Deschutes|Crook",
+    "county_fips_all": "41017|41013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

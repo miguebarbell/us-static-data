@@ -1,0 +1,20 @@
+{
+    "zip": 97367,
+    "lat": 44.9122,
+    "lng": -123.96914,
+    "city": "Lincoln City",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11280.0,
+    "density": 95.2,
+    "county_fips": 41041,
+    "county_name": "Lincoln",
+    "county_weights": "{\"41041\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "41041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 44624,
+    "lat": 40.61249,
+    "lng": -81.66157,
+    "city": "Dundee",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6395.0,
+    "density": 50.6,
+    "county_fips": 39075,
+    "county_name": "Holmes",
+    "county_weights": "{\"39075\": 44.2, \"39157\": 43.45, \"39169\": 10.78, \"39151\": 1.57}",
+    "county_names_all": "Holmes|Tuscarawas|Wayne|Stark",
+    "county_fips_all": "39075|39157|39169|39151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

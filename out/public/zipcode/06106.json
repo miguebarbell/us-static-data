@@ -1,0 +1,20 @@
+{
+    "zip": 6106,
+    "lat": 41.74818,
+    "lng": -72.69683,
+    "city": "Hartford",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37809.0,
+    "density": 3503.9,
+    "county_fips": 9110,
+    "county_name": "Capitol",
+    "county_weights": "{\"09110\": 100}",
+    "county_names_all": "Capitol",
+    "county_fips_all": "09110",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

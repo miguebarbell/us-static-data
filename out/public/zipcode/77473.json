@@ -1,0 +1,20 @@
+{
+    "zip": 77473,
+    "lat": 29.79459,
+    "lng": -96.1038,
+    "city": "San Felipe",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32.0,
+    "density": 123.1,
+    "county_fips": 48015,
+    "county_name": "Austin",
+    "county_weights": "{\"48015\": 100}",
+    "county_names_all": "Austin",
+    "county_fips_all": "48015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

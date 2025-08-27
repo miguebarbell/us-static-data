@@ -1,0 +1,20 @@
+{
+    "zip": 32701,
+    "lat": 28.66509,
+    "lng": -81.36916,
+    "city": "Altamonte Springs",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24866.0,
+    "density": 1704.3,
+    "county_fips": 12117,
+    "county_name": "Seminole",
+    "county_weights": "{\"12117\": 100}",
+    "county_names_all": "Seminole",
+    "county_fips_all": "12117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

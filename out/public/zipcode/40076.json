@@ -1,0 +1,20 @@
+{
+    "zip": 40076,
+    "lat": 38.11301,
+    "lng": -85.08671,
+    "city": "Waddy",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2884.0,
+    "density": 19.5,
+    "county_fips": 21211,
+    "county_name": "Shelby",
+    "county_weights": "{\"21211\": 86.84, \"21005\": 8.59, \"21073\": 3.77, \"21215\": 0.8}",
+    "county_names_all": "Shelby|Anderson|Franklin|Spencer",
+    "county_fips_all": "21211|21005|21073|21215",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

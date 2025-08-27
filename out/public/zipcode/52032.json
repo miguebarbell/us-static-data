@@ -1,0 +1,20 @@
+{
+    "zip": 52032,
+    "lat": 42.29006,
+    "lng": -90.84317,
+    "city": "Bernard",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1277.0,
+    "density": 4.8,
+    "county_fips": 19061,
+    "county_name": "Dubuque",
+    "county_weights": "{\"19061\": 46.96, \"19097\": 45.64, \"19105\": 7.4}",
+    "county_names_all": "Dubuque|Jackson|Jones",
+    "county_fips_all": "19061|19097|19105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

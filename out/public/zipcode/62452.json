@@ -1,0 +1,20 @@
+{
+    "zip": 62452,
+    "lat": 38.58715,
+    "lng": -88.01774,
+    "city": "Parkersburg",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 292.0,
+    "density": 5.4,
+    "county_fips": 17159,
+    "county_name": "Richland",
+    "county_weights": "{\"17159\": 100}",
+    "county_names_all": "Richland",
+    "county_fips_all": "17159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

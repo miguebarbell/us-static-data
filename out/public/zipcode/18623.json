@@ -1,0 +1,20 @@
+{
+    "zip": 18623,
+    "lat": 41.67297,
+    "lng": -76.14768,
+    "city": "Laceyville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2194.0,
+    "density": 14.7,
+    "county_fips": 42015,
+    "county_name": "Bradford",
+    "county_weights": "{\"42015\": 44.81, \"42131\": 36.75, \"42115\": 18.44}",
+    "county_names_all": "Bradford|Wyoming|Susquehanna",
+    "county_fips_all": "42015|42131|42115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

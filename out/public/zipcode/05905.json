@@ -1,0 +1,20 @@
+{
+    "zip": 5905,
+    "lat": 44.70151,
+    "lng": -71.66672,
+    "city": "Guildhall",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 982.0,
+    "density": 2.0,
+    "county_fips": 50009,
+    "county_name": "Essex",
+    "county_weights": "{\"50009\": 100}",
+    "county_names_all": "Essex",
+    "county_fips_all": "50009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65479,
+    "lat": 37.3368,
+    "lng": -91.63382,
+    "city": "Hartshorn",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 290.0,
+    "density": 1.3,
+    "county_fips": 29203,
+    "county_name": "Shannon",
+    "county_weights": "{\"29203\": 60.54, \"29215\": 39.46}",
+    "county_names_all": "Shannon|Texas",
+    "county_fips_all": "29203|29215",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

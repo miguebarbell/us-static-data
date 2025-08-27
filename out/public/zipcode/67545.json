@@ -1,0 +1,20 @@
+{
+    "zip": 67545,
+    "lat": 38.17644,
+    "lng": -98.6417,
+    "city": "Hudson",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 182.0,
+    "density": 1.5,
+    "county_fips": 20185,
+    "county_name": "Stafford",
+    "county_weights": "{\"20185\": 100}",
+    "county_names_all": "Stafford",
+    "county_fips_all": "20185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

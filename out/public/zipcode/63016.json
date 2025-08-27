@@ -1,0 +1,20 @@
+{
+    "zip": 63016,
+    "lat": 38.35692,
+    "lng": -90.65014,
+    "city": "Cedar Hill",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6291.0,
+    "density": 87.2,
+    "county_fips": 29099,
+    "county_name": "Jefferson",
+    "county_weights": "{\"29099\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "29099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

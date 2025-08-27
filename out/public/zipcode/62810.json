@@ -1,0 +1,20 @@
+{
+    "zip": 62810,
+    "lat": 38.20515,
+    "lng": -88.74388,
+    "city": "Belle Rive",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1218.0,
+    "density": 7.5,
+    "county_fips": 17081,
+    "county_name": "Jefferson",
+    "county_weights": "{\"17081\": 85.69, \"17191\": 9.78, \"17065\": 4.53}",
+    "county_names_all": "Jefferson|Wayne|Hamilton",
+    "county_fips_all": "17081|17191|17065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

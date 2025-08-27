@@ -1,0 +1,20 @@
+{
+    "zip": 52076,
+    "lat": 42.69805,
+    "lng": -91.50984,
+    "city": "Strawberry Point",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2231.0,
+    "density": 8.5,
+    "county_fips": 19043,
+    "county_name": "Clayton",
+    "county_weights": "{\"19043\": 82.72, \"19055\": 16.61, \"19065\": 0.67}",
+    "county_names_all": "Clayton|Delaware|Fayette",
+    "county_fips_all": "19043|19055|19065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

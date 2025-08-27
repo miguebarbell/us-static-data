@@ -1,0 +1,20 @@
+{
+    "zip": 14864,
+    "lat": 42.2804,
+    "lng": -76.84205,
+    "city": "Millport",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1144.0,
+    "density": 36.4,
+    "county_fips": 36015,
+    "county_name": "Chemung",
+    "county_weights": "{\"36015\": 70.75, \"36097\": 29.25}",
+    "county_names_all": "Chemung|Schuyler",
+    "county_fips_all": "36015|36097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

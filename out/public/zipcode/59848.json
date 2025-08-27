@@ -1,0 +1,20 @@
+{
+    "zip": 59848,
+    "lat": 47.71526,
+    "lng": -114.68162,
+    "city": "Lonepine",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 74.0,
+    "density": 0.9,
+    "county_fips": 30089,
+    "county_name": "Sanders",
+    "county_weights": "{\"30089\": 100}",
+    "county_names_all": "Sanders",
+    "county_fips_all": "30089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 31017,
+    "lat": 32.62075,
+    "lng": -83.23305,
+    "city": "Danville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1269.0,
+    "density": 4.9,
+    "county_fips": 13319,
+    "county_name": "Wilkinson",
+    "county_weights": "{\"13319\": 52.92, \"13289\": 27.53, \"13023\": 19.55}",
+    "county_names_all": "Wilkinson|Twiggs|Bleckley",
+    "county_fips_all": "13319|13289|13023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

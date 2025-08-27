@@ -1,0 +1,20 @@
+{
+    "zip": 47950,
+    "lat": 40.80175,
+    "lng": -86.65355,
+    "city": "Idaville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 828.0,
+    "density": 8.9,
+    "county_fips": 18181,
+    "county_name": "White",
+    "county_weights": "{\"18181\": 90.24, \"18015\": 9.76}",
+    "county_names_all": "White|Carroll",
+    "county_fips_all": "18181|18015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

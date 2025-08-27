@@ -1,0 +1,20 @@
+{
+    "zip": 81212,
+    "lat": 38.54409,
+    "lng": -105.42498,
+    "city": "Canon City",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32355.0,
+    "density": 18.6,
+    "county_fips": 8043,
+    "county_name": "Fremont",
+    "county_weights": "{\"08043\": 100}",
+    "county_names_all": "Fremont",
+    "county_fips_all": "08043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

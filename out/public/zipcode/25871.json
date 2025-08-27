@@ -1,0 +1,20 @@
+{
+    "zip": 25871,
+    "lat": 37.76917,
+    "lng": -81.21165,
+    "city": "Mabscott",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 934.0,
+    "density": 534.0,
+    "county_fips": 54081,
+    "county_name": "Raleigh",
+    "county_weights": "{\"54081\": 100}",
+    "county_names_all": "Raleigh",
+    "county_fips_all": "54081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

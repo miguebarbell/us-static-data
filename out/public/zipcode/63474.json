@@ -1,0 +1,20 @@
+{
+    "zip": 63474,
+    "lat": 40.3473,
+    "lng": -91.89674,
+    "city": "Wyaconda",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 539.0,
+    "density": 2.7,
+    "county_fips": 29045,
+    "county_name": "Clark",
+    "county_weights": "{\"29045\": 93.81, \"29199\": 4.3, \"29111\": 1.89}",
+    "county_names_all": "Clark|Scotland|Lewis",
+    "county_fips_all": "29045|29199|29111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 7626,
+    "lat": 40.94054,
+    "lng": -73.9596,
+    "city": "Cresskill",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9101.0,
+    "density": 1701.9,
+    "county_fips": 34003,
+    "county_name": "Bergen",
+    "county_weights": "{\"34003\": 100}",
+    "county_names_all": "Bergen",
+    "county_fips_all": "34003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

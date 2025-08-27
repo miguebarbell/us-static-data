@@ -1,0 +1,20 @@
+{
+    "zip": 67018,
+    "lat": 37.07108,
+    "lng": -97.85872,
+    "city": "Bluff City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 59.0,
+    "density": 0.4,
+    "county_fips": 20077,
+    "county_name": "Harper",
+    "county_weights": "{\"20077\": 91.98, \"20191\": 8.02}",
+    "county_names_all": "Harper|Sumner",
+    "county_fips_all": "20077|20191",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

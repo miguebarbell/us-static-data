@@ -1,0 +1,20 @@
+{
+    "zip": 56347,
+    "lat": 45.96978,
+    "lng": -94.86155,
+    "city": "Long Prairie",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8067.0,
+    "density": 16.0,
+    "county_fips": 27153,
+    "county_name": "Todd",
+    "county_weights": "{\"27153\": 96.65, \"27097\": 3.35}",
+    "county_names_all": "Todd|Morrison",
+    "county_fips_all": "27153|27097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 97110,
+    "lat": 45.89186,
+    "lng": -123.95128,
+    "city": "Cannon Beach",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1128.0,
+    "density": 71.1,
+    "county_fips": 41007,
+    "county_name": "Clatsop",
+    "county_weights": "{\"41007\": 100}",
+    "county_names_all": "Clatsop",
+    "county_fips_all": "41007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

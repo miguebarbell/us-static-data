@@ -1,0 +1,20 @@
+{
+    "zip": 73852,
+    "lat": 36.4873,
+    "lng": -99.10798,
+    "city": "Mooreland",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2509.0,
+    "density": 2.3,
+    "county_fips": 40153,
+    "county_name": "Woodward",
+    "county_weights": "{\"40153\": 98.37, \"40093\": 1.63}",
+    "county_names_all": "Woodward|Major",
+    "county_fips_all": "40153|40093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

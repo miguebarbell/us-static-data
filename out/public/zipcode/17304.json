@@ -1,0 +1,20 @@
+{
+    "zip": 17304,
+    "lat": 39.97696,
+    "lng": -77.23099,
+    "city": "Aspers",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3039.0,
+    "density": 48.2,
+    "county_fips": 42001,
+    "county_name": "Adams",
+    "county_weights": "{\"42001\": 100}",
+    "county_names_all": "Adams",
+    "county_fips_all": "42001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

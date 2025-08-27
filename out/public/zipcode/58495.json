@@ -1,0 +1,20 @@
+{
+    "zip": 58495,
+    "lat": 46.27202,
+    "lng": -99.60077,
+    "city": "Wishek",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1203.0,
+    "density": 1.3,
+    "county_fips": 38051,
+    "county_name": "McIntosh",
+    "county_weights": "{\"38051\": 60.35, \"38047\": 39.65}",
+    "county_names_all": "McIntosh|Logan",
+    "county_fips_all": "38051|38047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

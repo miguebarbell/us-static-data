@@ -1,0 +1,20 @@
+{
+    "zip": 97819,
+    "lat": 44.48603,
+    "lng": -117.76317,
+    "city": "Bridgeport",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16.0,
+    "density": 0.1,
+    "county_fips": 41001,
+    "county_name": "Baker",
+    "county_weights": "{\"41001\": 100}",
+    "county_names_all": "Baker",
+    "county_fips_all": "41001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

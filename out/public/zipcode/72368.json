@@ -1,0 +1,20 @@
+{
+    "zip": 72368,
+    "lat": 34.81146,
+    "lng": -91.01996,
+    "city": "Moro",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1175.0,
+    "density": 3.1,
+    "county_fips": 5077,
+    "county_name": "Lee",
+    "county_weights": "{\"05077\": 85.48, \"05095\": 14.52}",
+    "county_names_all": "Lee|Monroe",
+    "county_fips_all": "05077|05095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

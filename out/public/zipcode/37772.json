@@ -1,0 +1,20 @@
+{
+    "zip": 37772,
+    "lat": 35.78775,
+    "lng": -84.21876,
+    "city": "Lenoir City",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14164.0,
+    "density": 141.4,
+    "county_fips": 47105,
+    "county_name": "Loudon",
+    "county_weights": "{\"47105\": 99.88, \"47093\": 0.12}",
+    "county_names_all": "Loudon|Knox",
+    "county_fips_all": "47105|47093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

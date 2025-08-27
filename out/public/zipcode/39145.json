@@ -1,0 +1,20 @@
+{
+    "zip": 39145,
+    "lat": 32.33862,
+    "lng": -89.79819,
+    "city": "Pelahatchie",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5094.0,
+    "density": 15.2,
+    "county_fips": 28121,
+    "county_name": "Rankin",
+    "county_weights": "{\"28121\": 97.99, \"28123\": 2.01}",
+    "county_names_all": "Rankin|Scott",
+    "county_fips_all": "28121|28123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

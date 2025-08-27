@@ -1,0 +1,20 @@
+{
+    "zip": 58761,
+    "lat": 48.78736,
+    "lng": -101.53019,
+    "city": "Mohall",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 852.0,
+    "density": 1.2,
+    "county_fips": 38075,
+    "county_name": "Renville",
+    "county_weights": "{\"38075\": 60.46, \"38009\": 39.54}",
+    "county_names_all": "Renville|Bottineau",
+    "county_fips_all": "38075|38009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

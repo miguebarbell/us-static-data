@@ -1,0 +1,20 @@
+{
+    "zip": 38774,
+    "lat": 33.9659,
+    "lng": -90.76695,
+    "city": "Shelby",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1769.0,
+    "density": 10.9,
+    "county_fips": 28011,
+    "county_name": "Bolivar",
+    "county_weights": "{\"28011\": 100}",
+    "county_names_all": "Bolivar",
+    "county_fips_all": "28011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

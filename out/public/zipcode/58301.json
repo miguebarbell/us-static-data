@@ -1,0 +1,20 @@
+{
+    "zip": 58301,
+    "lat": 48.13015,
+    "lng": -98.88798,
+    "city": "Devils Lake",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10046.0,
+    "density": 14.1,
+    "county_fips": 38071,
+    "county_name": "Ramsey",
+    "county_weights": "{\"38071\": 92.56, \"38005\": 7.44}",
+    "county_names_all": "Ramsey|Benson",
+    "county_fips_all": "38071|38005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

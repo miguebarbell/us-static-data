@@ -1,0 +1,20 @@
+{
+    "zip": 56255,
+    "lat": 44.39426,
+    "lng": -95.41707,
+    "city": "Lucan",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 407.0,
+    "density": 4.1,
+    "county_fips": 27127,
+    "county_name": "Redwood",
+    "county_weights": "{\"27127\": 100}",
+    "county_names_all": "Redwood",
+    "county_fips_all": "27127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

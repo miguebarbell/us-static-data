@@ -1,0 +1,20 @@
+{
+    "zip": 69337,
+    "lat": 42.86566,
+    "lng": -102.99513,
+    "city": "Chadron",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6445.0,
+    "density": 3.2,
+    "county_fips": 31045,
+    "county_name": "Dawes",
+    "county_weights": "{\"31045\": 78.95, \"46102\": 11.41, \"31161\": 6.53, \"46047\": 3.11}",
+    "county_names_all": "Dawes|Oglala Lakota|Sheridan|Fall River",
+    "county_fips_all": "31045|46102|31161|46047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

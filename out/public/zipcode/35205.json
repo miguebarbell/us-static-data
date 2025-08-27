@@ -1,0 +1,20 @@
+{
+    "zip": 35205,
+    "lat": 33.49509,
+    "lng": -86.8084,
+    "city": "Birmingham",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18955.0,
+    "density": 1961.4,
+    "county_fips": 1073,
+    "county_name": "Jefferson",
+    "county_weights": "{\"01073\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "01073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

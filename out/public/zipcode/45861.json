@@ -1,0 +1,20 @@
+{
+    "zip": 45861,
+    "lat": 41.08587,
+    "lng": -84.42569,
+    "city": "Melrose",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 367.0,
+    "density": 105.1,
+    "county_fips": 39125,
+    "county_name": "Paulding",
+    "county_weights": "{\"39125\": 100}",
+    "county_names_all": "Paulding",
+    "county_fips_all": "39125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 38118,
+    "lat": 35.03655,
+    "lng": -89.93021,
+    "city": "Memphis",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39162.0,
+    "density": 496.3,
+    "county_fips": 47157,
+    "county_name": "Shelby",
+    "county_weights": "{\"47157\": 100}",
+    "county_names_all": "Shelby",
+    "county_fips_all": "47157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

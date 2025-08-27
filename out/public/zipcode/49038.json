@@ -1,0 +1,20 @@
+{
+    "zip": 49038,
+    "lat": 42.20554,
+    "lng": -86.32489,
+    "city": "Coloma",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8577.0,
+    "density": 85.0,
+    "county_fips": 26021,
+    "county_name": "Berrien",
+    "county_weights": "{\"26021\": 86.69, \"26159\": 13.31}",
+    "county_names_all": "Berrien|Van Buren",
+    "county_fips_all": "26021|26159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

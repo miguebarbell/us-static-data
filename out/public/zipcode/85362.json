@@ -1,0 +1,20 @@
+{
+    "zip": 85362,
+    "lat": 34.28558,
+    "lng": -112.84337,
+    "city": "Yarnell",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 586.0,
+    "density": 3.6,
+    "county_fips": 4025,
+    "county_name": "Yavapai",
+    "county_weights": "{\"04025\": 100}",
+    "county_names_all": "Yavapai",
+    "county_fips_all": "04025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

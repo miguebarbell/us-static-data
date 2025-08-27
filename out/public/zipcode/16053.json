@@ -1,0 +1,20 @@
+{
+    "zip": 16053,
+    "lat": 40.81194,
+    "lng": -79.9826,
+    "city": "Renfrew",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3284.0,
+    "density": 59.2,
+    "county_fips": 42019,
+    "county_name": "Butler",
+    "county_weights": "{\"42019\": 100}",
+    "county_names_all": "Butler",
+    "county_fips_all": "42019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,15 @@
+{
+    "zip": [
+        "02138",
+        "02139",
+        "02140",
+        "02141",
+        "02142"
+    ],
+    "city": "Cambridge",
+    "state": "MA",
+    "lat": 42.06262,
+    "lng": -72.62521,
+    "state_name": "Massachusetts",
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 83636,
+    "lat": 43.90832,
+    "lng": -116.66097,
+    "city": "Letha",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 566.0,
+    "density": 87.7,
+    "county_fips": 16045,
+    "county_name": "Gem",
+    "county_weights": "{\"16045\": 100}",
+    "county_names_all": "Gem",
+    "county_fips_all": "16045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

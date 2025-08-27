@@ -1,0 +1,20 @@
+{
+    "zip": 48371,
+    "lat": 42.84544,
+    "lng": -83.28785,
+    "city": "Oxford",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26120.0,
+    "density": 218.1,
+    "county_fips": 26125,
+    "county_name": "Oakland",
+    "county_weights": "{\"26125\": 88.24, \"26087\": 11.76}",
+    "county_names_all": "Oakland|Lapeer",
+    "county_fips_all": "26125|26087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

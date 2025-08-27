@@ -1,0 +1,20 @@
+{
+    "zip": 60468,
+    "lat": 41.33636,
+    "lng": -87.80991,
+    "city": "Peotone",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5848.0,
+    "density": 32.4,
+    "county_fips": 17197,
+    "county_name": "Will",
+    "county_weights": "{\"17197\": 95.26, \"17091\": 4.74}",
+    "county_names_all": "Will|Kankakee",
+    "county_fips_all": "17197|17091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

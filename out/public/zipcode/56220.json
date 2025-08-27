@@ -1,0 +1,20 @@
+{
+    "zip": 56220,
+    "lat": 44.73125,
+    "lng": -96.29339,
+    "city": "Canby",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2705.0,
+    "density": 3.8,
+    "county_fips": 27173,
+    "county_name": "Yellow Medicine",
+    "county_weights": "{\"27173\": 68.07, \"27073\": 19.36, \"27081\": 12.35, \"46039\": 0.22}",
+    "county_names_all": "Yellow Medicine|Lac qui Parle|Lincoln|Deuel",
+    "county_fips_all": "27173|27073|27081|46039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

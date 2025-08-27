@@ -1,0 +1,20 @@
+{
+    "zip": 75852,
+    "lat": 30.98723,
+    "lng": -95.72023,
+    "city": "Midway",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3166.0,
+    "density": 8.3,
+    "county_fips": 48313,
+    "county_name": "Madison",
+    "county_weights": "{\"48313\": 77.6, \"48471\": 22.4}",
+    "county_names_all": "Madison|Walker",
+    "county_fips_all": "48313|48471",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

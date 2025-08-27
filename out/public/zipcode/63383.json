@@ -1,0 +1,20 @@
+{
+    "zip": 63383,
+    "lat": 38.80726,
+    "lng": -91.19319,
+    "city": "Warrenton",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16120.0,
+    "density": 38.9,
+    "county_fips": 29219,
+    "county_name": "Warren",
+    "county_weights": "{\"29219\": 97.34, \"29113\": 2.66}",
+    "county_names_all": "Warren|Lincoln",
+    "county_fips_all": "29219|29113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

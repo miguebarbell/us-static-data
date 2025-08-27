@@ -1,0 +1,20 @@
+{
+    "zip": 31066,
+    "lat": 32.80757,
+    "lng": -83.98953,
+    "city": "Musella",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 973.0,
+    "density": 6.1,
+    "county_fips": 13079,
+    "county_name": "Crawford",
+    "county_weights": "{\"13079\": 92.8, \"13207\": 6.0, \"13021\": 1.2}",
+    "county_names_all": "Crawford|Monroe|Bibb",
+    "county_fips_all": "13079|13207|13021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

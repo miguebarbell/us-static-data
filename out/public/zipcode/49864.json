@@ -1,0 +1,20 @@
+{
+    "zip": 49864,
+    "lat": 45.84444,
+    "lng": -86.65104,
+    "city": "Nahma",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28.0,
+    "density": 10.4,
+    "county_fips": 26041,
+    "county_name": "Delta",
+    "county_weights": "{\"26041\": 100}",
+    "county_names_all": "Delta",
+    "county_fips_all": "26041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 5043,
+    "lat": 43.80658,
+    "lng": -72.21194,
+    "city": "East Thetford",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 986.0,
+    "density": 42.0,
+    "county_fips": 50017,
+    "county_name": "Orange",
+    "county_weights": "{\"50017\": 99.84, \"50027\": 0.16}",
+    "county_names_all": "Orange|Windsor",
+    "county_fips_all": "50017|50027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

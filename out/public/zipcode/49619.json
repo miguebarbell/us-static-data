@@ -1,0 +1,20 @@
+{
+    "zip": 49619,
+    "lat": 44.30331,
+    "lng": -85.98784,
+    "city": "Brethren",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1054.0,
+    "density": 6.9,
+    "county_fips": 26101,
+    "county_name": "Manistee",
+    "county_weights": "{\"26101\": 100}",
+    "county_names_all": "Manistee",
+    "county_fips_all": "26101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

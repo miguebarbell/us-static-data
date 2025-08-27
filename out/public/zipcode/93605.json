@@ -1,0 +1,20 @@
+{
+    "zip": 93605,
+    "lat": 37.17622,
+    "lng": -119.24953,
+    "city": "Big Creek",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 83.0,
+    "density": 2.2,
+    "county_fips": 6019,
+    "county_name": "Fresno",
+    "county_weights": "{\"06019\": 100}",
+    "county_names_all": "Fresno",
+    "county_fips_all": "06019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 88324,
+    "lat": 33.38666,
+    "lng": -105.47268,
+    "city": "Glencoe",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 117.0,
+    "density": 1.1,
+    "county_fips": 35027,
+    "county_name": "Lincoln",
+    "county_weights": "{\"35027\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "35027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 78954,
+    "lat": 30.04507,
+    "lng": -96.69774,
+    "city": "Round Top",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1378.0,
+    "density": 7.2,
+    "county_fips": 48149,
+    "county_name": "Fayette",
+    "county_weights": "{\"48149\": 91.76, \"48015\": 8.24}",
+    "county_names_all": "Fayette|Austin",
+    "county_fips_all": "48149|48015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

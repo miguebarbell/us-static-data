@@ -1,0 +1,20 @@
+{
+    "zip": 28601,
+    "lat": 35.7729,
+    "lng": -81.32704,
+    "city": "Hickory",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 52839.0,
+    "density": 433.5,
+    "county_fips": 37035,
+    "county_name": "Catawba",
+    "county_weights": "{\"37035\": 63.04, \"37023\": 15.45, \"37003\": 12.99, \"37027\": 8.52}",
+    "county_names_all": "Catawba|Burke|Alexander|Caldwell",
+    "county_fips_all": "37035|37023|37003|37027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

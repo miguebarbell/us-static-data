@@ -1,0 +1,20 @@
+{
+    "zip": 84092,
+    "lat": 40.55803,
+    "lng": -111.74205,
+    "city": "Sandy",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28162.0,
+    "density": 200.2,
+    "county_fips": 49035,
+    "county_name": "Salt Lake",
+    "county_weights": "{\"49035\": 100}",
+    "county_names_all": "Salt Lake",
+    "county_fips_all": "49035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

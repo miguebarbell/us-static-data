@@ -1,0 +1,20 @@
+{
+    "zip": 31719,
+    "lat": 32.08261,
+    "lng": -84.29768,
+    "city": "Americus",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9085.0,
+    "density": 37.1,
+    "county_fips": 13261,
+    "county_name": "Sumter",
+    "county_weights": "{\"13261\": 99.24, \"13249\": 0.76}",
+    "county_names_all": "Sumter|Schley",
+    "county_fips_all": "13261|13249",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

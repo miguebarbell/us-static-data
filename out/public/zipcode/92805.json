@@ -1,0 +1,20 @@
+{
+    "zip": 92805,
+    "lat": 33.83003,
+    "lng": -117.90568,
+    "city": "Anaheim",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 74336.0,
+    "density": 4610.5,
+    "county_fips": 6059,
+    "county_name": "Orange",
+    "county_weights": "{\"06059\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "06059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

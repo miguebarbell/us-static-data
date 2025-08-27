@@ -1,0 +1,20 @@
+{
+    "zip": 42045,
+    "lat": 37.072,
+    "lng": -88.26453,
+    "city": "Grand Rivers",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1923.0,
+    "density": 18.2,
+    "county_fips": 21139,
+    "county_name": "Livingston",
+    "county_weights": "{\"21139\": 100}",
+    "county_names_all": "Livingston",
+    "county_fips_all": "21139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

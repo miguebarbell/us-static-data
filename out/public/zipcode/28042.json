@@ -1,0 +1,20 @@
+{
+    "zip": 28042,
+    "lat": 35.42334,
+    "lng": -81.50747,
+    "city": "Fallston",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 306.0,
+    "density": 234.4,
+    "county_fips": 37045,
+    "county_name": "Cleveland",
+    "county_weights": "{\"37045\": 100}",
+    "county_names_all": "Cleveland",
+    "county_fips_all": "37045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

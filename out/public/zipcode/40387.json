@@ -1,0 +1,20 @@
+{
+    "zip": 40387,
+    "lat": 37.93494,
+    "lng": -83.49027,
+    "city": "Wellington",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1805.0,
+    "density": 10.1,
+    "county_fips": 21165,
+    "county_name": "Menifee",
+    "county_weights": "{\"21165\": 77.61, \"21175\": 22.39}",
+    "county_names_all": "Menifee|Morgan",
+    "county_fips_all": "21165|21175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

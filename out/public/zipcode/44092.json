@@ -1,0 +1,20 @@
+{
+    "zip": 44092,
+    "lat": 41.59797,
+    "lng": -81.46867,
+    "city": "Wickliffe",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17476.0,
+    "density": 915.1,
+    "county_fips": 39085,
+    "county_name": "Lake",
+    "county_weights": "{\"39085\": 100}",
+    "county_names_all": "Lake",
+    "county_fips_all": "39085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

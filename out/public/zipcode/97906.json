@@ -1,0 +1,20 @@
+{
+    "zip": 97906,
+    "lat": 43.46049,
+    "lng": -117.81783,
+    "city": "Harper",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 286.0,
+    "density": 0.1,
+    "county_fips": 41045,
+    "county_name": "Malheur",
+    "county_weights": "{\"41045\": 100}",
+    "county_names_all": "Malheur",
+    "county_fips_all": "41045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

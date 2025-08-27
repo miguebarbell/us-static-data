@@ -1,0 +1,20 @@
+{
+    "zip": 28909,
+    "lat": 35.00125,
+    "lng": -83.90319,
+    "city": "Warne",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 356.0,
+    "density": 14.4,
+    "county_fips": 37043,
+    "county_name": "Clay",
+    "county_weights": "{\"37043\": 100}",
+    "county_names_all": "Clay",
+    "county_fips_all": "37043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

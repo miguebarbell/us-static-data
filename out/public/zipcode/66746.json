@@ -1,0 +1,20 @@
+{
+    "zip": 66746,
+    "lat": 37.6708,
+    "lng": -94.95317,
+    "city": "Hepler",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 206.0,
+    "density": 1.5,
+    "county_fips": 20037,
+    "county_name": "Crawford",
+    "county_weights": "{\"20037\": 57.07, \"20011\": 42.93}",
+    "county_names_all": "Crawford|Bourbon",
+    "county_fips_all": "20037|20011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

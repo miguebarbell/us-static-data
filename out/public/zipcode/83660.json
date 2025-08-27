@@ -1,0 +1,20 @@
+{
+    "zip": 83660,
+    "lat": 43.80016,
+    "lng": -116.9301,
+    "city": "Parma",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6401.0,
+    "density": 19.9,
+    "county_fips": 16027,
+    "county_name": "Canyon",
+    "county_weights": "{\"16027\": 71.94, \"16075\": 28.06}",
+    "county_names_all": "Canyon|Payette",
+    "county_fips_all": "16027|16075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

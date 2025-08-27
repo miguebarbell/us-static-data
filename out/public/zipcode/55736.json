@@ -1,0 +1,20 @@
+{
+    "zip": 55736,
+    "lat": 46.97542,
+    "lng": -92.92136,
+    "city": "Floodwood",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1326.0,
+    "density": 1.4,
+    "county_fips": 27137,
+    "county_name": "St. Louis",
+    "county_weights": "{\"27137\": 92.94, \"27061\": 7.06}",
+    "county_names_all": "St. Louis|Itasca",
+    "county_fips_all": "27137|27061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

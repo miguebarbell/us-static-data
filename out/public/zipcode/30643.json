@@ -1,0 +1,20 @@
+{
+    "zip": 30643,
+    "lat": 34.36464,
+    "lng": -82.91143,
+    "city": "Hartwell",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16520.0,
+    "density": 55.6,
+    "county_fips": 13147,
+    "county_name": "Hart",
+    "county_weights": "{\"13147\": 100}",
+    "county_names_all": "Hart",
+    "county_fips_all": "13147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 42261,
+    "lat": 37.22405,
+    "lng": -86.67015,
+    "city": "Morgantown",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9725.0,
+    "density": 13.0,
+    "county_fips": 21031,
+    "county_name": "Butler",
+    "county_weights": "{\"21031\": 100}",
+    "county_names_all": "Butler",
+    "county_fips_all": "21031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

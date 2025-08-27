@@ -1,0 +1,20 @@
+{
+    "zip": 16041,
+    "lat": 41.00693,
+    "lng": -79.71395,
+    "city": "Karns City",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1865.0,
+    "density": 24.8,
+    "county_fips": 42019,
+    "county_name": "Butler",
+    "county_weights": "{\"42019\": 61.31, \"42005\": 38.69}",
+    "county_names_all": "Butler|Armstrong",
+    "county_fips_all": "42019|42005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

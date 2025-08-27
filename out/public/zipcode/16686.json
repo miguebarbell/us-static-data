@@ -1,0 +1,20 @@
+{
+    "zip": 16686,
+    "lat": 40.67056,
+    "lng": -78.24102,
+    "city": "Tyrone",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13000.0,
+    "density": 34.2,
+    "county_fips": 42013,
+    "county_name": "Blair",
+    "county_weights": "{\"42013\": 68.5, \"42061\": 24.72, \"42027\": 6.78}",
+    "county_names_all": "Blair|Huntingdon|Centre",
+    "county_fips_all": "42013|42061|42027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

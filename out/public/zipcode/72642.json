@@ -1,0 +1,20 @@
+{
+    "zip": 72642,
+    "lat": 36.37013,
+    "lng": -92.54347,
+    "city": "Lakeview",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1724.0,
+    "density": 74.8,
+    "county_fips": 5005,
+    "county_name": "Baxter",
+    "county_weights": "{\"05005\": 100}",
+    "county_names_all": "Baxter",
+    "county_fips_all": "05005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

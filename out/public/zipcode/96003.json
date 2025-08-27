@@ -1,0 +1,20 @@
+{
+    "zip": 96003,
+    "lat": 40.66664,
+    "lng": -122.31564,
+    "city": "Redding",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44068.0,
+    "density": 153.1,
+    "county_fips": 6089,
+    "county_name": "Shasta",
+    "county_weights": "{\"06089\": 100}",
+    "county_names_all": "Shasta",
+    "county_fips_all": "06089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

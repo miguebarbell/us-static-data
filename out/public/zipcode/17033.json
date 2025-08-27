@@ -1,0 +1,20 @@
+{
+    "zip": 17033,
+    "lat": 40.26829,
+    "lng": -76.62754,
+    "city": "Hershey",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17009.0,
+    "density": 239.8,
+    "county_fips": 42043,
+    "county_name": "Dauphin",
+    "county_weights": "{\"42043\": 87.72, \"42075\": 12.28}",
+    "county_names_all": "Dauphin|Lebanon",
+    "county_fips_all": "42043|42075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

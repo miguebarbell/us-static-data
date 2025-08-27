@@ -1,0 +1,20 @@
+{
+    "zip": 83806,
+    "lat": 46.88243,
+    "lng": -116.37038,
+    "city": "Bovill",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 178.0,
+    "density": 2.8,
+    "county_fips": 16057,
+    "county_name": "Latah",
+    "county_weights": "{\"16057\": 100}",
+    "county_names_all": "Latah",
+    "county_fips_all": "16057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

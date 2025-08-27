@@ -1,0 +1,20 @@
+{
+    "zip": 21032,
+    "lat": 39.03376,
+    "lng": -76.60401,
+    "city": "Crownsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8553.0,
+    "density": 191.0,
+    "county_fips": 24003,
+    "county_name": "Anne Arundel",
+    "county_weights": "{\"24003\": 100}",
+    "county_names_all": "Anne Arundel",
+    "county_fips_all": "24003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

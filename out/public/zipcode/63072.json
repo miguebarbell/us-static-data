@@ -1,0 +1,20 @@
+{
+    "zip": 63072,
+    "lat": 38.36635,
+    "lng": -90.81354,
+    "city": "Robertsville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3692.0,
+    "density": 34.7,
+    "county_fips": 29071,
+    "county_name": "Franklin",
+    "county_weights": "{\"29071\": 96.96, \"29099\": 3.04}",
+    "county_names_all": "Franklin|Jefferson",
+    "county_fips_all": "29071|29099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

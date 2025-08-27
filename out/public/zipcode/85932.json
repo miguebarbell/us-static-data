@@ -1,0 +1,20 @@
+{
+    "zip": 85932,
+    "lat": 33.95958,
+    "lng": -109.1943,
+    "city": "Nutrioso",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 972.0,
+    "density": 3.1,
+    "county_fips": 4001,
+    "county_name": "Apache",
+    "county_weights": "{\"04001\": 100}",
+    "county_names_all": "Apache",
+    "county_fips_all": "04001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

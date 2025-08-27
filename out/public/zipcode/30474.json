@@ -1,0 +1,20 @@
+{
+    "zip": 30474,
+    "lat": 32.22393,
+    "lng": -82.41381,
+    "city": "Vidalia",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17125.0,
+    "density": 51.6,
+    "county_fips": 13279,
+    "county_name": "Toombs",
+    "county_weights": "{\"13279\": 71.1, \"13209\": 21.47, \"13107\": 4.55, \"13283\": 2.88}",
+    "county_names_all": "Toombs|Montgomery|Emanuel|Treutlen",
+    "county_fips_all": "13279|13209|13107|13283",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 27827,
+    "lat": 35.69823,
+    "lng": -77.51224,
+    "city": "Falkland",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 119.0,
+    "density": 240.1,
+    "county_fips": 37147,
+    "county_name": "Pitt",
+    "county_weights": "{\"37147\": 100}",
+    "county_names_all": "Pitt",
+    "county_fips_all": "37147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

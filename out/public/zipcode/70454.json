@@ -1,0 +1,20 @@
+{
+    "zip": 70454,
+    "lat": 30.39525,
+    "lng": -90.3682,
+    "city": "Ponchatoula",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33220.0,
+    "density": 73.5,
+    "county_fips": 22105,
+    "county_name": "Tangipahoa",
+    "county_weights": "{\"22105\": 100}",
+    "county_names_all": "Tangipahoa",
+    "county_fips_all": "22105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

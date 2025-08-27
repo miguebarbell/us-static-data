@@ -1,0 +1,20 @@
+{
+    "zip": 78595,
+    "lat": 26.31457,
+    "lng": -98.54038,
+    "city": "Sullivan City",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5958.0,
+    "density": 75.3,
+    "county_fips": 48215,
+    "county_name": "Hidalgo",
+    "county_weights": "{\"48215\": 78.38, \"48427\": 21.62}",
+    "county_names_all": "Hidalgo|Starr",
+    "county_fips_all": "48215|48427",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

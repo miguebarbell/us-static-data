@@ -1,0 +1,20 @@
+{
+    "zip": 37033,
+    "lat": 35.73493,
+    "lng": -87.55365,
+    "city": "Centerville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8656.0,
+    "density": 12.6,
+    "county_fips": 47081,
+    "county_name": "Hickman",
+    "county_weights": "{\"47081\": 98.04, \"47135\": 1.96}",
+    "county_names_all": "Hickman|Perry",
+    "county_fips_all": "47081|47135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

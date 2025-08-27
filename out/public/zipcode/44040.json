@@ -1,0 +1,20 @@
+{
+    "zip": 44040,
+    "lat": 41.53128,
+    "lng": -81.4112,
+    "city": "Gates Mills",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3032.0,
+    "density": 119.2,
+    "county_fips": 39035,
+    "county_name": "Cuyahoga",
+    "county_weights": "{\"39035\": 100}",
+    "county_names_all": "Cuyahoga",
+    "county_fips_all": "39035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

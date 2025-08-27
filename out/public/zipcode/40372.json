@@ -1,0 +1,20 @@
+{
+    "zip": 40372,
+    "lat": 37.90899,
+    "lng": -84.88537,
+    "city": "Salvisa",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2265.0,
+    "density": 16.3,
+    "county_fips": 21167,
+    "county_name": "Mercer",
+    "county_weights": "{\"21167\": 94.46, \"21005\": 5.54}",
+    "county_names_all": "Mercer|Anderson",
+    "county_fips_all": "21167|21005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

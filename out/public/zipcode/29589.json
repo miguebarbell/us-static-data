@@ -1,0 +1,20 @@
+{
+    "zip": 29589,
+    "lat": 34.10037,
+    "lng": -79.32015,
+    "city": "Rains",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40.0,
+    "density": 55.2,
+    "county_fips": 45067,
+    "county_name": "Marion",
+    "county_weights": "{\"45067\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "45067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 22801,
+    "lat": 38.40519,
+    "lng": -78.87931,
+    "city": "Harrisonburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39870.0,
+    "density": 453.8,
+    "county_fips": 51165,
+    "county_name": "Rockingham",
+    "county_weights": "{\"51165\": 68.84, \"51660\": 31.16}",
+    "county_names_all": "Rockingham|Harrisonburg",
+    "county_fips_all": "51165|51660",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 50210,
+    "lat": 41.18998,
+    "lng": -93.6978,
+    "city": "New Virginia",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1503.0,
+    "density": 7.9,
+    "county_fips": 19181,
+    "county_name": "Warren",
+    "county_weights": "{\"19181\": 77.23, \"19039\": 20.83, \"19121\": 1.94}",
+    "county_names_all": "Warren|Clarke|Madison",
+    "county_fips_all": "19181|19039|19121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

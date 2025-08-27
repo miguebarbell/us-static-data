@@ -1,0 +1,20 @@
+{
+    "zip": 67751,
+    "lat": 39.11799,
+    "lng": -100.35572,
+    "city": "Park",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 169.0,
+    "density": 0.8,
+    "county_fips": 20063,
+    "county_name": "Gove",
+    "county_weights": "{\"20063\": 54.98, \"20179\": 45.02}",
+    "county_names_all": "Gove|Sheridan",
+    "county_fips_all": "20063|20179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 48851,
+    "lat": 42.95469,
+    "lng": -84.9364,
+    "city": "Lyons",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2310.0,
+    "density": 27.0,
+    "county_fips": 26067,
+    "county_name": "Ionia",
+    "county_weights": "{\"26067\": 100}",
+    "county_names_all": "Ionia",
+    "county_fips_all": "26067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

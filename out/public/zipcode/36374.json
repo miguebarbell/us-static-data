@@ -1,0 +1,20 @@
+{
+    "zip": 36374,
+    "lat": 31.5723,
+    "lng": -85.48956,
+    "city": "Skipperville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 741.0,
+    "density": 5.1,
+    "county_fips": 1045,
+    "county_name": "Dale",
+    "county_weights": "{\"01045\": 88.53, \"01005\": 11.47}",
+    "county_names_all": "Dale|Barbour",
+    "county_fips_all": "01045|01005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

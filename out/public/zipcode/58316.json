@@ -1,0 +1,20 @@
+{
+    "zip": 58316,
+    "lat": 48.83532,
+    "lng": -99.78207,
+    "city": "Belcourt",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5902.0,
+    "density": 22.7,
+    "county_fips": 38079,
+    "county_name": "Rolette",
+    "county_weights": "{\"38079\": 100}",
+    "county_names_all": "Rolette",
+    "county_fips_all": "38079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

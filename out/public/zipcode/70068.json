@@ -1,0 +1,20 @@
+{
+    "zip": 70068,
+    "lat": 30.14113,
+    "lng": -90.43502,
+    "city": "La Place",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33041.0,
+    "density": 258.8,
+    "county_fips": 22095,
+    "county_name": "St. John the Baptist",
+    "county_weights": "{\"22095\": 92.76, \"22089\": 7.24}",
+    "county_names_all": "St. John the Baptist|St. Charles",
+    "county_fips_all": "22095|22089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

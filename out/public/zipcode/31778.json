@@ -1,0 +1,20 @@
+{
+    "zip": 31778,
+    "lat": 30.9754,
+    "lng": -83.70931,
+    "city": "Pavo",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2632.0,
+    "density": 9.2,
+    "county_fips": 13027,
+    "county_name": "Brooks",
+    "county_weights": "{\"13027\": 61.54, \"13275\": 35.9, \"13071\": 2.56}",
+    "county_names_all": "Brooks|Thomas|Colquitt",
+    "county_fips_all": "13027|13275|13071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

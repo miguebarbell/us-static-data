@@ -1,0 +1,20 @@
+{
+    "zip": 63950,
+    "lat": 37.26924,
+    "lng": -90.43474,
+    "city": "Lodi",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 34.0,
+    "density": 1.2,
+    "county_fips": 29223,
+    "county_name": "Wayne",
+    "county_weights": "{\"29223\": 100}",
+    "county_names_all": "Wayne",
+    "county_fips_all": "29223",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

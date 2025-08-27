@@ -1,0 +1,20 @@
+{
+    "zip": 46957,
+    "lat": 40.38866,
+    "lng": -85.49917,
+    "city": "Matthews",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 493.0,
+    "density": 444.3,
+    "county_fips": 18053,
+    "county_name": "Grant",
+    "county_weights": "{\"18053\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "18053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 31545,
+    "lat": 31.64867,
+    "lng": -81.9405,
+    "city": "Jesup",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16057.0,
+    "density": 61.1,
+    "county_fips": 13305,
+    "county_name": "Wayne",
+    "county_weights": "{\"13305\": 100}",
+    "county_names_all": "Wayne",
+    "county_fips_all": "13305",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

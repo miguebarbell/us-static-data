@@ -1,0 +1,20 @@
+{
+    "zip": 56151,
+    "lat": 44.03304,
+    "lng": -95.92833,
+    "city": "Lake Wilson",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 681.0,
+    "density": 2.8,
+    "county_fips": 27101,
+    "county_name": "Murray",
+    "county_weights": "{\"27101\": 100}",
+    "county_names_all": "Murray",
+    "county_fips_all": "27101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

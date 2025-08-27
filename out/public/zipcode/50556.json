@@ -1,0 +1,20 @@
+{
+    "zip": 50556,
+    "lat": 43.45276,
+    "lng": -94.20114,
+    "city": "Ledyard",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 156.0,
+    "density": 1.6,
+    "county_fips": 19109,
+    "county_name": "Kossuth",
+    "county_weights": "{\"19109\": 100}",
+    "county_names_all": "Kossuth",
+    "county_fips_all": "19109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 58542,
+    "lat": 46.04976,
+    "lng": -100.00269,
+    "city": "Hague",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 236.0,
+    "density": 0.5,
+    "county_fips": 38029,
+    "county_name": "Emmons",
+    "county_weights": "{\"38029\": 100}",
+    "county_names_all": "Emmons",
+    "county_fips_all": "38029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 39826,
+    "lat": 31.82092,
+    "lng": -84.32423,
+    "city": "Bronwood",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 591.0,
+    "density": 6.8,
+    "county_fips": 13273,
+    "county_name": "Terrell",
+    "county_weights": "{\"13273\": 100}",
+    "county_names_all": "Terrell",
+    "county_fips_all": "13273",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

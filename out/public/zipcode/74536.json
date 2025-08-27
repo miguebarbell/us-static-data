@@ -1,0 +1,20 @@
+{
+    "zip": 74536,
+    "lat": 34.55697,
+    "lng": -95.45955,
+    "city": "Clayton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1411.0,
+    "density": 1.8,
+    "county_fips": 40127,
+    "county_name": "Pushmataha",
+    "county_weights": "{\"40127\": 90.32, \"40077\": 6.42, \"40121\": 3.26}",
+    "county_names_all": "Pushmataha|Latimer|Pittsburg",
+    "county_fips_all": "40127|40077|40121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

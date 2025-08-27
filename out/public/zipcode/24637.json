@@ -1,0 +1,20 @@
+{
+    "zip": 24637,
+    "lat": 37.05258,
+    "lng": -81.70981,
+    "city": "Pounding Mill",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3595.0,
+    "density": 43.3,
+    "county_fips": 51185,
+    "county_name": "Tazewell",
+    "county_weights": "{\"51185\": 100}",
+    "county_names_all": "Tazewell",
+    "county_fips_all": "51185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

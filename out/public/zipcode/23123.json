@@ -1,0 +1,20 @@
+{
+    "zip": 23123,
+    "lat": 37.65238,
+    "lng": -78.3031,
+    "city": "New Canton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1934.0,
+    "density": 17.3,
+    "county_fips": 51029,
+    "county_name": "Buckingham",
+    "county_weights": "{\"51029\": 91.74, \"51049\": 8.26}",
+    "county_names_all": "Buckingham|Cumberland",
+    "county_fips_all": "51029|51049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

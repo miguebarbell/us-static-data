@@ -1,0 +1,20 @@
+{
+    "zip": 65336,
+    "lat": 38.78169,
+    "lng": -93.56241,
+    "city": "Knob Noster",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6527.0,
+    "density": 21.6,
+    "county_fips": 29101,
+    "county_name": "Johnson",
+    "county_weights": "{\"29101\": 93.38, \"29159\": 6.62}",
+    "county_names_all": "Johnson|Pettis",
+    "county_fips_all": "29101|29159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

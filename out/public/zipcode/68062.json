@@ -1,0 +1,20 @@
+{
+    "zip": 68062,
+    "lat": 42.19538,
+    "lng": -96.6743,
+    "city": "Thurston",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 364.0,
+    "density": 3.6,
+    "county_fips": 31173,
+    "county_name": "Thurston",
+    "county_weights": "{\"31173\": 100}",
+    "county_names_all": "Thurston",
+    "county_fips_all": "31173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

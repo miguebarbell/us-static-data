@@ -1,0 +1,20 @@
+{
+    "zip": 71971,
+    "lat": 34.30411,
+    "lng": -94.0313,
+    "city": "Umpire",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 558.0,
+    "density": 3.2,
+    "county_fips": 5061,
+    "county_name": "Howard",
+    "county_weights": "{\"05061\": 83.4, \"05109\": 16.6}",
+    "county_names_all": "Howard|Pike",
+    "county_fips_all": "05061|05109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

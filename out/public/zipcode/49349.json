@@ -1,0 +1,20 @@
+{
+    "zip": 49349,
+    "lat": 43.58291,
+    "lng": -85.74167,
+    "city": "White Cloud",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8059.0,
+    "density": 15.8,
+    "county_fips": 26123,
+    "county_name": "Newaygo",
+    "county_weights": "{\"26123\": 100}",
+    "county_names_all": "Newaygo",
+    "county_fips_all": "26123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

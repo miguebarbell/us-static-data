@@ -1,0 +1,20 @@
+{
+    "zip": 52002,
+    "lat": 42.52481,
+    "lng": -90.77184,
+    "city": "Dubuque",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17931.0,
+    "density": 237.4,
+    "county_fips": 19061,
+    "county_name": "Dubuque",
+    "county_weights": "{\"19061\": 100}",
+    "county_names_all": "Dubuque",
+    "county_fips_all": "19061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

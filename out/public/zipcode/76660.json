@@ -1,0 +1,20 @@
+{
+    "zip": 76660,
+    "lat": 31.93015,
+    "lng": -96.89331,
+    "city": "Malone",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 480.0,
+    "density": 5.7,
+    "county_fips": 48217,
+    "county_name": "Hill",
+    "county_weights": "{\"48217\": 100}",
+    "county_names_all": "Hill",
+    "county_fips_all": "48217",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

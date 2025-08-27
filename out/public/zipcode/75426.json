@@ -1,0 +1,20 @@
+{
+    "zip": 75426,
+    "lat": 33.65608,
+    "lng": -95.01093,
+    "city": "Clarksville",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4199.0,
+    "density": 5.0,
+    "county_fips": 48387,
+    "county_name": "Red River",
+    "county_weights": "{\"48387\": 100}",
+    "county_names_all": "Red River",
+    "county_fips_all": "48387",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 64672,
+    "lat": 40.53869,
+    "lng": -93.26015,
+    "city": "Powersville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 190.0,
+    "density": 0.9,
+    "county_fips": 29171,
+    "county_name": "Putnam",
+    "county_weights": "{\"29171\": 95.78, \"29129\": 4.22}",
+    "county_names_all": "Putnam|Mercer",
+    "county_fips_all": "29171|29129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 31602,
+    "lat": 30.86734,
+    "lng": -83.34269,
+    "city": "Valdosta",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35347.0,
+    "density": 342.0,
+    "county_fips": 13185,
+    "county_name": "Lowndes",
+    "county_weights": "{\"13185\": 61.31, \"13027\": 38.69}",
+    "county_names_all": "Lowndes|Brooks",
+    "county_fips_all": "13185|13027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

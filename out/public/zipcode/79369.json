@@ -1,0 +1,20 @@
+{
+    "zip": 79369,
+    "lat": 33.94322,
+    "lng": -102.15916,
+    "city": "Spade",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41.0,
+    "density": 2.5,
+    "county_fips": 48279,
+    "county_name": "Lamb",
+    "county_weights": "{\"48279\": 100}",
+    "county_names_all": "Lamb",
+    "county_fips_all": "48279",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

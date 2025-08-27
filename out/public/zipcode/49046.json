@@ -1,0 +1,20 @@
+{
+    "zip": 49046,
+    "lat": 42.51229,
+    "lng": -85.40249,
+    "city": "Delton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6944.0,
+    "density": 33.4,
+    "county_fips": 26015,
+    "county_name": "Barry",
+    "county_weights": "{\"26015\": 100}",
+    "county_names_all": "Barry",
+    "county_fips_all": "26015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

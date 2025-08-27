@@ -1,0 +1,20 @@
+{
+    "zip": 3570,
+    "lat": 44.49953,
+    "lng": -71.20396,
+    "city": "Berlin",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9473.0,
+    "density": 26.6,
+    "county_fips": 33007,
+    "county_name": "Coos",
+    "county_weights": "{\"33007\": 100}",
+    "county_names_all": "Coos",
+    "county_fips_all": "33007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

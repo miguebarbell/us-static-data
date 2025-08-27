@@ -1,0 +1,20 @@
+{
+    "zip": 59447,
+    "lat": 47.28116,
+    "lng": -110.45955,
+    "city": "Geyser",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 369.0,
+    "density": 0.4,
+    "county_fips": 30045,
+    "county_name": "Judith Basin",
+    "county_weights": "{\"30045\": 96.99, \"30015\": 3.01}",
+    "county_names_all": "Judith Basin|Chouteau",
+    "county_fips_all": "30045|30015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

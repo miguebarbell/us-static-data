@@ -1,0 +1,20 @@
+{
+    "zip": 42762,
+    "lat": 37.45366,
+    "lng": -86.39527,
+    "city": "Millwood",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 70.0,
+    "density": 2.9,
+    "county_fips": 21085,
+    "county_name": "Grayson",
+    "county_weights": "{\"21085\": 100}",
+    "county_names_all": "Grayson",
+    "county_fips_all": "21085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

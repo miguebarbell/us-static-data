@@ -1,0 +1,20 @@
+{
+    "zip": 76878,
+    "lat": 31.66659,
+    "lng": -99.29611,
+    "city": "Santa Anna",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1797.0,
+    "density": 2.7,
+    "county_fips": 48083,
+    "county_name": "Coleman",
+    "county_weights": "{\"48083\": 100}",
+    "county_names_all": "Coleman",
+    "county_fips_all": "48083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

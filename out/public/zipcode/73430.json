@@ -1,0 +1,20 @@
+{
+    "zip": 73430,
+    "lat": 33.91,
+    "lng": -97.36106,
+    "city": "Burneyville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1501.0,
+    "density": 6.9,
+    "county_fips": 40085,
+    "county_name": "Love",
+    "county_weights": "{\"40085\": 100}",
+    "county_names_all": "Love",
+    "county_fips_all": "40085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

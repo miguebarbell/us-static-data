@@ -1,0 +1,20 @@
+{
+    "zip": 58734,
+    "lat": 48.51508,
+    "lng": -101.95757,
+    "city": "Donnybrook",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 211.0,
+    "density": 0.4,
+    "county_fips": 38101,
+    "county_name": "Ward",
+    "county_weights": "{\"38101\": 41.04, \"38061\": 37.58, \"38075\": 21.38}",
+    "county_names_all": "Ward|Mountrail|Renville",
+    "county_fips_all": "38101|38061|38075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

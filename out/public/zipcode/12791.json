@@ -1,0 +1,20 @@
+{
+    "zip": 12791,
+    "lat": 41.81126,
+    "lng": -74.88692,
+    "city": "Youngsville",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 589.0,
+    "density": 62.8,
+    "county_fips": 36105,
+    "county_name": "Sullivan",
+    "county_weights": "{\"36105\": 100}",
+    "county_names_all": "Sullivan",
+    "county_fips_all": "36105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

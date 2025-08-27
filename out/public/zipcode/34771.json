@@ -1,0 +1,20 @@
+{
+    "zip": 34771,
+    "lat": 28.26647,
+    "lng": -81.11908,
+    "city": "Saint Cloud",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31368.0,
+    "density": 78.4,
+    "county_fips": 12097,
+    "county_name": "Osceola",
+    "county_weights": "{\"12097\": 100}",
+    "county_names_all": "Osceola",
+    "county_fips_all": "12097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

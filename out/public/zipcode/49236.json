@@ -1,0 +1,20 @@
+{
+    "zip": 49236,
+    "lat": 42.07792,
+    "lng": -83.95035,
+    "city": "Clinton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4940.0,
+    "density": 50.8,
+    "county_fips": 26091,
+    "county_name": "Lenawee",
+    "county_weights": "{\"26091\": 54.61, \"26161\": 45.39}",
+    "county_names_all": "Lenawee|Washtenaw",
+    "county_fips_all": "26091|26161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

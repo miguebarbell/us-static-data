@@ -1,0 +1,20 @@
+{
+    "zip": 76458,
+    "lat": 33.21518,
+    "lng": -98.18944,
+    "city": "Jacksboro",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6103.0,
+    "density": 4.0,
+    "county_fips": 48237,
+    "county_name": "Jack",
+    "county_weights": "{\"48237\": 99.47, \"48497\": 0.53}",
+    "county_names_all": "Jack|Wise",
+    "county_fips_all": "48237|48497",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

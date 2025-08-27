@@ -1,0 +1,20 @@
+{
+    "zip": 65649,
+    "lat": 37.621,
+    "lng": -93.61839,
+    "city": "Fair Play",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2152.0,
+    "density": 12.4,
+    "county_fips": 29167,
+    "county_name": "Polk",
+    "county_weights": "{\"29167\": 50.32, \"29039\": 49.68}",
+    "county_names_all": "Polk|Cedar",
+    "county_fips_all": "29167|29039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

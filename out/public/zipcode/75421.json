@@ -1,0 +1,20 @@
+{
+    "zip": 75421,
+    "lat": 33.6448,
+    "lng": -95.71809,
+    "city": "Brookston",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 984.0,
+    "density": 7.1,
+    "county_fips": 48277,
+    "county_name": "Lamar",
+    "county_weights": "{\"48277\": 100}",
+    "county_names_all": "Lamar",
+    "county_fips_all": "48277",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

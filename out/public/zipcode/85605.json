@@ -1,0 +1,20 @@
+{
+    "zip": 85605,
+    "lat": 32.29784,
+    "lng": -109.47644,
+    "city": "Bowie",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 728.0,
+    "density": 0.9,
+    "county_fips": 4003,
+    "county_name": "Cochise",
+    "county_weights": "{\"04003\": 100}",
+    "county_names_all": "Cochise",
+    "county_fips_all": "04003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

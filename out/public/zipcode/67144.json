@@ -1,0 +1,20 @@
+{
+    "zip": 67144,
+    "lat": 37.81673,
+    "lng": -97.00539,
+    "city": "Towanda",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2775.0,
+    "density": 22.8,
+    "county_fips": 20015,
+    "county_name": "Butler",
+    "county_weights": "{\"20015\": 100}",
+    "county_names_all": "Butler",
+    "county_fips_all": "20015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

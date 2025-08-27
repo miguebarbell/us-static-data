@@ -1,0 +1,20 @@
+{
+    "zip": 63557,
+    "lat": 39.98297,
+    "lng": -92.88045,
+    "city": "New Boston",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 270.0,
+    "density": 1.2,
+    "county_fips": 29115,
+    "county_name": "Linn",
+    "county_weights": "{\"29115\": 66.37, \"29121\": 21.28, \"29001\": 9.19, \"29211\": 3.16}",
+    "county_names_all": "Linn|Macon|Adair|Sullivan",
+    "county_fips_all": "29115|29121|29001|29211",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

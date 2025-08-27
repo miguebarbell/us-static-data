@@ -1,0 +1,20 @@
+{
+    "zip": 75959,
+    "lat": 31.51021,
+    "lng": -93.83994,
+    "city": "Milam",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 842.0,
+    "density": 6.2,
+    "county_fips": 48403,
+    "county_name": "Sabine",
+    "county_weights": "{\"48403\": 100}",
+    "county_names_all": "Sabine",
+    "county_fips_all": "48403",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

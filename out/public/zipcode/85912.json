@@ -1,0 +1,20 @@
+{
+    "zip": 85912,
+    "lat": 34.41962,
+    "lng": -109.91624,
+    "city": "White Mountain Lake",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 130.0,
+    "density": 1.2,
+    "county_fips": 4017,
+    "county_name": "Navajo",
+    "county_weights": "{\"04017\": 100}",
+    "county_names_all": "Navajo",
+    "county_fips_all": "04017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

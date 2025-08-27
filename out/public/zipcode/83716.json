@@ -1,0 +1,20 @@
+{
+    "zip": 83716,
+    "lat": 43.67271,
+    "lng": -115.6548,
+    "city": "Boise",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21091.0,
+    "density": 7.8,
+    "county_fips": 16039,
+    "county_name": "Elmore",
+    "county_weights": "{\"16039\": 60.34, \"16015\": 23.82, \"16001\": 15.84}",
+    "county_names_all": "Elmore|Boise|Ada",
+    "county_fips_all": "16039|16015|16001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

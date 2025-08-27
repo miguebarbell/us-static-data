@@ -1,0 +1,20 @@
+{
+    "zip": 25688,
+    "lat": 37.63952,
+    "lng": -82.15832,
+    "city": "North Matewan",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 320.0,
+    "density": 35.4,
+    "county_fips": 54059,
+    "county_name": "Mingo",
+    "county_weights": "{\"54059\": 100}",
+    "county_names_all": "Mingo",
+    "county_fips_all": "54059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 85530,
+    "lat": 33.09361,
+    "lng": -110.23109,
+    "city": "Bylas",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2063.0,
+    "density": 2.1,
+    "county_fips": 4009,
+    "county_name": "Graham",
+    "county_weights": "{\"04009\": 100}",
+    "county_names_all": "Graham",
+    "county_fips_all": "04009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

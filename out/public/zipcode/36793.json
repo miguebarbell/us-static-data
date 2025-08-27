@@ -1,0 +1,20 @@
+{
+    "zip": 36793,
+    "lat": 32.8292,
+    "lng": -87.00947,
+    "city": "Lawley",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 743.0,
+    "density": 4.8,
+    "county_fips": 1007,
+    "county_name": "Bibb",
+    "county_weights": "{\"01007\": 45.92, \"01021\": 30.95, \"01105\": 23.13}",
+    "county_names_all": "Bibb|Chilton|Perry",
+    "county_fips_all": "01007|01021|01105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

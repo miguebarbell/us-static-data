@@ -1,0 +1,20 @@
+{
+    "zip": 76250,
+    "lat": 33.63006,
+    "lng": -97.24237,
+    "city": "Lindsay",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 973.0,
+    "density": 90.6,
+    "county_fips": 48097,
+    "county_name": "Cooke",
+    "county_weights": "{\"48097\": 100}",
+    "county_names_all": "Cooke",
+    "county_fips_all": "48097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

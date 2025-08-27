@@ -1,0 +1,20 @@
+{
+    "zip": 40157,
+    "lat": 38.02111,
+    "lng": -86.37694,
+    "city": "Payneville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 845.0,
+    "density": 10.1,
+    "county_fips": 21163,
+    "county_name": "Meade",
+    "county_weights": "{\"21163\": 89.66, \"21027\": 10.34}",
+    "county_names_all": "Meade|Breckinridge",
+    "county_fips_all": "21163|21027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

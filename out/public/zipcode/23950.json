@@ -1,0 +1,20 @@
+{
+    "zip": 23950,
+    "lat": 36.66005,
+    "lng": -78.07699,
+    "city": "La Crosse",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3732.0,
+    "density": 21.7,
+    "county_fips": 51117,
+    "county_name": "Mecklenburg",
+    "county_weights": "{\"51117\": 84.41, \"51025\": 15.59}",
+    "county_names_all": "Mecklenburg|Brunswick",
+    "county_fips_all": "51117|51025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 52030,
+    "lat": 42.15322,
+    "lng": -90.59219,
+    "city": "Andrew",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 393.0,
+    "density": 611.9,
+    "county_fips": 19097,
+    "county_name": "Jackson",
+    "county_weights": "{\"19097\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "19097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

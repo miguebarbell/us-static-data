@@ -1,0 +1,20 @@
+{
+    "zip": 6042,
+    "lat": 41.79743,
+    "lng": -72.52704,
+    "city": "Manchester",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23302.0,
+    "density": 858.7,
+    "county_fips": 9110,
+    "county_name": "Capitol",
+    "county_weights": "{\"09110\": 100}",
+    "county_names_all": "Capitol",
+    "county_fips_all": "09110",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

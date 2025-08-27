@@ -1,0 +1,20 @@
+{
+    "zip": 94922,
+    "lat": 38.35683,
+    "lng": -122.95098,
+    "city": "Bodega",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 312.0,
+    "density": 27.6,
+    "county_fips": 6097,
+    "county_name": "Sonoma",
+    "county_weights": "{\"06097\": 100}",
+    "county_names_all": "Sonoma",
+    "county_fips_all": "06097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 54874,
+    "lat": 46.56911,
+    "lng": -91.94304,
+    "city": "South Range",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3813.0,
+    "density": 10.2,
+    "county_fips": 55031,
+    "county_name": "Douglas",
+    "county_weights": "{\"55031\": 100}",
+    "county_names_all": "Douglas",
+    "county_fips_all": "55031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

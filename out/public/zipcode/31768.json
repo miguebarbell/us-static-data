@@ -1,0 +1,20 @@
+{
+    "zip": 31768,
+    "lat": 31.19329,
+    "lng": -83.84047,
+    "city": "Moultrie",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21281.0,
+    "density": 57.7,
+    "county_fips": 13071,
+    "county_name": "Colquitt",
+    "county_weights": "{\"13071\": 100}",
+    "county_names_all": "Colquitt",
+    "county_fips_all": "13071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

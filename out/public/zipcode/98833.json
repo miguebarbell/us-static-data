@@ -1,0 +1,20 @@
+{
+    "zip": 98833,
+    "lat": 48.77199,
+    "lng": -120.49447,
+    "city": "Mazama",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 238.0,
+    "density": 0.2,
+    "county_fips": 53047,
+    "county_name": "Okanogan",
+    "county_weights": "{\"53047\": 100}",
+    "county_names_all": "Okanogan",
+    "county_fips_all": "53047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

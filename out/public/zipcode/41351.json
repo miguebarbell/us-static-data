@@ -1,0 +1,20 @@
+{
+    "zip": 41351,
+    "lat": 37.32754,
+    "lng": -83.59363,
+    "city": "Mistletoe",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13.0,
+    "density": 0.3,
+    "county_fips": 21189,
+    "county_name": "Owsley",
+    "county_weights": "{\"21189\": 100}",
+    "county_names_all": "Owsley",
+    "county_fips_all": "21189",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

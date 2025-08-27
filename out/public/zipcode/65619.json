@@ -1,0 +1,20 @@
+{
+    "zip": 65619,
+    "lat": 37.12312,
+    "lng": -93.38864,
+    "city": "Brookline",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9207.0,
+    "density": 184.9,
+    "county_fips": 29077,
+    "county_name": "Greene",
+    "county_weights": "{\"29077\": 82.55, \"29043\": 17.45}",
+    "county_names_all": "Greene|Christian",
+    "county_fips_all": "29077|29043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

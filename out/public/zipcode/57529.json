@@ -1,0 +1,20 @@
+{
+    "zip": 57529,
+    "lat": 43.22931,
+    "lng": -99.57019,
+    "city": "Dallas",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 250.0,
+    "density": 0.4,
+    "county_fips": 46123,
+    "county_name": "Tripp",
+    "county_weights": "{\"46123\": 70.14, \"46053\": 29.86}",
+    "county_names_all": "Tripp|Gregory",
+    "county_fips_all": "46123|46053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

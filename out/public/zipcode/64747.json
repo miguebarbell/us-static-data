@@ -1,0 +1,20 @@
+{
+    "zip": 64747,
+    "lat": 38.57353,
+    "lng": -94.17399,
+    "city": "Garden City",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4066.0,
+    "density": 12.5,
+    "county_fips": 29037,
+    "county_name": "Cass",
+    "county_weights": "{\"29037\": 80.72, \"29101\": 19.28}",
+    "county_names_all": "Cass|Johnson",
+    "county_fips_all": "29037|29101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

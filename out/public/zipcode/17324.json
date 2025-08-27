@@ -1,0 +1,20 @@
+{
+    "zip": 17324,
+    "lat": 40.03616,
+    "lng": -77.22772,
+    "city": "Gardners",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4469.0,
+    "density": 32.4,
+    "county_fips": 42041,
+    "county_name": "Cumberland",
+    "county_weights": "{\"42041\": 65.18, \"42001\": 34.82}",
+    "county_names_all": "Cumberland|Adams",
+    "county_fips_all": "42041|42001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

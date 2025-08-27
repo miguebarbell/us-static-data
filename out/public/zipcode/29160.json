@@ -1,0 +1,20 @@
+{
+    "zip": 29160,
+    "lat": 33.74358,
+    "lng": -81.04188,
+    "city": "Swansea",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7196.0,
+    "density": 23.5,
+    "county_fips": 45063,
+    "county_name": "Lexington",
+    "county_weights": "{\"45063\": 61.5, \"45017\": 38.08, \"45075\": 0.42}",
+    "county_names_all": "Lexington|Calhoun|Orangeburg",
+    "county_fips_all": "45063|45017|45075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

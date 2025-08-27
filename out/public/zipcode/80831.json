@@ -1,0 +1,20 @@
+{
+    "zip": 80831,
+    "lat": 38.98867,
+    "lng": -104.51172,
+    "city": "Peyton",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33287.0,
+    "density": 68.1,
+    "county_fips": 8041,
+    "county_name": "El Paso",
+    "county_weights": "{\"08041\": 94.85, \"08039\": 5.15}",
+    "county_names_all": "El Paso|Elbert",
+    "county_fips_all": "08041|08039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

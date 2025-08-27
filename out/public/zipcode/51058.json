@@ -1,0 +1,20 @@
+{
+    "zip": 51058,
+    "lat": 42.98367,
+    "lng": -95.46879,
+    "city": "Sutherland",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1020.0,
+    "density": 4.6,
+    "county_fips": 19141,
+    "county_name": "O'Brien",
+    "county_weights": "{\"19141\": 92.62, \"19035\": 6.19, \"19041\": 1.19}",
+    "county_names_all": "O'Brien|Cherokee|Clay",
+    "county_fips_all": "19141|19035|19041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

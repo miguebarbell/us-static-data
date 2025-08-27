@@ -1,0 +1,20 @@
+{
+    "zip": 97903,
+    "lat": 44.27772,
+    "lng": -117.59775,
+    "city": "Brogan",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29.0,
+    "density": 0.1,
+    "county_fips": 41045,
+    "county_name": "Malheur",
+    "county_weights": "{\"41045\": 100}",
+    "county_names_all": "Malheur",
+    "county_fips_all": "41045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

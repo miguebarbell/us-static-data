@@ -1,0 +1,20 @@
+{
+    "zip": 75457,
+    "lat": 33.1746,
+    "lng": -95.21125,
+    "city": "Mount Vernon",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6115.0,
+    "density": 18.4,
+    "county_fips": 48159,
+    "county_name": "Franklin",
+    "county_weights": "{\"48159\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "48159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

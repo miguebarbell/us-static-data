@@ -1,0 +1,20 @@
+{
+    "zip": 24467,
+    "lat": 38.2592,
+    "lng": -78.97249,
+    "city": "Mount Sidney",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2500.0,
+    "density": 39.8,
+    "county_fips": 51015,
+    "county_name": "Augusta",
+    "county_weights": "{\"51015\": 100}",
+    "county_names_all": "Augusta",
+    "county_fips_all": "51015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

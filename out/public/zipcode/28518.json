@@ -1,0 +1,20 @@
+{
+    "zip": 28518,
+    "lat": 34.89678,
+    "lng": -77.75569,
+    "city": "Beulaville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8065.0,
+    "density": 32.6,
+    "county_fips": 37061,
+    "county_name": "Duplin",
+    "county_weights": "{\"37061\": 88.88, \"37133\": 11.12}",
+    "county_names_all": "Duplin|Onslow",
+    "county_fips_all": "37061|37133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

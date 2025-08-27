@@ -1,0 +1,20 @@
+{
+    "zip": 49918,
+    "lat": 47.43585,
+    "lng": -87.81238,
+    "city": "Copper Harbor",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 135.0,
+    "density": 1.4,
+    "county_fips": 26083,
+    "county_name": "Keweenaw",
+    "county_weights": "{\"26083\": 100}",
+    "county_names_all": "Keweenaw",
+    "county_fips_all": "26083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

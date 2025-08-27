@@ -1,0 +1,20 @@
+{
+    "zip": 26426,
+    "lat": 39.28758,
+    "lng": -80.56313,
+    "city": "Salem",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7302.0,
+    "density": 20.7,
+    "county_fips": 54017,
+    "county_name": "Doddridge",
+    "county_weights": "{\"54017\": 54.46, \"54033\": 45.54}",
+    "county_names_all": "Doddridge|Harrison",
+    "county_fips_all": "54017|54033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

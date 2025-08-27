@@ -1,0 +1,20 @@
+{
+    "zip": 60431,
+    "lat": 41.53355,
+    "lng": -88.20568,
+    "city": "Joliet",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26789.0,
+    "density": 805.4,
+    "county_fips": 17197,
+    "county_name": "Will",
+    "county_weights": "{\"17197\": 73.78, \"17093\": 26.22}",
+    "county_names_all": "Will|Kendall",
+    "county_fips_all": "17197|17093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 33428,
+    "lat": 26.35054,
+    "lng": -80.22792,
+    "city": "Boca Raton",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 46228.0,
+    "density": 1548.9,
+    "county_fips": 12099,
+    "county_name": "Palm Beach",
+    "county_weights": "{\"12099\": 99.86, \"12011\": 0.14}",
+    "county_names_all": "Palm Beach|Broward",
+    "county_fips_all": "12099|12011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 85928,
+    "lat": 34.52276,
+    "lng": -110.5506,
+    "city": "Heber",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 376.0,
+    "density": 0.5,
+    "county_fips": 4017,
+    "county_name": "Navajo",
+    "county_weights": "{\"04017\": 100}",
+    "county_names_all": "Navajo",
+    "county_fips_all": "04017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

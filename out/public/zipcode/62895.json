@@ -1,0 +1,20 @@
+{
+    "zip": 62895,
+    "lat": 38.30364,
+    "lng": -88.54702,
+    "city": "Wayne City",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2090.0,
+    "density": 7.3,
+    "county_fips": 17191,
+    "county_name": "Wayne",
+    "county_weights": "{\"17191\": 75.64, \"17065\": 24.36}",
+    "county_names_all": "Wayne|Hamilton",
+    "county_fips_all": "17191|17065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

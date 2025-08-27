@@ -1,0 +1,20 @@
+{
+    "zip": 72431,
+    "lat": 35.63396,
+    "lng": -91.08184,
+    "city": "Grubbs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 363.0,
+    "density": 22.3,
+    "county_fips": 5067,
+    "county_name": "Jackson",
+    "county_weights": "{\"05067\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "05067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

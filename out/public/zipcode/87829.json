@@ -1,0 +1,20 @@
+{
+    "zip": 87829,
+    "lat": 34.25215,
+    "lng": -108.64369,
+    "city": "Quemado",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 840.0,
+    "density": 0.2,
+    "county_fips": 35003,
+    "county_name": "Catron",
+    "county_weights": "{\"35003\": 100}",
+    "county_names_all": "Catron",
+    "county_fips_all": "35003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

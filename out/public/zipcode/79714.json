@@ -1,0 +1,20 @@
+{
+    "zip": 79714,
+    "lat": 32.32947,
+    "lng": -102.71323,
+    "city": "Andrews",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18518.0,
+    "density": 9.4,
+    "county_fips": 48003,
+    "county_name": "Andrews",
+    "county_weights": "{\"48003\": 100}",
+    "county_names_all": "Andrews",
+    "county_fips_all": "48003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

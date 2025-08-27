@@ -1,0 +1,20 @@
+{
+    "zip": 77523,
+    "lat": 29.77598,
+    "lng": -94.8632,
+    "city": "Baytown",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28411.0,
+    "density": 128.8,
+    "county_fips": 48071,
+    "county_name": "Chambers",
+    "county_weights": "{\"48071\": 95.22, \"48201\": 4.78}",
+    "county_names_all": "Chambers|Harris",
+    "county_fips_all": "48071|48201",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

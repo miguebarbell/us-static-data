@@ -1,0 +1,20 @@
+{
+    "zip": 68057,
+    "lat": 41.65888,
+    "lng": -96.71893,
+    "city": "Scribner",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1435.0,
+    "density": 4.3,
+    "county_fips": 31053,
+    "county_name": "Dodge",
+    "county_weights": "{\"31053\": 98.99, \"31039\": 1.01}",
+    "county_names_all": "Dodge|Cuming",
+    "county_fips_all": "31053|31039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

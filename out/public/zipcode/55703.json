@@ -1,0 +1,20 @@
+{
+    "zip": 55703,
+    "lat": 47.73932,
+    "lng": -92.78119,
+    "city": "Angora",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 929.0,
+    "density": 2.4,
+    "county_fips": 27137,
+    "county_name": "St. Louis",
+    "county_weights": "{\"27137\": 100}",
+    "county_names_all": "St. Louis",
+    "county_fips_all": "27137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

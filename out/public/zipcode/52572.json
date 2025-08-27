@@ -1,0 +1,20 @@
+{
+    "zip": 52572,
+    "lat": 40.67795,
+    "lng": -92.69163,
+    "city": "Moulton",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 963.0,
+    "density": 3.7,
+    "county_fips": 19007,
+    "county_name": "Appanoose",
+    "county_weights": "{\"19007\": 84.12, \"19051\": 15.88}",
+    "county_names_all": "Appanoose|Davis",
+    "county_fips_all": "19007|19051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

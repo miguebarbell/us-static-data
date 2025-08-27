@@ -1,0 +1,20 @@
+{
+    "zip": 17078,
+    "lat": 40.28952,
+    "lng": -76.58484,
+    "city": "Palmyra",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23798.0,
+    "density": 305.4,
+    "county_fips": 42075,
+    "county_name": "Lebanon",
+    "county_weights": "{\"42075\": 83.41, \"42043\": 16.59}",
+    "county_names_all": "Lebanon|Dauphin",
+    "county_fips_all": "42075|42043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

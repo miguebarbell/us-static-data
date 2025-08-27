@@ -1,0 +1,20 @@
+{
+    "zip": 61528,
+    "lat": 40.7757,
+    "lng": -89.7227,
+    "city": "Edwards",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3263.0,
+    "density": 68.0,
+    "county_fips": 17143,
+    "county_name": "Peoria",
+    "county_weights": "{\"17143\": 100}",
+    "county_names_all": "Peoria",
+    "county_fips_all": "17143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

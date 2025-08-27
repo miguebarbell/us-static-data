@@ -1,0 +1,20 @@
+{
+    "zip": 33149,
+    "lat": 25.72479,
+    "lng": -80.16118,
+    "city": "Key Biscayne",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14628.0,
+    "density": 1199.5,
+    "county_fips": 12086,
+    "county_name": "Miami-Dade",
+    "county_weights": "{\"12086\": 100}",
+    "county_names_all": "Miami-Dade",
+    "county_fips_all": "12086",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 13615,
+    "lat": 44.00569,
+    "lng": -75.98328,
+    "city": "Brownville",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 538.0,
+    "density": 325.4,
+    "county_fips": 36045,
+    "county_name": "Jefferson",
+    "county_weights": "{\"36045\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "36045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

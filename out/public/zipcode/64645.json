@@ -1,0 +1,20 @@
+{
+    "zip": 64645,
+    "lat": 40.29834,
+    "lng": -93.32575,
+    "city": "Harris",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 214.0,
+    "density": 1.2,
+    "county_fips": 29211,
+    "county_name": "Sullivan",
+    "county_weights": "{\"29211\": 70.8, \"29129\": 29.2}",
+    "county_names_all": "Sullivan|Mercer",
+    "county_fips_all": "29211|29129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

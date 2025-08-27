@@ -1,0 +1,20 @@
+{
+    "zip": 97123,
+    "lat": 45.44353,
+    "lng": -122.98048,
+    "city": "Hillsboro",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 48622.0,
+    "density": 337.2,
+    "county_fips": 41067,
+    "county_name": "Washington",
+    "county_weights": "{\"41067\": 89.49, \"41071\": 10.51}",
+    "county_names_all": "Washington|Yamhill",
+    "county_fips_all": "41067|41071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

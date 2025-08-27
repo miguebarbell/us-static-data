@@ -1,0 +1,20 @@
+{
+    "zip": 55336,
+    "lat": 44.76627,
+    "lng": -94.17803,
+    "city": "Glencoe",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8266.0,
+    "density": 23.5,
+    "county_fips": 27085,
+    "county_name": "McLeod",
+    "county_weights": "{\"27085\": 79.46, \"27143\": 20.54}",
+    "county_names_all": "McLeod|Sibley",
+    "county_fips_all": "27085|27143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 77386,
+    "lat": 30.10153,
+    "lng": -95.3561,
+    "city": "Spring",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 69549.0,
+    "density": 658.8,
+    "county_fips": 48339,
+    "county_name": "Montgomery",
+    "county_weights": "{\"48339\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "48339",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

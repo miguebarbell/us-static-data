@@ -1,0 +1,20 @@
+{
+    "zip": 52035,
+    "lat": 42.65996,
+    "lng": -91.18784,
+    "city": "Colesburg",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1345.0,
+    "density": 10.4,
+    "county_fips": 19043,
+    "county_name": "Clayton",
+    "county_weights": "{\"19043\": 62.27, \"19055\": 37.73}",
+    "county_names_all": "Clayton|Delaware",
+    "county_fips_all": "19043|19055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

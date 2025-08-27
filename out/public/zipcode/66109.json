@@ -1,0 +1,20 @@
+{
+    "zip": 66109,
+    "lat": 39.16367,
+    "lng": -94.8283,
+    "city": "Kansas City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27715.0,
+    "density": 233.4,
+    "county_fips": 20209,
+    "county_name": "Wyandotte",
+    "county_weights": "{\"20209\": 93.33, \"20103\": 6.67}",
+    "county_names_all": "Wyandotte|Leavenworth",
+    "county_fips_all": "20209|20103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

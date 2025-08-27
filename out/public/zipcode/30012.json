@@ -1,0 +1,20 @@
+{
+    "zip": 30012,
+    "lat": 33.71739,
+    "lng": -83.99913,
+    "city": "Conyers",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33034.0,
+    "density": 300.5,
+    "county_fips": 13247,
+    "county_name": "Rockdale",
+    "county_weights": "{\"13247\": 96.61, \"13297\": 2.8, \"13089\": 0.59}",
+    "county_names_all": "Rockdale|Walton|DeKalb",
+    "county_fips_all": "13247|13297|13089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

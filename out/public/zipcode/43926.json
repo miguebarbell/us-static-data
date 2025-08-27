@@ -1,0 +1,20 @@
+{
+    "zip": 43926,
+    "lat": 40.51068,
+    "lng": -80.62252,
+    "city": "Empire",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 270.0,
+    "density": 344.7,
+    "county_fips": 39081,
+    "county_name": "Jefferson",
+    "county_weights": "{\"39081\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "39081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

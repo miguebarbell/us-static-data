@@ -1,0 +1,20 @@
+{
+    "zip": 59874,
+    "lat": 47.80675,
+    "lng": -115.60749,
+    "city": "Trout Creek",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2064.0,
+    "density": 2.2,
+    "county_fips": 30089,
+    "county_name": "Sanders",
+    "county_weights": "{\"30089\": 100}",
+    "county_names_all": "Sanders",
+    "county_fips_all": "30089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

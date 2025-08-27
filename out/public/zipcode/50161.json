@@ -1,0 +1,20 @@
+{
+    "zip": 50161,
+    "lat": 41.84764,
+    "lng": -93.39914,
+    "city": "Maxwell",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2081.0,
+    "density": 10.1,
+    "county_fips": 19153,
+    "county_name": "Polk",
+    "county_weights": "{\"19153\": 55.74, \"19169\": 40.94, \"19099\": 3.32}",
+    "county_names_all": "Polk|Story|Jasper",
+    "county_fips_all": "19153|19169|19099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

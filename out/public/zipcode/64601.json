@@ -1,0 +1,20 @@
+{
+    "zip": 64601,
+    "lat": 39.8044,
+    "lng": -93.57334,
+    "city": "Chillicothe",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12110.0,
+    "density": 19.6,
+    "county_fips": 29117,
+    "county_name": "Livingston",
+    "county_weights": "{\"29117\": 99.7, \"29061\": 0.3}",
+    "county_names_all": "Livingston|Daviess",
+    "county_fips_all": "29117|29061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

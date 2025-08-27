@@ -1,0 +1,20 @@
+{
+    "zip": 67105,
+    "lat": 37.22001,
+    "lng": -97.67825,
+    "city": "Milan",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 156.0,
+    "density": 1.0,
+    "county_fips": 20191,
+    "county_name": "Sumner",
+    "county_weights": "{\"20191\": 100}",
+    "county_names_all": "Sumner",
+    "county_fips_all": "20191",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

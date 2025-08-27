@@ -1,0 +1,20 @@
+{
+    "zip": 45815,
+    "lat": 41.157,
+    "lng": -83.94267,
+    "city": "Belmore",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 69.0,
+    "density": 125.9,
+    "county_fips": 39137,
+    "county_name": "Putnam",
+    "county_weights": "{\"39137\": 100}",
+    "county_names_all": "Putnam",
+    "county_fips_all": "39137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

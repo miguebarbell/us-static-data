@@ -1,0 +1,20 @@
+{
+    "zip": 99348,
+    "lat": 46.38681,
+    "lng": -118.44731,
+    "city": "Prescott",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1733.0,
+    "density": 1.3,
+    "county_fips": 53071,
+    "county_name": "Walla Walla",
+    "county_weights": "{\"53071\": 95.91, \"53013\": 4.09}",
+    "county_names_all": "Walla Walla|Columbia",
+    "county_fips_all": "53071|53013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

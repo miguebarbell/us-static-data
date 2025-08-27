@@ -1,0 +1,20 @@
+{
+    "zip": 5867,
+    "lat": 44.66505,
+    "lng": -72.04366,
+    "city": "Sutton",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 677.0,
+    "density": 7.5,
+    "county_fips": 50005,
+    "county_name": "Caledonia",
+    "county_weights": "{\"50005\": 100}",
+    "county_names_all": "Caledonia",
+    "county_fips_all": "50005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

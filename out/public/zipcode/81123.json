@@ -1,0 +1,20 @@
+{
+    "zip": 81123,
+    "lat": 37.40469,
+    "lng": -105.5659,
+    "city": "Blanca",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 726.0,
+    "density": 1.9,
+    "county_fips": 8023,
+    "county_name": "Costilla",
+    "county_weights": "{\"08023\": 100}",
+    "county_names_all": "Costilla",
+    "county_fips_all": "08023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

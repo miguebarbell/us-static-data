@@ -1,0 +1,20 @@
+{
+    "zip": 31637,
+    "lat": 31.293,
+    "lng": -83.44092,
+    "city": "Lenox",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3006.0,
+    "density": 14.1,
+    "county_fips": 13075,
+    "county_name": "Cook",
+    "county_weights": "{\"13075\": 41.58, \"13019\": 35.34, \"13071\": 16.74, \"13277\": 6.33}",
+    "county_names_all": "Cook|Berrien|Colquitt|Tift",
+    "county_fips_all": "13075|13019|13071|13277",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

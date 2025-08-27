@@ -1,0 +1,20 @@
+{
+    "zip": 64689,
+    "lat": 39.87461,
+    "lng": -94.152,
+    "city": "Winston",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 442.0,
+    "density": 5.2,
+    "county_fips": 29061,
+    "county_name": "Daviess",
+    "county_weights": "{\"29061\": 100}",
+    "county_names_all": "Daviess",
+    "county_fips_all": "29061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

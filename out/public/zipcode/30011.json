@@ -1,0 +1,20 @@
+{
+    "zip": 30011,
+    "lat": 34.02281,
+    "lng": -83.8364,
+    "city": "Auburn",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20859.0,
+    "density": 299.8,
+    "county_fips": 13013,
+    "county_name": "Barrow",
+    "county_weights": "{\"13013\": 73.89, \"13135\": 26.11}",
+    "county_names_all": "Barrow|Gwinnett",
+    "county_fips_all": "13013|13135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

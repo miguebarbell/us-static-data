@@ -1,0 +1,20 @@
+{
+    "zip": 98558,
+    "lat": 46.93579,
+    "lng": -122.55998,
+    "city": "Mckenna",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 61.0,
+    "density": 364.0,
+    "county_fips": 53053,
+    "county_name": "Pierce",
+    "county_weights": "{\"53053\": 98.83, \"53067\": 1.17}",
+    "county_names_all": "Pierce|Thurston",
+    "county_fips_all": "53053|53067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

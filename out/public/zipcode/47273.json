@@ -1,0 +1,20 @@
+{
+    "zip": 47273,
+    "lat": 39.07472,
+    "lng": -85.7359,
+    "city": "Scipio",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1838.0,
+    "density": 22.4,
+    "county_fips": 18079,
+    "county_name": "Jennings",
+    "county_weights": "{\"18079\": 96.78, \"18005\": 3.22}",
+    "county_names_all": "Jennings|Bartholomew",
+    "county_fips_all": "18079|18005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

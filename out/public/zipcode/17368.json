@@ -1,0 +1,20 @@
+{
+    "zip": 17368,
+    "lat": 39.98463,
+    "lng": -76.51966,
+    "city": "Wrightsville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6768.0,
+    "density": 139.6,
+    "county_fips": 42133,
+    "county_name": "York",
+    "county_weights": "{\"42133\": 99.9, \"42071\": 0.1}",
+    "county_names_all": "York|Lancaster",
+    "county_fips_all": "42133|42071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

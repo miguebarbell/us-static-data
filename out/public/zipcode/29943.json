@@ -1,0 +1,20 @@
+{
+    "zip": 29943,
+    "lat": 32.4821,
+    "lng": -81.14952,
+    "city": "Tillman",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 308.0,
+    "density": 4.3,
+    "county_fips": 45053,
+    "county_name": "Jasper",
+    "county_weights": "{\"45053\": 100}",
+    "county_names_all": "Jasper",
+    "county_fips_all": "45053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

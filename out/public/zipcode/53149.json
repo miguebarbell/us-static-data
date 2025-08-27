@@ -1,0 +1,20 @@
+{
+    "zip": 53149,
+    "lat": 42.87436,
+    "lng": -88.34077,
+    "city": "Mukwonago",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19601.0,
+    "density": 130.7,
+    "county_fips": 55133,
+    "county_name": "Waukesha",
+    "county_weights": "{\"55133\": 84.0, \"55127\": 9.3, \"55101\": 6.7}",
+    "county_names_all": "Waukesha|Walworth|Racine",
+    "county_fips_all": "55133|55127|55101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

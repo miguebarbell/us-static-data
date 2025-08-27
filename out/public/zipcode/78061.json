@@ -1,0 +1,20 @@
+{
+    "zip": 78061,
+    "lat": 28.90162,
+    "lng": -99.13104,
+    "city": "Pearsall",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9968.0,
+    "density": 7.5,
+    "county_fips": 48163,
+    "county_name": "Frio",
+    "county_weights": "{\"48163\": 100}",
+    "county_names_all": "Frio",
+    "county_fips_all": "48163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 20110,
+    "lat": 38.7464,
+    "lng": -77.48699,
+    "city": "Manassas",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 49452.0,
+    "density": 1487.5,
+    "county_fips": 51683,
+    "county_name": "Manassas",
+    "county_weights": "{\"51683\": 76.72, \"51153\": 23.28}",
+    "county_names_all": "Manassas|Prince William",
+    "county_fips_all": "51683|51153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

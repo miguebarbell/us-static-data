@@ -1,0 +1,20 @@
+{
+    "zip": 99674,
+    "lat": 61.69166,
+    "lng": -147.81997,
+    "city": "Sutton",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1473.0,
+    "density": 0.3,
+    "county_fips": 2170,
+    "county_name": "Matanuska-Susitna",
+    "county_weights": "{\"02170\": 100}",
+    "county_names_all": "Matanuska-Susitna",
+    "county_fips_all": "02170",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

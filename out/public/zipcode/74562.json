@@ -1,0 +1,20 @@
+{
+    "zip": 74562,
+    "lat": 34.29683,
+    "lng": -95.29637,
+    "city": "Rattan",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 716.0,
+    "density": 2.5,
+    "county_fips": 40127,
+    "county_name": "Pushmataha",
+    "county_weights": "{\"40127\": 100}",
+    "county_names_all": "Pushmataha",
+    "county_fips_all": "40127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

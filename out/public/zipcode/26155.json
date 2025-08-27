@@ -1,0 +1,20 @@
+{
+    "zip": 26155,
+    "lat": 39.6333,
+    "lng": -80.76707,
+    "city": "New Martinsville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7715.0,
+    "density": 26.1,
+    "county_fips": 54103,
+    "county_name": "Wetzel",
+    "county_weights": "{\"54103\": 85.51, \"54095\": 12.53, \"54051\": 1.96}",
+    "county_names_all": "Wetzel|Tyler|Marshall",
+    "county_fips_all": "54103|54095|54051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

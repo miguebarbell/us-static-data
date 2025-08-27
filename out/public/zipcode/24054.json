@@ -1,0 +1,20 @@
+{
+    "zip": 24054,
+    "lat": 36.67806,
+    "lng": -79.70396,
+    "city": "Axton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6046.0,
+    "density": 21.3,
+    "county_fips": 51089,
+    "county_name": "Henry",
+    "county_weights": "{\"51089\": 67.4, \"51143\": 32.6}",
+    "county_names_all": "Henry|Pittsylvania",
+    "county_fips_all": "51089|51143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

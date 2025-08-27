@@ -1,0 +1,20 @@
+{
+    "zip": 84716,
+    "lat": 37.97152,
+    "lng": -111.4493,
+    "city": "Boulder",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 544.0,
+    "density": 0.9,
+    "county_fips": 49017,
+    "county_name": "Garfield",
+    "county_weights": "{\"49017\": 100}",
+    "county_names_all": "Garfield",
+    "county_fips_all": "49017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

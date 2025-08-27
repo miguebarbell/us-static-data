@@ -1,0 +1,20 @@
+{
+    "zip": 74745,
+    "lat": 33.86017,
+    "lng": -94.81319,
+    "city": "Idabel",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9756.0,
+    "density": 22.0,
+    "county_fips": 40089,
+    "county_name": "McCurtain",
+    "county_weights": "{\"40089\": 100}",
+    "county_names_all": "McCurtain",
+    "county_fips_all": "40089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

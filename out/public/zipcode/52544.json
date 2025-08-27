@@ -1,0 +1,20 @@
+{
+    "zip": 52544,
+    "lat": 40.71774,
+    "lng": -92.90831,
+    "city": "Centerville",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8110.0,
+    "density": 22.6,
+    "county_fips": 19007,
+    "county_name": "Appanoose",
+    "county_weights": "{\"19007\": 100}",
+    "county_names_all": "Appanoose",
+    "county_fips_all": "19007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

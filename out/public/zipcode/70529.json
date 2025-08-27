@@ -1,0 +1,20 @@
+{
+    "zip": 70529,
+    "lat": 30.19593,
+    "lng": -92.16327,
+    "city": "Duson",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13557.0,
+    "density": 143.8,
+    "county_fips": 22055,
+    "county_name": "Lafayette",
+    "county_weights": "{\"22055\": 97.07, \"22001\": 2.17, \"22113\": 0.76}",
+    "county_names_all": "Lafayette|Acadia|Vermilion",
+    "county_fips_all": "22055|22001|22113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

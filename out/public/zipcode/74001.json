@@ -1,0 +1,20 @@
+{
+    "zip": 74001,
+    "lat": 36.48857,
+    "lng": -96.0625,
+    "city": "Avant",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 281.0,
+    "density": 172.1,
+    "county_fips": 40113,
+    "county_name": "Osage",
+    "county_weights": "{\"40113\": 100}",
+    "county_names_all": "Osage",
+    "county_fips_all": "40113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

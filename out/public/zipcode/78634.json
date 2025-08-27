@@ -1,0 +1,20 @@
+{
+    "zip": 78634,
+    "lat": 30.56,
+    "lng": -97.54404,
+    "city": "Hutto",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43466.0,
+    "density": 297.7,
+    "county_fips": 48491,
+    "county_name": "Williamson",
+    "county_weights": "{\"48491\": 99.56, \"48453\": 0.44}",
+    "county_names_all": "Williamson|Travis",
+    "county_fips_all": "48491|48453",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

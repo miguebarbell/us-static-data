@@ -1,0 +1,20 @@
+{
+    "zip": 56072,
+    "lat": 43.89677,
+    "lng": -93.5125,
+    "city": "New Richland",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2147.0,
+    "density": 6.9,
+    "county_fips": 27161,
+    "county_name": "Waseca",
+    "county_weights": "{\"27161\": 77.62, \"27147\": 14.16, \"27047\": 7.97, \"27043\": 0.25}",
+    "county_names_all": "Waseca|Steele|Freeborn|Faribault",
+    "county_fips_all": "27161|27147|27047|27043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

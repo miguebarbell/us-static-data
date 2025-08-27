@@ -1,0 +1,20 @@
+{
+    "zip": 22435,
+    "lat": 37.97216,
+    "lng": -76.57288,
+    "city": "Callao",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2447.0,
+    "density": 37.1,
+    "county_fips": 51133,
+    "county_name": "Northumberland",
+    "county_weights": "{\"51133\": 93.43, \"51159\": 5.25, \"51193\": 1.32}",
+    "county_names_all": "Northumberland|Richmond|Westmoreland",
+    "county_fips_all": "51133|51159|51193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

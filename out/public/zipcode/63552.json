@@ -1,0 +1,20 @@
+{
+    "zip": 63552,
+    "lat": 39.75349,
+    "lng": -92.45075,
+    "city": "Macon",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7383.0,
+    "density": 21.4,
+    "county_fips": 29121,
+    "county_name": "Macon",
+    "county_weights": "{\"29121\": 100}",
+    "county_names_all": "Macon",
+    "county_fips_all": "29121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

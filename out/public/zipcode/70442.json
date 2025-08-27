@@ -1,0 +1,20 @@
+{
+    "zip": 70442,
+    "lat": 30.70307,
+    "lng": -90.33433,
+    "city": "Husser",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 189.0,
+    "density": 4.5,
+    "county_fips": 22105,
+    "county_name": "Tangipahoa",
+    "county_weights": "{\"22105\": 100}",
+    "county_names_all": "Tangipahoa",
+    "county_fips_all": "22105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

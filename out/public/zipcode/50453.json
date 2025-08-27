@@ -1,0 +1,20 @@
+{
+    "zip": 50453,
+    "lat": 43.3664,
+    "lng": -93.65258,
+    "city": "Leland",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 520.0,
+    "density": 4.6,
+    "county_fips": 19189,
+    "county_name": "Winnebago",
+    "county_weights": "{\"19189\": 100}",
+    "county_names_all": "Winnebago",
+    "county_fips_all": "19189",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

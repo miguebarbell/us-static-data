@@ -1,0 +1,20 @@
+{
+    "zip": 27505,
+    "lat": 35.414,
+    "lng": -79.00198,
+    "city": "Broadway",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7985.0,
+    "density": 57.3,
+    "county_fips": 37085,
+    "county_name": "Harnett",
+    "county_weights": "{\"37085\": 96.27, \"37105\": 3.73}",
+    "county_names_all": "Harnett|Lee",
+    "county_fips_all": "37085|37105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

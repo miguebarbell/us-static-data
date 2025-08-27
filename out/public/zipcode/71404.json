@@ -1,0 +1,20 @@
+{
+    "zip": 71404,
+    "lat": 31.75404,
+    "lng": -92.75257,
+    "city": "Atlanta",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 742.0,
+    "density": 2.6,
+    "county_fips": 22127,
+    "county_name": "Winn",
+    "county_weights": "{\"22127\": 75.05, \"22043\": 24.95}",
+    "county_names_all": "Winn|Grant",
+    "county_fips_all": "22127|22043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

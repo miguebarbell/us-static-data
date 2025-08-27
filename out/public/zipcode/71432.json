@@ -1,0 +1,20 @@
+{
+    "zip": 71432,
+    "lat": 31.75368,
+    "lng": -92.47435,
+    "city": "Georgetown",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 824.0,
+    "density": 3.2,
+    "county_fips": 22043,
+    "county_name": "Grant",
+    "county_weights": "{\"22043\": 95.08, \"22127\": 4.92}",
+    "county_names_all": "Grant|Winn",
+    "county_fips_all": "22043|22127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

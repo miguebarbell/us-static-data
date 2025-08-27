@@ -1,0 +1,20 @@
+{
+    "zip": 46117,
+    "lat": 39.81507,
+    "lng": -85.61763,
+    "city": "Charlottesville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 555.0,
+    "density": 19.6,
+    "county_fips": 18059,
+    "county_name": "Hancock",
+    "county_weights": "{\"18059\": 90.76, \"18065\": 9.24}",
+    "county_names_all": "Hancock|Henry",
+    "county_fips_all": "18059|18065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

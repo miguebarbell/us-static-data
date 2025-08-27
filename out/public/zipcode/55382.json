@@ -1,0 +1,20 @@
+{
+    "zip": 55382,
+    "lat": 45.30521,
+    "lng": -94.20438,
+    "city": "South Haven",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3640.0,
+    "density": 18.4,
+    "county_fips": 27145,
+    "county_name": "Stearns",
+    "county_weights": "{\"27145\": 49.45, \"27171\": 37.63, \"27093\": 12.93}",
+    "county_names_all": "Stearns|Wright|Meeker",
+    "county_fips_all": "27145|27171|27093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

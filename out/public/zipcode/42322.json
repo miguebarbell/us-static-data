@@ -1,0 +1,20 @@
+{
+    "zip": 42322,
+    "lat": 37.62083,
+    "lng": -87.38821,
+    "city": "Beech Grove",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 21149,
+    "county_name": "McLean",
+    "county_weights": "{\"21149\": 100}",
+    "county_names_all": "McLean",
+    "county_fips_all": "21149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

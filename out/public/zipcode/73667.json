@@ -1,0 +1,20 @@
+{
+    "zip": 73667,
+    "lat": 36.00523,
+    "lng": -99.03062,
+    "city": "Taloga",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 483.0,
+    "density": 1.2,
+    "county_fips": 40043,
+    "county_name": "Dewey",
+    "county_weights": "{\"40043\": 100}",
+    "county_names_all": "Dewey",
+    "county_fips_all": "40043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

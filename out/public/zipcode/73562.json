@@ -1,0 +1,20 @@
+{
+    "zip": 73562,
+    "lat": 34.19469,
+    "lng": -98.41203,
+    "city": "Randlett",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 605.0,
+    "density": 2.1,
+    "county_fips": 40033,
+    "county_name": "Cotton",
+    "county_weights": "{\"40033\": 100}",
+    "county_names_all": "Cotton",
+    "county_fips_all": "40033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

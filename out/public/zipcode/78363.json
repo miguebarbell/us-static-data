@@ -1,0 +1,20 @@
+{
+    "zip": 78363,
+    "lat": 27.43836,
+    "lng": -97.85532,
+    "city": "Kingsville",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28820.0,
+    "density": 73.2,
+    "county_fips": 48273,
+    "county_name": "Kleberg",
+    "county_weights": "{\"48273\": 100}",
+    "county_names_all": "Kleberg",
+    "county_fips_all": "48273",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 58038,
+    "lat": 47.24505,
+    "lng": -96.99484,
+    "city": "Grandin",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 214.0,
+    "density": 1.0,
+    "county_fips": 38097,
+    "county_name": "Traill",
+    "county_weights": "{\"38097\": 59.94, \"38017\": 40.06}",
+    "county_names_all": "Traill|Cass",
+    "county_fips_all": "38097|38017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

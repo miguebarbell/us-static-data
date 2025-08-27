@@ -1,0 +1,20 @@
+{
+    "zip": 36041,
+    "lat": 31.92361,
+    "lng": -86.32172,
+    "city": "Highland Home",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1559.0,
+    "density": 10.8,
+    "county_fips": 1041,
+    "county_name": "Crenshaw",
+    "county_weights": "{\"01041\": 98.85, \"01101\": 1.15}",
+    "county_names_all": "Crenshaw|Montgomery",
+    "county_fips_all": "01041|01101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

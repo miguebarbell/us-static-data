@@ -1,0 +1,20 @@
+{
+    "zip": 48198,
+    "lat": 42.27519,
+    "lng": -83.58822,
+    "city": "Ypsilanti",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39507.0,
+    "density": 457.3,
+    "county_fips": 26161,
+    "county_name": "Washtenaw",
+    "county_weights": "{\"26161\": 100}",
+    "county_names_all": "Washtenaw",
+    "county_fips_all": "26161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

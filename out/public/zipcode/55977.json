@@ -1,0 +1,20 @@
+{
+    "zip": 55977,
+    "lat": 43.55371,
+    "lng": -92.64792,
+    "city": "Taopi",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 207.0,
+    "density": 3.3,
+    "county_fips": 27099,
+    "county_name": "Mower",
+    "county_weights": "{\"27099\": 100}",
+    "county_names_all": "Mower",
+    "county_fips_all": "27099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

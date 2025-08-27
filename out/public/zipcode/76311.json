@@ -1,0 +1,20 @@
+{
+    "zip": 76311,
+    "lat": 33.97324,
+    "lng": -98.50823,
+    "city": "Sheppard Afb",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6381.0,
+    "density": 1032.4,
+    "county_fips": 48485,
+    "county_name": "Wichita",
+    "county_weights": "{\"48485\": 100}",
+    "county_names_all": "Wichita",
+    "county_fips_all": "48485",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

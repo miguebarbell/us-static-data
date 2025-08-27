@@ -1,0 +1,20 @@
+{
+    "zip": 17557,
+    "lat": 40.10328,
+    "lng": -76.07543,
+    "city": "New Holland",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15229.0,
+    "density": 183.5,
+    "county_fips": 42071,
+    "county_name": "Lancaster",
+    "county_weights": "{\"42071\": 100}",
+    "county_names_all": "Lancaster",
+    "county_fips_all": "42071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

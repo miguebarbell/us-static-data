@@ -1,0 +1,20 @@
+{
+    "zip": 37360,
+    "lat": 35.44702,
+    "lng": -86.25586,
+    "city": "Normandy",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1792.0,
+    "density": 25.0,
+    "county_fips": 47003,
+    "county_name": "Bedford",
+    "county_weights": "{\"47003\": 58.8, \"47031\": 37.03, \"47127\": 4.17}",
+    "county_names_all": "Bedford|Coffee|Moore",
+    "county_fips_all": "47003|47031|47127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

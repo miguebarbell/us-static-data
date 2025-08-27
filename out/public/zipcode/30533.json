@@ -1,0 +1,20 @@
+{
+    "zip": 30533,
+    "lat": 34.57344,
+    "lng": -84.01576,
+    "city": "Dahlonega",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27524.0,
+    "density": 43.8,
+    "county_fips": 13187,
+    "county_name": "Lumpkin",
+    "county_weights": "{\"13187\": 95.32, \"13085\": 2.57, \"13139\": 1.71, \"13311\": 0.4}",
+    "county_names_all": "Lumpkin|Dawson|Hall|White",
+    "county_fips_all": "13187|13085|13139|13311",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

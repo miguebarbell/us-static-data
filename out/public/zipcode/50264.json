@@ -1,0 +1,20 @@
+{
+    "zip": 50264,
+    "lat": 40.89919,
+    "lng": -93.70071,
+    "city": "Weldon",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 496.0,
+    "density": 2.8,
+    "county_fips": 19039,
+    "county_name": "Clarke",
+    "county_weights": "{\"19039\": 55.25, \"19053\": 44.75}",
+    "county_names_all": "Clarke|Decatur",
+    "county_fips_all": "19039|19053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

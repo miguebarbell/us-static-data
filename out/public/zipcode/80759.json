@@ -1,0 +1,20 @@
+{
+    "zip": 80759,
+    "lat": 40.10892,
+    "lng": -102.68759,
+    "city": "Yuma",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4684.0,
+    "density": 2.9,
+    "county_fips": 8125,
+    "county_name": "Yuma",
+    "county_weights": "{\"08125\": 92.07, \"08121\": 7.93}",
+    "county_names_all": "Yuma|Washington",
+    "county_fips_all": "08125|08121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

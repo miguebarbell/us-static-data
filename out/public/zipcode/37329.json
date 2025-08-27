@@ -1,0 +1,20 @@
+{
+    "zip": 37329,
+    "lat": 35.39201,
+    "lng": -84.46017,
+    "city": "Englewood",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6491.0,
+    "density": 42.3,
+    "county_fips": 47107,
+    "county_name": "McMinn",
+    "county_weights": "{\"47107\": 84.47, \"47123\": 15.53}",
+    "county_names_all": "McMinn|Monroe",
+    "county_fips_all": "47107|47123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

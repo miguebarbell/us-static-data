@@ -1,0 +1,20 @@
+{
+    "zip": 45172,
+    "lat": 39.07447,
+    "lng": -83.38688,
+    "city": "Sinking Spring",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 419.0,
+    "density": 366.7,
+    "county_fips": 39071,
+    "county_name": "Highland",
+    "county_weights": "{\"39071\": 100}",
+    "county_names_all": "Highland",
+    "county_fips_all": "39071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 63079,
+    "lat": 38.26632,
+    "lng": -91.1001,
+    "city": "Stanton",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 182.0,
+    "density": 28.3,
+    "county_fips": 29071,
+    "county_name": "Franklin",
+    "county_weights": "{\"29071\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "29071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

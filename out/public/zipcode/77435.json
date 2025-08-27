@@ -1,0 +1,20 @@
+{
+    "zip": 77435,
+    "lat": 29.51111,
+    "lng": -96.12395,
+    "city": "East Bernard",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4376.0,
+    "density": 9.5,
+    "county_fips": 48481,
+    "county_name": "Wharton",
+    "county_weights": "{\"48481\": 89.67, \"48157\": 7.29, \"48089\": 3.04}",
+    "county_names_all": "Wharton|Fort Bend|Colorado",
+    "county_fips_all": "48481|48157|48089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

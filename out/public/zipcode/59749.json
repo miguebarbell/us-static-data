@@ -1,0 +1,20 @@
+{
+    "zip": 59749,
+    "lat": 45.44332,
+    "lng": -112.09548,
+    "city": "Sheridan",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1919.0,
+    "density": 3.1,
+    "county_fips": 30057,
+    "county_name": "Madison",
+    "county_weights": "{\"30057\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "30057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

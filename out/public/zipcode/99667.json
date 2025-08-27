@@ -1,0 +1,20 @@
+{
+    "zip": 99667,
+    "lat": 61.85447,
+    "lng": -151.82056,
+    "city": "Skwentna",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 152.0,
+    "density": 0.0,
+    "county_fips": 2170,
+    "county_name": "Matanuska-Susitna",
+    "county_weights": "{\"02170\": 100}",
+    "county_names_all": "Matanuska-Susitna",
+    "county_fips_all": "02170",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

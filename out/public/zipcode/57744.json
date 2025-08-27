@@ -1,0 +1,20 @@
+{
+    "zip": 57744,
+    "lat": 43.7773,
+    "lng": -103.02415,
+    "city": "Hermosa",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2211.0,
+    "density": 1.8,
+    "county_fips": 46033,
+    "county_name": "Custer",
+    "county_weights": "{\"46033\": 63.68, \"46103\": 21.53, \"46102\": 14.79}",
+    "county_names_all": "Custer|Pennington|Oglala Lakota",
+    "county_fips_all": "46033|46103|46102",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

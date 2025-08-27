@@ -1,0 +1,20 @@
+{
+    "zip": 99919,
+    "lat": 55.64983,
+    "lng": -132.50337,
+    "city": "Thorne Bay",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 547.0,
+    "density": 4.3,
+    "county_fips": 2198,
+    "county_name": "Prince of Wales-Hyder",
+    "county_weights": "{\"02198\": 100}",
+    "county_names_all": "Prince of Wales-Hyder",
+    "county_fips_all": "02198",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Sitka"
+}

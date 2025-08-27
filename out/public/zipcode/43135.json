@@ -1,0 +1,20 @@
+{
+    "zip": 43135,
+    "lat": 39.4711,
+    "lng": -82.69736,
+    "city": "Laurelville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4225.0,
+    "density": 17.7,
+    "county_fips": 39073,
+    "county_name": "Hocking",
+    "county_weights": "{\"39073\": 79.14, \"39129\": 12.17, \"39141\": 7.91, \"39163\": 0.78}",
+    "county_names_all": "Hocking|Pickaway|Ross|Vinton",
+    "county_fips_all": "39073|39129|39141|39163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

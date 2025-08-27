@@ -1,0 +1,20 @@
+{
+    "zip": 49277,
+    "lat": 42.38871,
+    "lng": -84.46679,
+    "city": "Rives Junction",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2882.0,
+    "density": 33.7,
+    "county_fips": 26075,
+    "county_name": "Jackson",
+    "county_weights": "{\"26075\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "26075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

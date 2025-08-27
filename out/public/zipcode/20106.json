@@ -1,0 +1,20 @@
+{
+    "zip": 20106,
+    "lat": 38.6871,
+    "lng": -78.0133,
+    "city": "Amissville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4100.0,
+    "density": 29.6,
+    "county_fips": 51157,
+    "county_name": "Rappahannock",
+    "county_weights": "{\"51157\": 71.66, \"51047\": 21.06, \"51061\": 7.28}",
+    "county_names_all": "Rappahannock|Culpeper|Fauquier",
+    "county_fips_all": "51157|51047|51061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

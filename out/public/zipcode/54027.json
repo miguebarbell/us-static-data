@@ -1,0 +1,20 @@
+{
+    "zip": 54027,
+    "lat": 44.92403,
+    "lng": -92.19985,
+    "city": "Wilson",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1154.0,
+    "density": 13.7,
+    "county_fips": 55109,
+    "county_name": "St. Croix",
+    "county_weights": "{\"55109\": 100}",
+    "county_names_all": "St. Croix",
+    "county_fips_all": "55109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

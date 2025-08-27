@@ -1,0 +1,20 @@
+{
+    "zip": 46951,
+    "lat": 40.94616,
+    "lng": -86.10528,
+    "city": "Macy",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2016.0,
+    "density": 11.7,
+    "county_fips": 18103,
+    "county_name": "Miami",
+    "county_weights": "{\"18103\": 82.87, \"18049\": 17.13}",
+    "county_names_all": "Miami|Fulton",
+    "county_fips_all": "18103|18049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

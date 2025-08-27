@@ -1,0 +1,20 @@
+{
+    "zip": 32058,
+    "lat": 30.07988,
+    "lng": -82.10743,
+    "city": "Lawtey",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4863.0,
+    "density": 26.2,
+    "county_fips": 12007,
+    "county_name": "Bradford",
+    "county_weights": "{\"12007\": 86.69, \"12125\": 10.47, \"12019\": 2.84}",
+    "county_names_all": "Bradford|Union|Clay",
+    "county_fips_all": "12007|12125|12019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 45746,
+    "lat": 39.604,
+    "lng": -81.44809,
+    "city": "Macksburg",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 301.0,
+    "density": 6.7,
+    "county_fips": 39167,
+    "county_name": "Washington",
+    "county_weights": "{\"39167\": 75.82, \"39121\": 24.18}",
+    "county_names_all": "Washington|Noble",
+    "county_fips_all": "39167|39121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

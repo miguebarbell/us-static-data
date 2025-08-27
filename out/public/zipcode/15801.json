@@ -1,0 +1,20 @@
+{
+    "zip": 15801,
+    "lat": 41.12867,
+    "lng": -78.72352,
+    "city": "Du Bois",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20251.0,
+    "density": 111.5,
+    "county_fips": 42033,
+    "county_name": "Clearfield",
+    "county_weights": "{\"42033\": 99.15, \"42065\": 0.85}",
+    "county_names_all": "Clearfield|Jefferson",
+    "county_fips_all": "42033|42065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 56381,
+    "lat": 45.55523,
+    "lng": -95.54669,
+    "city": "Starbuck",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2371.0,
+    "density": 6.3,
+    "county_fips": 27121,
+    "county_name": "Pope",
+    "county_weights": "{\"27121\": 100}",
+    "county_names_all": "Pope",
+    "county_fips_all": "27121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

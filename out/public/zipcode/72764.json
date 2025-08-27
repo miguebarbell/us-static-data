@@ -1,0 +1,20 @@
+{
+    "zip": 72764,
+    "lat": 36.17746,
+    "lng": -94.051,
+    "city": "Springdale",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 57468.0,
+    "density": 335.3,
+    "county_fips": 5143,
+    "county_name": "Washington",
+    "county_weights": "{\"05143\": 91.43, \"05007\": 8.57}",
+    "county_names_all": "Washington|Benton",
+    "county_fips_all": "05143|05007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 81425,
+    "lat": 38.49363,
+    "lng": -108.10469,
+    "city": "Olathe",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5139.0,
+    "density": 9.0,
+    "county_fips": 8085,
+    "county_name": "Montrose",
+    "county_weights": "{\"08085\": 100}",
+    "county_names_all": "Montrose",
+    "county_fips_all": "08085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

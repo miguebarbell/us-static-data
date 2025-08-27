@@ -1,0 +1,20 @@
+{
+    "zip": 72131,
+    "lat": 35.40792,
+    "lng": -92.19362,
+    "city": "Quitman",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4099.0,
+    "density": 12.3,
+    "county_fips": 5023,
+    "county_name": "Cleburne",
+    "county_weights": "{\"05023\": 66.87, \"05045\": 25.85, \"05141\": 7.28}",
+    "county_names_all": "Cleburne|Faulkner|Van Buren",
+    "county_fips_all": "05023|05045|05141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

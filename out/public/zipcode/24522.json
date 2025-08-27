@@ -1,0 +1,20 @@
+{
+    "zip": 24522,
+    "lat": 37.37324,
+    "lng": -78.78591,
+    "city": "Appomattox",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10494.0,
+    "density": 20.3,
+    "county_fips": 51011,
+    "county_name": "Appomattox",
+    "county_weights": "{\"51011\": 96.26, \"51029\": 3.48, \"51037\": 0.26}",
+    "county_names_all": "Appomattox|Buckingham|Charlotte",
+    "county_fips_all": "51011|51029|51037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

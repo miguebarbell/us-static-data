@@ -1,0 +1,20 @@
+{
+    "zip": 49412,
+    "lat": 43.4699,
+    "lng": -85.94747,
+    "city": "Fremont",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12079.0,
+    "density": 42.2,
+    "county_fips": 26123,
+    "county_name": "Newaygo",
+    "county_weights": "{\"26123\": 97.26, \"26127\": 1.99, \"26121\": 0.75}",
+    "county_names_all": "Newaygo|Oceana|Muskegon",
+    "county_fips_all": "26123|26127|26121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

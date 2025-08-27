@@ -1,0 +1,20 @@
+{
+    "zip": 45176,
+    "lat": 39.08438,
+    "lng": -84.02205,
+    "city": "Williamsburg",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9813.0,
+    "density": 71.3,
+    "county_fips": 39025,
+    "county_name": "Clermont",
+    "county_weights": "{\"39025\": 64.7, \"39015\": 35.3}",
+    "county_names_all": "Clermont|Brown",
+    "county_fips_all": "39025|39015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

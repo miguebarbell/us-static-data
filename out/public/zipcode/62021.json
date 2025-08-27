@@ -1,0 +1,20 @@
+{
+    "zip": 62021,
+    "lat": 38.97797,
+    "lng": -89.981,
+    "city": "Dorsey",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1127.0,
+    "density": 21.5,
+    "county_fips": 17119,
+    "county_name": "Madison",
+    "county_weights": "{\"17119\": 97.68, \"17117\": 2.32}",
+    "county_names_all": "Madison|Macoupin",
+    "county_fips_all": "17119|17117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

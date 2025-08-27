@@ -1,0 +1,20 @@
+{
+    "zip": 77655,
+    "lat": 29.71338,
+    "lng": -93.95306,
+    "city": "Sabine Pass",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 266.0,
+    "density": 2.2,
+    "county_fips": 48245,
+    "county_name": "Jefferson",
+    "county_weights": "{\"48245\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "48245",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

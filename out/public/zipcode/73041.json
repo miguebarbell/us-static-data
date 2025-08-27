@@ -1,0 +1,20 @@
+{
+    "zip": 73041,
+    "lat": 35.03594,
+    "lng": -98.88064,
+    "city": "Gotebo",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 296.0,
+    "density": 0.9,
+    "county_fips": 40075,
+    "county_name": "Kiowa",
+    "county_weights": "{\"40075\": 79.73, \"40149\": 20.27}",
+    "county_names_all": "Kiowa|Washita",
+    "county_fips_all": "40075|40149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

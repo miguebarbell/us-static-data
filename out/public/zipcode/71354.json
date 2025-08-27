@@ -1,0 +1,20 @@
+{
+    "zip": 71354,
+    "lat": 31.38364,
+    "lng": -91.73548,
+    "city": "Monterey",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1382.0,
+    "density": 3.9,
+    "county_fips": 22029,
+    "county_name": "Concordia",
+    "county_weights": "{\"22029\": 100}",
+    "county_names_all": "Concordia",
+    "county_fips_all": "22029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

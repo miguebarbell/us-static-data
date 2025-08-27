@@ -1,0 +1,20 @@
+{
+    "zip": 48727,
+    "lat": 43.30695,
+    "lng": -83.17935,
+    "city": "Clifford",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 939.0,
+    "density": 15.0,
+    "county_fips": 26087,
+    "county_name": "Lapeer",
+    "county_weights": "{\"26087\": 73.03, \"26157\": 26.97}",
+    "county_names_all": "Lapeer|Tuscola",
+    "county_fips_all": "26087|26157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

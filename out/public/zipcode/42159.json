@@ -1,0 +1,20 @@
+{
+    "zip": 42159,
+    "lat": 36.99594,
+    "lng": -86.24771,
+    "city": "Oakland",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1412.0,
+    "density": 17.4,
+    "county_fips": 21227,
+    "county_name": "Warren",
+    "county_weights": "{\"21227\": 100}",
+    "county_names_all": "Warren",
+    "county_fips_all": "21227",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

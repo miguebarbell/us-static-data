@@ -1,0 +1,20 @@
+{
+    "zip": 41604,
+    "lat": 37.38986,
+    "lng": -82.66782,
+    "city": "Beaver",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 496.0,
+    "density": 25.4,
+    "county_fips": 21071,
+    "county_name": "Floyd",
+    "county_weights": "{\"21071\": 100}",
+    "county_names_all": "Floyd",
+    "county_fips_all": "21071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

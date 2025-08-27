@@ -1,0 +1,20 @@
+{
+    "zip": 74721,
+    "lat": 33.87977,
+    "lng": -96.16266,
+    "city": "Albany",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 40013,
+    "county_name": "Bryan",
+    "county_weights": "{\"40013\": 100}",
+    "county_names_all": "Bryan",
+    "county_fips_all": "40013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

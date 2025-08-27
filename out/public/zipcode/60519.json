@@ -1,0 +1,20 @@
+{
+    "zip": 60519,
+    "lat": 41.77724,
+    "lng": -88.24255,
+    "city": "Eola",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 63.0,
+    "density": 467.8,
+    "county_fips": 17043,
+    "county_name": "DuPage",
+    "county_weights": "{\"17043\": 100}",
+    "county_names_all": "DuPage",
+    "county_fips_all": "17043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

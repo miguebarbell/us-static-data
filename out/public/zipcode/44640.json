@@ -1,0 +1,20 @@
+{
+    "zip": 44640,
+    "lat": 40.98455,
+    "lng": -81.14858,
+    "city": "Limaville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 103.0,
+    "density": 170.3,
+    "county_fips": 39151,
+    "county_name": "Stark",
+    "county_weights": "{\"39151\": 100}",
+    "county_names_all": "Stark",
+    "county_fips_all": "39151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

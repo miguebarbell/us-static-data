@@ -1,0 +1,20 @@
+{
+    "zip": 57339,
+    "lat": 44.11233,
+    "lng": -99.47862,
+    "city": "Fort Thompson",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1310.0,
+    "density": 9.3,
+    "county_fips": 46017,
+    "county_name": "Buffalo",
+    "county_weights": "{\"46017\": 100}",
+    "county_names_all": "Buffalo",
+    "county_fips_all": "46017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

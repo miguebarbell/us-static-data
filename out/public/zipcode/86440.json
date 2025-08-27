@@ -1,0 +1,20 @@
+{
+    "zip": 86440,
+    "lat": 34.88855,
+    "lng": -114.54071,
+    "city": "Mohave Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8403.0,
+    "density": 26.2,
+    "county_fips": 4015,
+    "county_name": "Mohave",
+    "county_weights": "{\"04015\": 100}",
+    "county_names_all": "Mohave",
+    "county_fips_all": "04015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

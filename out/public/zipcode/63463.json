@@ -1,0 +1,20 @@
+{
+    "zip": 63463,
+    "lat": 39.84533,
+    "lng": -91.75976,
+    "city": "Philadelphia",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 718.0,
+    "density": 6.0,
+    "county_fips": 29127,
+    "county_name": "Marion",
+    "county_weights": "{\"29127\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "29127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

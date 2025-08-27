@@ -1,0 +1,20 @@
+{
+    "zip": 32460,
+    "lat": 30.77565,
+    "lng": -84.94949,
+    "city": "Sneads",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5303.0,
+    "density": 28.1,
+    "county_fips": 12063,
+    "county_name": "Jackson",
+    "county_weights": "{\"12063\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "12063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

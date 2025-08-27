@@ -1,0 +1,20 @@
+{
+    "zip": 18847,
+    "lat": 41.93539,
+    "lng": -75.56893,
+    "city": "Susquehanna",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5082.0,
+    "density": 15.1,
+    "county_fips": 42115,
+    "county_name": "Susquehanna",
+    "county_weights": "{\"42115\": 79.93, \"42127\": 20.07}",
+    "county_names_all": "Susquehanna|Wayne",
+    "county_fips_all": "42115|42127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

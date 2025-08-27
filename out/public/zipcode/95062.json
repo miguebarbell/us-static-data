@@ -1,0 +1,20 @@
+{
+    "zip": 95062,
+    "lat": 36.97279,
+    "lng": -121.99008,
+    "city": "Santa Cruz",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36047.0,
+    "density": 2754.5,
+    "county_fips": 6087,
+    "county_name": "Santa Cruz",
+    "county_weights": "{\"06087\": 100}",
+    "county_names_all": "Santa Cruz",
+    "county_fips_all": "06087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

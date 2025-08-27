@@ -1,0 +1,20 @@
+{
+    "zip": 32539,
+    "lat": 30.78128,
+    "lng": -86.46646,
+    "city": "Crestview",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33150.0,
+    "density": 100.0,
+    "county_fips": 12091,
+    "county_name": "Okaloosa",
+    "county_weights": "{\"12091\": 88.79, \"12131\": 11.21}",
+    "county_names_all": "Okaloosa|Walton",
+    "county_fips_all": "12091|12131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 42728,
+    "lat": 37.10943,
+    "lng": -85.28873,
+    "city": "Columbia",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16108.0,
+    "density": 19.4,
+    "county_fips": 21001,
+    "county_name": "Adair",
+    "county_weights": "{\"21001\": 96.09, \"21217\": 3.81, \"21169\": 0.1}",
+    "county_names_all": "Adair|Taylor|Metcalfe",
+    "county_fips_all": "21001|21217|21169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 39038,
+    "lat": 33.20179,
+    "lng": -90.47023,
+    "city": "Belzoni",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5363.0,
+    "density": 8.4,
+    "county_fips": 28053,
+    "county_name": "Humphreys",
+    "county_weights": "{\"28053\": 73.07, \"28083\": 22.46, \"28051\": 2.82, \"28133\": 1.65}",
+    "county_names_all": "Humphreys|Leflore|Holmes|Sunflower",
+    "county_fips_all": "28053|28083|28051|28133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

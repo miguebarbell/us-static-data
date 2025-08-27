@@ -1,0 +1,20 @@
+{
+    "zip": 35007,
+    "lat": 33.21751,
+    "lng": -86.79307,
+    "city": "Alabaster",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27935.0,
+    "density": 276.2,
+    "county_fips": 1117,
+    "county_name": "Shelby",
+    "county_weights": "{\"01117\": 100}",
+    "county_names_all": "Shelby",
+    "county_fips_all": "01117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 56644,
+    "lat": 47.78095,
+    "lng": -95.51263,
+    "city": "Gonvick",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 746.0,
+    "density": 2.9,
+    "county_fips": 27029,
+    "county_name": "Clearwater",
+    "county_weights": "{\"27029\": 95.07, \"27119\": 4.93}",
+    "county_names_all": "Clearwater|Polk",
+    "county_fips_all": "27029|27119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

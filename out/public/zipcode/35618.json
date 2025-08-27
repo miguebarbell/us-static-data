@@ -1,0 +1,20 @@
+{
+    "zip": 35618,
+    "lat": 34.64334,
+    "lng": -87.30552,
+    "city": "Courtland",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1752.0,
+    "density": 15.2,
+    "county_fips": 1079,
+    "county_name": "Lawrence",
+    "county_weights": "{\"01079\": 100}",
+    "county_names_all": "Lawrence",
+    "county_fips_all": "01079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

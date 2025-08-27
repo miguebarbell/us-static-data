@@ -1,0 +1,20 @@
+{
+    "zip": 86033,
+    "lat": 36.67692,
+    "lng": -110.25536,
+    "city": "Kayenta",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8245.0,
+    "density": 2.6,
+    "county_fips": 4017,
+    "county_name": "Navajo",
+    "county_weights": "{\"04017\": 95.09, \"04001\": 4.91}",
+    "county_names_all": "Navajo|Apache",
+    "county_fips_all": "04017|04001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

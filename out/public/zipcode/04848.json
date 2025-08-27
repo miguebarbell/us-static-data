@@ -1,0 +1,20 @@
+{
+    "zip": 4848,
+    "lat": 44.31083,
+    "lng": -68.90896,
+    "city": "Islesboro",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 686.0,
+    "density": 18.5,
+    "county_fips": 23027,
+    "county_name": "Waldo",
+    "county_weights": "{\"23027\": 100}",
+    "county_names_all": "Waldo",
+    "county_fips_all": "23027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

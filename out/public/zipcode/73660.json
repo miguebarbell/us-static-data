@@ -1,0 +1,20 @@
+{
+    "zip": 73660,
+    "lat": 35.62561,
+    "lng": -99.91688,
+    "city": "Reydon",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 351.0,
+    "density": 1.1,
+    "county_fips": 40129,
+    "county_name": "Roger Mills",
+    "county_weights": "{\"40129\": 100}",
+    "county_names_all": "Roger Mills",
+    "county_fips_all": "40129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

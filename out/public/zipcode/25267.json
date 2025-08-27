@@ -1,0 +1,20 @@
+{
+    "zip": 25267,
+    "lat": 38.85778,
+    "lng": -80.94187,
+    "city": "Normantown",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 417.0,
+    "density": 2.2,
+    "county_fips": 54021,
+    "county_name": "Gilmer",
+    "county_weights": "{\"54021\": 90.34, \"54013\": 9.66}",
+    "county_names_all": "Gilmer|Calhoun",
+    "county_fips_all": "54021|54013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

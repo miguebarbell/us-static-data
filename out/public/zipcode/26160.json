@@ -1,0 +1,20 @@
+{
+    "zip": 26160,
+    "lat": 38.98066,
+    "lng": -81.41368,
+    "city": "Palestine",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1187.0,
+    "density": 6.7,
+    "county_fips": 54105,
+    "county_name": "Wirt",
+    "county_weights": "{\"54105\": 100}",
+    "county_names_all": "Wirt",
+    "county_fips_all": "54105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

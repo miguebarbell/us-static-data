@@ -1,0 +1,20 @@
+{
+    "zip": 16875,
+    "lat": 40.84536,
+    "lng": -77.56882,
+    "city": "Spring Mills",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3692.0,
+    "density": 17.4,
+    "county_fips": 42027,
+    "county_name": "Centre",
+    "county_weights": "{\"42027\": 100}",
+    "county_names_all": "Centre",
+    "county_fips_all": "42027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

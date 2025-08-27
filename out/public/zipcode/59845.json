@@ -1,0 +1,20 @@
+{
+    "zip": 59845,
+    "lat": 47.65892,
+    "lng": -114.54734,
+    "city": "Hot Springs",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1228.0,
+    "density": 1.1,
+    "county_fips": 30089,
+    "county_name": "Sanders",
+    "county_weights": "{\"30089\": 66.97, \"30047\": 17.32, \"30029\": 15.71}",
+    "county_names_all": "Sanders|Lake|Flathead",
+    "county_fips_all": "30089|30047|30029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

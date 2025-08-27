@@ -1,0 +1,20 @@
+{
+    "zip": 29639,
+    "lat": 34.31402,
+    "lng": -82.4205,
+    "city": "Due West",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1917.0,
+    "density": 45.9,
+    "county_fips": 45001,
+    "county_name": "Abbeville",
+    "county_weights": "{\"45001\": 100}",
+    "county_names_all": "Abbeville",
+    "county_fips_all": "45001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

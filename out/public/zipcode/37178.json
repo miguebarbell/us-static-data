@@ -1,0 +1,20 @@
+{
+    "zip": 37178,
+    "lat": 36.3195,
+    "lng": -87.78694,
+    "city": "Tennessee Ridge",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2027.0,
+    "density": 18.5,
+    "county_fips": 47083,
+    "county_name": "Houston",
+    "county_weights": "{\"47083\": 60.92, \"47161\": 39.08}",
+    "county_names_all": "Houston|Stewart",
+    "county_fips_all": "47083|47161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

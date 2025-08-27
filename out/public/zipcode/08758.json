@@ -1,0 +1,20 @@
+{
+    "zip": 8758,
+    "lat": 39.79529,
+    "lng": -74.25296,
+    "city": "Waretown",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8010.0,
+    "density": 171.2,
+    "county_fips": 34029,
+    "county_name": "Ocean",
+    "county_weights": "{\"34029\": 100}",
+    "county_names_all": "Ocean",
+    "county_fips_all": "34029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

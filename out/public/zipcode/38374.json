@@ -1,0 +1,20 @@
+{
+    "zip": 38374,
+    "lat": 35.51192,
+    "lng": -88.23469,
+    "city": "Scotts Hill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1948.0,
+    "density": 16.8,
+    "county_fips": 47039,
+    "county_name": "Decatur",
+    "county_weights": "{\"47039\": 51.41, \"47077\": 48.59}",
+    "county_names_all": "Decatur|Henderson",
+    "county_fips_all": "47039|47077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

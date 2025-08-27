@@ -1,0 +1,20 @@
+{
+    "zip": 28390,
+    "lat": 35.21783,
+    "lng": -78.95488,
+    "city": "Spring Lake",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24158.0,
+    "density": 155.0,
+    "county_fips": 37085,
+    "county_name": "Harnett",
+    "county_weights": "{\"37085\": 52.23, \"37051\": 47.77}",
+    "county_names_all": "Harnett|Cumberland",
+    "county_fips_all": "37085|37051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

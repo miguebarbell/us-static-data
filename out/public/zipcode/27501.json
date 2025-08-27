@@ -1,0 +1,20 @@
+{
+    "zip": 27501,
+    "lat": 35.48684,
+    "lng": -78.68419,
+    "city": "Angier",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23237.0,
+    "density": 142.8,
+    "county_fips": 37085,
+    "county_name": "Harnett",
+    "county_weights": "{\"37085\": 61.85, \"37101\": 37.33, \"37183\": 0.82}",
+    "county_names_all": "Harnett|Johnston|Wake",
+    "county_fips_all": "37085|37101|37183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

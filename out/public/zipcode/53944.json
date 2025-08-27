@@ -1,0 +1,20 @@
+{
+    "zip": 53944,
+    "lat": 43.68759,
+    "lng": -89.92791,
+    "city": "Lyndon Station",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2299.0,
+    "density": 11.3,
+    "county_fips": 55057,
+    "county_name": "Juneau",
+    "county_weights": "{\"55057\": 83.12, \"55111\": 16.88}",
+    "county_names_all": "Juneau|Sauk",
+    "county_fips_all": "55057|55111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

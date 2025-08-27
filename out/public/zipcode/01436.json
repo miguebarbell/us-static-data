@@ -1,0 +1,20 @@
+{
+    "zip": 1436,
+    "lat": 42.60579,
+    "lng": -72.08958,
+    "city": "Baldwinville",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3720.0,
+    "density": 159.7,
+    "county_fips": 25027,
+    "county_name": "Worcester",
+    "county_weights": "{\"25027\": 100}",
+    "county_names_all": "Worcester",
+    "county_fips_all": "25027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

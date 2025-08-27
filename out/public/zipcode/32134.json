@@ -1,0 +1,20 @@
+{
+    "zip": 32134,
+    "lat": 29.37177,
+    "lng": -81.82562,
+    "city": "Fort McCoy",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7400.0,
+    "density": 10.7,
+    "county_fips": 12083,
+    "county_name": "Marion",
+    "county_weights": "{\"12083\": 79.09, \"12107\": 19.48, \"12069\": 1.43}",
+    "county_names_all": "Marion|Putnam|Lake",
+    "county_fips_all": "12083|12107|12069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

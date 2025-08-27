@@ -1,0 +1,20 @@
+{
+    "zip": 71051,
+    "lat": 32.3417,
+    "lng": -93.49639,
+    "city": "Elm Grove",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2683.0,
+    "density": 10.9,
+    "county_fips": 22015,
+    "county_name": "Bossier",
+    "county_weights": "{\"22015\": 99.03, \"22017\": 0.97}",
+    "county_names_all": "Bossier|Caddo",
+    "county_fips_all": "22015|22017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

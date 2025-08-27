@@ -1,0 +1,20 @@
+{
+    "zip": 59326,
+    "lat": 46.77178,
+    "lng": -104.85183,
+    "city": "Fallon",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 363.0,
+    "density": 0.4,
+    "county_fips": 30079,
+    "county_name": "Prairie",
+    "county_weights": "{\"30079\": 87.37, \"30021\": 12.63}",
+    "county_names_all": "Prairie|Dawson",
+    "county_fips_all": "30079|30021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

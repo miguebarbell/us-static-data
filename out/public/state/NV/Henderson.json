@@ -1,0 +1,18 @@
+{
+    "zip": [
+        "89002",
+        "89011",
+        "89012",
+        "89014",
+        "89015",
+        "89044",
+        "89052",
+        "89074"
+    ],
+    "city": "Henderson",
+    "state": "NV",
+    "lat": 37.40035,
+    "lng": -115.39564,
+    "state_name": "Nevada",
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 19078,
+    "lat": 39.87328,
+    "lng": -75.32159,
+    "city": "Ridley Park",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11742.0,
+    "density": 2230.9,
+    "county_fips": 42045,
+    "county_name": "Delaware",
+    "county_weights": "{\"42045\": 100}",
+    "county_names_all": "Delaware",
+    "county_fips_all": "42045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43319,
+    "lat": 40.30525,
+    "lng": -83.57738,
+    "city": "East Liberty",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1118.0,
+    "density": 22.9,
+    "county_fips": 39091,
+    "county_name": "Logan",
+    "county_weights": "{\"39091\": 99.16, \"39159\": 0.84}",
+    "county_names_all": "Logan|Union",
+    "county_fips_all": "39091|39159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

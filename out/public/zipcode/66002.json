@@ -1,0 +1,20 @@
+{
+    "zip": 66002,
+    "lat": 39.5488,
+    "lng": -95.13881,
+    "city": "Atchison",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13197.0,
+    "density": 26.9,
+    "county_fips": 20005,
+    "county_name": "Atchison",
+    "county_weights": "{\"20005\": 73.65, \"20043\": 17.47, \"20087\": 4.81, \"20103\": 4.07}",
+    "county_names_all": "Atchison|Doniphan|Jefferson|Leavenworth",
+    "county_fips_all": "20005|20043|20087|20103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

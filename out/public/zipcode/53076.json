@@ -1,0 +1,20 @@
+{
+    "zip": 53076,
+    "lat": 43.26966,
+    "lng": -88.20905,
+    "city": "Richfield",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3283.0,
+    "density": 56.5,
+    "county_fips": 55131,
+    "county_name": "Washington",
+    "county_weights": "{\"55131\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "55131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

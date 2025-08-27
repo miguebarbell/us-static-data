@@ -1,0 +1,20 @@
+{
+    "zip": 68863,
+    "lat": 40.76628,
+    "lng": -99.5252,
+    "city": "Overton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1222.0,
+    "density": 4.2,
+    "county_fips": 31047,
+    "county_name": "Dawson",
+    "county_weights": "{\"31047\": 87.13, \"31137\": 12.87}",
+    "county_names_all": "Dawson|Phelps",
+    "county_fips_all": "31047|31137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

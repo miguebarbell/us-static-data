@@ -1,0 +1,20 @@
+{
+    "zip": 71060,
+    "lat": 32.63933,
+    "lng": -93.987,
+    "city": "Mooringsport",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2496.0,
+    "density": 14.8,
+    "county_fips": 22017,
+    "county_name": "Caddo",
+    "county_weights": "{\"22017\": 100}",
+    "county_names_all": "Caddo",
+    "county_fips_all": "22017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

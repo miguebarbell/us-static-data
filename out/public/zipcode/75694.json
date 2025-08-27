@@ -1,0 +1,20 @@
+{
+    "zip": 75694,
+    "lat": 32.6383,
+    "lng": -94.34442,
+    "city": "Woodlawn",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 48203,
+    "county_name": "Harrison",
+    "county_weights": "{\"48203\": 100}",
+    "county_names_all": "Harrison",
+    "county_fips_all": "48203",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

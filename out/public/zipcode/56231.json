@@ -1,0 +1,20 @@
+{
+    "zip": 56231,
+    "lat": 45.2788,
+    "lng": -95.76381,
+    "city": "Danvers",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 386.0,
+    "density": 1.6,
+    "county_fips": 27151,
+    "county_name": "Swift",
+    "county_weights": "{\"27151\": 100}",
+    "county_names_all": "Swift",
+    "county_fips_all": "27151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 29672,
+    "lat": 34.75036,
+    "lng": -82.94257,
+    "city": "Seneca",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12364.0,
+    "density": 121.9,
+    "county_fips": 45073,
+    "county_name": "Oconee",
+    "county_weights": "{\"45073\": 100}",
+    "county_names_all": "Oconee",
+    "county_fips_all": "45073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

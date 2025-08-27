@@ -1,0 +1,17 @@
+{
+    "zip": [
+        "99701",
+        "99706",
+        "99707",
+        "99709",
+        "99712",
+        "99775",
+        "99790"
+    ],
+    "city": "Fairbanks",
+    "state": "AK",
+    "lat": 61.22005,
+    "lng": -149.85872,
+    "state_name": "Alaska",
+    "timezone": "America/Anchorage"
+}

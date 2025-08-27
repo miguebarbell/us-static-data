@@ -1,0 +1,20 @@
+{
+    "zip": 25875,
+    "lat": 37.66907,
+    "lng": -81.45956,
+    "city": "McGraws",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 913.0,
+    "density": 29.4,
+    "county_fips": 54109,
+    "county_name": "Wyoming",
+    "county_weights": "{\"54109\": 100}",
+    "county_names_all": "Wyoming",
+    "county_fips_all": "54109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

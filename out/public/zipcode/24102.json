@@ -1,0 +1,20 @@
+{
+    "zip": 24102,
+    "lat": 36.83994,
+    "lng": -79.99891,
+    "city": "Henry",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1504.0,
+    "density": 17.9,
+    "county_fips": 51067,
+    "county_name": "Franklin",
+    "county_weights": "{\"51067\": 92.66, \"51089\": 7.34}",
+    "county_names_all": "Franklin|Henry",
+    "county_fips_all": "51067|51089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

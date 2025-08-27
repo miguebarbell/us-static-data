@@ -1,0 +1,20 @@
+{
+    "zip": 38654,
+    "lat": 34.93635,
+    "lng": -89.82409,
+    "city": "Olive Branch",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 57334.0,
+    "density": 241.2,
+    "county_fips": 28033,
+    "county_name": "DeSoto",
+    "county_weights": "{\"28033\": 96.64, \"28093\": 3.36}",
+    "county_names_all": "DeSoto|Marshall",
+    "county_fips_all": "28033|28093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

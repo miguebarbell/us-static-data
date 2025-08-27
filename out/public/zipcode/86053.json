@@ -1,0 +1,20 @@
+{
+    "zip": 86053,
+    "lat": 36.75699,
+    "lng": -111.05597,
+    "city": "Kaibeto",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2204.0,
+    "density": 1.4,
+    "county_fips": 4005,
+    "county_name": "Coconino",
+    "county_weights": "{\"04005\": 100}",
+    "county_names_all": "Coconino",
+    "county_fips_all": "04005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

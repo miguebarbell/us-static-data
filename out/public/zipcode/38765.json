@@ -1,0 +1,20 @@
+{
+    "zip": 38765,
+    "lat": 33.0493,
+    "lng": -90.8896,
+    "city": "Panther Burn",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 180.0,
+    "density": 9.2,
+    "county_fips": 28125,
+    "county_name": "Sharkey",
+    "county_weights": "{\"28125\": 100}",
+    "county_names_all": "Sharkey",
+    "county_fips_all": "28125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

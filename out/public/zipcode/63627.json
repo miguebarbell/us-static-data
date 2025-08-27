@@ -1,0 +1,20 @@
+{
+    "zip": 63627,
+    "lat": 38.03625,
+    "lng": -90.25317,
+    "city": "Bloomsdale",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2856.0,
+    "density": 15.1,
+    "county_fips": 29186,
+    "county_name": "Ste. Genevieve",
+    "county_weights": "{\"29186\": 94.4, \"29099\": 5.6}",
+    "county_names_all": "Ste. Genevieve|Jefferson",
+    "county_fips_all": "29186|29099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

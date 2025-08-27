@@ -1,0 +1,20 @@
+{
+    "zip": 61878,
+    "lat": 40.23953,
+    "lng": -88.14945,
+    "city": "Thomasboro",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1179.0,
+    "density": 16.2,
+    "county_fips": 17019,
+    "county_name": "Champaign",
+    "county_weights": "{\"17019\": 100}",
+    "county_names_all": "Champaign",
+    "county_fips_all": "17019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

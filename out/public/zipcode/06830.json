@@ -1,0 +1,20 @@
+{
+    "zip": 6830,
+    "lat": 41.048,
+    "lng": -73.624,
+    "city": "Greenwich",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24919.0,
+    "density": 710.7,
+    "county_fips": 9190,
+    "county_name": "Western Connecticut",
+    "county_weights": "{\"09190\": 100}",
+    "county_names_all": "Western Connecticut",
+    "county_fips_all": "09190",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

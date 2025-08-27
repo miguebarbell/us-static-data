@@ -1,0 +1,20 @@
+{
+    "zip": 90280,
+    "lat": 33.94453,
+    "lng": -118.19256,
+    "city": "South Gate",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 91719.0,
+    "density": 4798.8,
+    "county_fips": 6037,
+    "county_name": "Los Angeles",
+    "county_weights": "{\"06037\": 100}",
+    "county_names_all": "Los Angeles",
+    "county_fips_all": "06037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

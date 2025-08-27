@@ -1,0 +1,20 @@
+{
+    "zip": 23824,
+    "lat": 37.08767,
+    "lng": -77.95749,
+    "city": "Blackstone",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6650.0,
+    "density": 13.0,
+    "county_fips": 51135,
+    "county_name": "Nottoway",
+    "county_weights": "{\"51135\": 75.94, \"51053\": 12.43, \"51025\": 8.93, \"51111\": 2.7}",
+    "county_names_all": "Nottoway|Dinwiddie|Brunswick|Lunenburg",
+    "county_fips_all": "51135|51053|51025|51111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

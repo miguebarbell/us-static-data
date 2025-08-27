@@ -1,0 +1,20 @@
+{
+    "zip": 70772,
+    "lat": 30.43748,
+    "lng": -91.46484,
+    "city": "Rosedale",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1083.0,
+    "density": 28.0,
+    "county_fips": 22047,
+    "county_name": "Iberville",
+    "county_weights": "{\"22047\": 100}",
+    "county_names_all": "Iberville",
+    "county_fips_all": "22047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

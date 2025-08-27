@@ -1,0 +1,20 @@
+{
+    "zip": 46501,
+    "lat": 41.22327,
+    "lng": -86.24868,
+    "city": "Argos",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3915.0,
+    "density": 21.3,
+    "county_fips": 18099,
+    "county_name": "Marshall",
+    "county_weights": "{\"18099\": 96.79, \"18049\": 3.21}",
+    "county_names_all": "Marshall|Fulton",
+    "county_fips_all": "18099|18049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

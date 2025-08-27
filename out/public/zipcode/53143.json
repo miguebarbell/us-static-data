@@ -1,0 +1,20 @@
+{
+    "zip": 53143,
+    "lat": 42.56109,
+    "lng": -87.83038,
+    "city": "Kenosha",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21436.0,
+    "density": 1997.5,
+    "county_fips": 55059,
+    "county_name": "Kenosha",
+    "county_weights": "{\"55059\": 100}",
+    "county_names_all": "Kenosha",
+    "county_fips_all": "55059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

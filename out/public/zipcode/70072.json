@@ -1,0 +1,20 @@
+{
+    "zip": 70072,
+    "lat": 29.83012,
+    "lng": -90.12724,
+    "city": "Marrero",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 55641.0,
+    "density": 414.4,
+    "county_fips": 22051,
+    "county_name": "Jefferson",
+    "county_weights": "{\"22051\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "22051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

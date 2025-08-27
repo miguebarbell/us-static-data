@@ -1,0 +1,20 @@
+{
+    "zip": 83278,
+    "lat": 44.36917,
+    "lng": -114.85619,
+    "city": "Stanley",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 443.0,
+    "density": 0.1,
+    "county_fips": 16037,
+    "county_name": "Custer",
+    "county_weights": "{\"16037\": 100}",
+    "county_names_all": "Custer",
+    "county_fips_all": "16037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

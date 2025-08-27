@@ -1,0 +1,20 @@
+{
+    "zip": 28677,
+    "lat": 35.73743,
+    "lng": -80.92272,
+    "city": "Statesville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37628.0,
+    "density": 175.1,
+    "county_fips": 37097,
+    "county_name": "Iredell",
+    "county_weights": "{\"37097\": 100}",
+    "county_names_all": "Iredell",
+    "county_fips_all": "37097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

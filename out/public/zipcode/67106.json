@@ -1,0 +1,20 @@
+{
+    "zip": 67106,
+    "lat": 37.46335,
+    "lng": -97.75804,
+    "city": "Milton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 472.0,
+    "density": 3.7,
+    "county_fips": 20191,
+    "county_name": "Sumner",
+    "county_weights": "{\"20191\": 55.77, \"20173\": 41.33, \"20095\": 2.9}",
+    "county_names_all": "Sumner|Sedgwick|Kingman",
+    "county_fips_all": "20191|20173|20095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

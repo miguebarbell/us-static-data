@@ -1,0 +1,20 @@
+{
+    "zip": 54228,
+    "lat": 44.27677,
+    "lng": -87.64875,
+    "city": "Mishicot",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2886.0,
+    "density": 27.7,
+    "county_fips": 55071,
+    "county_name": "Manitowoc",
+    "county_weights": "{\"55071\": 100}",
+    "county_names_all": "Manitowoc",
+    "county_fips_all": "55071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

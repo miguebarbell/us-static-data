@@ -1,0 +1,20 @@
+{
+    "zip": 26520,
+    "lat": 39.50105,
+    "lng": -79.82393,
+    "city": "Arthurdale",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 360.0,
+    "density": 47.5,
+    "county_fips": 54077,
+    "county_name": "Preston",
+    "county_weights": "{\"54077\": 100}",
+    "county_names_all": "Preston",
+    "county_fips_all": "54077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

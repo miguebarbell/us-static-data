@@ -1,0 +1,20 @@
+{
+    "zip": 53549,
+    "lat": 42.99056,
+    "lng": -88.77675,
+    "city": "Jefferson",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9901.0,
+    "density": 53.8,
+    "county_fips": 55055,
+    "county_name": "Jefferson",
+    "county_weights": "{\"55055\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "55055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

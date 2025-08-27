@@ -1,0 +1,20 @@
+{
+    "zip": 68313,
+    "lat": 40.78142,
+    "lng": -97.27193,
+    "city": "Beaver Crossing",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 866.0,
+    "density": 4.4,
+    "county_fips": 31159,
+    "county_name": "Seward",
+    "county_weights": "{\"31159\": 98.69, \"31185\": 1.31}",
+    "county_names_all": "Seward|York",
+    "county_fips_all": "31159|31185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

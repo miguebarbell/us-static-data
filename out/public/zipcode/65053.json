@@ -1,0 +1,20 @@
+{
+    "zip": 65053,
+    "lat": 38.54132,
+    "lng": -92.36966,
+    "city": "Lohman",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1541.0,
+    "density": 17.1,
+    "county_fips": 29051,
+    "county_name": "Cole",
+    "county_weights": "{\"29051\": 100}",
+    "county_names_all": "Cole",
+    "county_fips_all": "29051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

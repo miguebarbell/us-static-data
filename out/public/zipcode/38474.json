@@ -1,0 +1,20 @@
+{
+    "zip": 38474,
+    "lat": 35.51848,
+    "lng": -87.22966,
+    "city": "Mount Pleasant",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9336.0,
+    "density": 34.6,
+    "county_fips": 47119,
+    "county_name": "Maury",
+    "county_weights": "{\"47119\": 86.84, \"47101\": 9.3, \"47055\": 2.22, \"47099\": 1.64}",
+    "county_names_all": "Maury|Lewis|Giles|Lawrence",
+    "county_fips_all": "47119|47101|47055|47099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

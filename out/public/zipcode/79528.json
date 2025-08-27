@@ -1,0 +1,20 @@
+{
+    "zip": 79528,
+    "lat": 33.15936,
+    "lng": -100.57982,
+    "city": "Jayton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 568.0,
+    "density": 0.6,
+    "county_fips": 48263,
+    "county_name": "Kent",
+    "county_weights": "{\"48263\": 75.73, \"48433\": 24.27}",
+    "county_names_all": "Kent|Stonewall",
+    "county_fips_all": "48263|48433",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 76858,
+    "lat": 31.20758,
+    "lng": -99.62002,
+    "city": "Melvin",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 251.0,
+    "density": 0.7,
+    "county_fips": 48095,
+    "county_name": "Concho",
+    "county_weights": "{\"48095\": 66.05, \"48307\": 33.95}",
+    "county_names_all": "Concho|McCulloch",
+    "county_fips_all": "48095|48307",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

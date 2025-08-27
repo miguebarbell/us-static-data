@@ -1,0 +1,20 @@
+{
+    "zip": 43143,
+    "lat": 39.71801,
+    "lng": -83.29672,
+    "city": "Mount Sterling",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5609.0,
+    "density": 16.2,
+    "county_fips": 39097,
+    "county_name": "Madison",
+    "county_weights": "{\"39097\": 52.99, \"39129\": 29.71, \"39047\": 17.3}",
+    "county_names_all": "Madison|Pickaway|Fayette",
+    "county_fips_all": "39097|39129|39047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

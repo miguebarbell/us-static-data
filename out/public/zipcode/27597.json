@@ -1,0 +1,20 @@
+{
+    "zip": 27597,
+    "lat": 35.84034,
+    "lng": -78.30303,
+    "city": "Zebulon",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29003.0,
+    "density": 94.5,
+    "county_fips": 37183,
+    "county_name": "Wake",
+    "county_weights": "{\"37183\": 42.19, \"37069\": 28.47, \"37101\": 22.91, \"37127\": 6.43}",
+    "county_names_all": "Wake|Franklin|Johnston|Nash",
+    "county_fips_all": "37183|37069|37101|37127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

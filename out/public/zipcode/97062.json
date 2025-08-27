@@ -1,0 +1,20 @@
+{
+    "zip": 97062,
+    "lat": 45.36821,
+    "lng": -122.76169,
+    "city": "Tualatin",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28620.0,
+    "density": 778.0,
+    "county_fips": 41067,
+    "county_name": "Washington",
+    "county_weights": "{\"41067\": 72.62, \"41005\": 27.38}",
+    "county_names_all": "Washington|Clackamas",
+    "county_fips_all": "41067|41005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

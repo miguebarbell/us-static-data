@@ -1,0 +1,20 @@
+{
+    "zip": 850,
+    "lat": 17.72763,
+    "lng": -64.79122,
+    "city": "Kingshill",
+    "state_id": "VI",
+    "state_name": "Virgin Islands",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": NaN,
+    "density": NaN,
+    "county_fips": 78010,
+    "county_name": "St. Croix",
+    "county_weights": "{\"78010\": 100}",
+    "county_names_all": "St. Croix",
+    "county_fips_all": "78010",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/St_Thomas"
+}

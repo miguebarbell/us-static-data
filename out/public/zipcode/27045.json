@@ -1,0 +1,20 @@
+{
+    "zip": 27045,
+    "lat": 36.23482,
+    "lng": -80.29614,
+    "city": "Rural Hall",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10086.0,
+    "density": 166.7,
+    "county_fips": 37067,
+    "county_name": "Forsyth",
+    "county_weights": "{\"37067\": 91.48, \"37169\": 8.52}",
+    "county_names_all": "Forsyth|Stokes",
+    "county_fips_all": "37067|37169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 68431,
+    "lat": 40.0677,
+    "lng": -95.43402,
+    "city": "Rulo",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 228.0,
+    "density": 1.8,
+    "county_fips": 31147,
+    "county_name": "Richardson",
+    "county_weights": "{\"31147\": 100}",
+    "county_names_all": "Richardson",
+    "county_fips_all": "31147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

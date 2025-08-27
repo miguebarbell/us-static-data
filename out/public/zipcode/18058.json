@@ -1,0 +1,20 @@
+{
+    "zip": 18058,
+    "lat": 40.8922,
+    "lng": -75.49094,
+    "city": "Kunkletown",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9884.0,
+    "density": 71.7,
+    "county_fips": 42089,
+    "county_name": "Monroe",
+    "county_weights": "{\"42089\": 84.15, \"42025\": 15.85}",
+    "county_names_all": "Monroe|Carbon",
+    "county_fips_all": "42089|42025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72827,
+    "lat": 34.87758,
+    "lng": -93.61948,
+    "city": "Bluffton",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 86.0,
+    "density": 0.9,
+    "county_fips": 5149,
+    "county_name": "Yell",
+    "county_weights": "{\"05149\": 84.42, \"05127\": 15.58}",
+    "county_names_all": "Yell|Scott",
+    "county_fips_all": "05149|05127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

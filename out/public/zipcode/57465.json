@@ -1,0 +1,20 @@
+{
+    "zip": 57465,
+    "lat": 45.14443,
+    "lng": -98.68573,
+    "city": "Northville",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 421.0,
+    "density": 1.1,
+    "county_fips": 46115,
+    "county_name": "Spink",
+    "county_weights": "{\"46115\": 60.22, \"46049\": 39.78}",
+    "county_names_all": "Spink|Faulk",
+    "county_fips_all": "46115|46049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

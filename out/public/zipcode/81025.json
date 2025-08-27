@@ -1,0 +1,20 @@
+{
+    "zip": 81025,
+    "lat": 38.34567,
+    "lng": -104.26422,
+    "city": "Boone",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 787.0,
+    "density": 0.6,
+    "county_fips": 8101,
+    "county_name": "Pueblo",
+    "county_weights": "{\"08101\": 100}",
+    "county_names_all": "Pueblo",
+    "county_fips_all": "08101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 35653,
+    "lat": 34.53131,
+    "lng": -87.86974,
+    "city": "Russellville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11005.0,
+    "density": 28.4,
+    "county_fips": 1059,
+    "county_name": "Franklin",
+    "county_weights": "{\"01059\": 79.12, \"01033\": 20.88}",
+    "county_names_all": "Franklin|Colbert",
+    "county_fips_all": "01059|01033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

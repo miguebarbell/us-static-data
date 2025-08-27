@@ -1,0 +1,20 @@
+{
+    "zip": 49310,
+    "lat": 43.51525,
+    "lng": -85.05448,
+    "city": "Blanchard",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2989.0,
+    "density": 13.2,
+    "county_fips": 26073,
+    "county_name": "Isabella",
+    "county_weights": "{\"26073\": 62.68, \"26107\": 35.0, \"26117\": 2.32}",
+    "county_names_all": "Isabella|Mecosta|Montcalm",
+    "county_fips_all": "26073|26107|26117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

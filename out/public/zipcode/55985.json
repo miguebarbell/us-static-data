@@ -1,0 +1,20 @@
+{
+    "zip": 55985,
+    "lat": 44.15669,
+    "lng": -92.90259,
+    "city": "West Concord",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1644.0,
+    "density": 7.9,
+    "county_fips": 27039,
+    "county_name": "Dodge",
+    "county_weights": "{\"27039\": 89.16, \"27049\": 6.5, \"27147\": 4.34}",
+    "county_names_all": "Dodge|Goodhue|Steele",
+    "county_fips_all": "27039|27049|27147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

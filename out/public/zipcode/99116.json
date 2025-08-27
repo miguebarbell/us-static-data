@@ -1,0 +1,20 @@
+{
+    "zip": 99116,
+    "lat": 48.01429,
+    "lng": -118.93063,
+    "city": "Coulee Dam",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1649.0,
+    "density": 13.5,
+    "county_fips": 53047,
+    "county_name": "Okanogan",
+    "county_weights": "{\"53047\": 96.94, \"53025\": 2.75, \"53017\": 0.31}",
+    "county_names_all": "Okanogan|Grant|Douglas",
+    "county_fips_all": "53047|53025|53017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

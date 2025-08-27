@@ -1,0 +1,20 @@
+{
+    "zip": 12057,
+    "lat": 42.97316,
+    "lng": -73.34335,
+    "city": "Eagle Bridge",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1966.0,
+    "density": 19.9,
+    "county_fips": 36115,
+    "county_name": "Washington",
+    "county_weights": "{\"36115\": 81.74, \"36083\": 18.26}",
+    "county_names_all": "Washington|Rensselaer",
+    "county_fips_all": "36115|36083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

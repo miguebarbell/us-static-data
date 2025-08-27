@@ -1,0 +1,20 @@
+{
+    "zip": 69028,
+    "lat": 40.64107,
+    "lng": -100.04708,
+    "city": "Eustis",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 757.0,
+    "density": 1.7,
+    "county_fips": 31063,
+    "county_name": "Frontier",
+    "county_weights": "{\"31063\": 67.21, \"31047\": 25.03, \"31073\": 7.76}",
+    "county_names_all": "Frontier|Dawson|Gosper",
+    "county_fips_all": "31063|31047|31073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

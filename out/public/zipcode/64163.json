@@ -1,0 +1,20 @@
+{
+    "zip": 64163,
+    "lat": 39.33674,
+    "lng": -94.68922,
+    "city": "Kansas City",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1062.0,
+    "density": 45.5,
+    "county_fips": 29165,
+    "county_name": "Platte",
+    "county_weights": "{\"29165\": 100}",
+    "county_names_all": "Platte",
+    "county_fips_all": "29165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

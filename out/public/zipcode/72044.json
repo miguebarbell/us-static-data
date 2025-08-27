@@ -1,0 +1,20 @@
+{
+    "zip": 72044,
+    "lat": 35.67688,
+    "lng": -92.16243,
+    "city": "Edgemont",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1286.0,
+    "density": 7.6,
+    "county_fips": 5023,
+    "county_name": "Cleburne",
+    "county_weights": "{\"05023\": 72.83, \"05137\": 27.17}",
+    "county_names_all": "Cleburne|Stone",
+    "county_fips_all": "05023|05137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65062,
+    "lat": 38.49486,
+    "lng": -91.65059,
+    "city": "Mount Sterling",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20.0,
+    "density": 1.9,
+    "county_fips": 29151,
+    "county_name": "Osage",
+    "county_weights": "{\"29151\": 65.38, \"29073\": 34.62}",
+    "county_names_all": "Osage|Gasconade",
+    "county_fips_all": "29151|29073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65652,
+    "lat": 37.14264,
+    "lng": -92.94642,
+    "city": "Fordland",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5014.0,
+    "density": 27.2,
+    "county_fips": 29225,
+    "county_name": "Webster",
+    "county_weights": "{\"29225\": 84.87, \"29043\": 13.49, \"29067\": 1.64}",
+    "county_names_all": "Webster|Christian|Douglas",
+    "county_fips_all": "29225|29043|29067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

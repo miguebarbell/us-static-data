@@ -1,0 +1,20 @@
+{
+    "zip": 65601,
+    "lat": 37.53155,
+    "lng": -93.5869,
+    "city": "Aldrich",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 518.0,
+    "density": 3.8,
+    "county_fips": 29167,
+    "county_name": "Polk",
+    "county_weights": "{\"29167\": 64.64, \"29057\": 34.68, \"29039\": 0.68}",
+    "county_names_all": "Polk|Dade|Cedar",
+    "county_fips_all": "29167|29057|29039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

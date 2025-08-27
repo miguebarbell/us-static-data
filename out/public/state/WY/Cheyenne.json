@@ -1,0 +1,13 @@
+{
+    "zip": [
+        "82001",
+        "82007",
+        "82009"
+    ],
+    "city": "Cheyenne",
+    "state": "WY",
+    "lat": 41.095,
+    "lng": -104.93265,
+    "state_name": "Wyoming",
+    "timezone": "America/Denver"
+}

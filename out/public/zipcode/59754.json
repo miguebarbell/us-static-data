@@ -1,0 +1,20 @@
+{
+    "zip": 59754,
+    "lat": 45.52435,
+    "lng": -112.35339,
+    "city": "Twin Bridges",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1020.0,
+    "density": 1.0,
+    "county_fips": 30057,
+    "county_name": "Madison",
+    "county_weights": "{\"30057\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "30057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

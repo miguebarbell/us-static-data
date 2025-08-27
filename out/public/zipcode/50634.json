@@ -1,0 +1,20 @@
+{
+    "zip": 50634,
+    "lat": 42.4181,
+    "lng": -92.21422,
+    "city": "Gilbertville",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 736.0,
+    "density": 793.9,
+    "county_fips": 19013,
+    "county_name": "Black Hawk",
+    "county_weights": "{\"19013\": 100}",
+    "county_names_all": "Black Hawk",
+    "county_fips_all": "19013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65712,
+    "lat": 37.10964,
+    "lng": -93.80645,
+    "city": "Mount Vernon",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8910.0,
+    "density": 28.6,
+    "county_fips": 29109,
+    "county_name": "Lawrence",
+    "county_weights": "{\"29109\": 100}",
+    "county_names_all": "Lawrence",
+    "county_fips_all": "29109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

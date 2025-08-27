@@ -1,0 +1,20 @@
+{
+    "zip": 64441,
+    "lat": 40.39883,
+    "lng": -94.2642,
+    "city": "Denver",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 100.0,
+    "density": 0.8,
+    "county_fips": 29227,
+    "county_name": "Worth",
+    "county_weights": "{\"29227\": 61.73, \"29075\": 38.27}",
+    "county_names_all": "Worth|Gentry",
+    "county_fips_all": "29227|29075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

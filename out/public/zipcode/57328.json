@@ -1,0 +1,20 @@
+{
+    "zip": 57328,
+    "lat": 43.43413,
+    "lng": -98.44207,
+    "city": "Corsica",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1225.0,
+    "density": 2.9,
+    "county_fips": 46043,
+    "county_name": "Douglas",
+    "county_weights": "{\"46043\": 97.57, \"46003\": 2.43}",
+    "county_names_all": "Douglas|Aurora",
+    "county_fips_all": "46043|46003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

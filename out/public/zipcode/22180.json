@@ -1,0 +1,20 @@
+{
+    "zip": 22180,
+    "lat": 38.89619,
+    "lng": -77.25426,
+    "city": "Vienna",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26506.0,
+    "density": 1736.9,
+    "county_fips": 51059,
+    "county_name": "Fairfax",
+    "county_weights": "{\"51059\": 100}",
+    "county_names_all": "Fairfax",
+    "county_fips_all": "51059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

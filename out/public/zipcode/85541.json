@@ -1,0 +1,20 @@
+{
+    "zip": 85541,
+    "lat": 34.21921,
+    "lng": -111.34387,
+    "city": "Payson",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23323.0,
+    "density": 11.1,
+    "county_fips": 4007,
+    "county_name": "Gila",
+    "county_weights": "{\"04007\": 100}",
+    "county_names_all": "Gila",
+    "county_fips_all": "04007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

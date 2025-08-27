@@ -1,0 +1,20 @@
+{
+    "zip": 54914,
+    "lat": 44.26353,
+    "lng": -88.48239,
+    "city": "Appleton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31448.0,
+    "density": 631.5,
+    "county_fips": 55087,
+    "county_name": "Outagamie",
+    "county_weights": "{\"55087\": 96.13, \"55139\": 3.87}",
+    "county_names_all": "Outagamie|Winnebago",
+    "county_fips_all": "55087|55139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

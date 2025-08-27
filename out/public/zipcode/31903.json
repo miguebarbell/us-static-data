@@ -1,0 +1,20 @@
+{
+    "zip": 31903,
+    "lat": 32.41484,
+    "lng": -84.95321,
+    "city": "Columbus",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19521.0,
+    "density": 755.6,
+    "county_fips": 13215,
+    "county_name": "Muscogee",
+    "county_weights": "{\"13215\": 100}",
+    "county_names_all": "Muscogee",
+    "county_fips_all": "13215",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

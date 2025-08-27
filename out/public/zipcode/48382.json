@@ -1,0 +1,20 @@
+{
+    "zip": 48382,
+    "lat": 42.59006,
+    "lng": -83.507,
+    "city": "Commerce Township",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23550.0,
+    "density": 546.3,
+    "county_fips": 26125,
+    "county_name": "Oakland",
+    "county_weights": "{\"26125\": 100}",
+    "county_names_all": "Oakland",
+    "county_fips_all": "26125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

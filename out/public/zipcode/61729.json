@@ -1,0 +1,20 @@
+{
+    "zip": 61729,
+    "lat": 40.62799,
+    "lng": -89.22393,
+    "city": "Congerville",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1168.0,
+    "density": 24.3,
+    "county_fips": 17203,
+    "county_name": "Woodford",
+    "county_weights": "{\"17203\": 93.94, \"17113\": 6.06}",
+    "county_names_all": "Woodford|McLean",
+    "county_fips_all": "17203|17113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

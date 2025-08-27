@@ -1,0 +1,20 @@
+{
+    "zip": 69030,
+    "lat": 40.20318,
+    "lng": -101.92592,
+    "city": "Haigler",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 243.0,
+    "density": 0.3,
+    "county_fips": 31057,
+    "county_name": "Dundy",
+    "county_weights": "{\"31057\": 88.58, \"31029\": 11.42}",
+    "county_names_all": "Dundy|Chase",
+    "county_fips_all": "31057|31029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

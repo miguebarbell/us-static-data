@@ -1,0 +1,20 @@
+{
+    "zip": 47122,
+    "lat": 38.3041,
+    "lng": -85.98303,
+    "city": "Georgetown",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11230.0,
+    "density": 122.7,
+    "county_fips": 18043,
+    "county_name": "Floyd",
+    "county_weights": "{\"18043\": 66.46, \"18061\": 33.54}",
+    "county_names_all": "Floyd|Harrison",
+    "county_fips_all": "18043|18061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Kentucky/Louisville"
+}

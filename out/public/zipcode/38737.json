@@ -1,0 +1,20 @@
+{
+    "zip": 38737,
+    "lat": 33.85683,
+    "lng": -90.4928,
+    "city": "Drew",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3150.0,
+    "density": 10.5,
+    "county_fips": 28133,
+    "county_name": "Sunflower",
+    "county_weights": "{\"28133\": 69.43, \"28135\": 30.57}",
+    "county_names_all": "Sunflower|Tallahatchie",
+    "county_fips_all": "28133|28135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

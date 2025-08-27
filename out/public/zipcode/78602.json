@@ -1,0 +1,20 @@
+{
+    "zip": 78602,
+    "lat": 30.12735,
+    "lng": -97.32801,
+    "city": "Bastrop",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35786.0,
+    "density": 70.8,
+    "county_fips": 48021,
+    "county_name": "Bastrop",
+    "county_weights": "{\"48021\": 100}",
+    "county_names_all": "Bastrop",
+    "county_fips_all": "48021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

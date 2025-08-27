@@ -1,0 +1,20 @@
+{
+    "zip": 73663,
+    "lat": 36.10622,
+    "lng": -98.90291,
+    "city": "Seiling",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1162.0,
+    "density": 3.2,
+    "county_fips": 40043,
+    "county_name": "Dewey",
+    "county_weights": "{\"40043\": 94.54, \"40093\": 3.27, \"40153\": 2.19}",
+    "county_names_all": "Dewey|Major|Woodward",
+    "county_fips_all": "40043|40093|40153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

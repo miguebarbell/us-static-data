@@ -1,0 +1,20 @@
+{
+    "zip": 52162,
+    "lat": 43.11062,
+    "lng": -91.55266,
+    "city": "Postville",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3576.0,
+    "density": 14.3,
+    "county_fips": 19005,
+    "county_name": "Allamakee",
+    "county_weights": "{\"19005\": 59.92, \"19043\": 27.38, \"19191\": 9.59, \"19065\": 3.11}",
+    "county_names_all": "Allamakee|Clayton|Winneshiek|Fayette",
+    "county_fips_all": "19005|19043|19191|19065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 32097,
+    "lat": 30.65851,
+    "lng": -81.64478,
+    "city": "Yulee",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24880.0,
+    "density": 77.0,
+    "county_fips": 12089,
+    "county_name": "Nassau",
+    "county_weights": "{\"12089\": 100}",
+    "county_names_all": "Nassau",
+    "county_fips_all": "12089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

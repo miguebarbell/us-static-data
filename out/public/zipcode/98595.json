@@ -1,0 +1,20 @@
+{
+    "zip": 98595,
+    "lat": 46.88302,
+    "lng": -124.1088,
+    "city": "Westport",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2591.0,
+    "density": 188.4,
+    "county_fips": 53027,
+    "county_name": "Grays Harbor",
+    "county_weights": "{\"53027\": 100}",
+    "county_names_all": "Grays Harbor",
+    "county_fips_all": "53027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

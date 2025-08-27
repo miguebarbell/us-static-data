@@ -1,0 +1,20 @@
+{
+    "zip": 28719,
+    "lat": 35.53223,
+    "lng": -83.47056,
+    "city": "Cherokee",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6577.0,
+    "density": 6.4,
+    "county_fips": 37173,
+    "county_name": "Swain",
+    "county_weights": "{\"37173\": 92.42, \"37099\": 7.58}",
+    "county_names_all": "Swain|Jackson",
+    "county_fips_all": "37173|37099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

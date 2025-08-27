@@ -1,0 +1,20 @@
+{
+    "zip": 59043,
+    "lat": 45.53266,
+    "lng": -106.6568,
+    "city": "Lame Deer",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2771.0,
+    "density": 3.1,
+    "county_fips": 30087,
+    "county_name": "Rosebud",
+    "county_weights": "{\"30087\": 70.0, \"30003\": 30.0}",
+    "county_names_all": "Rosebud|Big Horn",
+    "county_fips_all": "30087|30003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

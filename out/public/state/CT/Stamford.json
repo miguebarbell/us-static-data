@@ -1,0 +1,16 @@
+{
+    "zip": [
+        "06901",
+        "06902",
+        "06903",
+        "06905",
+        "06906",
+        "06907"
+    ],
+    "city": "Stamford",
+    "state": "CT",
+    "lat": 41.79185,
+    "lng": -72.85107,
+    "state_name": "Connecticut",
+    "timezone": "America/New_York"
+}

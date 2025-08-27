@@ -1,0 +1,20 @@
+{
+    "zip": 15332,
+    "lat": 40.24226,
+    "lng": -79.99134,
+    "city": "Finleyville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8206.0,
+    "density": 118.7,
+    "county_fips": 42125,
+    "county_name": "Washington",
+    "county_weights": "{\"42125\": 87.03, \"42003\": 12.97}",
+    "county_names_all": "Washington|Allegheny",
+    "county_fips_all": "42125|42003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 48145,
+    "lat": 41.85122,
+    "lng": -83.46331,
+    "city": "La Salle",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2917.0,
+    "density": 66.4,
+    "county_fips": 26115,
+    "county_name": "Monroe",
+    "county_weights": "{\"26115\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "26115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49884,
+    "lat": 46.41734,
+    "lng": -86.35554,
+    "city": "Shingleton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 586.0,
+    "density": 0.9,
+    "county_fips": 26003,
+    "county_name": "Alger",
+    "county_weights": "{\"26003\": 56.28, \"26153\": 43.72}",
+    "county_names_all": "Alger|Schoolcraft",
+    "county_fips_all": "26003|26153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

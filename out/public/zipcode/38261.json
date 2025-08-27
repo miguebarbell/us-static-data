@@ -1,0 +1,20 @@
+{
+    "zip": 38261,
+    "lat": 36.43214,
+    "lng": -89.11583,
+    "city": "Union City",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16338.0,
+    "density": 35.7,
+    "county_fips": 47131,
+    "county_name": "Obion",
+    "county_weights": "{\"47131\": 99.65, \"47183\": 0.35}",
+    "county_names_all": "Obion|Weakley",
+    "county_fips_all": "47131|47183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

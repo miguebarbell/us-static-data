@@ -1,0 +1,20 @@
+{
+    "zip": 93251,
+    "lat": 35.37059,
+    "lng": -119.69735,
+    "city": "McKittrick",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 280.0,
+    "density": 1.0,
+    "county_fips": 6029,
+    "county_name": "Kern",
+    "county_weights": "{\"06029\": 100}",
+    "county_names_all": "Kern",
+    "county_fips_all": "06029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

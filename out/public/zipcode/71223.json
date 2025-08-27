@@ -1,0 +1,20 @@
+{
+    "zip": 71223,
+    "lat": 32.90084,
+    "lng": -91.67443,
+    "city": "Bonita",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 377.0,
+    "density": 2.9,
+    "county_fips": 22067,
+    "county_name": "Morehouse",
+    "county_weights": "{\"22067\": 100}",
+    "county_names_all": "Morehouse",
+    "county_fips_all": "22067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

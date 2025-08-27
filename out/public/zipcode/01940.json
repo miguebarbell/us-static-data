@@ -1,0 +1,20 @@
+{
+    "zip": 1940,
+    "lat": 42.53523,
+    "lng": -71.03695,
+    "city": "Lynnfield",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13183.0,
+    "density": 505.1,
+    "county_fips": 25009,
+    "county_name": "Essex",
+    "county_weights": "{\"25009\": 99.87, \"25017\": 0.13}",
+    "county_names_all": "Essex|Middlesex",
+    "county_fips_all": "25009|25017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

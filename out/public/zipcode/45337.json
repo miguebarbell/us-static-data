@@ -1,0 +1,20 @@
+{
+    "zip": 45337,
+    "lat": 39.98019,
+    "lng": -84.42095,
+    "city": "Laura",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1750.0,
+    "density": 32.5,
+    "county_fips": 39109,
+    "county_name": "Miami",
+    "county_weights": "{\"39109\": 62.94, \"39037\": 37.06}",
+    "county_names_all": "Miami|Darke",
+    "county_fips_all": "39109|39037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

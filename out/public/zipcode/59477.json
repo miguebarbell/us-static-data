@@ -1,0 +1,20 @@
+{
+    "zip": 59477,
+    "lat": 47.44467,
+    "lng": -111.97419,
+    "city": "Simms",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 326.0,
+    "density": 1.9,
+    "county_fips": 30013,
+    "county_name": "Cascade",
+    "county_weights": "{\"30013\": 100}",
+    "county_names_all": "Cascade",
+    "county_fips_all": "30013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

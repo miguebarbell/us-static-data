@@ -1,0 +1,20 @@
+{
+    "zip": 98229,
+    "lat": 48.69615,
+    "lng": -122.40979,
+    "city": "Bellingham",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33919.0,
+    "density": 261.0,
+    "county_fips": 53073,
+    "county_name": "Whatcom",
+    "county_weights": "{\"53073\": 95.34, \"53057\": 4.66}",
+    "county_names_all": "Whatcom|Skagit",
+    "county_fips_all": "53073|53057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

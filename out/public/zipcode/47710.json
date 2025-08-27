@@ -1,0 +1,20 @@
+{
+    "zip": 47710,
+    "lat": 38.02518,
+    "lng": -87.57618,
+    "city": "Evansville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18802.0,
+    "density": 847.1,
+    "county_fips": 18163,
+    "county_name": "Vanderburgh",
+    "county_weights": "{\"18163\": 100}",
+    "county_names_all": "Vanderburgh",
+    "county_fips_all": "18163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

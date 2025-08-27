@@ -1,0 +1,14 @@
+{
+    "zip": [
+        "50010",
+        "50012",
+        "50013",
+        "50014"
+    ],
+    "city": "Ames",
+    "state": "IA",
+    "lat": 41.3611,
+    "lng": -93.43321,
+    "state_name": "Iowa",
+    "timezone": "America/Chicago"
+}

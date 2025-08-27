@@ -1,0 +1,20 @@
+{
+    "zip": 42733,
+    "lat": 37.34008,
+    "lng": -85.18028,
+    "city": "Elk Horn",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1797.0,
+    "density": 12.5,
+    "county_fips": 21217,
+    "county_name": "Taylor",
+    "county_weights": "{\"21217\": 72.57, \"21045\": 25.04, \"21001\": 2.39}",
+    "county_names_all": "Taylor|Casey|Adair",
+    "county_fips_all": "21217|21045|21001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

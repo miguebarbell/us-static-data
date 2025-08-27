@@ -1,0 +1,20 @@
+{
+    "zip": 15856,
+    "lat": 41.08906,
+    "lng": -78.6154,
+    "city": "Rockton",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 883.0,
+    "density": 8.7,
+    "county_fips": 42033,
+    "county_name": "Clearfield",
+    "county_weights": "{\"42033\": 100}",
+    "county_names_all": "Clearfield",
+    "county_fips_all": "42033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

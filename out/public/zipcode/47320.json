@@ -1,0 +1,20 @@
+{
+    "zip": 47320,
+    "lat": 40.2787,
+    "lng": -85.2672,
+    "city": "Albany",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4486.0,
+    "density": 53.1,
+    "county_fips": 18035,
+    "county_name": "Delaware",
+    "county_weights": "{\"18035\": 94.43, \"18135\": 4.96, \"18075\": 0.61}",
+    "county_names_all": "Delaware|Randolph|Jay",
+    "county_fips_all": "18035|18135|18075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

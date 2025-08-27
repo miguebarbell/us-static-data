@@ -1,0 +1,20 @@
+{
+    "zip": 93653,
+    "lat": 37.24769,
+    "lng": -119.91882,
+    "city": "Raymond",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1314.0,
+    "density": 2.4,
+    "county_fips": 6039,
+    "county_name": "Madera",
+    "county_weights": "{\"06039\": 69.45, \"06043\": 30.55}",
+    "county_names_all": "Madera|Mariposa",
+    "county_fips_all": "06039|06043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

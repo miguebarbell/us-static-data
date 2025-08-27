@@ -1,0 +1,20 @@
+{
+    "zip": 30548,
+    "lat": 34.09311,
+    "lng": -83.7646,
+    "city": "Hoschton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24602.0,
+    "density": 235.0,
+    "county_fips": 13157,
+    "county_name": "Jackson",
+    "county_weights": "{\"13157\": 62.0, \"13013\": 19.96, \"13139\": 9.04, \"13135\": 9.0}",
+    "county_names_all": "Jackson|Barrow|Hall|Gwinnett",
+    "county_fips_all": "13157|13013|13139|13135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

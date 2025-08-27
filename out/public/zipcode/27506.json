@@ -1,0 +1,20 @@
+{
+    "zip": 27506,
+    "lat": 35.40875,
+    "lng": -78.73896,
+    "city": "Buies Creek",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1064.0,
+    "density": 1501.5,
+    "county_fips": 37085,
+    "county_name": "Harnett",
+    "county_weights": "{\"37085\": 100}",
+    "county_names_all": "Harnett",
+    "county_fips_all": "37085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

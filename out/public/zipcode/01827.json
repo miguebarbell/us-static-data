@@ -1,0 +1,20 @@
+{
+    "zip": 1827,
+    "lat": 42.67643,
+    "lng": -71.50052,
+    "city": "Dunstable",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3375.0,
+    "density": 79.2,
+    "county_fips": 25017,
+    "county_name": "Middlesex",
+    "county_weights": "{\"25017\": 100}",
+    "county_names_all": "Middlesex",
+    "county_fips_all": "25017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

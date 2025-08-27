@@ -1,0 +1,20 @@
+{
+    "zip": 93670,
+    "lat": 36.48564,
+    "lng": -119.25442,
+    "city": "Yettem",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 106.0,
+    "density": 877.7,
+    "county_fips": 6107,
+    "county_name": "Tulare",
+    "county_weights": "{\"06107\": 100}",
+    "county_names_all": "Tulare",
+    "county_fips_all": "06107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

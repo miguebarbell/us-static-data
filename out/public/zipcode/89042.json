@@ -1,0 +1,20 @@
+{
+    "zip": 89042,
+    "lat": 37.79819,
+    "lng": -114.35862,
+    "city": "Panaca",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1334.0,
+    "density": 4.7,
+    "county_fips": 32017,
+    "county_name": "Lincoln",
+    "county_weights": "{\"32017\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "32017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

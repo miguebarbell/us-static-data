@@ -1,0 +1,20 @@
+{
+    "zip": 38059,
+    "lat": 36.11132,
+    "lng": -89.24113,
+    "city": "Newbern",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8822.0,
+    "density": 26.0,
+    "county_fips": 47045,
+    "county_name": "Dyer",
+    "county_weights": "{\"47045\": 86.62, \"47053\": 13.38}",
+    "county_names_all": "Dyer|Gibson",
+    "county_fips_all": "47045|47053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

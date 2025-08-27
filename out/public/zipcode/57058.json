@@ -1,0 +1,20 @@
+{
+    "zip": 57058,
+    "lat": 43.74602,
+    "lng": -97.40468,
+    "city": "Salem",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1792.0,
+    "density": 4.4,
+    "county_fips": 46087,
+    "county_name": "McCook",
+    "county_weights": "{\"46087\": 95.58, \"46079\": 2.54, \"46097\": 1.88}",
+    "county_names_all": "McCook|Lake|Miner",
+    "county_fips_all": "46087|46079|46097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

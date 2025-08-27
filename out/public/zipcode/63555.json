@@ -1,0 +1,20 @@
+{
+    "zip": 63555,
+    "lat": 40.48458,
+    "lng": -92.18698,
+    "city": "Memphis",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3193.0,
+    "density": 6.4,
+    "county_fips": 29199,
+    "county_name": "Scotland",
+    "county_weights": "{\"29199\": 100}",
+    "county_names_all": "Scotland",
+    "county_fips_all": "29199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

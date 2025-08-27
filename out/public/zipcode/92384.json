@@ -1,0 +1,20 @@
+{
+    "zip": 92384,
+    "lat": 35.98255,
+    "lng": -116.1505,
+    "city": "Shoshone",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18.0,
+    "density": 0.0,
+    "county_fips": 6027,
+    "county_name": "Inyo",
+    "county_weights": "{\"06027\": 100}",
+    "county_names_all": "Inyo",
+    "county_fips_all": "06027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

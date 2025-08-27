@@ -1,0 +1,20 @@
+{
+    "zip": 62554,
+    "lat": 39.94976,
+    "lng": -88.87107,
+    "city": "Oreana",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1738.0,
+    "density": 37.1,
+    "county_fips": 17115,
+    "county_name": "Macon",
+    "county_weights": "{\"17115\": 100}",
+    "county_names_all": "Macon",
+    "county_fips_all": "17115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

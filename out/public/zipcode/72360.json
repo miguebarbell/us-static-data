@@ -1,0 +1,20 @@
+{
+    "zip": 72360,
+    "lat": 34.75352,
+    "lng": -90.78875,
+    "city": "Marianna",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5173.0,
+    "density": 6.9,
+    "county_fips": 5077,
+    "county_name": "Lee",
+    "county_weights": "{\"05077\": 100}",
+    "county_names_all": "Lee",
+    "county_fips_all": "05077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 76251,
+    "lat": 33.65455,
+    "lng": -97.69076,
+    "city": "Montague",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 704.0,
+    "density": 6.1,
+    "county_fips": 48337,
+    "county_name": "Montague",
+    "county_weights": "{\"48337\": 100}",
+    "county_names_all": "Montague",
+    "county_fips_all": "48337",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

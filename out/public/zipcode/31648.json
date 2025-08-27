@@ -1,0 +1,20 @@
+{
+    "zip": 31648,
+    "lat": 30.70834,
+    "lng": -83.00838,
+    "city": "Statenville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 840.0,
+    "density": 16.7,
+    "county_fips": 13101,
+    "county_name": "Echols",
+    "county_weights": "{\"13101\": 100}",
+    "county_names_all": "Echols",
+    "county_fips_all": "13101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

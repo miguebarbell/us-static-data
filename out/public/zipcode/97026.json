@@ -1,0 +1,20 @@
+{
+    "zip": 97026,
+    "lat": 45.10409,
+    "lng": -122.94251,
+    "city": "Gervais",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3898.0,
+    "density": 44.5,
+    "county_fips": 41047,
+    "county_name": "Marion",
+    "county_weights": "{\"41047\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "41047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

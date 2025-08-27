@@ -1,0 +1,20 @@
+{
+    "zip": 30214,
+    "lat": 33.49222,
+    "lng": -84.48697,
+    "city": "Fayetteville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32003.0,
+    "density": 234.6,
+    "county_fips": 13113,
+    "county_name": "Fayette",
+    "county_weights": "{\"13113\": 99.63, \"13121\": 0.37}",
+    "county_names_all": "Fayette|Fulton",
+    "county_fips_all": "13113|13121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

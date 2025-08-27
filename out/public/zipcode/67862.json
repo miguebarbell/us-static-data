@@ -1,0 +1,20 @@
+{
+    "zip": 67862,
+    "lat": 37.47961,
+    "lng": -101.95409,
+    "city": "Manter",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 179.0,
+    "density": 0.2,
+    "county_fips": 20187,
+    "county_name": "Stanton",
+    "county_weights": "{\"20187\": 74.1, \"20129\": 25.9}",
+    "county_names_all": "Stanton|Morton",
+    "county_fips_all": "20187|20129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

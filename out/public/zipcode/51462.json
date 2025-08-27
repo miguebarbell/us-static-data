@@ -1,0 +1,20 @@
+{
+    "zip": 51462,
+    "lat": 42.01319,
+    "lng": -94.55744,
+    "city": "Scranton",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 940.0,
+    "density": 3.2,
+    "county_fips": 19073,
+    "county_name": "Greene",
+    "county_weights": "{\"19073\": 97.41, \"19027\": 2.59}",
+    "county_names_all": "Greene|Carroll",
+    "county_fips_all": "19073|19027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

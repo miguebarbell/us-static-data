@@ -1,0 +1,20 @@
+{
+    "zip": 25699,
+    "lat": 37.96297,
+    "lng": -82.31493,
+    "city": "Wilsondale",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 54099,
+    "county_name": "Wayne",
+    "county_weights": "{\"54099\": 75.3, \"54043\": 24.7}",
+    "county_names_all": "Wayne|Lincoln",
+    "county_fips_all": "54099|54043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

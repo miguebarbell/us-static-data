@@ -1,0 +1,20 @@
+{
+    "zip": 17730,
+    "lat": 41.10677,
+    "lng": -76.87591,
+    "city": "Dewart",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38.0,
+    "density": 75.8,
+    "county_fips": 42097,
+    "county_name": "Northumberland",
+    "county_weights": "{\"42097\": 100}",
+    "county_names_all": "Northumberland",
+    "county_fips_all": "42097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

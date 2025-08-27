@@ -1,0 +1,20 @@
+{
+    "zip": 38011,
+    "lat": 35.47266,
+    "lng": -89.71415,
+    "city": "Brighton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9493.0,
+    "density": 64.3,
+    "county_fips": 47167,
+    "county_name": "Tipton",
+    "county_weights": "{\"47167\": 96.84, \"47157\": 3.16}",
+    "county_names_all": "Tipton|Shelby",
+    "county_fips_all": "47167|47157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

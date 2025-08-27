@@ -1,0 +1,20 @@
+{
+    "zip": 49084,
+    "lat": 42.18018,
+    "lng": -86.3852,
+    "city": "Riverside",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38.0,
+    "density": 158.5,
+    "county_fips": 26021,
+    "county_name": "Berrien",
+    "county_weights": "{\"26021\": 100}",
+    "county_names_all": "Berrien",
+    "county_fips_all": "26021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

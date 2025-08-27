@@ -1,0 +1,20 @@
+{
+    "zip": 54511,
+    "lat": 45.72365,
+    "lng": -88.83177,
+    "city": "Argonne",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1375.0,
+    "density": 1.9,
+    "county_fips": 55041,
+    "county_name": "Forest",
+    "county_weights": "{\"55041\": 100}",
+    "county_names_all": "Forest",
+    "county_fips_all": "55041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

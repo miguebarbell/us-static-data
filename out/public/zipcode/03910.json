@@ -1,0 +1,20 @@
+{
+    "zip": 3910,
+    "lat": 43.17374,
+    "lng": -70.60842,
+    "city": "York Beach",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 23031,
+    "county_name": "York",
+    "county_weights": "{\"23031\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "23031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

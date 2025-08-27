@@ -1,0 +1,20 @@
+{
+    "zip": 7055,
+    "lat": 40.85746,
+    "lng": -74.12821,
+    "city": "Passaic",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 69651.0,
+    "density": 8595.1,
+    "county_fips": 34031,
+    "county_name": "Passaic",
+    "county_weights": "{\"34031\": 100}",
+    "county_names_all": "Passaic",
+    "county_fips_all": "34031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

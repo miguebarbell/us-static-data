@@ -1,0 +1,20 @@
+{
+    "zip": 11418,
+    "lat": 40.70032,
+    "lng": -73.83603,
+    "city": "Richmond Hill",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36304.0,
+    "density": 8446.3,
+    "county_fips": 36081,
+    "county_name": "Queens",
+    "county_weights": "{\"36081\": 100}",
+    "county_names_all": "Queens",
+    "county_fips_all": "36081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

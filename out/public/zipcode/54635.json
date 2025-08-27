@@ -1,0 +1,20 @@
+{
+    "zip": 54635,
+    "lat": 44.40871,
+    "lng": -91.04455,
+    "city": "Hixton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1827.0,
+    "density": 8.8,
+    "county_fips": 55053,
+    "county_name": "Jackson",
+    "county_weights": "{\"55053\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "55053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

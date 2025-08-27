@@ -1,0 +1,20 @@
+{
+    "zip": 37145,
+    "lat": 36.38179,
+    "lng": -85.91203,
+    "city": "Pleasant Shade",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2418.0,
+    "density": 11.8,
+    "county_fips": 47159,
+    "county_name": "Smith",
+    "county_weights": "{\"47159\": 70.88, \"47111\": 18.69, \"47087\": 10.43}",
+    "county_names_all": "Smith|Macon|Jackson",
+    "county_fips_all": "47159|47111|47087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

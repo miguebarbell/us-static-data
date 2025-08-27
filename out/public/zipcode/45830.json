@@ -1,0 +1,20 @@
+{
+    "zip": 45830,
+    "lat": 40.90616,
+    "lng": -84.09213,
+    "city": "Columbus Grove",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5403.0,
+    "density": 22.1,
+    "county_fips": 39137,
+    "county_name": "Putnam",
+    "county_weights": "{\"39137\": 67.17, \"39003\": 32.83}",
+    "county_names_all": "Putnam|Allen",
+    "county_fips_all": "39137|39003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

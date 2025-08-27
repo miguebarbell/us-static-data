@@ -1,0 +1,20 @@
+{
+    "zip": 40404,
+    "lat": 37.57311,
+    "lng": -84.29037,
+    "city": "Berea",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 864.0,
+    "density": 1688.4,
+    "county_fips": 21151,
+    "county_name": "Madison",
+    "county_weights": "{\"21151\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "21151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

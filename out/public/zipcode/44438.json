@@ -1,0 +1,20 @@
+{
+    "zip": 44438,
+    "lat": 41.24252,
+    "lng": -80.5345,
+    "city": "Masury",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5045.0,
+    "density": 207.0,
+    "county_fips": 39155,
+    "county_name": "Trumbull",
+    "county_weights": "{\"39155\": 100}",
+    "county_names_all": "Trumbull",
+    "county_fips_all": "39155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

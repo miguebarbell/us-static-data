@@ -1,0 +1,20 @@
+{
+    "zip": 25841,
+    "lat": 37.55325,
+    "lng": -81.09061,
+    "city": "Flat Top",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 555.0,
+    "density": 6.8,
+    "county_fips": 54055,
+    "county_name": "Mercer",
+    "county_weights": "{\"54055\": 89.02, \"54089\": 10.98}",
+    "county_names_all": "Mercer|Summers",
+    "county_fips_all": "54055|54089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

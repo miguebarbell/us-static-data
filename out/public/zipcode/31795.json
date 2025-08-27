@@ -1,0 +1,20 @@
+{
+    "zip": 31795,
+    "lat": 31.47611,
+    "lng": -83.67633,
+    "city": "Ty Ty",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1637.0,
+    "density": 13.3,
+    "county_fips": 13321,
+    "county_name": "Worth",
+    "county_weights": "{\"13321\": 73.23, \"13277\": 26.77}",
+    "county_names_all": "Worth|Tift",
+    "county_fips_all": "13321|13277",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

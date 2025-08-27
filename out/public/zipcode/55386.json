@@ -1,0 +1,20 @@
+{
+    "zip": 55386,
+    "lat": 44.85686,
+    "lng": -93.66435,
+    "city": "Victoria",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10080.0,
+    "density": 608.5,
+    "county_fips": 27019,
+    "county_name": "Carver",
+    "county_weights": "{\"27019\": 100}",
+    "county_names_all": "Carver",
+    "county_fips_all": "27019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

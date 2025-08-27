@@ -1,0 +1,20 @@
+{
+    "zip": 46532,
+    "lat": 41.41762,
+    "lng": -86.62119,
+    "city": "Hamlet",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1628.0,
+    "density": 12.2,
+    "county_fips": 18149,
+    "county_name": "Starke",
+    "county_weights": "{\"18149\": 58.75, \"18091\": 41.25}",
+    "county_names_all": "Starke|LaPorte",
+    "county_fips_all": "18149|18091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Knox"
+}

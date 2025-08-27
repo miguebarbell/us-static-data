@@ -1,0 +1,20 @@
+{
+    "zip": 58255,
+    "lat": 48.99683,
+    "lng": -98.35392,
+    "city": "Maida",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 38019,
+    "county_name": "Cavalier",
+    "county_weights": "{\"38019\": 100}",
+    "county_names_all": "Cavalier",
+    "county_fips_all": "38019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Winnipeg"
+}

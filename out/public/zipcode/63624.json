@@ -1,0 +1,20 @@
+{
+    "zip": 63624,
+    "lat": 37.7531,
+    "lng": -90.63923,
+    "city": "Bismarck",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3507.0,
+    "density": 22.2,
+    "county_fips": 29187,
+    "county_name": "St. Francois",
+    "county_weights": "{\"29187\": 54.84, \"29221\": 28.94, \"29093\": 16.22}",
+    "county_names_all": "St. Francois|Washington|Iron",
+    "county_fips_all": "29187|29221|29093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

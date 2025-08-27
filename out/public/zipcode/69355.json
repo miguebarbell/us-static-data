@@ -1,0 +1,20 @@
+{
+    "zip": 69355,
+    "lat": 41.78192,
+    "lng": -103.51709,
+    "city": "Melbeta",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 149.0,
+    "density": 599.1,
+    "county_fips": 31157,
+    "county_name": "Scotts Bluff",
+    "county_weights": "{\"31157\": 100}",
+    "county_names_all": "Scotts Bluff",
+    "county_fips_all": "31157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 42214,
+    "lat": 37.13428,
+    "lng": -85.68822,
+    "city": "Center",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 664.0,
+    "density": 12.1,
+    "county_fips": 21169,
+    "county_name": "Metcalfe",
+    "county_weights": "{\"21169\": 81.26, \"21087\": 18.74}",
+    "county_names_all": "Metcalfe|Green",
+    "county_fips_all": "21169|21087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

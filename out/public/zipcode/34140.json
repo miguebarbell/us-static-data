@@ -1,0 +1,20 @@
+{
+    "zip": 34140,
+    "lat": 25.92531,
+    "lng": -81.65888,
+    "city": "Goodland",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 89.0,
+    "density": 25.8,
+    "county_fips": 12021,
+    "county_name": "Collier",
+    "county_weights": "{\"12021\": 100}",
+    "county_names_all": "Collier",
+    "county_fips_all": "12021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

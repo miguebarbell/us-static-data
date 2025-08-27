@@ -1,0 +1,20 @@
+{
+    "zip": 46783,
+    "lat": 40.97399,
+    "lng": -85.35578,
+    "city": "Roanoke",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7610.0,
+    "density": 48.2,
+    "county_fips": 18069,
+    "county_name": "Huntington",
+    "county_weights": "{\"18069\": 45.94, \"18003\": 32.8, \"18183\": 19.39, \"18179\": 1.86}",
+    "county_names_all": "Huntington|Allen|Whitley|Wells",
+    "county_fips_all": "18069|18003|18183|18179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

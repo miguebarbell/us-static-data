@@ -1,0 +1,20 @@
+{
+    "zip": 68031,
+    "lat": 41.64041,
+    "lng": -96.53046,
+    "city": "Hooper",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1720.0,
+    "density": 5.7,
+    "county_fips": 31053,
+    "county_name": "Dodge",
+    "county_weights": "{\"31053\": 89.9, \"31177\": 10.1}",
+    "county_names_all": "Dodge|Washington",
+    "county_fips_all": "31053|31177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

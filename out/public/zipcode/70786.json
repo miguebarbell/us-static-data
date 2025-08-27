@@ -1,0 +1,20 @@
+{
+    "zip": 70786,
+    "lat": 30.58236,
+    "lng": -90.95429,
+    "city": "Watson",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 22063,
+    "county_name": "Livingston",
+    "county_weights": "{\"22063\": 100}",
+    "county_names_all": "Livingston",
+    "county_fips_all": "22063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

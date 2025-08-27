@@ -1,0 +1,20 @@
+{
+    "zip": 49344,
+    "lat": 42.5919,
+    "lng": -85.59028,
+    "city": "Shelbyville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4139.0,
+    "density": 51.5,
+    "county_fips": 26005,
+    "county_name": "Allegan",
+    "county_weights": "{\"26005\": 80.72, \"26015\": 19.28}",
+    "county_names_all": "Allegan|Barry",
+    "county_fips_all": "26005|26015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

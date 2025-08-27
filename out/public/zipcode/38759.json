@@ -1,0 +1,20 @@
+{
+    "zip": 38759,
+    "lat": 33.82495,
+    "lng": -90.73501,
+    "city": "Merigold",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1409.0,
+    "density": 8.4,
+    "county_fips": 28011,
+    "county_name": "Bolivar",
+    "county_weights": "{\"28011\": 71.58, \"28133\": 28.42}",
+    "county_names_all": "Bolivar|Sunflower",
+    "county_fips_all": "28011|28133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 35477,
+    "lat": 32.96304,
+    "lng": -88.23121,
+    "city": "Panola",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 102.0,
+    "density": 4.0,
+    "county_fips": 1119,
+    "county_name": "Sumter",
+    "county_weights": "{\"01119\": 99.6, \"01107\": 0.4}",
+    "county_names_all": "Sumter|Pickens",
+    "county_fips_all": "01119|01107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

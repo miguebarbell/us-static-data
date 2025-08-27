@@ -1,0 +1,20 @@
+{
+    "zip": 27808,
+    "lat": 35.47228,
+    "lng": -76.76494,
+    "city": "Bath",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1976.0,
+    "density": 16.6,
+    "county_fips": 37013,
+    "county_name": "Beaufort",
+    "county_weights": "{\"37013\": 100}",
+    "county_names_all": "Beaufort",
+    "county_fips_all": "37013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

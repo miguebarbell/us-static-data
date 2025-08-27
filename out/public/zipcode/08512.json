@@ -1,0 +1,20 @@
+{
+    "zip": 8512,
+    "lat": 40.32166,
+    "lng": -74.52586,
+    "city": "Cranbury",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12511.0,
+    "density": 211.8,
+    "county_fips": 34023,
+    "county_name": "Middlesex",
+    "county_weights": "{\"34023\": 93.37, \"34021\": 6.63}",
+    "county_names_all": "Middlesex|Mercer",
+    "county_fips_all": "34023|34021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

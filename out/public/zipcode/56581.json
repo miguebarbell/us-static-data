@@ -1,0 +1,20 @@
+{
+    "zip": 56581,
+    "lat": 47.45725,
+    "lng": -96.76141,
+    "city": "Shelly",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 261.0,
+    "density": 2.5,
+    "county_fips": 27107,
+    "county_name": "Norman",
+    "county_weights": "{\"27107\": 100}",
+    "county_names_all": "Norman",
+    "county_fips_all": "27107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

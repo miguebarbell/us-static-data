@@ -1,0 +1,20 @@
+{
+    "zip": 43837,
+    "lat": 40.29773,
+    "lng": -81.47846,
+    "city": "Port Washington",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1819.0,
+    "density": 14.3,
+    "county_fips": 39157,
+    "county_name": "Tuscarawas",
+    "county_weights": "{\"39157\": 92.58, \"39059\": 7.42}",
+    "county_names_all": "Tuscarawas|Guernsey",
+    "county_fips_all": "39157|39059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

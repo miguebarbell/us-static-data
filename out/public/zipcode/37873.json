@@ -1,0 +1,20 @@
+{
+    "zip": 37873,
+    "lat": 36.52446,
+    "lng": -82.84754,
+    "city": "Surgoinsville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4446.0,
+    "density": 27.4,
+    "county_fips": 47073,
+    "county_name": "Hawkins",
+    "county_weights": "{\"47073\": 100}",
+    "county_names_all": "Hawkins",
+    "county_fips_all": "47073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 58341,
+    "lat": 47.77117,
+    "lng": -99.85599,
+    "city": "Harvey",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2642.0,
+    "density": 2.4,
+    "county_fips": 38103,
+    "county_name": "Wells",
+    "county_weights": "{\"38103\": 73.74, \"38069\": 20.88, \"38005\": 2.73, \"38083\": 2.65}",
+    "county_names_all": "Wells|Pierce|Benson|Sheridan",
+    "county_fips_all": "38103|38069|38005|38083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

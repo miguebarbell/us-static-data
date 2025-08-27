@@ -1,0 +1,20 @@
+{
+    "zip": 70592,
+    "lat": 30.08024,
+    "lng": -92.01338,
+    "city": "Youngsville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31608.0,
+    "density": 287.3,
+    "county_fips": 22055,
+    "county_name": "Lafayette",
+    "county_weights": "{\"22055\": 74.36, \"22113\": 23.74, \"22045\": 1.9}",
+    "county_names_all": "Lafayette|Vermilion|Iberia",
+    "county_fips_all": "22055|22113|22045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

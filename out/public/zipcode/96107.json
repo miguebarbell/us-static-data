@@ -1,0 +1,20 @@
+{
+    "zip": 96107,
+    "lat": 38.45215,
+    "lng": -119.51421,
+    "city": "Coleville",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 668.0,
+    "density": 2.7,
+    "county_fips": 6051,
+    "county_name": "Mono",
+    "county_weights": "{\"06051\": 100}",
+    "county_names_all": "Mono",
+    "county_fips_all": "06051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

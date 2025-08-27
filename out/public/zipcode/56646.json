@@ -1,0 +1,20 @@
+{
+    "zip": 56646,
+    "lat": 47.78925,
+    "lng": -95.62865,
+    "city": "Gully",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 343.0,
+    "density": 1.8,
+    "county_fips": 27119,
+    "county_name": "Polk",
+    "county_weights": "{\"27119\": 91.61, \"27029\": 8.39}",
+    "county_names_all": "Polk|Clearwater",
+    "county_fips_all": "27119|27029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

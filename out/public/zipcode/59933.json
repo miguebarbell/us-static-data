@@ -1,0 +1,20 @@
+{
+    "zip": 59933,
+    "lat": 48.70858,
+    "lng": -114.76694,
+    "city": "Stryker",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3.0,
+    "density": 0.1,
+    "county_fips": 30053,
+    "county_name": "Lincoln",
+    "county_weights": "{\"30053\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "30053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

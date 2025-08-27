@@ -1,0 +1,20 @@
+{
+    "zip": 54915,
+    "lat": 44.24279,
+    "lng": -88.35928,
+    "city": "Appleton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44269.0,
+    "density": 1136.4,
+    "county_fips": 55015,
+    "county_name": "Calumet",
+    "county_weights": "{\"55015\": 49.11, \"55087\": 45.09, \"55139\": 5.81}",
+    "county_names_all": "Calumet|Outagamie|Winnebago",
+    "county_fips_all": "55015|55087|55139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

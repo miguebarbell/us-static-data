@@ -1,0 +1,20 @@
+{
+    "zip": 56681,
+    "lat": 47.5488,
+    "lng": -94.25132,
+    "city": "Squaw Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 294.0,
+    "density": 0.7,
+    "county_fips": 27061,
+    "county_name": "Itasca",
+    "county_weights": "{\"27061\": 100}",
+    "county_names_all": "Itasca",
+    "county_fips_all": "27061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

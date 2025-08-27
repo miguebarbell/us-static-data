@@ -1,0 +1,20 @@
+{
+    "zip": 74944,
+    "lat": 35.12421,
+    "lng": -95.00779,
+    "city": "Mccurtain",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1152.0,
+    "density": 3.7,
+    "county_fips": 40061,
+    "county_name": "Haskell",
+    "county_weights": "{\"40061\": 82.13, \"40079\": 17.87}",
+    "county_names_all": "Haskell|Le Flore",
+    "county_fips_all": "40061|40079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

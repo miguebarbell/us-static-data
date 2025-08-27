@@ -1,0 +1,20 @@
+{
+    "zip": 37362,
+    "lat": 35.03152,
+    "lng": -84.70028,
+    "city": "Old Fort",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3409.0,
+    "density": 19.7,
+    "county_fips": 47139,
+    "county_name": "Polk",
+    "county_weights": "{\"47139\": 79.26, \"47011\": 20.74}",
+    "county_names_all": "Polk|Bradley",
+    "county_fips_all": "47139|47011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

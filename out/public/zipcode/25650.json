@@ -1,0 +1,20 @@
+{
+    "zip": 25650,
+    "lat": 37.68358,
+    "lng": -81.78773,
+    "city": "Verner",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 68.0,
+    "density": 1.3,
+    "county_fips": 54045,
+    "county_name": "Logan",
+    "county_weights": "{\"54045\": 80.91, \"54059\": 19.09}",
+    "county_names_all": "Logan|Mingo",
+    "county_fips_all": "54045|54059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

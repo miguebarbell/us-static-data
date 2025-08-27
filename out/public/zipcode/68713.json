@@ -1,0 +1,20 @@
+{
+    "zip": 68713,
+    "lat": 42.54061,
+    "lng": -98.9718,
+    "city": "Atkinson",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2453.0,
+    "density": 1.6,
+    "county_fips": 31089,
+    "county_name": "Holt",
+    "county_weights": "{\"31089\": 100}",
+    "county_names_all": "Holt",
+    "county_fips_all": "31089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

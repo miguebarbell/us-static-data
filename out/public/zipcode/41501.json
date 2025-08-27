@@ -1,0 +1,20 @@
+{
+    "zip": 41501,
+    "lat": 37.50805,
+    "lng": -82.5154,
+    "city": "Pikeville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23272.0,
+    "density": 46.7,
+    "county_fips": 21195,
+    "county_name": "Pike",
+    "county_weights": "{\"21195\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "21195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

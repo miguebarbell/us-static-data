@@ -1,0 +1,20 @@
+{
+    "zip": 45339,
+    "lat": 40.00826,
+    "lng": -84.34315,
+    "city": "Ludlow Falls",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 982.0,
+    "density": 27.1,
+    "county_fips": 39109,
+    "county_name": "Miami",
+    "county_weights": "{\"39109\": 100}",
+    "county_names_all": "Miami",
+    "county_fips_all": "39109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

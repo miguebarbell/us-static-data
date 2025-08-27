@@ -1,0 +1,20 @@
+{
+    "zip": 43501,
+    "lat": 41.66966,
+    "lng": -84.46095,
+    "city": "Alvordton",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 761.0,
+    "density": 11.1,
+    "county_fips": 39171,
+    "county_name": "Williams",
+    "county_weights": "{\"39171\": 100}",
+    "county_names_all": "Williams",
+    "county_fips_all": "39171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

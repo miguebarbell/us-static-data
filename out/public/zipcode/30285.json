@@ -1,0 +1,20 @@
+{
+    "zip": 30285,
+    "lat": 32.98647,
+    "lng": -84.25255,
+    "city": "The Rock",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 803.0,
+    "density": 19.3,
+    "county_fips": 13293,
+    "county_name": "Upson",
+    "county_weights": "{\"13293\": 61.8, \"13171\": 20.94, \"13231\": 17.26}",
+    "county_names_all": "Upson|Lamar|Pike",
+    "county_fips_all": "13293|13171|13231",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

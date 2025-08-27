@@ -1,0 +1,20 @@
+{
+    "zip": 84536,
+    "lat": 37.14017,
+    "lng": -110.23104,
+    "city": "Monument Valley",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1391.0,
+    "density": 0.9,
+    "county_fips": 49037,
+    "county_name": "San Juan",
+    "county_weights": "{\"49037\": 97.26, \"04017\": 2.74}",
+    "county_names_all": "San Juan|Navajo",
+    "county_fips_all": "49037|04017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

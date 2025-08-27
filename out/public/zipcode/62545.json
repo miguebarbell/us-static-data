@@ -1,0 +1,20 @@
+{
+    "zip": 62545,
+    "lat": 39.7661,
+    "lng": -89.38737,
+    "city": "Mechanicsburg",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1306.0,
+    "density": 18.8,
+    "county_fips": 17167,
+    "county_name": "Sangamon",
+    "county_weights": "{\"17167\": 64.68, \"17021\": 35.32}",
+    "county_names_all": "Sangamon|Christian",
+    "county_fips_all": "17167|17021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

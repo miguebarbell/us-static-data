@@ -1,0 +1,20 @@
+{
+    "zip": 99615,
+    "lat": 57.57705,
+    "lng": -153.39119,
+    "city": "Kodiak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12304.0,
+    "density": 1.2,
+    "county_fips": 2150,
+    "county_name": "Kodiak Island",
+    "county_weights": "{\"02150\": 100}",
+    "county_names_all": "Kodiak Island",
+    "county_fips_all": "02150",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

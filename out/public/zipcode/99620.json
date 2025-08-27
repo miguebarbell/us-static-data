@@ -1,0 +1,20 @@
+{
+    "zip": 99620,
+    "lat": 63.03047,
+    "lng": -163.553,
+    "city": "Kotlik",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1166.0,
+    "density": 150.4,
+    "county_fips": 2158,
+    "county_name": "Kusilvak",
+    "county_weights": "{\"02158\": 100}",
+    "county_names_all": "Kusilvak",
+    "county_fips_all": "02158",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Nome"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 21215,
+    "lat": 39.34578,
+    "lng": -76.68367,
+    "city": "Baltimore",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 52078.0,
+    "density": 2951.9,
+    "county_fips": 24510,
+    "county_name": "Baltimore",
+    "county_weights": "{\"24510\": 96.53, \"24005\": 3.47}",
+    "county_names_all": "Baltimore|Baltimore",
+    "county_fips_all": "24510|24005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

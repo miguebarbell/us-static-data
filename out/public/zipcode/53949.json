@@ -1,0 +1,20 @@
+{
+    "zip": 53949,
+    "lat": 43.78323,
+    "lng": -89.33978,
+    "city": "Montello",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6291.0,
+    "density": 14.7,
+    "county_fips": 55077,
+    "county_name": "Marquette",
+    "county_weights": "{\"55077\": 95.87, \"55047\": 4.13}",
+    "county_names_all": "Marquette|Green Lake",
+    "county_fips_all": "55077|55047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

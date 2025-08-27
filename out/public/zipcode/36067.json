@@ -1,0 +1,20 @@
+{
+    "zip": 36067,
+    "lat": 32.51134,
+    "lng": -86.57084,
+    "city": "Prattville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27353.0,
+    "density": 43.2,
+    "county_fips": 1001,
+    "county_name": "Autauga",
+    "county_weights": "{\"01001\": 100}",
+    "county_names_all": "Autauga",
+    "county_fips_all": "01001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

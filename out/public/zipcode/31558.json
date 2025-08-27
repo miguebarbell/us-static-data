@@ -1,0 +1,20 @@
+{
+    "zip": 31558,
+    "lat": 30.80173,
+    "lng": -81.51606,
+    "city": "Saint Marys",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22498.0,
+    "density": 121.1,
+    "county_fips": 13039,
+    "county_name": "Camden",
+    "county_weights": "{\"13039\": 100}",
+    "county_names_all": "Camden",
+    "county_fips_all": "13039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 29659,
+    "lat": 34.21167,
+    "lng": -82.64535,
+    "city": "Lowndesville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 120.0,
+    "density": 107.1,
+    "county_fips": 45001,
+    "county_name": "Abbeville",
+    "county_weights": "{\"45001\": 100}",
+    "county_names_all": "Abbeville",
+    "county_fips_all": "45001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

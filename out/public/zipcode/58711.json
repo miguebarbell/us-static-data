@@ -1,0 +1,20 @@
+{
+    "zip": 58711,
+    "lat": 48.93262,
+    "lng": -101.2752,
+    "city": "Antler",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 164.0,
+    "density": 0.5,
+    "county_fips": 38009,
+    "county_name": "Bottineau",
+    "county_weights": "{\"38009\": 100}",
+    "county_names_all": "Bottineau",
+    "county_fips_all": "38009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

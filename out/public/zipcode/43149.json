@@ -1,0 +1,20 @@
+{
+    "zip": 43149,
+    "lat": 39.53742,
+    "lng": -82.57188,
+    "city": "Rockbridge",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2160.0,
+    "density": 15.4,
+    "county_fips": 39073,
+    "county_name": "Hocking",
+    "county_weights": "{\"39073\": 100}",
+    "county_names_all": "Hocking",
+    "county_fips_all": "39073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

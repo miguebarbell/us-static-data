@@ -1,0 +1,20 @@
+{
+    "zip": 43912,
+    "lat": 40.08708,
+    "lng": -80.79255,
+    "city": "Bridgeport",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5852.0,
+    "density": 126.3,
+    "county_fips": 39013,
+    "county_name": "Belmont",
+    "county_weights": "{\"39013\": 100}",
+    "county_names_all": "Belmont",
+    "county_fips_all": "39013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

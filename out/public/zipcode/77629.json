@@ -1,0 +1,20 @@
+{
+    "zip": 77629,
+    "lat": 29.97476,
+    "lng": -94.42727,
+    "city": "Nome",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 524.0,
+    "density": 3.2,
+    "county_fips": 48245,
+    "county_name": "Jefferson",
+    "county_weights": "{\"48245\": 72.96, \"48291\": 27.04}",
+    "county_names_all": "Jefferson|Liberty",
+    "county_fips_all": "48245|48291",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

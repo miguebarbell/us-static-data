@@ -1,0 +1,20 @@
+{
+    "zip": 8872,
+    "lat": 40.46482,
+    "lng": -74.34002,
+    "city": "Sayreville",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20040.0,
+    "density": 817.8,
+    "county_fips": 34023,
+    "county_name": "Middlesex",
+    "county_weights": "{\"34023\": 100}",
+    "county_names_all": "Middlesex",
+    "county_fips_all": "34023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

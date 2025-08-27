@@ -1,0 +1,20 @@
+{
+    "zip": 42764,
+    "lat": 37.42948,
+    "lng": -85.62507,
+    "city": "Mount Sherman",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 487.0,
+    "density": 10.3,
+    "county_fips": 21087,
+    "county_name": "Green",
+    "county_weights": "{\"21087\": 86.92, \"21123\": 13.08}",
+    "county_names_all": "Green|Larue",
+    "county_fips_all": "21087|21123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

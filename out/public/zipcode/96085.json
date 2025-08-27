@@ -1,0 +1,20 @@
+{
+    "zip": 96085,
+    "lat": 41.73245,
+    "lng": -123.05145,
+    "city": "Scott Bar",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 65.0,
+    "density": 0.5,
+    "county_fips": 6093,
+    "county_name": "Siskiyou",
+    "county_weights": "{\"06093\": 100}",
+    "county_names_all": "Siskiyou",
+    "county_fips_all": "06093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

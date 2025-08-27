@@ -1,0 +1,20 @@
+{
+    "zip": 97114,
+    "lat": 45.18381,
+    "lng": -123.07172,
+    "city": "Dayton",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5136.0,
+    "density": 33.3,
+    "county_fips": 41071,
+    "county_name": "Yamhill",
+    "county_weights": "{\"41071\": 100}",
+    "county_names_all": "Yamhill",
+    "county_fips_all": "41071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 86047,
+    "lat": 35.18181,
+    "lng": -110.63785,
+    "city": "Winslow",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13913.0,
+    "density": 3.2,
+    "county_fips": 4017,
+    "county_name": "Navajo",
+    "county_weights": "{\"04017\": 71.59, \"04005\": 28.41}",
+    "county_names_all": "Navajo|Coconino",
+    "county_fips_all": "04017|04005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

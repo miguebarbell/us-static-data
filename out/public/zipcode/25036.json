@@ -1,0 +1,20 @@
+{
+    "zip": 25036,
+    "lat": 38.19168,
+    "lng": -81.26438,
+    "city": "Cannelton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 257.0,
+    "density": 6.8,
+    "county_fips": 54019,
+    "county_name": "Fayette",
+    "county_weights": "{\"54019\": 99.41, \"54039\": 0.59}",
+    "county_names_all": "Fayette|Kanawha",
+    "county_fips_all": "54019|54039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

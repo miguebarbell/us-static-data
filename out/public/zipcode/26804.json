@@ -1,0 +1,20 @@
+{
+    "zip": 26804,
+    "lat": 38.63306,
+    "lng": -79.54526,
+    "city": "Circleville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 537.0,
+    "density": 2.7,
+    "county_fips": 54071,
+    "county_name": "Pendleton",
+    "county_weights": "{\"54071\": 100}",
+    "county_names_all": "Pendleton",
+    "county_fips_all": "54071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

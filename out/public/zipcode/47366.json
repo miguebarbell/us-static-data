@@ -1,0 +1,20 @@
+{
+    "zip": 47366,
+    "lat": 39.86127,
+    "lng": -85.26068,
+    "city": "New Lisbon",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9.0,
+    "density": 38.2,
+    "county_fips": 18065,
+    "county_name": "Henry",
+    "county_weights": "{\"18065\": 100}",
+    "county_names_all": "Henry",
+    "county_fips_all": "18065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

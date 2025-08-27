@@ -1,0 +1,20 @@
+{
+    "zip": 47453,
+    "lat": 38.93472,
+    "lng": -86.76773,
+    "city": "Owensburg",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 325.0,
+    "density": 20.1,
+    "county_fips": 18055,
+    "county_name": "Greene",
+    "county_weights": "{\"18055\": 100}",
+    "county_names_all": "Greene",
+    "county_fips_all": "18055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 86338,
+    "lat": 34.57306,
+    "lng": -112.75756,
+    "city": "Skull Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 556.0,
+    "density": 0.6,
+    "county_fips": 4025,
+    "county_name": "Yavapai",
+    "county_weights": "{\"04025\": 100}",
+    "county_names_all": "Yavapai",
+    "county_fips_all": "04025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

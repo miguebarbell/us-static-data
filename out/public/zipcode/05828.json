@@ -1,0 +1,20 @@
+{
+    "zip": 5828,
+    "lat": 44.43748,
+    "lng": -72.12334,
+    "city": "Danville",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2042.0,
+    "density": 14.2,
+    "county_fips": 50005,
+    "county_name": "Caledonia",
+    "county_weights": "{\"50005\": 100}",
+    "county_names_all": "Caledonia",
+    "county_fips_all": "50005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

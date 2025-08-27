@@ -1,0 +1,20 @@
+{
+    "zip": 40484,
+    "lat": 37.5153,
+    "lng": -84.676,
+    "city": "Stanford",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12517.0,
+    "density": 34.6,
+    "county_fips": 21137,
+    "county_name": "Lincoln",
+    "county_weights": "{\"21137\": 96.45, \"21079\": 2.69, \"21045\": 0.86}",
+    "county_names_all": "Lincoln|Garrard|Casey",
+    "county_fips_all": "21137|21079|21045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

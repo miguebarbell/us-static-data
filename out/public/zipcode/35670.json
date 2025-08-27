@@ -1,0 +1,20 @@
+{
+    "zip": 35670,
+    "lat": 34.46318,
+    "lng": -86.72356,
+    "city": "Somerville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7116.0,
+    "density": 27.9,
+    "county_fips": 1103,
+    "county_name": "Morgan",
+    "county_weights": "{\"01103\": 100}",
+    "county_names_all": "Morgan",
+    "county_fips_all": "01103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

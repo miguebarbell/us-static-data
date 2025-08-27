@@ -1,0 +1,20 @@
+{
+    "zip": 38379,
+    "lat": 35.16388,
+    "lng": -88.42825,
+    "city": "Stantonville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1585.0,
+    "density": 17.9,
+    "county_fips": 47109,
+    "county_name": "McNairy",
+    "county_weights": "{\"47109\": 90.42, \"47071\": 9.58}",
+    "county_names_all": "McNairy|Hardin",
+    "county_fips_all": "47109|47071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

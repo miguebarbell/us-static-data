@@ -1,0 +1,20 @@
+{
+    "zip": 45898,
+    "lat": 40.73617,
+    "lng": -84.76429,
+    "city": "Willshire",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 908.0,
+    "density": 12.0,
+    "county_fips": 39161,
+    "county_name": "Van Wert",
+    "county_weights": "{\"39161\": 66.54, \"39107\": 33.46}",
+    "county_names_all": "Van Wert|Mercer",
+    "county_fips_all": "39161|39107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

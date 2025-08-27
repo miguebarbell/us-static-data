@@ -1,0 +1,20 @@
+{
+    "zip": 79901,
+    "lat": 31.7597,
+    "lng": -106.48049,
+    "city": "El Paso",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8321.0,
+    "density": 1460.2,
+    "county_fips": 48141,
+    "county_name": "El Paso",
+    "county_weights": "{\"48141\": 100}",
+    "county_names_all": "El Paso",
+    "county_fips_all": "48141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

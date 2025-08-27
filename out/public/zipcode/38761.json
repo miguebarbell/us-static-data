@@ -1,0 +1,20 @@
+{
+    "zip": 38761,
+    "lat": 33.42507,
+    "lng": -90.47658,
+    "city": "Moorhead",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1918.0,
+    "density": 13.4,
+    "county_fips": 28133,
+    "county_name": "Sunflower",
+    "county_weights": "{\"28133\": 69.36, \"28083\": 30.64}",
+    "county_names_all": "Sunflower|Leflore",
+    "county_fips_all": "28133|28083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

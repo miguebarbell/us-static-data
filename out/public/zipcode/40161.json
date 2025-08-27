@@ -1,0 +1,20 @@
+{
+    "zip": 40161,
+    "lat": 38.00422,
+    "lng": -86.39887,
+    "city": "Rhodelia",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 253.0,
+    "density": 13.0,
+    "county_fips": 21163,
+    "county_name": "Meade",
+    "county_weights": "{\"21163\": 99.16, \"21027\": 0.84}",
+    "county_names_all": "Meade|Breckinridge",
+    "county_fips_all": "21163|21027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

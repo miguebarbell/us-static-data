@@ -1,0 +1,20 @@
+{
+    "zip": 28777,
+    "lat": 35.90833,
+    "lng": -82.06617,
+    "city": "Spruce Pine",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10368.0,
+    "density": 55.8,
+    "county_fips": 37121,
+    "county_name": "Mitchell",
+    "county_weights": "{\"37121\": 79.55, \"37011\": 15.02, \"37111\": 3.34, \"37199\": 2.09}",
+    "county_names_all": "Mitchell|Avery|McDowell|Yancey",
+    "county_fips_all": "37121|37011|37111|37199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

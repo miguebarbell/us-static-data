@@ -1,0 +1,20 @@
+{
+    "zip": 659,
+    "lat": 18.41036,
+    "lng": -66.79691,
+    "city": "Hatillo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37203.0,
+    "density": 349.9,
+    "county_fips": 72065,
+    "county_name": "Hatillo",
+    "county_weights": "{\"72065\": 100}",
+    "county_names_all": "Hatillo",
+    "county_fips_all": "72065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

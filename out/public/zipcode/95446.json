@@ -1,0 +1,20 @@
+{
+    "zip": 95446,
+    "lat": 38.52525,
+    "lng": -123.00423,
+    "city": "Guerneville",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4808.0,
+    "density": 59.8,
+    "county_fips": 6097,
+    "county_name": "Sonoma",
+    "county_weights": "{\"06097\": 100}",
+    "county_names_all": "Sonoma",
+    "county_fips_all": "06097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

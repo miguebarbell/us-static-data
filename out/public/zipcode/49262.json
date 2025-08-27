@@ -1,0 +1,20 @@
+{
+    "zip": 49262,
+    "lat": 41.96162,
+    "lng": -84.4673,
+    "city": "North Adams",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1298.0,
+    "density": 21.8,
+    "county_fips": 26059,
+    "county_name": "Hillsdale",
+    "county_weights": "{\"26059\": 100}",
+    "county_names_all": "Hillsdale",
+    "county_fips_all": "26059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

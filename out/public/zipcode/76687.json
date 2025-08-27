@@ -1,0 +1,20 @@
+{
+    "zip": 76687,
+    "lat": 31.36914,
+    "lng": -96.48691,
+    "city": "Thornton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1875.0,
+    "density": 5.5,
+    "county_fips": 48293,
+    "county_name": "Limestone",
+    "county_weights": "{\"48293\": 81.95, \"48395\": 17.12, \"48145\": 0.93}",
+    "county_names_all": "Limestone|Robertson|Falls",
+    "county_fips_all": "48293|48395|48145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

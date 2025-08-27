@@ -1,0 +1,20 @@
+{
+    "zip": 72133,
+    "lat": 34.10821,
+    "lng": -91.53718,
+    "city": "Reydell",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 5069,
+    "county_name": "Jefferson",
+    "county_weights": "{\"05069\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "05069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

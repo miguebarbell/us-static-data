@@ -1,0 +1,20 @@
+{
+    "zip": 36276,
+    "lat": 33.12644,
+    "lng": -85.57772,
+    "city": "Wadley",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2371.0,
+    "density": 6.7,
+    "county_fips": 1111,
+    "county_name": "Randolph",
+    "county_weights": "{\"01111\": 54.6, \"01017\": 24.2, \"01027\": 14.75, \"01123\": 6.45}",
+    "county_names_all": "Randolph|Chambers|Clay|Tallapoosa",
+    "county_fips_all": "01111|01017|01027|01123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

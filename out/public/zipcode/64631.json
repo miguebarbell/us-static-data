@@ -1,0 +1,20 @@
+{
+    "zip": 64631,
+    "lat": 39.82018,
+    "lng": -92.88213,
+    "city": "Bucklin",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 805.0,
+    "density": 3.5,
+    "county_fips": 29115,
+    "county_name": "Linn",
+    "county_weights": "{\"29115\": 68.8, \"29121\": 31.2}",
+    "county_names_all": "Linn|Macon",
+    "county_fips_all": "29115|29121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

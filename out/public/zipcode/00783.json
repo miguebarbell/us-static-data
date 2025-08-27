@@ -1,0 +1,20 @@
+{
+    "zip": 783,
+    "lat": 18.30348,
+    "lng": -66.32851,
+    "city": "Corozal",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 34266.0,
+    "density": 314.2,
+    "county_fips": 72047,
+    "county_name": "Corozal",
+    "county_weights": "{\"72047\": 99.06, \"72019\": 0.94}",
+    "county_names_all": "Corozal|Barranquitas",
+    "county_fips_all": "72047|72019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

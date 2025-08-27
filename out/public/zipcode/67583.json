@@ -1,0 +1,20 @@
+{
+    "zip": 67583,
+    "lat": 37.79997,
+    "lng": -98.4714,
+    "city": "Turon",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 799.0,
+    "density": 1.3,
+    "county_fips": 20155,
+    "county_name": "Reno",
+    "county_weights": "{\"20155\": 47.26, \"20151\": 43.24, \"20185\": 9.5}",
+    "county_names_all": "Reno|Pratt|Stafford",
+    "county_fips_all": "20155|20151|20185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

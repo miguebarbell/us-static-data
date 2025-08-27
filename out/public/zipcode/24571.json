@@ -1,0 +1,20 @@
+{
+    "zip": 24571,
+    "lat": 37.13671,
+    "lng": -79.37983,
+    "city": "Lynch Station",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2073.0,
+    "density": 15.7,
+    "county_fips": 51031,
+    "county_name": "Campbell",
+    "county_weights": "{\"51031\": 60.27, \"51019\": 39.73}",
+    "county_names_all": "Campbell|Bedford",
+    "county_fips_all": "51031|51019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

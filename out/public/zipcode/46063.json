@@ -1,0 +1,20 @@
+{
+    "zip": 46063,
+    "lat": 40.27184,
+    "lng": -85.72389,
+    "city": "Orestes",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 279.0,
+    "density": 323.1,
+    "county_fips": 18095,
+    "county_name": "Madison",
+    "county_weights": "{\"18095\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "18095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

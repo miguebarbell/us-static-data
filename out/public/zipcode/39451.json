@@ -1,0 +1,20 @@
+{
+    "zip": 39451,
+    "lat": 31.16722,
+    "lng": -88.61757,
+    "city": "Leakesville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7957.0,
+    "density": 11.8,
+    "county_fips": 28041,
+    "county_name": "Greene",
+    "county_weights": "{\"28041\": 100}",
+    "county_names_all": "Greene",
+    "county_fips_all": "28041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

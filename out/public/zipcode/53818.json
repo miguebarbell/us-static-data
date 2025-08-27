@@ -1,0 +1,20 @@
+{
+    "zip": 53818,
+    "lat": 42.74725,
+    "lng": -90.49177,
+    "city": "Platteville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15843.0,
+    "density": 39.6,
+    "county_fips": 55043,
+    "county_name": "Grant",
+    "county_weights": "{\"55043\": 81.1, \"55065\": 16.8, \"55049\": 2.1}",
+    "county_names_all": "Grant|Lafayette|Iowa",
+    "county_fips_all": "55043|55065|55049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65462,
+    "lat": 37.68654,
+    "lng": -91.86417,
+    "city": "Edgar Springs",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1295.0,
+    "density": 5.2,
+    "county_fips": 29161,
+    "county_name": "Phelps",
+    "county_weights": "{\"29161\": 84.78, \"29065\": 15.22}",
+    "county_names_all": "Phelps|Dent",
+    "county_fips_all": "29161|29065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

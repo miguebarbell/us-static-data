@@ -1,0 +1,20 @@
+{
+    "zip": 75087,
+    "lat": 32.94581,
+    "lng": -96.44136,
+    "city": "Rockwall",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41786.0,
+    "density": 547.9,
+    "county_fips": 48397,
+    "county_name": "Rockwall",
+    "county_weights": "{\"48397\": 94.59, \"48085\": 5.41}",
+    "county_names_all": "Rockwall|Collin",
+    "county_fips_all": "48397|48085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

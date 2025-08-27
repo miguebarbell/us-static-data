@@ -1,0 +1,20 @@
+{
+    "zip": 73061,
+    "lat": 36.34904,
+    "lng": -97.01765,
+    "city": "Morrison",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1693.0,
+    "density": 5.7,
+    "county_fips": 40103,
+    "county_name": "Noble",
+    "county_weights": "{\"40103\": 58.43, \"40117\": 41.57}",
+    "county_names_all": "Noble|Pawnee",
+    "county_fips_all": "40103|40117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

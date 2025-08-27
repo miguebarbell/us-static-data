@@ -1,0 +1,20 @@
+{
+    "zip": 96105,
+    "lat": 39.82478,
+    "lng": -120.1821,
+    "city": "Chilcoot",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 493.0,
+    "density": 0.7,
+    "county_fips": 6063,
+    "county_name": "Plumas",
+    "county_weights": "{\"06063\": 59.92, \"06091\": 26.19, \"06035\": 13.89}",
+    "county_names_all": "Plumas|Sierra|Lassen",
+    "county_fips_all": "06063|06091|06035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 37132,
+    "lat": 35.84873,
+    "lng": -86.36284,
+    "city": "Murfreesboro",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2698.0,
+    "density": 1687.4,
+    "county_fips": 47149,
+    "county_name": "Rutherford",
+    "county_weights": "{\"47149\": 100}",
+    "county_names_all": "Rutherford",
+    "county_fips_all": "47149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 75161,
+    "lat": 32.73609,
+    "lng": -96.17129,
+    "city": "Terrell",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6910.0,
+    "density": 23.7,
+    "county_fips": 48257,
+    "county_name": "Kaufman",
+    "county_weights": "{\"48257\": 100}",
+    "county_names_all": "Kaufman",
+    "county_fips_all": "48257",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,17 @@
+{
+    "zip": [
+        "88001",
+        "88003",
+        "88004",
+        "88005",
+        "88007",
+        "88011",
+        "88012"
+    ],
+    "city": "Las Cruces",
+    "state": "NM",
+    "lat": 35.41231,
+    "lng": -106.37944,
+    "state_name": "New Mexico",
+    "timezone": "America/Denver"
+}

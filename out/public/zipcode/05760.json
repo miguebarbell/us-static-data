@@ -1,0 +1,20 @@
+{
+    "zip": 5760,
+    "lat": 43.80359,
+    "lng": -73.29517,
+    "city": "Orwell",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 950.0,
+    "density": 10.2,
+    "county_fips": 50001,
+    "county_name": "Addison",
+    "county_weights": "{\"50001\": 99.43, \"50021\": 0.57}",
+    "county_names_all": "Addison|Rutland",
+    "county_fips_all": "50001|50021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

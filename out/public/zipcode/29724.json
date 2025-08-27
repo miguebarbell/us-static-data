@@ -1,0 +1,20 @@
+{
+    "zip": 29724,
+    "lat": 34.77503,
+    "lng": -81.01248,
+    "city": "Lando",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 45023,
+    "county_name": "Chester",
+    "county_weights": "{\"45023\": 100}",
+    "county_names_all": "Chester",
+    "county_fips_all": "45023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

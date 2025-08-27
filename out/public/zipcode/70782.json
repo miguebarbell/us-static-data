@@ -1,0 +1,20 @@
+{
+    "zip": 70782,
+    "lat": 30.94378,
+    "lng": -91.51856,
+    "city": "Tunica",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 115.0,
+    "density": 1.7,
+    "county_fips": 22125,
+    "county_name": "West Feliciana",
+    "county_weights": "{\"22125\": 100}",
+    "county_names_all": "West Feliciana",
+    "county_fips_all": "22125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

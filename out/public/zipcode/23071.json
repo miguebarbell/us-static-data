@@ -1,0 +1,20 @@
+{
+    "zip": 23071,
+    "lat": 37.54326,
+    "lng": -76.45228,
+    "city": "Hartfield",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1970.0,
+    "density": 62.3,
+    "county_fips": 51119,
+    "county_name": "Middlesex",
+    "county_weights": "{\"51119\": 100}",
+    "county_names_all": "Middlesex",
+    "county_fips_all": "51119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

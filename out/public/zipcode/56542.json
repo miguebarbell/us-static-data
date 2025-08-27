@@ -1,0 +1,20 @@
+{
+    "zip": 56542,
+    "lat": 47.56679,
+    "lng": -95.72331,
+    "city": "Fosston",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2435.0,
+    "density": 5.2,
+    "county_fips": 27119,
+    "county_name": "Polk",
+    "county_weights": "{\"27119\": 80.23, \"27087\": 19.77}",
+    "county_names_all": "Polk|Mahnomen",
+    "county_fips_all": "27119|27087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

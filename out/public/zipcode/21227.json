@@ -1,0 +1,20 @@
+{
+    "zip": 21227,
+    "lat": 39.24024,
+    "lng": -76.67913,
+    "city": "Halethorpe",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35695.0,
+    "density": 1216.1,
+    "county_fips": 24005,
+    "county_name": "Baltimore",
+    "county_weights": "{\"24005\": 96.71, \"24510\": 3.29}",
+    "county_names_all": "Baltimore|Baltimore",
+    "county_fips_all": "24005|24510",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

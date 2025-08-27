@@ -1,0 +1,20 @@
+{
+    "zip": 22443,
+    "lat": 38.18078,
+    "lng": -76.99776,
+    "city": "Colonial Beach",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10026.0,
+    "density": 65.3,
+    "county_fips": 51193,
+    "county_name": "Westmoreland",
+    "county_weights": "{\"51193\": 99.69, \"51099\": 0.31}",
+    "county_names_all": "Westmoreland|King George",
+    "county_fips_all": "51193|51099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

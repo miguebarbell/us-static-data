@@ -1,0 +1,20 @@
+{
+    "zip": 71942,
+    "lat": 34.22124,
+    "lng": -92.99429,
+    "city": "Friendship",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 137.0,
+    "density": 45.8,
+    "county_fips": 5059,
+    "county_name": "Hot Spring",
+    "county_weights": "{\"05059\": 100}",
+    "county_names_all": "Hot Spring",
+    "county_fips_all": "05059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

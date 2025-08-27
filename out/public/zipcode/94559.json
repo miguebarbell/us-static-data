@@ -1,0 +1,20 @@
+{
+    "zip": 94559,
+    "lat": 38.25238,
+    "lng": -122.29382,
+    "city": "Napa",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27828.0,
+    "density": 259.7,
+    "county_fips": 6055,
+    "county_name": "Napa",
+    "county_weights": "{\"06055\": 99.87, \"06095\": 0.13}",
+    "county_names_all": "Napa|Solano",
+    "county_fips_all": "06055|06095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

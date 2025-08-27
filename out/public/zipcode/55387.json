@@ -1,0 +1,20 @@
+{
+    "zip": 55387,
+    "lat": 44.85643,
+    "lng": -93.77903,
+    "city": "Waconia",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14697.0,
+    "density": 179.9,
+    "county_fips": 27019,
+    "county_name": "Carver",
+    "county_weights": "{\"27019\": 99.36, \"27053\": 0.64}",
+    "county_names_all": "Carver|Hennepin",
+    "county_fips_all": "27019|27053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 47558,
+    "lat": 38.64506,
+    "lng": -87.04578,
+    "city": "Montgomery",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5252.0,
+    "density": 23.7,
+    "county_fips": 18027,
+    "county_name": "Daviess",
+    "county_weights": "{\"18027\": 100}",
+    "county_names_all": "Daviess",
+    "county_fips_all": "18027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Vincennes"
+}

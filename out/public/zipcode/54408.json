@@ -1,0 +1,20 @@
+{
+    "zip": 54408,
+    "lat": 45.02861,
+    "lng": -89.30922,
+    "city": "Aniwa",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1222.0,
+    "density": 9.5,
+    "county_fips": 55073,
+    "county_name": "Marathon",
+    "county_weights": "{\"55073\": 86.71, \"55115\": 9.06, \"55067\": 4.23}",
+    "county_names_all": "Marathon|Shawano|Langlade",
+    "county_fips_all": "55073|55115|55067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

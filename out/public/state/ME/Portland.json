@@ -1,0 +1,14 @@
+{
+    "zip": [
+        "04101",
+        "04102",
+        "04103",
+        "04109"
+    ],
+    "city": "Portland",
+    "state": "ME",
+    "lat": 43.30063,
+    "lng": -70.84397,
+    "state_name": "Maine",
+    "timezone": "America/New_York"
+}

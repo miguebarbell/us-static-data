@@ -1,0 +1,20 @@
+{
+    "zip": 71019,
+    "lat": 32.03951,
+    "lng": -93.30701,
+    "city": "Coushatta",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7366.0,
+    "density": 8.6,
+    "county_fips": 22081,
+    "county_name": "Red River",
+    "county_weights": "{\"22081\": 86.55, \"22069\": 13.45}",
+    "county_names_all": "Red River|Natchitoches",
+    "county_fips_all": "22081|22069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

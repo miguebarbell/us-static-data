@@ -1,0 +1,20 @@
+{
+    "zip": 93449,
+    "lat": 35.15803,
+    "lng": -120.6504,
+    "city": "Pismo Beach",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8024.0,
+    "density": 312.7,
+    "county_fips": 6079,
+    "county_name": "San Luis Obispo",
+    "county_weights": "{\"06079\": 100}",
+    "county_names_all": "San Luis Obispo",
+    "county_fips_all": "06079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

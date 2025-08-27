@@ -1,0 +1,20 @@
+{
+    "zip": 97015,
+    "lat": 45.41477,
+    "lng": -122.53767,
+    "city": "Clackamas",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24166.0,
+    "density": 1056.5,
+    "county_fips": 41005,
+    "county_name": "Clackamas",
+    "county_weights": "{\"41005\": 100}",
+    "county_names_all": "Clackamas",
+    "county_fips_all": "41005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

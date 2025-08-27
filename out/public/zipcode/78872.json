@@ -1,0 +1,20 @@
+{
+    "zip": 78872,
+    "lat": 28.90751,
+    "lng": -99.88039,
+    "city": "La Pryor",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1166.0,
+    "density": 2.7,
+    "county_fips": 48507,
+    "county_name": "Zavala",
+    "county_weights": "{\"48507\": 100}",
+    "county_names_all": "Zavala",
+    "county_fips_all": "48507",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 27025,
+    "lat": 36.3771,
+    "lng": -79.97148,
+    "city": "Madison",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12333.0,
+    "density": 48.7,
+    "county_fips": 37157,
+    "county_name": "Rockingham",
+    "county_weights": "{\"37157\": 71.89, \"37169\": 28.11}",
+    "county_names_all": "Rockingham|Stokes",
+    "county_fips_all": "37157|37169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

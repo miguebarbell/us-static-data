@@ -1,0 +1,20 @@
+{
+    "zip": 44905,
+    "lat": 40.77753,
+    "lng": -82.46915,
+    "city": "Mansfield",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16254.0,
+    "density": 489.2,
+    "county_fips": 39139,
+    "county_name": "Richland",
+    "county_weights": "{\"39139\": 100}",
+    "county_names_all": "Richland",
+    "county_fips_all": "39139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

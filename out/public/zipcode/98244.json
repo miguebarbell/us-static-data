@@ -1,0 +1,20 @@
+{
+    "zip": 98244,
+    "lat": 48.79423,
+    "lng": -121.93557,
+    "city": "Deming",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3080.0,
+    "density": 2.6,
+    "county_fips": 53073,
+    "county_name": "Whatcom",
+    "county_weights": "{\"53073\": 100}",
+    "county_names_all": "Whatcom",
+    "county_fips_all": "53073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 55982,
+    "lat": 43.81582,
+    "lng": -92.886,
+    "city": "Waltham",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 523.0,
+    "density": 7.3,
+    "county_fips": 27099,
+    "county_name": "Mower",
+    "county_weights": "{\"27099\": 100}",
+    "county_names_all": "Mower",
+    "county_fips_all": "27099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

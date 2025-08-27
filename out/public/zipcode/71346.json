@@ -1,0 +1,20 @@
+{
+    "zip": 71346,
+    "lat": 31.11686,
+    "lng": -92.38446,
+    "city": "Lecompte",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2700.0,
+    "density": 11.4,
+    "county_fips": 22079,
+    "county_name": "Rapides",
+    "county_weights": "{\"22079\": 100}",
+    "county_names_all": "Rapides",
+    "county_fips_all": "22079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

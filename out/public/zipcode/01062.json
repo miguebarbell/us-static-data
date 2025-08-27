@@ -1,0 +1,20 @@
+{
+    "zip": 1062,
+    "lat": 42.32146,
+    "lng": -72.69244,
+    "city": "Florence",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9188.0,
+    "density": 203.3,
+    "county_fips": 25015,
+    "county_name": "Hampshire",
+    "county_weights": "{\"25015\": 100}",
+    "county_names_all": "Hampshire",
+    "county_fips_all": "25015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

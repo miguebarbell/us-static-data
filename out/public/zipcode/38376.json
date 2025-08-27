@@ -1,0 +1,20 @@
+{
+    "zip": 38376,
+    "lat": 35.12974,
+    "lng": -88.34447,
+    "city": "Shiloh",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 267.0,
+    "density": 7.9,
+    "county_fips": 47071,
+    "county_name": "Hardin",
+    "county_weights": "{\"47071\": 96.07, \"47109\": 3.93}",
+    "county_names_all": "Hardin|McNairy",
+    "county_fips_all": "47071|47109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

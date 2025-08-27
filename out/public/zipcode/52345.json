@@ -1,0 +1,20 @@
+{
+    "zip": 52345,
+    "lat": 42.22239,
+    "lng": -91.89177,
+    "city": "Urbana",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1636.0,
+    "density": 198.7,
+    "county_fips": 19011,
+    "county_name": "Benton",
+    "county_weights": "{\"19011\": 100}",
+    "county_names_all": "Benton",
+    "county_fips_all": "19011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

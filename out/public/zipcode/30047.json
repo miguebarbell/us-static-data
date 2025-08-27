@@ -1,0 +1,20 @@
+{
+    "zip": 30047,
+    "lat": 33.87104,
+    "lng": -84.11304,
+    "city": "Lilburn",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 70592.0,
+    "density": 995.9,
+    "county_fips": 13135,
+    "county_name": "Gwinnett",
+    "county_weights": "{\"13135\": 100}",
+    "county_names_all": "Gwinnett",
+    "county_fips_all": "13135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

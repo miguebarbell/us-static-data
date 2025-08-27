@@ -1,0 +1,20 @@
+{
+    "zip": 42211,
+    "lat": 36.82016,
+    "lng": -87.83709,
+    "city": "Cadiz",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12912.0,
+    "density": 17.5,
+    "county_fips": 21221,
+    "county_name": "Trigg",
+    "county_weights": "{\"21221\": 99.84, \"21033\": 0.16}",
+    "county_names_all": "Trigg|Caldwell",
+    "county_fips_all": "21221|21033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

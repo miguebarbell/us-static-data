@@ -1,0 +1,20 @@
+{
+    "zip": 58318,
+    "lat": 48.85121,
+    "lng": -100.40303,
+    "city": "Bottineau",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3843.0,
+    "density": 5.0,
+    "county_fips": 38009,
+    "county_name": "Bottineau",
+    "county_weights": "{\"38009\": 100}",
+    "county_names_all": "Bottineau",
+    "county_fips_all": "38009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 79323,
+    "lat": 32.94678,
+    "lng": -102.89674,
+    "city": "Denver City",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7115.0,
+    "density": 14.3,
+    "county_fips": 48165,
+    "county_name": "Gaines",
+    "county_weights": "{\"48165\": 57.86, \"48501\": 42.14}",
+    "county_names_all": "Gaines|Yoakum",
+    "county_fips_all": "48165|48501",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

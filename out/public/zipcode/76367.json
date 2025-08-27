@@ -1,0 +1,20 @@
+{
+    "zip": 76367,
+    "lat": 33.97361,
+    "lng": -98.7168,
+    "city": "Iowa Park",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14013.0,
+    "density": 29.2,
+    "county_fips": 48485,
+    "county_name": "Wichita",
+    "county_weights": "{\"48485\": 100}",
+    "county_names_all": "Wichita",
+    "county_fips_all": "48485",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

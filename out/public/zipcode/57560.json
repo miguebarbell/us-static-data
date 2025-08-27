@@ -1,0 +1,20 @@
+{
+    "zip": 57560,
+    "lat": 43.44006,
+    "lng": -101.21226,
+    "city": "Norris",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 380.0,
+    "density": 0.9,
+    "county_fips": 46095,
+    "county_name": "Mellette",
+    "county_weights": "{\"46095\": 56.28, \"46007\": 24.97, \"46071\": 18.75}",
+    "county_names_all": "Mellette|Bennett|Jackson",
+    "county_fips_all": "46095|46007|46071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

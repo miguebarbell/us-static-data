@@ -1,0 +1,20 @@
+{
+    "zip": 12043,
+    "lat": 42.70357,
+    "lng": -74.5267,
+    "city": "Cobleskill",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7883.0,
+    "density": 47.9,
+    "county_fips": 36095,
+    "county_name": "Schoharie",
+    "county_weights": "{\"36095\": 97.2, \"36077\": 2.8}",
+    "county_names_all": "Schoharie|Otsego",
+    "county_fips_all": "36095|36077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

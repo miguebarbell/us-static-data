@@ -1,0 +1,20 @@
+{
+    "zip": 46986,
+    "lat": 40.49481,
+    "lng": -85.81929,
+    "city": "Swayzee",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1672.0,
+    "density": 18.6,
+    "county_fips": 18053,
+    "county_name": "Grant",
+    "county_weights": "{\"18053\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "18053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 35549,
+    "lat": 33.83474,
+    "lng": -87.55001,
+    "city": "Carbon Hill",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3018.0,
+    "density": 10.2,
+    "county_fips": 1057,
+    "county_name": "Fayette",
+    "county_weights": "{\"01057\": 50.75, \"01127\": 49.25}",
+    "county_names_all": "Fayette|Walker",
+    "county_fips_all": "01057|01127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

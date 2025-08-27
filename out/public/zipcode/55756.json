@@ -1,0 +1,20 @@
+{
+    "zip": 55756,
+    "lat": 46.37535,
+    "lng": -92.60128,
+    "city": "Kerrick",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 286.0,
+    "density": 2.4,
+    "county_fips": 27115,
+    "county_name": "Pine",
+    "county_weights": "{\"27115\": 85.36, \"27017\": 14.64}",
+    "county_names_all": "Pine|Carlton",
+    "county_fips_all": "27115|27017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

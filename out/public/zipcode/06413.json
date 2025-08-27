@@ -1,0 +1,20 @@
+{
+    "zip": 6413,
+    "lat": 41.29801,
+    "lng": -72.53003,
+    "city": "Clinton",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13317.0,
+    "density": 317.4,
+    "county_fips": 9130,
+    "county_name": "Lower Connecticut River Valley",
+    "county_weights": "{\"09130\": 100}",
+    "county_names_all": "Lower Connecticut River Valley",
+    "county_fips_all": "09130",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

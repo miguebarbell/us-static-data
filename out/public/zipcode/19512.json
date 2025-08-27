@@ -1,0 +1,20 @@
+{
+    "zip": 19512,
+    "lat": 40.35,
+    "lng": -75.67937,
+    "city": "Boyertown",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15420.0,
+    "density": 137.6,
+    "county_fips": 42011,
+    "county_name": "Berks",
+    "county_weights": "{\"42011\": 98.5, \"42091\": 1.5}",
+    "county_names_all": "Berks|Montgomery",
+    "county_fips_all": "42011|42091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

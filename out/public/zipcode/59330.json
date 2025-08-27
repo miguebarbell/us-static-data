@@ -1,0 +1,20 @@
+{
+    "zip": 59330,
+    "lat": 47.11812,
+    "lng": -104.76469,
+    "city": "Glendive",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8281.0,
+    "density": 3.2,
+    "county_fips": 30021,
+    "county_name": "Dawson",
+    "county_weights": "{\"30021\": 96.85, \"30079\": 3.15}",
+    "county_names_all": "Dawson|Prairie",
+    "county_fips_all": "30021|30079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65657,
+    "lat": 36.83934,
+    "lng": -93.01952,
+    "city": "Garrison",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 362.0,
+    "density": 6.9,
+    "county_fips": 29043,
+    "county_name": "Christian",
+    "county_weights": "{\"29043\": 100}",
+    "county_names_all": "Christian",
+    "county_fips_all": "29043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

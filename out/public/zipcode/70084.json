@@ -1,0 +1,20 @@
+{
+    "zip": 70084,
+    "lat": 30.07242,
+    "lng": -90.57251,
+    "city": "Reserve",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5273.0,
+    "density": 112.4,
+    "county_fips": 22095,
+    "county_name": "St. John the Baptist",
+    "county_weights": "{\"22095\": 100}",
+    "county_names_all": "St. John the Baptist",
+    "county_fips_all": "22095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

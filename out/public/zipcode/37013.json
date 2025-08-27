@@ -1,0 +1,20 @@
+{
+    "zip": 37013,
+    "lat": 36.04658,
+    "lng": -86.63445,
+    "city": "Antioch",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 102055.0,
+    "density": 1005.0,
+    "county_fips": 47037,
+    "county_name": "Davidson",
+    "county_weights": "{\"47037\": 100}",
+    "county_names_all": "Davidson",
+    "county_fips_all": "47037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

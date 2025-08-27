@@ -1,0 +1,20 @@
+{
+    "zip": 18240,
+    "lat": 40.86279,
+    "lng": -75.84727,
+    "city": "Nesquehoning",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3909.0,
+    "density": 62.2,
+    "county_fips": 42025,
+    "county_name": "Carbon",
+    "county_weights": "{\"42025\": 86.19, \"42107\": 13.81}",
+    "county_names_all": "Carbon|Schuylkill",
+    "county_fips_all": "42025|42107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

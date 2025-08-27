@@ -1,0 +1,20 @@
+{
+    "zip": 65711,
+    "lat": 37.17355,
+    "lng": -92.27747,
+    "city": "Mountain Grove",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8690.0,
+    "density": 11.4,
+    "county_fips": 29229,
+    "county_name": "Wright",
+    "county_weights": "{\"29229\": 51.68, \"29215\": 27.79, \"29067\": 20.53}",
+    "county_names_all": "Wright|Texas|Douglas",
+    "county_fips_all": "29229|29215|29067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

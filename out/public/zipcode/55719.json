@@ -1,0 +1,20 @@
+{
+    "zip": 55719,
+    "lat": 47.55408,
+    "lng": -92.85807,
+    "city": "Chisholm",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5642.0,
+    "density": 25.8,
+    "county_fips": 27137,
+    "county_name": "St. Louis",
+    "county_weights": "{\"27137\": 100}",
+    "county_names_all": "St. Louis",
+    "county_fips_all": "27137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

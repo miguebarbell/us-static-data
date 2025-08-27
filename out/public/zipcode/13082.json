@@ -1,0 +1,20 @@
+{
+    "zip": 13082,
+    "lat": 43.10148,
+    "lng": -75.95253,
+    "city": "Kirkville",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4177.0,
+    "density": 66.2,
+    "county_fips": 36053,
+    "county_name": "Madison",
+    "county_weights": "{\"36053\": 52.55, \"36067\": 47.45}",
+    "county_names_all": "Madison|Onondaga",
+    "county_fips_all": "36053|36067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

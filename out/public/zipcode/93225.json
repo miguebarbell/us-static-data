@@ -1,0 +1,20 @@
+{
+    "zip": 93225,
+    "lat": 34.78532,
+    "lng": -119.04196,
+    "city": "Frazier Park",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4532.0,
+    "density": 15.6,
+    "county_fips": 6111,
+    "county_name": "Ventura",
+    "county_weights": "{\"06111\": 64.02, \"06029\": 35.98}",
+    "county_names_all": "Ventura|Kern",
+    "county_fips_all": "06111|06029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

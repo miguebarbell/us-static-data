@@ -1,0 +1,20 @@
+{
+    "zip": 11205,
+    "lat": 40.69654,
+    "lng": -73.96807,
+    "city": "Brooklyn",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 50205.0,
+    "density": 16548.7,
+    "county_fips": 36047,
+    "county_name": "Kings",
+    "county_weights": "{\"36047\": 100}",
+    "county_names_all": "Kings",
+    "county_fips_all": "36047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

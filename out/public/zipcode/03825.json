@@ -1,0 +1,20 @@
+{
+    "zip": 3825,
+    "lat": 43.21366,
+    "lng": -71.04227,
+    "city": "Barrington",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9420.0,
+    "density": 77.6,
+    "county_fips": 33017,
+    "county_name": "Strafford",
+    "county_weights": "{\"33017\": 100}",
+    "county_names_all": "Strafford",
+    "county_fips_all": "33017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 70535,
+    "lat": 30.47999,
+    "lng": -92.42367,
+    "city": "Eunice",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17813.0,
+    "density": 42.8,
+    "county_fips": 22001,
+    "county_name": "Acadia",
+    "county_weights": "{\"22001\": 52.5, \"22097\": 26.36, \"22039\": 21.14}",
+    "county_names_all": "Acadia|St. Landry|Evangeline",
+    "county_fips_all": "22001|22097|22039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

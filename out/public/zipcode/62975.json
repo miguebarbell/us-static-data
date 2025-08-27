@@ -1,0 +1,20 @@
+{
+    "zip": 62975,
+    "lat": 37.64307,
+    "lng": -89.37274,
+    "city": "Pomona",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 177.0,
+    "density": 2.5,
+    "county_fips": 17077,
+    "county_name": "Jackson",
+    "county_weights": "{\"17077\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "17077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 68935,
+    "lat": 40.38058,
+    "lng": -97.95859,
+    "city": "Edgar",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 772.0,
+    "density": 2.5,
+    "county_fips": 31035,
+    "county_name": "Clay",
+    "county_weights": "{\"31035\": 63.84, \"31129\": 36.16}",
+    "county_names_all": "Clay|Nuckolls",
+    "county_fips_all": "31035|31129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

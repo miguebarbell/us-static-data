@@ -1,0 +1,20 @@
+{
+    "zip": 79526,
+    "lat": 32.6443,
+    "lng": -100.75192,
+    "city": "Hermleigh",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 978.0,
+    "density": 2.0,
+    "county_fips": 48415,
+    "county_name": "Scurry",
+    "county_weights": "{\"48415\": 92.06, \"48151\": 7.94}",
+    "county_names_all": "Scurry|Fisher",
+    "county_fips_all": "48415|48151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

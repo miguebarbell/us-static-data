@@ -1,0 +1,20 @@
+{
+    "zip": 75503,
+    "lat": 33.51345,
+    "lng": -94.13038,
+    "city": "Texarkana",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27207.0,
+    "density": 133.9,
+    "county_fips": 48037,
+    "county_name": "Bowie",
+    "county_weights": "{\"48037\": 100}",
+    "county_names_all": "Bowie",
+    "county_fips_all": "48037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

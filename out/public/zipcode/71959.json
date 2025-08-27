@@ -1,0 +1,20 @@
+{
+    "zip": 71959,
+    "lat": 34.25081,
+    "lng": -93.92633,
+    "city": "Newhope",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 828.0,
+    "density": 4.6,
+    "county_fips": 5109,
+    "county_name": "Pike",
+    "county_weights": "{\"05109\": 50.36, \"05061\": 49.64}",
+    "county_names_all": "Pike|Howard",
+    "county_fips_all": "05109|05061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

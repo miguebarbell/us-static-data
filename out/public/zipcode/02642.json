@@ -1,0 +1,20 @@
+{
+    "zip": 2642,
+    "lat": 41.83976,
+    "lng": -69.97711,
+    "city": "Eastham",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5772.0,
+    "density": 159.6,
+    "county_fips": 25001,
+    "county_name": "Barnstable",
+    "county_weights": "{\"25001\": 100}",
+    "county_names_all": "Barnstable",
+    "county_fips_all": "25001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

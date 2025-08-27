@@ -1,0 +1,20 @@
+{
+    "zip": 49735,
+    "lat": 44.99576,
+    "lng": -84.67117,
+    "city": "Gaylord",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20678.0,
+    "density": 32.1,
+    "county_fips": 26137,
+    "county_name": "Otsego",
+    "county_weights": "{\"26137\": 100}",
+    "county_names_all": "Otsego",
+    "county_fips_all": "26137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

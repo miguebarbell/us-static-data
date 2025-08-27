@@ -1,0 +1,20 @@
+{
+    "zip": 95620,
+    "lat": 38.40599,
+    "lng": -121.75689,
+    "city": "Dixon",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22367.0,
+    "density": 35.8,
+    "county_fips": 6095,
+    "county_name": "Solano",
+    "county_weights": "{\"06095\": 75.99, \"06113\": 24.01}",
+    "county_names_all": "Solano|Yolo",
+    "county_fips_all": "06095|06113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

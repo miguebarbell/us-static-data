@@ -1,0 +1,20 @@
+{
+    "zip": 29689,
+    "lat": 34.53624,
+    "lng": -82.87658,
+    "city": "Townville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4147.0,
+    "density": 46.3,
+    "county_fips": 45007,
+    "county_name": "Anderson",
+    "county_weights": "{\"45007\": 88.92, \"45073\": 11.08}",
+    "county_names_all": "Anderson|Oconee",
+    "county_fips_all": "45007|45073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

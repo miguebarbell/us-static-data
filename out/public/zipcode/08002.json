@@ -1,0 +1,20 @@
+{
+    "zip": 8002,
+    "lat": 39.93142,
+    "lng": -75.02515,
+    "city": "Cherry Hill",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23574.0,
+    "density": 1262.6,
+    "county_fips": 34007,
+    "county_name": "Camden",
+    "county_weights": "{\"34007\": 100}",
+    "county_names_all": "Camden",
+    "county_fips_all": "34007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

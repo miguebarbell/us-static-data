@@ -1,0 +1,20 @@
+{
+    "zip": 53962,
+    "lat": 43.68352,
+    "lng": -90.2652,
+    "city": "Union Center",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23.0,
+    "density": 337.9,
+    "county_fips": 55057,
+    "county_name": "Juneau",
+    "county_weights": "{\"55057\": 100}",
+    "county_names_all": "Juneau",
+    "county_fips_all": "55057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

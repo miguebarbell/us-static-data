@@ -1,0 +1,20 @@
+{
+    "zip": 44638,
+    "lat": 40.6502,
+    "lng": -82.13521,
+    "city": "Lakeville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1228.0,
+    "density": 16.7,
+    "county_fips": 39075,
+    "county_name": "Holmes",
+    "county_weights": "{\"39075\": 62.43, \"39005\": 27.48, \"39169\": 10.09}",
+    "county_names_all": "Holmes|Ashland|Wayne",
+    "county_fips_all": "39075|39005|39169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

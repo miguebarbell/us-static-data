@@ -1,0 +1,20 @@
+{
+    "zip": 16870,
+    "lat": 40.80149,
+    "lng": -78.04969,
+    "city": "Port Matilda",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7386.0,
+    "density": 39.5,
+    "county_fips": 42027,
+    "county_name": "Centre",
+    "county_weights": "{\"42027\": 100}",
+    "county_names_all": "Centre",
+    "county_fips_all": "42027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

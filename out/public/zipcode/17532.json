@@ -1,0 +1,20 @@
+{
+    "zip": 17532,
+    "lat": 39.85731,
+    "lng": -76.2923,
+    "city": "Holtwood",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3345.0,
+    "density": 60.4,
+    "county_fips": 42071,
+    "county_name": "Lancaster",
+    "county_weights": "{\"42071\": 100}",
+    "county_names_all": "Lancaster",
+    "county_fips_all": "42071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

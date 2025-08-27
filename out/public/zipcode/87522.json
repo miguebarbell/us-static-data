@@ -1,0 +1,20 @@
+{
+    "zip": 87522,
+    "lat": 35.96889,
+    "lng": -105.84639,
+    "city": "Chimayo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2937.0,
+    "density": 10.6,
+    "county_fips": 35049,
+    "county_name": "Santa Fe",
+    "county_weights": "{\"35049\": 78.94, \"35039\": 21.06}",
+    "county_names_all": "Santa Fe|Rio Arriba",
+    "county_fips_all": "35049|35039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

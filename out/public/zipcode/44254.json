@@ -1,0 +1,20 @@
+{
+    "zip": 44254,
+    "lat": 41.04522,
+    "lng": -82.01282,
+    "city": "Lodi",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4857.0,
+    "density": 72.2,
+    "county_fips": 39103,
+    "county_name": "Medina",
+    "county_weights": "{\"39103\": 100}",
+    "county_names_all": "Medina",
+    "county_fips_all": "39103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

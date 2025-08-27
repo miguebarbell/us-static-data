@@ -1,0 +1,20 @@
+{
+    "zip": 57719,
+    "lat": 44.23059,
+    "lng": -102.98312,
+    "city": "Box Elder",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11475.0,
+    "density": 26.5,
+    "county_fips": 46093,
+    "county_name": "Meade",
+    "county_weights": "{\"46093\": 76.57, \"46103\": 23.43}",
+    "county_names_all": "Meade|Pennington",
+    "county_fips_all": "46093|46103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

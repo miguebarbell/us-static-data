@@ -1,0 +1,20 @@
+{
+    "zip": 22971,
+    "lat": 37.75019,
+    "lng": -78.80299,
+    "city": "Shipman",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2349.0,
+    "density": 16.2,
+    "county_fips": 51125,
+    "county_name": "Nelson",
+    "county_weights": "{\"51125\": 100}",
+    "county_names_all": "Nelson",
+    "county_fips_all": "51125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

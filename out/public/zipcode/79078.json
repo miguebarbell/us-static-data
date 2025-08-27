@@ -1,0 +1,20 @@
+{
+    "zip": 79078,
+    "lat": 35.69856,
+    "lng": -101.55,
+    "city": "Sanford",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 153.0,
+    "density": 2.7,
+    "county_fips": 48233,
+    "county_name": "Hutchinson",
+    "county_weights": "{\"48233\": 100}",
+    "county_names_all": "Hutchinson",
+    "county_fips_all": "48233",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

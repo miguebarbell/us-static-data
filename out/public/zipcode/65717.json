@@ -1,0 +1,20 @@
+{
+    "zip": 65717,
+    "lat": 37.06017,
+    "lng": -92.41472,
+    "city": "Norwood",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2777.0,
+    "density": 8.3,
+    "county_fips": 29229,
+    "county_name": "Wright",
+    "county_weights": "{\"29229\": 52.69, \"29067\": 47.31}",
+    "county_names_all": "Wright|Douglas",
+    "county_fips_all": "29229|29067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 17837,
+    "lat": 40.97485,
+    "lng": -76.94247,
+    "city": "Lewisburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18312.0,
+    "density": 125.8,
+    "county_fips": 42119,
+    "county_name": "Union",
+    "county_weights": "{\"42119\": 100}",
+    "county_names_all": "Union",
+    "county_fips_all": "42119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

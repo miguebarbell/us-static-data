@@ -1,0 +1,20 @@
+{
+    "zip": 13777,
+    "lat": 42.25894,
+    "lng": -75.9866,
+    "city": "Glen Aubrey",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 445.0,
+    "density": 22.6,
+    "county_fips": 36007,
+    "county_name": "Broome",
+    "county_weights": "{\"36007\": 100}",
+    "county_names_all": "Broome",
+    "county_fips_all": "36007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

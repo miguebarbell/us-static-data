@@ -1,0 +1,20 @@
+{
+    "zip": 26463,
+    "lat": 39.43174,
+    "lng": -80.35007,
+    "city": "Wyatt",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 218.0,
+    "density": 14.1,
+    "county_fips": 54033,
+    "county_name": "Harrison",
+    "county_weights": "{\"54033\": 100}",
+    "county_names_all": "Harrison",
+    "county_fips_all": "54033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

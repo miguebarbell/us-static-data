@@ -1,0 +1,20 @@
+{
+    "zip": 18420,
+    "lat": 41.60333,
+    "lng": -75.70589,
+    "city": "Fleetville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 67.0,
+    "density": 16.0,
+    "county_fips": 42069,
+    "county_name": "Lackawanna",
+    "county_weights": "{\"42069\": 100}",
+    "county_names_all": "Lackawanna",
+    "county_fips_all": "42069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

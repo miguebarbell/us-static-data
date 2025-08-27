@@ -1,0 +1,20 @@
+{
+    "zip": 47978,
+    "lat": 40.97991,
+    "lng": -87.1163,
+    "city": "Rensselaer",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10097.0,
+    "density": 14.8,
+    "county_fips": 18073,
+    "county_name": "Jasper",
+    "county_weights": "{\"18073\": 96.55, \"18111\": 2.29, \"18181\": 1.16}",
+    "county_names_all": "Jasper|Newton|White",
+    "county_fips_all": "18073|18111|18181",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

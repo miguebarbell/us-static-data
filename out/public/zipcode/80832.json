@@ -1,0 +1,20 @@
+{
+    "zip": 80832,
+    "lat": 39.06344,
+    "lng": -104.02769,
+    "city": "Ramah",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 987.0,
+    "density": 1.3,
+    "county_fips": 8039,
+    "county_name": "Elbert",
+    "county_weights": "{\"08039\": 80.85, \"08041\": 14.45, \"08073\": 4.7}",
+    "county_names_all": "Elbert|El Paso|Lincoln",
+    "county_fips_all": "08039|08041|08073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

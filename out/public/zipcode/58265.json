@@ -1,0 +1,20 @@
+{
+    "zip": 58265,
+    "lat": 48.95321,
+    "lng": -97.5959,
+    "city": "Neche",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 533.0,
+    "density": 2.4,
+    "county_fips": 38067,
+    "county_name": "Pembina",
+    "county_weights": "{\"38067\": 100}",
+    "county_names_all": "Pembina",
+    "county_fips_all": "38067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

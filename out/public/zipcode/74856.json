@@ -1,0 +1,20 @@
+{
+    "zip": 74856,
+    "lat": 34.39853,
+    "lng": -96.81829,
+    "city": "Mill Creek",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 794.0,
+    "density": 1.6,
+    "county_fips": 40069,
+    "county_name": "Johnston",
+    "county_weights": "{\"40069\": 83.58, \"40099\": 16.42}",
+    "county_names_all": "Johnston|Murray",
+    "county_fips_all": "40069|40099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

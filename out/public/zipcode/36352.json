@@ -1,0 +1,20 @@
+{
+    "zip": 36352,
+    "lat": 31.25682,
+    "lng": -85.61629,
+    "city": "Newton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5762.0,
+    "density": 31.9,
+    "county_fips": 1069,
+    "county_name": "Houston",
+    "county_weights": "{\"01069\": 58.07, \"01045\": 39.01, \"01061\": 2.92}",
+    "county_names_all": "Houston|Dale|Geneva",
+    "county_fips_all": "01069|01045|01061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

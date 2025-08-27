@@ -1,0 +1,20 @@
+{
+    "zip": 68401,
+    "lat": 40.74233,
+    "lng": -97.58569,
+    "city": "McCool Junction",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1073.0,
+    "density": 10.6,
+    "county_fips": 31185,
+    "county_name": "York",
+    "county_weights": "{\"31185\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "31185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

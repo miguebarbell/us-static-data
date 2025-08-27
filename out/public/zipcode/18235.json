@@ -1,0 +1,20 @@
+{
+    "zip": 18235,
+    "lat": 40.83603,
+    "lng": -75.692,
+    "city": "Lehighton",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19121.0,
+    "density": 84.9,
+    "county_fips": 42025,
+    "county_name": "Carbon",
+    "county_weights": "{\"42025\": 100}",
+    "county_names_all": "Carbon",
+    "county_fips_all": "42025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

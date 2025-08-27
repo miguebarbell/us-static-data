@@ -1,0 +1,20 @@
+{
+    "zip": 65246,
+    "lat": 39.37725,
+    "lng": -93.00059,
+    "city": "Dalton",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 58.0,
+    "density": 0.6,
+    "county_fips": 29041,
+    "county_name": "Chariton",
+    "county_weights": "{\"29041\": 100}",
+    "county_names_all": "Chariton",
+    "county_fips_all": "29041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

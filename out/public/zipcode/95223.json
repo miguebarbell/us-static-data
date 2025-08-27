@@ -1,0 +1,20 @@
+{
+    "zip": 95223,
+    "lat": 38.4644,
+    "lng": -119.85939,
+    "city": "Arnold",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2934.0,
+    "density": 2.7,
+    "county_fips": 6003,
+    "county_name": "Alpine",
+    "county_weights": "{\"06003\": 80.95, \"06009\": 17.26, \"06109\": 1.79}",
+    "county_names_all": "Alpine|Calaveras|Tuolumne",
+    "county_fips_all": "06003|06009|06109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

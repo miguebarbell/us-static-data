@@ -1,0 +1,20 @@
+{
+    "zip": 27839,
+    "lat": 36.28818,
+    "lng": -77.55009,
+    "city": "Halifax",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3595.0,
+    "density": 9.9,
+    "county_fips": 37083,
+    "county_name": "Halifax",
+    "county_weights": "{\"37083\": 100}",
+    "county_names_all": "Halifax",
+    "county_fips_all": "37083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

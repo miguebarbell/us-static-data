@@ -1,0 +1,20 @@
+{
+    "zip": 24541,
+    "lat": 36.59072,
+    "lng": -79.51572,
+    "city": "Danville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28151.0,
+    "density": 144.6,
+    "county_fips": 51143,
+    "county_name": "Pittsylvania",
+    "county_weights": "{\"51143\": 65.47, \"51590\": 34.53}",
+    "county_names_all": "Pittsylvania|Danville",
+    "county_fips_all": "51143|51590",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

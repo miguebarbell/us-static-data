@@ -1,0 +1,20 @@
+{
+    "zip": 61439,
+    "lat": 41.02923,
+    "lng": -90.35019,
+    "city": "Henderson",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 268.0,
+    "density": 82.8,
+    "county_fips": 17095,
+    "county_name": "Knox",
+    "county_weights": "{\"17095\": 100}",
+    "county_names_all": "Knox",
+    "county_fips_all": "17095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

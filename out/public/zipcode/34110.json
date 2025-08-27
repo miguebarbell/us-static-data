@@ -1,0 +1,20 @@
+{
+    "zip": 34110,
+    "lat": 26.29619,
+    "lng": -81.78505,
+    "city": "Naples",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24681.0,
+    "density": 594.9,
+    "county_fips": 12021,
+    "county_name": "Collier",
+    "county_weights": "{\"12021\": 94.99, \"12071\": 5.01}",
+    "county_names_all": "Collier|Lee",
+    "county_fips_all": "12021|12071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 48761,
+    "lat": 44.51129,
+    "lng": -83.89658,
+    "city": "South Branch",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 804.0,
+    "density": 3.9,
+    "county_fips": 26129,
+    "county_name": "Ogemaw",
+    "county_weights": "{\"26129\": 35.34, \"26001\": 30.25, \"26135\": 17.66, \"26069\": 16.76}",
+    "county_names_all": "Ogemaw|Alcona|Oscoda|Iosco",
+    "county_fips_all": "26129|26001|26135|26069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

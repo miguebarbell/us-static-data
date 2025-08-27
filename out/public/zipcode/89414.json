@@ -1,0 +1,20 @@
+{
+    "zip": 89414,
+    "lat": 41.04934,
+    "lng": -117.22765,
+    "city": "Golconda",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 228.0,
+    "density": 0.2,
+    "county_fips": 32013,
+    "county_name": "Humboldt",
+    "county_weights": "{\"32013\": 73.77, \"32007\": 26.23}",
+    "county_names_all": "Humboldt|Elko",
+    "county_fips_all": "32013|32007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

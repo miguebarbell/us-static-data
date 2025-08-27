@@ -1,0 +1,20 @@
+{
+    "zip": 37881,
+    "lat": 36.39861,
+    "lng": -83.34393,
+    "city": "Thorn Hill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1874.0,
+    "density": 10.1,
+    "county_fips": 47057,
+    "county_name": "Grainger",
+    "county_weights": "{\"47057\": 56.61, \"47067\": 35.83, \"47073\": 6.99, \"47025\": 0.57}",
+    "county_names_all": "Grainger|Hancock|Hawkins|Claiborne",
+    "county_fips_all": "47057|47067|47073|47025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

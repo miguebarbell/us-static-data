@@ -1,0 +1,20 @@
+{
+    "zip": 65345,
+    "lat": 38.54111,
+    "lng": -93.1254,
+    "city": "Mora",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 538.0,
+    "density": 5.1,
+    "county_fips": 29015,
+    "county_name": "Benton",
+    "county_weights": "{\"29015\": 42.21, \"29159\": 39.77, \"29141\": 18.02}",
+    "county_names_all": "Benton|Pettis|Morgan",
+    "county_fips_all": "29015|29159|29141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

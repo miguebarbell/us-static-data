@@ -1,0 +1,20 @@
+{
+    "zip": 13365,
+    "lat": 43.09804,
+    "lng": -74.84937,
+    "city": "Little Falls",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8545.0,
+    "density": 26.7,
+    "county_fips": 36043,
+    "county_name": "Herkimer",
+    "county_weights": "{\"36043\": 100}",
+    "county_names_all": "Herkimer",
+    "county_fips_all": "36043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

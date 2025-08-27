@@ -1,0 +1,20 @@
+{
+    "zip": 45144,
+    "lat": 38.70534,
+    "lng": -83.6142,
+    "city": "Manchester",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4256.0,
+    "density": 23.2,
+    "county_fips": 39001,
+    "county_name": "Adams",
+    "county_weights": "{\"39001\": 90.53, \"39015\": 9.47}",
+    "county_names_all": "Adams|Brown",
+    "county_fips_all": "39001|39015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

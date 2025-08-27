@@ -1,0 +1,20 @@
+{
+    "zip": 65775,
+    "lat": 36.6995,
+    "lng": -91.85999,
+    "city": "West Plains",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24950.0,
+    "density": 21.8,
+    "county_fips": 29091,
+    "county_name": "Howell",
+    "county_weights": "{\"29091\": 91.05, \"29149\": 5.39, \"29067\": 3.56}",
+    "county_names_all": "Howell|Oregon|Douglas",
+    "county_fips_all": "29091|29149|29067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

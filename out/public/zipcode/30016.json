@@ -1,0 +1,20 @@
+{
+    "zip": 30016,
+    "lat": 33.51836,
+    "lng": -83.93073,
+    "city": "Covington",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 61123.0,
+    "density": 259.9,
+    "county_fips": 13217,
+    "county_name": "Newton",
+    "county_weights": "{\"13217\": 99.62, \"13247\": 0.38}",
+    "county_names_all": "Newton|Rockdale",
+    "county_fips_all": "13217|13247",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

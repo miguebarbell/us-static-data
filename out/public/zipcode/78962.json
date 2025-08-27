@@ -1,0 +1,20 @@
+{
+    "zip": 78962,
+    "lat": 29.66951,
+    "lng": -96.73815,
+    "city": "Weimar",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5245.0,
+    "density": 11.7,
+    "county_fips": 48089,
+    "county_name": "Colorado",
+    "county_weights": "{\"48089\": 84.64, \"48149\": 15.36}",
+    "county_names_all": "Colorado|Fayette",
+    "county_fips_all": "48089|48149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

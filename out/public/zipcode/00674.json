@@ -1,0 +1,20 @@
+{
+    "zip": 674,
+    "lat": 18.42229,
+    "lng": -66.4891,
+    "city": "Manati",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39288.0,
+    "density": 349.1,
+    "county_fips": 72091,
+    "county_name": "Manat\u00ed",
+    "county_weights": "{\"72091\": 99.45, \"72145\": 0.55}",
+    "county_names_all": "Manat\u00ed|Vega Baja",
+    "county_fips_all": "72091|72145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

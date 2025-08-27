@@ -1,0 +1,20 @@
+{
+    "zip": 61550,
+    "lat": 40.61054,
+    "lng": -89.44049,
+    "city": "Morton",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18688.0,
+    "density": 175.1,
+    "county_fips": 17179,
+    "county_name": "Tazewell",
+    "county_weights": "{\"17179\": 100}",
+    "county_names_all": "Tazewell",
+    "county_fips_all": "17179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

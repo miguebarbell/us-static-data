@@ -1,0 +1,20 @@
+{
+    "zip": 63017,
+    "lat": 38.65143,
+    "lng": -90.53722,
+    "city": "Chesterfield",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43074.0,
+    "density": 863.5,
+    "county_fips": 29189,
+    "county_name": "St. Louis",
+    "county_weights": "{\"29189\": 100}",
+    "county_names_all": "St. Louis",
+    "county_fips_all": "29189",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

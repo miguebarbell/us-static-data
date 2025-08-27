@@ -1,0 +1,20 @@
+{
+    "zip": 50674,
+    "lat": 42.84202,
+    "lng": -92.11746,
+    "city": "Sumner",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3596.0,
+    "density": 8.7,
+    "county_fips": 19017,
+    "county_name": "Bremer",
+    "county_weights": "{\"19017\": 61.82, \"19065\": 32.18, \"19037\": 6.0}",
+    "county_names_all": "Bremer|Fayette|Chickasaw",
+    "county_fips_all": "19017|19065|19037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

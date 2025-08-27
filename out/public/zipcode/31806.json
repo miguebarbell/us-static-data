@@ -1,0 +1,20 @@
+{
+    "zip": 31806,
+    "lat": 32.26147,
+    "lng": -84.30043,
+    "city": "Ellaville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4316.0,
+    "density": 10.4,
+    "county_fips": 13249,
+    "county_name": "Schley",
+    "county_weights": "{\"13249\": 92.86, \"13193\": 7.14}",
+    "county_names_all": "Schley|Macon",
+    "county_fips_all": "13249|13193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

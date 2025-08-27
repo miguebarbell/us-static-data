@@ -1,0 +1,20 @@
+{
+    "zip": 14533,
+    "lat": 42.84632,
+    "lng": -77.88468,
+    "city": "Piffard",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1754.0,
+    "density": 23.3,
+    "county_fips": 36051,
+    "county_name": "Livingston",
+    "county_weights": "{\"36051\": 99.17, \"36121\": 0.83}",
+    "county_names_all": "Livingston|Wyoming",
+    "county_fips_all": "36051|36121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

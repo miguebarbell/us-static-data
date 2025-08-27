@@ -1,0 +1,20 @@
+{
+    "zip": 74540,
+    "lat": 34.55776,
+    "lng": -95.70167,
+    "city": "Daisy",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 136.0,
+    "density": 1.3,
+    "county_fips": 40005,
+    "county_name": "Atoka",
+    "county_weights": "{\"40005\": 79.65, \"40127\": 20.35}",
+    "county_names_all": "Atoka|Pushmataha",
+    "county_fips_all": "40005|40127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

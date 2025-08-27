@@ -1,0 +1,20 @@
+{
+    "zip": 80483,
+    "lat": 40.12482,
+    "lng": -106.92124,
+    "city": "Yampa",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 404.0,
+    "density": 1.6,
+    "county_fips": 8107,
+    "county_name": "Routt",
+    "county_weights": "{\"08107\": 100}",
+    "county_names_all": "Routt",
+    "county_fips_all": "08107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

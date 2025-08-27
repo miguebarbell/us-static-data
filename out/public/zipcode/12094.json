@@ -1,0 +1,20 @@
+{
+    "zip": 12094,
+    "lat": 42.89091,
+    "lng": -73.48737,
+    "city": "Johnsonville",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2560.0,
+    "density": 31.1,
+    "county_fips": 36083,
+    "county_name": "Rensselaer",
+    "county_weights": "{\"36083\": 85.42, \"36115\": 14.58}",
+    "county_names_all": "Rensselaer|Washington",
+    "county_fips_all": "36083|36115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

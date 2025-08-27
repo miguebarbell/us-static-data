@@ -1,0 +1,20 @@
+{
+    "zip": 49670,
+    "lat": 45.12088,
+    "lng": -85.62096,
+    "city": "Northport",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1659.0,
+    "density": 17.4,
+    "county_fips": 26089,
+    "county_name": "Leelanau",
+    "county_weights": "{\"26089\": 100}",
+    "county_names_all": "Leelanau",
+    "county_fips_all": "26089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

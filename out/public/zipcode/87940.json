@@ -1,0 +1,20 @@
+{
+    "zip": 87940,
+    "lat": 32.60986,
+    "lng": -106.99465,
+    "city": "Rincon",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 431.0,
+    "density": 2.6,
+    "county_fips": 35013,
+    "county_name": "Do\u00f1a Ana",
+    "county_weights": "{\"35013\": 100}",
+    "county_names_all": "Do\u00f1a Ana",
+    "county_fips_all": "35013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

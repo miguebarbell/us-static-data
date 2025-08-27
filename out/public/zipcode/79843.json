@@ -1,0 +1,20 @@
+{
+    "zip": 79843,
+    "lat": 30.11987,
+    "lng": -104.30359,
+    "city": "Marfa",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2578.0,
+    "density": 0.7,
+    "county_fips": 48377,
+    "county_name": "Presidio",
+    "county_weights": "{\"48377\": 100}",
+    "county_names_all": "Presidio",
+    "county_fips_all": "48377",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

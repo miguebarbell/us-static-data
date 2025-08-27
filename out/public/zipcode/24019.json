@@ -1,0 +1,20 @@
+{
+    "zip": 24019,
+    "lat": 37.3446,
+    "lng": -79.95564,
+    "city": "Roanoke",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28615.0,
+    "density": 365.4,
+    "county_fips": 51161,
+    "county_name": "Roanoke",
+    "county_weights": "{\"51161\": 65.92, \"51023\": 23.81, \"51770\": 10.27}",
+    "county_names_all": "Roanoke|Botetourt|Roanoke",
+    "county_fips_all": "51161|51023|51770",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

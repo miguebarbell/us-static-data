@@ -1,0 +1,20 @@
+{
+    "zip": 98846,
+    "lat": 48.03481,
+    "lng": -119.97528,
+    "city": "Pateros",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1313.0,
+    "density": 5.9,
+    "county_fips": 53047,
+    "county_name": "Okanogan",
+    "county_weights": "{\"53047\": 95.43, \"53007\": 4.57}",
+    "county_names_all": "Okanogan|Chelan",
+    "county_fips_all": "53047|53007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

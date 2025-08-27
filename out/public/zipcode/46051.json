@@ -1,0 +1,20 @@
+{
+    "zip": 46051,
+    "lat": 40.05855,
+    "lng": -85.83794,
+    "city": "Lapel",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2857.0,
+    "density": 71.2,
+    "county_fips": 18095,
+    "county_name": "Madison",
+    "county_weights": "{\"18095\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "18095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

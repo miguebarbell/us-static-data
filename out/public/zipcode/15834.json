@@ -1,0 +1,20 @@
+{
+    "zip": 15834,
+    "lat": 41.51228,
+    "lng": -78.27811,
+    "city": "Emporium",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4086.0,
+    "density": 7.7,
+    "county_fips": 42023,
+    "county_name": "Cameron",
+    "county_weights": "{\"42023\": 100}",
+    "county_names_all": "Cameron",
+    "county_fips_all": "42023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

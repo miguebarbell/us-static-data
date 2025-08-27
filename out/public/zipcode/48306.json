@@ -1,0 +1,20 @@
+{
+    "zip": 48306,
+    "lat": 42.72243,
+    "lng": -83.14944,
+    "city": "Rochester",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27831.0,
+    "density": 486.4,
+    "county_fips": 26125,
+    "county_name": "Oakland",
+    "county_weights": "{\"26125\": 98.08, \"26099\": 1.92}",
+    "county_names_all": "Oakland|Macomb",
+    "county_fips_all": "26125|26099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

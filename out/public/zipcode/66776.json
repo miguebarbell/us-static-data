@@ -1,0 +1,20 @@
+{
+    "zip": 66776,
+    "lat": 37.46848,
+    "lng": -95.48893,
+    "city": "Thayer",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1457.0,
+    "density": 5.0,
+    "county_fips": 20133,
+    "county_name": "Neosho",
+    "county_weights": "{\"20133\": 68.73, \"20205\": 27.52, \"20099\": 2.84, \"20125\": 0.91}",
+    "county_names_all": "Neosho|Wilson|Labette|Montgomery",
+    "county_fips_all": "20133|20205|20099|20125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

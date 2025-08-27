@@ -1,0 +1,20 @@
+{
+    "zip": 24426,
+    "lat": 37.76589,
+    "lng": -80.06927,
+    "city": "Covington",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13611.0,
+    "density": 14.4,
+    "county_fips": 51005,
+    "county_name": "Alleghany",
+    "county_weights": "{\"51005\": 94.98, \"51045\": 3.48, \"51580\": 1.54}",
+    "county_names_all": "Alleghany|Craig|Covington",
+    "county_fips_all": "51005|51045|51580",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

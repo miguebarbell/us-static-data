@@ -1,0 +1,20 @@
+{
+    "zip": 24550,
+    "lat": 37.23493,
+    "lng": -79.26898,
+    "city": "Evington",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7941.0,
+    "density": 48.4,
+    "county_fips": 51031,
+    "county_name": "Campbell",
+    "county_weights": "{\"51031\": 87.57, \"51019\": 12.43}",
+    "county_names_all": "Campbell|Bedford",
+    "county_fips_all": "51031|51019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

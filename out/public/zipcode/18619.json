@@ -1,0 +1,20 @@
+{
+    "zip": 18619,
+    "lat": 41.43574,
+    "lng": -76.7195,
+    "city": "Hillsgrove",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 137.0,
+    "density": 2.1,
+    "county_fips": 42113,
+    "county_name": "Sullivan",
+    "county_weights": "{\"42113\": 81.58, \"42081\": 18.42}",
+    "county_names_all": "Sullivan|Lycoming",
+    "county_fips_all": "42113|42081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43146,
+    "lat": 39.77293,
+    "lng": -83.14333,
+    "city": "Orient",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13325.0,
+    "density": 66.1,
+    "county_fips": 39129,
+    "county_name": "Pickaway",
+    "county_weights": "{\"39129\": 80.89, \"39049\": 17.9, \"39097\": 1.21}",
+    "county_names_all": "Pickaway|Franklin|Madison",
+    "county_fips_all": "39129|39049|39097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

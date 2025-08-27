@@ -1,0 +1,20 @@
+{
+    "zip": 15865,
+    "lat": 41.0508,
+    "lng": -78.81418,
+    "city": "Sykesville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1023.0,
+    "density": 163.0,
+    "county_fips": 42065,
+    "county_name": "Jefferson",
+    "county_weights": "{\"42065\": 78.55, \"42033\": 21.45}",
+    "county_names_all": "Jefferson|Clearfield",
+    "county_fips_all": "42065|42033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

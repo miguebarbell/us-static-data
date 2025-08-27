@@ -1,0 +1,20 @@
+{
+    "zip": 95762,
+    "lat": 38.67694,
+    "lng": -121.05755,
+    "city": "El Dorado Hills",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 47262.0,
+    "density": 438.8,
+    "county_fips": 6017,
+    "county_name": "El Dorado",
+    "county_weights": "{\"06017\": 100}",
+    "county_names_all": "El Dorado",
+    "county_fips_all": "06017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

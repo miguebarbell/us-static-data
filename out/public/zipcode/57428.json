@@ -1,0 +1,20 @@
+{
+    "zip": 57428,
+    "lat": 45.44984,
+    "lng": -99.67922,
+    "city": "Bowdle",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 569.0,
+    "density": 1.1,
+    "county_fips": 46045,
+    "county_name": "Edmunds",
+    "county_weights": "{\"46045\": 62.98, \"46129\": 37.02}",
+    "county_names_all": "Edmunds|Walworth",
+    "county_fips_all": "46045|46129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

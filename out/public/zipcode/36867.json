@@ -1,0 +1,20 @@
+{
+    "zip": 36867,
+    "lat": 32.49823,
+    "lng": -85.02304,
+    "city": "Phenix City",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22441.0,
+    "density": 689.3,
+    "county_fips": 1113,
+    "county_name": "Russell",
+    "county_weights": "{\"01113\": 65.06, \"01081\": 34.94}",
+    "county_names_all": "Russell|Lee",
+    "county_fips_all": "01113|01081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

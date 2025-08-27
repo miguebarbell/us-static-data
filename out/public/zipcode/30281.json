@@ -1,0 +1,20 @@
+{
+    "zip": 30281,
+    "lat": 33.56338,
+    "lng": -84.1961,
+    "city": "Stockbridge",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 70838.0,
+    "density": 394.8,
+    "county_fips": 13151,
+    "county_name": "Henry",
+    "county_weights": "{\"13151\": 79.24, \"13247\": 19.15, \"13063\": 1.61}",
+    "county_names_all": "Henry|Rockdale|Clayton",
+    "county_fips_all": "13151|13247|13063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 28007,
+    "lat": 35.12169,
+    "lng": -80.13052,
+    "city": "Ansonville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 800.0,
+    "density": 33.8,
+    "county_fips": 37007,
+    "county_name": "Anson",
+    "county_weights": "{\"37007\": 100}",
+    "county_names_all": "Anson",
+    "county_fips_all": "37007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

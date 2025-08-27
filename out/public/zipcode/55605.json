@@ -1,0 +1,20 @@
+{
+    "zip": 55605,
+    "lat": 47.96242,
+    "lng": -89.75529,
+    "city": "Grand Portage",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 612.0,
+    "density": 3.2,
+    "county_fips": 27031,
+    "county_name": "Cook",
+    "county_weights": "{\"27031\": 100}",
+    "county_names_all": "Cook",
+    "county_fips_all": "27031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

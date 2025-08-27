@@ -1,0 +1,20 @@
+{
+    "zip": 94080,
+    "lat": 37.65541,
+    "lng": -122.42083,
+    "city": "South San Francisco",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 65036.0,
+    "density": 2467.3,
+    "county_fips": 6081,
+    "county_name": "San Mateo",
+    "county_weights": "{\"06081\": 100}",
+    "county_names_all": "San Mateo",
+    "county_fips_all": "06081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

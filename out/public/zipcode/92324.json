@@ -1,0 +1,20 @@
+{
+    "zip": 92324,
+    "lat": 34.03398,
+    "lng": -117.29008,
+    "city": "Colton",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 57049.0,
+    "density": 793.1,
+    "county_fips": 6071,
+    "county_name": "San Bernardino",
+    "county_weights": "{\"06071\": 68.44, \"06065\": 31.56}",
+    "county_names_all": "San Bernardino|Riverside",
+    "county_fips_all": "06071|06065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

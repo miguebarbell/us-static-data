@@ -1,0 +1,20 @@
+{
+    "zip": 56339,
+    "lat": 45.8258,
+    "lng": -95.82129,
+    "city": "Hoffman",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1068.0,
+    "density": 6.8,
+    "county_fips": 27051,
+    "county_name": "Grant",
+    "county_weights": "{\"27051\": 85.72, \"27041\": 14.28}",
+    "county_names_all": "Grant|Douglas",
+    "county_fips_all": "27051|27041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

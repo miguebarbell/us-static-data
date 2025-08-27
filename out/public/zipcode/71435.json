@@ -1,0 +1,20 @@
+{
+    "zip": 71435,
+    "lat": 32.02456,
+    "lng": -92.1539,
+    "city": "Grayson",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3533.0,
+    "density": 6.5,
+    "county_fips": 22021,
+    "county_name": "Caldwell",
+    "county_weights": "{\"22021\": 83.76, \"22025\": 13.43, \"22059\": 2.33, \"22127\": 0.48}",
+    "county_names_all": "Caldwell|Catahoula|LaSalle|Winn",
+    "county_fips_all": "22021|22025|22059|22127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

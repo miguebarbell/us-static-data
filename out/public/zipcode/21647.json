@@ -1,0 +1,20 @@
+{
+    "zip": 21647,
+    "lat": 38.80114,
+    "lng": -76.2831,
+    "city": "Mcdaniel",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 412.0,
+    "density": 47.4,
+    "county_fips": 24041,
+    "county_name": "Talbot",
+    "county_weights": "{\"24041\": 100}",
+    "county_names_all": "Talbot",
+    "county_fips_all": "24041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

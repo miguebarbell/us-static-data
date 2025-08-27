@@ -1,0 +1,20 @@
+{
+    "zip": 37034,
+    "lat": 35.63977,
+    "lng": -86.69158,
+    "city": "Chapel Hill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8596.0,
+    "density": 45.5,
+    "county_fips": 47117,
+    "county_name": "Marshall",
+    "county_weights": "{\"47117\": 76.85, \"47003\": 23.15}",
+    "county_names_all": "Marshall|Bedford",
+    "county_fips_all": "47117|47003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

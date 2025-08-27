@@ -1,0 +1,20 @@
+{
+    "zip": 49266,
+    "lat": 41.84247,
+    "lng": -84.54641,
+    "city": "Osseo",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2906.0,
+    "density": 24.9,
+    "county_fips": 26059,
+    "county_name": "Hillsdale",
+    "county_weights": "{\"26059\": 100}",
+    "county_names_all": "Hillsdale",
+    "county_fips_all": "26059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

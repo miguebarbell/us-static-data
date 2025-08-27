@@ -1,0 +1,20 @@
+{
+    "zip": 14721,
+    "lat": 42.01645,
+    "lng": -78.26801,
+    "city": "Ceres",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 176.0,
+    "density": 20.2,
+    "county_fips": 36003,
+    "county_name": "Allegany",
+    "county_weights": "{\"36003\": 100}",
+    "county_names_all": "Allegany",
+    "county_fips_all": "36003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

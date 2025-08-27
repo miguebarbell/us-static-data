@@ -1,0 +1,20 @@
+{
+    "zip": 83847,
+    "lat": 48.57699,
+    "lng": -116.43207,
+    "city": "Naples",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1475.0,
+    "density": 4.8,
+    "county_fips": 16021,
+    "county_name": "Boundary",
+    "county_weights": "{\"16021\": 100}",
+    "county_names_all": "Boundary",
+    "county_fips_all": "16021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

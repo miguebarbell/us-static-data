@@ -1,0 +1,20 @@
+{
+    "zip": 70722,
+    "lat": 30.84337,
+    "lng": -90.93244,
+    "city": "Clinton",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4596.0,
+    "density": 10.5,
+    "county_fips": 22037,
+    "county_name": "East Feliciana",
+    "county_weights": "{\"22037\": 96.25, \"22033\": 3.75}",
+    "county_names_all": "East Feliciana|East Baton Rouge",
+    "county_fips_all": "22037|22033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

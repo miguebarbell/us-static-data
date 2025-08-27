@@ -1,0 +1,20 @@
+{
+    "zip": 52338,
+    "lat": 41.82904,
+    "lng": -91.70858,
+    "city": "Swisher",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3865.0,
+    "density": 44.7,
+    "county_fips": 19103,
+    "county_name": "Johnson",
+    "county_weights": "{\"19103\": 93.99, \"19113\": 6.01}",
+    "county_names_all": "Johnson|Linn",
+    "county_fips_all": "19103|19113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

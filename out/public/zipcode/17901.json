@@ -1,0 +1,20 @@
+{
+    "zip": 17901,
+    "lat": 40.69364,
+    "lng": -76.25526,
+    "city": "Pottsville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22557.0,
+    "density": 109.7,
+    "county_fips": 42107,
+    "county_name": "Schuylkill",
+    "county_weights": "{\"42107\": 100}",
+    "county_names_all": "Schuylkill",
+    "county_fips_all": "42107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

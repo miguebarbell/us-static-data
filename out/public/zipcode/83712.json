@@ -1,0 +1,20 @@
+{
+    "zip": 83712,
+    "lat": 43.61663,
+    "lng": -116.11766,
+    "city": "Boise",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9312.0,
+    "density": 156.7,
+    "county_fips": 16001,
+    "county_name": "Ada",
+    "county_weights": "{\"16001\": 100}",
+    "county_names_all": "Ada",
+    "county_fips_all": "16001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

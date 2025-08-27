@@ -1,0 +1,20 @@
+{
+    "zip": 70094,
+    "lat": 29.91162,
+    "lng": -90.20876,
+    "city": "Westwego",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32031.0,
+    "density": 342.1,
+    "county_fips": 22051,
+    "county_name": "Jefferson",
+    "county_weights": "{\"22051\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "22051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

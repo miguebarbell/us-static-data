@@ -1,0 +1,20 @@
+{
+    "zip": 79553,
+    "lat": 32.93785,
+    "lng": -99.84022,
+    "city": "Stamford",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3071.0,
+    "density": 6.4,
+    "county_fips": 48253,
+    "county_name": "Jones",
+    "county_weights": "{\"48253\": 62.35, \"48207\": 37.65}",
+    "county_names_all": "Jones|Haskell",
+    "county_fips_all": "48253|48207",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

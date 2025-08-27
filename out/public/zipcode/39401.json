@@ -1,0 +1,20 @@
+{
+    "zip": 39401,
+    "lat": 31.23496,
+    "lng": -89.26912,
+    "city": "Hattiesburg",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41916.0,
+    "density": 85.7,
+    "county_fips": 28035,
+    "county_name": "Forrest",
+    "county_weights": "{\"28035\": 95.42, \"28067\": 3.93, \"28031\": 0.44, \"28073\": 0.21}",
+    "county_names_all": "Forrest|Jones|Covington|Lamar",
+    "county_fips_all": "28035|28067|28031|28073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

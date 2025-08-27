@@ -1,0 +1,20 @@
+{
+    "zip": 19020,
+    "lat": 40.10453,
+    "lng": -74.93853,
+    "city": "Bensalem",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 57079.0,
+    "density": 1276.2,
+    "county_fips": 42017,
+    "county_name": "Bucks",
+    "county_weights": "{\"42017\": 99.9, \"42101\": 0.1}",
+    "county_names_all": "Bucks|Philadelphia",
+    "county_fips_all": "42017|42101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43930,
+    "lat": 40.56978,
+    "lng": -80.77372,
+    "city": "Hammondsville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1090.0,
+    "density": 12.9,
+    "county_fips": 39081,
+    "county_name": "Jefferson",
+    "county_weights": "{\"39081\": 81.75, \"39029\": 18.25}",
+    "county_names_all": "Jefferson|Columbiana",
+    "county_fips_all": "39081|39029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

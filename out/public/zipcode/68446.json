@@ -1,0 +1,20 @@
+{
+    "zip": 68446,
+    "lat": 40.65002,
+    "lng": -96.17535,
+    "city": "Syracuse",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2871.0,
+    "density": 11.4,
+    "county_fips": 31131,
+    "county_name": "Otoe",
+    "county_weights": "{\"31131\": 100}",
+    "county_names_all": "Otoe",
+    "county_fips_all": "31131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

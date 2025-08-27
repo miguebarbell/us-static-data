@@ -1,0 +1,20 @@
+{
+    "zip": 60506,
+    "lat": 41.76176,
+    "lng": -88.37125,
+    "city": "Aurora",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 49886.0,
+    "density": 906.6,
+    "county_fips": 17089,
+    "county_name": "Kane",
+    "county_weights": "{\"17089\": 99.23, \"17093\": 0.77}",
+    "county_names_all": "Kane|Kendall",
+    "county_fips_all": "17089|17093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

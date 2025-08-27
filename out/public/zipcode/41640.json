@@ -1,0 +1,20 @@
+{
+    "zip": 41640,
+    "lat": 37.47649,
+    "lng": -82.92643,
+    "city": "Hueysville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1012.0,
+    "density": 10.3,
+    "county_fips": 21119,
+    "county_name": "Knott",
+    "county_weights": "{\"21119\": 56.11, \"21071\": 35.35, \"21153\": 8.54}",
+    "county_names_all": "Knott|Floyd|Magoffin",
+    "county_fips_all": "21119|21071|21153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

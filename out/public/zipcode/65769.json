@@ -1,0 +1,20 @@
+{
+    "zip": 65769,
+    "lat": 36.91676,
+    "lng": -93.79511,
+    "city": "Verona",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2459.0,
+    "density": 10.9,
+    "county_fips": 29009,
+    "county_name": "Barry",
+    "county_weights": "{\"29009\": 51.74, \"29109\": 48.26}",
+    "county_names_all": "Barry|Lawrence",
+    "county_fips_all": "29009|29109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

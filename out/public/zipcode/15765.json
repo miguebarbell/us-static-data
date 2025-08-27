@@ -1,0 +1,20 @@
+{
+    "zip": 15765,
+    "lat": 40.59661,
+    "lng": -78.99574,
+    "city": "Penn Run",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1538.0,
+    "density": 14.7,
+    "county_fips": 42063,
+    "county_name": "Indiana",
+    "county_weights": "{\"42063\": 100}",
+    "county_names_all": "Indiana",
+    "county_fips_all": "42063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

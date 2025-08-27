@@ -1,0 +1,20 @@
+{
+    "zip": 14557,
+    "lat": 43.04807,
+    "lng": -78.06126,
+    "city": "South Byron",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 139.0,
+    "density": 72.1,
+    "county_fips": 36037,
+    "county_name": "Genesee",
+    "county_weights": "{\"36037\": 100}",
+    "county_names_all": "Genesee",
+    "county_fips_all": "36037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 88417,
+    "lat": 34.93076,
+    "lng": -104.25309,
+    "city": "Cuervo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 92.0,
+    "density": 0.1,
+    "county_fips": 35019,
+    "county_name": "Guadalupe",
+    "county_weights": "{\"35019\": 81.46, \"35037\": 18.54}",
+    "county_names_all": "Guadalupe|Quay",
+    "county_fips_all": "35019|35037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

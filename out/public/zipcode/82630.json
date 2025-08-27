@@ -1,0 +1,20 @@
+{
+    "zip": 82630,
+    "lat": 43.33432,
+    "lng": -107.25595,
+    "city": "Arminto",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 56025,
+    "county_name": "Natrona",
+    "county_weights": "{\"56025\": 100}",
+    "county_names_all": "Natrona",
+    "county_fips_all": "56025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

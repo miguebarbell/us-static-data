@@ -1,0 +1,20 @@
+{
+    "zip": 88339,
+    "lat": 32.9561,
+    "lng": -105.32141,
+    "city": "Mayhill",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 664.0,
+    "density": 0.7,
+    "county_fips": 35005,
+    "county_name": "Chaves",
+    "county_weights": "{\"35005\": 59.4, \"35035\": 40.6}",
+    "county_names_all": "Chaves|Otero",
+    "county_fips_all": "35005|35035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

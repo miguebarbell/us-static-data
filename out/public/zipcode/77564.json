@@ -1,0 +1,20 @@
+{
+    "zip": 77564,
+    "lat": 30.21811,
+    "lng": -94.65989,
+    "city": "Hull",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1876.0,
+    "density": 12.1,
+    "county_fips": 48291,
+    "county_name": "Liberty",
+    "county_weights": "{\"48291\": 76.29, \"48199\": 23.71}",
+    "county_names_all": "Liberty|Hardin",
+    "county_fips_all": "48291|48199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

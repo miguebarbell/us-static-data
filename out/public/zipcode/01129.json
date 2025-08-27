@@ -1,0 +1,20 @@
+{
+    "zip": 1129,
+    "lat": 42.1211,
+    "lng": -72.4877,
+    "city": "Springfield",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5993.0,
+    "density": 673.4,
+    "county_fips": 25013,
+    "county_name": "Hampden",
+    "county_weights": "{\"25013\": 100}",
+    "county_names_all": "Hampden",
+    "county_fips_all": "25013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

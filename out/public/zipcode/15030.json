@@ -1,0 +1,20 @@
+{
+    "zip": 15030,
+    "lat": 40.58492,
+    "lng": -79.78074,
+    "city": "Creighton",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1044.0,
+    "density": 268.4,
+    "county_fips": 42003,
+    "county_name": "Allegheny",
+    "county_weights": "{\"42003\": 99.83, \"42129\": 0.17}",
+    "county_names_all": "Allegheny|Westmoreland",
+    "county_fips_all": "42003|42129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

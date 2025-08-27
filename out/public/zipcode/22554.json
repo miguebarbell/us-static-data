@@ -1,0 +1,20 @@
+{
+    "zip": 22554,
+    "lat": 38.42285,
+    "lng": -77.3835,
+    "city": "Stafford",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 64605.0,
+    "density": 389.0,
+    "county_fips": 51179,
+    "county_name": "Stafford",
+    "county_weights": "{\"51179\": 100}",
+    "county_names_all": "Stafford",
+    "county_fips_all": "51179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

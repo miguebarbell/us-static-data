@@ -1,0 +1,20 @@
+{
+    "zip": 36754,
+    "lat": 32.15731,
+    "lng": -87.70238,
+    "city": "Magnolia",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 352.0,
+    "density": 3.6,
+    "county_fips": 1091,
+    "county_name": "Marengo",
+    "county_weights": "{\"01091\": 100}",
+    "county_names_all": "Marengo",
+    "county_fips_all": "01091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

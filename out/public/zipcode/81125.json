@@ -1,0 +1,20 @@
+{
+    "zip": 81125,
+    "lat": 37.81745,
+    "lng": -106.06678,
+    "city": "Center",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3526.0,
+    "density": 5.2,
+    "county_fips": 8109,
+    "county_name": "Saguache",
+    "county_weights": "{\"08109\": 82.0, \"08105\": 16.45, \"08003\": 1.55}",
+    "county_names_all": "Saguache|Rio Grande|Alamosa",
+    "county_fips_all": "08109|08105|08003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

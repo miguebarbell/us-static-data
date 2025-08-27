@@ -1,0 +1,20 @@
+{
+    "zip": 83238,
+    "lat": 42.37942,
+    "lng": -111.10593,
+    "city": "Geneva",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 118.0,
+    "density": 0.5,
+    "county_fips": 16007,
+    "county_name": "Bear Lake",
+    "county_weights": "{\"16007\": 100}",
+    "county_names_all": "Bear Lake",
+    "county_fips_all": "16007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

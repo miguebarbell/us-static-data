@@ -1,0 +1,20 @@
+{
+    "zip": 50276,
+    "lat": 41.85997,
+    "lng": -93.923,
+    "city": "Woodward",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2380.0,
+    "density": 11.1,
+    "county_fips": 19015,
+    "county_name": "Boone",
+    "county_weights": "{\"19015\": 50.77, \"19049\": 49.23}",
+    "county_names_all": "Boone|Dallas",
+    "county_fips_all": "19015|19049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

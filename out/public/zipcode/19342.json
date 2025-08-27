@@ -1,0 +1,20 @@
+{
+    "zip": 19342,
+    "lat": 39.90458,
+    "lng": -75.50243,
+    "city": "Glen Mills",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20654.0,
+    "density": 403.3,
+    "county_fips": 42045,
+    "county_name": "Delaware",
+    "county_weights": "{\"42045\": 96.7, \"42029\": 3.3}",
+    "county_names_all": "Delaware|Chester",
+    "county_fips_all": "42045|42029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

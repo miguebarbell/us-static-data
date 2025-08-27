@@ -1,0 +1,20 @@
+{
+    "zip": 35044,
+    "lat": 33.26859,
+    "lng": -86.36324,
+    "city": "Childersburg",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8225.0,
+    "density": 44.2,
+    "county_fips": 1121,
+    "county_name": "Talladega",
+    "county_weights": "{\"01121\": 100}",
+    "county_names_all": "Talladega",
+    "county_fips_all": "01121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 5778,
+    "lat": 43.87279,
+    "lng": -73.21228,
+    "city": "Whiting",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 995.0,
+    "density": 14.6,
+    "county_fips": 50001,
+    "county_name": "Addison",
+    "county_weights": "{\"50001\": 92.42, \"50021\": 7.58}",
+    "county_names_all": "Addison|Rutland",
+    "county_fips_all": "50001|50021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

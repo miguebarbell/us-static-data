@@ -1,0 +1,20 @@
+{
+    "zip": 39051,
+    "lat": 32.7868,
+    "lng": -89.50718,
+    "city": "Carthage",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15242.0,
+    "density": 13.7,
+    "county_fips": 28079,
+    "county_name": "Leake",
+    "county_weights": "{\"28079\": 90.9, \"28099\": 5.43, \"28089\": 2.25, \"28007\": 1.42}",
+    "county_names_all": "Leake|Neshoba|Madison|Attala",
+    "county_fips_all": "28079|28099|28089|28007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

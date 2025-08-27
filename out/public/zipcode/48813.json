@@ -1,0 +1,20 @@
+{
+    "zip": 48813,
+    "lat": 42.57862,
+    "lng": -84.84524,
+    "city": "Charlotte",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20263.0,
+    "density": 46.6,
+    "county_fips": 26045,
+    "county_name": "Eaton",
+    "county_weights": "{\"26045\": 99.86, \"26025\": 0.14}",
+    "county_names_all": "Eaton|Calhoun",
+    "county_fips_all": "26045|26025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

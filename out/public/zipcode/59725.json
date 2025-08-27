@@ -1,0 +1,20 @@
+{
+    "zip": 59725,
+    "lat": 45.06267,
+    "lng": -112.85714,
+    "city": "Dillon",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8223.0,
+    "density": 1.6,
+    "county_fips": 30001,
+    "county_name": "Beaverhead",
+    "county_weights": "{\"30001\": 96.05, \"30057\": 3.95}",
+    "county_names_all": "Beaverhead|Madison",
+    "county_fips_all": "30001|30057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

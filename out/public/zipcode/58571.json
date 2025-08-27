@@ -1,0 +1,20 @@
+{
+    "zip": 58571,
+    "lat": 47.29134,
+    "lng": -101.41043,
+    "city": "Stanton",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 839.0,
+    "density": 2.8,
+    "county_fips": 38057,
+    "county_name": "Mercer",
+    "county_weights": "{\"38057\": 70.38, \"38065\": 29.62}",
+    "county_names_all": "Mercer|Oliver",
+    "county_fips_all": "38057|38065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/North_Dakota/Beulah"
+}

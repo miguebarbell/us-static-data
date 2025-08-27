@@ -1,0 +1,20 @@
+{
+    "zip": 98284,
+    "lat": 48.55211,
+    "lng": -122.11763,
+    "city": "Sedro Woolley",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26970.0,
+    "density": 37.0,
+    "county_fips": 53057,
+    "county_name": "Skagit",
+    "county_weights": "{\"53057\": 91.88, \"53073\": 8.12}",
+    "county_names_all": "Skagit|Whatcom",
+    "county_fips_all": "53057|53073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

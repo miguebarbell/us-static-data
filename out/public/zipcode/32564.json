@@ -1,0 +1,20 @@
+{
+    "zip": 32564,
+    "lat": 30.72755,
+    "lng": -86.7875,
+    "city": "Holt",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1958.0,
+    "density": 7.3,
+    "county_fips": 12113,
+    "county_name": "Santa Rosa",
+    "county_weights": "{\"12113\": 50.15, \"12091\": 49.85}",
+    "county_names_all": "Santa Rosa|Okaloosa",
+    "county_fips_all": "12113|12091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

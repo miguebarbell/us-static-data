@@ -1,0 +1,20 @@
+{
+    "zip": 44060,
+    "lat": 41.67742,
+    "lng": -81.32806,
+    "city": "Mentor",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 60257.0,
+    "density": 582.7,
+    "county_fips": 39085,
+    "county_name": "Lake",
+    "county_weights": "{\"39085\": 94.07, \"39055\": 5.93}",
+    "county_names_all": "Lake|Geauga",
+    "county_fips_all": "39085|39055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

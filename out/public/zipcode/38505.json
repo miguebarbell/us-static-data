@@ -1,0 +1,20 @@
+{
+    "zip": 38505,
+    "lat": 36.17316,
+    "lng": -85.50559,
+    "city": "Cookeville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 904.0,
+    "density": 6940.6,
+    "county_fips": 47141,
+    "county_name": "Putnam",
+    "county_weights": "{\"47141\": 100}",
+    "county_names_all": "Putnam",
+    "county_fips_all": "47141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

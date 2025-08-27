@@ -1,0 +1,20 @@
+{
+    "zip": 79014,
+    "lat": 35.91912,
+    "lng": -100.32123,
+    "city": "Canadian",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3252.0,
+    "density": 1.4,
+    "county_fips": 48211,
+    "county_name": "Hemphill",
+    "county_weights": "{\"48211\": 78.21, \"48295\": 18.73, \"48393\": 3.06}",
+    "county_names_all": "Hemphill|Lipscomb|Roberts",
+    "county_fips_all": "48211|48295|48393",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

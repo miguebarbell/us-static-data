@@ -1,0 +1,20 @@
+{
+    "zip": 41042,
+    "lat": 38.98595,
+    "lng": -84.64906,
+    "city": "Florence",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 55880.0,
+    "density": 975.7,
+    "county_fips": 21015,
+    "county_name": "Boone",
+    "county_weights": "{\"21015\": 94.59, \"21117\": 5.41}",
+    "county_names_all": "Boone|Kenton",
+    "county_fips_all": "21015|21117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

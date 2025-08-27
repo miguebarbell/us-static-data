@@ -1,0 +1,20 @@
+{
+    "zip": 57072,
+    "lat": 42.98747,
+    "lng": -97.20363,
+    "city": "Volin",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 547.0,
+    "density": 2.8,
+    "county_fips": 46135,
+    "county_name": "Yankton",
+    "county_weights": "{\"46135\": 72.07, \"46027\": 27.93}",
+    "county_names_all": "Yankton|Clay",
+    "county_fips_all": "46135|46027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

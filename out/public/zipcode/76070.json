@@ -1,0 +1,20 @@
+{
+    "zip": 76070,
+    "lat": 32.24291,
+    "lng": -97.64991,
+    "city": "Nemo",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 956.0,
+    "density": 16.4,
+    "county_fips": 48425,
+    "county_name": "Somervell",
+    "county_weights": "{\"48425\": 90.18, \"48251\": 9.82}",
+    "county_names_all": "Somervell|Johnson",
+    "county_fips_all": "48425|48251",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

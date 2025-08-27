@@ -1,0 +1,20 @@
+{
+    "zip": 49403,
+    "lat": 43.13316,
+    "lng": -85.85022,
+    "city": "Conklin",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2477.0,
+    "density": 20.4,
+    "county_fips": 26139,
+    "county_name": "Ottawa",
+    "county_weights": "{\"26139\": 88.85, \"26121\": 6.94, \"26081\": 4.21}",
+    "county_names_all": "Ottawa|Muskegon|Kent",
+    "county_fips_all": "26139|26121|26081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

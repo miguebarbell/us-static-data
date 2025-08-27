@@ -1,0 +1,20 @@
+{
+    "zip": 71644,
+    "lat": 34.11045,
+    "lng": -91.71213,
+    "city": "Grady",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 450.0,
+    "density": 3.0,
+    "county_fips": 5079,
+    "county_name": "Lincoln",
+    "county_weights": "{\"05079\": 69.06, \"05069\": 30.94}",
+    "county_names_all": "Lincoln|Jefferson",
+    "county_fips_all": "05079|05069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

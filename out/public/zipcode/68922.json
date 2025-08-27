@@ -1,0 +1,20 @@
+{
+    "zip": 68922,
+    "lat": 40.33653,
+    "lng": -99.89976,
+    "city": "Arapahoe",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1222.0,
+    "density": 2.9,
+    "county_fips": 31065,
+    "county_name": "Furnas",
+    "county_weights": "{\"31065\": 53.55, \"31073\": 46.45}",
+    "county_names_all": "Furnas|Gosper",
+    "county_fips_all": "31065|31073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

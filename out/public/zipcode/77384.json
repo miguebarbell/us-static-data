@@ -1,0 +1,20 @@
+{
+    "zip": 77384,
+    "lat": 30.23453,
+    "lng": -95.49675,
+    "city": "Conroe",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24148.0,
+    "density": 505.5,
+    "county_fips": 48339,
+    "county_name": "Montgomery",
+    "county_weights": "{\"48339\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "48339",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

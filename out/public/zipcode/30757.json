@@ -1,0 +1,20 @@
+{
+    "zip": 30757,
+    "lat": 34.94164,
+    "lng": -85.4324,
+    "city": "Wildwood",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1505.0,
+    "density": 28.4,
+    "county_fips": 13083,
+    "county_name": "Dade",
+    "county_weights": "{\"13083\": 100}",
+    "county_names_all": "Dade",
+    "county_fips_all": "13083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

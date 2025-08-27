@@ -1,0 +1,20 @@
+{
+    "zip": 97904,
+    "lat": 43.89136,
+    "lng": -118.50581,
+    "city": "Drewsey",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 187.0,
+    "density": 0.1,
+    "county_fips": 41025,
+    "county_name": "Harney",
+    "county_weights": "{\"41025\": 100}",
+    "county_names_all": "Harney",
+    "county_fips_all": "41025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

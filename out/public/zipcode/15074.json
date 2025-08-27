@@ -1,0 +1,20 @@
+{
+    "zip": 15074,
+    "lat": 40.72837,
+    "lng": -80.21937,
+    "city": "Rochester",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8543.0,
+    "density": 221.8,
+    "county_fips": 42007,
+    "county_name": "Beaver",
+    "county_weights": "{\"42007\": 100}",
+    "county_names_all": "Beaver",
+    "county_fips_all": "42007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

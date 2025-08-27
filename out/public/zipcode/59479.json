@@ -1,0 +1,20 @@
+{
+    "zip": 59479,
+    "lat": 47.016,
+    "lng": -110.33696,
+    "city": "Stanford",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 732.0,
+    "density": 0.4,
+    "county_fips": 30045,
+    "county_name": "Judith Basin",
+    "county_weights": "{\"30045\": 100}",
+    "county_names_all": "Judith Basin",
+    "county_fips_all": "30045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

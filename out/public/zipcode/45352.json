@@ -1,0 +1,20 @@
+{
+    "zip": 45352,
+    "lat": 40.05006,
+    "lng": -84.74432,
+    "city": "Palestine",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 177.0,
+    "density": 462.6,
+    "county_fips": 39037,
+    "county_name": "Darke",
+    "county_weights": "{\"39037\": 100}",
+    "county_names_all": "Darke",
+    "county_fips_all": "39037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

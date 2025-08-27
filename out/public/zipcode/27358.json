@@ -1,0 +1,20 @@
+{
+    "zip": 27358,
+    "lat": 36.22723,
+    "lng": -79.88124,
+    "city": "Summerfield",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15283.0,
+    "density": 111.9,
+    "county_fips": 37081,
+    "county_name": "Guilford",
+    "county_weights": "{\"37081\": 70.99, \"37157\": 29.01}",
+    "county_names_all": "Guilford|Rockingham",
+    "county_fips_all": "37081|37157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

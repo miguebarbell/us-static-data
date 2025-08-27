@@ -1,0 +1,20 @@
+{
+    "zip": 58723,
+    "lat": 47.75433,
+    "lng": -100.60281,
+    "city": "Butte",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 233.0,
+    "density": 0.4,
+    "county_fips": 38055,
+    "county_name": "McLean",
+    "county_weights": "{\"38055\": 54.59, \"38083\": 44.45, \"38049\": 0.96}",
+    "county_names_all": "McLean|Sheridan|McHenry",
+    "county_fips_all": "38055|38083|38049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

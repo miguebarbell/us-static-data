@@ -1,0 +1,20 @@
+{
+    "zip": 62201,
+    "lat": 38.63567,
+    "lng": -90.14162,
+    "city": "East Saint Louis",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5017.0,
+    "density": 160.9,
+    "county_fips": 17163,
+    "county_name": "St. Clair",
+    "county_weights": "{\"17163\": 96.15, \"17119\": 3.85}",
+    "county_names_all": "St. Clair|Madison",
+    "county_fips_all": "17163|17119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

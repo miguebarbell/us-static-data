@@ -1,0 +1,20 @@
+{
+    "zip": 65340,
+    "lat": 39.09149,
+    "lng": -93.18041,
+    "city": "Marshall",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15977.0,
+    "density": 24.3,
+    "county_fips": 29195,
+    "county_name": "Saline",
+    "county_weights": "{\"29195\": 96.15, \"29159\": 3.85}",
+    "county_names_all": "Saline|Pettis",
+    "county_fips_all": "29195|29159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

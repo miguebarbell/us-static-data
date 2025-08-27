@@ -1,0 +1,20 @@
+{
+    "zip": 67410,
+    "lat": 38.95632,
+    "lng": -97.22104,
+    "city": "Abilene",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10177.0,
+    "density": 12.5,
+    "county_fips": 20041,
+    "county_name": "Dickinson",
+    "county_weights": "{\"20041\": 99.45, \"20027\": 0.55}",
+    "county_names_all": "Dickinson|Clay",
+    "county_fips_all": "20041|20027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

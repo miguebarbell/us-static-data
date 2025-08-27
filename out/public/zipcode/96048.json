@@ -1,0 +1,20 @@
+{
+    "zip": 96048,
+    "lat": 40.82613,
+    "lng": -123.05594,
+    "city": "Junction City",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1197.0,
+    "density": 3.0,
+    "county_fips": 6105,
+    "county_name": "Trinity",
+    "county_weights": "{\"06105\": 100}",
+    "county_names_all": "Trinity",
+    "county_fips_all": "06105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

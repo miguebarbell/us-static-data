@@ -1,0 +1,20 @@
+{
+    "zip": 31518,
+    "lat": 31.51272,
+    "lng": -82.18325,
+    "city": "Bristol",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 822.0,
+    "density": 6.8,
+    "county_fips": 13001,
+    "county_name": "Appling",
+    "county_weights": "{\"13001\": 57.5, \"13229\": 30.79, \"13305\": 11.71}",
+    "county_names_all": "Appling|Pierce|Wayne",
+    "county_fips_all": "13001|13229|13305",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

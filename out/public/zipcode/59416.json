@@ -1,0 +1,20 @@
+{
+    "zip": 59416,
+    "lat": 48.04059,
+    "lng": -111.52359,
+    "city": "Brady",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 378.0,
+    "density": 0.4,
+    "county_fips": 30073,
+    "county_name": "Pondera",
+    "county_weights": "{\"30073\": 56.25, \"30015\": 41.1, \"30099\": 1.52, \"30051\": 1.13}",
+    "county_names_all": "Pondera|Chouteau|Teton|Liberty",
+    "county_fips_all": "30073|30015|30099|30051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

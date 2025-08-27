@@ -1,0 +1,20 @@
+{
+    "zip": 16871,
+    "lat": 41.1879,
+    "lng": -78.03705,
+    "city": "Pottersdale",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23.0,
+    "density": 0.3,
+    "county_fips": 42035,
+    "county_name": "Clinton",
+    "county_weights": "{\"42035\": 74.49, \"42033\": 25.51}",
+    "county_names_all": "Clinton|Clearfield",
+    "county_fips_all": "42035|42033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

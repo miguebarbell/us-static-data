@@ -1,0 +1,20 @@
+{
+    "zip": 98813,
+    "lat": 48.01107,
+    "lng": -119.61063,
+    "city": "Bridgeport",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3233.0,
+    "density": 12.5,
+    "county_fips": 53017,
+    "county_name": "Douglas",
+    "county_weights": "{\"53017\": 76.94, \"53047\": 23.06}",
+    "county_names_all": "Douglas|Okanogan",
+    "county_fips_all": "53017|53047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 39074,
+    "lat": 32.3872,
+    "lng": -89.47398,
+    "city": "Forest",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14423.0,
+    "density": 20.1,
+    "county_fips": 28123,
+    "county_name": "Scott",
+    "county_weights": "{\"28123\": 83.23, \"28129\": 16.77}",
+    "county_names_all": "Scott|Smith",
+    "county_fips_all": "28123|28129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

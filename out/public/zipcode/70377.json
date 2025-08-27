@@ -1,0 +1,20 @@
+{
+    "zip": 70377,
+    "lat": 29.45808,
+    "lng": -90.51361,
+    "city": "Montegut",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3386.0,
+    "density": 15.5,
+    "county_fips": 22109,
+    "county_name": "Terrebonne",
+    "county_weights": "{\"22109\": 63.24, \"22057\": 36.76}",
+    "county_names_all": "Terrebonne|Lafourche",
+    "county_fips_all": "22109|22057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

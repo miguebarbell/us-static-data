@@ -1,0 +1,20 @@
+{
+    "zip": 18976,
+    "lat": 40.24676,
+    "lng": -75.14321,
+    "city": "Warrington",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21942.0,
+    "density": 794.3,
+    "county_fips": 42017,
+    "county_name": "Bucks",
+    "county_weights": "{\"42017\": 100}",
+    "county_names_all": "Bucks",
+    "county_fips_all": "42017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

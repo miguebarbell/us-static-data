@@ -1,0 +1,20 @@
+{
+    "zip": 23840,
+    "lat": 37.05638,
+    "lng": -77.67076,
+    "city": "Dewitt",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1593.0,
+    "density": 11.8,
+    "county_fips": 51053,
+    "county_name": "Dinwiddie",
+    "county_weights": "{\"51053\": 100}",
+    "county_names_all": "Dinwiddie",
+    "county_fips_all": "51053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

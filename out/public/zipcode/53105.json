@@ -1,0 +1,20 @@
+{
+    "zip": 53105,
+    "lat": 42.66412,
+    "lng": -88.28045,
+    "city": "Burlington",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29051.0,
+    "density": 70.3,
+    "county_fips": 55101,
+    "county_name": "Racine",
+    "county_weights": "{\"55101\": 41.48, \"55127\": 36.97, \"55059\": 21.55}",
+    "county_names_all": "Racine|Walworth|Kenosha",
+    "county_fips_all": "55101|55127|55059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

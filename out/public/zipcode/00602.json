@@ -1,0 +1,20 @@
+{
+    "zip": 602,
+    "lat": 18.36075,
+    "lng": -67.17541,
+    "city": "Aguada",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37510.0,
+    "density": 477.6,
+    "county_fips": 72003,
+    "county_name": "Aguada",
+    "county_weights": "{\"72003\": 100}",
+    "county_names_all": "Aguada",
+    "county_fips_all": "72003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

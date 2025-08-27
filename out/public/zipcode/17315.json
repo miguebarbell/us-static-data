@@ -1,0 +1,20 @@
+{
+    "zip": 17315,
+    "lat": 40.01859,
+    "lng": -76.8685,
+    "city": "Dover",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26434.0,
+    "density": 175.6,
+    "county_fips": 42133,
+    "county_name": "York",
+    "county_weights": "{\"42133\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "42133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

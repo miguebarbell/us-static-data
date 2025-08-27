@@ -1,0 +1,20 @@
+{
+    "zip": 16693,
+    "lat": 40.46519,
+    "lng": -78.21593,
+    "city": "Williamsburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4015.0,
+    "density": 20.1,
+    "county_fips": 42013,
+    "county_name": "Blair",
+    "county_weights": "{\"42013\": 100}",
+    "county_names_all": "Blair",
+    "county_fips_all": "42013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

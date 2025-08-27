@@ -1,0 +1,20 @@
+{
+    "zip": 86325,
+    "lat": 34.73347,
+    "lng": -111.89884,
+    "city": "Cornville",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5195.0,
+    "density": 32.7,
+    "county_fips": 4025,
+    "county_name": "Yavapai",
+    "county_weights": "{\"04025\": 100}",
+    "county_names_all": "Yavapai",
+    "county_fips_all": "04025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 50560,
+    "lat": 42.95581,
+    "lng": -94.1043,
+    "city": "Lu Verne",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 722.0,
+    "density": 3.5,
+    "county_fips": 19109,
+    "county_name": "Kossuth",
+    "county_weights": "{\"19109\": 85.36, \"19091\": 14.64}",
+    "county_names_all": "Kossuth|Humboldt",
+    "county_fips_all": "19109|19091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

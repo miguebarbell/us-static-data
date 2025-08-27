@@ -1,0 +1,20 @@
+{
+    "zip": 76836,
+    "lat": 31.42409,
+    "lng": -99.59196,
+    "city": "Doole",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3.0,
+    "density": 0.0,
+    "county_fips": 48307,
+    "county_name": "McCulloch",
+    "county_weights": "{\"48307\": 61.23, \"48095\": 38.77}",
+    "county_names_all": "McCulloch|Concho",
+    "county_fips_all": "48307|48095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

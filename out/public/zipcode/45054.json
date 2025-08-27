@@ -1,0 +1,20 @@
+{
+    "zip": 45054,
+    "lat": 39.43844,
+    "lng": -84.07418,
+    "city": "Oregonia",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2549.0,
+    "density": 31.6,
+    "county_fips": 39165,
+    "county_name": "Warren",
+    "county_weights": "{\"39165\": 100}",
+    "county_names_all": "Warren",
+    "county_fips_all": "39165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

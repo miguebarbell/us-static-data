@@ -1,0 +1,20 @@
+{
+    "zip": 22949,
+    "lat": 37.788,
+    "lng": -78.88257,
+    "city": "Lovingston",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1260.0,
+    "density": 12.1,
+    "county_fips": 51125,
+    "county_name": "Nelson",
+    "county_weights": "{\"51125\": 100}",
+    "county_names_all": "Nelson",
+    "county_fips_all": "51125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

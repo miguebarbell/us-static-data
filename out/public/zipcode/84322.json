@@ -1,0 +1,20 @@
+{
+    "zip": 84322,
+    "lat": 41.75822,
+    "lng": -111.81256,
+    "city": "Logan",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 49005,
+    "county_name": "Cache",
+    "county_weights": "{\"49005\": 100}",
+    "county_names_all": "Cache",
+    "county_fips_all": "49005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

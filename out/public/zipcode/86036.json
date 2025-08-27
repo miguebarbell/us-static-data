@@ -1,0 +1,20 @@
+{
+    "zip": 86036,
+    "lat": 36.72434,
+    "lng": -111.82083,
+    "city": "Marble Canyon",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 203.0,
+    "density": 0.1,
+    "county_fips": 4005,
+    "county_name": "Coconino",
+    "county_weights": "{\"04005\": 100}",
+    "county_names_all": "Coconino",
+    "county_fips_all": "04005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

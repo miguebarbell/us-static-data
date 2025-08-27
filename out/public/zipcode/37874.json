@@ -1,0 +1,20 @@
+{
+    "zip": 37874,
+    "lat": 35.59749,
+    "lng": -84.45823,
+    "city": "Sweetwater",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16640.0,
+    "density": 62.5,
+    "county_fips": 47123,
+    "county_name": "Monroe",
+    "county_weights": "{\"47123\": 70.29, \"47107\": 20.58, \"47105\": 8.72, \"47145\": 0.41}",
+    "county_names_all": "Monroe|McMinn|Loudon|Roane",
+    "county_fips_all": "47123|47107|47105|47145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

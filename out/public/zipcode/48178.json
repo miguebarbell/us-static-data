@@ -1,0 +1,20 @@
+{
+    "zip": 48178,
+    "lat": 42.44463,
+    "lng": -83.66399,
+    "city": "South Lyon",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37303.0,
+    "density": 300.3,
+    "county_fips": 26125,
+    "county_name": "Oakland",
+    "county_weights": "{\"26125\": 36.03, \"26161\": 33.18, \"26093\": 30.79}",
+    "county_names_all": "Oakland|Washtenaw|Livingston",
+    "county_fips_all": "26125|26161|26093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

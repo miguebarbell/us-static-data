@@ -1,0 +1,20 @@
+{
+    "zip": 38476,
+    "lat": 35.84341,
+    "lng": -87.20984,
+    "city": "Primm Springs",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1240.0,
+    "density": 11.8,
+    "county_fips": 47187,
+    "county_name": "Williamson",
+    "county_weights": "{\"47187\": 42.39, \"47081\": 40.42, \"47119\": 17.19}",
+    "county_names_all": "Williamson|Hickman|Maury",
+    "county_fips_all": "47187|47081|47119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

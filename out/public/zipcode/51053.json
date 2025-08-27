@@ -1,0 +1,20 @@
+{
+    "zip": 51053,
+    "lat": 42.4938,
+    "lng": -95.28842,
+    "city": "Schaller",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1056.0,
+    "density": 5.5,
+    "county_fips": 19161,
+    "county_name": "Sac",
+    "county_weights": "{\"19161\": 89.26, \"19093\": 10.74}",
+    "county_names_all": "Sac|Ida",
+    "county_fips_all": "19161|19093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

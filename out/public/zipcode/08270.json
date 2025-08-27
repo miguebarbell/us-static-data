@@ -1,0 +1,20 @@
+{
+    "zip": 8270,
+    "lat": 39.26437,
+    "lng": -74.80861,
+    "city": "Woodbine",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8239.0,
+    "density": 30.9,
+    "county_fips": 34009,
+    "county_name": "Cape May",
+    "county_weights": "{\"34009\": 77.99, \"34001\": 22.01}",
+    "county_names_all": "Cape May|Atlantic",
+    "county_fips_all": "34009|34001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

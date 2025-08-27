@@ -1,0 +1,20 @@
+{
+    "zip": 48725,
+    "lat": 43.93763,
+    "lng": -83.20596,
+    "city": "Caseville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1958.0,
+    "density": 22.6,
+    "county_fips": 26063,
+    "county_name": "Huron",
+    "county_weights": "{\"26063\": 100}",
+    "county_names_all": "Huron",
+    "county_fips_all": "26063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 67047,
+    "lat": 37.63921,
+    "lng": -96.05327,
+    "city": "Fall River",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 513.0,
+    "density": 1.4,
+    "county_fips": 20073,
+    "county_name": "Greenwood",
+    "county_weights": "{\"20073\": 63.52, \"20049\": 26.44, \"20205\": 10.04}",
+    "county_names_all": "Greenwood|Elk|Wilson",
+    "county_fips_all": "20073|20049|20205",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

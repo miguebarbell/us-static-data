@@ -1,0 +1,20 @@
+{
+    "zip": 49040,
+    "lat": 41.96847,
+    "lng": -85.32398,
+    "city": "Colon",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3341.0,
+    "density": 31.3,
+    "county_fips": 26149,
+    "county_name": "St. Joseph",
+    "county_weights": "{\"26149\": 73.53, \"26023\": 26.47}",
+    "county_names_all": "St. Joseph|Branch",
+    "county_fips_all": "26149|26023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

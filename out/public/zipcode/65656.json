@@ -1,0 +1,20 @@
+{
+    "zip": 65656,
+    "lat": 36.79552,
+    "lng": -93.46626,
+    "city": "Galena",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5224.0,
+    "density": 17.7,
+    "county_fips": 29209,
+    "county_name": "Stone",
+    "county_weights": "{\"29209\": 97.52, \"29009\": 2.48}",
+    "county_names_all": "Stone|Barry",
+    "county_fips_all": "29209|29009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

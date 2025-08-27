@@ -1,0 +1,20 @@
+{
+    "zip": 45623,
+    "lat": 38.64125,
+    "lng": -82.26748,
+    "city": "Crown City",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3381.0,
+    "density": 18.1,
+    "county_fips": 39053,
+    "county_name": "Gallia",
+    "county_weights": "{\"39053\": 91.37, \"39087\": 8.63}",
+    "county_names_all": "Gallia|Lawrence",
+    "county_fips_all": "39053|39087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

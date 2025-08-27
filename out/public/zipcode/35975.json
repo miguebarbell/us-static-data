@@ -1,0 +1,20 @@
+{
+    "zip": 35975,
+    "lat": 34.43832,
+    "lng": -86.06655,
+    "city": "Groveoak",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1340.0,
+    "density": 15.2,
+    "county_fips": 1049,
+    "county_name": "DeKalb",
+    "county_weights": "{\"01049\": 72.66, \"01095\": 27.34}",
+    "county_names_all": "DeKalb|Marshall",
+    "county_fips_all": "01049|01095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

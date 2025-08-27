@@ -1,0 +1,20 @@
+{
+    "zip": 72401,
+    "lat": 35.86835,
+    "lng": -90.66193,
+    "city": "Jonesboro",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42065.0,
+    "density": 183.5,
+    "county_fips": 5031,
+    "county_name": "Craighead",
+    "county_weights": "{\"05031\": 90.71, \"05055\": 9.29}",
+    "county_names_all": "Craighead|Greene",
+    "county_fips_all": "05031|05055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

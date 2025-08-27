@@ -1,0 +1,20 @@
+{
+    "zip": 52346,
+    "lat": 42.01298,
+    "lng": -92.08119,
+    "city": "Van Horne",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1070.0,
+    "density": 8.5,
+    "county_fips": 19011,
+    "county_name": "Benton",
+    "county_weights": "{\"19011\": 100}",
+    "county_names_all": "Benton",
+    "county_fips_all": "19011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

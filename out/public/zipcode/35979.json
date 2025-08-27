@@ -1,0 +1,20 @@
+{
+    "zip": 35979,
+    "lat": 34.82994,
+    "lng": -85.6125,
+    "city": "Higdon",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 885.0,
+    "density": 29.4,
+    "county_fips": 1049,
+    "county_name": "DeKalb",
+    "county_weights": "{\"01049\": 64.23, \"01071\": 35.77}",
+    "county_names_all": "DeKalb|Jackson",
+    "county_fips_all": "01049|01071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

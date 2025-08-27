@@ -1,0 +1,20 @@
+{
+    "zip": 58216,
+    "lat": 48.87937,
+    "lng": -97.4429,
+    "city": "Bathgate",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 165.0,
+    "density": 0.9,
+    "county_fips": 38067,
+    "county_name": "Pembina",
+    "county_weights": "{\"38067\": 100}",
+    "county_names_all": "Pembina",
+    "county_fips_all": "38067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

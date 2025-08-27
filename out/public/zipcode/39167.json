@@ -1,0 +1,20 @@
+{
+    "zip": 39167,
+    "lat": 32.09316,
+    "lng": -90.04003,
+    "city": "Star",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 28121,
+    "county_name": "Rankin",
+    "county_weights": "{\"28121\": 100}",
+    "county_names_all": "Rankin",
+    "county_fips_all": "28121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

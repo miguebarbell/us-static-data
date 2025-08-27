@@ -1,0 +1,20 @@
+{
+    "zip": 75562,
+    "lat": 32.93588,
+    "lng": -94.25302,
+    "city": "Kildare",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15.0,
+    "density": 0.5,
+    "county_fips": 48067,
+    "county_name": "Cass",
+    "county_weights": "{\"48067\": 100}",
+    "county_names_all": "Cass",
+    "county_fips_all": "48067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

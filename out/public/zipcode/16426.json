@@ -1,0 +1,20 @@
+{
+    "zip": 16426,
+    "lat": 41.98121,
+    "lng": -80.13937,
+    "city": "McKean",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3324.0,
+    "density": 44.6,
+    "county_fips": 42049,
+    "county_name": "Erie",
+    "county_weights": "{\"42049\": 100}",
+    "county_names_all": "Erie",
+    "county_fips_all": "42049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

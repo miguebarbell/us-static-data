@@ -1,0 +1,20 @@
+{
+    "zip": 39056,
+    "lat": 32.37384,
+    "lng": -90.35083,
+    "city": "Clinton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27307.0,
+    "density": 194.4,
+    "county_fips": 28049,
+    "county_name": "Hinds",
+    "county_weights": "{\"28049\": 100}",
+    "county_names_all": "Hinds",
+    "county_fips_all": "28049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

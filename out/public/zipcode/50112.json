@@ -1,0 +1,20 @@
+{
+    "zip": 50112,
+    "lat": 41.7319,
+    "lng": -92.71591,
+    "city": "Grinnell",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11776.0,
+    "density": 25.0,
+    "county_fips": 19157,
+    "county_name": "Poweshiek",
+    "county_weights": "{\"19157\": 74.03, \"19099\": 25.97}",
+    "county_names_all": "Poweshiek|Jasper",
+    "county_fips_all": "19157|19099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

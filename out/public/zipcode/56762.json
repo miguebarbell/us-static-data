@@ -1,0 +1,20 @@
+{
+    "zip": 56762,
+    "lat": 48.1688,
+    "lng": -96.7415,
+    "city": "Warren",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2337.0,
+    "density": 2.7,
+    "county_fips": 27119,
+    "county_name": "Polk",
+    "county_weights": "{\"27119\": 51.75, \"27089\": 48.25}",
+    "county_names_all": "Polk|Marshall",
+    "county_fips_all": "27119|27089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

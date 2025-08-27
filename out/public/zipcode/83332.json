@@ -1,0 +1,20 @@
+{
+    "zip": 83332,
+    "lat": 42.79758,
+    "lng": -114.92962,
+    "city": "Hagerman",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2608.0,
+    "density": 11.4,
+    "county_fips": 16083,
+    "county_name": "Twin Falls",
+    "county_weights": "{\"16083\": 60.16, \"16047\": 39.84}",
+    "county_names_all": "Twin Falls|Gooding",
+    "county_fips_all": "16083|16047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

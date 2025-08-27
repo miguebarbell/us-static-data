@@ -1,0 +1,20 @@
+{
+    "zip": 78561,
+    "lat": 26.4687,
+    "lng": -97.91595,
+    "city": "Lasara",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1005.0,
+    "density": 367.0,
+    "county_fips": 48489,
+    "county_name": "Willacy",
+    "county_weights": "{\"48489\": 100}",
+    "county_names_all": "Willacy",
+    "county_fips_all": "48489",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

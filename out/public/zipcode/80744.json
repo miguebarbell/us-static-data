@@ -1,0 +1,20 @@
+{
+    "zip": 80744,
+    "lat": 40.87471,
+    "lng": -102.38355,
+    "city": "Ovid",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 543.0,
+    "density": 1.8,
+    "county_fips": 8115,
+    "county_name": "Sedgwick",
+    "county_weights": "{\"08115\": 100}",
+    "county_names_all": "Sedgwick",
+    "county_fips_all": "08115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

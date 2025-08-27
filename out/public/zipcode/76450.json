@@ -1,0 +1,20 @@
+{
+    "zip": 76450,
+    "lat": 33.05968,
+    "lng": -98.64152,
+    "city": "Graham",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12890.0,
+    "density": 10.2,
+    "county_fips": 48503,
+    "county_name": "Young",
+    "county_weights": "{\"48503\": 84.62, \"48429\": 9.07, \"48363\": 6.31}",
+    "county_names_all": "Young|Stephens|Palo Pinto",
+    "county_fips_all": "48503|48429|48363",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

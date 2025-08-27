@@ -1,0 +1,20 @@
+{
+    "zip": 85534,
+    "lat": 32.72939,
+    "lng": -109.14475,
+    "city": "Duncan",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3088.0,
+    "density": 3.0,
+    "county_fips": 4011,
+    "county_name": "Greenlee",
+    "county_weights": "{\"04011\": 100}",
+    "county_names_all": "Greenlee",
+    "county_fips_all": "04011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

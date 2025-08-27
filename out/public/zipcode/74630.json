@@ -1,0 +1,20 @@
+{
+    "zip": 74630,
+    "lat": 36.49736,
+    "lng": -97.4296,
+    "city": "Billings",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 822.0,
+    "density": 2.6,
+    "county_fips": 40103,
+    "county_name": "Noble",
+    "county_weights": "{\"40103\": 73.31, \"40047\": 26.69}",
+    "county_names_all": "Noble|Garfield",
+    "county_fips_all": "40103|40047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

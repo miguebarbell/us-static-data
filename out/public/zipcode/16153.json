@@ -1,0 +1,20 @@
+{
+    "zip": 16153,
+    "lat": 41.31845,
+    "lng": -80.08122,
+    "city": "Stoneboro",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2303.0,
+    "density": 20.7,
+    "county_fips": 42085,
+    "county_name": "Mercer",
+    "county_weights": "{\"42085\": 86.59, \"42121\": 13.41}",
+    "county_names_all": "Mercer|Venango",
+    "county_fips_all": "42085|42121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

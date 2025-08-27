@@ -1,0 +1,20 @@
+{
+    "zip": 61270,
+    "lat": 41.82971,
+    "lng": -89.9656,
+    "city": "Morrison",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7067.0,
+    "density": 18.1,
+    "county_fips": 17195,
+    "county_name": "Whiteside",
+    "county_weights": "{\"17195\": 98.97, \"17015\": 1.03}",
+    "county_names_all": "Whiteside|Carroll",
+    "county_fips_all": "17195|17015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

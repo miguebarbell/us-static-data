@@ -1,0 +1,20 @@
+{
+    "zip": 75159,
+    "lat": 32.60652,
+    "lng": -96.53939,
+    "city": "Seagoville",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22993.0,
+    "density": 149.7,
+    "county_fips": 48113,
+    "county_name": "Dallas",
+    "county_weights": "{\"48113\": 63.48, \"48257\": 36.52}",
+    "county_names_all": "Dallas|Kaufman",
+    "county_fips_all": "48113|48257",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

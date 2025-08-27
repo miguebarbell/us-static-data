@@ -1,0 +1,20 @@
+{
+    "zip": 59730,
+    "lat": 45.30988,
+    "lng": -111.19025,
+    "city": "Gallatin Gateway",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2367.0,
+    "density": 1.3,
+    "county_fips": 30031,
+    "county_name": "Gallatin",
+    "county_weights": "{\"30031\": 94.04, \"30057\": 5.96}",
+    "county_names_all": "Gallatin|Madison",
+    "county_fips_all": "30031|30057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

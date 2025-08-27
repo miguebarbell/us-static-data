@@ -1,0 +1,20 @@
+{
+    "zip": 72556,
+    "lat": 36.02472,
+    "lng": -91.95831,
+    "city": "Melbourne",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3846.0,
+    "density": 9.2,
+    "county_fips": 5065,
+    "county_name": "Izard",
+    "county_weights": "{\"05065\": 100}",
+    "county_names_all": "Izard",
+    "county_fips_all": "05065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

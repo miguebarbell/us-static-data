@@ -1,0 +1,20 @@
+{
+    "zip": 2134,
+    "lat": 42.35855,
+    "lng": -71.12931,
+    "city": "Allston",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17637.0,
+    "density": 5516.9,
+    "county_fips": 25025,
+    "county_name": "Suffolk",
+    "county_weights": "{\"25025\": 99.6, \"25017\": 0.4}",
+    "county_names_all": "Suffolk|Middlesex",
+    "county_fips_all": "25025|25017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

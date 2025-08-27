@@ -1,0 +1,20 @@
+{
+    "zip": 44815,
+    "lat": 41.24697,
+    "lng": -83.23947,
+    "city": "Bettsville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 762.0,
+    "density": 258.5,
+    "county_fips": 39147,
+    "county_name": "Seneca",
+    "county_weights": "{\"39147\": 100}",
+    "county_names_all": "Seneca",
+    "county_fips_all": "39147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 70390,
+    "lat": 29.89068,
+    "lng": -91.03616,
+    "city": "Napoleonville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7397.0,
+    "density": 19.3,
+    "county_fips": 22007,
+    "county_name": "Assumption",
+    "county_weights": "{\"22007\": 100}",
+    "county_names_all": "Assumption",
+    "county_fips_all": "22007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

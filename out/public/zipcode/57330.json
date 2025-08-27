@@ -1,0 +1,20 @@
+{
+    "zip": 57330,
+    "lat": 43.26147,
+    "lng": -98.16082,
+    "city": "Delmont",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 548.0,
+    "density": 1.8,
+    "county_fips": 46043,
+    "county_name": "Douglas",
+    "county_weights": "{\"46043\": 60.67, \"46023\": 25.92, \"46067\": 13.41}",
+    "county_names_all": "Douglas|Charles Mix|Hutchinson",
+    "county_fips_all": "46043|46023|46067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

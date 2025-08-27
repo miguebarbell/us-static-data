@@ -1,0 +1,20 @@
+{
+    "zip": 17061,
+    "lat": 40.56542,
+    "lng": -76.90046,
+    "city": "Millersburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6825.0,
+    "density": 81.0,
+    "county_fips": 42043,
+    "county_name": "Dauphin",
+    "county_weights": "{\"42043\": 100}",
+    "county_names_all": "Dauphin",
+    "county_fips_all": "42043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

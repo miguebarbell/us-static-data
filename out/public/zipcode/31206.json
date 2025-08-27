@@ -1,0 +1,20 @@
+{
+    "zip": 31206,
+    "lat": 32.79383,
+    "lng": -83.6832,
+    "city": "Macon",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25250.0,
+    "density": 365.8,
+    "county_fips": 13021,
+    "county_name": "Bibb",
+    "county_weights": "{\"13021\": 100}",
+    "county_names_all": "Bibb",
+    "county_fips_all": "13021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

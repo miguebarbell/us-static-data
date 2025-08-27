@@ -1,0 +1,20 @@
+{
+    "zip": 924,
+    "lat": 18.39987,
+    "lng": -66.01344,
+    "city": "San Juan",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 47800.0,
+    "density": 3957.7,
+    "county_fips": 72127,
+    "county_name": "San Juan",
+    "county_weights": "{\"72127\": 96.5, \"72031\": 3.5}",
+    "county_names_all": "San Juan|Carolina",
+    "county_fips_all": "72127|72031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 61452,
+    "lat": 40.23836,
+    "lng": -90.66022,
+    "city": "Littleton",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 167.0,
+    "density": 2.1,
+    "county_fips": 17169,
+    "county_name": "Schuyler",
+    "county_weights": "{\"17169\": 95.73, \"17109\": 4.27}",
+    "county_names_all": "Schuyler|McDonough",
+    "county_fips_all": "17169|17109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

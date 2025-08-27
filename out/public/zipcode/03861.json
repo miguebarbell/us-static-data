@@ -1,0 +1,20 @@
+{
+    "zip": 3861,
+    "lat": 43.11931,
+    "lng": -71.0068,
+    "city": "Lee",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4558.0,
+    "density": 89.1,
+    "county_fips": 33017,
+    "county_name": "Strafford",
+    "county_weights": "{\"33017\": 100}",
+    "county_names_all": "Strafford",
+    "county_fips_all": "33017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

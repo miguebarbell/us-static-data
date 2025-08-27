@@ -1,0 +1,20 @@
+{
+    "zip": 84009,
+    "lat": 40.55221,
+    "lng": -112.05362,
+    "city": "South Jordan",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42091.0,
+    "density": 1520.1,
+    "county_fips": 49035,
+    "county_name": "Salt Lake",
+    "county_weights": "{\"49035\": 100}",
+    "county_names_all": "Salt Lake",
+    "county_fips_all": "49035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

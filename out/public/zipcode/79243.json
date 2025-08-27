@@ -1,0 +1,20 @@
+{
+    "zip": 79243,
+    "lat": 33.76426,
+    "lng": -101.02557,
+    "city": "Mcadoo",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24.0,
+    "density": 0.1,
+    "county_fips": 48125,
+    "county_name": "Dickens",
+    "county_weights": "{\"48125\": 65.64, \"48107\": 34.36}",
+    "county_names_all": "Dickens|Crosby",
+    "county_fips_all": "48125|48107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

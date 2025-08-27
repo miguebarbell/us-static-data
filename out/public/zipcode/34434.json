@@ -1,0 +1,20 @@
+{
+    "zip": 34434,
+    "lat": 28.99535,
+    "lng": -82.43775,
+    "city": "Dunnellon",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10701.0,
+    "density": 157.2,
+    "county_fips": 12017,
+    "county_name": "Citrus",
+    "county_weights": "{\"12017\": 100}",
+    "county_names_all": "Citrus",
+    "county_fips_all": "12017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

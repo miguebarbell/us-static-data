@@ -1,0 +1,20 @@
+{
+    "zip": 50456,
+    "lat": 43.28812,
+    "lng": -93.21579,
+    "city": "Manly",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1758.0,
+    "density": 13.6,
+    "county_fips": 19195,
+    "county_name": "Worth",
+    "county_weights": "{\"19195\": 98.17, \"19033\": 1.83}",
+    "county_names_all": "Worth|Cerro Gordo",
+    "county_fips_all": "19195|19033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

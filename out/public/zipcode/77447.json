@@ -1,0 +1,20 @@
+{
+    "zip": 77447,
+    "lat": 30.05178,
+    "lng": -95.82868,
+    "city": "Hockley",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22766.0,
+    "density": 85.0,
+    "county_fips": 48201,
+    "county_name": "Harris",
+    "county_weights": "{\"48201\": 66.99, \"48473\": 28.17, \"48339\": 4.84}",
+    "county_names_all": "Harris|Waller|Montgomery",
+    "county_fips_all": "48201|48473|48339",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

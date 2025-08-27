@@ -1,0 +1,20 @@
+{
+    "zip": 17724,
+    "lat": 41.63827,
+    "lng": -76.80034,
+    "city": "Canton",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4721.0,
+    "density": 16.7,
+    "county_fips": 42015,
+    "county_name": "Bradford",
+    "county_weights": "{\"42015\": 75.17, \"42117\": 16.72, \"42081\": 8.11}",
+    "county_names_all": "Bradford|Tioga|Lycoming",
+    "county_fips_all": "42015|42117|42081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

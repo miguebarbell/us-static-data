@@ -1,0 +1,20 @@
+{
+    "zip": 98647,
+    "lat": 46.32137,
+    "lng": -123.4354,
+    "city": "Skamokawa",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 311.0,
+    "density": 1.7,
+    "county_fips": 53069,
+    "county_name": "Wahkiakum",
+    "county_weights": "{\"53069\": 100}",
+    "county_names_all": "Wahkiakum",
+    "county_fips_all": "53069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

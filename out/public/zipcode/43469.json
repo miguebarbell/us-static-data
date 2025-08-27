@@ -1,0 +1,20 @@
+{
+    "zip": 43469,
+    "lat": 41.45947,
+    "lng": -83.36474,
+    "city": "Woodville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2991.0,
+    "density": 50.4,
+    "county_fips": 39143,
+    "county_name": "Sandusky",
+    "county_weights": "{\"39143\": 91.84, \"39123\": 8.16}",
+    "county_names_all": "Sandusky|Ottawa",
+    "county_fips_all": "39143|39123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

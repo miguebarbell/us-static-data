@@ -1,0 +1,20 @@
+{
+    "zip": 80106,
+    "lat": 39.17646,
+    "lng": -104.52975,
+    "city": "Elbert",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4450.0,
+    "density": 9.9,
+    "county_fips": 8039,
+    "county_name": "Elbert",
+    "county_weights": "{\"08039\": 79.68, \"08041\": 16.66, \"08035\": 3.66}",
+    "county_names_all": "Elbert|El Paso|Douglas",
+    "county_fips_all": "08039|08041|08035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

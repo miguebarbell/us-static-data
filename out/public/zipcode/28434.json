@@ -1,0 +1,20 @@
+{
+    "zip": 28434,
+    "lat": 34.47154,
+    "lng": -78.47479,
+    "city": "Council",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 643.0,
+    "density": 3.5,
+    "county_fips": 37017,
+    "county_name": "Bladen",
+    "county_weights": "{\"37017\": 100}",
+    "county_names_all": "Bladen",
+    "county_fips_all": "37017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

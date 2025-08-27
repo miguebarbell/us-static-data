@@ -1,0 +1,20 @@
+{
+    "zip": 63941,
+    "lat": 36.8711,
+    "lng": -91.16607,
+    "city": "Fremont",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 210.0,
+    "density": 0.6,
+    "county_fips": 29035,
+    "county_name": "Carter",
+    "county_weights": "{\"29035\": 66.37, \"29149\": 32.91, \"29181\": 0.72}",
+    "county_names_all": "Carter|Oregon|Ripley",
+    "county_fips_all": "29035|29149|29181",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

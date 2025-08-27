@@ -1,0 +1,20 @@
+{
+    "zip": 93550,
+    "lat": 34.38305,
+    "lng": -118.04926,
+    "city": "Palmdale",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 79929.0,
+    "density": 119.0,
+    "county_fips": 6037,
+    "county_name": "Los Angeles",
+    "county_weights": "{\"06037\": 100}",
+    "county_names_all": "Los Angeles",
+    "county_fips_all": "06037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

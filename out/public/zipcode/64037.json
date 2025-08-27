@@ -1,0 +1,20 @@
+{
+    "zip": 64037,
+    "lat": 39.05116,
+    "lng": -93.73386,
+    "city": "Higginsville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6325.0,
+    "density": 22.7,
+    "county_fips": 29107,
+    "county_name": "Lafayette",
+    "county_weights": "{\"29107\": 97.21, \"29101\": 2.79}",
+    "county_names_all": "Lafayette|Johnson",
+    "county_fips_all": "29107|29101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

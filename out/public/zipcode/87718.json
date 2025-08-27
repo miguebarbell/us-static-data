@@ -1,0 +1,20 @@
+{
+    "zip": 87718,
+    "lat": 36.59931,
+    "lng": -105.24097,
+    "city": "Eagle Nest",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 318.0,
+    "density": 0.7,
+    "county_fips": 35007,
+    "county_name": "Colfax",
+    "county_weights": "{\"35007\": 100}",
+    "county_names_all": "Colfax",
+    "county_fips_all": "35007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 30102,
+    "lat": 34.10857,
+    "lng": -84.64622,
+    "city": "Acworth",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44593.0,
+    "density": 547.8,
+    "county_fips": 13057,
+    "county_name": "Cherokee",
+    "county_weights": "{\"13057\": 46.4, \"13015\": 43.42, \"13067\": 10.18}",
+    "county_names_all": "Cherokee|Bartow|Cobb",
+    "county_fips_all": "13057|13015|13067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

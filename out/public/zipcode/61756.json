@@ -1,0 +1,20 @@
+{
+    "zip": 61756,
+    "lat": 40.03311,
+    "lng": -88.96368,
+    "city": "Maroa",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2625.0,
+    "density": 12.1,
+    "county_fips": 17115,
+    "county_name": "Macon",
+    "county_weights": "{\"17115\": 70.25, \"17039\": 29.75}",
+    "county_names_all": "Macon|De Witt",
+    "county_fips_all": "17115|17039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 25443,
+    "lat": 39.43835,
+    "lng": -77.81477,
+    "city": "Shepherdstown",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7298.0,
+    "density": 91.8,
+    "county_fips": 54037,
+    "county_name": "Jefferson",
+    "county_weights": "{\"54037\": 89.74, \"54003\": 10.26}",
+    "county_names_all": "Jefferson|Berkeley",
+    "county_fips_all": "54037|54003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

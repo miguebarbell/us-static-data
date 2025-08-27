@@ -1,0 +1,20 @@
+{
+    "zip": 89191,
+    "lat": 36.2473,
+    "lng": -115.00407,
+    "city": "Nellis Afb",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 486.0,
+    "density": 20.4,
+    "county_fips": 32003,
+    "county_name": "Clark",
+    "county_weights": "{\"32003\": 100}",
+    "county_names_all": "Clark",
+    "county_fips_all": "32003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

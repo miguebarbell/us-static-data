@@ -1,0 +1,20 @@
+{
+    "zip": 52773,
+    "lat": 41.62187,
+    "lng": -90.75529,
+    "city": "Walcott",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2668.0,
+    "density": 18.6,
+    "county_fips": 19163,
+    "county_name": "Scott",
+    "county_weights": "{\"19163\": 96.42, \"19139\": 3.58}",
+    "county_names_all": "Scott|Muscatine",
+    "county_fips_all": "19163|19139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

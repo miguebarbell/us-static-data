@@ -1,0 +1,20 @@
+{
+    "zip": 53960,
+    "lat": 43.4224,
+    "lng": -89.23212,
+    "city": "Rio",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3235.0,
+    "density": 13.9,
+    "county_fips": 55021,
+    "county_name": "Columbia",
+    "county_weights": "{\"55021\": 100}",
+    "county_names_all": "Columbia",
+    "county_fips_all": "55021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 81136,
+    "lat": 37.72672,
+    "lng": -105.85355,
+    "city": "Hooper",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 318.0,
+    "density": 1.5,
+    "county_fips": 8003,
+    "county_name": "Alamosa",
+    "county_weights": "{\"08003\": 80.39, \"08109\": 19.61}",
+    "county_names_all": "Alamosa|Saguache",
+    "county_fips_all": "08003|08109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

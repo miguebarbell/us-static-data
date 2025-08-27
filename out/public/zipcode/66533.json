@@ -1,0 +1,20 @@
+{
+    "zip": 66533,
+    "lat": 39.16097,
+    "lng": -95.95045,
+    "city": "Rossville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1609.0,
+    "density": 11.6,
+    "county_fips": 20177,
+    "county_name": "Shawnee",
+    "county_weights": "{\"20177\": 96.2, \"20085\": 3.8}",
+    "county_names_all": "Shawnee|Jackson",
+    "county_fips_all": "20177|20085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

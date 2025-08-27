@@ -1,0 +1,20 @@
+{
+    "zip": 17729,
+    "lat": 41.49798,
+    "lng": -77.74106,
+    "city": "Cross Fork",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 155.0,
+    "density": 0.5,
+    "county_fips": 42105,
+    "county_name": "Potter",
+    "county_weights": "{\"42105\": 71.38, \"42035\": 28.62}",
+    "county_names_all": "Potter|Clinton",
+    "county_fips_all": "42105|42035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

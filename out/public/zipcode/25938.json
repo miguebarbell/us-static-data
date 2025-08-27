@@ -1,0 +1,20 @@
+{
+    "zip": 25938,
+    "lat": 38.15993,
+    "lng": -81.03447,
+    "city": "Victor",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1650.0,
+    "density": 14.7,
+    "county_fips": 54019,
+    "county_name": "Fayette",
+    "county_weights": "{\"54019\": 99.88, \"54067\": 0.12}",
+    "county_names_all": "Fayette|Nicholas",
+    "county_fips_all": "54019|54067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

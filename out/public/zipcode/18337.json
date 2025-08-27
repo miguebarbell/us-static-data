@@ -1,0 +1,20 @@
+{
+    "zip": 18337,
+    "lat": 41.33406,
+    "lng": -74.87342,
+    "city": "Milford",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15517.0,
+    "density": 83.5,
+    "county_fips": 42103,
+    "county_name": "Pike",
+    "county_weights": "{\"42103\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "42103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

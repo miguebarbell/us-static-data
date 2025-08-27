@@ -1,0 +1,20 @@
+{
+    "zip": 12056,
+    "lat": 42.76761,
+    "lng": -74.0905,
+    "city": "Duanesburg",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1818.0,
+    "density": 37.4,
+    "county_fips": 36093,
+    "county_name": "Schenectady",
+    "county_weights": "{\"36093\": 100}",
+    "county_names_all": "Schenectady",
+    "county_fips_all": "36093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 57221,
+    "lat": 44.60654,
+    "lng": -97.44853,
+    "city": "Bryant",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1185.0,
+    "density": 3.9,
+    "county_fips": 46057,
+    "county_name": "Hamlin",
+    "county_weights": "{\"46057\": 73.24, \"46025\": 26.76}",
+    "county_names_all": "Hamlin|Clark",
+    "county_fips_all": "46057|46025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

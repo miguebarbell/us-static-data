@@ -1,0 +1,20 @@
+{
+    "zip": 63349,
+    "lat": 38.97979,
+    "lng": -91.15083,
+    "city": "Hawk Point",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1976.0,
+    "density": 22.9,
+    "county_fips": 29113,
+    "county_name": "Lincoln",
+    "county_weights": "{\"29113\": 90.83, \"29219\": 9.17}",
+    "county_names_all": "Lincoln|Warren",
+    "county_fips_all": "29113|29219",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

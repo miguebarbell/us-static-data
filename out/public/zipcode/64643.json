@@ -1,0 +1,20 @@
+{
+    "zip": 64643,
+    "lat": 39.61366,
+    "lng": -93.36883,
+    "city": "Hale",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1093.0,
+    "density": 3.9,
+    "county_fips": 29033,
+    "county_name": "Carroll",
+    "county_weights": "{\"29033\": 53.96, \"29117\": 46.04}",
+    "county_names_all": "Carroll|Livingston",
+    "county_fips_all": "29033|29117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

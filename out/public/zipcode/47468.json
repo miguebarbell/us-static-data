@@ -1,0 +1,20 @@
+{
+    "zip": 47468,
+    "lat": 39.27801,
+    "lng": -86.40482,
+    "city": "Unionville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1195.0,
+    "density": 15.2,
+    "county_fips": 18105,
+    "county_name": "Monroe",
+    "county_weights": "{\"18105\": 78.14, \"18013\": 21.86}",
+    "county_names_all": "Monroe|Brown",
+    "county_fips_all": "18105|18013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 50586,
+    "lat": 42.40472,
+    "lng": -94.43204,
+    "city": "Somers",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 320.0,
+    "density": 3.8,
+    "county_fips": 19025,
+    "county_name": "Calhoun",
+    "county_weights": "{\"19025\": 93.12, \"19187\": 6.88}",
+    "county_names_all": "Calhoun|Webster",
+    "county_fips_all": "19025|19187",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

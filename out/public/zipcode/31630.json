@@ -1,0 +1,20 @@
+{
+    "zip": 31630,
+    "lat": 30.92354,
+    "lng": -82.85667,
+    "city": "Du Pont",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 733.0,
+    "density": 2.0,
+    "county_fips": 13065,
+    "county_name": "Clinch",
+    "county_weights": "{\"13065\": 82.04, \"13101\": 17.96}",
+    "county_names_all": "Clinch|Echols",
+    "county_fips_all": "13065|13101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

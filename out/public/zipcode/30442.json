@@ -1,0 +1,20 @@
+{
+    "zip": 30442,
+    "lat": 32.81677,
+    "lng": -81.97549,
+    "city": "Millen",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8484.0,
+    "density": 9.3,
+    "county_fips": 13165,
+    "county_name": "Jenkins",
+    "county_weights": "{\"13165\": 88.67, \"13033\": 10.59, \"13251\": 0.74}",
+    "county_names_all": "Jenkins|Burke|Screven",
+    "county_fips_all": "13165|13033|13251",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

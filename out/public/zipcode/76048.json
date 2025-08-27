@@ -1,0 +1,20 @@
+{
+    "zip": 76048,
+    "lat": 32.40791,
+    "lng": -97.80117,
+    "city": "Granbury",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26301.0,
+    "density": 99.9,
+    "county_fips": 48221,
+    "county_name": "Hood",
+    "county_weights": "{\"48221\": 91.76, \"48425\": 8.24}",
+    "county_names_all": "Hood|Somervell",
+    "county_fips_all": "48221|48425",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72539,
+    "lat": 36.33015,
+    "lng": -91.72259,
+    "city": "Glencoe",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 160.0,
+    "density": 3.4,
+    "county_fips": 5049,
+    "county_name": "Fulton",
+    "county_weights": "{\"05049\": 100}",
+    "county_names_all": "Fulton",
+    "county_fips_all": "05049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

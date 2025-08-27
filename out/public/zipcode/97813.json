@@ -1,0 +1,20 @@
+{
+    "zip": 97813,
+    "lat": 45.85305,
+    "lng": -118.52802,
+    "city": "Athena",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1366.0,
+    "density": 9.8,
+    "county_fips": 41059,
+    "county_name": "Umatilla",
+    "county_weights": "{\"41059\": 100}",
+    "county_names_all": "Umatilla",
+    "county_fips_all": "41059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

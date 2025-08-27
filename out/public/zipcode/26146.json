@@ -1,0 +1,20 @@
+{
+    "zip": 26146,
+    "lat": 39.45053,
+    "lng": -81.03601,
+    "city": "Friendly",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1109.0,
+    "density": 9.3,
+    "county_fips": 54095,
+    "county_name": "Tyler",
+    "county_weights": "{\"54095\": 62.72, \"54073\": 37.28}",
+    "county_names_all": "Tyler|Pleasants",
+    "county_fips_all": "54095|54073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 84038,
+    "lat": 41.87926,
+    "lng": -111.29692,
+    "city": "Laketown",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 589.0,
+    "density": 3.5,
+    "county_fips": 49033,
+    "county_name": "Rich",
+    "county_weights": "{\"49033\": 100}",
+    "county_names_all": "Rich",
+    "county_fips_all": "49033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 30511,
+    "lat": 34.45674,
+    "lng": -83.47474,
+    "city": "Baldwin",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3475.0,
+    "density": 41.7,
+    "county_fips": 13011,
+    "county_name": "Banks",
+    "county_weights": "{\"13011\": 92.85, \"13257\": 4.05, \"13137\": 3.1}",
+    "county_names_all": "Banks|Stephens|Habersham",
+    "county_fips_all": "13011|13257|13137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

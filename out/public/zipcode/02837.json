@@ -1,0 +1,20 @@
+{
+    "zip": 2837,
+    "lat": 41.51524,
+    "lng": -71.16455,
+    "city": "Little Compton",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3601.0,
+    "density": 67.7,
+    "county_fips": 44005,
+    "county_name": "Newport",
+    "county_weights": "{\"44005\": 100}",
+    "county_names_all": "Newport",
+    "county_fips_all": "44005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

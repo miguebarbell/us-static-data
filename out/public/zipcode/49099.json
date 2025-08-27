@@ -1,0 +1,20 @@
+{
+    "zip": 49099,
+    "lat": 41.79139,
+    "lng": -85.67437,
+    "city": "White Pigeon",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5699.0,
+    "density": 37.9,
+    "county_fips": 26149,
+    "county_name": "St. Joseph",
+    "county_weights": "{\"26149\": 82.19, \"26027\": 17.81}",
+    "county_names_all": "St. Joseph|Cass",
+    "county_fips_all": "26149|26027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

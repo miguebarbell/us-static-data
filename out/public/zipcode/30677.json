@@ -1,0 +1,20 @@
+{
+    "zip": 30677,
+    "lat": 33.7929,
+    "lng": -83.38186,
+    "city": "Watkinsville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21471.0,
+    "density": 67.8,
+    "county_fips": 13219,
+    "county_name": "Oconee",
+    "county_weights": "{\"13219\": 86.47, \"13133\": 13.53}",
+    "county_names_all": "Oconee|Greene",
+    "county_fips_all": "13219|13133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

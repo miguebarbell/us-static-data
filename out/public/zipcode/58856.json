@@ -1,0 +1,20 @@
+{
+    "zip": 58856,
+    "lat": 48.59123,
+    "lng": -103.72546,
+    "city": "Zahl",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 213.0,
+    "density": 0.4,
+    "county_fips": 38105,
+    "county_name": "Williams",
+    "county_weights": "{\"38105\": 66.32, \"38023\": 33.68}",
+    "county_names_all": "Williams|Divide",
+    "county_fips_all": "38105|38023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

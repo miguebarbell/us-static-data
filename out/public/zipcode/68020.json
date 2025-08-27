@@ -1,0 +1,20 @@
+{
+    "zip": 68020,
+    "lat": 41.9762,
+    "lng": -96.25627,
+    "city": "Decatur",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 655.0,
+    "density": 3.3,
+    "county_fips": 31021,
+    "county_name": "Burt",
+    "county_weights": "{\"31021\": 86.69, \"31173\": 13.31}",
+    "county_names_all": "Burt|Thurston",
+    "county_fips_all": "31021|31173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

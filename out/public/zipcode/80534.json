@@ -1,0 +1,20 @@
+{
+    "zip": 80534,
+    "lat": 40.33192,
+    "lng": -104.93522,
+    "city": "Johnstown",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19696.0,
+    "density": 158.3,
+    "county_fips": 8123,
+    "county_name": "Weld",
+    "county_weights": "{\"08123\": 80.58, \"08069\": 19.42}",
+    "county_names_all": "Weld|Larimer",
+    "county_fips_all": "08123|08069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

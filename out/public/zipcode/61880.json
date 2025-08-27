@@ -1,0 +1,20 @@
+{
+    "zip": 61880,
+    "lat": 39.97482,
+    "lng": -88.2458,
+    "city": "Tolono",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4558.0,
+    "density": 28.5,
+    "county_fips": 17019,
+    "county_name": "Champaign",
+    "county_weights": "{\"17019\": 100}",
+    "county_names_all": "Champaign",
+    "county_fips_all": "17019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

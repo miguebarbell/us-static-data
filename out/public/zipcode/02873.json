@@ -1,0 +1,20 @@
+{
+    "zip": 2873,
+    "lat": 41.5257,
+    "lng": -71.77734,
+    "city": "Rockville",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 89.0,
+    "density": 9.1,
+    "county_fips": 44009,
+    "county_name": "Washington",
+    "county_weights": "{\"44009\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "44009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

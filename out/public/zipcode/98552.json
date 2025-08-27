@@ -1,0 +1,20 @@
+{
+    "zip": 98552,
+    "lat": 47.3136,
+    "lng": -123.9444,
+    "city": "Humptulips",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 207.0,
+    "density": 1.1,
+    "county_fips": 53027,
+    "county_name": "Grays Harbor",
+    "county_weights": "{\"53027\": 100}",
+    "county_names_all": "Grays Harbor",
+    "county_fips_all": "53027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

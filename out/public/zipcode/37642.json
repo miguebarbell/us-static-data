@@ -1,0 +1,20 @@
+{
+    "zip": 37642,
+    "lat": 36.53261,
+    "lng": -82.7267,
+    "city": "Church Hill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14491.0,
+    "density": 99.5,
+    "county_fips": 47073,
+    "county_name": "Hawkins",
+    "county_weights": "{\"47073\": 99.53, \"51169\": 0.47}",
+    "county_names_all": "Hawkins|Scott",
+    "county_fips_all": "47073|51169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

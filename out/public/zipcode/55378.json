@@ -1,0 +1,20 @@
+{
+    "zip": 55378,
+    "lat": 44.75685,
+    "lng": -93.36209,
+    "city": "Savage",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32072.0,
+    "density": 864.6,
+    "county_fips": 27139,
+    "county_name": "Scott",
+    "county_weights": "{\"27139\": 100}",
+    "county_names_all": "Scott",
+    "county_fips_all": "27139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

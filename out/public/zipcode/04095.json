@@ -1,0 +1,20 @@
+{
+    "zip": 4095,
+    "lat": 43.63925,
+    "lng": -70.90749,
+    "city": "West Newfield",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1382.0,
+    "density": 17.5,
+    "county_fips": 23031,
+    "county_name": "York",
+    "county_weights": "{\"23031\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "23031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

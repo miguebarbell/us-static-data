@@ -1,0 +1,20 @@
+{
+    "zip": 69165,
+    "lat": 41.35102,
+    "lng": -101.27268,
+    "city": "Sutherland",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1894.0,
+    "density": 1.4,
+    "county_fips": 31111,
+    "county_name": "Lincoln",
+    "county_weights": "{\"31111\": 50.33, \"31117\": 31.69, \"31005\": 17.98}",
+    "county_names_all": "Lincoln|McPherson|Arthur",
+    "county_fips_all": "31111|31117|31005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

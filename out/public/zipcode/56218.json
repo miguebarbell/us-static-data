@@ -1,0 +1,20 @@
+{
+    "zip": 56218,
+    "lat": 44.82642,
+    "lng": -95.94363,
+    "city": "Boyd",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 463.0,
+    "density": 1.8,
+    "county_fips": 27073,
+    "county_name": "Lac qui Parle",
+    "county_weights": "{\"27073\": 61.71, \"27173\": 38.29}",
+    "county_names_all": "Lac qui Parle|Yellow Medicine",
+    "county_fips_all": "27073|27173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

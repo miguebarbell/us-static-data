@@ -1,0 +1,20 @@
+{
+    "zip": 76401,
+    "lat": 32.27918,
+    "lng": -98.19994,
+    "city": "Stephenville",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30873.0,
+    "density": 29.0,
+    "county_fips": 48143,
+    "county_name": "Erath",
+    "county_weights": "{\"48143\": 100}",
+    "county_names_all": "Erath",
+    "county_fips_all": "48143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

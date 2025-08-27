@@ -1,0 +1,20 @@
+{
+    "zip": 38348,
+    "lat": 35.86893,
+    "lng": -88.65198,
+    "city": "Lavinia",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 987.0,
+    "density": 7.1,
+    "county_fips": 47017,
+    "county_name": "Carroll",
+    "county_weights": "{\"47017\": 98.66, \"47113\": 1.34}",
+    "county_names_all": "Carroll|Madison",
+    "county_fips_all": "47017|47113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

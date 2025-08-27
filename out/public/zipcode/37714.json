@@ -1,0 +1,20 @@
+{
+    "zip": 37714,
+    "lat": 36.26656,
+    "lng": -84.25277,
+    "city": "Caryville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4150.0,
+    "density": 24.9,
+    "county_fips": 47013,
+    "county_name": "Campbell",
+    "county_weights": "{\"47013\": 100}",
+    "county_names_all": "Campbell",
+    "county_fips_all": "47013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

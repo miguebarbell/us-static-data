@@ -1,0 +1,20 @@
+{
+    "zip": 60134,
+    "lat": 41.8784,
+    "lng": -88.34189,
+    "city": "Geneva",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29838.0,
+    "density": 790.8,
+    "county_fips": 17089,
+    "county_name": "Kane",
+    "county_weights": "{\"17089\": 100}",
+    "county_names_all": "Kane",
+    "county_fips_all": "17089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

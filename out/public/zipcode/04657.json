@@ -1,0 +1,20 @@
+{
+    "zip": 4657,
+    "lat": 44.97624,
+    "lng": -67.41965,
+    "city": "Meddybemps",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 313.0,
+    "density": 1.5,
+    "county_fips": 23029,
+    "county_name": "Washington",
+    "county_weights": "{\"23029\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "23029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

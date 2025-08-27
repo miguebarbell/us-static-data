@@ -1,0 +1,20 @@
+{
+    "zip": 45317,
+    "lat": 40.17328,
+    "lng": -84.01971,
+    "city": "Conover",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 838.0,
+    "density": 15.0,
+    "county_fips": 39021,
+    "county_name": "Champaign",
+    "county_weights": "{\"39021\": 48.34, \"39109\": 38.1, \"39149\": 13.56}",
+    "county_names_all": "Champaign|Miami|Shelby",
+    "county_fips_all": "39021|39109|39149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

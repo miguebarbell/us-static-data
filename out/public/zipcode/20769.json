@@ -1,0 +1,20 @@
+{
+    "zip": 20769,
+    "lat": 38.98818,
+    "lng": -76.81635,
+    "city": "Glenn Dale",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7061.0,
+    "density": 419.8,
+    "county_fips": 24033,
+    "county_name": "Prince George's",
+    "county_weights": "{\"24033\": 100}",
+    "county_names_all": "Prince George's",
+    "county_fips_all": "24033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

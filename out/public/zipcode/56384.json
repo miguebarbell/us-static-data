@@ -1,0 +1,20 @@
+{
+    "zip": 56384,
+    "lat": 45.8099,
+    "lng": -94.56759,
+    "city": "Upsala",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 280.0,
+    "density": 107.2,
+    "county_fips": 27097,
+    "county_name": "Morrison",
+    "county_weights": "{\"27097\": 100}",
+    "county_names_all": "Morrison",
+    "county_fips_all": "27097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

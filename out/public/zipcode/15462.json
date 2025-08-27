@@ -1,0 +1,20 @@
+{
+    "zip": 15462,
+    "lat": 40.06136,
+    "lng": -79.38113,
+    "city": "Melcroft",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 49.0,
+    "density": 14.1,
+    "county_fips": 42051,
+    "county_name": "Fayette",
+    "county_weights": "{\"42051\": 100}",
+    "county_names_all": "Fayette",
+    "county_fips_all": "42051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

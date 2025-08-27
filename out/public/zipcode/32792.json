@@ -1,0 +1,20 @@
+{
+    "zip": 32792,
+    "lat": 28.61066,
+    "lng": -81.29923,
+    "city": "Winter Park",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 52794.0,
+    "density": 1682.4,
+    "county_fips": 12117,
+    "county_name": "Seminole",
+    "county_weights": "{\"12117\": 51.71, \"12095\": 48.29}",
+    "county_names_all": "Seminole|Orange",
+    "county_fips_all": "12117|12095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

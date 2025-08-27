@@ -1,0 +1,20 @@
+{
+    "zip": 71360,
+    "lat": 31.31597,
+    "lng": -92.34593,
+    "city": "Pineville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35649.0,
+    "density": 71.3,
+    "county_fips": 22079,
+    "county_name": "Rapides",
+    "county_weights": "{\"22079\": 88.19, \"22009\": 10.7, \"22043\": 1.11}",
+    "county_names_all": "Rapides|Avoyelles|Grant",
+    "county_fips_all": "22079|22009|22043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 38320,
+    "lat": 36.04764,
+    "lng": -88.1095,
+    "city": "Camden",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10470.0,
+    "density": 27.6,
+    "county_fips": 47005,
+    "county_name": "Benton",
+    "county_weights": "{\"47005\": 100}",
+    "county_names_all": "Benton",
+    "county_fips_all": "47005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

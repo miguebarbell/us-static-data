@@ -1,0 +1,20 @@
+{
+    "zip": 75494,
+    "lat": 32.90898,
+    "lng": -95.26126,
+    "city": "Winnsboro",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11685.0,
+    "density": 19.6,
+    "county_fips": 48499,
+    "county_name": "Wood",
+    "county_weights": "{\"48499\": 69.33, \"48159\": 17.5, \"48223\": 10.12, \"48459\": 3.05}",
+    "county_names_all": "Wood|Franklin|Hopkins|Upshur",
+    "county_fips_all": "48499|48159|48223|48459",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

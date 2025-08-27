@@ -1,0 +1,20 @@
+{
+    "zip": 86034,
+    "lat": 35.77145,
+    "lng": -110.138,
+    "city": "Keams Canyon",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1758.0,
+    "density": 1.4,
+    "county_fips": 4017,
+    "county_name": "Navajo",
+    "county_weights": "{\"04017\": 92.61, \"04001\": 7.39}",
+    "county_names_all": "Navajo|Apache",
+    "county_fips_all": "04017|04001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 44214,
+    "lat": 40.95081,
+    "lng": -81.99935,
+    "city": "Burbank",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2362.0,
+    "density": 34.5,
+    "county_fips": 39169,
+    "county_name": "Wayne",
+    "county_weights": "{\"39169\": 85.77, \"39103\": 14.23}",
+    "county_names_all": "Wayne|Medina",
+    "county_fips_all": "39169|39103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

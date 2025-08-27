@@ -1,0 +1,20 @@
+{
+    "zip": 72938,
+    "lat": 35.00665,
+    "lng": -94.38097,
+    "city": "Hartford",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1177.0,
+    "density": 8.7,
+    "county_fips": 5131,
+    "county_name": "Sebastian",
+    "county_weights": "{\"05131\": 100}",
+    "county_names_all": "Sebastian",
+    "county_fips_all": "05131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

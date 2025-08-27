@@ -1,0 +1,20 @@
+{
+    "zip": 27889,
+    "lat": 35.58909,
+    "lng": -77.02386,
+    "city": "Washington",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24568.0,
+    "density": 53.9,
+    "county_fips": 37013,
+    "county_name": "Beaufort",
+    "county_weights": "{\"37013\": 90.25, \"37147\": 7.74, \"37117\": 2.01}",
+    "county_names_all": "Beaufort|Pitt|Martin",
+    "county_fips_all": "37013|37147|37117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

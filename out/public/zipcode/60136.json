@@ -1,0 +1,20 @@
+{
+    "zip": 60136,
+    "lat": 42.1053,
+    "lng": -88.37808,
+    "city": "Gilberts",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8623.0,
+    "density": 449.9,
+    "county_fips": 17089,
+    "county_name": "Kane",
+    "county_weights": "{\"17089\": 100}",
+    "county_names_all": "Kane",
+    "county_fips_all": "17089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 61470,
+    "lat": 40.60613,
+    "lng": -90.50623,
+    "city": "Prairie City",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 509.0,
+    "density": 10.2,
+    "county_fips": 17109,
+    "county_name": "McDonough",
+    "county_weights": "{\"17109\": 100}",
+    "county_names_all": "McDonough",
+    "county_fips_all": "17109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

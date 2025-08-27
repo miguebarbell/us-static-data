@@ -1,0 +1,20 @@
+{
+    "zip": 58060,
+    "lat": 46.26745,
+    "lng": -97.43423,
+    "city": "Milnor",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1116.0,
+    "density": 1.8,
+    "county_fips": 38081,
+    "county_name": "Sargent",
+    "county_weights": "{\"38081\": 58.47, \"38073\": 41.16, \"38077\": 0.37}",
+    "county_names_all": "Sargent|Ransom|Richland",
+    "county_fips_all": "38081|38073|38077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

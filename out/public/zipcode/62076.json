@@ -1,0 +1,20 @@
+{
+    "zip": 62076,
+    "lat": 39.34186,
+    "lng": -89.23383,
+    "city": "Ohlman",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 85.0,
+    "density": 17.6,
+    "county_fips": 17135,
+    "county_name": "Montgomery",
+    "county_weights": "{\"17135\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "17135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

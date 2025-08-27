@@ -1,0 +1,20 @@
+{
+    "zip": 5150,
+    "lat": 43.33653,
+    "lng": -72.52727,
+    "city": "North Springfield",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 418.0,
+    "density": 79.8,
+    "county_fips": 50027,
+    "county_name": "Windsor",
+    "county_weights": "{\"50027\": 100}",
+    "county_names_all": "Windsor",
+    "county_fips_all": "50027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

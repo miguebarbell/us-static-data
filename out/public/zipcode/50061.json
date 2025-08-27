@@ -1,0 +1,20 @@
+{
+    "zip": 50061,
+    "lat": 41.48022,
+    "lng": -93.79343,
+    "city": "Cumming",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2327.0,
+    "density": 29.0,
+    "county_fips": 19121,
+    "county_name": "Madison",
+    "county_weights": "{\"19121\": 51.93, \"19181\": 33.7, \"19049\": 7.44, \"19153\": 6.93}",
+    "county_names_all": "Madison|Warren|Dallas|Polk",
+    "county_fips_all": "19121|19181|19049|19153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 38856,
+    "lat": 34.46835,
+    "lng": -88.44553,
+    "city": "Marietta",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1442.0,
+    "density": 9.5,
+    "county_fips": 28057,
+    "county_name": "Itawamba",
+    "county_weights": "{\"28057\": 54.57, \"28117\": 45.43}",
+    "county_names_all": "Itawamba|Prentiss",
+    "county_fips_all": "28057|28117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

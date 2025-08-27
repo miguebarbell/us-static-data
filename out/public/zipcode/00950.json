@@ -1,0 +1,20 @@
+{
+    "zip": 950,
+    "lat": 18.46201,
+    "lng": -66.23917,
+    "city": "Toa Baja",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 72051,
+    "county_name": "Dorado",
+    "county_weights": "{\"72051\": 99.69, \"72137\": 0.31}",
+    "county_names_all": "Dorado|Toa Baja",
+    "county_fips_all": "72051|72137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

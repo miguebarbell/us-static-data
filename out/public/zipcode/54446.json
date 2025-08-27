@@ -1,0 +1,20 @@
+{
+    "zip": 54446,
+    "lat": 44.7533,
+    "lng": -90.47149,
+    "city": "Loyal",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3446.0,
+    "density": 17.3,
+    "county_fips": 55019,
+    "county_name": "Clark",
+    "county_weights": "{\"55019\": 100}",
+    "county_names_all": "Clark",
+    "county_fips_all": "55019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

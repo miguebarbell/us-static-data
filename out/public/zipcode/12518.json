@@ -1,0 +1,20 @@
+{
+    "zip": 12518,
+    "lat": 41.41847,
+    "lng": -74.03571,
+    "city": "Cornwall",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5728.0,
+    "density": 277.9,
+    "county_fips": 36071,
+    "county_name": "Orange",
+    "county_weights": "{\"36071\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "36071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

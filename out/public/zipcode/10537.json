@@ -1,0 +1,20 @@
+{
+    "zip": 10537,
+    "lat": 41.33784,
+    "lng": -73.88528,
+    "city": "Lake Peekskill",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2418.0,
+    "density": 870.3,
+    "county_fips": 36079,
+    "county_name": "Putnam",
+    "county_weights": "{\"36079\": 81.63, \"36119\": 18.37}",
+    "county_names_all": "Putnam|Westchester",
+    "county_fips_all": "36079|36119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 22847,
+    "lat": 38.71792,
+    "lng": -78.70972,
+    "city": "Quicksburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 700.0,
+    "density": 18.9,
+    "county_fips": 51171,
+    "county_name": "Shenandoah",
+    "county_weights": "{\"51171\": 100}",
+    "county_names_all": "Shenandoah",
+    "county_fips_all": "51171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

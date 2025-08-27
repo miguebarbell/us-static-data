@@ -1,0 +1,20 @@
+{
+    "zip": 30577,
+    "lat": 34.55549,
+    "lng": -83.32632,
+    "city": "Toccoa",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22683.0,
+    "density": 55.7,
+    "county_fips": 13257,
+    "county_name": "Stephens",
+    "county_weights": "{\"13257\": 83.2, \"13119\": 11.09, \"13137\": 4.32, \"13011\": 1.39}",
+    "county_names_all": "Stephens|Franklin|Habersham|Banks",
+    "county_fips_all": "13257|13119|13137|13011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

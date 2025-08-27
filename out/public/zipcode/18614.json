@@ -1,0 +1,20 @@
+{
+    "zip": 18614,
+    "lat": 41.48373,
+    "lng": -76.35768,
+    "city": "Dushore",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1987.0,
+    "density": 5.0,
+    "county_fips": 42113,
+    "county_name": "Sullivan",
+    "county_weights": "{\"42113\": 75.94, \"42131\": 22.4, \"42015\": 1.56, \"42079\": 0.1}",
+    "county_names_all": "Sullivan|Wyoming|Bradford|Luzerne",
+    "county_fips_all": "42113|42131|42015|42079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

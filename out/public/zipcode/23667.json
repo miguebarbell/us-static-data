@@ -1,0 +1,20 @@
+{
+    "zip": 23667,
+    "lat": 37.02081,
+    "lng": -76.33093,
+    "city": "Hampton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 61.0,
+    "density": 259.2,
+    "county_fips": 51650,
+    "county_name": "Hampton",
+    "county_weights": "{\"51650\": 100}",
+    "county_names_all": "Hampton",
+    "county_fips_all": "51650",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

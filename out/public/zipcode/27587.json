@@ -1,0 +1,20 @@
+{
+    "zip": 27587,
+    "lat": 35.98098,
+    "lng": -78.54963,
+    "city": "Wake Forest",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 81902.0,
+    "density": 300.8,
+    "county_fips": 37183,
+    "county_name": "Wake",
+    "county_weights": "{\"37183\": 88.25, \"37077\": 9.18, \"37069\": 2.57}",
+    "county_names_all": "Wake|Granville|Franklin",
+    "county_fips_all": "37183|37077|37069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

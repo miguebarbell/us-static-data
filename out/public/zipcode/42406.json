@@ -1,0 +1,20 @@
+{
+    "zip": 42406,
+    "lat": 37.77792,
+    "lng": -87.74496,
+    "city": "Corydon",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2446.0,
+    "density": 8.6,
+    "county_fips": 21101,
+    "county_name": "Henderson",
+    "county_weights": "{\"21101\": 100}",
+    "county_names_all": "Henderson",
+    "county_fips_all": "21101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

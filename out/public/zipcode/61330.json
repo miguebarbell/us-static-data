@@ -1,0 +1,20 @@
+{
+    "zip": 61330,
+    "lat": 41.53602,
+    "lng": -89.27756,
+    "city": "La Moille",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1238.0,
+    "density": 6.5,
+    "county_fips": 17011,
+    "county_name": "Bureau",
+    "county_weights": "{\"17011\": 91.84, \"17103\": 8.16}",
+    "county_names_all": "Bureau|Lee",
+    "county_fips_all": "17011|17103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

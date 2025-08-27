@@ -1,0 +1,20 @@
+{
+    "zip": 16245,
+    "lat": 41.00153,
+    "lng": -79.29311,
+    "city": "Oak Ridge",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 262.0,
+    "density": 77.4,
+    "county_fips": 42005,
+    "county_name": "Armstrong",
+    "county_weights": "{\"42005\": 99.85, \"42031\": 0.15}",
+    "county_names_all": "Armstrong|Clarion",
+    "county_fips_all": "42005|42031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

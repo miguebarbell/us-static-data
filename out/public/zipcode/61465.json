@@ -1,0 +1,20 @@
+{
+    "zip": 61465,
+    "lat": 41.20618,
+    "lng": -90.46744,
+    "city": "New Windsor",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1251.0,
+    "density": 11.9,
+    "county_fips": 17131,
+    "county_name": "Mercer",
+    "county_weights": "{\"17131\": 84.29, \"17073\": 15.71}",
+    "county_names_all": "Mercer|Henry",
+    "county_fips_all": "17131|17073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

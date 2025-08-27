@@ -1,0 +1,20 @@
+{
+    "zip": 73726,
+    "lat": 36.58022,
+    "lng": -98.50405,
+    "city": "Carmen",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 445.0,
+    "density": 1.8,
+    "county_fips": 40003,
+    "county_name": "Alfalfa",
+    "county_weights": "{\"40003\": 60.11, \"40151\": 39.89}",
+    "county_names_all": "Alfalfa|Woods",
+    "county_fips_all": "40003|40151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

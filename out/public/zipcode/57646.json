@@ -1,0 +1,20 @@
+{
+    "zip": 57646,
+    "lat": 45.68753,
+    "lng": -100.05395,
+    "city": "Mound City",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 248.0,
+    "density": 0.7,
+    "county_fips": 46021,
+    "county_name": "Campbell",
+    "county_weights": "{\"46021\": 100}",
+    "county_names_all": "Campbell",
+    "county_fips_all": "46021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

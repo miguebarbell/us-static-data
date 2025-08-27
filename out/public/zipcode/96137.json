@@ -1,0 +1,20 @@
+{
+    "zip": 96137,
+    "lat": 40.38554,
+    "lng": -121.12478,
+    "city": "Westwood",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2717.0,
+    "density": 7.4,
+    "county_fips": 6035,
+    "county_name": "Lassen",
+    "county_weights": "{\"06035\": 59.78, \"06063\": 40.22}",
+    "county_names_all": "Lassen|Plumas",
+    "county_fips_all": "06035|06063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

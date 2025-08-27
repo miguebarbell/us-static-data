@@ -1,0 +1,20 @@
+{
+    "zip": 76043,
+    "lat": 32.20039,
+    "lng": -97.76129,
+    "city": "Glen Rose",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7286.0,
+    "density": 25.5,
+    "county_fips": 48425,
+    "county_name": "Somervell",
+    "county_weights": "{\"48425\": 81.82, \"48035\": 18.18}",
+    "county_names_all": "Somervell|Bosque",
+    "county_fips_all": "48425|48035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

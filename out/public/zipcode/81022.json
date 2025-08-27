@@ -1,0 +1,20 @@
+{
+    "zip": 81022,
+    "lat": 38.03279,
+    "lng": -104.43768,
+    "city": "Avondale",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1351.0,
+    "density": 1.4,
+    "county_fips": 8101,
+    "county_name": "Pueblo",
+    "county_weights": "{\"08101\": 100}",
+    "county_names_all": "Pueblo",
+    "county_fips_all": "08101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

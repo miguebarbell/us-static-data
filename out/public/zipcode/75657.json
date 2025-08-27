@@ -1,0 +1,20 @@
+{
+    "zip": 75657,
+    "lat": 32.79437,
+    "lng": -94.30498,
+    "city": "Jefferson",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6842.0,
+    "density": 7.7,
+    "county_fips": 48315,
+    "county_name": "Marion",
+    "county_weights": "{\"48315\": 88.02, \"48067\": 7.17, \"48203\": 4.81}",
+    "county_names_all": "Marion|Cass|Harrison",
+    "county_fips_all": "48315|48067|48203",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 31083,
+    "lat": 32.04473,
+    "lng": -82.81957,
+    "city": "Scotland",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 217.0,
+    "density": 102.7,
+    "county_fips": 13271,
+    "county_name": "Telfair",
+    "county_weights": "{\"13271\": 100}",
+    "county_names_all": "Telfair",
+    "county_fips_all": "13271",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

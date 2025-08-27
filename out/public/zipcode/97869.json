@@ -1,0 +1,20 @@
+{
+    "zip": 97869,
+    "lat": 44.37993,
+    "lng": -118.61425,
+    "city": "Prairie City",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 919.0,
+    "density": 1.2,
+    "county_fips": 41023,
+    "county_name": "Grant",
+    "county_weights": "{\"41023\": 92.15, \"41001\": 7.85}",
+    "county_names_all": "Grant|Baker",
+    "county_fips_all": "41023|41001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

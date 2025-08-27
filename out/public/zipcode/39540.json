@@ -1,0 +1,20 @@
+{
+    "zip": 39540,
+    "lat": 30.47108,
+    "lng": -88.90088,
+    "city": "Diberville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13033.0,
+    "density": 442.0,
+    "county_fips": 28047,
+    "county_name": "Harrison",
+    "county_weights": "{\"28047\": 100}",
+    "county_names_all": "Harrison",
+    "county_fips_all": "28047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

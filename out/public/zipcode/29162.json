@@ -1,0 +1,20 @@
+{
+    "zip": 29162,
+    "lat": 33.88751,
+    "lng": -80.00865,
+    "city": "Turbeville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3575.0,
+    "density": 40.9,
+    "county_fips": 45027,
+    "county_name": "Clarendon",
+    "county_weights": "{\"45027\": 96.53, \"45085\": 3.47}",
+    "county_names_all": "Clarendon|Sumter",
+    "county_fips_all": "45027|45085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

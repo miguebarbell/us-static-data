@@ -1,0 +1,20 @@
+{
+    "zip": 52050,
+    "lat": 42.60532,
+    "lng": -91.33204,
+    "city": "Greeley",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 477.0,
+    "density": 5.8,
+    "county_fips": 19055,
+    "county_name": "Delaware",
+    "county_weights": "{\"19055\": 88.26, \"19043\": 11.74}",
+    "county_names_all": "Delaware|Clayton",
+    "county_fips_all": "19055|19043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

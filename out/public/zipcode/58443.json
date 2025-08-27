@@ -1,0 +1,20 @@
+{
+    "zip": 58443,
+    "lat": 47.46374,
+    "lng": -98.67239,
+    "city": "Glenfield",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 116.0,
+    "density": 0.4,
+    "county_fips": 38031,
+    "county_name": "Foster",
+    "county_weights": "{\"38031\": 100}",
+    "county_names_all": "Foster",
+    "county_fips_all": "38031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

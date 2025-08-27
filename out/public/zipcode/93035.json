@@ -1,0 +1,20 @@
+{
+    "zip": 93035,
+    "lat": 34.19034,
+    "lng": -119.22879,
+    "city": "Oxnard",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26476.0,
+    "density": 2032.8,
+    "county_fips": 6111,
+    "county_name": "Ventura",
+    "county_weights": "{\"06111\": 100}",
+    "county_names_all": "Ventura",
+    "county_fips_all": "06111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

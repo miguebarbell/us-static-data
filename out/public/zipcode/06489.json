@@ -1,0 +1,20 @@
+{
+    "zip": 6489,
+    "lat": 41.61312,
+    "lng": -72.87233,
+    "city": "Southington",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32444.0,
+    "density": 452.0,
+    "county_fips": 9110,
+    "county_name": "Capitol",
+    "county_weights": "{\"09110\": 100}",
+    "county_names_all": "Capitol",
+    "county_fips_all": "09110",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

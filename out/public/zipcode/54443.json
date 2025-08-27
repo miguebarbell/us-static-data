@@ -1,0 +1,20 @@
+{
+    "zip": 54443,
+    "lat": 44.61243,
+    "lng": -89.75264,
+    "city": "Junction City",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2111.0,
+    "density": 9.1,
+    "county_fips": 55097,
+    "county_name": "Portage",
+    "county_weights": "{\"55097\": 99.1, \"55141\": 0.8, \"55073\": 0.1}",
+    "county_names_all": "Portage|Wood|Marathon",
+    "county_fips_all": "55097|55141|55073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

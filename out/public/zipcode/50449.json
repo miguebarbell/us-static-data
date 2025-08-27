@@ -1,0 +1,20 @@
+{
+    "zip": 50449,
+    "lat": 43.00129,
+    "lng": -93.55629,
+    "city": "Klemme",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 816.0,
+    "density": 7.7,
+    "county_fips": 19081,
+    "county_name": "Hancock",
+    "county_weights": "{\"19081\": 90.12, \"19033\": 9.88}",
+    "county_names_all": "Hancock|Cerro Gordo",
+    "county_fips_all": "19081|19033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

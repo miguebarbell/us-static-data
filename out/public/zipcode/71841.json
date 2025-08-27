@@ -1,0 +1,20 @@
+{
+    "zip": 71841,
+    "lat": 34.1639,
+    "lng": -94.34718,
+    "city": "Gillham",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 655.0,
+    "density": 3.9,
+    "county_fips": 5133,
+    "county_name": "Sevier",
+    "county_weights": "{\"05133\": 87.35, \"05113\": 12.65}",
+    "county_names_all": "Sevier|Polk",
+    "county_fips_all": "05133|05113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

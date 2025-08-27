@@ -1,0 +1,20 @@
+{
+    "zip": 16322,
+    "lat": 41.60567,
+    "lng": -79.38428,
+    "city": "Endeavor",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 117.0,
+    "density": 12.4,
+    "county_fips": 42053,
+    "county_name": "Forest",
+    "county_weights": "{\"42053\": 99.42, \"42123\": 0.58}",
+    "county_names_all": "Forest|Warren",
+    "county_fips_all": "42053|42123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

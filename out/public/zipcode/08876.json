@@ -1,0 +1,20 @@
+{
+    "zip": 8876,
+    "lat": 40.58925,
+    "lng": -74.68871,
+    "city": "Somerville",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22902.0,
+    "density": 552.7,
+    "county_fips": 34035,
+    "county_name": "Somerset",
+    "county_weights": "{\"34035\": 85.92, \"34019\": 14.08}",
+    "county_names_all": "Somerset|Hunterdon",
+    "county_fips_all": "34035|34019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

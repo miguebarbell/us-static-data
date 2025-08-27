@@ -1,0 +1,20 @@
+{
+    "zip": 55705,
+    "lat": 47.46789,
+    "lng": -92.24446,
+    "city": "Aurora",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3248.0,
+    "density": 15.0,
+    "county_fips": 27137,
+    "county_name": "St. Louis",
+    "county_weights": "{\"27137\": 100}",
+    "county_names_all": "St. Louis",
+    "county_fips_all": "27137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

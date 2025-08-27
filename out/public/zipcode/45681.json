@@ -1,0 +1,20 @@
+{
+    "zip": 45681,
+    "lat": 39.30551,
+    "lng": -83.24807,
+    "city": "South Salem",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1440.0,
+    "density": 15.4,
+    "county_fips": 39141,
+    "county_name": "Ross",
+    "county_weights": "{\"39141\": 100}",
+    "county_names_all": "Ross",
+    "county_fips_all": "39141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

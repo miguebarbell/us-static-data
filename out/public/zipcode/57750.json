@@ -1,0 +1,20 @@
+{
+    "zip": 57750,
+    "lat": 43.60109,
+    "lng": -101.94858,
+    "city": "Interior",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 286.0,
+    "density": 0.3,
+    "county_fips": 46071,
+    "county_name": "Jackson",
+    "county_weights": "{\"46071\": 97.99, \"46103\": 2.01}",
+    "county_names_all": "Jackson|Pennington",
+    "county_fips_all": "46071|46103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

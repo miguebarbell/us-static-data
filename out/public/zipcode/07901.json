@@ -1,0 +1,20 @@
+{
+    "zip": 7901,
+    "lat": 40.71462,
+    "lng": -74.36604,
+    "city": "Summit",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24502.0,
+    "density": 1493.8,
+    "county_fips": 34039,
+    "county_name": "Union",
+    "county_weights": "{\"34039\": 100}",
+    "county_names_all": "Union",
+    "county_fips_all": "34039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

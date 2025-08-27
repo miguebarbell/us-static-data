@@ -1,0 +1,20 @@
+{
+    "zip": 794,
+    "lat": 18.19934,
+    "lng": -66.31179,
+    "city": "Barranquitas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28450.0,
+    "density": 320.1,
+    "county_fips": 72019,
+    "county_name": "Barranquitas",
+    "county_weights": "{\"72019\": 96.51, \"72043\": 3.49}",
+    "county_names_all": "Barranquitas|Coamo",
+    "county_fips_all": "72019|72043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

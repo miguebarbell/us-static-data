@@ -1,0 +1,20 @@
+{
+    "zip": 74039,
+    "lat": 35.89822,
+    "lng": -96.22842,
+    "city": "Kellyville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3961.0,
+    "density": 22.5,
+    "county_fips": 40037,
+    "county_name": "Creek",
+    "county_weights": "{\"40037\": 100}",
+    "county_names_all": "Creek",
+    "county_fips_all": "40037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

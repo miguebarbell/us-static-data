@@ -1,0 +1,20 @@
+{
+    "zip": 44802,
+    "lat": 41.04534,
+    "lng": -83.41912,
+    "city": "Alvada",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 919.0,
+    "density": 12.8,
+    "county_fips": 39147,
+    "county_name": "Seneca",
+    "county_weights": "{\"39147\": 50.93, \"39063\": 49.07}",
+    "county_names_all": "Seneca|Hancock",
+    "county_fips_all": "39147|39063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 66961,
+    "lat": 39.69337,
+    "lng": -97.77559,
+    "city": "Norway",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6.0,
+    "density": 1.4,
+    "county_fips": 20157,
+    "county_name": "Republic",
+    "county_weights": "{\"20157\": 100}",
+    "county_names_all": "Republic",
+    "county_fips_all": "20157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

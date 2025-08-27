@@ -1,0 +1,20 @@
+{
+    "zip": 65037,
+    "lat": 38.23845,
+    "lng": -92.85749,
+    "city": "Gravois Mills",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5337.0,
+    "density": 26.0,
+    "county_fips": 29141,
+    "county_name": "Morgan",
+    "county_weights": "{\"29141\": 85.53, \"29029\": 14.47}",
+    "county_names_all": "Morgan|Camden",
+    "county_fips_all": "29141|29029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

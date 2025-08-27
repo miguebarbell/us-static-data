@@ -1,0 +1,20 @@
+{
+    "zip": 75432,
+    "lat": 33.38912,
+    "lng": -95.66804,
+    "city": "Cooper",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3299.0,
+    "density": 12.3,
+    "county_fips": 48119,
+    "county_name": "Delta",
+    "county_weights": "{\"48119\": 100}",
+    "county_names_all": "Delta",
+    "county_fips_all": "48119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

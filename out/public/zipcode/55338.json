@@ -1,0 +1,20 @@
+{
+    "zip": 55338,
+    "lat": 44.66996,
+    "lng": -93.99688,
+    "city": "Green Isle",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1002.0,
+    "density": 9.5,
+    "county_fips": 27143,
+    "county_name": "Sibley",
+    "county_weights": "{\"27143\": 100}",
+    "county_names_all": "Sibley",
+    "county_fips_all": "27143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

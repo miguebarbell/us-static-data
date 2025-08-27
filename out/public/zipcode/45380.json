@@ -1,0 +1,20 @@
+{
+    "zip": 45380,
+    "lat": 40.24511,
+    "lng": -84.51314,
+    "city": "Versailles",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5552.0,
+    "density": 31.1,
+    "county_fips": 39037,
+    "county_name": "Darke",
+    "county_weights": "{\"39037\": 98.93, \"39149\": 1.07}",
+    "county_names_all": "Darke|Shelby",
+    "county_fips_all": "39037|39149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 92655,
+    "lat": 33.74606,
+    "lng": -117.98765,
+    "city": "Midway City",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8101.0,
+    "density": 3463.5,
+    "county_fips": 6059,
+    "county_name": "Orange",
+    "county_weights": "{\"06059\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "06059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

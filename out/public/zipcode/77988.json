@@ -1,0 +1,20 @@
+{
+    "zip": 77988,
+    "lat": 28.84701,
+    "lng": -96.87547,
+    "city": "Telferner",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 360.0,
+    "density": 52.2,
+    "county_fips": 48469,
+    "county_name": "Victoria",
+    "county_weights": "{\"48469\": 100}",
+    "county_names_all": "Victoria",
+    "county_fips_all": "48469",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

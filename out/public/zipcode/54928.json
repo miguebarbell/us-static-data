@@ -1,0 +1,20 @@
+{
+    "zip": 54928,
+    "lat": 44.73894,
+    "lng": -88.88546,
+    "city": "Caroline",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 536.0,
+    "density": 18.7,
+    "county_fips": 55115,
+    "county_name": "Shawano",
+    "county_weights": "{\"55115\": 100}",
+    "county_names_all": "Shawano",
+    "county_fips_all": "55115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

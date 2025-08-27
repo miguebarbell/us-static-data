@@ -1,0 +1,20 @@
+{
+    "zip": 22406,
+    "lat": 38.39964,
+    "lng": -77.55596,
+    "city": "Fredericksburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26248.0,
+    "density": 139.4,
+    "county_fips": 51179,
+    "county_name": "Stafford",
+    "county_weights": "{\"51179\": 95.39, \"51061\": 4.61}",
+    "county_names_all": "Stafford|Fauquier",
+    "county_fips_all": "51179|51061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

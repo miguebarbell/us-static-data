@@ -1,0 +1,20 @@
+{
+    "zip": 87024,
+    "lat": 35.6765,
+    "lng": -106.75031,
+    "city": "Jemez Pueblo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2792.0,
+    "density": 8.2,
+    "county_fips": 35043,
+    "county_name": "Sandoval",
+    "county_weights": "{\"35043\": 100}",
+    "county_names_all": "Sandoval",
+    "county_fips_all": "35043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

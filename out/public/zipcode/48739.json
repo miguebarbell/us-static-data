@@ -1,0 +1,20 @@
+{
+    "zip": 48739,
+    "lat": 44.37597,
+    "lng": -83.83238,
+    "city": "Hale",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3511.0,
+    "density": 14.1,
+    "county_fips": 26069,
+    "county_name": "Iosco",
+    "county_weights": "{\"26069\": 70.54, \"26129\": 29.46}",
+    "county_names_all": "Iosco|Ogemaw",
+    "county_fips_all": "26069|26129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

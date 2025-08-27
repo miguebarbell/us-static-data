@@ -1,0 +1,20 @@
+{
+    "zip": 30420,
+    "lat": 32.30363,
+    "lng": -82.12958,
+    "city": "Cobbtown",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1521.0,
+    "density": 8.8,
+    "county_fips": 13043,
+    "county_name": "Candler",
+    "county_weights": "{\"13043\": 57.61, \"13267\": 41.65, \"13109\": 0.74}",
+    "county_names_all": "Candler|Tattnall|Evans",
+    "county_fips_all": "13043|13267|13109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

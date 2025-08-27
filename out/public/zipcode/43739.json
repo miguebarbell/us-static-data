@@ -1,0 +1,20 @@
+{
+    "zip": 43739,
+    "lat": 39.90693,
+    "lng": -82.29025,
+    "city": "Glenford",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2743.0,
+    "density": 30.4,
+    "county_fips": 39127,
+    "county_name": "Perry",
+    "county_weights": "{\"39127\": 63.83, \"39089\": 36.17}",
+    "county_names_all": "Perry|Licking",
+    "county_fips_all": "39127|39089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

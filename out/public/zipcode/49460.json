@@ -1,0 +1,20 @@
+{
+    "zip": 49460,
+    "lat": 42.93473,
+    "lng": -86.1429,
+    "city": "West Olive",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8891.0,
+    "density": 66.3,
+    "county_fips": 26139,
+    "county_name": "Ottawa",
+    "county_weights": "{\"26139\": 100}",
+    "county_names_all": "Ottawa",
+    "county_fips_all": "26139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

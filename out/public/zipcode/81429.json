@@ -1,0 +1,20 @@
+{
+    "zip": 81429,
+    "lat": 38.34121,
+    "lng": -108.90732,
+    "city": "Paradox",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 115.0,
+    "density": 0.2,
+    "county_fips": 8085,
+    "county_name": "Montrose",
+    "county_weights": "{\"08085\": 99.87, \"08113\": 0.13}",
+    "county_names_all": "Montrose|San Miguel",
+    "county_fips_all": "08085|08113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

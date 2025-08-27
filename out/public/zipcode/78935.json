@@ -1,0 +1,20 @@
+{
+    "zip": 78935,
+    "lat": 29.68797,
+    "lng": -96.43006,
+    "city": "Alleyton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 650.0,
+    "density": 4.0,
+    "county_fips": 48089,
+    "county_name": "Colorado",
+    "county_weights": "{\"48089\": 100}",
+    "county_names_all": "Colorado",
+    "county_fips_all": "48089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

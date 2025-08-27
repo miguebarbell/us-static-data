@@ -1,0 +1,20 @@
+{
+    "zip": 80498,
+    "lat": 39.7794,
+    "lng": -106.22338,
+    "city": "Silverthorne",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9192.0,
+    "density": 12.0,
+    "county_fips": 8117,
+    "county_name": "Summit",
+    "county_weights": "{\"08117\": 93.82, \"08049\": 6.18}",
+    "county_names_all": "Summit|Grand",
+    "county_fips_all": "08117|08049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

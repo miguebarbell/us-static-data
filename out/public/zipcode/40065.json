@@ -1,0 +1,20 @@
+{
+    "zip": 40065,
+    "lat": 38.21225,
+    "lng": -85.20734,
+    "city": "Shelbyville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31763.0,
+    "density": 73.2,
+    "county_fips": 21211,
+    "county_name": "Shelby",
+    "county_weights": "{\"21211\": 99.53, \"21215\": 0.47}",
+    "county_names_all": "Shelby|Spencer",
+    "county_fips_all": "21211|21215",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

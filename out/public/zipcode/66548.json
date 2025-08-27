@@ -1,0 +1,20 @@
+{
+    "zip": 66548,
+    "lat": 39.67551,
+    "lng": -96.76146,
+    "city": "Waterville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 924.0,
+    "density": 4.4,
+    "county_fips": 20117,
+    "county_name": "Marshall",
+    "county_weights": "{\"20117\": 95.17, \"20201\": 2.49, \"20161\": 2.34}",
+    "county_names_all": "Marshall|Washington|Riley",
+    "county_fips_all": "20117|20201|20161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

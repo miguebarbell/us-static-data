@@ -1,0 +1,20 @@
+{
+    "zip": 43843,
+    "lat": 40.33485,
+    "lng": -82.17711,
+    "city": "Walhonding",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 577.0,
+    "density": 5.0,
+    "county_fips": 39031,
+    "county_name": "Coshocton",
+    "county_weights": "{\"39031\": 71.28, \"39083\": 28.72}",
+    "county_names_all": "Coshocton|Knox",
+    "county_fips_all": "39031|39083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 35053,
+    "lat": 34.05495,
+    "lng": -87.06527,
+    "city": "Crane Hill",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2890.0,
+    "density": 22.6,
+    "county_fips": 1043,
+    "county_name": "Cullman",
+    "county_weights": "{\"01043\": 90.97, \"01133\": 9.03}",
+    "county_names_all": "Cullman|Winston",
+    "county_fips_all": "01043|01133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

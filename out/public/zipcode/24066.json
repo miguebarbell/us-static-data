@@ -1,0 +1,20 @@
+{
+    "zip": 24066,
+    "lat": 37.5382,
+    "lng": -79.67822,
+    "city": "Buchanan",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5234.0,
+    "density": 12.8,
+    "county_fips": 51023,
+    "county_name": "Botetourt",
+    "county_weights": "{\"51023\": 98.35, \"51163\": 1.65}",
+    "county_names_all": "Botetourt|Rockbridge",
+    "county_fips_all": "51023|51163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 38925,
+    "lat": 33.62917,
+    "lng": -89.61961,
+    "city": "Duck Hill",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1839.0,
+    "density": 4.5,
+    "county_fips": 28097,
+    "county_name": "Montgomery",
+    "county_weights": "{\"28097\": 78.36, \"28043\": 11.35, \"28155\": 10.29}",
+    "county_names_all": "Montgomery|Grenada|Webster",
+    "county_fips_all": "28097|28043|28155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

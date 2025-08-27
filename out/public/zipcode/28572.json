@@ -1,0 +1,20 @@
+{
+    "zip": 28572,
+    "lat": 35.02256,
+    "lng": -77.72637,
+    "city": "Pink Hill",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6080.0,
+    "density": 21.3,
+    "county_fips": 37061,
+    "county_name": "Duplin",
+    "county_weights": "{\"37061\": 52.5, \"37107\": 26.74, \"37103\": 20.43, \"37133\": 0.33}",
+    "county_names_all": "Duplin|Lenoir|Jones|Onslow",
+    "county_fips_all": "37061|37107|37103|37133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

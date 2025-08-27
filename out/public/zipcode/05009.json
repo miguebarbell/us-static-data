@@ -1,0 +1,20 @@
+{
+    "zip": 5009,
+    "lat": 43.64769,
+    "lng": -72.34395,
+    "city": "White River Junction",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 50027,
+    "county_name": "Windsor",
+    "county_weights": "{\"50027\": 100}",
+    "county_names_all": "Windsor",
+    "county_fips_all": "50027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

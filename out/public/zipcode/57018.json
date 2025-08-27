@@ -1,0 +1,20 @@
+{
+    "zip": 57018,
+    "lat": 43.79995,
+    "lng": -96.97901,
+    "city": "Colton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1400.0,
+    "density": 6.4,
+    "county_fips": 46099,
+    "county_name": "Minnehaha",
+    "county_weights": "{\"46099\": 96.5, \"46079\": 3.5}",
+    "county_names_all": "Minnehaha|Lake",
+    "county_fips_all": "46099|46079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

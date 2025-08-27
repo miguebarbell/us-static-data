@@ -1,0 +1,20 @@
+{
+    "zip": 20667,
+    "lat": 38.21782,
+    "lng": -76.44537,
+    "city": "Park Hall",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 98.0,
+    "density": 15.9,
+    "county_fips": 24037,
+    "county_name": "St. Mary's",
+    "county_weights": "{\"24037\": 100}",
+    "county_names_all": "St. Mary's",
+    "county_fips_all": "24037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 54210,
+    "lat": 45.2535,
+    "lng": -87.0352,
+    "city": "Ellison Bay",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 893.0,
+    "density": 13.0,
+    "county_fips": 55029,
+    "county_name": "Door",
+    "county_weights": "{\"55029\": 100}",
+    "county_names_all": "Door",
+    "county_fips_all": "55029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

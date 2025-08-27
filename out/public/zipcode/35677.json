@@ -1,0 +1,20 @@
+{
+    "zip": 35677,
+    "lat": 34.95367,
+    "lng": -88.02529,
+    "city": "Waterloo",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1874.0,
+    "density": 6.6,
+    "county_fips": 1077,
+    "county_name": "Lauderdale",
+    "county_weights": "{\"01077\": 100}",
+    "county_names_all": "Lauderdale",
+    "county_fips_all": "01077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

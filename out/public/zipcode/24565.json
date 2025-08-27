@@ -1,0 +1,20 @@
+{
+    "zip": 24565,
+    "lat": 36.85259,
+    "lng": -79.18588,
+    "city": "Java",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1059.0,
+    "density": 7.0,
+    "county_fips": 51143,
+    "county_name": "Pittsylvania",
+    "county_weights": "{\"51143\": 83.81, \"51083\": 16.19}",
+    "county_names_all": "Pittsylvania|Halifax",
+    "county_fips_all": "51143|51083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

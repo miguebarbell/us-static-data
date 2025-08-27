@@ -1,0 +1,20 @@
+{
+    "zip": 52218,
+    "lat": 42.2946,
+    "lng": -91.53826,
+    "city": "Coggon",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1700.0,
+    "density": 8.7,
+    "county_fips": 19113,
+    "county_name": "Linn",
+    "county_weights": "{\"19113\": 55.76, \"19019\": 24.15, \"19055\": 20.09}",
+    "county_names_all": "Linn|Buchanan|Delaware",
+    "county_fips_all": "19113|19019|19055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

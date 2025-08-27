@@ -1,0 +1,20 @@
+{
+    "zip": 79336,
+    "lat": 33.59962,
+    "lng": -102.40214,
+    "city": "Levelland",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15265.0,
+    "density": 12.2,
+    "county_fips": 48219,
+    "county_name": "Hockley",
+    "county_weights": "{\"48219\": 97.56, \"48079\": 2.44}",
+    "county_names_all": "Hockley|Cochran",
+    "county_fips_all": "48219|48079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

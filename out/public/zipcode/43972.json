@@ -1,0 +1,20 @@
+{
+    "zip": 43972,
+    "lat": 40.10164,
+    "lng": -80.9749,
+    "city": "Bannock",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 104.0,
+    "density": 304.9,
+    "county_fips": 39013,
+    "county_name": "Belmont",
+    "county_weights": "{\"39013\": 100}",
+    "county_names_all": "Belmont",
+    "county_fips_all": "39013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

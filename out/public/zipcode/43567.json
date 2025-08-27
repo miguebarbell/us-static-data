@@ -1,0 +1,20 @@
+{
+    "zip": 43567,
+    "lat": 41.57592,
+    "lng": -84.15248,
+    "city": "Wauseon",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12879.0,
+    "density": 43.5,
+    "county_fips": 39051,
+    "county_name": "Fulton",
+    "county_weights": "{\"39051\": 98.51, \"39069\": 1.49}",
+    "county_names_all": "Fulton|Henry",
+    "county_fips_all": "39051|39069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

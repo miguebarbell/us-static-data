@@ -1,0 +1,20 @@
+{
+    "zip": 41003,
+    "lat": 38.53181,
+    "lng": -84.39164,
+    "city": "Berry",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2891.0,
+    "density": 12.6,
+    "county_fips": 21097,
+    "county_name": "Harrison",
+    "county_weights": "{\"21097\": 73.93, \"21191\": 20.74, \"21081\": 5.33}",
+    "county_names_all": "Harrison|Pendleton|Grant",
+    "county_fips_all": "21097|21191|21081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

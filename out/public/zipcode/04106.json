@@ -1,0 +1,20 @@
+{
+    "zip": 4106,
+    "lat": 43.63081,
+    "lng": -70.28972,
+    "city": "South Portland",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26966.0,
+    "density": 855.5,
+    "county_fips": 23005,
+    "county_name": "Cumberland",
+    "county_weights": "{\"23005\": 100}",
+    "county_names_all": "Cumberland",
+    "county_fips_all": "23005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

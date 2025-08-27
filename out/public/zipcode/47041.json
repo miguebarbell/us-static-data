@@ -1,0 +1,20 @@
+{
+    "zip": 47041,
+    "lat": 39.23432,
+    "lng": -85.0797,
+    "city": "Sunman",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6148.0,
+    "density": 30.5,
+    "county_fips": 18029,
+    "county_name": "Dearborn",
+    "county_weights": "{\"18029\": 51.21, \"18137\": 46.87, \"18047\": 1.92}",
+    "county_names_all": "Dearborn|Ripley|Franklin",
+    "county_fips_all": "18029|18137|18047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

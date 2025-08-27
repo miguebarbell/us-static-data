@@ -1,0 +1,20 @@
+{
+    "zip": 97396,
+    "lat": 45.11528,
+    "lng": -123.5275,
+    "city": "Willamina",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3447.0,
+    "density": 24.4,
+    "county_fips": 41071,
+    "county_name": "Yamhill",
+    "county_weights": "{\"41071\": 75.5, \"41053\": 24.5}",
+    "county_names_all": "Yamhill|Polk",
+    "county_fips_all": "41071|41053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 74023,
+    "lat": 35.95708,
+    "lng": -96.74963,
+    "city": "Cushing",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12097.0,
+    "density": 27.0,
+    "county_fips": 40119,
+    "county_name": "Payne",
+    "county_weights": "{\"40119\": 59.16, \"40081\": 40.84}",
+    "county_names_all": "Payne|Lincoln",
+    "county_fips_all": "40119|40081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49925,
+    "lat": 46.55088,
+    "lng": -89.37681,
+    "city": "Ewen",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 643.0,
+    "density": 1.4,
+    "county_fips": 26131,
+    "county_name": "Ontonagon",
+    "county_weights": "{\"26131\": 100}",
+    "county_names_all": "Ontonagon",
+    "county_fips_all": "26131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

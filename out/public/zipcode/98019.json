@@ -1,0 +1,20 @@
+{
+    "zip": 98019,
+    "lat": 47.74083,
+    "lng": -121.93494,
+    "city": "Duvall",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11712.0,
+    "density": 126.8,
+    "county_fips": 53033,
+    "county_name": "King",
+    "county_weights": "{\"53033\": 100}",
+    "county_names_all": "King",
+    "county_fips_all": "53033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

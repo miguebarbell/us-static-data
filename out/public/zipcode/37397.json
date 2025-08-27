@@ -1,0 +1,20 @@
+{
+    "zip": 37397,
+    "lat": 35.21046,
+    "lng": -85.51819,
+    "city": "Whitwell",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10044.0,
+    "density": 26.0,
+    "county_fips": 47115,
+    "county_name": "Marion",
+    "county_weights": "{\"47115\": 84.65, \"47153\": 15.35}",
+    "county_names_all": "Marion|Sequatchie",
+    "county_fips_all": "47115|47153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

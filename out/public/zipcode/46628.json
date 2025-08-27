@@ -1,0 +1,20 @@
+{
+    "zip": 46628,
+    "lat": 41.72103,
+    "lng": -86.33465,
+    "city": "South Bend",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27929.0,
+    "density": 315.5,
+    "county_fips": 18141,
+    "county_name": "St. Joseph",
+    "county_weights": "{\"18141\": 100}",
+    "county_names_all": "St. Joseph",
+    "county_fips_all": "18141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

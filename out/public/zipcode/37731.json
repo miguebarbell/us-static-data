@@ -1,0 +1,20 @@
+{
+    "zip": 37731,
+    "lat": 36.54383,
+    "lng": -83.00873,
+    "city": "Eidson",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 756.0,
+    "density": 5.9,
+    "county_fips": 47073,
+    "county_name": "Hawkins",
+    "county_weights": "{\"47073\": 50.11, \"47067\": 49.89}",
+    "county_names_all": "Hawkins|Hancock",
+    "county_fips_all": "47073|47067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

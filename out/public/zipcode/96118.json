@@ -1,0 +1,20 @@
+{
+    "zip": 96118,
+    "lat": 39.64823,
+    "lng": -120.25392,
+    "city": "Loyalton",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1492.0,
+    "density": 3.4,
+    "county_fips": 6091,
+    "county_name": "Sierra",
+    "county_weights": "{\"06091\": 82.59, \"06063\": 17.41}",
+    "county_names_all": "Sierra|Plumas",
+    "county_fips_all": "06091|06063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

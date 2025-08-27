@@ -1,0 +1,20 @@
+{
+    "zip": 10517,
+    "lat": 41.29837,
+    "lng": -73.86013,
+    "city": "Crompond",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 551.0,
+    "density": 604.7,
+    "county_fips": 36119,
+    "county_name": "Westchester",
+    "county_weights": "{\"36119\": 100}",
+    "county_names_all": "Westchester",
+    "county_fips_all": "36119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

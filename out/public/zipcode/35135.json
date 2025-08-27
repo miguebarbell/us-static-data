@@ -1,0 +1,20 @@
+{
+    "zip": 35135,
+    "lat": 33.61814,
+    "lng": -86.1991,
+    "city": "Riverside",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1887.0,
+    "density": 101.8,
+    "county_fips": 1115,
+    "county_name": "St. Clair",
+    "county_weights": "{\"01115\": 100}",
+    "county_names_all": "St. Clair",
+    "county_fips_all": "01115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

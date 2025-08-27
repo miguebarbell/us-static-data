@@ -1,0 +1,20 @@
+{
+    "zip": 83543,
+    "lat": 46.27358,
+    "lng": -116.23815,
+    "city": "Nezperce",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 735.0,
+    "density": 2.2,
+    "county_fips": 16061,
+    "county_name": "Lewis",
+    "county_weights": "{\"16061\": 100}",
+    "county_names_all": "Lewis",
+    "county_fips_all": "16061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

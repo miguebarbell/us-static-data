@@ -1,0 +1,20 @@
+{
+    "zip": 44627,
+    "lat": 40.66665,
+    "lng": -81.83393,
+    "city": "Fredericksburg",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7299.0,
+    "density": 59.4,
+    "county_fips": 39075,
+    "county_name": "Holmes",
+    "county_weights": "{\"39075\": 51.15, \"39169\": 48.85}",
+    "county_names_all": "Holmes|Wayne",
+    "county_fips_all": "39075|39169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

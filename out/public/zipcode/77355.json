@@ -1,0 +1,20 @@
+{
+    "zip": 77355,
+    "lat": 30.1579,
+    "lng": -95.75014,
+    "city": "Magnolia",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31727.0,
+    "density": 220.4,
+    "county_fips": 48339,
+    "county_name": "Montgomery",
+    "county_weights": "{\"48339\": 90.13, \"48473\": 9.87}",
+    "county_names_all": "Montgomery|Waller",
+    "county_fips_all": "48339|48473",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

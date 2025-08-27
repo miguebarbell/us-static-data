@@ -1,0 +1,20 @@
+{
+    "zip": 39877,
+    "lat": 31.9183,
+    "lng": -84.50647,
+    "city": "Parrott",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 362.0,
+    "density": 3.2,
+    "county_fips": 13273,
+    "county_name": "Terrell",
+    "county_weights": "{\"13273\": 62.88, \"13307\": 37.12}",
+    "county_names_all": "Terrell|Webster",
+    "county_fips_all": "13273|13307",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 20677,
+    "lat": 38.49992,
+    "lng": -77.04016,
+    "city": "Port Tobacco",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2113.0,
+    "density": 52.1,
+    "county_fips": 24017,
+    "county_name": "Charles",
+    "county_weights": "{\"24017\": 100}",
+    "county_names_all": "Charles",
+    "county_fips_all": "24017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 97011,
+    "lat": 45.38738,
+    "lng": -122.03671,
+    "city": "Brightwood",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 769.0,
+    "density": 64.9,
+    "county_fips": 41005,
+    "county_name": "Clackamas",
+    "county_weights": "{\"41005\": 100}",
+    "county_names_all": "Clackamas",
+    "county_fips_all": "41005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

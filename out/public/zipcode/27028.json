@@ -1,0 +1,20 @@
+{
+    "zip": 27028,
+    "lat": 35.92433,
+    "lng": -80.5742,
+    "city": "Mocksville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26026.0,
+    "density": 52.1,
+    "county_fips": 37059,
+    "county_name": "Davie",
+    "county_weights": "{\"37059\": 99.38, \"37097\": 0.62}",
+    "county_names_all": "Davie|Iredell",
+    "county_fips_all": "37059|37097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

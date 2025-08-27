@@ -1,0 +1,20 @@
+{
+    "zip": 71601,
+    "lat": 34.17409,
+    "lng": -91.89811,
+    "city": "Pine Bluff",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13981.0,
+    "density": 46.8,
+    "county_fips": 5069,
+    "county_name": "Jefferson",
+    "county_weights": "{\"05069\": 99.53, \"05079\": 0.47}",
+    "county_names_all": "Jefferson|Lincoln",
+    "county_fips_all": "05069|05079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

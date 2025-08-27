@@ -1,0 +1,20 @@
+{
+    "zip": 94960,
+    "lat": 37.99707,
+    "lng": -122.57838,
+    "city": "San Anselmo",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15891.0,
+    "density": 1043.6,
+    "county_fips": 6041,
+    "county_name": "Marin",
+    "county_weights": "{\"06041\": 100}",
+    "county_names_all": "Marin",
+    "county_fips_all": "06041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

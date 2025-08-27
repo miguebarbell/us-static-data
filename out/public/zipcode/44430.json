@@ -1,0 +1,20 @@
+{
+    "zip": 44430,
+    "lat": 41.24011,
+    "lng": -80.90804,
+    "city": "Leavittsburg",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4554.0,
+    "density": 135.2,
+    "county_fips": 39155,
+    "county_name": "Trumbull",
+    "county_weights": "{\"39155\": 100}",
+    "county_names_all": "Trumbull",
+    "county_fips_all": "39155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

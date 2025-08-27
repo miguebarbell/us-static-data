@@ -1,0 +1,20 @@
+{
+    "zip": 81635,
+    "lat": 39.53722,
+    "lng": -108.06022,
+    "city": "Parachute",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7155.0,
+    "density": 8.3,
+    "county_fips": 8045,
+    "county_name": "Garfield",
+    "county_weights": "{\"08045\": 97.09, \"08077\": 2.91}",
+    "county_names_all": "Garfield|Mesa",
+    "county_fips_all": "08045|08077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

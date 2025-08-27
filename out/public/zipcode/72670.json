@@ -1,0 +1,20 @@
+{
+    "zip": 72670,
+    "lat": 35.98726,
+    "lng": -93.37775,
+    "city": "Ponca",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 181.0,
+    "density": 2.0,
+    "county_fips": 5101,
+    "county_name": "Newton",
+    "county_weights": "{\"05101\": 100}",
+    "county_names_all": "Newton",
+    "county_fips_all": "05101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

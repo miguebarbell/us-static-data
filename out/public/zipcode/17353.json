@@ -1,0 +1,20 @@
+{
+    "zip": 17353,
+    "lat": 39.88741,
+    "lng": -77.38714,
+    "city": "Orrtanna",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2745.0,
+    "density": 27.4,
+    "county_fips": 42001,
+    "county_name": "Adams",
+    "county_weights": "{\"42001\": 100}",
+    "county_names_all": "Adams",
+    "county_fips_all": "42001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 55935,
+    "lat": 43.74737,
+    "lng": -92.12734,
+    "city": "Fountain",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 978.0,
+    "density": 7.5,
+    "county_fips": 27045,
+    "county_name": "Fillmore",
+    "county_weights": "{\"27045\": 100}",
+    "county_names_all": "Fillmore",
+    "county_fips_all": "27045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

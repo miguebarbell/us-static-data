@@ -1,0 +1,20 @@
+{
+    "zip": 58621,
+    "lat": 47.09771,
+    "lng": -103.92652,
+    "city": "Beach",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1203.0,
+    "density": 1.1,
+    "county_fips": 38033,
+    "county_name": "Golden Valley",
+    "county_weights": "{\"38033\": 90.64, \"30109\": 4.38, \"38053\": 2.85, \"38007\": 2.13}",
+    "county_names_all": "Golden Valley|Wibaux|McKenzie|Billings",
+    "county_fips_all": "38033|30109|38053|38007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

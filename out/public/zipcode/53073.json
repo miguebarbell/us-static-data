@@ -1,0 +1,20 @@
+{
+    "zip": 53073,
+    "lat": 43.75011,
+    "lng": -87.99191,
+    "city": "Plymouth",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16174.0,
+    "density": 73.9,
+    "county_fips": 55117,
+    "county_name": "Sheboygan",
+    "county_weights": "{\"55117\": 100}",
+    "county_names_all": "Sheboygan",
+    "county_fips_all": "55117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 50597,
+    "lat": 42.97379,
+    "lng": -94.45048,
+    "city": "West Bend",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1363.0,
+    "density": 6.3,
+    "county_fips": 19147,
+    "county_name": "Palo Alto",
+    "county_weights": "{\"19147\": 55.54, \"19109\": 42.19, \"19091\": 1.34, \"19151\": 0.93}",
+    "county_names_all": "Palo Alto|Kossuth|Humboldt|Pocahontas",
+    "county_fips_all": "19147|19109|19091|19151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

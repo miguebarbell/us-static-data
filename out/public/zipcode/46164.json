@@ -1,0 +1,20 @@
+{
+    "zip": 46164,
+    "lat": 39.3036,
+    "lng": -86.12301,
+    "city": "Nineveh",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3991.0,
+    "density": 58.4,
+    "county_fips": 18013,
+    "county_name": "Brown",
+    "county_weights": "{\"18013\": 85.94, \"18081\": 14.06}",
+    "county_names_all": "Brown|Johnson",
+    "county_fips_all": "18013|18081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

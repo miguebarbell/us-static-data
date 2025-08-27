@@ -1,0 +1,20 @@
+{
+    "zip": 4564,
+    "lat": 43.93089,
+    "lng": -69.46761,
+    "city": "Round Pond",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 477.0,
+    "density": 24.5,
+    "county_fips": 23015,
+    "county_name": "Lincoln",
+    "county_weights": "{\"23015\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "23015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

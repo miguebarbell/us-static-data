@@ -1,0 +1,20 @@
+{
+    "zip": 54867,
+    "lat": 45.78195,
+    "lng": -91.21521,
+    "city": "Radisson",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 555.0,
+    "density": 5.9,
+    "county_fips": 55113,
+    "county_name": "Sawyer",
+    "county_weights": "{\"55113\": 100}",
+    "county_names_all": "Sawyer",
+    "county_fips_all": "55113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

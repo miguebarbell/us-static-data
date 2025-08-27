@@ -1,0 +1,20 @@
+{
+    "zip": 74367,
+    "lat": 36.4222,
+    "lng": -95.10674,
+    "city": "Strang",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 578.0,
+    "density": 10.6,
+    "county_fips": 40097,
+    "county_name": "Mayes",
+    "county_weights": "{\"40097\": 100}",
+    "county_names_all": "Mayes",
+    "county_fips_all": "40097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

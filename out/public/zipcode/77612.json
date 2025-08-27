@@ -1,0 +1,20 @@
+{
+    "zip": 77612,
+    "lat": 30.39851,
+    "lng": -93.93276,
+    "city": "Buna",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9152.0,
+    "density": 10.1,
+    "county_fips": 48241,
+    "county_name": "Jasper",
+    "county_weights": "{\"48241\": 65.28, \"48351\": 34.72}",
+    "county_names_all": "Jasper|Newton",
+    "county_fips_all": "48241|48351",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

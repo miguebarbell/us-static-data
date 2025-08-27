@@ -1,0 +1,20 @@
+{
+    "zip": 30450,
+    "lat": 32.55964,
+    "lng": -81.93322,
+    "city": "Portal",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2337.0,
+    "density": 16.0,
+    "county_fips": 13031,
+    "county_name": "Bulloch",
+    "county_weights": "{\"13031\": 98.02, \"13107\": 1.98}",
+    "county_names_all": "Bulloch|Emanuel",
+    "county_fips_all": "13031|13107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

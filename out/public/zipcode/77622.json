@@ -1,0 +1,20 @@
+{
+    "zip": 77622,
+    "lat": 29.85741,
+    "lng": -94.29467,
+    "city": "Hamshire",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1799.0,
+    "density": 34.3,
+    "county_fips": 48245,
+    "county_name": "Jefferson",
+    "county_weights": "{\"48245\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "48245",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

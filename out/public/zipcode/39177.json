@@ -1,0 +1,20 @@
+{
+    "zip": 39177,
+    "lat": 32.61286,
+    "lng": -90.84546,
+    "city": "Valley Park",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 79.0,
+    "density": 0.3,
+    "county_fips": 28055,
+    "county_name": "Issaquena",
+    "county_weights": "{\"28055\": 100}",
+    "county_names_all": "Issaquena",
+    "county_fips_all": "28055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

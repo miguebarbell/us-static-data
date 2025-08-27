@@ -1,0 +1,20 @@
+{
+    "zip": 15618,
+    "lat": 40.56229,
+    "lng": -79.44628,
+    "city": "Avonmore",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2388.0,
+    "density": 31.6,
+    "county_fips": 42005,
+    "county_name": "Armstrong",
+    "county_weights": "{\"42005\": 62.89, \"42129\": 29.47, \"42063\": 7.64}",
+    "county_names_all": "Armstrong|Westmoreland|Indiana",
+    "county_fips_all": "42005|42129|42063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

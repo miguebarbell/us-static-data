@@ -1,0 +1,20 @@
+{
+    "zip": 42343,
+    "lat": 37.63594,
+    "lng": -86.69795,
+    "city": "Fordsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1372.0,
+    "density": 6.8,
+    "county_fips": 21183,
+    "county_name": "Ohio",
+    "county_weights": "{\"21183\": 76.26, \"21091\": 20.75, \"21027\": 2.99}",
+    "county_names_all": "Ohio|Hancock|Breckinridge",
+    "county_fips_all": "21183|21091|21027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

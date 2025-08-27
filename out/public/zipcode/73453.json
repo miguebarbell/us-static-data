@@ -1,0 +1,20 @@
+{
+    "zip": 73453,
+    "lat": 34.03473,
+    "lng": -97.27046,
+    "city": "Overbrook",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 579.0,
+    "density": 3.2,
+    "county_fips": 40085,
+    "county_name": "Love",
+    "county_weights": "{\"40085\": 98.83, \"40019\": 1.17}",
+    "county_names_all": "Love|Carter",
+    "county_fips_all": "40085|40019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 95010,
+    "lat": 36.97721,
+    "lng": -121.95466,
+    "city": "Capitola",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8697.0,
+    "density": 2428.4,
+    "county_fips": 6087,
+    "county_name": "Santa Cruz",
+    "county_weights": "{\"06087\": 100}",
+    "county_names_all": "Santa Cruz",
+    "county_fips_all": "06087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

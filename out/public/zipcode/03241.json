@@ -1,0 +1,20 @@
+{
+    "zip": 3241,
+    "lat": 43.71149,
+    "lng": -71.81915,
+    "city": "Hebron",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1115.0,
+    "density": 11.6,
+    "county_fips": 33009,
+    "county_name": "Grafton",
+    "county_weights": "{\"33009\": 100}",
+    "county_names_all": "Grafton",
+    "county_fips_all": "33009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

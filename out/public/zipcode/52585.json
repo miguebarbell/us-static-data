@@ -1,0 +1,20 @@
+{
+    "zip": 52585,
+    "lat": 41.18902,
+    "lng": -91.98863,
+    "city": "Richland",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 849.0,
+    "density": 6.0,
+    "county_fips": 19107,
+    "county_name": "Keokuk",
+    "county_weights": "{\"19107\": 60.34, \"19101\": 29.1, \"19183\": 10.56}",
+    "county_names_all": "Keokuk|Jefferson|Washington",
+    "county_fips_all": "19107|19101|19183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

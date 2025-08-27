@@ -1,0 +1,20 @@
+{
+    "zip": 36726,
+    "lat": 31.97043,
+    "lng": -87.27532,
+    "city": "Camden",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4561.0,
+    "density": 6.1,
+    "county_fips": 1131,
+    "county_name": "Wilcox",
+    "county_weights": "{\"01131\": 99.85, \"01099\": 0.15}",
+    "county_names_all": "Wilcox|Monroe",
+    "county_fips_all": "01131|01099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

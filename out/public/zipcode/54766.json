@@ -1,0 +1,20 @@
+{
+    "zip": 54766,
+    "lat": 45.33667,
+    "lng": -90.86566,
+    "city": "Sheldon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1830.0,
+    "density": 5.4,
+    "county_fips": 55119,
+    "county_name": "Taylor",
+    "county_weights": "{\"55119\": 51.68, \"55107\": 38.02, \"55017\": 10.3}",
+    "county_names_all": "Taylor|Rusk|Chippewa",
+    "county_fips_all": "55119|55107|55017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

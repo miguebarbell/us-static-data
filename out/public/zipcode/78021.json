@@ -1,0 +1,20 @@
+{
+    "zip": 78021,
+    "lat": 28.4318,
+    "lng": -98.83489,
+    "city": "Fowlerton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19.0,
+    "density": 0.0,
+    "county_fips": 48283,
+    "county_name": "La Salle",
+    "county_weights": "{\"48283\": 64.17, \"48311\": 35.83}",
+    "county_names_all": "La Salle|McMullen",
+    "county_fips_all": "48283|48311",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

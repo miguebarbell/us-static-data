@@ -1,0 +1,20 @@
+{
+    "zip": 50156,
+    "lat": 41.90349,
+    "lng": -93.80001,
+    "city": "Madrid",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4407.0,
+    "density": 19.2,
+    "county_fips": 19015,
+    "county_name": "Boone",
+    "county_weights": "{\"19015\": 76.4, \"19153\": 17.0, \"19049\": 6.6}",
+    "county_names_all": "Boone|Polk|Dallas",
+    "county_fips_all": "19015|19153|19049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

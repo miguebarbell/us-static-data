@@ -1,0 +1,20 @@
+{
+    "zip": 71449,
+    "lat": 31.5153,
+    "lng": -93.54383,
+    "city": "Many",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8818.0,
+    "density": 14.4,
+    "county_fips": 22085,
+    "county_name": "Sabine",
+    "county_weights": "{\"22085\": 100}",
+    "county_names_all": "Sabine",
+    "county_fips_all": "22085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

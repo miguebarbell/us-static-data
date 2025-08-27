@@ -1,0 +1,20 @@
+{
+    "zip": 25607,
+    "lat": 37.78125,
+    "lng": -81.77081,
+    "city": "Amherstdale",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 727.0,
+    "density": 22.1,
+    "county_fips": 54045,
+    "county_name": "Logan",
+    "county_weights": "{\"54045\": 100}",
+    "county_names_all": "Logan",
+    "county_fips_all": "54045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

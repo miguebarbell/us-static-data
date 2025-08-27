@@ -1,0 +1,20 @@
+{
+    "zip": 86505,
+    "lat": 35.61872,
+    "lng": -109.71274,
+    "city": "Ganado",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6978.0,
+    "density": 2.5,
+    "county_fips": 4001,
+    "county_name": "Apache",
+    "county_weights": "{\"04001\": 84.25, \"04017\": 15.75}",
+    "county_names_all": "Apache|Navajo",
+    "county_fips_all": "04001|04017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

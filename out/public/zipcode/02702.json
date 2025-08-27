@@ -1,0 +1,20 @@
+{
+    "zip": 2702,
+    "lat": 41.78452,
+    "lng": -71.06112,
+    "city": "Assonet",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4445.0,
+    "density": 102.1,
+    "county_fips": 25005,
+    "county_name": "Bristol",
+    "county_weights": "{\"25005\": 100}",
+    "county_names_all": "Bristol",
+    "county_fips_all": "25005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

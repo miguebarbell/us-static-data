@@ -1,0 +1,20 @@
+{
+    "zip": 50119,
+    "lat": 41.31089,
+    "lng": -92.94587,
+    "city": "Harvey",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 352.0,
+    "density": 8.5,
+    "county_fips": 19125,
+    "county_name": "Marion",
+    "county_weights": "{\"19125\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "19125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

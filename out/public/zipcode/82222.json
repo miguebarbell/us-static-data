@@ -1,0 +1,20 @@
+{
+    "zip": 82222,
+    "lat": 43.16311,
+    "lng": -104.64988,
+    "city": "Lance Creek",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 146.0,
+    "density": 0.2,
+    "county_fips": 56027,
+    "county_name": "Niobrara",
+    "county_weights": "{\"56027\": 100}",
+    "county_names_all": "Niobrara",
+    "county_fips_all": "56027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

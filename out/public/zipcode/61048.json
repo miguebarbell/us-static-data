@@ -1,0 +1,20 @@
+{
+    "zip": 61048,
+    "lat": 42.38524,
+    "lng": -89.83526,
+    "city": "Lena",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3848.0,
+    "density": 18.2,
+    "county_fips": 17177,
+    "county_name": "Stephenson",
+    "county_weights": "{\"17177\": 91.24, \"17085\": 8.76}",
+    "county_names_all": "Stephenson|Jo Daviess",
+    "county_fips_all": "17177|17085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

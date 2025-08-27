@@ -1,0 +1,20 @@
+{
+    "zip": 24974,
+    "lat": 37.65395,
+    "lng": -80.44693,
+    "city": "Secondcreek",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 348.0,
+    "density": 20.0,
+    "county_fips": 54063,
+    "county_name": "Monroe",
+    "county_weights": "{\"54063\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "54063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

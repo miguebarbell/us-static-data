@@ -1,0 +1,20 @@
+{
+    "zip": 8835,
+    "lat": 40.54147,
+    "lng": -74.58876,
+    "city": "Manville",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10870.0,
+    "density": 1862.5,
+    "county_fips": 34035,
+    "county_name": "Somerset",
+    "county_weights": "{\"34035\": 100}",
+    "county_names_all": "Somerset",
+    "county_fips_all": "34035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

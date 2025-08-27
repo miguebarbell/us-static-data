@@ -1,0 +1,20 @@
+{
+    "zip": 75839,
+    "lat": 31.6181,
+    "lng": -95.55738,
+    "city": "Elkhart",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6577.0,
+    "density": 15.0,
+    "county_fips": 48001,
+    "county_name": "Anderson",
+    "county_weights": "{\"48001\": 96.26, \"48225\": 3.74}",
+    "county_names_all": "Anderson|Houston",
+    "county_fips_all": "48001|48225",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 33035,
+    "lat": 25.4216,
+    "lng": -80.4036,
+    "city": "Homestead",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18756.0,
+    "density": 245.7,
+    "county_fips": 12086,
+    "county_name": "Miami-Dade",
+    "county_weights": "{\"12086\": 100}",
+    "county_names_all": "Miami-Dade",
+    "county_fips_all": "12086",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

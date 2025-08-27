@@ -1,0 +1,20 @@
+{
+    "zip": 3854,
+    "lat": 43.06558,
+    "lng": -70.72003,
+    "city": "New Castle",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 948.0,
+    "density": 452.7,
+    "county_fips": 33015,
+    "county_name": "Rockingham",
+    "county_weights": "{\"33015\": 100}",
+    "county_names_all": "Rockingham",
+    "county_fips_all": "33015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

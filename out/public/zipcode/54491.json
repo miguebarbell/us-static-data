@@ -1,0 +1,20 @@
+{
+    "zip": 54491,
+    "lat": 45.2343,
+    "lng": -88.76541,
+    "city": "White Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1683.0,
+    "density": 3.3,
+    "county_fips": 55067,
+    "county_name": "Langlade",
+    "county_weights": "{\"55067\": 90.95, \"55083\": 9.05}",
+    "county_names_all": "Langlade|Oconto",
+    "county_fips_all": "55067|55083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

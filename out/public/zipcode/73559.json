@@ -1,0 +1,20 @@
+{
+    "zip": 73559,
+    "lat": 34.73473,
+    "lng": -98.94317,
+    "city": "Mountain Park",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 404.0,
+    "density": 1.1,
+    "county_fips": 40075,
+    "county_name": "Kiowa",
+    "county_weights": "{\"40075\": 85.56, \"40031\": 14.44}",
+    "county_names_all": "Kiowa|Comanche",
+    "county_fips_all": "40075|40031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

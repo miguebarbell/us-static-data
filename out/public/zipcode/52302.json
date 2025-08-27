@@ -1,0 +1,20 @@
+{
+    "zip": 52302,
+    "lat": 42.0656,
+    "lng": -91.57091,
+    "city": "Marion",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42732.0,
+    "density": 221.9,
+    "county_fips": 19113,
+    "county_name": "Linn",
+    "county_weights": "{\"19113\": 100}",
+    "county_names_all": "Linn",
+    "county_fips_all": "19113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

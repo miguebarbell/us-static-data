@@ -1,0 +1,20 @@
+{
+    "zip": 1434,
+    "lat": 42.53149,
+    "lng": -71.61663,
+    "city": "Devens",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1889.0,
+    "density": 112.0,
+    "county_fips": 25027,
+    "county_name": "Worcester",
+    "county_weights": "{\"25027\": 82.26, \"25017\": 17.74}",
+    "county_names_all": "Worcester|Middlesex",
+    "county_fips_all": "25027|25017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

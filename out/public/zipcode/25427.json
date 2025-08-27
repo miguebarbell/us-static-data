@@ -1,0 +1,20 @@
+{
+    "zip": 25427,
+    "lat": 39.52608,
+    "lng": -78.09098,
+    "city": "Hedgesville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16410.0,
+    "density": 48.4,
+    "county_fips": 54003,
+    "county_name": "Berkeley",
+    "county_weights": "{\"54003\": 87.84, \"54065\": 12.16}",
+    "county_names_all": "Berkeley|Morgan",
+    "county_fips_all": "54003|54065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

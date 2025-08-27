@@ -1,0 +1,20 @@
+{
+    "zip": 38568,
+    "lat": 36.43594,
+    "lng": -85.46907,
+    "city": "Hilham",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1989.0,
+    "density": 11.4,
+    "county_fips": 47133,
+    "county_name": "Overton",
+    "county_weights": "{\"47133\": 53.13, \"47027\": 37.16, \"47087\": 9.71}",
+    "county_names_all": "Overton|Clay|Jackson",
+    "county_fips_all": "47133|47027|47087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

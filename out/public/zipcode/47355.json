@@ -1,0 +1,20 @@
+{
+    "zip": 47355,
+    "lat": 40.04376,
+    "lng": -84.9258,
+    "city": "Lynn",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2966.0,
+    "density": 18.2,
+    "county_fips": 18135,
+    "county_name": "Randolph",
+    "county_weights": "{\"18135\": 98.66, \"18177\": 1.34}",
+    "county_names_all": "Randolph|Wayne",
+    "county_fips_all": "18135|18177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

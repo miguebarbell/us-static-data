@@ -1,0 +1,20 @@
+{
+    "zip": 81058,
+    "lat": 38.10727,
+    "lng": -103.88161,
+    "city": "Manzanola",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 967.0,
+    "density": 7.6,
+    "county_fips": 8089,
+    "county_name": "Otero",
+    "county_weights": "{\"08089\": 70.12, \"08025\": 29.88}",
+    "county_names_all": "Otero|Crowley",
+    "county_fips_all": "08089|08025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

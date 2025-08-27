@@ -1,0 +1,20 @@
+{
+    "zip": 99571,
+    "lat": 55.29661,
+    "lng": -162.58634,
+    "city": "Cold Bay",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 236.0,
+    "density": 1.6,
+    "county_fips": 2013,
+    "county_name": "Aleutians East",
+    "county_weights": "{\"02013\": 100}",
+    "county_names_all": "Aleutians East",
+    "county_fips_all": "02013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Nome"
+}

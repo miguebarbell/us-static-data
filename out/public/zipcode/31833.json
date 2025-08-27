@@ -1,0 +1,20 @@
+{
+    "zip": 31833,
+    "lat": 32.84963,
+    "lng": -85.09202,
+    "city": "West Point",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6718.0,
+    "density": 26.6,
+    "county_fips": 13145,
+    "county_name": "Harris",
+    "county_weights": "{\"13145\": 60.91, \"13285\": 39.09}",
+    "county_names_all": "Harris|Troup",
+    "county_fips_all": "13145|13285",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

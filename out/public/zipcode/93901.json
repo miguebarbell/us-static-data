@@ -1,0 +1,20 @@
+{
+    "zip": 93901,
+    "lat": 36.64794,
+    "lng": -121.63044,
+    "city": "Salinas",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29480.0,
+    "density": 1187.4,
+    "county_fips": 6053,
+    "county_name": "Monterey",
+    "county_weights": "{\"06053\": 100}",
+    "county_names_all": "Monterey",
+    "county_fips_all": "06053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

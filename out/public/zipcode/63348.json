@@ -1,0 +1,20 @@
+{
+    "zip": 63348,
+    "lat": 38.78969,
+    "lng": -90.94131,
+    "city": "Foristell",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10207.0,
+    "density": 70.6,
+    "county_fips": 29183,
+    "county_name": "St. Charles",
+    "county_weights": "{\"29183\": 77.92, \"29219\": 19.96, \"29113\": 2.12}",
+    "county_names_all": "St. Charles|Warren|Lincoln",
+    "county_fips_all": "29183|29219|29113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

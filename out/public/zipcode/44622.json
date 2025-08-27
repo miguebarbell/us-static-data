@@ -1,0 +1,20 @@
+{
+    "zip": 44622,
+    "lat": 40.54883,
+    "lng": -81.48375,
+    "city": "Dover",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18774.0,
+    "density": 130.4,
+    "county_fips": 39157,
+    "county_name": "Tuscarawas",
+    "county_weights": "{\"39157\": 100}",
+    "county_names_all": "Tuscarawas",
+    "county_fips_all": "39157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

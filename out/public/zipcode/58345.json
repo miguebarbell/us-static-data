@@ -1,0 +1,20 @@
+{
+    "zip": 58345,
+    "lat": 48.30564,
+    "lng": -98.37436,
+    "city": "Lawton",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 123.0,
+    "density": 0.4,
+    "county_fips": 38071,
+    "county_name": "Ramsey",
+    "county_weights": "{\"38071\": 64.86, \"38099\": 35.14}",
+    "county_names_all": "Ramsey|Walsh",
+    "county_fips_all": "38071|38099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

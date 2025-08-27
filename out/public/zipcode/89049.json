@@ -1,0 +1,20 @@
+{
+    "zip": 89049,
+    "lat": 38.37741,
+    "lng": -116.41205,
+    "city": "Tonopah",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2711.0,
+    "density": 0.4,
+    "county_fips": 32023,
+    "county_name": "Nye",
+    "county_weights": "{\"32023\": 99.61, \"32009\": 0.39}",
+    "county_names_all": "Nye|Esmeralda",
+    "county_fips_all": "32023|32009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 35175,
+    "lat": 34.43731,
+    "lng": -86.51673,
+    "city": "Union Grove",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4871.0,
+    "density": 29.7,
+    "county_fips": 1095,
+    "county_name": "Marshall",
+    "county_weights": "{\"01095\": 82.62, \"01103\": 17.38}",
+    "county_names_all": "Marshall|Morgan",
+    "county_fips_all": "01095|01103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

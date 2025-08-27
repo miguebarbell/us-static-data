@@ -1,0 +1,20 @@
+{
+    "zip": 33785,
+    "lat": 27.88559,
+    "lng": -82.84425,
+    "city": "Indian Rocks Beach",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4871.0,
+    "density": 1595.8,
+    "county_fips": 12103,
+    "county_name": "Pinellas",
+    "county_weights": "{\"12103\": 100}",
+    "county_names_all": "Pinellas",
+    "county_fips_all": "12103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

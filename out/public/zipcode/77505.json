@@ -1,0 +1,20 @@
+{
+    "zip": 77505,
+    "lat": 29.64895,
+    "lng": -95.14284,
+    "city": "Pasadena",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23686.0,
+    "density": 1090.3,
+    "county_fips": 48201,
+    "county_name": "Harris",
+    "county_weights": "{\"48201\": 100}",
+    "county_names_all": "Harris",
+    "county_fips_all": "48201",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 74653,
+    "lat": 36.64683,
+    "lng": -97.3442,
+    "city": "Tonkawa",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3689.0,
+    "density": 12.7,
+    "county_fips": 40071,
+    "county_name": "Kay",
+    "county_weights": "{\"40071\": 90.47, \"40103\": 9.53}",
+    "county_names_all": "Kay|Noble",
+    "county_fips_all": "40071|40103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

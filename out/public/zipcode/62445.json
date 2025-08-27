@@ -1,0 +1,20 @@
+{
+    "zip": 62445,
+    "lat": 39.16687,
+    "lng": -88.32322,
+    "city": "Montrose",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1044.0,
+    "density": 8.8,
+    "county_fips": 17079,
+    "county_name": "Jasper",
+    "county_weights": "{\"17079\": 46.86, \"17035\": 42.56, \"17049\": 10.58}",
+    "county_names_all": "Jasper|Cumberland|Effingham",
+    "county_fips_all": "17079|17035|17049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

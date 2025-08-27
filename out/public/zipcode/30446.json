@@ -1,0 +1,20 @@
+{
+    "zip": 30446,
+    "lat": 32.5599,
+    "lng": -81.46734,
+    "city": "Newington",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1981.0,
+    "density": 14.0,
+    "county_fips": 13251,
+    "county_name": "Screven",
+    "county_weights": "{\"13251\": 61.59, \"13103\": 38.41}",
+    "county_names_all": "Screven|Effingham",
+    "county_fips_all": "13251|13103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

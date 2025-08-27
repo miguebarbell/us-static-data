@@ -1,0 +1,20 @@
+{
+    "zip": 78877,
+    "lat": 28.9533,
+    "lng": -100.60429,
+    "city": "Quemado",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 837.0,
+    "density": 6.8,
+    "county_fips": 48323,
+    "county_name": "Maverick",
+    "county_weights": "{\"48323\": 100}",
+    "county_names_all": "Maverick",
+    "county_fips_all": "48323",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

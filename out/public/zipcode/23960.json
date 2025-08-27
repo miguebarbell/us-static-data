@@ -1,0 +1,20 @@
+{
+    "zip": 23960,
+    "lat": 37.31531,
+    "lng": -78.5579,
+    "city": "Prospect",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2177.0,
+    "density": 19.7,
+    "county_fips": 51147,
+    "county_name": "Prince Edward",
+    "county_weights": "{\"51147\": 97.07, \"51011\": 2.93}",
+    "county_names_all": "Prince Edward|Appomattox",
+    "county_fips_all": "51147|51011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

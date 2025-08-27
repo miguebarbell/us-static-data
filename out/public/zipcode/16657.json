@@ -1,0 +1,20 @@
+{
+    "zip": 16657,
+    "lat": 40.32486,
+    "lng": -78.17757,
+    "city": "James Creek",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1262.0,
+    "density": 9.8,
+    "county_fips": 42061,
+    "county_name": "Huntingdon",
+    "county_weights": "{\"42061\": 98.09, \"42009\": 1.91}",
+    "county_names_all": "Huntingdon|Bedford",
+    "county_fips_all": "42061|42009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

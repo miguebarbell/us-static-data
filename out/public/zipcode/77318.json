@@ -1,0 +1,20 @@
+{
+    "zip": 77318,
+    "lat": 30.44709,
+    "lng": -95.54364,
+    "city": "Willis",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19820.0,
+    "density": 206.6,
+    "county_fips": 48339,
+    "county_name": "Montgomery",
+    "county_weights": "{\"48339\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "48339",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

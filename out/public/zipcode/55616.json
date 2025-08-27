@@ -1,0 +1,20 @@
+{
+    "zip": 55616,
+    "lat": 47.25095,
+    "lng": -91.66982,
+    "city": "Two Harbors",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7277.0,
+    "density": 5.9,
+    "county_fips": 27075,
+    "county_name": "Lake",
+    "county_weights": "{\"27075\": 91.1, \"27137\": 8.9}",
+    "county_names_all": "Lake|St. Louis",
+    "county_fips_all": "27075|27137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

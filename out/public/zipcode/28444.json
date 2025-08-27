@@ -1,0 +1,20 @@
+{
+    "zip": 28444,
+    "lat": 34.6885,
+    "lng": -78.31798,
+    "city": "Harrells",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2756.0,
+    "density": 10.1,
+    "county_fips": 37163,
+    "county_name": "Sampson",
+    "county_weights": "{\"37163\": 53.21, \"37017\": 43.71, \"37061\": 3.08}",
+    "county_names_all": "Sampson|Bladen|Duplin",
+    "county_fips_all": "37163|37017|37061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

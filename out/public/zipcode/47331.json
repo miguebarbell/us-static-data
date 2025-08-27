@@ -1,0 +1,20 @@
+{
+    "zip": 47331,
+    "lat": 39.63086,
+    "lng": -85.16313,
+    "city": "Connersville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22769.0,
+    "density": 45.9,
+    "county_fips": 18041,
+    "county_name": "Fayette",
+    "county_weights": "{\"18041\": 94.48, \"18161\": 3.2, \"18047\": 1.42, \"18177\": 0.9}",
+    "county_names_all": "Fayette|Union|Franklin|Wayne",
+    "county_fips_all": "18041|18161|18047|18177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

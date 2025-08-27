@@ -1,0 +1,20 @@
+{
+    "zip": 7045,
+    "lat": 40.90736,
+    "lng": -74.3671,
+    "city": "Montville",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10206.0,
+    "density": 599.9,
+    "county_fips": 34027,
+    "county_name": "Morris",
+    "county_weights": "{\"34027\": 99.87, \"34013\": 0.13}",
+    "county_names_all": "Morris|Essex",
+    "county_fips_all": "34027|34013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

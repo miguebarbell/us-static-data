@@ -1,0 +1,20 @@
+{
+    "zip": 65332,
+    "lat": 38.61973,
+    "lng": -93.41324,
+    "city": "Green Ridge",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2023.0,
+    "density": 9.4,
+    "county_fips": 29159,
+    "county_name": "Pettis",
+    "county_weights": "{\"29159\": 97.07, \"29101\": 2.93}",
+    "county_names_all": "Pettis|Johnson",
+    "county_fips_all": "29159|29101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

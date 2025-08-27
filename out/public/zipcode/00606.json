@@ -1,0 +1,20 @@
+{
+    "zip": 606,
+    "lat": 18.16585,
+    "lng": -66.93716,
+    "city": "Maricao",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5435.0,
+    "density": 47.3,
+    "county_fips": 72093,
+    "county_name": "Maricao",
+    "county_weights": "{\"72093\": 82.26, \"72153\": 11.67, \"72121\": 6.06}",
+    "county_names_all": "Maricao|Yauco|Sabana Grande",
+    "county_fips_all": "72093|72153|72121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

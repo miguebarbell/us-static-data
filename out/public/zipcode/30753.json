@@ -1,0 +1,20 @@
+{
+    "zip": 30753,
+    "lat": 34.57896,
+    "lng": -85.28806,
+    "city": "Trion",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8039.0,
+    "density": 76.0,
+    "county_fips": 13055,
+    "county_name": "Chattooga",
+    "county_weights": "{\"13055\": 60.83, \"13295\": 39.17}",
+    "county_names_all": "Chattooga|Walker",
+    "county_fips_all": "13055|13295",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

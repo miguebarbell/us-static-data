@@ -1,0 +1,20 @@
+{
+    "zip": 85532,
+    "lat": 33.40779,
+    "lng": -110.8454,
+    "city": "Claypool",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 374.0,
+    "density": 646.8,
+    "county_fips": 4007,
+    "county_name": "Gila",
+    "county_weights": "{\"04007\": 100}",
+    "county_names_all": "Gila",
+    "county_fips_all": "04007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72855,
+    "lat": 35.25249,
+    "lng": -93.67553,
+    "city": "Paris",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6462.0,
+    "density": 13.9,
+    "county_fips": 5083,
+    "county_name": "Logan",
+    "county_weights": "{\"05083\": 98.78, \"05047\": 1.22}",
+    "county_names_all": "Logan|Franklin",
+    "county_fips_all": "05083|05047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

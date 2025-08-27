@@ -1,0 +1,20 @@
+{
+    "zip": 45330,
+    "lat": 39.64821,
+    "lng": -84.5282,
+    "city": "Gratis",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 810.0,
+    "density": 336.8,
+    "county_fips": 39135,
+    "county_name": "Preble",
+    "county_weights": "{\"39135\": 100}",
+    "county_names_all": "Preble",
+    "county_fips_all": "39135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

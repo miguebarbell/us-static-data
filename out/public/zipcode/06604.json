@@ -1,0 +1,20 @@
+{
+    "zip": 6604,
+    "lat": 41.17684,
+    "lng": -73.20027,
+    "city": "Bridgeport",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29497.0,
+    "density": 3609.7,
+    "county_fips": 9120,
+    "county_name": "Greater Bridgeport",
+    "county_weights": "{\"09120\": 100}",
+    "county_names_all": "Greater Bridgeport",
+    "county_fips_all": "09120",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

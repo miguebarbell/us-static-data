@@ -1,0 +1,20 @@
+{
+    "zip": 73074,
+    "lat": 34.83269,
+    "lng": -97.27917,
+    "city": "Paoli",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1147.0,
+    "density": 10.4,
+    "county_fips": 40049,
+    "county_name": "Garvin",
+    "county_weights": "{\"40049\": 78.19, \"40087\": 21.81}",
+    "county_names_all": "Garvin|McClain",
+    "county_fips_all": "40049|40087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

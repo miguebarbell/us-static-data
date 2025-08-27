@@ -1,0 +1,20 @@
+{
+    "zip": 17953,
+    "lat": 40.74728,
+    "lng": -76.09969,
+    "city": "Middleport",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 335.0,
+    "density": 14.4,
+    "county_fips": 42107,
+    "county_name": "Schuylkill",
+    "county_weights": "{\"42107\": 100}",
+    "county_names_all": "Schuylkill",
+    "county_fips_all": "42107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 21835,
+    "lat": 38.53355,
+    "lng": -75.93758,
+    "city": "Linkwood",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 390.0,
+    "density": 14.2,
+    "county_fips": 24019,
+    "county_name": "Dorchester",
+    "county_weights": "{\"24019\": 100}",
+    "county_names_all": "Dorchester",
+    "county_fips_all": "24019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

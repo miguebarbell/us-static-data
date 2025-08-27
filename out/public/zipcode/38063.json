@@ -1,0 +1,20 @@
+{
+    "zip": 38063,
+    "lat": 35.74598,
+    "lng": -89.63412,
+    "city": "Ripley",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15947.0,
+    "density": 21.6,
+    "county_fips": 47097,
+    "county_name": "Lauderdale",
+    "county_weights": "{\"47097\": 90.91, \"47075\": 9.09}",
+    "county_names_all": "Lauderdale|Haywood",
+    "county_fips_all": "47097|47075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

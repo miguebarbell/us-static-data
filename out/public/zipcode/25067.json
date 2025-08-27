@@ -1,0 +1,20 @@
+{
+    "zip": 25067,
+    "lat": 38.20963,
+    "lng": -81.44018,
+    "city": "East Bank",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 776.0,
+    "density": 346.7,
+    "county_fips": 54039,
+    "county_name": "Kanawha",
+    "county_weights": "{\"54039\": 100}",
+    "county_names_all": "Kanawha",
+    "county_fips_all": "54039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

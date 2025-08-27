@@ -1,0 +1,20 @@
+{
+    "zip": 35034,
+    "lat": 32.9016,
+    "lng": -87.26948,
+    "city": "Brent",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5132.0,
+    "density": 17.1,
+    "county_fips": 1007,
+    "county_name": "Bibb",
+    "county_weights": "{\"01007\": 88.32, \"01105\": 11.68}",
+    "county_names_all": "Bibb|Perry",
+    "county_fips_all": "01007|01105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

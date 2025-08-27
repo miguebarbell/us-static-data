@@ -1,0 +1,20 @@
+{
+    "zip": 79769,
+    "lat": 31.68212,
+    "lng": -102.61973,
+    "city": "Odessa",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 48135,
+    "county_name": "Ector",
+    "county_weights": "{\"48135\": 99.46, \"48103\": 0.54}",
+    "county_names_all": "Ector|Crane",
+    "county_fips_all": "48135|48103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

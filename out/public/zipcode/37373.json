@@ -1,0 +1,20 @@
+{
+    "zip": 37373,
+    "lat": 35.39476,
+    "lng": -85.10373,
+    "city": "Sale Creek",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2949.0,
+    "density": 28.1,
+    "county_fips": 47065,
+    "county_name": "Hamilton",
+    "county_weights": "{\"47065\": 99.61, \"47143\": 0.39}",
+    "county_names_all": "Hamilton|Rhea",
+    "county_fips_all": "47065|47143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

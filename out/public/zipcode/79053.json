@@ -1,0 +1,20 @@
+{
+    "zip": 79053,
+    "lat": 34.40284,
+    "lng": -102.59106,
+    "city": "Lazbuddie",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 89.0,
+    "density": 2.3,
+    "county_fips": 48369,
+    "county_name": "Parmer",
+    "county_weights": "{\"48369\": 100}",
+    "county_names_all": "Parmer",
+    "county_fips_all": "48369",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

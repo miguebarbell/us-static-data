@@ -1,0 +1,20 @@
+{
+    "zip": 70744,
+    "lat": 30.56173,
+    "lng": -90.67689,
+    "city": "Holden",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5857.0,
+    "density": 22.0,
+    "county_fips": 22063,
+    "county_name": "Livingston",
+    "county_weights": "{\"22063\": 85.35, \"22091\": 14.65}",
+    "county_names_all": "Livingston|St. Helena",
+    "county_fips_all": "22063|22091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

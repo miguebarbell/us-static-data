@@ -1,0 +1,20 @@
+{
+    "zip": 26376,
+    "lat": 38.77565,
+    "lng": -80.46864,
+    "city": "Ireland",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 494.0,
+    "density": 5.3,
+    "county_fips": 54007,
+    "county_name": "Braxton",
+    "county_weights": "{\"54007\": 53.94, \"54041\": 46.06}",
+    "county_names_all": "Braxton|Lewis",
+    "county_fips_all": "54007|54041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

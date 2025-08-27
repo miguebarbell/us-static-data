@@ -1,0 +1,20 @@
+{
+    "zip": 30824,
+    "lat": 33.51586,
+    "lng": -82.51467,
+    "city": "Thomson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17181.0,
+    "density": 34.6,
+    "county_fips": 13189,
+    "county_name": "McDuffie",
+    "county_weights": "{\"13189\": 98.33, \"13301\": 1.5, \"13073\": 0.17}",
+    "county_names_all": "McDuffie|Warren|Columbia",
+    "county_fips_all": "13189|13301|13073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

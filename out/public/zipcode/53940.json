@@ -1,0 +1,20 @@
+{
+    "zip": 53940,
+    "lat": 43.59126,
+    "lng": -89.7944,
+    "city": "Lake Delton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 55111,
+    "county_name": "Sauk",
+    "county_weights": "{\"55111\": 100}",
+    "county_names_all": "Sauk",
+    "county_fips_all": "55111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

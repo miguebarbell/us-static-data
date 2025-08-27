@@ -1,0 +1,20 @@
+{
+    "zip": 61434,
+    "lat": 41.17387,
+    "lng": -90.03598,
+    "city": "Galva",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2992.0,
+    "density": 14.7,
+    "county_fips": 17073,
+    "county_name": "Henry",
+    "county_weights": "{\"17073\": 74.36, \"17095\": 24.84, \"17175\": 0.8}",
+    "county_names_all": "Henry|Knox|Stark",
+    "county_fips_all": "17073|17095|17175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

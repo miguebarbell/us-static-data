@@ -1,0 +1,20 @@
+{
+    "zip": 14108,
+    "lat": 43.26365,
+    "lng": -78.7274,
+    "city": "Newfane",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5301.0,
+    "density": 82.4,
+    "county_fips": 36063,
+    "county_name": "Niagara",
+    "county_weights": "{\"36063\": 100}",
+    "county_names_all": "Niagara",
+    "county_fips_all": "36063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 45715,
+    "lat": 39.60484,
+    "lng": -81.6268,
+    "city": "Beverly",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2024.0,
+    "density": 18.6,
+    "county_fips": 39115,
+    "county_name": "Morgan",
+    "county_weights": "{\"39115\": 58.74, \"39167\": 27.17, \"39121\": 14.09}",
+    "county_names_all": "Morgan|Washington|Noble",
+    "county_fips_all": "39115|39167|39121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

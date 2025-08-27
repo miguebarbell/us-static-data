@@ -1,0 +1,20 @@
+{
+    "zip": 49755,
+    "lat": 45.63886,
+    "lng": -84.80524,
+    "city": "Levering",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1858.0,
+    "density": 7.0,
+    "county_fips": 26047,
+    "county_name": "Emmet",
+    "county_weights": "{\"26047\": 73.2, \"26031\": 26.8}",
+    "county_names_all": "Emmet|Cheboygan",
+    "county_fips_all": "26047|26031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

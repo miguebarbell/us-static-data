@@ -1,0 +1,20 @@
+{
+    "zip": 50136,
+    "lat": 41.46984,
+    "lng": -92.28927,
+    "city": "Keswick",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 411.0,
+    "density": 4.0,
+    "county_fips": 19107,
+    "county_name": "Keokuk",
+    "county_weights": "{\"19107\": 94.35, \"19095\": 5.65}",
+    "county_names_all": "Keokuk|Iowa",
+    "county_fips_all": "19107|19095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

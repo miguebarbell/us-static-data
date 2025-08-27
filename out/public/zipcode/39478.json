@@ -1,0 +1,20 @@
+{
+    "zip": 39478,
+    "lat": 31.05306,
+    "lng": -89.85768,
+    "city": "Sandy Hook",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2150.0,
+    "density": 11.3,
+    "county_fips": 28091,
+    "county_name": "Marion",
+    "county_weights": "{\"28091\": 54.07, \"28147\": 45.93}",
+    "county_names_all": "Marion|Walthall",
+    "county_fips_all": "28091|28147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 98609,
+    "lat": 46.0717,
+    "lng": -122.86569,
+    "city": "Carrolls",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 53015,
+    "county_name": "Cowlitz",
+    "county_weights": "{\"53015\": 100}",
+    "county_names_all": "Cowlitz",
+    "county_fips_all": "53015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

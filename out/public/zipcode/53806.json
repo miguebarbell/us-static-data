@@ -1,0 +1,20 @@
+{
+    "zip": 53806,
+    "lat": 42.73554,
+    "lng": -90.92544,
+    "city": "Cassville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1573.0,
+    "density": 8.7,
+    "county_fips": 55043,
+    "county_name": "Grant",
+    "county_weights": "{\"55043\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "55043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

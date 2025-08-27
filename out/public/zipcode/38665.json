@@ -1,0 +1,20 @@
+{
+    "zip": 38665,
+    "lat": 34.58165,
+    "lng": -90.16693,
+    "city": "Sarah",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3817.0,
+    "density": 22.5,
+    "county_fips": 28137,
+    "county_name": "Tate",
+    "county_weights": "{\"28137\": 61.62, \"28107\": 26.8, \"28143\": 11.58}",
+    "county_names_all": "Tate|Panola|Tunica",
+    "county_fips_all": "28137|28107|28143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 55364,
+    "lat": 44.93974,
+    "lng": -93.67486,
+    "city": "Mound",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13959.0,
+    "density": 355.2,
+    "county_fips": 27053,
+    "county_name": "Hennepin",
+    "county_weights": "{\"27053\": 100}",
+    "county_names_all": "Hennepin",
+    "county_fips_all": "27053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

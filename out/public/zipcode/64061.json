@@ -1,0 +1,20 @@
+{
+    "zip": 64061,
+    "lat": 38.77981,
+    "lng": -94.0885,
+    "city": "Kingsville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3149.0,
+    "density": 19.6,
+    "county_fips": 29101,
+    "county_name": "Johnson",
+    "county_weights": "{\"29101\": 84.04, \"29037\": 15.34, \"29095\": 0.62}",
+    "county_names_all": "Johnson|Cass|Jackson",
+    "county_fips_all": "29101|29037|29095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

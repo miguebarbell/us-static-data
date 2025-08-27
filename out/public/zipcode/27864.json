@@ -1,0 +1,20 @@
+{
+    "zip": 27864,
+    "lat": 35.8075,
+    "lng": -77.64789,
+    "city": "Pinetops",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4283.0,
+    "density": 40.6,
+    "county_fips": 37065,
+    "county_name": "Edgecombe",
+    "county_weights": "{\"37065\": 100}",
+    "county_names_all": "Edgecombe",
+    "county_fips_all": "37065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 19547,
+    "lat": 40.38315,
+    "lng": -75.76644,
+    "city": "Oley",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4558.0,
+    "density": 61.7,
+    "county_fips": 42011,
+    "county_name": "Berks",
+    "county_weights": "{\"42011\": 100}",
+    "county_names_all": "Berks",
+    "county_fips_all": "42011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

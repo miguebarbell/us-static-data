@@ -1,0 +1,20 @@
+{
+    "zip": 68786,
+    "lat": 42.50351,
+    "lng": -97.55855,
+    "city": "Wausa",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1009.0,
+    "density": 3.1,
+    "county_fips": 31107,
+    "county_name": "Knox",
+    "county_weights": "{\"31107\": 78.67, \"31027\": 17.24, \"31139\": 4.09}",
+    "county_names_all": "Knox|Cedar|Pierce",
+    "county_fips_all": "31107|31027|31139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

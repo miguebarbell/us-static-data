@@ -1,0 +1,20 @@
+{
+    "zip": 98233,
+    "lat": 48.50309,
+    "lng": -122.35102,
+    "city": "Burlington",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17703.0,
+    "density": 206.1,
+    "county_fips": 53057,
+    "county_name": "Skagit",
+    "county_weights": "{\"53057\": 100}",
+    "county_names_all": "Skagit",
+    "county_fips_all": "53057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 91766,
+    "lat": 34.04192,
+    "lng": -117.75698,
+    "city": "Pomona",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 68673.0,
+    "density": 2625.6,
+    "county_fips": 6037,
+    "county_name": "Los Angeles",
+    "county_weights": "{\"06037\": 95.85, \"06071\": 4.15}",
+    "county_names_all": "Los Angeles|San Bernardino",
+    "county_fips_all": "06037|06071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

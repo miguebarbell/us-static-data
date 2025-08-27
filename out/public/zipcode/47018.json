@@ -1,0 +1,20 @@
+{
+    "zip": 47018,
+    "lat": 38.98684,
+    "lng": -85.0866,
+    "city": "Dillsboro",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4725.0,
+    "density": 24.5,
+    "county_fips": 18029,
+    "county_name": "Dearborn",
+    "county_weights": "{\"18029\": 45.05, \"18115\": 27.59, \"18137\": 24.29, \"18155\": 3.06}",
+    "county_names_all": "Dearborn|Ohio|Ripley|Switzerland",
+    "county_fips_all": "18029|18115|18137|18155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

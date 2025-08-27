@@ -1,0 +1,20 @@
+{
+    "zip": 65688,
+    "lat": 36.64928,
+    "lng": -91.69328,
+    "city": "Brandsville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 50.0,
+    "density": 74.8,
+    "county_fips": 29091,
+    "county_name": "Howell",
+    "county_weights": "{\"29091\": 100}",
+    "county_names_all": "Howell",
+    "county_fips_all": "29091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

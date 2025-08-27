@@ -1,0 +1,20 @@
+{
+    "zip": 44420,
+    "lat": 41.17384,
+    "lng": -80.67726,
+    "city": "Girard",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15066.0,
+    "density": 392.4,
+    "county_fips": 39155,
+    "county_name": "Trumbull",
+    "county_weights": "{\"39155\": 100}",
+    "county_names_all": "Trumbull",
+    "county_fips_all": "39155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

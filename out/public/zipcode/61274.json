@@ -1,0 +1,20 @@
+{
+    "zip": 61274,
+    "lat": 41.37031,
+    "lng": -90.27666,
+    "city": "Osco",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 206.0,
+    "density": 3.4,
+    "county_fips": 17073,
+    "county_name": "Henry",
+    "county_weights": "{\"17073\": 100}",
+    "county_names_all": "Henry",
+    "county_fips_all": "17073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

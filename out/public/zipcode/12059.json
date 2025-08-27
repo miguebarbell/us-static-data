@@ -1,0 +1,20 @@
+{
+    "zip": 12059,
+    "lat": 42.61403,
+    "lng": -74.05811,
+    "city": "East Berne",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1531.0,
+    "density": 25.9,
+    "county_fips": 36001,
+    "county_name": "Albany",
+    "county_weights": "{\"36001\": 100}",
+    "county_names_all": "Albany",
+    "county_fips_all": "36001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72425,
+    "lat": 36.22138,
+    "lng": -90.74308,
+    "city": "Delaplaine",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 416.0,
+    "density": 2.0,
+    "county_fips": 5055,
+    "county_name": "Greene",
+    "county_weights": "{\"05055\": 82.19, \"05121\": 17.81}",
+    "county_names_all": "Greene|Randolph",
+    "county_fips_all": "05055|05121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

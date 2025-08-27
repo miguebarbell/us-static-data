@@ -1,0 +1,20 @@
+{
+    "zip": 57793,
+    "lat": 44.51824,
+    "lng": -103.581,
+    "city": "Whitewood",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2042.0,
+    "density": 5.2,
+    "county_fips": 46081,
+    "county_name": "Lawrence",
+    "county_weights": "{\"46081\": 54.19, \"46093\": 38.6, \"46019\": 7.21}",
+    "county_names_all": "Lawrence|Meade|Butte",
+    "county_fips_all": "46081|46093|46019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

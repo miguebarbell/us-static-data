@@ -1,0 +1,20 @@
+{
+    "zip": 46562,
+    "lat": 41.20947,
+    "lng": -85.69757,
+    "city": "Pierceton",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5118.0,
+    "density": 32.8,
+    "county_fips": 18085,
+    "county_name": "Kosciusko",
+    "county_weights": "{\"18085\": 83.78, \"18183\": 12.46, \"18113\": 3.76}",
+    "county_names_all": "Kosciusko|Whitley|Noble",
+    "county_fips_all": "18085|18183|18113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

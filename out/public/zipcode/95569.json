@@ -1,0 +1,20 @@
+{
+    "zip": 95569,
+    "lat": 40.36078,
+    "lng": -123.85818,
+    "city": "Redcrest",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 190.0,
+    "density": 1.3,
+    "county_fips": 6023,
+    "county_name": "Humboldt",
+    "county_weights": "{\"06023\": 100}",
+    "county_names_all": "Humboldt",
+    "county_fips_all": "06023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 96031,
+    "lat": 41.17262,
+    "lng": -123.18029,
+    "city": "Forks Of Salmon",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 70.0,
+    "density": 0.1,
+    "county_fips": 6093,
+    "county_name": "Siskiyou",
+    "county_weights": "{\"06093\": 100}",
+    "county_names_all": "Siskiyou",
+    "county_fips_all": "06093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

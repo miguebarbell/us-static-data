@@ -1,0 +1,20 @@
+{
+    "zip": 70733,
+    "lat": 30.30437,
+    "lng": -90.79487,
+    "city": "French Settlement",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1497.0,
+    "density": 51.8,
+    "county_fips": 22063,
+    "county_name": "Livingston",
+    "county_weights": "{\"22063\": 100}",
+    "county_names_all": "Livingston",
+    "county_fips_all": "22063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

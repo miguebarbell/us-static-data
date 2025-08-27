@@ -1,0 +1,20 @@
+{
+    "zip": 43557,
+    "lat": 41.48354,
+    "lng": -84.39693,
+    "city": "Stryker",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3219.0,
+    "density": 29.7,
+    "county_fips": 39171,
+    "county_name": "Williams",
+    "county_weights": "{\"39171\": 92.17, \"39069\": 6.32, \"39051\": 1.51}",
+    "county_names_all": "Williams|Henry|Fulton",
+    "county_fips_all": "39171|39069|39051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

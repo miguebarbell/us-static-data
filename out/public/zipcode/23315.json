@@ -1,0 +1,20 @@
+{
+    "zip": 23315,
+    "lat": 36.73861,
+    "lng": -76.84289,
+    "city": "Carrsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1599.0,
+    "density": 20.6,
+    "county_fips": 51093,
+    "county_name": "Isle of Wight",
+    "county_weights": "{\"51093\": 100}",
+    "county_names_all": "Isle of Wight",
+    "county_fips_all": "51093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

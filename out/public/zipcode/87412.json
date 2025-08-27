@@ -1,0 +1,20 @@
+{
+    "zip": 87412,
+    "lat": 36.6569,
+    "lng": -107.51956,
+    "city": "Blanco",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1422.0,
+    "density": 1.2,
+    "county_fips": 35039,
+    "county_name": "Rio Arriba",
+    "county_weights": "{\"35039\": 72.13, \"35045\": 27.87}",
+    "county_names_all": "Rio Arriba|San Juan",
+    "county_fips_all": "35039|35045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

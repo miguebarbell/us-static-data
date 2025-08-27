@@ -1,0 +1,20 @@
+{
+    "zip": 73718,
+    "lat": 36.20799,
+    "lng": -98.16898,
+    "city": "Ames",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 449.0,
+    "density": 2.0,
+    "county_fips": 40093,
+    "county_name": "Major",
+    "county_weights": "{\"40093\": 76.27, \"40073\": 16.75, \"40047\": 6.98}",
+    "county_names_all": "Major|Kingfisher|Garfield",
+    "county_fips_all": "40093|40073|40047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

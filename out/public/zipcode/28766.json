@@ -1,0 +1,20 @@
+{
+    "zip": 28766,
+    "lat": 35.24945,
+    "lng": -82.61923,
+    "city": "Penrose",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1014.0,
+    "density": 65.3,
+    "county_fips": 37175,
+    "county_name": "Transylvania",
+    "county_weights": "{\"37175\": 87.11, \"37089\": 12.89}",
+    "county_names_all": "Transylvania|Henderson",
+    "county_fips_all": "37175|37089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

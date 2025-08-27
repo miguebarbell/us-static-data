@@ -1,0 +1,20 @@
+{
+    "zip": 3851,
+    "lat": 43.43606,
+    "lng": -71.01633,
+    "city": "Milton",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4286.0,
+    "density": 62.9,
+    "county_fips": 33017,
+    "county_name": "Strafford",
+    "county_weights": "{\"33017\": 100}",
+    "county_names_all": "Strafford",
+    "county_fips_all": "33017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

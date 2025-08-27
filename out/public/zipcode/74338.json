@@ -1,0 +1,20 @@
+{
+    "zip": 74338,
+    "lat": 36.26234,
+    "lng": -94.71572,
+    "city": "Colcord",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5306.0,
+    "density": 14.5,
+    "county_fips": 40041,
+    "county_name": "Delaware",
+    "county_weights": "{\"40041\": 99.74, \"40001\": 0.26}",
+    "county_names_all": "Delaware|Adair",
+    "county_fips_all": "40041|40001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

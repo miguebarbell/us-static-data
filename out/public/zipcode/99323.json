@@ -1,0 +1,20 @@
+{
+    "zip": 99323,
+    "lat": 46.18677,
+    "lng": -118.85061,
+    "city": "Burbank",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4198.0,
+    "density": 12.2,
+    "county_fips": 53071,
+    "county_name": "Walla Walla",
+    "county_weights": "{\"53071\": 100}",
+    "county_names_all": "Walla Walla",
+    "county_fips_all": "53071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

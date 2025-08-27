@@ -1,0 +1,20 @@
+{
+    "zip": 77420,
+    "lat": 29.23404,
+    "lng": -95.91908,
+    "city": "Boling",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2461.0,
+    "density": 10.7,
+    "county_fips": 48481,
+    "county_name": "Wharton",
+    "county_weights": "{\"48481\": 62.12, \"48321\": 26.09, \"48157\": 11.79}",
+    "county_names_all": "Wharton|Matagorda|Fort Bend",
+    "county_fips_all": "48481|48321|48157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 18925,
+    "lat": 40.2851,
+    "lng": -75.05934,
+    "city": "Furlong",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6650.0,
+    "density": 259.4,
+    "county_fips": 42017,
+    "county_name": "Bucks",
+    "county_weights": "{\"42017\": 100}",
+    "county_names_all": "Bucks",
+    "county_fips_all": "42017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

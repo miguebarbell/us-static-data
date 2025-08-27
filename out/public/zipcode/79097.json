@@ -1,0 +1,20 @@
+{
+    "zip": 79097,
+    "lat": 35.43104,
+    "lng": -101.17405,
+    "city": "White Deer",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1319.0,
+    "density": 4.0,
+    "county_fips": 48065,
+    "county_name": "Carson",
+    "county_weights": "{\"48065\": 94.85, \"48179\": 5.15}",
+    "county_names_all": "Carson|Gray",
+    "county_fips_all": "48065|48179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

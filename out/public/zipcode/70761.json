@@ -1,0 +1,20 @@
+{
+    "zip": 70761,
+    "lat": 30.97429,
+    "lng": -91.03129,
+    "city": "Norwood",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 551.0,
+    "density": 3.3,
+    "county_fips": 22037,
+    "county_name": "East Feliciana",
+    "county_weights": "{\"22037\": 100}",
+    "county_names_all": "East Feliciana",
+    "county_fips_all": "22037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

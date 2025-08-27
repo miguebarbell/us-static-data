@@ -1,0 +1,20 @@
+{
+    "zip": 54733,
+    "lat": 45.28331,
+    "lng": -91.85641,
+    "city": "Dallas",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1311.0,
+    "density": 11.3,
+    "county_fips": 55005,
+    "county_name": "Barron",
+    "county_weights": "{\"55005\": 100}",
+    "county_names_all": "Barron",
+    "county_fips_all": "55005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

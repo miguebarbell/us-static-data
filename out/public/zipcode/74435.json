@@ -1,0 +1,20 @@
+{
+    "zip": 74435,
+    "lat": 35.57862,
+    "lng": -95.09405,
+    "city": "Gore",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3004.0,
+    "density": 18.5,
+    "county_fips": 40135,
+    "county_name": "Sequoyah",
+    "county_weights": "{\"40135\": 74.39, \"40101\": 25.61}",
+    "county_names_all": "Sequoyah|Muskogee",
+    "county_fips_all": "40135|40101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

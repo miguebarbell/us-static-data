@@ -1,0 +1,20 @@
+{
+    "zip": 75949,
+    "lat": 31.22907,
+    "lng": -94.51782,
+    "city": "Huntington",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9041.0,
+    "density": 17.0,
+    "county_fips": 48005,
+    "county_name": "Angelina",
+    "county_weights": "{\"48005\": 100}",
+    "county_names_all": "Angelina",
+    "county_fips_all": "48005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 98944,
+    "lat": 46.49998,
+    "lng": -119.66533,
+    "city": "Sunnyside",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24048.0,
+    "density": 17.0,
+    "county_fips": 53005,
+    "county_name": "Benton",
+    "county_weights": "{\"53005\": 73.37, \"53077\": 26.63}",
+    "county_names_all": "Benton|Yakima",
+    "county_fips_all": "53005|53077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

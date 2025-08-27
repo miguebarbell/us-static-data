@@ -1,0 +1,20 @@
+{
+    "zip": 40063,
+    "lat": 37.57052,
+    "lng": -85.34336,
+    "city": "Saint Mary",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 468.0,
+    "density": 2410.8,
+    "county_fips": 21155,
+    "county_name": "Marion",
+    "county_weights": "{\"21155\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "21155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

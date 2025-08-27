@@ -1,0 +1,20 @@
+{
+    "zip": 24219,
+    "lat": 36.84831,
+    "lng": -82.74645,
+    "city": "Big Stone Gap",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10416.0,
+    "density": 55.3,
+    "county_fips": 51195,
+    "county_name": "Wise",
+    "county_weights": "{\"51195\": 68.51, \"51105\": 24.44, \"51169\": 7.05}",
+    "county_names_all": "Wise|Lee|Scott",
+    "county_fips_all": "51195|51105|51169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

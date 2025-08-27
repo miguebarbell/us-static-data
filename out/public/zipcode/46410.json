@@ -1,0 +1,20 @@
+{
+    "zip": 46410,
+    "lat": 41.48083,
+    "lng": -87.33293,
+    "city": "Merrillville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38803.0,
+    "density": 498.5,
+    "county_fips": 18089,
+    "county_name": "Lake",
+    "county_weights": "{\"18089\": 100}",
+    "county_names_all": "Lake",
+    "county_fips_all": "18089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

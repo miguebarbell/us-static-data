@@ -1,0 +1,20 @@
+{
+    "zip": 23944,
+    "lat": 36.9056,
+    "lng": -78.13319,
+    "city": "Kenbridge",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3812.0,
+    "density": 11.5,
+    "county_fips": 51111,
+    "county_name": "Lunenburg",
+    "county_weights": "{\"51111\": 100}",
+    "county_names_all": "Lunenburg",
+    "county_fips_all": "51111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

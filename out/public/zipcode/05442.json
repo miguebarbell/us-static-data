@@ -1,0 +1,20 @@
+{
+    "zip": 5442,
+    "lat": 44.76164,
+    "lng": -72.68043,
+    "city": "Belvidere Center",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 439.0,
+    "density": 4.8,
+    "county_fips": 50015,
+    "county_name": "Lamoille",
+    "county_weights": "{\"50015\": 100}",
+    "county_names_all": "Lamoille",
+    "county_fips_all": "50015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

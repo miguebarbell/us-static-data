@@ -1,0 +1,20 @@
+{
+    "zip": 75792,
+    "lat": 32.4679,
+    "lng": -95.10623,
+    "city": "Winona",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3934.0,
+    "density": 19.0,
+    "county_fips": 48423,
+    "county_name": "Smith",
+    "county_weights": "{\"48423\": 100}",
+    "county_names_all": "Smith",
+    "county_fips_all": "48423",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

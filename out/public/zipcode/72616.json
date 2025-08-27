@@ -1,0 +1,20 @@
+{
+    "zip": 72616,
+    "lat": 36.35047,
+    "lng": -93.55736,
+    "city": "Berryville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11046.0,
+    "density": 21.0,
+    "county_fips": 5015,
+    "county_name": "Carroll",
+    "county_weights": "{\"05015\": 100}",
+    "county_names_all": "Carroll",
+    "county_fips_all": "05015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

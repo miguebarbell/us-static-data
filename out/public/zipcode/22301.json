@@ -1,0 +1,20 @@
+{
+    "zip": 22301,
+    "lat": 38.81995,
+    "lng": -77.05934,
+    "city": "Alexandria",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13830.0,
+    "density": 3847.2,
+    "county_fips": 51510,
+    "county_name": "Alexandria",
+    "county_weights": "{\"51510\": 100}",
+    "county_names_all": "Alexandria",
+    "county_fips_all": "51510",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

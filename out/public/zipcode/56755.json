@@ -1,0 +1,20 @@
+{
+    "zip": 56755,
+    "lat": 48.97141,
+    "lng": -97.1152,
+    "city": "Saint Vincent",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 75.0,
+    "density": 0.6,
+    "county_fips": 27069,
+    "county_name": "Kittson",
+    "county_weights": "{\"27069\": 100}",
+    "county_names_all": "Kittson",
+    "county_fips_all": "27069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

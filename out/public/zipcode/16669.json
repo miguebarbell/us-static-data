@@ -1,0 +1,20 @@
+{
+    "zip": 16669,
+    "lat": 40.65737,
+    "lng": -77.90675,
+    "city": "Petersburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2104.0,
+    "density": 7.7,
+    "county_fips": 42061,
+    "county_name": "Huntingdon",
+    "county_weights": "{\"42061\": 99.9, \"42027\": 0.1}",
+    "county_names_all": "Huntingdon|Centre",
+    "county_fips_all": "42061|42027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

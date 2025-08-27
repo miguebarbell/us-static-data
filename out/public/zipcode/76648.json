@@ -1,0 +1,20 @@
+{
+    "zip": 76648,
+    "lat": 31.84942,
+    "lng": -96.80659,
+    "city": "Hubbard",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2922.0,
+    "density": 10.9,
+    "county_fips": 48217,
+    "county_name": "Hill",
+    "county_weights": "{\"48217\": 74.22, \"48293\": 14.0, \"48349\": 11.78}",
+    "county_names_all": "Hill|Limestone|Navarro",
+    "county_fips_all": "48217|48293|48349",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

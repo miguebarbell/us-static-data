@@ -1,0 +1,20 @@
+{
+    "zip": 63746,
+    "lat": 37.70783,
+    "lng": -89.69484,
+    "city": "Farrar",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11.0,
+    "density": 3.4,
+    "county_fips": 29157,
+    "county_name": "Perry",
+    "county_weights": "{\"29157\": 100}",
+    "county_names_all": "Perry",
+    "county_fips_all": "29157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

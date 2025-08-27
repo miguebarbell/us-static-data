@@ -1,0 +1,20 @@
+{
+    "zip": 54828,
+    "lat": 45.84201,
+    "lng": -91.2934,
+    "city": "Couderay",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 625.0,
+    "density": 3.5,
+    "county_fips": 55113,
+    "county_name": "Sawyer",
+    "county_weights": "{\"55113\": 100}",
+    "county_names_all": "Sawyer",
+    "county_fips_all": "55113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

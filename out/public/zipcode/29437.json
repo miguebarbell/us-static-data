@@ -1,0 +1,20 @@
+{
+    "zip": 29437,
+    "lat": 33.13673,
+    "lng": -80.42319,
+    "city": "Dorchester",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2287.0,
+    "density": 10.5,
+    "county_fips": 45035,
+    "county_name": "Dorchester",
+    "county_weights": "{\"45035\": 100}",
+    "county_names_all": "Dorchester",
+    "county_fips_all": "45035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

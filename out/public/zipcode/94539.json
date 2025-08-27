@@ -1,0 +1,20 @@
+{
+    "zip": 94539,
+    "lat": 37.51635,
+    "lng": -121.9119,
+    "city": "Fremont",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 52609.0,
+    "density": 810.1,
+    "county_fips": 6001,
+    "county_name": "Alameda",
+    "county_weights": "{\"06001\": 100}",
+    "county_names_all": "Alameda",
+    "county_fips_all": "06001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

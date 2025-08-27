@@ -1,0 +1,20 @@
+{
+    "zip": 67529,
+    "lat": 38.0728,
+    "lng": -99.25436,
+    "city": "Garfield",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 336.0,
+    "density": 1.2,
+    "county_fips": 20145,
+    "county_name": "Pawnee",
+    "county_weights": "{\"20145\": 100}",
+    "county_names_all": "Pawnee",
+    "county_fips_all": "20145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 17878,
+    "lat": 41.1721,
+    "lng": -76.32364,
+    "city": "Stillwater",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1573.0,
+    "density": 27.6,
+    "county_fips": 42037,
+    "county_name": "Columbia",
+    "county_weights": "{\"42037\": 70.95, \"42079\": 29.05}",
+    "county_names_all": "Columbia|Luzerne",
+    "county_fips_all": "42037|42079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

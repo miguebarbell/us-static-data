@@ -1,0 +1,20 @@
+{
+    "zip": 54406,
+    "lat": 44.41122,
+    "lng": -89.31211,
+    "city": "Amherst",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4008.0,
+    "density": 23.3,
+    "county_fips": 55097,
+    "county_name": "Portage",
+    "county_weights": "{\"55097\": 100}",
+    "county_names_all": "Portage",
+    "county_fips_all": "55097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

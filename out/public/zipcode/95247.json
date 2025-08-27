@@ -1,0 +1,20 @@
+{
+    "zip": 95247,
+    "lat": 38.14264,
+    "lng": -120.44359,
+    "city": "Murphys",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3682.0,
+    "density": 30.2,
+    "county_fips": 6009,
+    "county_name": "Calaveras",
+    "county_weights": "{\"06009\": 100}",
+    "county_names_all": "Calaveras",
+    "county_fips_all": "06009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65790,
+    "lat": 36.69784,
+    "lng": -92.11326,
+    "city": "Pottersville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 925.0,
+    "density": 6.2,
+    "county_fips": 29091,
+    "county_name": "Howell",
+    "county_weights": "{\"29091\": 51.76, \"29153\": 48.24}",
+    "county_names_all": "Howell|Ozark",
+    "county_fips_all": "29091|29153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

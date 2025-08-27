@@ -1,0 +1,20 @@
+{
+    "zip": 53147,
+    "lat": 42.57075,
+    "lng": -88.45024,
+    "city": "Lake Geneva",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18440.0,
+    "density": 102.0,
+    "county_fips": 55127,
+    "county_name": "Walworth",
+    "county_weights": "{\"55127\": 100}",
+    "county_names_all": "Walworth",
+    "county_fips_all": "55127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

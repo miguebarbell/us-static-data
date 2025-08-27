@@ -1,0 +1,20 @@
+{
+    "zip": 58442,
+    "lat": 46.56518,
+    "lng": -99.18184,
+    "city": "Gackle",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 442.0,
+    "density": 0.7,
+    "county_fips": 38047,
+    "county_name": "Logan",
+    "county_weights": "{\"38047\": 79.45, \"38093\": 20.55}",
+    "county_names_all": "Logan|Stutsman",
+    "county_fips_all": "38047|38093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

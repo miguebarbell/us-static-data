@@ -1,0 +1,20 @@
+{
+    "zip": 50208,
+    "lat": 41.71129,
+    "lng": -93.03924,
+    "city": "Newton",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20270.0,
+    "density": 49.4,
+    "county_fips": 19099,
+    "county_name": "Jasper",
+    "county_weights": "{\"19099\": 100}",
+    "county_names_all": "Jasper",
+    "county_fips_all": "19099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

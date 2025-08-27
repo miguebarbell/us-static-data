@@ -1,0 +1,20 @@
+{
+    "zip": 27810,
+    "lat": 35.58637,
+    "lng": -76.49706,
+    "city": "Belhaven",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3637.0,
+    "density": 6.9,
+    "county_fips": 37095,
+    "county_name": "Hyde",
+    "county_weights": "{\"37095\": 60.22, \"37013\": 39.78}",
+    "county_names_all": "Hyde|Beaufort",
+    "county_fips_all": "37095|37013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

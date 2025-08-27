@@ -1,0 +1,20 @@
+{
+    "zip": 48473,
+    "lat": 42.94012,
+    "lng": -83.8274,
+    "city": "Swartz Creek",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22793.0,
+    "density": 156.5,
+    "county_fips": 26049,
+    "county_name": "Genesee",
+    "county_weights": "{\"26049\": 100}",
+    "county_names_all": "Genesee",
+    "county_fips_all": "26049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

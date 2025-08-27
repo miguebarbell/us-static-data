@@ -1,0 +1,20 @@
+{
+    "zip": 18846,
+    "lat": 41.60494,
+    "lng": -76.23929,
+    "city": "Sugar Run",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 760.0,
+    "density": 12.8,
+    "county_fips": 42015,
+    "county_name": "Bradford",
+    "county_weights": "{\"42015\": 99.58, \"42131\": 0.42}",
+    "county_names_all": "Bradford|Wyoming",
+    "county_fips_all": "42015|42131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

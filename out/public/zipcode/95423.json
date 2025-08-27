@@ -1,0 +1,20 @@
+{
+    "zip": 95423,
+    "lat": 39.06749,
+    "lng": -122.62753,
+    "city": "Clearlake Oaks",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3432.0,
+    "density": 10.8,
+    "county_fips": 6033,
+    "county_name": "Lake",
+    "county_weights": "{\"06033\": 100}",
+    "county_names_all": "Lake",
+    "county_fips_all": "06033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

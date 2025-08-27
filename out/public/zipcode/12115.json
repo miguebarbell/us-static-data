@@ -1,0 +1,20 @@
+{
+    "zip": 12115,
+    "lat": 42.46747,
+    "lng": -73.59338,
+    "city": "Malden Bridge",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 62.0,
+    "density": 6.7,
+    "county_fips": 36021,
+    "county_name": "Columbia",
+    "county_weights": "{\"36021\": 100}",
+    "county_names_all": "Columbia",
+    "county_fips_all": "36021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

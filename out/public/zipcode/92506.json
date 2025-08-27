@@ -1,0 +1,20 @@
+{
+    "zip": 92506,
+    "lat": 33.93478,
+    "lng": -117.36689,
+    "city": "Riverside",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44311.0,
+    "density": 1055.5,
+    "county_fips": 6065,
+    "county_name": "Riverside",
+    "county_weights": "{\"06065\": 100}",
+    "county_names_all": "Riverside",
+    "county_fips_all": "06065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

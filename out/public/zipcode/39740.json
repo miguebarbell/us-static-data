@@ -1,0 +1,20 @@
+{
+    "zip": 39740,
+    "lat": 33.71668,
+    "lng": -88.31287,
+    "city": "Caledonia",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5893.0,
+    "density": 28.6,
+    "county_fips": 28087,
+    "county_name": "Lowndes",
+    "county_weights": "{\"28087\": 68.23, \"28095\": 31.77}",
+    "county_names_all": "Lowndes|Monroe",
+    "county_fips_all": "28087|28095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 70032,
+    "lat": 29.95128,
+    "lng": -89.9958,
+    "city": "Arabi",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4436.0,
+    "density": 838.3,
+    "county_fips": 22087,
+    "county_name": "St. Bernard",
+    "county_weights": "{\"22087\": 100}",
+    "county_names_all": "St. Bernard",
+    "county_fips_all": "22087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

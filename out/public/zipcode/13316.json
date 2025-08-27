@@ -1,0 +1,20 @@
+{
+    "zip": 13316,
+    "lat": 43.41492,
+    "lng": -75.73963,
+    "city": "Camden",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5924.0,
+    "density": 13.5,
+    "county_fips": 36065,
+    "county_name": "Oneida",
+    "county_weights": "{\"36065\": 68.18, \"36049\": 28.99, \"36075\": 2.83}",
+    "county_names_all": "Oneida|Lewis|Oswego",
+    "county_fips_all": "36065|36049|36075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

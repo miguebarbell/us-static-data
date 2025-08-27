@@ -1,0 +1,20 @@
+{
+    "zip": 78526,
+    "lat": 25.99587,
+    "lng": -97.44991,
+    "city": "Brownsville",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 59719.0,
+    "density": 486.4,
+    "county_fips": 48061,
+    "county_name": "Cameron",
+    "county_weights": "{\"48061\": 100}",
+    "county_names_all": "Cameron",
+    "county_fips_all": "48061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

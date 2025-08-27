@@ -1,0 +1,20 @@
+{
+    "zip": 18371,
+    "lat": 41.15837,
+    "lng": -75.03658,
+    "city": "Tamiment",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 977.0,
+    "density": 48.6,
+    "county_fips": 42103,
+    "county_name": "Pike",
+    "county_weights": "{\"42103\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "42103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

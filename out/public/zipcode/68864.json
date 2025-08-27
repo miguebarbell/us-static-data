@@ -1,0 +1,20 @@
+{
+    "zip": 68864,
+    "lat": 41.2608,
+    "lng": -98.24046,
+    "city": "Palmer",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1065.0,
+    "density": 2.4,
+    "county_fips": 31121,
+    "county_name": "Merrick",
+    "county_weights": "{\"31121\": 38.05, \"31125\": 37.37, \"31093\": 24.57}",
+    "county_names_all": "Merrick|Nance|Howard",
+    "county_fips_all": "31121|31125|31093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

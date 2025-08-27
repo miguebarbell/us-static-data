@@ -1,0 +1,20 @@
+{
+    "zip": 99326,
+    "lat": 46.66705,
+    "lng": -118.83769,
+    "city": "Connell",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5875.0,
+    "density": 9.4,
+    "county_fips": 53021,
+    "county_name": "Franklin",
+    "county_weights": "{\"53021\": 87.98, \"53001\": 12.02}",
+    "county_names_all": "Franklin|Adams",
+    "county_fips_all": "53021|53001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

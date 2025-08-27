@@ -1,0 +1,20 @@
+{
+    "zip": 42066,
+    "lat": 36.73328,
+    "lng": -88.6403,
+    "city": "Mayfield",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23635.0,
+    "density": 42.0,
+    "county_fips": 21083,
+    "county_name": "Graves",
+    "county_weights": "{\"21083\": 98.14, \"21157\": 1.69, \"21035\": 0.17}",
+    "county_names_all": "Graves|Marshall|Calloway",
+    "county_fips_all": "21083|21157|21035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

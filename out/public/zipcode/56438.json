@@ -1,0 +1,20 @@
+{
+    "zip": 56438,
+    "lat": 46.13873,
+    "lng": -94.80874,
+    "city": "Browerville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2830.0,
+    "density": 7.7,
+    "county_fips": 27153,
+    "county_name": "Todd",
+    "county_weights": "{\"27153\": 100}",
+    "county_names_all": "Todd",
+    "county_fips_all": "27153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

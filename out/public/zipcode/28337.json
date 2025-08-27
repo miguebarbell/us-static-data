@@ -1,0 +1,20 @@
+{
+    "zip": 28337,
+    "lat": 34.66094,
+    "lng": -78.57733,
+    "city": "Elizabethtown",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8747.0,
+    "density": 20.3,
+    "county_fips": 37017,
+    "county_name": "Bladen",
+    "county_weights": "{\"37017\": 100}",
+    "county_names_all": "Bladen",
+    "county_fips_all": "37017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

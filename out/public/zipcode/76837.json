@@ -1,0 +1,20 @@
+{
+    "zip": 76837,
+    "lat": 31.21098,
+    "lng": -99.88176,
+    "city": "Eden",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1946.0,
+    "density": 1.9,
+    "county_fips": 48095,
+    "county_name": "Concho",
+    "county_weights": "{\"48095\": 100}",
+    "county_names_all": "Concho",
+    "county_fips_all": "48095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

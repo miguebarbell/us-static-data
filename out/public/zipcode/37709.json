@@ -1,0 +1,20 @@
+{
+    "zip": 37709,
+    "lat": 36.16798,
+    "lng": -83.66479,
+    "city": "Blaine",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3948.0,
+    "density": 36.7,
+    "county_fips": 47057,
+    "county_name": "Grainger",
+    "county_weights": "{\"47057\": 98.65, \"47093\": 1.35}",
+    "county_names_all": "Grainger|Knox",
+    "county_fips_all": "47057|47093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

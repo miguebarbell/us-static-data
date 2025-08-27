@@ -1,0 +1,20 @@
+{
+    "zip": 32927,
+    "lat": 28.46372,
+    "lng": -80.80709,
+    "city": "Cocoa",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28493.0,
+    "density": 428.9,
+    "county_fips": 12009,
+    "county_name": "Brevard",
+    "county_weights": "{\"12009\": 100}",
+    "county_names_all": "Brevard",
+    "county_fips_all": "12009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

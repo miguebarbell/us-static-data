@@ -1,0 +1,20 @@
+{
+    "zip": 59644,
+    "lat": 46.419,
+    "lng": -111.43885,
+    "city": "Townsend",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4337.0,
+    "density": 2.3,
+    "county_fips": 30007,
+    "county_name": "Broadwater",
+    "county_weights": "{\"30007\": 100}",
+    "county_names_all": "Broadwater",
+    "county_fips_all": "30007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

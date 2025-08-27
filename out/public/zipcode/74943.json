@@ -1,0 +1,20 @@
+{
+    "zip": 74943,
+    "lat": 35.1007,
+    "lng": -95.106,
+    "city": "Lequire",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 99.0,
+    "density": 37.7,
+    "county_fips": 40061,
+    "county_name": "Haskell",
+    "county_weights": "{\"40061\": 100}",
+    "county_names_all": "Haskell",
+    "county_fips_all": "40061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

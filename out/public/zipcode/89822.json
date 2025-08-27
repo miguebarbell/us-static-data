@@ -1,0 +1,20 @@
+{
+    "zip": 89822,
+    "lat": 40.49237,
+    "lng": -116.189,
+    "city": "Carlin",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2071.0,
+    "density": 3.3,
+    "county_fips": 32011,
+    "county_name": "Eureka",
+    "county_weights": "{\"32011\": 93.12, \"32007\": 6.88}",
+    "county_names_all": "Eureka|Elko",
+    "county_fips_all": "32011|32007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

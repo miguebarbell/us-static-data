@@ -1,0 +1,20 @@
+{
+    "zip": 68629,
+    "lat": 41.71336,
+    "lng": -97.12936,
+    "city": "Clarkson",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1211.0,
+    "density": 3.3,
+    "county_fips": 31037,
+    "county_name": "Colfax",
+    "county_weights": "{\"31037\": 63.7, \"31167\": 36.3}",
+    "county_names_all": "Colfax|Stanton",
+    "county_fips_all": "31037|31167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 57754,
+    "lat": 44.26193,
+    "lng": -103.87478,
+    "city": "Lead",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3605.0,
+    "density": 5.3,
+    "county_fips": 46081,
+    "county_name": "Lawrence",
+    "county_weights": "{\"46081\": 100}",
+    "county_names_all": "Lawrence",
+    "county_fips_all": "46081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

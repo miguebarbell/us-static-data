@@ -1,0 +1,20 @@
+{
+    "zip": 92867,
+    "lat": 33.81443,
+    "lng": -117.79617,
+    "city": "Orange",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44003.0,
+    "density": 1415.5,
+    "county_fips": 6059,
+    "county_name": "Orange",
+    "county_weights": "{\"06059\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "06059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 17748,
+    "lat": 41.15147,
+    "lng": -77.35043,
+    "city": "McElhattan",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 141.0,
+    "density": 55.7,
+    "county_fips": 42035,
+    "county_name": "Clinton",
+    "county_weights": "{\"42035\": 100}",
+    "county_names_all": "Clinton",
+    "county_fips_all": "42035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

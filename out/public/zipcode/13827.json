@@ -1,0 +1,20 @@
+{
+    "zip": 13827,
+    "lat": 42.11178,
+    "lng": -76.25216,
+    "city": "Owego",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11713.0,
+    "density": 49.9,
+    "county_fips": 36107,
+    "county_name": "Tioga",
+    "county_weights": "{\"36107\": 100}",
+    "county_names_all": "Tioga",
+    "county_fips_all": "36107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

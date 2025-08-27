@@ -1,0 +1,20 @@
+{
+    "zip": 24884,
+    "lat": 37.27943,
+    "lng": -81.55048,
+    "city": "Squire",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 120.0,
+    "density": 2.1,
+    "county_fips": 54047,
+    "county_name": "McDowell",
+    "county_weights": "{\"54047\": 100}",
+    "county_names_all": "McDowell",
+    "county_fips_all": "54047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 41014,
+    "lat": 39.0655,
+    "lng": -84.50464,
+    "city": "Covington",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7118.0,
+    "density": 2676.9,
+    "county_fips": 21117,
+    "county_name": "Kenton",
+    "county_weights": "{\"21117\": 100}",
+    "county_names_all": "Kenton",
+    "county_fips_all": "21117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

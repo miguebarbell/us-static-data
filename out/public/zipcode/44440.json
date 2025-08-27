@@ -1,0 +1,20 @@
+{
+    "zip": 44440,
+    "lat": 41.1482,
+    "lng": -80.78439,
+    "city": "Mineral Ridge",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4932.0,
+    "density": 226.2,
+    "county_fips": 39155,
+    "county_name": "Trumbull",
+    "county_weights": "{\"39155\": 91.52, \"39099\": 8.48}",
+    "county_names_all": "Trumbull|Mahoning",
+    "county_fips_all": "39155|39099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

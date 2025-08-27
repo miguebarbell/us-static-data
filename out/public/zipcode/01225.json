@@ -1,0 +1,20 @@
+{
+    "zip": 1225,
+    "lat": 42.56385,
+    "lng": -73.1512,
+    "city": "Cheshire",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3234.0,
+    "density": 46.6,
+    "county_fips": 25003,
+    "county_name": "Berkshire",
+    "county_weights": "{\"25003\": 100}",
+    "county_names_all": "Berkshire",
+    "county_fips_all": "25003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

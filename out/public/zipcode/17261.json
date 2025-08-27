@@ -1,0 +1,20 @@
+{
+    "zip": 17261,
+    "lat": 39.85981,
+    "lng": -77.51164,
+    "city": "South Mountain",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26.0,
+    "density": 6.2,
+    "county_fips": 42055,
+    "county_name": "Franklin",
+    "county_weights": "{\"42055\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "42055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

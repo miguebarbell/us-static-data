@@ -1,0 +1,20 @@
+{
+    "zip": 75840,
+    "lat": 31.78412,
+    "lng": -96.08552,
+    "city": "Fairfield",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6993.0,
+    "density": 10.1,
+    "county_fips": 48161,
+    "county_name": "Freestone",
+    "county_weights": "{\"48161\": 100}",
+    "county_names_all": "Freestone",
+    "county_fips_all": "48161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 7846,
+    "lat": 40.96694,
+    "lng": -74.87671,
+    "city": "Johnsonburg",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29.0,
+    "density": 136.7,
+    "county_fips": 34041,
+    "county_name": "Warren",
+    "county_weights": "{\"34041\": 100}",
+    "county_names_all": "Warren",
+    "county_fips_all": "34041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

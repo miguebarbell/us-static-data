@@ -1,0 +1,20 @@
+{
+    "zip": 16242,
+    "lat": 41.0031,
+    "lng": -79.35479,
+    "city": "New Bethlehem",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4328.0,
+    "density": 17.9,
+    "county_fips": 42031,
+    "county_name": "Clarion",
+    "county_weights": "{\"42031\": 50.22, \"42005\": 49.78}",
+    "county_names_all": "Clarion|Armstrong",
+    "county_fips_all": "42031|42005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

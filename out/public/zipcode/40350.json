@@ -1,0 +1,20 @@
+{
+    "zip": 40350,
+    "lat": 38.30512,
+    "lng": -83.87881,
+    "city": "Moorefield",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28.0,
+    "density": 0.8,
+    "county_fips": 21181,
+    "county_name": "Nicholas",
+    "county_weights": "{\"21181\": 100}",
+    "county_names_all": "Nicholas",
+    "county_fips_all": "21181",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

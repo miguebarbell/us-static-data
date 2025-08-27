@@ -1,0 +1,20 @@
+{
+    "zip": 84533,
+    "lat": 37.40827,
+    "lng": -110.56844,
+    "city": "Lake Powell",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 103.0,
+    "density": 0.0,
+    "county_fips": 49037,
+    "county_name": "San Juan",
+    "county_weights": "{\"49037\": 68.6, \"49025\": 31.4}",
+    "county_names_all": "San Juan|Kane",
+    "county_fips_all": "49037|49025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

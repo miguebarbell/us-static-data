@@ -1,0 +1,20 @@
+{
+    "zip": 5350,
+    "lat": 42.79879,
+    "lng": -72.97187,
+    "city": "Readsboro",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 799.0,
+    "density": 8.5,
+    "county_fips": 50003,
+    "county_name": "Bennington",
+    "county_weights": "{\"50003\": 99.51, \"50025\": 0.49}",
+    "county_names_all": "Bennington|Windham",
+    "county_fips_all": "50003|50025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

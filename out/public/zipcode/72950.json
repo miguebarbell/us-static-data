@@ -1,0 +1,20 @@
+{
+    "zip": 72950,
+    "lat": 34.79317,
+    "lng": -93.91077,
+    "city": "Parks",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 492.0,
+    "density": 1.8,
+    "county_fips": 5127,
+    "county_name": "Scott",
+    "county_weights": "{\"05127\": 100}",
+    "county_names_all": "Scott",
+    "county_fips_all": "05127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

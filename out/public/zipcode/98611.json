@@ -1,0 +1,20 @@
+{
+    "zip": 98611,
+    "lat": 46.30642,
+    "lng": -122.90479,
+    "city": "Castle Rock",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9367.0,
+    "density": 26.6,
+    "county_fips": 53015,
+    "county_name": "Cowlitz",
+    "county_weights": "{\"53015\": 100}",
+    "county_names_all": "Cowlitz",
+    "county_fips_all": "53015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

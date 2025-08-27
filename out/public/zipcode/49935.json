@@ -1,0 +1,20 @@
+{
+    "zip": 49935,
+    "lat": 46.19493,
+    "lng": -88.7463,
+    "city": "Iron River",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5969.0,
+    "density": 5.0,
+    "county_fips": 26071,
+    "county_name": "Iron",
+    "county_weights": "{\"26071\": 100}",
+    "county_names_all": "Iron",
+    "county_fips_all": "26071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Menominee"
+}

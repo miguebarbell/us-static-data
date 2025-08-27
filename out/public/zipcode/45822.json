@@ -1,0 +1,20 @@
+{
+    "zip": 45822,
+    "lat": 40.55266,
+    "lng": -84.59664,
+    "city": "Celina",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20170.0,
+    "density": 47.8,
+    "county_fips": 39107,
+    "county_name": "Mercer",
+    "county_weights": "{\"39107\": 100}",
+    "county_names_all": "Mercer",
+    "county_fips_all": "39107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

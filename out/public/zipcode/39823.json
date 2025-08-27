@@ -1,0 +1,20 @@
+{
+    "zip": 39823,
+    "lat": 31.34004,
+    "lng": -84.94641,
+    "city": "Blakely",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8635.0,
+    "density": 9.6,
+    "county_fips": 13099,
+    "county_name": "Early",
+    "county_weights": "{\"13099\": 95.24, \"13201\": 4.76}",
+    "county_names_all": "Early|Miller",
+    "county_fips_all": "13099|13201",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

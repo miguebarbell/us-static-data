@@ -1,0 +1,20 @@
+{
+    "zip": 58051,
+    "lat": 46.63952,
+    "lng": -97.0302,
+    "city": "Kindred",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1654.0,
+    "density": 5.7,
+    "county_fips": 38017,
+    "county_name": "Cass",
+    "county_weights": "{\"38017\": 59.32, \"38077\": 40.68}",
+    "county_names_all": "Cass|Richland",
+    "county_fips_all": "38017|38077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

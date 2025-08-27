@@ -1,0 +1,20 @@
+{
+    "zip": 72355,
+    "lat": 34.53902,
+    "lng": -90.77789,
+    "city": "Lexa",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1935.0,
+    "density": 6.3,
+    "county_fips": 5107,
+    "county_name": "Phillips",
+    "county_weights": "{\"05107\": 92.61, \"05077\": 7.39}",
+    "county_names_all": "Phillips|Lee",
+    "county_fips_all": "05107|05077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

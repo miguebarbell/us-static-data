@@ -1,0 +1,20 @@
+{
+    "zip": 4473,
+    "lat": 44.88594,
+    "lng": -68.71888,
+    "city": "Orono",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8383.0,
+    "density": 186.9,
+    "county_fips": 23019,
+    "county_name": "Penobscot",
+    "county_weights": "{\"23019\": 100}",
+    "county_names_all": "Penobscot",
+    "county_fips_all": "23019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 64861,
+    "lat": 36.6953,
+    "lng": -94.14864,
+    "city": "Rocky Comfort",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1151.0,
+    "density": 7.6,
+    "county_fips": 29119,
+    "county_name": "McDonald",
+    "county_weights": "{\"29119\": 96.07, \"29145\": 3.93}",
+    "county_names_all": "McDonald|Newton",
+    "county_fips_all": "29119|29145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

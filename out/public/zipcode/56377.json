@@ -1,0 +1,20 @@
+{
+    "zip": 56377,
+    "lat": 45.6405,
+    "lng": -94.23033,
+    "city": "Sartell",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21008.0,
+    "density": 362.7,
+    "county_fips": 27145,
+    "county_name": "Stearns",
+    "county_weights": "{\"27145\": 96.51, \"27009\": 3.49}",
+    "county_names_all": "Stearns|Benton",
+    "county_fips_all": "27145|27009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

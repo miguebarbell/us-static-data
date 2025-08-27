@@ -1,0 +1,20 @@
+{
+    "zip": 3574,
+    "lat": 44.25386,
+    "lng": -71.59924,
+    "city": "Bethlehem",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2545.0,
+    "density": 10.8,
+    "county_fips": 33009,
+    "county_name": "Grafton",
+    "county_weights": "{\"33009\": 99.51, \"33007\": 0.49}",
+    "county_names_all": "Grafton|Coos",
+    "county_fips_all": "33009|33007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

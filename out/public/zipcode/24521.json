@@ -1,0 +1,20 @@
+{
+    "zip": 24521,
+    "lat": 37.63672,
+    "lng": -79.09539,
+    "city": "Amherst",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10101.0,
+    "density": 18.0,
+    "county_fips": 51009,
+    "county_name": "Amherst",
+    "county_weights": "{\"51009\": 95.77, \"51125\": 4.23}",
+    "county_names_all": "Amherst|Nelson",
+    "county_fips_all": "51009|51125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

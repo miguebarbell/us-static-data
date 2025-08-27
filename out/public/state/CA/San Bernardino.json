@@ -1,0 +1,18 @@
+{
+    "zip": [
+        "92401",
+        "92404",
+        "92405",
+        "92407",
+        "92408",
+        "92410",
+        "92411",
+        "92415"
+    ],
+    "city": "San Bernardino",
+    "state": "CA",
+    "lat": 33.97365,
+    "lng": -118.24904,
+    "state_name": "California",
+    "timezone": "America/Los_Angeles"
+}

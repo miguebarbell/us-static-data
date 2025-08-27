@@ -1,0 +1,20 @@
+{
+    "zip": 82831,
+    "lat": 44.66424,
+    "lng": -106.0669,
+    "city": "Arvada",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 275.0,
+    "density": 0.2,
+    "county_fips": 56005,
+    "county_name": "Campbell",
+    "county_weights": "{\"56005\": 34.45, \"56033\": 33.59, \"56019\": 31.95}",
+    "county_names_all": "Campbell|Sheridan|Johnson",
+    "county_fips_all": "56005|56033|56019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

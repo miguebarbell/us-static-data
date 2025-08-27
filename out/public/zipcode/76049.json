@@ -1,0 +1,20 @@
+{
+    "zip": 76049,
+    "lat": 32.46759,
+    "lng": -97.70645,
+    "city": "Granbury",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30911.0,
+    "density": 111.4,
+    "county_fips": 48221,
+    "county_name": "Hood",
+    "county_weights": "{\"48221\": 98.06, \"48367\": 1.14, \"48251\": 0.8}",
+    "county_names_all": "Hood|Parker|Johnson",
+    "county_fips_all": "48221|48367|48251",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

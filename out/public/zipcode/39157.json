@@ -1,0 +1,20 @@
+{
+    "zip": 39157,
+    "lat": 32.42537,
+    "lng": -90.16685,
+    "city": "Ridgeland",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24547.0,
+    "density": 315.6,
+    "county_fips": 28089,
+    "county_name": "Madison",
+    "county_weights": "{\"28089\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "28089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65560,
+    "lat": 37.59609,
+    "lng": -91.49943,
+    "city": "Salem",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13634.0,
+    "density": 7.9,
+    "county_fips": 29065,
+    "county_name": "Dent",
+    "county_weights": "{\"29065\": 79.15, \"29203\": 12.34, \"29055\": 5.95, \"29161\": 1.76, \"29215\": 0.8}",
+    "county_names_all": "Dent|Shannon|Crawford|Phelps|Texas",
+    "county_fips_all": "29065|29203|29055|29161|29215",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

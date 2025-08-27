@@ -1,0 +1,20 @@
+{
+    "zip": 68824,
+    "lat": 41.00535,
+    "lng": -98.61402,
+    "city": "Cairo",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1585.0,
+    "density": 6.8,
+    "county_fips": 31079,
+    "county_name": "Hall",
+    "county_weights": "{\"31079\": 85.72, \"31093\": 14.28}",
+    "county_names_all": "Hall|Howard",
+    "county_fips_all": "31079|31093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

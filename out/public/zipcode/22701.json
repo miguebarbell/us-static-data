@@ -1,0 +1,20 @@
+{
+    "zip": 22701,
+    "lat": 38.44038,
+    "lng": -77.99633,
+    "city": "Culpeper",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37575.0,
+    "density": 84.2,
+    "county_fips": 51047,
+    "county_name": "Culpeper",
+    "county_weights": "{\"51047\": 78.54, \"51137\": 14.26, \"51113\": 7.2}",
+    "county_names_all": "Culpeper|Orange|Madison",
+    "county_fips_all": "51047|51137|51113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

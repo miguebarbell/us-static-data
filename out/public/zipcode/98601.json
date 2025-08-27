@@ -1,0 +1,20 @@
+{
+    "zip": 98601,
+    "lat": 45.93439,
+    "lng": -122.43857,
+    "city": "Amboy",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2742.0,
+    "density": 34.1,
+    "county_fips": 53011,
+    "county_name": "Clark",
+    "county_weights": "{\"53011\": 91.1, \"53015\": 8.9}",
+    "county_names_all": "Clark|Cowlitz",
+    "county_fips_all": "53011|53015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

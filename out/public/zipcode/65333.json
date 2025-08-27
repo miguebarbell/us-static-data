@@ -1,0 +1,20 @@
+{
+    "zip": 65333,
+    "lat": 38.90687,
+    "lng": -93.30724,
+    "city": "Houstonia",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 674.0,
+    "density": 3.9,
+    "county_fips": 29159,
+    "county_name": "Pettis",
+    "county_weights": "{\"29159\": 85.06, \"29195\": 14.94}",
+    "county_names_all": "Pettis|Saline",
+    "county_fips_all": "29159|29195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

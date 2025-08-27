@@ -1,0 +1,20 @@
+{
+    "zip": 83619,
+    "lat": 43.96982,
+    "lng": -116.91204,
+    "city": "Fruitland",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8445.0,
+    "density": 103.0,
+    "county_fips": 16075,
+    "county_name": "Payette",
+    "county_weights": "{\"16075\": 100}",
+    "county_names_all": "Payette",
+    "county_fips_all": "16075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

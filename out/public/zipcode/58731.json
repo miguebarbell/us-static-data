@@ -1,0 +1,20 @@
+{
+    "zip": 58731,
+    "lat": 48.44752,
+    "lng": -100.98029,
+    "city": "Deering",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 412.0,
+    "density": 1.6,
+    "county_fips": 38049,
+    "county_name": "McHenry",
+    "county_weights": "{\"38049\": 89.97, \"38101\": 10.03}",
+    "county_names_all": "McHenry|Ward",
+    "county_fips_all": "38049|38101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

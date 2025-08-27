@@ -1,0 +1,20 @@
+{
+    "zip": 59339,
+    "lat": 47.22587,
+    "lng": -105.19934,
+    "city": "Lindsay",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 151.0,
+    "density": 0.2,
+    "county_fips": 30021,
+    "county_name": "Dawson",
+    "county_weights": "{\"30021\": 98.9, \"30079\": 1.1}",
+    "county_names_all": "Dawson|Prairie",
+    "county_fips_all": "30021|30079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

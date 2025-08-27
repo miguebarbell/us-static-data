@@ -1,0 +1,20 @@
+{
+    "zip": 85639,
+    "lat": 31.77175,
+    "lng": -111.68228,
+    "city": "Topawa",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 358.0,
+    "density": 1.2,
+    "county_fips": 4019,
+    "county_name": "Pima",
+    "county_weights": "{\"04019\": 100}",
+    "county_names_all": "Pima",
+    "county_fips_all": "04019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}
