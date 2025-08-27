@@ -1,0 +1,12 @@
+#!/bin/bash
+
+mkdir ./doc
+cd out/ || exit
+bun run build
+cd ..
+rm -r ./doc
+mv ./out/dist .
+mv ./dist ./doc
+git add ./doc
+git commit -am "[DEPLOY] $(date)"
+git push
