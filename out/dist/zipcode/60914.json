@@ -1,0 +1,20 @@
+{
+    "zip": 60914,
+    "lat": 41.18706,
+    "lng": -87.86194,
+    "city": "Bourbonnais",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28503.0,
+    "density": 224.9,
+    "county_fips": 17091,
+    "county_name": "Kankakee",
+    "county_weights": "{\"17091\": 100}",
+    "county_names_all": "Kankakee",
+    "county_fips_all": "17091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

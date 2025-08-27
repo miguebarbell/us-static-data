@@ -1,0 +1,20 @@
+{
+    "zip": 25520,
+    "lat": 38.55773,
+    "lng": -82.17899,
+    "city": "Glenwood",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1164.0,
+    "density": 11.8,
+    "county_fips": 54011,
+    "county_name": "Cabell",
+    "county_weights": "{\"54011\": 54.38, \"54053\": 45.62}",
+    "county_names_all": "Cabell|Mason",
+    "county_fips_all": "54011|54053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

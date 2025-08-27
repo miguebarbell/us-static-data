@@ -1,0 +1,20 @@
+{
+    "zip": 40939,
+    "lat": 36.81217,
+    "lng": -83.71152,
+    "city": "Fourmile",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 189.0,
+    "density": 11.5,
+    "county_fips": 21013,
+    "county_name": "Bell",
+    "county_weights": "{\"21013\": 99.13, \"21121\": 0.87}",
+    "county_names_all": "Bell|Knox",
+    "county_fips_all": "21013|21121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

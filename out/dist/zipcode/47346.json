@@ -1,0 +1,20 @@
+{
+    "zip": 47346,
+    "lat": 39.93442,
+    "lng": -85.16306,
+    "city": "Hagerstown",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4123.0,
+    "density": 35.4,
+    "county_fips": 18177,
+    "county_name": "Wayne",
+    "county_weights": "{\"18177\": 84.8, \"18065\": 15.2}",
+    "county_names_all": "Wayne|Henry",
+    "county_fips_all": "18177|18065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

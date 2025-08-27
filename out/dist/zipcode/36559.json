@@ -1,0 +1,20 @@
+{
+    "zip": 36559,
+    "lat": 30.56894,
+    "lng": -87.90393,
+    "city": "Montrose",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 350.0,
+    "density": 351.1,
+    "county_fips": 1003,
+    "county_name": "Baldwin",
+    "county_weights": "{\"01003\": 100}",
+    "county_names_all": "Baldwin",
+    "county_fips_all": "01003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

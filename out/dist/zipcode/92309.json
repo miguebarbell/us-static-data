@@ -1,0 +1,20 @@
+{
+    "zip": 92309,
+    "lat": 35.24942,
+    "lng": -116.15578,
+    "city": "Baker",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 490.0,
+    "density": 0.5,
+    "county_fips": 6071,
+    "county_name": "San Bernardino",
+    "county_weights": "{\"06071\": 100}",
+    "county_names_all": "San Bernardino",
+    "county_fips_all": "06071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

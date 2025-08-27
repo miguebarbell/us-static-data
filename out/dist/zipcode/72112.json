@@ -1,0 +1,20 @@
+{
+    "zip": 72112,
+    "lat": 35.57383,
+    "lng": -91.22918,
+    "city": "Newport",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11092.0,
+    "density": 13.1,
+    "county_fips": 5067,
+    "county_name": "Jackson",
+    "county_weights": "{\"05067\": 92.8, \"05147\": 4.72, \"05063\": 2.48}",
+    "county_names_all": "Jackson|Woodruff|Independence",
+    "county_fips_all": "05067|05147|05063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

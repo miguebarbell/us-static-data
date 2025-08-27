@@ -1,0 +1,20 @@
+{
+    "zip": 35976,
+    "lat": 34.34819,
+    "lng": -86.32919,
+    "city": "Guntersville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16604.0,
+    "density": 50.3,
+    "county_fips": 1095,
+    "county_name": "Marshall",
+    "county_weights": "{\"01095\": 93.82, \"01009\": 6.18}",
+    "county_names_all": "Marshall|Blount",
+    "county_fips_all": "01095|01009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

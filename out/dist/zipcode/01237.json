@@ -1,0 +1,20 @@
+{
+    "zip": 1237,
+    "lat": 42.5529,
+    "lng": -73.25373,
+    "city": "Lanesborough",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2269.0,
+    "density": 17.8,
+    "county_fips": 25003,
+    "county_name": "Berkshire",
+    "county_weights": "{\"25003\": 100}",
+    "county_names_all": "Berkshire",
+    "county_fips_all": "25003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

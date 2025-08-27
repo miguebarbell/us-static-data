@@ -1,0 +1,20 @@
+{
+    "zip": 98262,
+    "lat": 48.69317,
+    "lng": -122.66406,
+    "city": "Lummi Island",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1020.0,
+    "density": 42.6,
+    "county_fips": 53073,
+    "county_name": "Whatcom",
+    "county_weights": "{\"53073\": 100}",
+    "county_names_all": "Whatcom",
+    "county_fips_all": "53073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

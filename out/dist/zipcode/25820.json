@@ -1,0 +1,20 @@
+{
+    "zip": 25820,
+    "lat": 37.50812,
+    "lng": -81.13549,
+    "city": "Camp Creek",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 495.0,
+    "density": 6.2,
+    "county_fips": 54055,
+    "county_name": "Mercer",
+    "county_weights": "{\"54055\": 100}",
+    "county_names_all": "Mercer",
+    "county_fips_all": "54055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

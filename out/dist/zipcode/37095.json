@@ -1,0 +1,20 @@
+{
+    "zip": 37095,
+    "lat": 35.98295,
+    "lng": -85.95919,
+    "city": "Liberty",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1840.0,
+    "density": 9.2,
+    "county_fips": 47041,
+    "county_name": "DeKalb",
+    "county_weights": "{\"47041\": 76.38, \"47015\": 21.58, \"47189\": 2.04}",
+    "county_names_all": "DeKalb|Cannon|Wilson",
+    "county_fips_all": "47041|47015|47189",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

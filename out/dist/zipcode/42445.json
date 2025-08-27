@@ -1,0 +1,20 @@
+{
+    "zip": 42445,
+    "lat": 37.12861,
+    "lng": -87.86052,
+    "city": "Princeton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10371.0,
+    "density": 15.3,
+    "county_fips": 21033,
+    "county_name": "Caldwell",
+    "county_weights": "{\"21033\": 90.97, \"21143\": 4.65, \"21107\": 4.15, \"21221\": 0.23}",
+    "county_names_all": "Caldwell|Lyon|Hopkins|Trigg",
+    "county_fips_all": "21033|21143|21107|21221",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 28679,
+    "lat": 36.25962,
+    "lng": -81.84207,
+    "city": "Sugar Grove",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2535.0,
+    "density": 38.2,
+    "county_fips": 37189,
+    "county_name": "Watauga",
+    "county_weights": "{\"37189\": 96.06, \"37011\": 3.94}",
+    "county_names_all": "Watauga|Avery",
+    "county_fips_all": "37189|37011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 16743,
+    "lat": 41.7888,
+    "lng": -78.26016,
+    "city": "Port Allegany",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3960.0,
+    "density": 15.1,
+    "county_fips": 42083,
+    "county_name": "McKean",
+    "county_weights": "{\"42083\": 88.47, \"42105\": 11.53}",
+    "county_names_all": "McKean|Potter",
+    "county_fips_all": "42083|42105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

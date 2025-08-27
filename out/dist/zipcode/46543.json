@@ -1,0 +1,20 @@
+{
+    "zip": 46543,
+    "lat": 41.53341,
+    "lng": -85.67119,
+    "city": "Millersburg",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4467.0,
+    "density": 56.8,
+    "county_fips": 18039,
+    "county_name": "Elkhart",
+    "county_weights": "{\"18039\": 64.48, \"18087\": 33.87, \"18113\": 1.65}",
+    "county_names_all": "Elkhart|LaGrange|Noble",
+    "county_fips_all": "18039|18087|18113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

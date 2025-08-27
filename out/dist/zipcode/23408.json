@@ -1,0 +1,20 @@
+{
+    "zip": 23408,
+    "lat": 37.4533,
+    "lng": -75.84587,
+    "city": "Marionville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 51131,
+    "county_name": "Northampton",
+    "county_weights": "{\"51131\": 100}",
+    "county_names_all": "Northampton",
+    "county_fips_all": "51131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

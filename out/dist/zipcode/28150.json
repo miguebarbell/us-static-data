@@ -1,0 +1,20 @@
+{
+    "zip": 28150,
+    "lat": 35.34712,
+    "lng": -81.57502,
+    "city": "Shelby",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26447.0,
+    "density": 93.3,
+    "county_fips": 37045,
+    "county_name": "Cleveland",
+    "county_weights": "{\"37045\": 99.76, \"37161\": 0.24}",
+    "county_names_all": "Cleveland|Rutherford",
+    "county_fips_all": "37045|37161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

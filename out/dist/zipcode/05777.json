@@ -1,0 +1,20 @@
+{
+    "zip": 5777,
+    "lat": 43.5552,
+    "lng": -73.05504,
+    "city": "West Rutland",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3237.0,
+    "density": 28.1,
+    "county_fips": 50021,
+    "county_name": "Rutland",
+    "county_weights": "{\"50021\": 100}",
+    "county_names_all": "Rutland",
+    "county_fips_all": "50021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

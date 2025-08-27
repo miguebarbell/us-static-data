@@ -1,0 +1,20 @@
+{
+    "zip": 43952,
+    "lat": 40.39763,
+    "lng": -80.66278,
+    "city": "Steubenville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17775.0,
+    "density": 267.1,
+    "county_fips": 39081,
+    "county_name": "Jefferson",
+    "county_weights": "{\"39081\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "39081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

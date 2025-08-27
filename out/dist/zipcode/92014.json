@@ -1,0 +1,20 @@
+{
+    "zip": 92014,
+    "lat": 32.96797,
+    "lng": -117.24879,
+    "city": "Del Mar",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13260.0,
+    "density": 812.0,
+    "county_fips": 6073,
+    "county_name": "San Diego",
+    "county_weights": "{\"06073\": 100}",
+    "county_names_all": "San Diego",
+    "county_fips_all": "06073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

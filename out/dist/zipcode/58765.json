@@ -1,0 +1,20 @@
+{
+    "zip": 58765,
+    "lat": 48.87261,
+    "lng": -103.03805,
+    "city": "Noonan",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 305.0,
+    "density": 0.7,
+    "county_fips": 38023,
+    "county_name": "Divide",
+    "county_weights": "{\"38023\": 100}",
+    "county_names_all": "Divide",
+    "county_fips_all": "38023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 38834,
+    "lat": 34.91627,
+    "lng": -88.56027,
+    "city": "Corinth",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27146.0,
+    "density": 47.0,
+    "county_fips": 28003,
+    "county_name": "Alcorn",
+    "county_weights": "{\"28003\": 98.57, \"28141\": 1.43}",
+    "county_names_all": "Alcorn|Tishomingo",
+    "county_fips_all": "28003|28141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

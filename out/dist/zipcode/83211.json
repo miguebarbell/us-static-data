@@ -1,0 +1,20 @@
+{
+    "zip": 83211,
+    "lat": 42.66257,
+    "lng": -113.06186,
+    "city": "American Falls",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6543.0,
+    "density": 3.4,
+    "county_fips": 16077,
+    "county_name": "Power",
+    "county_weights": "{\"16077\": 65.33, \"16031\": 34.41, \"16011\": 0.26}",
+    "county_names_all": "Power|Cassia|Bingham",
+    "county_fips_all": "16077|16031|16011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

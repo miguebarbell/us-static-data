@@ -1,0 +1,20 @@
+{
+    "zip": 39832,
+    "lat": 31.19304,
+    "lng": -85.0257,
+    "city": "Cedar Springs",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 13099,
+    "county_name": "Early",
+    "county_weights": "{\"13099\": 100}",
+    "county_names_all": "Early",
+    "county_fips_all": "13099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

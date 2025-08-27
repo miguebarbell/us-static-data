@@ -1,0 +1,20 @@
+{
+    "zip": 57252,
+    "lat": 45.20507,
+    "lng": -96.61053,
+    "city": "Milbank",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4882.0,
+    "density": 11.4,
+    "county_fips": 46051,
+    "county_name": "Grant",
+    "county_weights": "{\"46051\": 96.38, \"46109\": 3.62}",
+    "county_names_all": "Grant|Roberts",
+    "county_fips_all": "46051|46109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

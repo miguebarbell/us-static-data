@@ -1,0 +1,20 @@
+{
+    "zip": 64056,
+    "lat": 39.11114,
+    "lng": -94.32008,
+    "city": "Independence",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17608.0,
+    "density": 345.6,
+    "county_fips": 29095,
+    "county_name": "Jackson",
+    "county_weights": "{\"29095\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "29095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

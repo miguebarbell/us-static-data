@@ -1,0 +1,20 @@
+{
+    "zip": 24854,
+    "lat": 37.73997,
+    "lng": -81.5789,
+    "city": "Kopperston",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 717.0,
+    "density": 31.5,
+    "county_fips": 54109,
+    "county_name": "Wyoming",
+    "county_weights": "{\"54109\": 100}",
+    "county_names_all": "Wyoming",
+    "county_fips_all": "54109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 26431,
+    "lat": 39.39144,
+    "lng": -80.28085,
+    "city": "Shinnston",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5899.0,
+    "density": 75.5,
+    "county_fips": 54033,
+    "county_name": "Harrison",
+    "county_weights": "{\"54033\": 97.67, \"54091\": 2.33}",
+    "county_names_all": "Harrison|Taylor",
+    "county_fips_all": "54033|54091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

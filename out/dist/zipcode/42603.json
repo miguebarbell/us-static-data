@@ -1,0 +1,20 @@
+{
+    "zip": 42603,
+    "lat": 36.77875,
+    "lng": -85.01093,
+    "city": "Alpha",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 552.0,
+    "density": 18.7,
+    "county_fips": 21231,
+    "county_name": "Wayne",
+    "county_weights": "{\"21231\": 55.16, \"21053\": 44.84}",
+    "county_names_all": "Wayne|Clinton",
+    "county_fips_all": "21231|21053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Kentucky/Monticello"
+}

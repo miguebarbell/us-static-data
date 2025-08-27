@@ -1,0 +1,20 @@
+{
+    "zip": 45636,
+    "lat": 38.58416,
+    "lng": -82.81401,
+    "city": "Haverhill",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 375.0,
+    "density": 85.1,
+    "county_fips": 39145,
+    "county_name": "Scioto",
+    "county_weights": "{\"39145\": 100}",
+    "county_names_all": "Scioto",
+    "county_fips_all": "39145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

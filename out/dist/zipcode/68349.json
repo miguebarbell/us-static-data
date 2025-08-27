@@ -1,0 +1,20 @@
+{
+    "zip": 68349,
+    "lat": 40.82962,
+    "lng": -96.30028,
+    "city": "Elmwood",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1247.0,
+    "density": 9.9,
+    "county_fips": 31025,
+    "county_name": "Cass",
+    "county_weights": "{\"31025\": 100}",
+    "county_names_all": "Cass",
+    "county_fips_all": "31025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

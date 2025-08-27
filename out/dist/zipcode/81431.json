@@ -1,0 +1,20 @@
+{
+    "zip": 81431,
+    "lat": 38.13808,
+    "lng": -108.51429,
+    "city": "Redvale",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 647.0,
+    "density": 1.9,
+    "county_fips": 8113,
+    "county_name": "San Miguel",
+    "county_weights": "{\"08113\": 65.09, \"08085\": 34.91}",
+    "county_names_all": "San Miguel|Montrose",
+    "county_fips_all": "08113|08085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

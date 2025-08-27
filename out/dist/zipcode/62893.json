@@ -1,0 +1,20 @@
+{
+    "zip": 62893,
+    "lat": 38.46776,
+    "lng": -89.03087,
+    "city": "Walnut Hill",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 922.0,
+    "density": 17.7,
+    "county_fips": 17081,
+    "county_name": "Jefferson",
+    "county_weights": "{\"17081\": 54.97, \"17121\": 45.03}",
+    "county_names_all": "Jefferson|Marion",
+    "county_fips_all": "17081|17121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

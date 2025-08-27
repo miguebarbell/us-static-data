@@ -1,0 +1,20 @@
+{
+    "zip": 4740,
+    "lat": 46.64325,
+    "lng": -67.85487,
+    "city": "Easton",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1430.0,
+    "density": 14.3,
+    "county_fips": 23003,
+    "county_name": "Aroostook",
+    "county_weights": "{\"23003\": 100}",
+    "county_names_all": "Aroostook",
+    "county_fips_all": "23003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

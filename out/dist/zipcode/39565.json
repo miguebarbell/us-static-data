@@ -1,0 +1,20 @@
+{
+    "zip": 39565,
+    "lat": 30.5759,
+    "lng": -88.75207,
+    "city": "Vancleave",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20692.0,
+    "density": 29.1,
+    "county_fips": 28059,
+    "county_name": "Jackson",
+    "county_weights": "{\"28059\": 96.24, \"28047\": 3.76}",
+    "county_names_all": "Jackson|Harrison",
+    "county_fips_all": "28059|28047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

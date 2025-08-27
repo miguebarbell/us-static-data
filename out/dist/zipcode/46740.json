@@ -1,0 +1,20 @@
+{
+    "zip": 46740,
+    "lat": 40.60298,
+    "lng": -84.9638,
+    "city": "Geneva",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4766.0,
+    "density": 29.5,
+    "county_fips": 18001,
+    "county_name": "Adams",
+    "county_weights": "{\"18001\": 91.82, \"18179\": 8.18}",
+    "county_names_all": "Adams|Wells",
+    "county_fips_all": "18001|18179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

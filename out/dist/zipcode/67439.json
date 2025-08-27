@@ -1,0 +1,20 @@
+{
+    "zip": 67439,
+    "lat": 38.76169,
+    "lng": -98.2201,
+    "city": "Ellsworth",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3412.0,
+    "density": 5.8,
+    "county_fips": 20053,
+    "county_name": "Ellsworth",
+    "county_weights": "{\"20053\": 95.39, \"20105\": 4.61}",
+    "county_names_all": "Ellsworth|Lincoln",
+    "county_fips_all": "20053|20105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

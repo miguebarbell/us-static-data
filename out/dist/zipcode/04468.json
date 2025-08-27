@@ -1,0 +1,20 @@
+{
+    "zip": 4468,
+    "lat": 45.0263,
+    "lng": -68.72323,
+    "city": "Old Town",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9163.0,
+    "density": 28.8,
+    "county_fips": 23019,
+    "county_name": "Penobscot",
+    "county_weights": "{\"23019\": 100}",
+    "county_names_all": "Penobscot",
+    "county_fips_all": "23019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

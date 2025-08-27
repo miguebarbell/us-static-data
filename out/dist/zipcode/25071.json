@@ -1,0 +1,20 @@
+{
+    "zip": 25071,
+    "lat": 38.47732,
+    "lng": -81.46756,
+    "city": "Elkview",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11243.0,
+    "density": 38.6,
+    "county_fips": 54039,
+    "county_name": "Kanawha",
+    "county_weights": "{\"54039\": 91.32, \"54087\": 8.68}",
+    "county_names_all": "Kanawha|Roane",
+    "county_fips_all": "54039|54087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

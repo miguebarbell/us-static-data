@@ -1,0 +1,20 @@
+{
+    "zip": 38611,
+    "lat": 34.85467,
+    "lng": -89.67116,
+    "city": "Byhalia",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16751.0,
+    "density": 33.7,
+    "county_fips": 28093,
+    "county_name": "Marshall",
+    "county_weights": "{\"28093\": 81.29, \"28033\": 18.71}",
+    "county_names_all": "Marshall|DeSoto",
+    "county_fips_all": "28093|28033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

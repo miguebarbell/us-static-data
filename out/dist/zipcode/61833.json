@@ -1,0 +1,20 @@
+{
+    "zip": 61833,
+    "lat": 40.09914,
+    "lng": -87.64718,
+    "city": "Tilton",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1730.0,
+    "density": 457.6,
+    "county_fips": 17183,
+    "county_name": "Vermilion",
+    "county_weights": "{\"17183\": 100}",
+    "county_names_all": "Vermilion",
+    "county_fips_all": "17183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

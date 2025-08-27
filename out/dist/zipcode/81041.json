@@ -1,0 +1,20 @@
+{
+    "zip": 81041,
+    "lat": 37.844,
+    "lng": -102.3839,
+    "city": "Granada",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 660.0,
+    "density": 0.5,
+    "county_fips": 8099,
+    "county_name": "Prowers",
+    "county_weights": "{\"08099\": 96.27, \"08009\": 3.73}",
+    "county_names_all": "Prowers|Baca",
+    "county_fips_all": "08099|08009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

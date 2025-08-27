@@ -1,0 +1,20 @@
+{
+    "zip": 46574,
+    "lat": 41.47327,
+    "lng": -86.48829,
+    "city": "Walkerton",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7414.0,
+    "density": 29.4,
+    "county_fips": 18091,
+    "county_name": "LaPorte",
+    "county_weights": "{\"18091\": 32.85, \"18141\": 29.38, \"18099\": 24.77, \"18149\": 13.0}",
+    "county_names_all": "LaPorte|St. Joseph|Marshall|Starke",
+    "county_fips_all": "18091|18141|18099|18149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

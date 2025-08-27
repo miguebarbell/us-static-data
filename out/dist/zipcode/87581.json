@@ -1,0 +1,20 @@
+{
+    "zip": 87581,
+    "lat": 36.51531,
+    "lng": -106.16017,
+    "city": "Vallecitos",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 35039,
+    "county_name": "Rio Arriba",
+    "county_weights": "{\"35039\": 100}",
+    "county_names_all": "Rio Arriba",
+    "county_fips_all": "35039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 38964,
+    "lat": 34.11035,
+    "lng": -90.38868,
+    "city": "Vance",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 61.0,
+    "density": 0.7,
+    "county_fips": 28119,
+    "county_name": "Quitman",
+    "county_weights": "{\"28119\": 88.19, \"28135\": 11.81}",
+    "county_names_all": "Quitman|Tallahatchie",
+    "county_fips_all": "28119|28135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

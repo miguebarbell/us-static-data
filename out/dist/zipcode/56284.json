@@ -1,0 +1,20 @@
+{
+    "zip": 56284,
+    "lat": 44.77729,
+    "lng": -95.20204,
+    "city": "Renville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2099.0,
+    "density": 6.0,
+    "county_fips": 27129,
+    "county_name": "Renville",
+    "county_weights": "{\"27129\": 87.82, \"27067\": 9.02, \"27127\": 3.16}",
+    "county_names_all": "Renville|Kandiyohi|Redwood",
+    "county_fips_all": "27129|27067|27127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

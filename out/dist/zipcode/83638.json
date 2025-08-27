@@ -1,0 +1,20 @@
+{
+    "zip": 83638,
+    "lat": 45.1504,
+    "lng": -115.82001,
+    "city": "Mccall",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7507.0,
+    "density": 4.3,
+    "county_fips": 16085,
+    "county_name": "Valley",
+    "county_weights": "{\"16085\": 52.73, \"16049\": 46.69, \"16003\": 0.58}",
+    "county_names_all": "Valley|Idaho|Adams",
+    "county_fips_all": "16085|16049|16003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

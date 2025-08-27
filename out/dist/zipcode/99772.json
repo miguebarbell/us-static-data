@@ -1,0 +1,20 @@
+{
+    "zip": 99772,
+    "lat": 65.94811,
+    "lng": -165.80122,
+    "city": "Shishmaref",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 462.0,
+    "density": 0.0,
+    "county_fips": 2180,
+    "county_name": "Nome",
+    "county_weights": "{\"02180\": 100}",
+    "county_names_all": "Nome",
+    "county_fips_all": "02180",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Nome"
+}

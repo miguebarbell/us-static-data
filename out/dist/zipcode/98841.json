@@ -1,0 +1,20 @@
+{
+    "zip": 98841,
+    "lat": 48.37602,
+    "lng": -119.29817,
+    "city": "Omak",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9376.0,
+    "density": 12.2,
+    "county_fips": 53047,
+    "county_name": "Okanogan",
+    "county_weights": "{\"53047\": 100}",
+    "county_names_all": "Okanogan",
+    "county_fips_all": "53047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 76692,
+    "lat": 31.95902,
+    "lng": -97.33382,
+    "city": "Whitney",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9662.0,
+    "density": 32.9,
+    "county_fips": 48217,
+    "county_name": "Hill",
+    "county_weights": "{\"48217\": 100}",
+    "county_names_all": "Hill",
+    "county_fips_all": "48217",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

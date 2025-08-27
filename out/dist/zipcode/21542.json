@@ -1,0 +1,20 @@
+{
+    "zip": 21542,
+    "lat": 39.59114,
+    "lng": -78.95087,
+    "city": "Midland",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 161.0,
+    "density": 2802.0,
+    "county_fips": 24001,
+    "county_name": "Allegany",
+    "county_weights": "{\"24001\": 100}",
+    "county_names_all": "Allegany",
+    "county_fips_all": "24001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

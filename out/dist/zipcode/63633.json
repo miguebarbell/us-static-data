@@ -1,0 +1,20 @@
+{
+    "zip": 63633,
+    "lat": 37.41993,
+    "lng": -91.01082,
+    "city": "Centerville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 785.0,
+    "density": 3.3,
+    "county_fips": 29179,
+    "county_name": "Reynolds",
+    "county_weights": "{\"29179\": 100}",
+    "county_names_all": "Reynolds",
+    "county_fips_all": "29179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

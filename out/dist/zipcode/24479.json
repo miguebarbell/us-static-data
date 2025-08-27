@@ -1,0 +1,20 @@
+{
+    "zip": 24479,
+    "lat": 38.15353,
+    "lng": -79.23992,
+    "city": "Swoope",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1957.0,
+    "density": 12.3,
+    "county_fips": 51015,
+    "county_name": "Augusta",
+    "county_weights": "{\"51015\": 100}",
+    "county_names_all": "Augusta",
+    "county_fips_all": "51015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

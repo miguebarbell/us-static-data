@@ -1,0 +1,20 @@
+{
+    "zip": 65443,
+    "lat": 38.13089,
+    "lng": -92.0918,
+    "city": "Brinktown",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 64.0,
+    "density": 2.3,
+    "county_fips": 29125,
+    "county_name": "Maries",
+    "county_weights": "{\"29125\": 100}",
+    "county_names_all": "Maries",
+    "county_fips_all": "29125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

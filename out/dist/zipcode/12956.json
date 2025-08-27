@@ -1,0 +1,20 @@
+{
+    "zip": 12956,
+    "lat": 44.09301,
+    "lng": -73.49628,
+    "city": "Mineville",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1538.0,
+    "density": 62.9,
+    "county_fips": 36031,
+    "county_name": "Essex",
+    "county_weights": "{\"36031\": 100}",
+    "county_names_all": "Essex",
+    "county_fips_all": "36031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

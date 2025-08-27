@@ -1,0 +1,20 @@
+{
+    "zip": 54151,
+    "lat": 45.72352,
+    "lng": -87.99752,
+    "city": "Niagara",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3495.0,
+    "density": 10.4,
+    "county_fips": 55075,
+    "county_name": "Marinette",
+    "county_weights": "{\"55075\": 71.64, \"55037\": 28.36}",
+    "county_names_all": "Marinette|Florence",
+    "county_fips_all": "55075|55037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

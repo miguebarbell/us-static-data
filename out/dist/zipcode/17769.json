@@ -1,0 +1,20 @@
+{
+    "zip": 17769,
+    "lat": 41.49939,
+    "lng": -77.50073,
+    "city": "Slate Run",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43.0,
+    "density": 0.5,
+    "county_fips": 42081,
+    "county_name": "Lycoming",
+    "county_weights": "{\"42081\": 100}",
+    "county_names_all": "Lycoming",
+    "county_fips_all": "42081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 81637,
+    "lat": 39.77162,
+    "lng": -107.10065,
+    "city": "Gypsum",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10344.0,
+    "density": 5.1,
+    "county_fips": 8045,
+    "county_name": "Garfield",
+    "county_weights": "{\"08045\": 53.99, \"08037\": 46.01}",
+    "county_names_all": "Garfield|Eagle",
+    "county_fips_all": "08045|08037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 31542,
+    "lat": 31.1528,
+    "lng": -82.12166,
+    "city": "Hoboken",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2464.0,
+    "density": 11.7,
+    "county_fips": 13025,
+    "county_name": "Brantley",
+    "county_weights": "{\"13025\": 100}",
+    "county_names_all": "Brantley",
+    "county_fips_all": "13025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

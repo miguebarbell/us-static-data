@@ -1,0 +1,20 @@
+{
+    "zip": 97042,
+    "lat": 45.20679,
+    "lng": -122.53247,
+    "city": "Mulino",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3330.0,
+    "density": 54.1,
+    "county_fips": 41005,
+    "county_name": "Clackamas",
+    "county_weights": "{\"41005\": 100}",
+    "county_names_all": "Clackamas",
+    "county_fips_all": "41005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

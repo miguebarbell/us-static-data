@@ -1,0 +1,20 @@
+{
+    "zip": 29070,
+    "lat": 33.91742,
+    "lng": -81.45517,
+    "city": "Leesville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15528.0,
+    "density": 36.5,
+    "county_fips": 45063,
+    "county_name": "Lexington",
+    "county_weights": "{\"45063\": 77.83, \"45081\": 22.17}",
+    "county_names_all": "Lexington|Saluda",
+    "county_fips_all": "45063|45081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

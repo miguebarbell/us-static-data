@@ -1,0 +1,20 @@
+{
+    "zip": 82845,
+    "lat": 44.76416,
+    "lng": -106.70382,
+    "city": "Wyarno",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 100.0,
+    "density": 0.4,
+    "county_fips": 56033,
+    "county_name": "Sheridan",
+    "county_weights": "{\"56033\": 100}",
+    "county_names_all": "Sheridan",
+    "county_fips_all": "56033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 45101,
+    "lat": 38.69164,
+    "lng": -83.74024,
+    "city": "Aberdeen",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1876.0,
+    "density": 40.8,
+    "county_fips": 39015,
+    "county_name": "Brown",
+    "county_weights": "{\"39015\": 98.63, \"39001\": 1.37}",
+    "county_names_all": "Brown|Adams",
+    "county_fips_all": "39015|39001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

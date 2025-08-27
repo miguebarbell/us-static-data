@@ -1,0 +1,20 @@
+{
+    "zip": 63954,
+    "lat": 36.56365,
+    "lng": -90.47337,
+    "city": "Neelyville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 981.0,
+    "density": 3.5,
+    "county_fips": 29023,
+    "county_name": "Butler",
+    "county_weights": "{\"29023\": 93.63, \"29181\": 6.37}",
+    "county_names_all": "Butler|Ripley",
+    "county_fips_all": "29023|29181",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

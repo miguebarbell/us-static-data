@@ -1,0 +1,20 @@
+{
+    "zip": 57730,
+    "lat": 43.72561,
+    "lng": -103.63733,
+    "city": "Custer",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5647.0,
+    "density": 4.2,
+    "county_fips": 46033,
+    "county_name": "Custer",
+    "county_weights": "{\"46033\": 91.64, \"46103\": 8.36}",
+    "county_names_all": "Custer|Pennington",
+    "county_fips_all": "46033|46103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

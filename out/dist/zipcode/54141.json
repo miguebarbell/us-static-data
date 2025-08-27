@@ -1,0 +1,20 @@
+{
+    "zip": 54141,
+    "lat": 44.72753,
+    "lng": -88.00567,
+    "city": "Little Suamico",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2758.0,
+    "density": 41.8,
+    "county_fips": 55083,
+    "county_name": "Oconto",
+    "county_weights": "{\"55083\": 99.76, \"55009\": 0.24}",
+    "county_names_all": "Oconto|Brown",
+    "county_fips_all": "55083|55009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

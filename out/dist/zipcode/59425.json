@@ -1,0 +1,20 @@
+{
+    "zip": 59425,
+    "lat": 48.18641,
+    "lng": -111.88738,
+    "city": "Conrad",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3753.0,
+    "density": 2.6,
+    "county_fips": 30073,
+    "county_name": "Pondera",
+    "county_weights": "{\"30073\": 91.09, \"30099\": 8.91}",
+    "county_names_all": "Pondera|Teton",
+    "county_fips_all": "30073|30099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

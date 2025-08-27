@@ -1,0 +1,20 @@
+{
+    "zip": 70555,
+    "lat": 30.08188,
+    "lng": -92.14123,
+    "city": "Maurice",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8657.0,
+    "density": 70.9,
+    "county_fips": 22113,
+    "county_name": "Vermilion",
+    "county_weights": "{\"22113\": 97.07, \"22055\": 2.93}",
+    "county_names_all": "Vermilion|Lafayette",
+    "county_fips_all": "22113|22055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

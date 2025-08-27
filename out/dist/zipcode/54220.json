@@ -1,0 +1,20 @@
+{
+    "zip": 54220,
+    "lat": 44.09644,
+    "lng": -87.73131,
+    "city": "Manitowoc",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40739.0,
+    "density": 159.3,
+    "county_fips": 55071,
+    "county_name": "Manitowoc",
+    "county_weights": "{\"55071\": 100}",
+    "county_names_all": "Manitowoc",
+    "county_fips_all": "55071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

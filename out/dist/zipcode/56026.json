@@ -1,0 +1,20 @@
+{
+    "zip": 56026,
+    "lat": 43.87485,
+    "lng": -93.29124,
+    "city": "Ellendale",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1978.0,
+    "density": 7.4,
+    "county_fips": 27147,
+    "county_name": "Steele",
+    "county_weights": "{\"27147\": 60.45, \"27047\": 38.9, \"27161\": 0.65}",
+    "county_names_all": "Steele|Freeborn|Waseca",
+    "county_fips_all": "27147|27047|27161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

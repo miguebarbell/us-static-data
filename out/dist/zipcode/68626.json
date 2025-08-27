@@ -1,0 +1,20 @@
+{
+    "zip": 68626,
+    "lat": 41.16821,
+    "lng": -96.9921,
+    "city": "Brainard",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 511.0,
+    "density": 3.3,
+    "county_fips": 31023,
+    "county_name": "Butler",
+    "county_weights": "{\"31023\": 100}",
+    "county_names_all": "Butler",
+    "county_fips_all": "31023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

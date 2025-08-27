@@ -1,0 +1,20 @@
+{
+    "zip": 42354,
+    "lat": 37.37915,
+    "lng": -86.9273,
+    "city": "McHenry",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 238.0,
+    "density": 114.3,
+    "county_fips": 21183,
+    "county_name": "Ohio",
+    "county_weights": "{\"21183\": 100}",
+    "county_names_all": "Ohio",
+    "county_fips_all": "21183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 79834,
+    "lat": 29.17102,
+    "lng": -103.28736,
+    "city": "Big Bend National Park",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 373.0,
+    "density": 0.2,
+    "county_fips": 48043,
+    "county_name": "Brewster",
+    "county_weights": "{\"48043\": 100}",
+    "county_names_all": "Brewster",
+    "county_fips_all": "48043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

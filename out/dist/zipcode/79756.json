@@ -1,0 +1,20 @@
+{
+    "zip": 79756,
+    "lat": 31.54626,
+    "lng": -102.88338,
+    "city": "Monahans",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9558.0,
+    "density": 23.3,
+    "county_fips": 48475,
+    "county_name": "Ward",
+    "county_weights": "{\"48475\": 100}",
+    "county_names_all": "Ward",
+    "county_fips_all": "48475",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

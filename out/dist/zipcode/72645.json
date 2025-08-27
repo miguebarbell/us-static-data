@@ -1,0 +1,20 @@
+{
+    "zip": 72645,
+    "lat": 35.80249,
+    "lng": -92.55778,
+    "city": "Leslie",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1329.0,
+    "density": 3.3,
+    "county_fips": 5129,
+    "county_name": "Searcy",
+    "county_weights": "{\"05129\": 66.35, \"05141\": 19.29, \"05137\": 14.36}",
+    "county_names_all": "Searcy|Van Buren|Stone",
+    "county_fips_all": "05129|05141|05137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

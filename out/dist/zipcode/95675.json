@@ -1,0 +1,20 @@
+{
+    "zip": 95675,
+    "lat": 38.54548,
+    "lng": -120.74277,
+    "city": "River Pines",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 345.0,
+    "density": 657.9,
+    "county_fips": 6005,
+    "county_name": "Amador",
+    "county_weights": "{\"06005\": 96.96, \"06017\": 3.04}",
+    "county_names_all": "Amador|El Dorado",
+    "county_fips_all": "06005|06017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

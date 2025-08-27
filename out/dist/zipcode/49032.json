@@ -1,0 +1,20 @@
+{
+    "zip": 49032,
+    "lat": 41.91779,
+    "lng": -85.50767,
+    "city": "Centreville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3369.0,
+    "density": 36.6,
+    "county_fips": 26149,
+    "county_name": "St. Joseph",
+    "county_weights": "{\"26149\": 100}",
+    "county_names_all": "St. Joseph",
+    "county_fips_all": "26149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

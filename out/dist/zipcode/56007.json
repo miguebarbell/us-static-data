@@ -1,0 +1,20 @@
+{
+    "zip": 56007,
+    "lat": 43.66085,
+    "lng": -93.3238,
+    "city": "Albert Lea",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21467.0,
+    "density": 49.0,
+    "county_fips": 27047,
+    "county_name": "Freeborn",
+    "county_weights": "{\"27047\": 100}",
+    "county_names_all": "Freeborn",
+    "county_fips_all": "27047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

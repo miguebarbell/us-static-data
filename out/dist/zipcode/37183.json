@@ -1,0 +1,20 @@
+{
+    "zip": 37183,
+    "lat": 35.5104,
+    "lng": -86.30162,
+    "city": "Wartrace",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3211.0,
+    "density": 15.0,
+    "county_fips": 47003,
+    "county_name": "Bedford",
+    "county_weights": "{\"47003\": 79.52, \"47031\": 15.44, \"47127\": 5.04}",
+    "county_names_all": "Bedford|Coffee|Moore",
+    "county_fips_all": "47003|47031|47127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

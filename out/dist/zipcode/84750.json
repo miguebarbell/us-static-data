@@ -1,0 +1,20 @@
+{
+    "zip": 84750,
+    "lat": 38.44205,
+    "lng": -112.1947,
+    "city": "Marysvale",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 560.0,
+    "density": 1.6,
+    "county_fips": 49031,
+    "county_name": "Piute",
+    "county_weights": "{\"49031\": 99.39, \"49041\": 0.61}",
+    "county_names_all": "Piute|Sevier",
+    "county_fips_all": "49031|49041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 95360,
+    "lat": 37.32918,
+    "lng": -121.03827,
+    "city": "Newman",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13690.0,
+    "density": 85.5,
+    "county_fips": 6099,
+    "county_name": "Stanislaus",
+    "county_weights": "{\"06099\": 74.95, \"06047\": 25.05}",
+    "county_names_all": "Stanislaus|Merced",
+    "county_fips_all": "06099|06047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

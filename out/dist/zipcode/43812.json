@@ -1,0 +1,20 @@
+{
+    "zip": 43812,
+    "lat": 40.27268,
+    "lng": -81.88347,
+    "city": "Coshocton",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18716.0,
+    "density": 46.0,
+    "county_fips": 39031,
+    "county_name": "Coshocton",
+    "county_weights": "{\"39031\": 100}",
+    "county_names_all": "Coshocton",
+    "county_fips_all": "39031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

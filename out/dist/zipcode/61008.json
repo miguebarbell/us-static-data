@@ -1,0 +1,20 @@
+{
+    "zip": 61008,
+    "lat": 42.24579,
+    "lng": -88.83949,
+    "city": "Belvidere",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33697.0,
+    "density": 154.3,
+    "county_fips": 17007,
+    "county_name": "Boone",
+    "county_weights": "{\"17007\": 99.9, \"17201\": 0.1}",
+    "county_names_all": "Boone|Winnebago",
+    "county_fips_all": "17007|17201",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

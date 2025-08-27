@@ -1,0 +1,20 @@
+{
+    "zip": 31030,
+    "lat": 32.56861,
+    "lng": -83.89103,
+    "city": "Fort Valley",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17987.0,
+    "density": 39.7,
+    "county_fips": 13225,
+    "county_name": "Peach",
+    "county_weights": "{\"13225\": 58.56, \"13079\": 38.05, \"13193\": 3.39}",
+    "county_names_all": "Peach|Crawford|Macon",
+    "county_fips_all": "13225|13079|13193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

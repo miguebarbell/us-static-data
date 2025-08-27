@@ -1,0 +1,20 @@
+{
+    "zip": 76384,
+    "lat": 34.14355,
+    "lng": -99.32067,
+    "city": "Vernon",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12239.0,
+    "density": 10.0,
+    "county_fips": 48487,
+    "county_name": "Wilbarger",
+    "county_weights": "{\"48487\": 99.57, \"48155\": 0.43}",
+    "county_names_all": "Wilbarger|Foard",
+    "county_fips_all": "48487|48155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

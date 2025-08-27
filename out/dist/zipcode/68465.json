@@ -1,0 +1,20 @@
+{
+    "zip": 68465,
+    "lat": 40.49248,
+    "lng": -97.01987,
+    "city": "Wilber",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2682.0,
+    "density": 10.1,
+    "county_fips": 31151,
+    "county_name": "Saline",
+    "county_weights": "{\"31151\": 91.29, \"31067\": 6.01, \"31109\": 2.7}",
+    "county_names_all": "Saline|Gage|Lancaster",
+    "county_fips_all": "31151|31067|31109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

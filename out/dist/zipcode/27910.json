@@ -1,0 +1,20 @@
+{
+    "zip": 27910,
+    "lat": 36.27996,
+    "lng": -76.99281,
+    "city": "Ahoskie",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10427.0,
+    "density": 27.5,
+    "county_fips": 37091,
+    "county_name": "Hertford",
+    "county_weights": "{\"37091\": 69.7, \"37015\": 30.3}",
+    "county_names_all": "Hertford|Bertie",
+    "county_fips_all": "37091|37015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 7934,
+    "lat": 40.72044,
+    "lng": -74.68159,
+    "city": "Gladstone",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1406.0,
+    "density": 174.8,
+    "county_fips": 34035,
+    "county_name": "Somerset",
+    "county_weights": "{\"34035\": 98.44, \"34027\": 1.56}",
+    "county_names_all": "Somerset|Morris",
+    "county_fips_all": "34035|34027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

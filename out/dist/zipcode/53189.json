@@ -1,0 +1,20 @@
+{
+    "zip": 53189,
+    "lat": 42.95216,
+    "lng": -88.28068,
+    "city": "Waukesha",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26607.0,
+    "density": 214.8,
+    "county_fips": 55133,
+    "county_name": "Waukesha",
+    "county_weights": "{\"55133\": 100}",
+    "county_names_all": "Waukesha",
+    "county_fips_all": "55133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

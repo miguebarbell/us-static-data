@@ -1,0 +1,20 @@
+{
+    "zip": 26501,
+    "lat": 39.62872,
+    "lng": -80.04025,
+    "city": "Morgantown",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19640.0,
+    "density": 129.5,
+    "county_fips": 54061,
+    "county_name": "Monongalia",
+    "county_weights": "{\"54061\": 100}",
+    "county_names_all": "Monongalia",
+    "county_fips_all": "54061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

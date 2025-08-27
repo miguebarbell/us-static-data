@@ -1,0 +1,20 @@
+{
+    "zip": 98638,
+    "lat": 46.4047,
+    "lng": -123.73588,
+    "city": "Naselle",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1545.0,
+    "density": 3.5,
+    "county_fips": 53049,
+    "county_name": "Pacific",
+    "county_weights": "{\"53049\": 91.18, \"53069\": 8.82}",
+    "county_names_all": "Pacific|Wahkiakum",
+    "county_fips_all": "53049|53069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

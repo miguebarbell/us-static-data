@@ -1,0 +1,20 @@
+{
+    "zip": 66020,
+    "lat": 39.34142,
+    "lng": -95.10779,
+    "city": "Easton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1763.0,
+    "density": 10.8,
+    "county_fips": 20103,
+    "county_name": "Leavenworth",
+    "county_weights": "{\"20103\": 100}",
+    "county_names_all": "Leavenworth",
+    "county_fips_all": "20103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 17029,
+    "lat": 40.55416,
+    "lng": -77.62196,
+    "city": "Granville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 254.0,
+    "density": 71.1,
+    "county_fips": 42087,
+    "county_name": "Mifflin",
+    "county_weights": "{\"42087\": 100}",
+    "county_names_all": "Mifflin",
+    "county_fips_all": "42087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

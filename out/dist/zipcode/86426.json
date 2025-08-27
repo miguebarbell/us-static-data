@@ -1,0 +1,20 @@
+{
+    "zip": 86426,
+    "lat": 35.0134,
+    "lng": -114.54968,
+    "city": "Fort Mohave",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15520.0,
+    "density": 171.7,
+    "county_fips": 4015,
+    "county_name": "Mohave",
+    "county_weights": "{\"04015\": 100}",
+    "county_names_all": "Mohave",
+    "county_fips_all": "04015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

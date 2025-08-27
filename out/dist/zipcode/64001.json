@@ -1,0 +1,20 @@
+{
+    "zip": 64001,
+    "lat": 39.10464,
+    "lng": -93.53683,
+    "city": "Alma",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 915.0,
+    "density": 9.9,
+    "county_fips": 29107,
+    "county_name": "Lafayette",
+    "county_weights": "{\"29107\": 100}",
+    "county_names_all": "Lafayette",
+    "county_fips_all": "29107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

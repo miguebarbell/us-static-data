@@ -1,0 +1,20 @@
+{
+    "zip": 41636,
+    "lat": 37.39772,
+    "lng": -82.73087,
+    "city": "Hi Hat",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 709.0,
+    "density": 32.3,
+    "county_fips": 21071,
+    "county_name": "Floyd",
+    "county_weights": "{\"21071\": 100}",
+    "county_names_all": "Floyd",
+    "county_fips_all": "21071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

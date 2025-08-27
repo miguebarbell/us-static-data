@@ -1,0 +1,20 @@
+{
+    "zip": 68023,
+    "lat": 41.46191,
+    "lng": -96.02226,
+    "city": "Fort Calhoun",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2711.0,
+    "density": 26.1,
+    "county_fips": 31177,
+    "county_name": "Washington",
+    "county_weights": "{\"31177\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "31177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

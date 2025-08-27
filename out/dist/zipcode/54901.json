@@ -1,0 +1,20 @@
+{
+    "zip": 54901,
+    "lat": 44.06265,
+    "lng": -88.53335,
+    "city": "Oshkosh",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36999.0,
+    "density": 858.6,
+    "county_fips": 55139,
+    "county_name": "Winnebago",
+    "county_weights": "{\"55139\": 100}",
+    "county_names_all": "Winnebago",
+    "county_fips_all": "55139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

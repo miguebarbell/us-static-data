@@ -1,0 +1,20 @@
+{
+    "zip": 61063,
+    "lat": 42.31305,
+    "lng": -89.34691,
+    "city": "Pecatonica",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4257.0,
+    "density": 22.0,
+    "county_fips": 17201,
+    "county_name": "Winnebago",
+    "county_weights": "{\"17201\": 83.74, \"17177\": 16.26}",
+    "county_names_all": "Winnebago|Stephenson",
+    "county_fips_all": "17201|17177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

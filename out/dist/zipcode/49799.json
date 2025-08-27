@@ -1,0 +1,20 @@
+{
+    "zip": 49799,
+    "lat": 45.26597,
+    "lng": -84.58177,
+    "city": "Wolverine",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2238.0,
+    "density": 7.3,
+    "county_fips": 26031,
+    "county_name": "Cheboygan",
+    "county_weights": "{\"26031\": 100}",
+    "county_names_all": "Cheboygan",
+    "county_fips_all": "26031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

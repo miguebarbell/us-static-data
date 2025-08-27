@@ -1,0 +1,20 @@
+{
+    "zip": 67556,
+    "lat": 38.60719,
+    "lng": -99.52436,
+    "city": "McCracken",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 185.0,
+    "density": 0.4,
+    "county_fips": 20165,
+    "county_name": "Rush",
+    "county_weights": "{\"20165\": 64.13, \"20135\": 23.16, \"20051\": 12.71}",
+    "county_names_all": "Rush|Ness|Ellis",
+    "county_fips_all": "20165|20135|20051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

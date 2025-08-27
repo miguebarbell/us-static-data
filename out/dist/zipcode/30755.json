@@ -1,0 +1,20 @@
+{
+    "zip": 30755,
+    "lat": 34.86944,
+    "lng": -85.04072,
+    "city": "Tunnel Hill",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10768.0,
+    "density": 112.9,
+    "county_fips": 13313,
+    "county_name": "Whitfield",
+    "county_weights": "{\"13313\": 52.48, \"13047\": 47.52}",
+    "county_names_all": "Whitfield|Catoosa",
+    "county_fips_all": "13313|13047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

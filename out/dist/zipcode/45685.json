@@ -1,0 +1,20 @@
+{
+    "zip": 45685,
+    "lat": 38.9333,
+    "lng": -82.4527,
+    "city": "Thurman",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1272.0,
+    "density": 16.2,
+    "county_fips": 39079,
+    "county_name": "Jackson",
+    "county_weights": "{\"39079\": 65.5, \"39053\": 34.5}",
+    "county_names_all": "Jackson|Gallia",
+    "county_fips_all": "39079|39053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

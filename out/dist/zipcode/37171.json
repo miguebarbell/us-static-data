@@ -1,0 +1,20 @@
+{
+    "zip": 37171,
+    "lat": 36.36442,
+    "lng": -87.30365,
+    "city": "Southside",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1552.0,
+    "density": 25.0,
+    "county_fips": 47125,
+    "county_name": "Montgomery",
+    "county_weights": "{\"47125\": 99.9, \"47043\": 0.1}",
+    "county_names_all": "Montgomery|Dickson",
+    "county_fips_all": "47125|47043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

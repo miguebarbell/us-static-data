@@ -1,0 +1,20 @@
+{
+    "zip": 81648,
+    "lat": 39.95096,
+    "lng": -108.78498,
+    "city": "Rangely",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2832.0,
+    "density": 1.0,
+    "county_fips": 8103,
+    "county_name": "Rio Blanco",
+    "county_weights": "{\"08103\": 100}",
+    "county_names_all": "Rio Blanco",
+    "county_fips_all": "08103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

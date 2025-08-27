@@ -1,0 +1,20 @@
+{
+    "zip": 42171,
+    "lat": 37.03609,
+    "lng": -86.16728,
+    "city": "Smiths Grove",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7189.0,
+    "density": 26.9,
+    "county_fips": 21227,
+    "county_name": "Warren",
+    "county_weights": "{\"21227\": 47.84, \"21061\": 27.57, \"21009\": 24.59}",
+    "county_names_all": "Warren|Edmonson|Barren",
+    "county_fips_all": "21227|21061|21009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

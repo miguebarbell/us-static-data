@@ -1,0 +1,20 @@
+{
+    "zip": 68326,
+    "lat": 40.28569,
+    "lng": -97.68243,
+    "city": "Carleton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 313.0,
+    "density": 2.2,
+    "county_fips": 31169,
+    "county_name": "Thayer",
+    "county_weights": "{\"31169\": 94.5, \"31059\": 5.5}",
+    "county_names_all": "Thayer|Fillmore",
+    "county_fips_all": "31169|31059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

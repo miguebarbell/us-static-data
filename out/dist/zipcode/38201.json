@@ -1,0 +1,20 @@
+{
+    "zip": 38201,
+    "lat": 36.12335,
+    "lng": -88.53131,
+    "city": "McKenzie",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10133.0,
+    "density": 28.1,
+    "county_fips": 47017,
+    "county_name": "Carroll",
+    "county_weights": "{\"47017\": 59.17, \"47183\": 27.4, \"47079\": 13.43}",
+    "county_names_all": "Carroll|Weakley|Henry",
+    "county_fips_all": "47017|47183|47079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

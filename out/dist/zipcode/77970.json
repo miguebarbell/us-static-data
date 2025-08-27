@@ -1,0 +1,20 @@
+{
+    "zip": 77970,
+    "lat": 28.84533,
+    "lng": -96.43153,
+    "city": "La Ward",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 281.0,
+    "density": 2.4,
+    "county_fips": 48239,
+    "county_name": "Jackson",
+    "county_weights": "{\"48239\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "48239",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

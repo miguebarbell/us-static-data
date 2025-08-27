@@ -1,0 +1,20 @@
+{
+    "zip": 63833,
+    "lat": 36.64779,
+    "lng": -89.73023,
+    "city": "Catron",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 147.0,
+    "density": 0.8,
+    "county_fips": 29143,
+    "county_name": "New Madrid",
+    "county_weights": "{\"29143\": 53.08, \"29207\": 46.92}",
+    "county_names_all": "New Madrid|Stoddard",
+    "county_fips_all": "29143|29207",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

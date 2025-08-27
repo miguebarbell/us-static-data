@@ -1,0 +1,20 @@
+{
+    "zip": 66521,
+    "lat": 39.47668,
+    "lng": -96.22128,
+    "city": "Onaga",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1444.0,
+    "density": 3.1,
+    "county_fips": 20149,
+    "county_name": "Pottawatomie",
+    "county_weights": "{\"20149\": 91.59, \"20131\": 8.41}",
+    "county_names_all": "Pottawatomie|Nemaha",
+    "county_fips_all": "20149|20131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

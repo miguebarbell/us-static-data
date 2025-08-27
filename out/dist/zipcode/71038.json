@@ -1,0 +1,20 @@
+{
+    "zip": 71038,
+    "lat": 32.94372,
+    "lng": -93.0699,
+    "city": "Haynesville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3797.0,
+    "density": 6.9,
+    "county_fips": 22027,
+    "county_name": "Claiborne",
+    "county_weights": "{\"22027\": 99.51, \"22119\": 0.49}",
+    "county_names_all": "Claiborne|Webster",
+    "county_fips_all": "22027|22119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

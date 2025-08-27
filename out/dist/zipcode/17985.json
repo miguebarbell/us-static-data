@@ -1,0 +1,20 @@
+{
+    "zip": 17985,
+    "lat": 40.91935,
+    "lng": -76.23729,
+    "city": "Zion Grove",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1265.0,
+    "density": 13.4,
+    "county_fips": 42107,
+    "county_name": "Schuylkill",
+    "county_weights": "{\"42107\": 57.6, \"42037\": 42.4}",
+    "county_names_all": "Schuylkill|Columbia",
+    "county_fips_all": "42107|42037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

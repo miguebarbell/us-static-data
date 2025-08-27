@@ -1,0 +1,20 @@
+{
+    "zip": 58036,
+    "lat": 47.15463,
+    "lng": -96.96318,
+    "city": "Gardner",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 302.0,
+    "density": 1.4,
+    "county_fips": 38017,
+    "county_name": "Cass",
+    "county_weights": "{\"38017\": 100}",
+    "county_names_all": "Cass",
+    "county_fips_all": "38017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

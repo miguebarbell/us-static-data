@@ -1,0 +1,20 @@
+{
+    "zip": 68747,
+    "lat": 42.39398,
+    "lng": -97.48873,
+    "city": "Mclean",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 185.0,
+    "density": 2.7,
+    "county_fips": 31139,
+    "county_name": "Pierce",
+    "county_weights": "{\"31139\": 96.11, \"31027\": 3.89}",
+    "county_names_all": "Pierce|Cedar",
+    "county_fips_all": "31139|31027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

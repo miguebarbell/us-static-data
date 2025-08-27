@@ -1,0 +1,20 @@
+{
+    "zip": 10271,
+    "lat": 40.70844,
+    "lng": -74.01033,
+    "city": "New York",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 36061,
+    "county_name": "New York",
+    "county_weights": "{\"36061\": 100}",
+    "county_names_all": "New York",
+    "county_fips_all": "36061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

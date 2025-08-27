@@ -1,0 +1,20 @@
+{
+    "zip": 78387,
+    "lat": 28.08224,
+    "lng": -97.55255,
+    "city": "Sinton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9604.0,
+    "density": 21.5,
+    "county_fips": 48409,
+    "county_name": "San Patricio",
+    "county_weights": "{\"48409\": 79.14, \"48025\": 20.86}",
+    "county_names_all": "San Patricio|Bee",
+    "county_fips_all": "48409|48025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

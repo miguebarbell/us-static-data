@@ -1,0 +1,20 @@
+{
+    "zip": 7647,
+    "lat": 41.00674,
+    "lng": -73.94255,
+    "city": "Northvale",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5301.0,
+    "density": 902.5,
+    "county_fips": 34003,
+    "county_name": "Bergen",
+    "county_weights": "{\"34003\": 100}",
+    "county_names_all": "Bergen",
+    "county_fips_all": "34003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

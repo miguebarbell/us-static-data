@@ -1,0 +1,20 @@
+{
+    "zip": 57216,
+    "lat": 45.30041,
+    "lng": -96.52471,
+    "city": "Big Stone City",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1389.0,
+    "density": 8.7,
+    "county_fips": 46051,
+    "county_name": "Grant",
+    "county_weights": "{\"46051\": 63.64, \"46109\": 36.36}",
+    "county_names_all": "Grant|Roberts",
+    "county_fips_all": "46051|46109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

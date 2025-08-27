@@ -1,0 +1,20 @@
+{
+    "zip": 49805,
+    "lat": 47.3481,
+    "lng": -88.38535,
+    "city": "Allouez",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 351.0,
+    "density": 4.2,
+    "county_fips": 26083,
+    "county_name": "Keweenaw",
+    "county_weights": "{\"26083\": 99.74, \"26061\": 0.26}",
+    "county_names_all": "Keweenaw|Houghton",
+    "county_fips_all": "26083|26061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

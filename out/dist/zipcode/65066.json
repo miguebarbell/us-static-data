@@ -1,0 +1,20 @@
+{
+    "zip": 65066,
+    "lat": 38.3454,
+    "lng": -91.48898,
+    "city": "Owensville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6021.0,
+    "density": 13.3,
+    "county_fips": 29073,
+    "county_name": "Gasconade",
+    "county_weights": "{\"29073\": 90.08, \"29055\": 9.92}",
+    "county_names_all": "Gasconade|Crawford",
+    "county_fips_all": "29073|29055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

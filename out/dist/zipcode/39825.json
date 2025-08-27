@@ -1,0 +1,20 @@
+{
+    "zip": 39825,
+    "lat": 30.92359,
+    "lng": -84.73496,
+    "city": "Brinson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2043.0,
+    "density": 8.5,
+    "county_fips": 13087,
+    "county_name": "Decatur",
+    "county_weights": "{\"13087\": 85.42, \"13253\": 14.58}",
+    "county_names_all": "Decatur|Seminole",
+    "county_fips_all": "13087|13253",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

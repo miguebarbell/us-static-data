@@ -1,0 +1,20 @@
+{
+    "zip": 48852,
+    "lat": 43.35256,
+    "lng": -85.04652,
+    "city": "Mcbrides",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 170.0,
+    "density": 343.6,
+    "county_fips": 26117,
+    "county_name": "Montcalm",
+    "county_weights": "{\"26117\": 100}",
+    "county_names_all": "Montcalm",
+    "county_fips_all": "26117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

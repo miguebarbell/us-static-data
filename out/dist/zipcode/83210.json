@@ -1,0 +1,20 @@
+{
+    "zip": 83210,
+    "lat": 43.02069,
+    "lng": -112.86048,
+    "city": "Aberdeen",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3661.0,
+    "density": 5.3,
+    "county_fips": 16011,
+    "county_name": "Bingham",
+    "county_weights": "{\"16011\": 100}",
+    "county_names_all": "Bingham",
+    "county_fips_all": "16011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

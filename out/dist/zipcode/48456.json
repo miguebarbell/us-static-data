@@ -1,0 +1,20 @@
+{
+    "zip": 48456,
+    "lat": 43.67102,
+    "lng": -82.75818,
+    "city": "Minden City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 768.0,
+    "density": 6.7,
+    "county_fips": 26151,
+    "county_name": "Sanilac",
+    "county_weights": "{\"26151\": 79.83, \"26063\": 20.17}",
+    "county_names_all": "Sanilac|Huron",
+    "county_fips_all": "26151|26063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

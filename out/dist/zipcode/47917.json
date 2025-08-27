@@ -1,0 +1,20 @@
+{
+    "zip": 47917,
+    "lat": 40.46881,
+    "lng": -87.47633,
+    "city": "Ambia",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 306.0,
+    "density": 3.2,
+    "county_fips": 18171,
+    "county_name": "Warren",
+    "county_weights": "{\"18171\": 59.1, \"18007\": 40.9}",
+    "county_names_all": "Warren|Benton",
+    "county_fips_all": "18171|18007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

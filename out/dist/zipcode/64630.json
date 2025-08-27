@@ -1,0 +1,20 @@
+{
+    "zip": 64630,
+    "lat": 40.03726,
+    "lng": -93.15435,
+    "city": "Browning",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 516.0,
+    "density": 1.9,
+    "county_fips": 29211,
+    "county_name": "Sullivan",
+    "county_weights": "{\"29211\": 52.66, \"29115\": 47.34}",
+    "county_names_all": "Sullivan|Linn",
+    "county_fips_all": "29211|29115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

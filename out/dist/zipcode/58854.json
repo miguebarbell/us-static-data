@@ -1,0 +1,20 @@
+{
+    "zip": 58854,
+    "lat": 47.81412,
+    "lng": -103.15229,
+    "city": "Watford City",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9345.0,
+    "density": 5.4,
+    "county_fips": 38053,
+    "county_name": "McKenzie",
+    "county_weights": "{\"38053\": 92.35, \"38025\": 7.65}",
+    "county_names_all": "McKenzie|Dunn",
+    "county_fips_all": "38053|38025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

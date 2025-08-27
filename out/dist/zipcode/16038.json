@@ -1,0 +1,20 @@
+{
+    "zip": 16038,
+    "lat": 41.15967,
+    "lng": -79.95042,
+    "city": "Harrisville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3213.0,
+    "density": 27.0,
+    "county_fips": 42019,
+    "county_name": "Butler",
+    "county_weights": "{\"42019\": 62.4, \"42121\": 37.6}",
+    "county_names_all": "Butler|Venango",
+    "county_fips_all": "42019|42121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

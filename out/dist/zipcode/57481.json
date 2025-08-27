@@ -1,0 +1,20 @@
+{
+    "zip": 57481,
+    "lat": 45.65279,
+    "lng": -98.66821,
+    "city": "Westport",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 361.0,
+    "density": 0.7,
+    "county_fips": 46013,
+    "county_name": "Brown",
+    "county_weights": "{\"46013\": 56.47, \"46089\": 31.28, \"46045\": 12.25}",
+    "county_names_all": "Brown|McPherson|Edmunds",
+    "county_fips_all": "46013|46089|46045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

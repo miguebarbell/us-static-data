@@ -1,0 +1,20 @@
+{
+    "zip": 99650,
+    "lat": 61.94255,
+    "lng": -162.88467,
+    "city": "Pilot Station",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 558.0,
+    "density": 134.2,
+    "county_fips": 2158,
+    "county_name": "Kusilvak",
+    "county_weights": "{\"02158\": 100}",
+    "county_names_all": "Kusilvak",
+    "county_fips_all": "02158",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Nome"
+}

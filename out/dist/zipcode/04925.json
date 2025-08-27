@@ -1,0 +1,20 @@
+{
+    "zip": 4925,
+    "lat": 45.21477,
+    "lng": -69.90509,
+    "city": "Caratunk",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 80.0,
+    "density": 0.6,
+    "county_fips": 23025,
+    "county_name": "Somerset",
+    "county_weights": "{\"23025\": 100}",
+    "county_names_all": "Somerset",
+    "county_fips_all": "23025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

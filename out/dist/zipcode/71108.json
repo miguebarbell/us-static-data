@@ -1,0 +1,20 @@
+{
+    "zip": 71108,
+    "lat": 32.44236,
+    "lng": -93.78881,
+    "city": "Shreveport",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19012.0,
+    "density": 866.4,
+    "county_fips": 22017,
+    "county_name": "Caddo",
+    "county_weights": "{\"22017\": 100}",
+    "county_names_all": "Caddo",
+    "county_fips_all": "22017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

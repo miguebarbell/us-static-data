@@ -1,0 +1,20 @@
+{
+    "zip": 38023,
+    "lat": 35.47468,
+    "lng": -89.95114,
+    "city": "Drummonds",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5343.0,
+    "density": 27.3,
+    "county_fips": 47167,
+    "county_name": "Tipton",
+    "county_weights": "{\"47167\": 100}",
+    "county_names_all": "Tipton",
+    "county_fips_all": "47167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

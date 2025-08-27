@@ -1,0 +1,20 @@
+{
+    "zip": 41171,
+    "lat": 38.09336,
+    "lng": -83.08901,
+    "city": "Sandy Hook",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4586.0,
+    "density": 14.9,
+    "county_fips": 21063,
+    "county_name": "Elliott",
+    "county_weights": "{\"21063\": 100}",
+    "county_names_all": "Elliott",
+    "county_fips_all": "21063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

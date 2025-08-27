@@ -1,0 +1,20 @@
+{
+    "zip": 20634,
+    "lat": 38.24582,
+    "lng": -76.49412,
+    "city": "Great Mills",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6976.0,
+    "density": 385.3,
+    "county_fips": 24037,
+    "county_name": "St. Mary's",
+    "county_weights": "{\"24037\": 100}",
+    "county_names_all": "St. Mary's",
+    "county_fips_all": "24037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

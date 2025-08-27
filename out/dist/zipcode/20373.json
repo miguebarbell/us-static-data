@@ -1,0 +1,20 @@
+{
+    "zip": 20373,
+    "lat": 38.85779,
+    "lng": -77.01051,
+    "city": "Naval Anacost Annex",
+    "state_id": "DC",
+    "state_name": "District of Columbia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 311.0,
+    "density": 238.0,
+    "county_fips": 11001,
+    "county_name": "District of Columbia",
+    "county_weights": "{\"11001\": 100}",
+    "county_names_all": "District of Columbia",
+    "county_fips_all": "11001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,14 @@
+{
+    "zip": [
+        "94401",
+        "94402",
+        "94403",
+        "94404"
+    ],
+    "city": "San Mateo",
+    "state": "CA",
+    "lat": 33.97365,
+    "lng": -118.24904,
+    "state_name": "California",
+    "timezone": "America/Los_Angeles"
+}

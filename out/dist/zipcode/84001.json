@@ -1,0 +1,20 @@
+{
+    "zip": 84001,
+    "lat": 40.34525,
+    "lng": -110.27241,
+    "city": "Altamont",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 661.0,
+    "density": 12.2,
+    "county_fips": 49013,
+    "county_name": "Duchesne",
+    "county_weights": "{\"49013\": 100}",
+    "county_names_all": "Duchesne",
+    "county_fips_all": "49013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

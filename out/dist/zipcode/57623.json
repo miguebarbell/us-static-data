@@ -1,0 +1,20 @@
+{
+    "zip": 57623,
+    "lat": 45.01587,
+    "lng": -101.65925,
+    "city": "Dupree",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 955.0,
+    "density": 0.6,
+    "county_fips": 46137,
+    "county_name": "Ziebach",
+    "county_weights": "{\"46137\": 100}",
+    "county_names_all": "Ziebach",
+    "county_fips_all": "46137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 48628,
+    "lat": 43.78166,
+    "lng": -84.32856,
+    "city": "Hope",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1920.0,
+    "density": 21.7,
+    "county_fips": 26111,
+    "county_name": "Midland",
+    "county_weights": "{\"26111\": 90.65, \"26051\": 9.35}",
+    "county_names_all": "Midland|Gladwin",
+    "county_fips_all": "26111|26051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

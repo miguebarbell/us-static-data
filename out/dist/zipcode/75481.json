@@ -1,0 +1,20 @@
+{
+    "zip": 75481,
+    "lat": 33.31751,
+    "lng": -95.37485,
+    "city": "Sulphur Bluff",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 417.0,
+    "density": 2.3,
+    "county_fips": 48223,
+    "county_name": "Hopkins",
+    "county_weights": "{\"48223\": 92.61, \"48159\": 7.39}",
+    "county_names_all": "Hopkins|Franklin",
+    "county_fips_all": "48223|48159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

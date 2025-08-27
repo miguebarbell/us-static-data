@@ -1,0 +1,20 @@
+{
+    "zip": 25160,
+    "lat": 38.29884,
+    "lng": -81.27314,
+    "city": "Pond Gap",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 596.0,
+    "density": 7.5,
+    "county_fips": 54039,
+    "county_name": "Kanawha",
+    "county_weights": "{\"54039\": 99.83, \"54015\": 0.17}",
+    "county_names_all": "Kanawha|Clay",
+    "county_fips_all": "54039|54015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

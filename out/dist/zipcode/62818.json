@@ -1,0 +1,20 @@
+{
+    "zip": 62818,
+    "lat": 38.37772,
+    "lng": -87.96749,
+    "city": "Browns",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 376.0,
+    "density": 5.6,
+    "county_fips": 17047,
+    "county_name": "Edwards",
+    "county_weights": "{\"17047\": 50.08, \"17185\": 49.92}",
+    "county_names_all": "Edwards|Wabash",
+    "county_fips_all": "17047|17185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

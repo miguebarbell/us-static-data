@@ -1,0 +1,20 @@
+{
+    "zip": 35070,
+    "lat": 34.01394,
+    "lng": -86.74443,
+    "city": "Garden City",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 127.0,
+    "density": 278.5,
+    "county_fips": 1043,
+    "county_name": "Cullman",
+    "county_weights": "{\"01043\": 100}",
+    "county_names_all": "Cullman",
+    "county_fips_all": "01043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65279,
+    "lat": 39.01284,
+    "lng": -92.52062,
+    "city": "Rocheport",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1639.0,
+    "density": 12.1,
+    "county_fips": 29019,
+    "county_name": "Boone",
+    "county_weights": "{\"29019\": 75.09, \"29089\": 24.91}",
+    "county_names_all": "Boone|Howard",
+    "county_fips_all": "29019|29089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

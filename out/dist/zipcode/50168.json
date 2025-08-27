@@ -1,0 +1,20 @@
+{
+    "zip": 50168,
+    "lat": 41.77725,
+    "lng": -93.27248,
+    "city": "Mingo",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 829.0,
+    "density": 8.3,
+    "county_fips": 19099,
+    "county_name": "Jasper",
+    "county_weights": "{\"19099\": 95.76, \"19153\": 4.24}",
+    "county_names_all": "Jasper|Polk",
+    "county_fips_all": "19099|19153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

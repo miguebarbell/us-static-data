@@ -1,0 +1,20 @@
+{
+    "zip": 53821,
+    "lat": 43.04769,
+    "lng": -91.06569,
+    "city": "Prairie Du Chien",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7711.0,
+    "density": 30.8,
+    "county_fips": 55023,
+    "county_name": "Crawford",
+    "county_weights": "{\"55023\": 78.66, \"55043\": 21.34}",
+    "county_names_all": "Crawford|Grant",
+    "county_fips_all": "55023|55043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

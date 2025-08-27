@@ -1,0 +1,20 @@
+{
+    "zip": 47612,
+    "lat": 38.1946,
+    "lng": -87.70155,
+    "city": "Cynthiana",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 784.0,
+    "density": 18.7,
+    "county_fips": 18051,
+    "county_name": "Gibson",
+    "county_weights": "{\"18051\": 60.87, \"18129\": 39.13}",
+    "county_names_all": "Gibson|Posey",
+    "county_fips_all": "18051|18129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

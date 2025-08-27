@@ -1,0 +1,20 @@
+{
+    "zip": 664,
+    "lat": 18.21064,
+    "lng": -66.59066,
+    "city": "Jayuya",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14816.0,
+    "density": 121.9,
+    "county_fips": 72073,
+    "county_name": "Jayuya",
+    "county_weights": "{\"72073\": 94.96, \"72141\": 5.04}",
+    "county_names_all": "Jayuya|Utuado",
+    "county_fips_all": "72073|72141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

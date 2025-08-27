@@ -1,0 +1,20 @@
+{
+    "zip": 1368,
+    "lat": 42.67815,
+    "lng": -72.18557,
+    "city": "Royalston",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1497.0,
+    "density": 13.0,
+    "county_fips": 25027,
+    "county_name": "Worcester",
+    "county_weights": "{\"25027\": 100}",
+    "county_names_all": "Worcester",
+    "county_fips_all": "25027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

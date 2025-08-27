@@ -1,0 +1,20 @@
+{
+    "zip": 47924,
+    "lat": 40.48991,
+    "lng": -86.75759,
+    "city": "Buck Creek",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 75.0,
+    "density": 122.9,
+    "county_fips": 18157,
+    "county_name": "Tippecanoe",
+    "county_weights": "{\"18157\": 100}",
+    "county_names_all": "Tippecanoe",
+    "county_fips_all": "18157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

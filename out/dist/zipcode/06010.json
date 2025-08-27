@@ -1,0 +1,20 @@
+{
+    "zip": 6010,
+    "lat": 41.681,
+    "lng": -72.94065,
+    "city": "Bristol",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 61206.0,
+    "density": 891.9,
+    "county_fips": 9140,
+    "county_name": "Naugatuck Valley",
+    "county_weights": "{\"09140\": 99.57, \"09110\": 0.43}",
+    "county_names_all": "Naugatuck Valley|Capitol",
+    "county_fips_all": "09140|09110",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

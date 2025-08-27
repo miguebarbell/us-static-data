@@ -1,0 +1,20 @@
+{
+    "zip": 22920,
+    "lat": 37.97294,
+    "lng": -78.81276,
+    "city": "Afton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3744.0,
+    "density": 18.7,
+    "county_fips": 51125,
+    "county_name": "Nelson",
+    "county_weights": "{\"51125\": 58.21, \"51003\": 37.02, \"51015\": 4.77}",
+    "county_names_all": "Nelson|Albemarle|Augusta",
+    "county_fips_all": "51125|51003|51015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

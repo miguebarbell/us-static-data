@@ -1,0 +1,20 @@
+{
+    "zip": 28726,
+    "lat": 35.282,
+    "lng": -82.41752,
+    "city": "East Flat Rock",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4373.0,
+    "density": 683.9,
+    "county_fips": 37089,
+    "county_name": "Henderson",
+    "county_weights": "{\"37089\": 100}",
+    "county_names_all": "Henderson",
+    "county_fips_all": "37089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

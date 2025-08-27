@@ -1,0 +1,20 @@
+{
+    "zip": 31313,
+    "lat": 31.83534,
+    "lng": -81.6183,
+    "city": "Hinesville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42034.0,
+    "density": 265.5,
+    "county_fips": 13179,
+    "county_name": "Liberty",
+    "county_weights": "{\"13179\": 97.1, \"13183\": 2.9}",
+    "county_names_all": "Liberty|Long",
+    "county_fips_all": "13179|13183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 64728,
+    "lat": 37.70217,
+    "lng": -94.5174,
+    "city": "Bronaugh",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 348.0,
+    "density": 1.7,
+    "county_fips": 29217,
+    "county_name": "Vernon",
+    "county_weights": "{\"29217\": 100}",
+    "county_names_all": "Vernon",
+    "county_fips_all": "29217",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 25028,
+    "lat": 37.95598,
+    "lng": -81.72535,
+    "city": "Bob White",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 234.0,
+    "density": 18.3,
+    "county_fips": 54005,
+    "county_name": "Boone",
+    "county_weights": "{\"54005\": 100}",
+    "county_names_all": "Boone",
+    "county_fips_all": "54005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

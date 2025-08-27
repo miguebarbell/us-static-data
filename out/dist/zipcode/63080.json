@@ -1,0 +1,20 @@
+{
+    "zip": 63080,
+    "lat": 38.20828,
+    "lng": -91.08802,
+    "city": "Sullivan",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13529.0,
+    "density": 21.0,
+    "county_fips": 29071,
+    "county_name": "Franklin",
+    "county_weights": "{\"29071\": 56.65, \"29221\": 39.32, \"29055\": 4.03}",
+    "county_names_all": "Franklin|Washington|Crawford",
+    "county_fips_all": "29071|29221|29055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

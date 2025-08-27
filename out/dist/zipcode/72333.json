@@ -1,0 +1,20 @@
+{
+    "zip": 72333,
+    "lat": 34.29004,
+    "lng": -90.86971,
+    "city": "Elaine",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 264.0,
+    "density": 1.3,
+    "county_fips": 5107,
+    "county_name": "Phillips",
+    "county_weights": "{\"05107\": 100}",
+    "county_names_all": "Phillips",
+    "county_fips_all": "05107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

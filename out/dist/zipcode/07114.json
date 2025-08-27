@@ -1,0 +1,20 @@
+{
+    "zip": 7114,
+    "lat": 40.70018,
+    "lng": -74.16618,
+    "city": "Newark",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12658.0,
+    "density": 619.1,
+    "county_fips": 34013,
+    "county_name": "Essex",
+    "county_weights": "{\"34013\": 100}",
+    "county_names_all": "Essex",
+    "county_fips_all": "34013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

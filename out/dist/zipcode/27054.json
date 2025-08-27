@@ -1,0 +1,20 @@
+{
+    "zip": 27054,
+    "lat": 35.79304,
+    "lng": -80.59833,
+    "city": "Woodleaf",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2372.0,
+    "density": 31.7,
+    "county_fips": 37159,
+    "county_name": "Rowan",
+    "county_weights": "{\"37159\": 100}",
+    "county_names_all": "Rowan",
+    "county_fips_all": "37159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

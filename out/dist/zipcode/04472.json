@@ -1,0 +1,20 @@
+{
+    "zip": 4472,
+    "lat": 44.57334,
+    "lng": -68.67736,
+    "city": "Orland",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1857.0,
+    "density": 15.3,
+    "county_fips": 23009,
+    "county_name": "Hancock",
+    "county_weights": "{\"23009\": 100}",
+    "county_names_all": "Hancock",
+    "county_fips_all": "23009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

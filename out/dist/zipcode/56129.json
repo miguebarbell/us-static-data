@@ -1,0 +1,20 @@
+{
+    "zip": 56129,
+    "lat": 43.52775,
+    "lng": -96.04327,
+    "city": "Ellsworth",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 780.0,
+    "density": 6.3,
+    "county_fips": 27105,
+    "county_name": "Nobles",
+    "county_weights": "{\"27105\": 52.83, \"27133\": 47.17}",
+    "county_names_all": "Nobles|Rock",
+    "county_fips_all": "27105|27133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

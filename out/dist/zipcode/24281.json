@@ -1,0 +1,20 @@
+{
+    "zip": 24281,
+    "lat": 36.65051,
+    "lng": -83.3295,
+    "city": "Rose Hill",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2327.0,
+    "density": 17.2,
+    "county_fips": 51105,
+    "county_name": "Lee",
+    "county_weights": "{\"51105\": 100}",
+    "county_names_all": "Lee",
+    "county_fips_all": "51105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

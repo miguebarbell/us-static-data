@@ -1,0 +1,20 @@
+{
+    "zip": 4105,
+    "lat": 43.74753,
+    "lng": -70.2825,
+    "city": "Falmouth",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12557.0,
+    "density": 165.5,
+    "county_fips": 23005,
+    "county_name": "Cumberland",
+    "county_weights": "{\"23005\": 100}",
+    "county_names_all": "Cumberland",
+    "county_fips_all": "23005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

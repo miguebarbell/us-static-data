@@ -1,0 +1,20 @@
+{
+    "zip": 21701,
+    "lat": 39.44729,
+    "lng": -77.33512,
+    "city": "Frederick",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41340.0,
+    "density": 402.0,
+    "county_fips": 24021,
+    "county_name": "Frederick",
+    "county_weights": "{\"24021\": 100}",
+    "county_names_all": "Frederick",
+    "county_fips_all": "24021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

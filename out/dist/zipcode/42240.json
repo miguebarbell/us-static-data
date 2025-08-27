@@ -1,0 +1,20 @@
+{
+    "zip": 42240,
+    "lat": 36.88388,
+    "lng": -87.46024,
+    "city": "Hopkinsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41510.0,
+    "density": 57.8,
+    "county_fips": 21047,
+    "county_name": "Christian",
+    "county_weights": "{\"21047\": 100}",
+    "county_names_all": "Christian",
+    "county_fips_all": "21047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 20736,
+    "lat": 38.6913,
+    "lng": -76.62855,
+    "city": "Owings",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9775.0,
+    "density": 152.6,
+    "county_fips": 24009,
+    "county_name": "Calvert",
+    "county_weights": "{\"24009\": 97.12, \"24003\": 2.88}",
+    "county_names_all": "Calvert|Anne Arundel",
+    "county_fips_all": "24009|24003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

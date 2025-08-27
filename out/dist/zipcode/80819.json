@@ -1,0 +1,20 @@
+{
+    "zip": 80819,
+    "lat": 38.94076,
+    "lng": -105.00249,
+    "city": "Green Mountain Falls",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 882.0,
+    "density": 57.6,
+    "county_fips": 8041,
+    "county_name": "El Paso",
+    "county_weights": "{\"08041\": 93.68, \"08119\": 6.32}",
+    "county_names_all": "El Paso|Teller",
+    "county_fips_all": "08041|08119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

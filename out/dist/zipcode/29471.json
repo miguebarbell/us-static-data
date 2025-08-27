@@ -1,0 +1,20 @@
+{
+    "zip": 29471,
+    "lat": 33.18714,
+    "lng": -80.66955,
+    "city": "Reevesville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1332.0,
+    "density": 12.0,
+    "county_fips": 45035,
+    "county_name": "Dorchester",
+    "county_weights": "{\"45035\": 97.15, \"45075\": 2.85}",
+    "county_names_all": "Dorchester|Orangeburg",
+    "county_fips_all": "45035|45075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

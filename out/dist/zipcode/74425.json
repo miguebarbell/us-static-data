@@ -1,0 +1,20 @@
+{
+    "zip": 74425,
+    "lat": 35.17184,
+    "lng": -95.62299,
+    "city": "Canadian",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1067.0,
+    "density": 45.6,
+    "county_fips": 40121,
+    "county_name": "Pittsburg",
+    "county_weights": "{\"40121\": 100}",
+    "county_names_all": "Pittsburg",
+    "county_fips_all": "40121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

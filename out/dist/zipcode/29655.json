@@ -1,0 +1,20 @@
+{
+    "zip": 29655,
+    "lat": 34.267,
+    "lng": -82.64032,
+    "city": "Iva",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8078.0,
+    "density": 22.2,
+    "county_fips": 45001,
+    "county_name": "Abbeville",
+    "county_weights": "{\"45001\": 54.97, \"45007\": 45.03}",
+    "county_names_all": "Abbeville|Anderson",
+    "county_fips_all": "45001|45007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

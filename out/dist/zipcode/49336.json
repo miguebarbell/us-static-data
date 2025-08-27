@@ -1,0 +1,20 @@
+{
+    "zip": 49336,
+    "lat": 43.50752,
+    "lng": -85.42862,
+    "city": "Morley",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4727.0,
+    "density": 22.3,
+    "county_fips": 26107,
+    "county_name": "Mecosta",
+    "county_weights": "{\"26107\": 90.15, \"26117\": 9.06, \"26123\": 0.79}",
+    "county_names_all": "Mecosta|Montcalm|Newaygo",
+    "county_fips_all": "26107|26117|26123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 6516,
+    "lat": 41.27393,
+    "lng": -72.96718,
+    "city": "West Haven",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 55147.0,
+    "density": 1980.7,
+    "county_fips": 9170,
+    "county_name": "South Central Connecticut",
+    "county_weights": "{\"09170\": 100}",
+    "county_names_all": "South Central Connecticut",
+    "county_fips_all": "09170",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

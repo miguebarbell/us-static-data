@@ -1,0 +1,20 @@
+{
+    "zip": 74369,
+    "lat": 36.92237,
+    "lng": -95.19776,
+    "city": "Welch",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1729.0,
+    "density": 3.1,
+    "county_fips": 40035,
+    "county_name": "Craig",
+    "county_weights": "{\"40035\": 100}",
+    "county_names_all": "Craig",
+    "county_fips_all": "40035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

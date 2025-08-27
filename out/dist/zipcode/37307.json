@@ -1,0 +1,20 @@
+{
+    "zip": 37307,
+    "lat": 35.16676,
+    "lng": -84.62158,
+    "city": "Benton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5340.0,
+    "density": 35.8,
+    "county_fips": 47139,
+    "county_name": "Polk",
+    "county_weights": "{\"47139\": 99.01, \"47011\": 0.99}",
+    "county_names_all": "Polk|Bradley",
+    "county_fips_all": "47139|47011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

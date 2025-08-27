@@ -1,0 +1,20 @@
+{
+    "zip": 46770,
+    "lat": 40.8298,
+    "lng": -85.31873,
+    "city": "Markle",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2604.0,
+    "density": 19.2,
+    "county_fips": 18179,
+    "county_name": "Wells",
+    "county_weights": "{\"18179\": 61.35, \"18069\": 38.65}",
+    "county_names_all": "Wells|Huntington",
+    "county_fips_all": "18179|18069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

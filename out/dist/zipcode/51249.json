@@ -1,0 +1,20 @@
+{
+    "zip": 51249,
+    "lat": 43.41068,
+    "lng": -95.73203,
+    "city": "Sibley",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3588.0,
+    "density": 10.9,
+    "county_fips": 19143,
+    "county_name": "Osceola",
+    "county_weights": "{\"19143\": 100}",
+    "county_names_all": "Osceola",
+    "county_fips_all": "19143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

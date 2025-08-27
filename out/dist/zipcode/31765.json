@@ -1,0 +1,20 @@
+{
+    "zip": 31765,
+    "lat": 31.09514,
+    "lng": -84.0346,
+    "city": "Meigs",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2870.0,
+    "density": 13.4,
+    "county_fips": 13205,
+    "county_name": "Mitchell",
+    "county_weights": "{\"13205\": 50.07, \"13275\": 28.99, \"13071\": 20.94}",
+    "county_names_all": "Mitchell|Thomas|Colquitt",
+    "county_fips_all": "13205|13275|13071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

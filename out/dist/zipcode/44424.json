@@ -1,0 +1,20 @@
+{
+    "zip": 44424,
+    "lat": 41.32201,
+    "lng": -80.58326,
+    "city": "Hartford",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 84.0,
+    "density": 14.6,
+    "county_fips": 39155,
+    "county_name": "Trumbull",
+    "county_weights": "{\"39155\": 100}",
+    "county_names_all": "Trumbull",
+    "county_fips_all": "39155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 39232,
+    "lat": 32.3361,
+    "lng": -90.08693,
+    "city": "Flowood",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9324.0,
+    "density": 140.7,
+    "county_fips": 28121,
+    "county_name": "Rankin",
+    "county_weights": "{\"28121\": 100}",
+    "county_names_all": "Rankin",
+    "county_fips_all": "28121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

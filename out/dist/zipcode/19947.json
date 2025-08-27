@@ -1,0 +1,20 @@
+{
+    "zip": 19947,
+    "lat": 38.67421,
+    "lng": -75.39864,
+    "city": "Georgetown",
+    "state_id": "DE",
+    "state_name": "Delaware",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19343.0,
+    "density": 62.6,
+    "county_fips": 10005,
+    "county_name": "Sussex",
+    "county_weights": "{\"10005\": 100}",
+    "county_names_all": "Sussex",
+    "county_fips_all": "10005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

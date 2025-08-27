@@ -1,0 +1,20 @@
+{
+    "zip": 80642,
+    "lat": 40.05353,
+    "lng": -104.61565,
+    "city": "Hudson",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4449.0,
+    "density": 17.3,
+    "county_fips": 8123,
+    "county_name": "Weld",
+    "county_weights": "{\"08123\": 70.38, \"08001\": 29.62}",
+    "county_names_all": "Weld|Adams",
+    "county_fips_all": "08123|08001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 25075,
+    "lat": 38.0526,
+    "lng": -81.42915,
+    "city": "Eskdale",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 891.0,
+    "density": 5.8,
+    "county_fips": 54039,
+    "county_name": "Kanawha",
+    "county_weights": "{\"54039\": 100}",
+    "county_names_all": "Kanawha",
+    "county_fips_all": "54039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 19941,
+    "lat": 38.7949,
+    "lng": -75.42476,
+    "city": "Ellendale",
+    "state_id": "DE",
+    "state_name": "Delaware",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3120.0,
+    "density": 39.8,
+    "county_fips": 10005,
+    "county_name": "Sussex",
+    "county_weights": "{\"10005\": 100}",
+    "county_names_all": "Sussex",
+    "county_fips_all": "10005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 58467,
+    "lat": 46.8746,
+    "lng": -99.34103,
+    "city": "Medina",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 568.0,
+    "density": 1.0,
+    "county_fips": 38093,
+    "county_name": "Stutsman",
+    "county_weights": "{\"38093\": 83.93, \"38043\": 16.07}",
+    "county_names_all": "Stutsman|Kidder",
+    "county_fips_all": "38093|38043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

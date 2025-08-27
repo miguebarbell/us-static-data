@@ -1,0 +1,20 @@
+{
+    "zip": 30530,
+    "lat": 34.22691,
+    "lng": -83.38433,
+    "city": "Commerce",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7360.0,
+    "density": 35.9,
+    "county_fips": 13011,
+    "county_name": "Banks",
+    "county_weights": "{\"13011\": 41.82, \"13157\": 25.83, \"13195\": 17.32, \"13119\": 15.02}",
+    "county_names_all": "Banks|Jackson|Madison|Franklin",
+    "county_fips_all": "13011|13157|13195|13119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

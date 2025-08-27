@@ -1,0 +1,20 @@
+{
+    "zip": 82637,
+    "lat": 42.76679,
+    "lng": -105.88228,
+    "city": "Glenrock",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4178.0,
+    "density": 2.5,
+    "county_fips": 56009,
+    "county_name": "Converse",
+    "county_weights": "{\"56009\": 100}",
+    "county_names_all": "Converse",
+    "county_fips_all": "56009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

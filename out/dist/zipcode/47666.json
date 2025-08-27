@@ -1,0 +1,20 @@
+{
+    "zip": 47666,
+    "lat": 38.41922,
+    "lng": -87.60042,
+    "city": "Patoka",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1411.0,
+    "density": 11.1,
+    "county_fips": 18051,
+    "county_name": "Gibson",
+    "county_weights": "{\"18051\": 100}",
+    "county_names_all": "Gibson",
+    "county_fips_all": "18051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

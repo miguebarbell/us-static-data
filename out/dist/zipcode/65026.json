@@ -1,0 +1,20 @@
+{
+    "zip": 65026,
+    "lat": 38.32105,
+    "lng": -92.57099,
+    "city": "Eldon",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11648.0,
+    "density": 31.4,
+    "county_fips": 29131,
+    "county_name": "Miller",
+    "county_weights": "{\"29131\": 97.84, \"29141\": 2.16}",
+    "county_names_all": "Miller|Morgan",
+    "county_fips_all": "29131|29141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 48429,
+    "lat": 42.90774,
+    "lng": -84.00544,
+    "city": "Durand",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8109.0,
+    "density": 58.9,
+    "county_fips": 26155,
+    "county_name": "Shiawassee",
+    "county_weights": "{\"26155\": 96.78, \"26049\": 3.22}",
+    "county_names_all": "Shiawassee|Genesee",
+    "county_fips_all": "26155|26049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

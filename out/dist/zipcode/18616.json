@@ -1,0 +1,20 @@
+{
+    "zip": 18616,
+    "lat": 41.51907,
+    "lng": -76.63954,
+    "city": "Forksville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 792.0,
+    "density": 4.6,
+    "county_fips": 42113,
+    "county_name": "Sullivan",
+    "county_weights": "{\"42113\": 87.22, \"42015\": 12.78}",
+    "county_names_all": "Sullivan|Bradford",
+    "county_fips_all": "42113|42015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

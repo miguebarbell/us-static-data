@@ -1,0 +1,20 @@
+{
+    "zip": 52627,
+    "lat": 40.65973,
+    "lng": -91.35145,
+    "city": "Fort Madison",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12585.0,
+    "density": 76.1,
+    "county_fips": 19111,
+    "county_name": "Lee",
+    "county_weights": "{\"19111\": 100}",
+    "county_names_all": "Lee",
+    "county_fips_all": "19111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

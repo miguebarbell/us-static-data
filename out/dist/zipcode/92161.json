@@ -1,0 +1,20 @@
+{
+    "zip": 92161,
+    "lat": 32.8742,
+    "lng": -117.23159,
+    "city": "San Diego",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24.0,
+    "density": 105.6,
+    "county_fips": 6073,
+    "county_name": "San Diego",
+    "county_weights": "{\"06073\": 100}",
+    "county_names_all": "San Diego",
+    "county_fips_all": "06073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 70092,
+    "lat": 29.90026,
+    "lng": -89.89598,
+    "city": "Violet",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6784.0,
+    "density": 608.2,
+    "county_fips": 22087,
+    "county_name": "St. Bernard",
+    "county_weights": "{\"22087\": 100}",
+    "county_names_all": "St. Bernard",
+    "county_fips_all": "22087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

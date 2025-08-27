@@ -1,0 +1,20 @@
+{
+    "zip": 95629,
+    "lat": 38.51277,
+    "lng": -120.6875,
+    "city": "Fiddletown",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1047.0,
+    "density": 7.1,
+    "county_fips": 6005,
+    "county_name": "Amador",
+    "county_weights": "{\"06005\": 60.81, \"06017\": 39.19}",
+    "county_names_all": "Amador|El Dorado",
+    "county_fips_all": "06005|06017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

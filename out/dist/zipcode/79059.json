@@ -1,0 +1,20 @@
+{
+    "zip": 79059,
+    "lat": 35.79825,
+    "lng": -100.73531,
+    "city": "Miami",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 669.0,
+    "density": 0.6,
+    "county_fips": 48393,
+    "county_name": "Roberts",
+    "county_weights": "{\"48393\": 89.06, \"48179\": 10.94}",
+    "county_names_all": "Roberts|Gray",
+    "county_fips_all": "48393|48179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

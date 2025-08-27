@@ -1,0 +1,20 @@
+{
+    "zip": 74434,
+    "lat": 35.78174,
+    "lng": -95.20027,
+    "city": "Fort Gibson",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9691.0,
+    "density": 30.4,
+    "county_fips": 40101,
+    "county_name": "Muskogee",
+    "county_weights": "{\"40101\": 61.35, \"40021\": 26.04, \"40145\": 12.61}",
+    "county_names_all": "Muskogee|Cherokee|Wagoner",
+    "county_fips_all": "40101|40021|40145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

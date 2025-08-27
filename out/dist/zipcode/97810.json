@@ -1,0 +1,20 @@
+{
+    "zip": 97810,
+    "lat": 45.6725,
+    "lng": -118.39642,
+    "city": "Adams",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 826.0,
+    "density": 1.2,
+    "county_fips": 41059,
+    "county_name": "Umatilla",
+    "county_weights": "{\"41059\": 100}",
+    "county_names_all": "Umatilla",
+    "county_fips_all": "41059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

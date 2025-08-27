@@ -1,0 +1,20 @@
+{
+    "zip": 15683,
+    "lat": 40.10926,
+    "lng": -79.60492,
+    "city": "Scottdale",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7855.0,
+    "density": 161.3,
+    "county_fips": 42129,
+    "county_name": "Westmoreland",
+    "county_weights": "{\"42129\": 81.06, \"42051\": 18.94}",
+    "county_names_all": "Westmoreland|Fayette",
+    "county_fips_all": "42129|42051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

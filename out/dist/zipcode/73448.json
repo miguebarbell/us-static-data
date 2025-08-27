@@ -1,0 +1,20 @@
+{
+    "zip": 73448,
+    "lat": 33.94813,
+    "lng": -97.10581,
+    "city": "Marietta",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5767.0,
+    "density": 10.3,
+    "county_fips": 40085,
+    "county_name": "Love",
+    "county_weights": "{\"40085\": 100}",
+    "county_names_all": "Love",
+    "county_fips_all": "40085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

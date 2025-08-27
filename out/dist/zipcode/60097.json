@@ -1,0 +1,20 @@
+{
+    "zip": 60097,
+    "lat": 42.39343,
+    "lng": -88.36164,
+    "city": "Wonder Lake",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11481.0,
+    "density": 276.2,
+    "county_fips": 17111,
+    "county_name": "McHenry",
+    "county_weights": "{\"17111\": 100}",
+    "county_names_all": "McHenry",
+    "county_fips_all": "17111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

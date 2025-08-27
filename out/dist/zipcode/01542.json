@@ -1,0 +1,20 @@
+{
+    "zip": 1542,
+    "lat": 42.20241,
+    "lng": -71.90995,
+    "city": "Rochdale",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2572.0,
+    "density": 235.7,
+    "county_fips": 25027,
+    "county_name": "Worcester",
+    "county_weights": "{\"25027\": 100}",
+    "county_names_all": "Worcester",
+    "county_fips_all": "25027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

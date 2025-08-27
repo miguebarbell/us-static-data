@@ -1,0 +1,20 @@
+{
+    "zip": 49107,
+    "lat": 41.84804,
+    "lng": -86.41396,
+    "city": "Buchanan",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10351.0,
+    "density": 60.3,
+    "county_fips": 26021,
+    "county_name": "Berrien",
+    "county_weights": "{\"26021\": 100}",
+    "county_names_all": "Berrien",
+    "county_fips_all": "26021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

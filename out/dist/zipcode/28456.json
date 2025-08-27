@@ -1,0 +1,20 @@
+{
+    "zip": 28456,
+    "lat": 34.37678,
+    "lng": -78.29228,
+    "city": "Riegelwood",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3565.0,
+    "density": 17.5,
+    "county_fips": 37047,
+    "county_name": "Columbus",
+    "county_weights": "{\"37047\": 43.83, \"37017\": 43.12, \"37019\": 13.04}",
+    "county_names_all": "Columbus|Bladen|Brunswick",
+    "county_fips_all": "37047|37017|37019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

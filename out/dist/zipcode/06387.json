@@ -1,0 +1,20 @@
+{
+    "zip": 6387,
+    "lat": 41.74418,
+    "lng": -71.90981,
+    "city": "Wauregan",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 184.0,
+    "density": 1225.9,
+    "county_fips": 9150,
+    "county_name": "Northeastern Connecticut",
+    "county_weights": "{\"09150\": 100}",
+    "county_names_all": "Northeastern Connecticut",
+    "county_fips_all": "09150",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

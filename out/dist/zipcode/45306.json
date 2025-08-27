@@ -1,0 +1,20 @@
+{
+    "zip": 45306,
+    "lat": 40.45856,
+    "lng": -84.18575,
+    "city": "Botkins",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2283.0,
+    "density": 28.3,
+    "county_fips": 39149,
+    "county_name": "Shelby",
+    "county_weights": "{\"39149\": 98.34, \"39011\": 1.66}",
+    "county_names_all": "Shelby|Auglaize",
+    "county_fips_all": "39149|39011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

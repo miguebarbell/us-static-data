@@ -1,0 +1,20 @@
+{
+    "zip": 84664,
+    "lat": 40.12627,
+    "lng": -111.57712,
+    "city": "Mapleton",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12340.0,
+    "density": 476.3,
+    "county_fips": 49049,
+    "county_name": "Utah",
+    "county_weights": "{\"49049\": 100}",
+    "county_names_all": "Utah",
+    "county_fips_all": "49049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

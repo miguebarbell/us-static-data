@@ -1,0 +1,20 @@
+{
+    "zip": 677,
+    "lat": 18.33535,
+    "lng": -67.23155,
+    "city": "Rincon",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15432.0,
+    "density": 409.0,
+    "county_fips": 72117,
+    "county_name": "Rinc\u00f3n",
+    "county_weights": "{\"72117\": 97.98, \"72011\": 1.2, \"72003\": 0.82}",
+    "county_names_all": "Rinc\u00f3n|A\u00f1asco|Aguada",
+    "county_fips_all": "72117|72011|72003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

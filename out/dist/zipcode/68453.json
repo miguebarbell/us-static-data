@@ -1,0 +1,20 @@
+{
+    "zip": 68453,
+    "lat": 40.40774,
+    "lng": -97.33455,
+    "city": "Tobias",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 233.0,
+    "density": 1.2,
+    "county_fips": 31151,
+    "county_name": "Saline",
+    "county_weights": "{\"31151\": 69.8, \"31059\": 19.63, \"31095\": 6.75, \"31169\": 3.82}",
+    "county_names_all": "Saline|Fillmore|Jefferson|Thayer",
+    "county_fips_all": "31151|31059|31095|31169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

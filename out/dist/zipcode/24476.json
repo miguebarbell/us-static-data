@@ -1,0 +1,20 @@
+{
+    "zip": 24476,
+    "lat": 37.97231,
+    "lng": -79.22,
+    "city": "Steeles Tavern",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 254.0,
+    "density": 13.3,
+    "county_fips": 51015,
+    "county_name": "Augusta",
+    "county_weights": "{\"51015\": 100}",
+    "county_names_all": "Augusta",
+    "county_fips_all": "51015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

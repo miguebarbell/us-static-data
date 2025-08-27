@@ -1,0 +1,20 @@
+{
+    "zip": 58730,
+    "lat": 48.86171,
+    "lng": -103.30652,
+    "city": "Crosby",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1369.0,
+    "density": 2.1,
+    "county_fips": 38023,
+    "county_name": "Divide",
+    "county_weights": "{\"38023\": 100}",
+    "county_names_all": "Divide",
+    "county_fips_all": "38023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

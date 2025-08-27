@@ -1,0 +1,20 @@
+{
+    "zip": 35094,
+    "lat": 33.52057,
+    "lng": -86.56127,
+    "city": "Leeds",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15333.0,
+    "density": 100.8,
+    "county_fips": 1073,
+    "county_name": "Jefferson",
+    "county_weights": "{\"01073\": 52.07, \"01117\": 33.26, \"01115\": 14.67}",
+    "county_names_all": "Jefferson|Shelby|St. Clair",
+    "county_fips_all": "01073|01117|01115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

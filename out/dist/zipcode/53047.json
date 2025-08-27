@@ -1,0 +1,20 @@
+{
+    "zip": 53047,
+    "lat": 43.25904,
+    "lng": -88.63002,
+    "city": "Lebanon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 70.0,
+    "density": 67.6,
+    "county_fips": 55027,
+    "county_name": "Dodge",
+    "county_weights": "{\"55027\": 100}",
+    "county_names_all": "Dodge",
+    "county_fips_all": "55027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

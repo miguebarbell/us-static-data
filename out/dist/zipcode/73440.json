@@ -1,0 +1,20 @@
+{
+    "zip": 73440,
+    "lat": 33.95163,
+    "lng": -96.89635,
+    "city": "Lebanon",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 260.0,
+    "density": 12.9,
+    "county_fips": 40095,
+    "county_name": "Marshall",
+    "county_weights": "{\"40095\": 100}",
+    "county_names_all": "Marshall",
+    "county_fips_all": "40095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

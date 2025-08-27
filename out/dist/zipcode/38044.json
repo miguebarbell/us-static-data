@@ -1,0 +1,20 @@
+{
+    "zip": 38044,
+    "lat": 35.20736,
+    "lng": -88.80244,
+    "city": "Hornsby",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 657.0,
+    "density": 6.0,
+    "county_fips": 47069,
+    "county_name": "Hardeman",
+    "county_weights": "{\"47069\": 81.2, \"47109\": 13.35, \"47023\": 5.45}",
+    "county_names_all": "Hardeman|McNairy|Chester",
+    "county_fips_all": "47069|47109|47023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

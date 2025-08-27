@@ -1,0 +1,20 @@
+{
+    "zip": 63785,
+    "lat": 37.26336,
+    "lng": -89.81554,
+    "city": "Whitewater",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1071.0,
+    "density": 8.3,
+    "county_fips": 29031,
+    "county_name": "Cape Girardeau",
+    "county_weights": "{\"29031\": 97.42, \"29017\": 2.58}",
+    "county_names_all": "Cape Girardeau|Bollinger",
+    "county_fips_all": "29031|29017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

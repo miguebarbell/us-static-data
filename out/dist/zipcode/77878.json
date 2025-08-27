@@ -1,0 +1,20 @@
+{
+    "zip": 77878,
+    "lat": 30.47222,
+    "lng": -96.45089,
+    "city": "Snook",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 706.0,
+    "density": 12.0,
+    "county_fips": 48051,
+    "county_name": "Burleson",
+    "county_weights": "{\"48051\": 100}",
+    "county_names_all": "Burleson",
+    "county_fips_all": "48051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

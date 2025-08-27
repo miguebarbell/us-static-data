@@ -1,0 +1,20 @@
+{
+    "zip": 30033,
+    "lat": 33.81342,
+    "lng": -84.28355,
+    "city": "Decatur",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31530.0,
+    "density": 1378.3,
+    "county_fips": 13089,
+    "county_name": "DeKalb",
+    "county_weights": "{\"13089\": 100}",
+    "county_names_all": "DeKalb",
+    "county_fips_all": "13089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

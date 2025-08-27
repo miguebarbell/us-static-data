@@ -1,0 +1,20 @@
+{
+    "zip": 54648,
+    "lat": 43.83544,
+    "lng": -90.63553,
+    "city": "Norwalk",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1616.0,
+    "density": 8.5,
+    "county_fips": 55081,
+    "county_name": "Monroe",
+    "county_weights": "{\"55081\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "55081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

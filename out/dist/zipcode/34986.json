@@ -1,0 +1,20 @@
+{
+    "zip": 34986,
+    "lat": 27.32804,
+    "lng": -80.40524,
+    "city": "Port Saint Lucie",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29713.0,
+    "density": 611.1,
+    "county_fips": 12111,
+    "county_name": "St. Lucie",
+    "county_weights": "{\"12111\": 100}",
+    "county_names_all": "St. Lucie",
+    "county_fips_all": "12111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 59935,
+    "lat": 48.64726,
+    "lng": -115.83505,
+    "city": "Troy",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3359.0,
+    "density": 1.3,
+    "county_fips": 30053,
+    "county_name": "Lincoln",
+    "county_weights": "{\"30053\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "30053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

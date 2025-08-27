@@ -1,0 +1,20 @@
+{
+    "zip": 58638,
+    "lat": 46.92201,
+    "lng": -102.04867,
+    "city": "Hebron",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 949.0,
+    "density": 1.1,
+    "county_fips": 38059,
+    "county_name": "Morton",
+    "county_weights": "{\"38059\": 42.59, \"38057\": 30.26, \"38089\": 16.44, \"38037\": 6.63, \"38025\": 4.08}",
+    "county_names_all": "Morton|Mercer|Stark|Grant|Dunn",
+    "county_fips_all": "38059|38057|38089|38037|38025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/North_Dakota/New_Salem"
+}

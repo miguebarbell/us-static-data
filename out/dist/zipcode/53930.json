@@ -1,0 +1,20 @@
+{
+    "zip": 53930,
+    "lat": 43.683,
+    "lng": -89.49506,
+    "city": "Endeavor",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1243.0,
+    "density": 11.5,
+    "county_fips": 55077,
+    "county_name": "Marquette",
+    "county_weights": "{\"55077\": 100}",
+    "county_names_all": "Marquette",
+    "county_fips_all": "55077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

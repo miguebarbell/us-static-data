@@ -1,0 +1,20 @@
+{
+    "zip": 4541,
+    "lat": 43.88671,
+    "lng": -69.48411,
+    "city": "Chamberlain",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44.0,
+    "density": 48.9,
+    "county_fips": 23015,
+    "county_name": "Lincoln",
+    "county_weights": "{\"23015\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "23015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

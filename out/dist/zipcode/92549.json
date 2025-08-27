@@ -1,0 +1,20 @@
+{
+    "zip": 92549,
+    "lat": 33.80886,
+    "lng": -116.71212,
+    "city": "Idyllwild",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3823.0,
+    "density": 13.9,
+    "county_fips": 6065,
+    "county_name": "Riverside",
+    "county_weights": "{\"06065\": 100}",
+    "county_names_all": "Riverside",
+    "county_fips_all": "06065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

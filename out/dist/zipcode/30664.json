@@ -1,0 +1,20 @@
+{
+    "zip": 30664,
+    "lat": 33.55786,
+    "lng": -82.79904,
+    "city": "Sharon",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11.0,
+    "density": 17.1,
+    "county_fips": 13265,
+    "county_name": "Taliaferro",
+    "county_weights": "{\"13265\": 100}",
+    "county_names_all": "Taliaferro",
+    "county_fips_all": "13265",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

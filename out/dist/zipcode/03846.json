@@ -1,0 +1,20 @@
+{
+    "zip": 3846,
+    "lat": 44.18445,
+    "lng": -71.18899,
+    "city": "Jackson",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1043.0,
+    "density": 6.1,
+    "county_fips": 33003,
+    "county_name": "Carroll",
+    "county_weights": "{\"33003\": 100}",
+    "county_names_all": "Carroll",
+    "county_fips_all": "33003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

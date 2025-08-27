@@ -1,0 +1,20 @@
+{
+    "zip": 65632,
+    "lat": 37.49961,
+    "lng": -92.81612,
+    "city": "Conway",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2616.0,
+    "density": 8.9,
+    "county_fips": 29105,
+    "county_name": "Laclede",
+    "county_weights": "{\"29105\": 46.82, \"29225\": 30.09, \"29059\": 23.09}",
+    "county_names_all": "Laclede|Webster|Dallas",
+    "county_fips_all": "29105|29225|29059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 22660,
+    "lat": 38.95628,
+    "lng": -78.4383,
+    "city": "Toms Brook",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1441.0,
+    "density": 46.5,
+    "county_fips": 51171,
+    "county_name": "Shenandoah",
+    "county_weights": "{\"51171\": 100}",
+    "county_names_all": "Shenandoah",
+    "county_fips_all": "51171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

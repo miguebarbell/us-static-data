@@ -1,0 +1,20 @@
+{
+    "zip": 35764,
+    "lat": 34.73102,
+    "lng": -86.31381,
+    "city": "Paint Rock",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 529.0,
+    "density": 7.2,
+    "county_fips": 1071,
+    "county_name": "Jackson",
+    "county_weights": "{\"01071\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "01071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

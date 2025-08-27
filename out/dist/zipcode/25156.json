@@ -1,0 +1,20 @@
+{
+    "zip": 25156,
+    "lat": 38.41181,
+    "lng": -81.48217,
+    "city": "Pinch",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 48.0,
+    "density": 651.3,
+    "county_fips": 54039,
+    "county_name": "Kanawha",
+    "county_weights": "{\"54039\": 100}",
+    "county_names_all": "Kanawha",
+    "county_fips_all": "54039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 38544,
+    "lat": 36.11605,
+    "lng": -85.66238,
+    "city": "Baxter",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7413.0,
+    "density": 36.1,
+    "county_fips": 47141,
+    "county_name": "Putnam",
+    "county_weights": "{\"47141\": 87.98, \"47041\": 12.02}",
+    "county_names_all": "Putnam|DeKalb",
+    "county_fips_all": "47141|47041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

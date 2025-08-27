@@ -1,0 +1,20 @@
+{
+    "zip": 26817,
+    "lat": 39.35957,
+    "lng": -78.39067,
+    "city": "Bloomery",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 586.0,
+    "density": 11.0,
+    "county_fips": 54027,
+    "county_name": "Hampshire",
+    "county_weights": "{\"54027\": 100}",
+    "county_names_all": "Hampshire",
+    "county_fips_all": "54027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

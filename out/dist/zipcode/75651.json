@@ -1,0 +1,20 @@
+{
+    "zip": 75651,
+    "lat": 32.67061,
+    "lng": -94.53064,
+    "city": "Harleton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2231.0,
+    "density": 15.6,
+    "county_fips": 48203,
+    "county_name": "Harrison",
+    "county_weights": "{\"48203\": 90.9, \"48315\": 9.1}",
+    "county_names_all": "Harrison|Marion",
+    "county_fips_all": "48203|48315",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

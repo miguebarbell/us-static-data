@@ -1,0 +1,20 @@
+{
+    "zip": 75972,
+    "lat": 31.49407,
+    "lng": -94.12173,
+    "city": "San Augustine",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5896.0,
+    "density": 6.3,
+    "county_fips": 48405,
+    "county_name": "San Augustine",
+    "county_weights": "{\"48405\": 78.89, \"48403\": 17.31, \"48419\": 3.8}",
+    "county_names_all": "San Augustine|Sabine|Shelby",
+    "county_fips_all": "48405|48403|48419",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

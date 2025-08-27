@@ -1,0 +1,20 @@
+{
+    "zip": 63446,
+    "lat": 40.13972,
+    "lng": -92.0055,
+    "city": "Knox City",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 396.0,
+    "density": 1.4,
+    "county_fips": 29103,
+    "county_name": "Knox",
+    "county_weights": "{\"29103\": 91.88, \"29111\": 8.12}",
+    "county_names_all": "Knox|Lewis",
+    "county_fips_all": "29103|29111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 17019,
+    "lat": 40.09078,
+    "lng": -77.02462,
+    "city": "Dillsburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19294.0,
+    "density": 116.7,
+    "county_fips": 42133,
+    "county_name": "York",
+    "county_weights": "{\"42133\": 92.33, \"42041\": 6.24, \"42001\": 1.43}",
+    "county_names_all": "York|Cumberland|Adams",
+    "county_fips_all": "42133|42041|42001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

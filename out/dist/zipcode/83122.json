@@ -1,0 +1,20 @@
+{
+    "zip": 83122,
+    "lat": 42.82175,
+    "lng": -110.95843,
+    "city": "Grover",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 962.0,
+    "density": 50.0,
+    "county_fips": 56023,
+    "county_name": "Lincoln",
+    "county_weights": "{\"56023\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "56023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

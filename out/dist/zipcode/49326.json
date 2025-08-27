@@ -1,0 +1,20 @@
+{
+    "zip": 49326,
+    "lat": 43.25069,
+    "lng": -85.32083,
+    "city": "Gowen",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4126.0,
+    "density": 66.1,
+    "county_fips": 26081,
+    "county_name": "Kent",
+    "county_weights": "{\"26081\": 61.73, \"26117\": 38.27}",
+    "county_names_all": "Kent|Montcalm",
+    "county_fips_all": "26081|26117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

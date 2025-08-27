@@ -1,0 +1,20 @@
+{
+    "zip": 81122,
+    "lat": 37.31839,
+    "lng": -107.50574,
+    "city": "Bayfield",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8921.0,
+    "density": 7.2,
+    "county_fips": 8067,
+    "county_name": "La Plata",
+    "county_weights": "{\"08067\": 60.76, \"08007\": 39.24}",
+    "county_names_all": "La Plata|Archuleta",
+    "county_fips_all": "08067|08007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

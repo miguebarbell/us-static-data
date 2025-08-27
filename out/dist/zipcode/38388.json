@@ -1,0 +1,20 @@
+{
+    "zip": 38388,
+    "lat": 35.77672,
+    "lng": -88.31535,
+    "city": "Wildersville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1427.0,
+    "density": 7.7,
+    "county_fips": 47077,
+    "county_name": "Henderson",
+    "county_weights": "{\"47077\": 99.34, \"47039\": 0.66}",
+    "county_names_all": "Henderson|Decatur",
+    "county_fips_all": "47077|47039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

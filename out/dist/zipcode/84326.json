@@ -1,0 +1,20 @@
+{
+    "zip": 84326,
+    "lat": 41.67228,
+    "lng": -111.81772,
+    "city": "Millville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2041.0,
+    "density": 220.3,
+    "county_fips": 49005,
+    "county_name": "Cache",
+    "county_weights": "{\"49005\": 100}",
+    "county_names_all": "Cache",
+    "county_fips_all": "49005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

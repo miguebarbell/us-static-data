@@ -1,0 +1,20 @@
+{
+    "zip": 64681,
+    "lat": 39.64706,
+    "lng": -93.21375,
+    "city": "Sumner",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 152.0,
+    "density": 1.1,
+    "county_fips": 29041,
+    "county_name": "Chariton",
+    "county_weights": "{\"29041\": 94.08, \"29115\": 5.92}",
+    "county_names_all": "Chariton|Linn",
+    "county_fips_all": "29041|29115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

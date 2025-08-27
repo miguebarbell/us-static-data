@@ -1,0 +1,20 @@
+{
+    "zip": 71854,
+    "lat": 33.44445,
+    "lng": -93.90504,
+    "city": "Texarkana",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35487.0,
+    "density": 50.8,
+    "county_fips": 5091,
+    "county_name": "Miller",
+    "county_weights": "{\"05091\": 100}",
+    "county_names_all": "Miller",
+    "county_fips_all": "05091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

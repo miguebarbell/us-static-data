@@ -1,0 +1,20 @@
+{
+    "zip": 77627,
+    "lat": 29.99095,
+    "lng": -94.00772,
+    "city": "Nederland",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21951.0,
+    "density": 644.1,
+    "county_fips": 48245,
+    "county_name": "Jefferson",
+    "county_weights": "{\"48245\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "48245",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

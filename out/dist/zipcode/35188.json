@@ -1,0 +1,20 @@
+{
+    "zip": 35188,
+    "lat": 33.18326,
+    "lng": -87.17322,
+    "city": "Woodstock",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2659.0,
+    "density": 41.1,
+    "county_fips": 1007,
+    "county_name": "Bibb",
+    "county_weights": "{\"01007\": 73.48, \"01125\": 26.52}",
+    "county_names_all": "Bibb|Tuscaloosa",
+    "county_fips_all": "01007|01125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

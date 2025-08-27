@@ -1,0 +1,20 @@
+{
+    "zip": 34269,
+    "lat": 27.08865,
+    "lng": -81.9639,
+    "city": "Arcadia",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5111.0,
+    "density": 22.2,
+    "county_fips": 12027,
+    "county_name": "DeSoto",
+    "county_weights": "{\"12027\": 100}",
+    "county_names_all": "DeSoto",
+    "county_fips_all": "12027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

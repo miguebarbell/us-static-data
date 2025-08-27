@@ -1,0 +1,20 @@
+{
+    "zip": 54611,
+    "lat": 44.44624,
+    "lng": -90.95164,
+    "city": "Alma Center",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1301.0,
+    "density": 9.3,
+    "county_fips": 55053,
+    "county_name": "Jackson",
+    "county_weights": "{\"55053\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "55053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

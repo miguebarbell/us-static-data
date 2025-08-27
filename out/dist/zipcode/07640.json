@@ -1,0 +1,20 @@
+{
+    "zip": 7640,
+    "lat": 40.9899,
+    "lng": -73.98037,
+    "city": "Harrington Park",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4883.0,
+    "density": 1021.6,
+    "county_fips": 34003,
+    "county_name": "Bergen",
+    "county_weights": "{\"34003\": 100}",
+    "county_names_all": "Bergen",
+    "county_fips_all": "34003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

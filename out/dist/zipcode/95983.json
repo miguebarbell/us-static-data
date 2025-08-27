@@ -1,0 +1,20 @@
+{
+    "zip": 95983,
+    "lat": 40.05827,
+    "lng": -120.73897,
+    "city": "Taylorsville",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 360.0,
+    "density": 1.6,
+    "county_fips": 6063,
+    "county_name": "Plumas",
+    "county_weights": "{\"06063\": 100}",
+    "county_names_all": "Plumas",
+    "county_fips_all": "06063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

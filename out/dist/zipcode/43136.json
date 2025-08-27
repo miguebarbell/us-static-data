@@ -1,0 +1,20 @@
+{
+    "zip": 43136,
+    "lat": 39.80157,
+    "lng": -82.81543,
+    "city": "Lithopolis",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2270.0,
+    "density": 733.9,
+    "county_fips": 39045,
+    "county_name": "Fairfield",
+    "county_weights": "{\"39045\": 100}",
+    "county_names_all": "Fairfield",
+    "county_fips_all": "39045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

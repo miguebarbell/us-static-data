@@ -1,0 +1,20 @@
+{
+    "zip": 44870,
+    "lat": 41.40623,
+    "lng": -82.7171,
+    "city": "Sandusky",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39817.0,
+    "density": 253.1,
+    "county_fips": 39043,
+    "county_name": "Erie",
+    "county_weights": "{\"39043\": 100}",
+    "county_names_all": "Erie",
+    "county_fips_all": "39043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 27344,
+    "lat": 35.7289,
+    "lng": -79.43366,
+    "city": "Siler City",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18804.0,
+    "density": 43.7,
+    "county_fips": 37037,
+    "county_name": "Chatham",
+    "county_weights": "{\"37037\": 94.94, \"37151\": 5.06}",
+    "county_names_all": "Chatham|Randolph",
+    "county_fips_all": "37037|37151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

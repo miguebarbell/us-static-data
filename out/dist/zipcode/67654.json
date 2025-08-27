@@ -1,0 +1,20 @@
+{
+    "zip": 67654,
+    "lat": 39.83067,
+    "lng": -99.95573,
+    "city": "Norton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4209.0,
+    "density": 4.7,
+    "county_fips": 20137,
+    "county_name": "Norton",
+    "county_weights": "{\"20137\": 100}",
+    "county_names_all": "Norton",
+    "county_fips_all": "20137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

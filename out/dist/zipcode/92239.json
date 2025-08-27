@@ -1,0 +1,20 @@
+{
+    "zip": 92239,
+    "lat": 33.87424,
+    "lng": -115.24396,
+    "city": "Desert Center",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 167.0,
+    "density": 0.1,
+    "county_fips": 6065,
+    "county_name": "Riverside",
+    "county_weights": "{\"06065\": 100}",
+    "county_names_all": "Riverside",
+    "county_fips_all": "06065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

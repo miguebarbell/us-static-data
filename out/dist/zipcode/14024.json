@@ -1,0 +1,20 @@
+{
+    "zip": 14024,
+    "lat": 42.58111,
+    "lng": -78.24431,
+    "city": "Bliss",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1606.0,
+    "density": 9.9,
+    "county_fips": 36121,
+    "county_name": "Wyoming",
+    "county_weights": "{\"36121\": 94.94, \"36003\": 5.06}",
+    "county_names_all": "Wyoming|Allegany",
+    "county_fips_all": "36121|36003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

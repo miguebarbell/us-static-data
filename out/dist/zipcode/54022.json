@@ -1,0 +1,20 @@
+{
+    "zip": 54022,
+    "lat": 44.84796,
+    "lng": -92.6096,
+    "city": "River Falls",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24245.0,
+    "density": 67.9,
+    "county_fips": 55093,
+    "county_name": "Pierce",
+    "county_weights": "{\"55093\": 61.25, \"55109\": 38.75}",
+    "county_names_all": "Pierce|St. Croix",
+    "county_fips_all": "55093|55109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

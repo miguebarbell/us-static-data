@@ -1,0 +1,20 @@
+{
+    "zip": 53137,
+    "lat": 43.00472,
+    "lng": -88.66975,
+    "city": "Helenville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1605.0,
+    "density": 18.7,
+    "county_fips": 55055,
+    "county_name": "Jefferson",
+    "county_weights": "{\"55055\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "55055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

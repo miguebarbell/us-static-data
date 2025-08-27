@@ -1,0 +1,20 @@
+{
+    "zip": 69142,
+    "lat": 41.91585,
+    "lng": -100.31719,
+    "city": "Halsey",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 122.0,
+    "density": 0.4,
+    "county_fips": 31171,
+    "county_name": "Thomas",
+    "county_weights": "{\"31171\": 100}",
+    "county_names_all": "Thomas",
+    "county_fips_all": "31171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

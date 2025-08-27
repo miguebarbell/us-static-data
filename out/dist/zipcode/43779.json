@@ -1,0 +1,20 @@
+{
+    "zip": 43779,
+    "lat": 39.81718,
+    "lng": -81.42528,
+    "city": "Sarahsville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 783.0,
+    "density": 8.3,
+    "county_fips": 39121,
+    "county_name": "Noble",
+    "county_weights": "{\"39121\": 100}",
+    "county_names_all": "Noble",
+    "county_fips_all": "39121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 47613,
+    "lat": 38.15413,
+    "lng": -87.42062,
+    "city": "Elberfeld",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2722.0,
+    "density": 20.0,
+    "county_fips": 18173,
+    "county_name": "Warrick",
+    "county_weights": "{\"18173\": 82.26, \"18051\": 17.74}",
+    "county_names_all": "Warrick|Gibson",
+    "county_fips_all": "18173|18051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

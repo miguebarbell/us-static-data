@@ -1,0 +1,20 @@
+{
+    "zip": 74333,
+    "lat": 36.79386,
+    "lng": -95.08408,
+    "city": "Bluejacket",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1140.0,
+    "density": 4.8,
+    "county_fips": 40035,
+    "county_name": "Craig",
+    "county_weights": "{\"40035\": 87.94, \"40115\": 12.06}",
+    "county_names_all": "Craig|Ottawa",
+    "county_fips_all": "40035|40115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

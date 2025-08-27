@@ -1,0 +1,20 @@
+{
+    "zip": 5669,
+    "lat": 44.05325,
+    "lng": -72.75155,
+    "city": "Roxbury",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 835.0,
+    "density": 6.7,
+    "county_fips": 50023,
+    "county_name": "Washington",
+    "county_weights": "{\"50023\": 69.75, \"50001\": 22.83, \"50017\": 7.42}",
+    "county_names_all": "Washington|Addison|Orange",
+    "county_fips_all": "50023|50001|50017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

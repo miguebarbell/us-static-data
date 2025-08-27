@@ -1,0 +1,20 @@
+{
+    "zip": 87731,
+    "lat": 35.70411,
+    "lng": -105.39881,
+    "city": "Montezuma",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 515.0,
+    "density": 2.6,
+    "county_fips": 35047,
+    "county_name": "San Miguel",
+    "county_weights": "{\"35047\": 100}",
+    "county_names_all": "San Miguel",
+    "county_fips_all": "35047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

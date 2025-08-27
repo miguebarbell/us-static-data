@@ -1,0 +1,20 @@
+{
+    "zip": 27886,
+    "lat": 35.90369,
+    "lng": -77.52248,
+    "city": "Tarboro",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18560.0,
+    "density": 37.4,
+    "county_fips": 37065,
+    "county_name": "Edgecombe",
+    "county_weights": "{\"37065\": 96.99, \"37147\": 3.01}",
+    "county_names_all": "Edgecombe|Pitt",
+    "county_fips_all": "37065|37147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

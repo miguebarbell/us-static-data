@@ -1,0 +1,20 @@
+{
+    "zip": 52210,
+    "lat": 42.33905,
+    "lng": -92.00537,
+    "city": "Brandon",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 975.0,
+    "density": 10.9,
+    "county_fips": 19019,
+    "county_name": "Buchanan",
+    "county_weights": "{\"19019\": 98.62, \"19011\": 1.38}",
+    "county_names_all": "Buchanan|Benton",
+    "county_fips_all": "19019|19011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

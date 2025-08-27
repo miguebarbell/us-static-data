@@ -1,0 +1,20 @@
+{
+    "zip": 81062,
+    "lat": 38.29345,
+    "lng": -103.94995,
+    "city": "Olney Springs",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1818.0,
+    "density": 3.0,
+    "county_fips": 8025,
+    "county_name": "Crowley",
+    "county_weights": "{\"08025\": 100}",
+    "county_names_all": "Crowley",
+    "county_fips_all": "08025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

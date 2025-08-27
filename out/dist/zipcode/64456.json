@@ -1,0 +1,20 @@
+{
+    "zip": 64456,
+    "lat": 40.49433,
+    "lng": -94.38733,
+    "city": "Grant City",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1396.0,
+    "density": 3.3,
+    "county_fips": 29227,
+    "county_name": "Worth",
+    "county_weights": "{\"29227\": 93.9, \"29081\": 6.1}",
+    "county_names_all": "Worth|Harrison",
+    "county_fips_all": "29227|29081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

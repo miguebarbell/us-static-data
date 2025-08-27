@@ -1,0 +1,20 @@
+{
+    "zip": 39066,
+    "lat": 32.30188,
+    "lng": -90.60502,
+    "city": "Edwards",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4486.0,
+    "density": 11.5,
+    "county_fips": 28049,
+    "county_name": "Hinds",
+    "county_weights": "{\"28049\": 100}",
+    "county_names_all": "Hinds",
+    "county_fips_all": "28049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

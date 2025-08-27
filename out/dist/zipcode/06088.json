@@ -1,0 +1,20 @@
+{
+    "zip": 6088,
+    "lat": 41.9058,
+    "lng": -72.59646,
+    "city": "East Windsor",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4324.0,
+    "density": 148.4,
+    "county_fips": 9110,
+    "county_name": "Capitol",
+    "county_weights": "{\"09110\": 100}",
+    "county_names_all": "Capitol",
+    "county_fips_all": "09110",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

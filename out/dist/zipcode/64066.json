@@ -1,0 +1,20 @@
+{
+    "zip": 64066,
+    "lat": 39.13961,
+    "lng": -94.13857,
+    "city": "Levasy",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 112.0,
+    "density": 41.6,
+    "county_fips": 29095,
+    "county_name": "Jackson",
+    "county_weights": "{\"29095\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "29095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

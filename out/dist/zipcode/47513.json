@@ -1,0 +1,20 @@
+{
+    "zip": 47513,
+    "lat": 38.30405,
+    "lng": -86.6995,
+    "city": "Birdseye",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1797.0,
+    "density": 10.1,
+    "county_fips": 18037,
+    "county_name": "Dubois",
+    "county_weights": "{\"18037\": 51.95, \"18025\": 26.27, \"18123\": 17.15, \"18117\": 4.63}",
+    "county_names_all": "Dubois|Crawford|Perry|Orange",
+    "county_fips_all": "18037|18025|18123|18117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Vincennes"
+}

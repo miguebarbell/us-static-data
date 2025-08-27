@@ -1,0 +1,20 @@
+{
+    "zip": 70558,
+    "lat": 30.10042,
+    "lng": -92.07573,
+    "city": "Milton",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24.0,
+    "density": 77.9,
+    "county_fips": 22055,
+    "county_name": "Lafayette",
+    "county_weights": "{\"22055\": 100}",
+    "county_names_all": "Lafayette",
+    "county_fips_all": "22055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

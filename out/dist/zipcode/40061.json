@@ -1,0 +1,20 @@
+{
+    "zip": 40061,
+    "lat": 37.70954,
+    "lng": -85.26353,
+    "city": "Saint Catharine",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 205.0,
+    "density": 645.6,
+    "county_fips": 21229,
+    "county_name": "Washington",
+    "county_weights": "{\"21229\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "21229",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

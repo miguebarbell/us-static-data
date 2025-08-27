@@ -1,0 +1,20 @@
+{
+    "zip": 33981,
+    "lat": 26.87544,
+    "lng": -82.21047,
+    "city": "Port Charlotte",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14468.0,
+    "density": 122.9,
+    "county_fips": 12015,
+    "county_name": "Charlotte",
+    "county_weights": "{\"12015\": 100}",
+    "county_names_all": "Charlotte",
+    "county_fips_all": "12015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

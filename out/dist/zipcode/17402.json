@@ -1,0 +1,20 @@
+{
+    "zip": 17402,
+    "lat": 39.95799,
+    "lng": -76.66045,
+    "city": "York",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37074.0,
+    "density": 765.0,
+    "county_fips": 42133,
+    "county_name": "York",
+    "county_weights": "{\"42133\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "42133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

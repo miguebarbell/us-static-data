@@ -1,0 +1,20 @@
+{
+    "zip": 28391,
+    "lat": 35.03045,
+    "lng": -78.70009,
+    "city": "Stedman",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5956.0,
+    "density": 58.5,
+    "county_fips": 37051,
+    "county_name": "Cumberland",
+    "county_weights": "{\"37051\": 99.31, \"37163\": 0.69}",
+    "county_names_all": "Cumberland|Sampson",
+    "county_fips_all": "37051|37163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

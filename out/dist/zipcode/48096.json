@@ -1,0 +1,20 @@
+{
+    "zip": 48096,
+    "lat": 42.76132,
+    "lng": -82.9199,
+    "city": "Ray",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3779.0,
+    "density": 40.0,
+    "county_fips": 26099,
+    "county_name": "Macomb",
+    "county_weights": "{\"26099\": 100}",
+    "county_names_all": "Macomb",
+    "county_fips_all": "26099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

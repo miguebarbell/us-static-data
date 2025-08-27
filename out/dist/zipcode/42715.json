@@ -1,0 +1,20 @@
+{
+    "zip": 42715,
+    "lat": 36.94352,
+    "lng": -85.4134,
+    "city": "Breeding",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 426.0,
+    "density": 6.6,
+    "county_fips": 21001,
+    "county_name": "Adair",
+    "county_weights": "{\"21001\": 61.76, \"21169\": 22.53, \"21057\": 15.71}",
+    "county_names_all": "Adair|Metcalfe|Cumberland",
+    "county_fips_all": "21001|21169|21057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

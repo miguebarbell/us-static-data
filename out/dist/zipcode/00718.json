@@ -1,0 +1,20 @@
+{
+    "zip": 718,
+    "lat": 18.23145,
+    "lng": -65.76067,
+    "city": "Naguabo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23174.0,
+    "density": 189.5,
+    "county_fips": 72103,
+    "county_name": "Naguabo",
+    "county_weights": "{\"72103\": 99.88, \"72037\": 0.12}",
+    "county_names_all": "Naguabo|Ceiba",
+    "county_fips_all": "72103|72037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

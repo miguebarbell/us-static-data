@@ -1,0 +1,20 @@
+{
+    "zip": 70437,
+    "lat": 30.60909,
+    "lng": -90.20928,
+    "city": "Folsom",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7696.0,
+    "density": 34.4,
+    "county_fips": 22103,
+    "county_name": "St. Tammany",
+    "county_weights": "{\"22103\": 76.11, \"22105\": 23.89}",
+    "county_names_all": "St. Tammany|Tangipahoa",
+    "county_fips_all": "22103|22105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

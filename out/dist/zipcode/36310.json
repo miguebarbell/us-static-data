@@ -1,0 +1,20 @@
+{
+    "zip": 36310,
+    "lat": 31.60296,
+    "lng": -85.21229,
+    "city": "Abbeville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6224.0,
+    "density": 11.5,
+    "county_fips": 1067,
+    "county_name": "Henry",
+    "county_weights": "{\"01067\": 100}",
+    "county_names_all": "Henry",
+    "county_fips_all": "01067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 47637,
+    "lat": 38.13679,
+    "lng": -87.15865,
+    "city": "Tennyson",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1301.0,
+    "density": 8.2,
+    "county_fips": 18173,
+    "county_name": "Warrick",
+    "county_weights": "{\"18173\": 92.29, \"18147\": 7.71}",
+    "county_names_all": "Warrick|Spencer",
+    "county_fips_all": "18173|18147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

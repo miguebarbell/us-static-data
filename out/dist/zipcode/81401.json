@@ -1,0 +1,20 @@
+{
+    "zip": 81401,
+    "lat": 38.51559,
+    "lng": -107.78472,
+    "city": "Montrose",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23719.0,
+    "density": 45.8,
+    "county_fips": 8085,
+    "county_name": "Montrose",
+    "county_weights": "{\"08085\": 100}",
+    "county_names_all": "Montrose",
+    "county_fips_all": "08085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 58310,
+    "lat": 48.57485,
+    "lng": -99.5307,
+    "city": "Agate",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9.0,
+    "density": 0.2,
+    "county_fips": 38079,
+    "county_name": "Rolette",
+    "county_weights": "{\"38079\": 93.05, \"38095\": 6.95}",
+    "county_names_all": "Rolette|Towner",
+    "county_fips_all": "38079|38095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

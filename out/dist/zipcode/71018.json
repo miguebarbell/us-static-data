@@ -1,0 +1,20 @@
+{
+    "zip": 71018,
+    "lat": 32.82178,
+    "lng": -93.42972,
+    "city": "Cotton Valley",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1350.0,
+    "density": 6.3,
+    "county_fips": 22119,
+    "county_name": "Webster",
+    "county_weights": "{\"22119\": 67.18, \"22015\": 32.82}",
+    "county_names_all": "Webster|Bossier",
+    "county_fips_all": "22119|22015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

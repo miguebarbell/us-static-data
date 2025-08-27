@@ -1,0 +1,20 @@
+{
+    "zip": 76852,
+    "lat": 31.35558,
+    "lng": -99.44335,
+    "city": "Lohn",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 276.0,
+    "density": 0.7,
+    "county_fips": 48307,
+    "county_name": "McCulloch",
+    "county_weights": "{\"48307\": 100}",
+    "county_names_all": "McCulloch",
+    "county_fips_all": "48307",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

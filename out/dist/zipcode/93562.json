@@ -1,0 +1,20 @@
+{
+    "zip": 93562,
+    "lat": 35.70667,
+    "lng": -117.34263,
+    "city": "Trona",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1822.0,
+    "density": 7.9,
+    "county_fips": 6071,
+    "county_name": "San Bernardino",
+    "county_weights": "{\"06071\": 100}",
+    "county_names_all": "San Bernardino",
+    "county_fips_all": "06071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

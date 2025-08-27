@@ -1,0 +1,20 @@
+{
+    "zip": 56343,
+    "lat": 45.79088,
+    "lng": -95.69765,
+    "city": "Kensington",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 805.0,
+    "density": 4.5,
+    "county_fips": 27041,
+    "county_name": "Douglas",
+    "county_weights": "{\"27041\": 67.74, \"27121\": 16.78, \"27149\": 10.2, \"27051\": 5.28}",
+    "county_names_all": "Douglas|Pope|Stevens|Grant",
+    "county_fips_all": "27041|27121|27149|27051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

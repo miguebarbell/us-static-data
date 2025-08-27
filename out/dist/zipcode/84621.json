@@ -1,0 +1,20 @@
+{
+    "zip": 84621,
+    "lat": 39.05109,
+    "lng": -111.82959,
+    "city": "Axtell",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30.0,
+    "density": 2.0,
+    "county_fips": 49039,
+    "county_name": "Sanpete",
+    "county_weights": "{\"49039\": 99.7, \"49041\": 0.3}",
+    "county_names_all": "Sanpete|Sevier",
+    "county_fips_all": "49039|49041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

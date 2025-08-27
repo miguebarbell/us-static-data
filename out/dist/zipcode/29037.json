@@ -1,0 +1,20 @@
+{
+    "zip": 29037,
+    "lat": 34.18961,
+    "lng": -81.86868,
+    "city": "Chappells",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1050.0,
+    "density": 5.9,
+    "county_fips": 45071,
+    "county_name": "Newberry",
+    "county_weights": "{\"45071\": 57.22, \"45081\": 37.88, \"45059\": 4.9}",
+    "county_names_all": "Newberry|Saluda|Laurens",
+    "county_fips_all": "45071|45081|45059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

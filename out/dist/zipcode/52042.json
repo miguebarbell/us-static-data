@@ -1,0 +1,20 @@
+{
+    "zip": 52042,
+    "lat": 42.68098,
+    "lng": -91.36517,
+    "city": "Edgewood",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1898.0,
+    "density": 12.1,
+    "county_fips": 19043,
+    "county_name": "Clayton",
+    "county_weights": "{\"19043\": 81.35, \"19055\": 18.65}",
+    "county_names_all": "Clayton|Delaware",
+    "county_fips_all": "19043|19055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

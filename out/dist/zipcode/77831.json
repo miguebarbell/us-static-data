@@ -1,0 +1,20 @@
+{
+    "zip": 77831,
+    "lat": 30.73144,
+    "lng": -95.90933,
+    "city": "Bedias",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3163.0,
+    "density": 5.4,
+    "county_fips": 48185,
+    "county_name": "Grimes",
+    "county_weights": "{\"48185\": 76.53, \"48471\": 22.23, \"48313\": 1.24}",
+    "county_names_all": "Grimes|Walker|Madison",
+    "county_fips_all": "48185|48471|48313",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65058,
+    "lat": 38.25777,
+    "lng": -92.12946,
+    "city": "Meta",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 987.0,
+    "density": 3.9,
+    "county_fips": 29125,
+    "county_name": "Maries",
+    "county_weights": "{\"29125\": 68.93, \"29151\": 18.89, \"29131\": 11.69, \"29051\": 0.49}",
+    "county_names_all": "Maries|Osage|Miller|Cole",
+    "county_fips_all": "29125|29151|29131|29051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

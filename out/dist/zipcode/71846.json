@@ -1,0 +1,20 @@
+{
+    "zip": 71846,
+    "lat": 33.9265,
+    "lng": -94.12367,
+    "city": "Lockesburg",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2900.0,
+    "density": 4.9,
+    "county_fips": 5133,
+    "county_name": "Sevier",
+    "county_weights": "{\"05133\": 95.91, \"05081\": 4.09}",
+    "county_names_all": "Sevier|Little River",
+    "county_fips_all": "05133|05081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

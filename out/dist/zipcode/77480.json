@@ -1,0 +1,20 @@
+{
+    "zip": 77480,
+    "lat": 29.09388,
+    "lng": -95.76692,
+    "city": "Sweeny",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8252.0,
+    "density": 25.5,
+    "county_fips": 48039,
+    "county_name": "Brazoria",
+    "county_weights": "{\"48039\": 81.91, \"48321\": 18.09}",
+    "county_names_all": "Brazoria|Matagorda",
+    "county_fips_all": "48039|48321",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

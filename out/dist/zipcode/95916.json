@@ -1,0 +1,20 @@
+{
+    "zip": 95916,
+    "lat": 39.65945,
+    "lng": -121.37375,
+    "city": "Berry Creek",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 765.0,
+    "density": 3.5,
+    "county_fips": 6007,
+    "county_name": "Butte",
+    "county_weights": "{\"06007\": 100}",
+    "county_names_all": "Butte",
+    "county_fips_all": "06007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

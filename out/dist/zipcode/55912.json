@@ -1,0 +1,20 @@
+{
+    "zip": 55912,
+    "lat": 43.6827,
+    "lng": -92.99148,
+    "city": "Austin",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29438.0,
+    "density": 60.5,
+    "county_fips": 27099,
+    "county_name": "Mower",
+    "county_weights": "{\"27099\": 75.65, \"27047\": 24.35}",
+    "county_names_all": "Mower|Freeborn",
+    "county_fips_all": "27099|27047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 37774,
+    "lat": 35.7317,
+    "lng": -84.35526,
+    "city": "Loudon",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20989.0,
+    "density": 91.9,
+    "county_fips": 47105,
+    "county_name": "Loudon",
+    "county_weights": "{\"47105\": 86.78, \"47145\": 12.08, \"47123\": 1.14}",
+    "county_names_all": "Loudon|Roane|Monroe",
+    "county_fips_all": "47105|47145|47123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

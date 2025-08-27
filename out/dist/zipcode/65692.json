@@ -1,0 +1,20 @@
+{
+    "zip": 65692,
+    "lat": 36.61801,
+    "lng": -91.65592,
+    "city": "Koshkonong",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1001.0,
+    "density": 3.8,
+    "county_fips": 29149,
+    "county_name": "Oregon",
+    "county_weights": "{\"29149\": 58.44, \"29091\": 41.56}",
+    "county_names_all": "Oregon|Howell",
+    "county_fips_all": "29149|29091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 80026,
+    "lat": 40.01188,
+    "lng": -105.0985,
+    "city": "Lafayette",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32549.0,
+    "density": 558.3,
+    "county_fips": 8013,
+    "county_name": "Boulder",
+    "county_weights": "{\"08013\": 99.56, \"08014\": 0.44}",
+    "county_names_all": "Boulder|Broomfield",
+    "county_fips_all": "08013|08014",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

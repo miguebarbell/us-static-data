@@ -1,0 +1,20 @@
+{
+    "zip": 26667,
+    "lat": 38.2384,
+    "lng": -80.99908,
+    "city": "Drennen",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 48.0,
+    "density": 3.5,
+    "county_fips": 54067,
+    "county_name": "Nicholas",
+    "county_weights": "{\"54067\": 99.46, \"54019\": 0.54}",
+    "county_names_all": "Nicholas|Fayette",
+    "county_fips_all": "54067|54019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

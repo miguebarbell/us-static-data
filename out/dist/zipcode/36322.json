@@ -1,0 +1,20 @@
+{
+    "zip": 36322,
+    "lat": 31.25575,
+    "lng": -85.73249,
+    "city": "Daleville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7740.0,
+    "density": 50.2,
+    "county_fips": 1045,
+    "county_name": "Dale",
+    "county_weights": "{\"01045\": 93.04, \"01061\": 5.96, \"01031\": 1.0}",
+    "county_names_all": "Dale|Geneva|Coffee",
+    "county_fips_all": "01045|01061|01031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

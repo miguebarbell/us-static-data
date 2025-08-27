@@ -1,0 +1,20 @@
+{
+    "zip": 51357,
+    "lat": 43.06215,
+    "lng": -95.28762,
+    "city": "Royal",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 841.0,
+    "density": 8.7,
+    "county_fips": 19041,
+    "county_name": "Clay",
+    "county_weights": "{\"19041\": 100}",
+    "county_names_all": "Clay",
+    "county_fips_all": "19041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

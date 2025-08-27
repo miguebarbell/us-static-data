@@ -1,0 +1,20 @@
+{
+    "zip": 5260,
+    "lat": 42.81594,
+    "lng": -73.26173,
+    "city": "North Pownal",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 416.0,
+    "density": 27.8,
+    "county_fips": 50003,
+    "county_name": "Bennington",
+    "county_weights": "{\"50003\": 100}",
+    "county_names_all": "Bennington",
+    "county_fips_all": "50003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

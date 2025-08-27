@@ -1,0 +1,20 @@
+{
+    "zip": 19050,
+    "lat": 39.93764,
+    "lng": -75.26355,
+    "city": "Lansdowne",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28819.0,
+    "density": 3039.7,
+    "county_fips": 42045,
+    "county_name": "Delaware",
+    "county_weights": "{\"42045\": 99.73, \"42101\": 0.27}",
+    "county_names_all": "Delaware|Philadelphia",
+    "county_fips_all": "42045|42101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

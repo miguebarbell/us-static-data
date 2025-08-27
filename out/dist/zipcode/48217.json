@@ -1,0 +1,20 @@
+{
+    "zip": 48217,
+    "lat": 42.27803,
+    "lng": -83.15409,
+    "city": "Detroit",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6437.0,
+    "density": 1076.9,
+    "county_fips": 26163,
+    "county_name": "Wayne",
+    "county_weights": "{\"26163\": 100}",
+    "county_names_all": "Wayne",
+    "county_fips_all": "26163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

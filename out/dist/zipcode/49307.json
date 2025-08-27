@@ -1,0 +1,20 @@
+{
+    "zip": 49307,
+    "lat": 43.69797,
+    "lng": -85.48272,
+    "city": "Big Rapids",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18063.0,
+    "density": 51.8,
+    "county_fips": 26107,
+    "county_name": "Mecosta",
+    "county_weights": "{\"26107\": 80.59, \"26123\": 19.41}",
+    "county_names_all": "Mecosta|Newaygo",
+    "county_fips_all": "26107|26123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

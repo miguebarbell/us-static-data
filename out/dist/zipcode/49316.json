@@ -1,0 +1,20 @@
+{
+    "zip": 49316,
+    "lat": 42.79644,
+    "lng": -85.55564,
+    "city": "Caledonia",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26060.0,
+    "density": 176.2,
+    "county_fips": 26081,
+    "county_name": "Kent",
+    "county_weights": "{\"26081\": 78.27, \"26005\": 18.86, \"26015\": 2.87}",
+    "county_names_all": "Kent|Allegan|Barry",
+    "county_fips_all": "26081|26005|26015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

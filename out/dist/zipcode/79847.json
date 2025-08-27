@@ -1,0 +1,20 @@
+{
+    "zip": 79847,
+    "lat": 31.78975,
+    "lng": -104.99032,
+    "city": "Salt Flat",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 181.0,
+    "density": 0.1,
+    "county_fips": 48109,
+    "county_name": "Culberson",
+    "county_weights": "{\"48109\": 54.4, \"48229\": 45.6}",
+    "county_names_all": "Culberson|Hudspeth",
+    "county_fips_all": "48109|48229",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

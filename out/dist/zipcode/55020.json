@@ -1,0 +1,20 @@
+{
+    "zip": 55020,
+    "lat": 44.57707,
+    "lng": -93.37387,
+    "city": "Elko New Market",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4391.0,
+    "density": 71.2,
+    "county_fips": 27139,
+    "county_name": "Scott",
+    "county_weights": "{\"27139\": 100}",
+    "county_names_all": "Scott",
+    "county_fips_all": "27139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

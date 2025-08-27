@@ -1,0 +1,20 @@
+{
+    "zip": 63535,
+    "lat": 40.57244,
+    "lng": -92.67946,
+    "city": "Coatsville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17.0,
+    "density": 0.4,
+    "county_fips": 29197,
+    "county_name": "Schuyler",
+    "county_weights": "{\"29197\": 68.32, \"29171\": 31.68}",
+    "county_names_all": "Schuyler|Putnam",
+    "county_fips_all": "29197|29171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

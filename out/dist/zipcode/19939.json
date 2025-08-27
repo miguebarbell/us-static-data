@@ -1,0 +1,20 @@
+{
+    "zip": 19939,
+    "lat": 38.56575,
+    "lng": -75.2022,
+    "city": "Dagsboro",
+    "state_id": "DE",
+    "state_name": "Delaware",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7833.0,
+    "density": 116.5,
+    "county_fips": 10005,
+    "county_name": "Sussex",
+    "county_weights": "{\"10005\": 100}",
+    "county_names_all": "Sussex",
+    "county_fips_all": "10005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

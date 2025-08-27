@@ -1,0 +1,20 @@
+{
+    "zip": 42204,
+    "lat": 36.69509,
+    "lng": -87.08096,
+    "city": "Allensville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 746.0,
+    "density": 6.8,
+    "county_fips": 21219,
+    "county_name": "Todd",
+    "county_weights": "{\"21219\": 71.17, \"21141\": 28.83}",
+    "county_names_all": "Todd|Logan",
+    "county_fips_all": "21219|21141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

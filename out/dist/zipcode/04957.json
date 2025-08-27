@@ -1,0 +1,20 @@
+{
+    "zip": 4957,
+    "lat": 44.70419,
+    "lng": -69.8471,
+    "city": "Norridgewock",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4090.0,
+    "density": 20.6,
+    "county_fips": 23025,
+    "county_name": "Somerset",
+    "county_weights": "{\"23025\": 100}",
+    "county_names_all": "Somerset",
+    "county_fips_all": "23025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

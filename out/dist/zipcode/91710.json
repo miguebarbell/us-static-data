@@ -1,0 +1,20 @@
+{
+    "zip": 91710,
+    "lat": 34.00507,
+    "lng": -117.68249,
+    "city": "Chino",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 80186.0,
+    "density": 1405.2,
+    "county_fips": 6071,
+    "county_name": "San Bernardino",
+    "county_weights": "{\"06071\": 100}",
+    "county_names_all": "San Bernardino",
+    "county_fips_all": "06071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

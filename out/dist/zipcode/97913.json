@@ -1,0 +1,20 @@
+{
+    "zip": 97913,
+    "lat": 43.64688,
+    "lng": -117.28131,
+    "city": "Nyssa",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5544.0,
+    "density": 5.5,
+    "county_fips": 41045,
+    "county_name": "Malheur",
+    "county_weights": "{\"41045\": 99.86, \"16075\": 0.14}",
+    "county_names_all": "Malheur|Payette",
+    "county_fips_all": "41045|16075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

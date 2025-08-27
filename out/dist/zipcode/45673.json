@@ -1,0 +1,20 @@
+{
+    "zip": 45673,
+    "lat": 39.20399,
+    "lng": -82.81148,
+    "city": "Richmond Dale",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 600.0,
+    "density": 473.0,
+    "county_fips": 39141,
+    "county_name": "Ross",
+    "county_weights": "{\"39141\": 100}",
+    "county_names_all": "Ross",
+    "county_fips_all": "39141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

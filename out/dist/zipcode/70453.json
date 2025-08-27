@@ -1,0 +1,20 @@
+{
+    "zip": 70453,
+    "lat": 30.69385,
+    "lng": -90.76918,
+    "city": "Pine Grove",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1053.0,
+    "density": 11.0,
+    "county_fips": 22091,
+    "county_name": "St. Helena",
+    "county_weights": "{\"22091\": 94.46, \"22063\": 5.54}",
+    "county_names_all": "St. Helena|Livingston",
+    "county_fips_all": "22091|22063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

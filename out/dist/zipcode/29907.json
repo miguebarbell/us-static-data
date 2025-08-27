@@ -1,0 +1,20 @@
+{
+    "zip": 29907,
+    "lat": 32.45326,
+    "lng": -80.60926,
+    "city": "Beaufort",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14848.0,
+    "density": 135.7,
+    "county_fips": 45013,
+    "county_name": "Beaufort",
+    "county_weights": "{\"45013\": 100}",
+    "county_names_all": "Beaufort",
+    "county_fips_all": "45013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

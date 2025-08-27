@@ -1,0 +1,20 @@
+{
+    "zip": 33851,
+    "lat": 28.04439,
+    "lng": -81.62677,
+    "city": "Lake Hamilton",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1109.0,
+    "density": 329.3,
+    "county_fips": 12105,
+    "county_name": "Polk",
+    "county_weights": "{\"12105\": 100}",
+    "county_names_all": "Polk",
+    "county_fips_all": "12105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

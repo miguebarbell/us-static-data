@@ -1,0 +1,20 @@
+{
+    "zip": 28715,
+    "lat": 35.51247,
+    "lng": -82.71196,
+    "city": "Candler",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28770.0,
+    "density": 142.3,
+    "county_fips": 37021,
+    "county_name": "Buncombe",
+    "county_weights": "{\"37021\": 100}",
+    "county_names_all": "Buncombe",
+    "county_fips_all": "37021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

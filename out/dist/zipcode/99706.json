@@ -1,0 +1,20 @@
+{
+    "zip": 99706,
+    "lat": 64.0281,
+    "lng": -144.6331,
+    "city": "Fairbanks",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31.0,
+    "density": 0.2,
+    "county_fips": 2240,
+    "county_name": "Southeast Fairbanks",
+    "county_weights": "{\"02240\": 100}",
+    "county_names_all": "Southeast Fairbanks",
+    "county_fips_all": "02240",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 85615,
+    "lat": 31.39678,
+    "lng": -110.2108,
+    "city": "Hereford",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9713.0,
+    "density": 20.2,
+    "county_fips": 4003,
+    "county_name": "Cochise",
+    "county_weights": "{\"04003\": 100}",
+    "county_names_all": "Cochise",
+    "county_fips_all": "04003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43406,
+    "lat": 41.33605,
+    "lng": -83.4372,
+    "city": "Bradner",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1490.0,
+    "density": 30.6,
+    "county_fips": 39173,
+    "county_name": "Wood",
+    "county_weights": "{\"39173\": 83.49, \"39143\": 16.51}",
+    "county_names_all": "Wood|Sandusky",
+    "county_fips_all": "39173|39143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

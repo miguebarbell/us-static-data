@@ -1,0 +1,20 @@
+{
+    "zip": 88041,
+    "lat": 32.78367,
+    "lng": -107.89654,
+    "city": "Hanover",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1352.0,
+    "density": 1.2,
+    "county_fips": 35017,
+    "county_name": "Grant",
+    "county_weights": "{\"35017\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "35017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

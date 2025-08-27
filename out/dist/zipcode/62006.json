@@ -1,0 +1,20 @@
+{
+    "zip": 62006,
+    "lat": 39.06433,
+    "lng": -90.66714,
+    "city": "Batchtown",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 536.0,
+    "density": 6.5,
+    "county_fips": 17013,
+    "county_name": "Calhoun",
+    "county_weights": "{\"17013\": 100}",
+    "county_names_all": "Calhoun",
+    "county_fips_all": "17013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

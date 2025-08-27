@@ -1,0 +1,20 @@
+{
+    "zip": 71866,
+    "lat": 33.86738,
+    "lng": -94.38042,
+    "city": "Winthrop",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 323.0,
+    "density": 2.4,
+    "county_fips": 5081,
+    "county_name": "Little River",
+    "county_weights": "{\"05081\": 99.81, \"05133\": 0.19}",
+    "county_names_all": "Little River|Sevier",
+    "county_fips_all": "05081|05133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

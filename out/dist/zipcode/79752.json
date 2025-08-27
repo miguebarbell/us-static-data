@@ -1,0 +1,20 @@
+{
+    "zip": 79752,
+    "lat": 31.10993,
+    "lng": -102.19225,
+    "city": "McCamey",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1880.0,
+    "density": 2.7,
+    "county_fips": 48461,
+    "county_name": "Upton",
+    "county_weights": "{\"48461\": 58.96, \"48371\": 21.63, \"48105\": 19.41}",
+    "county_names_all": "Upton|Pecos|Crockett",
+    "county_fips_all": "48461|48371|48105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 24502,
+    "lat": 37.35624,
+    "lng": -79.2194,
+    "city": "Lynchburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41314.0,
+    "density": 533.4,
+    "county_fips": 51680,
+    "county_name": "Lynchburg",
+    "county_weights": "{\"51680\": 57.04, \"51031\": 38.67, \"51019\": 4.29}",
+    "county_names_all": "Lynchburg|Campbell|Bedford",
+    "county_fips_all": "51680|51031|51019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

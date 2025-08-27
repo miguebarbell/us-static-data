@@ -1,0 +1,20 @@
+{
+    "zip": 54548,
+    "lat": 45.86218,
+    "lng": -89.82663,
+    "city": "Minocqua",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5703.0,
+    "density": 22.3,
+    "county_fips": 55085,
+    "county_name": "Oneida",
+    "county_weights": "{\"55085\": 78.89, \"55125\": 21.11}",
+    "county_names_all": "Oneida|Vilas",
+    "county_fips_all": "55085|55125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

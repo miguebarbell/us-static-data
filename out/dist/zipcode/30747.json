@@ -1,0 +1,20 @@
+{
+    "zip": 30747,
+    "lat": 34.50179,
+    "lng": -85.29407,
+    "city": "Summerville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14720.0,
+    "density": 29.4,
+    "county_fips": 13055,
+    "county_name": "Chattooga",
+    "county_weights": "{\"13055\": 90.55, \"13295\": 9.45}",
+    "county_names_all": "Chattooga|Walker",
+    "county_fips_all": "13055|13295",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

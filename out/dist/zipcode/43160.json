@@ -1,0 +1,20 @@
+{
+    "zip": 43160,
+    "lat": 39.52871,
+    "lng": -83.43917,
+    "city": "Washington Court House",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21966.0,
+    "density": 39.8,
+    "county_fips": 39047,
+    "county_name": "Fayette",
+    "county_weights": "{\"39047\": 94.09, \"39141\": 5.91}",
+    "county_names_all": "Fayette|Ross",
+    "county_fips_all": "39047|39141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 87537,
+    "lat": 36.1043,
+    "lng": -106.2454,
+    "city": "Hernandez",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2030.0,
+    "density": 5.5,
+    "county_fips": 35039,
+    "county_name": "Rio Arriba",
+    "county_weights": "{\"35039\": 100}",
+    "county_names_all": "Rio Arriba",
+    "county_fips_all": "35039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

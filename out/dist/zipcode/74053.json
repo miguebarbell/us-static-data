@@ -1,0 +1,20 @@
+{
+    "zip": 74053,
+    "lat": 36.43419,
+    "lng": -95.73282,
+    "city": "Oologah",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5541.0,
+    "density": 51.6,
+    "county_fips": 40131,
+    "county_name": "Rogers",
+    "county_weights": "{\"40131\": 100}",
+    "county_names_all": "Rogers",
+    "county_fips_all": "40131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

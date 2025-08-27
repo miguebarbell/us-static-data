@@ -1,0 +1,20 @@
+{
+    "zip": 55731,
+    "lat": 47.98832,
+    "lng": -91.7489,
+    "city": "Ely",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5292.0,
+    "density": 1.3,
+    "county_fips": 27075,
+    "county_name": "Lake",
+    "county_weights": "{\"27075\": 51.07, \"27137\": 48.93}",
+    "county_names_all": "Lake|St. Louis",
+    "county_fips_all": "27075|27137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

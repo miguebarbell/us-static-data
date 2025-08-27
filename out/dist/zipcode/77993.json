@@ -1,0 +1,20 @@
+{
+    "zip": 77993,
+    "lat": 28.85158,
+    "lng": -97.433,
+    "city": "Weesatche",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 304.0,
+    "density": 6.3,
+    "county_fips": 48175,
+    "county_name": "Goliad",
+    "county_weights": "{\"48175\": 99.85, \"48123\": 0.15}",
+    "county_names_all": "Goliad|DeWitt",
+    "county_fips_all": "48175|48123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

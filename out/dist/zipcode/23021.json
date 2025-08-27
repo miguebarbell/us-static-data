@@ -1,0 +1,20 @@
+{
+    "zip": 23021,
+    "lat": 37.40102,
+    "lng": -76.37187,
+    "city": "Bohannon",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 51115,
+    "county_name": "Mathews",
+    "county_weights": "{\"51115\": 100}",
+    "county_names_all": "Mathews",
+    "county_fips_all": "51115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

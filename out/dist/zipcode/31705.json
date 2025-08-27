@@ -1,0 +1,20 @@
+{
+    "zip": 31705,
+    "lat": 31.51169,
+    "lng": -84.05333,
+    "city": "Albany",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30866.0,
+    "density": 84.9,
+    "county_fips": 13095,
+    "county_name": "Dougherty",
+    "county_weights": "{\"13095\": 76.45, \"13321\": 12.45, \"13205\": 11.1}",
+    "county_names_all": "Dougherty|Worth|Mitchell",
+    "county_fips_all": "13095|13321|13205",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

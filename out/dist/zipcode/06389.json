@@ -1,0 +1,20 @@
+{
+    "zip": 6389,
+    "lat": 41.56036,
+    "lng": -72.12338,
+    "city": "Yantic",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38.0,
+    "density": 52.2,
+    "county_fips": 9180,
+    "county_name": "Southeastern Connecticut",
+    "county_weights": "{\"09180\": 100}",
+    "county_names_all": "Southeastern Connecticut",
+    "county_fips_all": "09180",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

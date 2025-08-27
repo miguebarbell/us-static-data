@@ -1,0 +1,20 @@
+{
+    "zip": 24279,
+    "lat": 37.10383,
+    "lng": -82.61909,
+    "city": "Pound",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4679.0,
+    "density": 22.8,
+    "county_fips": 51195,
+    "county_name": "Wise",
+    "county_weights": "{\"51195\": 100}",
+    "county_names_all": "Wise",
+    "county_fips_all": "51195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

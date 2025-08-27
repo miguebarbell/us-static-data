@@ -1,0 +1,20 @@
+{
+    "zip": 93513,
+    "lat": 37.18401,
+    "lng": -118.17129,
+    "city": "Big Pine",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1525.0,
+    "density": 1.5,
+    "county_fips": 6027,
+    "county_name": "Inyo",
+    "county_weights": "{\"06027\": 100}",
+    "county_names_all": "Inyo",
+    "county_fips_all": "06027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

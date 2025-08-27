@@ -1,0 +1,20 @@
+{
+    "zip": 26763,
+    "lat": 39.4789,
+    "lng": -78.69316,
+    "city": "Springfield",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1564.0,
+    "density": 12.4,
+    "county_fips": 54027,
+    "county_name": "Hampshire",
+    "county_weights": "{\"54027\": 65.69, \"54057\": 34.31}",
+    "county_names_all": "Hampshire|Mineral",
+    "county_fips_all": "54027|54057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

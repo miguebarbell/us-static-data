@@ -1,0 +1,20 @@
+{
+    "zip": 89433,
+    "lat": 39.59758,
+    "lng": -119.77817,
+    "city": "Sun Valley",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23385.0,
+    "density": 810.4,
+    "county_fips": 32031,
+    "county_name": "Washoe",
+    "county_weights": "{\"32031\": 100}",
+    "county_names_all": "Washoe",
+    "county_fips_all": "32031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

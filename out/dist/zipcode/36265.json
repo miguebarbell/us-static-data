@@ -1,0 +1,20 @@
+{
+    "zip": 36265,
+    "lat": 33.84659,
+    "lng": -85.78662,
+    "city": "Jacksonville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21891.0,
+    "density": 86.2,
+    "county_fips": 1015,
+    "county_name": "Calhoun",
+    "county_weights": "{\"01015\": 100}",
+    "county_names_all": "Calhoun",
+    "county_fips_all": "01015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

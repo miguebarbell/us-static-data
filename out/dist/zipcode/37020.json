@@ -1,0 +1,20 @@
+{
+    "zip": 37020,
+    "lat": 35.62563,
+    "lng": -86.39927,
+    "city": "Bell Buckle",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5171.0,
+    "density": 21.7,
+    "county_fips": 47003,
+    "county_name": "Bedford",
+    "county_weights": "{\"47003\": 75.66, \"47149\": 24.34}",
+    "county_names_all": "Bedford|Rutherford",
+    "county_fips_all": "47003|47149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

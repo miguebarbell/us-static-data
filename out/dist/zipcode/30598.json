@@ -1,0 +1,20 @@
+{
+    "zip": 30598,
+    "lat": 34.59663,
+    "lng": -83.35411,
+    "city": "Toccoa Falls",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 69.0,
+    "density": 451.8,
+    "county_fips": 13257,
+    "county_name": "Stephens",
+    "county_weights": "{\"13257\": 100}",
+    "county_names_all": "Stephens",
+    "county_fips_all": "13257",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

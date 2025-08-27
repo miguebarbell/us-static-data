@@ -1,0 +1,20 @@
+{
+    "zip": 21648,
+    "lat": 38.4966,
+    "lng": -76.23386,
+    "city": "Madison",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 104.0,
+    "density": 4.3,
+    "county_fips": 24019,
+    "county_name": "Dorchester",
+    "county_weights": "{\"24019\": 100}",
+    "county_names_all": "Dorchester",
+    "county_fips_all": "24019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

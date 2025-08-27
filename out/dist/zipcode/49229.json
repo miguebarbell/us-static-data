@@ -1,0 +1,20 @@
+{
+    "zip": 49229,
+    "lat": 41.99005,
+    "lng": -83.82655,
+    "city": "Britton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3538.0,
+    "density": 24.4,
+    "county_fips": 26091,
+    "county_name": "Lenawee",
+    "county_weights": "{\"26091\": 87.87, \"26115\": 10.78, \"26161\": 1.35}",
+    "county_names_all": "Lenawee|Monroe|Washtenaw",
+    "county_fips_all": "26091|26115|26161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 31641,
+    "lat": 30.93182,
+    "lng": -83.09672,
+    "city": "Naylor",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1765.0,
+    "density": 7.7,
+    "county_fips": 13185,
+    "county_name": "Lowndes",
+    "county_weights": "{\"13185\": 58.69, \"13173\": 41.31}",
+    "county_names_all": "Lowndes|Lanier",
+    "county_fips_all": "13185|13173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

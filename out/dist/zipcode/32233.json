@@ -1,0 +1,20 @@
+{
+    "zip": 32233,
+    "lat": 30.35943,
+    "lng": -81.42098,
+    "city": "Atlantic Beach",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24111.0,
+    "density": 912.3,
+    "county_fips": 12031,
+    "county_name": "Duval",
+    "county_weights": "{\"12031\": 100}",
+    "county_names_all": "Duval",
+    "county_fips_all": "12031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 31789,
+    "lat": 31.47858,
+    "lng": -83.73257,
+    "city": "Sumner",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1504.0,
+    "density": 8.8,
+    "county_fips": 13321,
+    "county_name": "Worth",
+    "county_weights": "{\"13321\": 100}",
+    "county_names_all": "Worth",
+    "county_fips_all": "13321",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 667,
+    "lat": 18.01246,
+    "lng": -67.0417,
+    "city": "Lajas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23116.0,
+    "density": 148.3,
+    "county_fips": 72079,
+    "county_name": "Lajas",
+    "county_weights": "{\"72079\": 98.04, \"72125\": 1.96}",
+    "county_names_all": "Lajas|San Germ\u00e1n",
+    "county_fips_all": "72079|72125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

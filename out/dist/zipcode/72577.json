@@ -1,0 +1,20 @@
+{
+    "zip": 72577,
+    "lat": 36.03094,
+    "lng": -91.71379,
+    "city": "Sidney",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 787.0,
+    "density": 6.2,
+    "county_fips": 5065,
+    "county_name": "Izard",
+    "county_weights": "{\"05065\": 64.76, \"05135\": 35.24}",
+    "county_names_all": "Izard|Sharp",
+    "county_fips_all": "05065|05135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

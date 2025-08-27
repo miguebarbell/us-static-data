@@ -1,0 +1,20 @@
+{
+    "zip": 86503,
+    "lat": 36.20258,
+    "lng": -109.68224,
+    "city": "Chinle",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10122.0,
+    "density": 3.9,
+    "county_fips": 4001,
+    "county_name": "Apache",
+    "county_weights": "{\"04001\": 95.28, \"04017\": 4.72}",
+    "county_names_all": "Apache|Navajo",
+    "county_fips_all": "04001|04017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 44843,
+    "lat": 40.6886,
+    "lng": -82.40959,
+    "city": "Lucas",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2732.0,
+    "density": 38.5,
+    "county_fips": 39139,
+    "county_name": "Richland",
+    "county_weights": "{\"39139\": 96.8, \"39005\": 3.2}",
+    "county_names_all": "Richland|Ashland",
+    "county_fips_all": "39139|39005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

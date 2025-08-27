@@ -1,0 +1,20 @@
+{
+    "zip": 76827,
+    "lat": 31.52589,
+    "lng": -99.13031,
+    "city": "Brookesmith",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 615.0,
+    "density": 2.9,
+    "county_fips": 48049,
+    "county_name": "Brown",
+    "county_weights": "{\"48049\": 93.12, \"48083\": 6.88}",
+    "county_names_all": "Brown|Coleman",
+    "county_fips_all": "48049|48083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

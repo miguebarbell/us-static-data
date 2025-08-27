@@ -1,0 +1,20 @@
+{
+    "zip": 37086,
+    "lat": 36.02177,
+    "lng": -86.55971,
+    "city": "La Vergne",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37786.0,
+    "density": 588.8,
+    "county_fips": 47149,
+    "county_name": "Rutherford",
+    "county_weights": "{\"47149\": 94.89, \"47037\": 5.11}",
+    "county_names_all": "Rutherford|Davidson",
+    "county_fips_all": "47149|47037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

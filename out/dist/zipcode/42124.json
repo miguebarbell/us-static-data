@@ -1,0 +1,20 @@
+{
+    "zip": 42124,
+    "lat": 36.86534,
+    "lng": -85.64817,
+    "city": "Beaumont",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 66.0,
+    "density": 12.8,
+    "county_fips": 21169,
+    "county_name": "Metcalfe",
+    "county_weights": "{\"21169\": 100}",
+    "county_names_all": "Metcalfe",
+    "county_fips_all": "21169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

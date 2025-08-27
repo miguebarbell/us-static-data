@@ -1,0 +1,20 @@
+{
+    "zip": 4497,
+    "lat": 45.7249,
+    "lng": -68.06619,
+    "city": "Wytopitlock",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 319.0,
+    "density": 0.6,
+    "county_fips": 23003,
+    "county_name": "Aroostook",
+    "county_weights": "{\"23003\": 82.9, \"23019\": 17.1}",
+    "county_names_all": "Aroostook|Penobscot",
+    "county_fips_all": "23003|23019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 39573,
+    "lat": 30.72692,
+    "lng": -89.08271,
+    "city": "Perkinston",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9770.0,
+    "density": 9.2,
+    "county_fips": 28131,
+    "county_name": "Stone",
+    "county_weights": "{\"28131\": 58.82, \"28039\": 16.09, \"28045\": 11.58, \"28059\": 8.15, \"28109\": 2.82, \"28047\": 2.54}",
+    "county_names_all": "Stone|George|Hancock|Jackson|Pearl River|Harrison",
+    "county_fips_all": "28131|28039|28045|28059|28109|28047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

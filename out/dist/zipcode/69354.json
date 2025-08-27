@@ -1,0 +1,20 @@
+{
+    "zip": 69354,
+    "lat": 42.40812,
+    "lng": -103.42469,
+    "city": "Marsland",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 141.0,
+    "density": 0.2,
+    "county_fips": 31165,
+    "county_name": "Sioux",
+    "county_weights": "{\"31165\": 49.79, \"31045\": 34.71, \"31013\": 15.49}",
+    "county_names_all": "Sioux|Dawes|Box Butte",
+    "county_fips_all": "31165|31045|31013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

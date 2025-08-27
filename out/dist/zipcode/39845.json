@@ -1,0 +1,20 @@
+{
+    "zip": 39845,
+    "lat": 30.95011,
+    "lng": -84.89329,
+    "city": "Donalsonville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8155.0,
+    "density": 16.2,
+    "county_fips": 13253,
+    "county_name": "Seminole",
+    "county_weights": "{\"13253\": 85.46, \"13201\": 14.12, \"13099\": 0.42}",
+    "county_names_all": "Seminole|Miller|Early",
+    "county_fips_all": "13253|13201|13099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

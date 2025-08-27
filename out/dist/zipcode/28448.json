@@ -1,0 +1,20 @@
+{
+    "zip": 28448,
+    "lat": 34.49078,
+    "lng": -78.31933,
+    "city": "Kelly",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 901.0,
+    "density": 3.6,
+    "county_fips": 37017,
+    "county_name": "Bladen",
+    "county_weights": "{\"37017\": 95.29, \"37141\": 4.71}",
+    "county_names_all": "Bladen|Pender",
+    "county_fips_all": "37017|37141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

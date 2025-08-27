@@ -1,0 +1,20 @@
+{
+    "zip": 38328,
+    "lat": 35.67601,
+    "lng": -88.21222,
+    "city": "Darden",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1011.0,
+    "density": 13.0,
+    "county_fips": 47077,
+    "county_name": "Henderson",
+    "county_weights": "{\"47077\": 84.35, \"47039\": 15.65}",
+    "county_names_all": "Henderson|Decatur",
+    "county_fips_all": "47077|47039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 20711,
+    "lat": 38.80485,
+    "lng": -76.65245,
+    "city": "Lothian",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7629.0,
+    "density": 87.1,
+    "county_fips": 24003,
+    "county_name": "Anne Arundel",
+    "county_weights": "{\"24003\": 100}",
+    "county_names_all": "Anne Arundel",
+    "county_fips_all": "24003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 33573,
+    "lat": 27.72179,
+    "lng": -82.36,
+    "city": "Sun City Center",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30820.0,
+    "density": 708.3,
+    "county_fips": 12057,
+    "county_name": "Hillsborough",
+    "county_weights": "{\"12057\": 100}",
+    "county_names_all": "Hillsborough",
+    "county_fips_all": "12057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

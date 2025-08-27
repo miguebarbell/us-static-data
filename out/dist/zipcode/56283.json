@@ -1,0 +1,20 @@
+{
+    "zip": 56283,
+    "lat": 44.53208,
+    "lng": -95.14225,
+    "city": "Redwood Falls",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6469.0,
+    "density": 14.0,
+    "county_fips": 27127,
+    "county_name": "Redwood",
+    "county_weights": "{\"27127\": 83.96, \"27129\": 16.04}",
+    "county_names_all": "Redwood|Renville",
+    "county_fips_all": "27127|27129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 19938,
+    "lat": 39.25646,
+    "lng": -75.69884,
+    "city": "Clayton",
+    "state_id": "DE",
+    "state_name": "Delaware",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9867.0,
+    "density": 79.0,
+    "county_fips": 10001,
+    "county_name": "Kent",
+    "county_weights": "{\"10001\": 85.08, \"10003\": 14.92}",
+    "county_names_all": "Kent|New Castle",
+    "county_fips_all": "10001|10003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

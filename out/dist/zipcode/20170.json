@@ -1,0 +1,20 @@
+{
+    "zip": 20170,
+    "lat": 38.98075,
+    "lng": -77.38042,
+    "city": "Herndon",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43372.0,
+    "density": 1912.7,
+    "county_fips": 51059,
+    "county_name": "Fairfax",
+    "county_weights": "{\"51059\": 100}",
+    "county_names_all": "Fairfax",
+    "county_fips_all": "51059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

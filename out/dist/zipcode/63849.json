@@ -1,0 +1,20 @@
+{
+    "zip": 63849,
+    "lat": 36.13287,
+    "lng": -89.99109,
+    "city": "Gobler",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 221.0,
+    "density": 3.9,
+    "county_fips": 29069,
+    "county_name": "Dunklin",
+    "county_weights": "{\"29069\": 84.73, \"29155\": 15.27}",
+    "county_names_all": "Dunklin|Pemiscot",
+    "county_fips_all": "29069|29155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 99734,
+    "lat": 70.36201,
+    "lng": -149.0021,
+    "city": "Prudhoe Bay",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1424.0,
+    "density": 2.4,
+    "county_fips": 2185,
+    "county_name": "North Slope",
+    "county_weights": "{\"02185\": 100}",
+    "county_names_all": "North Slope",
+    "county_fips_all": "02185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

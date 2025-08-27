@@ -1,0 +1,20 @@
+{
+    "zip": 12155,
+    "lat": 42.59229,
+    "lng": -74.82337,
+    "city": "Schenevus",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1812.0,
+    "density": 13.3,
+    "county_fips": 36077,
+    "county_name": "Otsego",
+    "county_weights": "{\"36077\": 92.81, \"36025\": 7.19}",
+    "county_names_all": "Otsego|Delaware",
+    "county_fips_all": "36077|36025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

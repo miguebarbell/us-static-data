@@ -1,0 +1,20 @@
+{
+    "zip": 36032,
+    "lat": 31.99857,
+    "lng": -86.57179,
+    "city": "Fort Deposit",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2358.0,
+    "density": 7.7,
+    "county_fips": 1085,
+    "county_name": "Lowndes",
+    "county_weights": "{\"01085\": 85.68, \"01013\": 14.32}",
+    "county_names_all": "Lowndes|Butler",
+    "county_fips_all": "01085|01013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

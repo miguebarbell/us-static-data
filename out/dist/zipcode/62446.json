@@ -1,0 +1,20 @@
+{
+    "zip": 62446,
+    "lat": 38.49115,
+    "lng": -88.21478,
+    "city": "Mount Erie",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 337.0,
+    "density": 2.1,
+    "county_fips": 17191,
+    "county_name": "Wayne",
+    "county_weights": "{\"17191\": 100}",
+    "county_names_all": "Wayne",
+    "county_fips_all": "17191",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 44224,
+    "lat": 41.17697,
+    "lng": -81.44016,
+    "city": "Stow",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38512.0,
+    "density": 728.6,
+    "county_fips": 39153,
+    "county_name": "Summit",
+    "county_weights": "{\"39153\": 98.3, \"39133\": 1.7}",
+    "county_names_all": "Summit|Portage",
+    "county_fips_all": "39153|39133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

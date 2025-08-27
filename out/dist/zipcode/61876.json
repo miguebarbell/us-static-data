@@ -1,0 +1,20 @@
+{
+    "zip": 61876,
+    "lat": 39.90534,
+    "lng": -87.8398,
+    "city": "Sidell",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 823.0,
+    "density": 7.6,
+    "county_fips": 17183,
+    "county_name": "Vermilion",
+    "county_weights": "{\"17183\": 75.36, \"17045\": 24.64}",
+    "county_names_all": "Vermilion|Edgar",
+    "county_fips_all": "17183|17045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 36456,
+    "lat": 31.57103,
+    "lng": -86.82556,
+    "city": "McKenzie",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1856.0,
+    "density": 5.0,
+    "county_fips": 1035,
+    "county_name": "Conecuh",
+    "county_weights": "{\"01035\": 51.08, \"01013\": 42.74, \"01039\": 6.18}",
+    "county_names_all": "Conecuh|Butler|Covington",
+    "county_fips_all": "01035|01013|01039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

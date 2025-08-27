@@ -1,0 +1,20 @@
+{
+    "zip": 1331,
+    "lat": 42.56793,
+    "lng": -72.18324,
+    "city": "Athol",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13865.0,
+    "density": 98.8,
+    "county_fips": 25027,
+    "county_name": "Worcester",
+    "county_weights": "{\"25027\": 99.71, \"25011\": 0.29}",
+    "county_names_all": "Worcester|Franklin",
+    "county_fips_all": "25027|25011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

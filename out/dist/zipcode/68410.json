@@ -1,0 +1,20 @@
+{
+    "zip": 68410,
+    "lat": 40.63729,
+    "lng": -95.88584,
+    "city": "Nebraska City",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8946.0,
+    "density": 24.1,
+    "county_fips": 31131,
+    "county_name": "Otoe",
+    "county_weights": "{\"31131\": 100}",
+    "county_names_all": "Otoe",
+    "county_fips_all": "31131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 37090,
+    "lat": 36.12439,
+    "lng": -86.29707,
+    "city": "Lebanon",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17929.0,
+    "density": 41.6,
+    "county_fips": 47189,
+    "county_name": "Wilson",
+    "county_weights": "{\"47189\": 96.29, \"47159\": 2.73, \"47149\": 0.98}",
+    "county_names_all": "Wilson|Smith|Rutherford",
+    "county_fips_all": "47189|47159|47149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

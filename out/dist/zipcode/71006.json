@@ -1,0 +1,20 @@
+{
+    "zip": 71006,
+    "lat": 32.72871,
+    "lng": -93.63511,
+    "city": "Benton",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15341.0,
+    "density": 28.9,
+    "county_fips": 22015,
+    "county_name": "Bossier",
+    "county_weights": "{\"22015\": 100}",
+    "county_names_all": "Bossier",
+    "county_fips_all": "22015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

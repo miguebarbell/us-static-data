@@ -1,0 +1,20 @@
+{
+    "zip": 83318,
+    "lat": 42.43434,
+    "lng": -113.82007,
+    "city": "Burley",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19319.0,
+    "density": 29.3,
+    "county_fips": 16031,
+    "county_name": "Cassia",
+    "county_weights": "{\"16031\": 99.82, \"16067\": 0.18}",
+    "county_names_all": "Cassia|Minidoka",
+    "county_fips_all": "16031|16067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

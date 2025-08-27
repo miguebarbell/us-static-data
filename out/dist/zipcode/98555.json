@@ -1,0 +1,20 @@
+{
+    "zip": 98555,
+    "lat": 47.54634,
+    "lng": -123.06369,
+    "city": "Lilliwaup",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 213.0,
+    "density": 3.1,
+    "county_fips": 53045,
+    "county_name": "Mason",
+    "county_weights": "{\"53045\": 100}",
+    "county_names_all": "Mason",
+    "county_fips_all": "53045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

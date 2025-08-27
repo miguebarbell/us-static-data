@@ -1,0 +1,20 @@
+{
+    "zip": 46121,
+    "lat": 39.67776,
+    "lng": -86.67345,
+    "city": "Coatesville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5153.0,
+    "density": 36.0,
+    "county_fips": 18063,
+    "county_name": "Hendricks",
+    "county_weights": "{\"18063\": 51.97, \"18133\": 48.03}",
+    "county_names_all": "Hendricks|Putnam",
+    "county_fips_all": "18063|18133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

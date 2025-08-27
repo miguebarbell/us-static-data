@@ -1,0 +1,20 @@
+{
+    "zip": 57767,
+    "lat": 44.13841,
+    "lng": -102.5721,
+    "city": "Owanka",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 119.0,
+    "density": 0.3,
+    "county_fips": 46093,
+    "county_name": "Meade",
+    "county_weights": "{\"46093\": 50.68, \"46103\": 49.32}",
+    "county_names_all": "Meade|Pennington",
+    "county_fips_all": "46093|46103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

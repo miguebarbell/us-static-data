@@ -1,0 +1,20 @@
+{
+    "zip": 82401,
+    "lat": 44.00089,
+    "lng": -108.1677,
+    "city": "Worland",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7053.0,
+    "density": 4.8,
+    "county_fips": 56043,
+    "county_name": "Washakie",
+    "county_weights": "{\"56043\": 83.29, \"56017\": 14.14, \"56003\": 2.57}",
+    "county_names_all": "Washakie|Hot Springs|Big Horn",
+    "county_fips_all": "56043|56017|56003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

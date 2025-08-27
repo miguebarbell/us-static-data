@@ -1,0 +1,20 @@
+{
+    "zip": 41040,
+    "lat": 38.65232,
+    "lng": -84.33188,
+    "city": "Falmouth",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6998.0,
+    "density": 18.1,
+    "county_fips": 21191,
+    "county_name": "Pendleton",
+    "county_weights": "{\"21191\": 95.67, \"21023\": 4.33}",
+    "county_names_all": "Pendleton|Bracken",
+    "county_fips_all": "21191|21023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

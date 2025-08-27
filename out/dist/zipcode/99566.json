@@ -1,0 +1,20 @@
+{
+    "zip": 99566,
+    "lat": 61.28176,
+    "lng": -142.79338,
+    "city": "Chitina",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 129.0,
+    "density": 0.0,
+    "county_fips": 2066,
+    "county_name": "Copper River",
+    "county_weights": "{\"02066\": 99.45, \"02063\": 0.55}",
+    "county_names_all": "Copper River|Chugach",
+    "county_fips_all": "02066|02063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

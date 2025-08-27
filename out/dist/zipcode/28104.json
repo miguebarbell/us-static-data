@@ -1,0 +1,20 @@
+{
+    "zip": 28104,
+    "lat": 35.06017,
+    "lng": -80.69666,
+    "city": "Matthews",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36232.0,
+    "density": 472.6,
+    "county_fips": 37179,
+    "county_name": "Union",
+    "county_weights": "{\"37179\": 96.91, \"37119\": 3.09}",
+    "county_names_all": "Union|Mecklenburg",
+    "county_fips_all": "37179|37119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

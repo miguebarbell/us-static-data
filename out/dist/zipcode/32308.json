@@ -1,0 +1,20 @@
+{
+    "zip": 32308,
+    "lat": 30.4781,
+    "lng": -84.21968,
+    "city": "Tallahassee",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23237.0,
+    "density": 567.6,
+    "county_fips": 12073,
+    "county_name": "Leon",
+    "county_weights": "{\"12073\": 100}",
+    "county_names_all": "Leon",
+    "county_fips_all": "12073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

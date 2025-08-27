@@ -1,0 +1,20 @@
+{
+    "zip": 44830,
+    "lat": 41.16603,
+    "lng": -83.40081,
+    "city": "Fostoria",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18409.0,
+    "density": 60.0,
+    "county_fips": 39147,
+    "county_name": "Seneca",
+    "county_weights": "{\"39147\": 58.86, \"39063\": 22.2, \"39173\": 18.94}",
+    "county_names_all": "Seneca|Hancock|Wood",
+    "county_fips_all": "39147|39063|39173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

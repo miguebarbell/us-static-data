@@ -1,0 +1,20 @@
+{
+    "zip": 32550,
+    "lat": 30.38541,
+    "lng": -86.34438,
+    "city": "Miramar Beach",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8192.0,
+    "density": 452.6,
+    "county_fips": 12131,
+    "county_name": "Walton",
+    "county_weights": "{\"12131\": 100}",
+    "county_names_all": "Walton",
+    "county_fips_all": "12131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

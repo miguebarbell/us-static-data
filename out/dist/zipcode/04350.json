@@ -1,0 +1,20 @@
+{
+    "zip": 4350,
+    "lat": 44.16266,
+    "lng": -69.93942,
+    "city": "Litchfield",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3635.0,
+    "density": 37.5,
+    "county_fips": 23011,
+    "county_name": "Kennebec",
+    "county_weights": "{\"23011\": 100}",
+    "county_names_all": "Kennebec",
+    "county_fips_all": "23011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

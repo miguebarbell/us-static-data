@@ -1,0 +1,20 @@
+{
+    "zip": 78117,
+    "lat": 28.95092,
+    "lng": -97.95736,
+    "city": "Hobson",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 756.0,
+    "density": 4.2,
+    "county_fips": 48255,
+    "county_name": "Karnes",
+    "county_weights": "{\"48255\": 100}",
+    "county_names_all": "Karnes",
+    "county_fips_all": "48255",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

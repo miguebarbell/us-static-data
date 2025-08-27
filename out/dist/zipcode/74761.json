@@ -1,0 +1,20 @@
+{
+    "zip": 74761,
+    "lat": 34.00938,
+    "lng": -95.20134,
+    "city": "Swink",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37.0,
+    "density": 9.8,
+    "county_fips": 40023,
+    "county_name": "Choctaw",
+    "county_weights": "{\"40023\": 100}",
+    "county_names_all": "Choctaw",
+    "county_fips_all": "40023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

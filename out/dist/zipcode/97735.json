@@ -1,0 +1,20 @@
+{
+    "zip": 97735,
+    "lat": 43.39014,
+    "lng": -120.99224,
+    "city": "Fort Rock",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 130.0,
+    "density": 0.2,
+    "county_fips": 41037,
+    "county_name": "Lake",
+    "county_weights": "{\"41037\": 100}",
+    "county_names_all": "Lake",
+    "county_fips_all": "41037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

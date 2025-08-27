@@ -1,0 +1,20 @@
+{
+    "zip": 96027,
+    "lat": 41.36558,
+    "lng": -123.07799,
+    "city": "Etna",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1872.0,
+    "density": 1.7,
+    "county_fips": 6093,
+    "county_name": "Siskiyou",
+    "county_weights": "{\"06093\": 100}",
+    "county_names_all": "Siskiyou",
+    "county_fips_all": "06093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

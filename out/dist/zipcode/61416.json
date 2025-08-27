@@ -1,0 +1,20 @@
+{
+    "zip": 61416,
+    "lat": 40.49592,
+    "lng": -90.56308,
+    "city": "Bardolph",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 226.0,
+    "density": 141.4,
+    "county_fips": 17109,
+    "county_name": "McDonough",
+    "county_weights": "{\"17109\": 100}",
+    "county_names_all": "McDonough",
+    "county_fips_all": "17109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 95973,
+    "lat": 39.88099,
+    "lng": -121.8516,
+    "city": "Chico",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37977.0,
+    "density": 48.9,
+    "county_fips": 6007,
+    "county_name": "Butte",
+    "county_weights": "{\"06007\": 61.67, \"06103\": 38.33}",
+    "county_names_all": "Butte|Tehama",
+    "county_fips_all": "06007|06103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

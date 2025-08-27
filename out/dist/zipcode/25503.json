@@ -1,0 +1,20 @@
+{
+    "zip": 25503,
+    "lat": 38.60835,
+    "lng": -82.11666,
+    "city": "Ashton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 654.0,
+    "density": 16.7,
+    "county_fips": 54053,
+    "county_name": "Mason",
+    "county_weights": "{\"54053\": 100}",
+    "county_names_all": "Mason",
+    "county_fips_all": "54053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

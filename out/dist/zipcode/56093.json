@@ -1,0 +1,20 @@
+{
+    "zip": 56093,
+    "lat": 44.06342,
+    "lng": -93.51683,
+    "city": "Waseca",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12742.0,
+    "density": 27.3,
+    "county_fips": 27161,
+    "county_name": "Waseca",
+    "county_weights": "{\"27161\": 93.16, \"27147\": 6.08, \"27131\": 0.76}",
+    "county_names_all": "Waseca|Steele|Rice",
+    "county_fips_all": "27161|27147|27131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

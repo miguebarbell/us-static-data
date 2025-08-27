@@ -1,0 +1,20 @@
+{
+    "zip": 77511,
+    "lat": 29.38638,
+    "lng": -95.23769,
+    "city": "Alvin",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 51984.0,
+    "density": 133.8,
+    "county_fips": 48039,
+    "county_name": "Brazoria",
+    "county_weights": "{\"48039\": 86.64, \"48167\": 13.36}",
+    "county_names_all": "Brazoria|Galveston",
+    "county_fips_all": "48039|48167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

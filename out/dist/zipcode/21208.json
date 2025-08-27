@@ -1,0 +1,20 @@
+{
+    "zip": 21208,
+    "lat": 39.38401,
+    "lng": -76.72547,
+    "city": "Pikesville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38108.0,
+    "density": 1171.7,
+    "county_fips": 24005,
+    "county_name": "Baltimore",
+    "county_weights": "{\"24005\": 98.62, \"24510\": 1.38}",
+    "county_names_all": "Baltimore|Baltimore",
+    "county_fips_all": "24005|24510",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

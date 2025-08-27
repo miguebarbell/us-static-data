@@ -1,0 +1,20 @@
+{
+    "zip": 7825,
+    "lat": 40.98308,
+    "lng": -74.9623,
+    "city": "Blairstown",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9271.0,
+    "density": 42.1,
+    "county_fips": 34041,
+    "county_name": "Warren",
+    "county_weights": "{\"34041\": 97.83, \"34037\": 2.17}",
+    "county_names_all": "Warren|Sussex",
+    "county_fips_all": "34041|34037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

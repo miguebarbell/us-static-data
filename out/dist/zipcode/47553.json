@@ -1,0 +1,20 @@
+{
+    "zip": 47553,
+    "lat": 38.65398,
+    "lng": -86.91108,
+    "city": "Loogootee",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8613.0,
+    "density": 24.0,
+    "county_fips": 18101,
+    "county_name": "Martin",
+    "county_weights": "{\"18101\": 60.69, \"18027\": 39.31}",
+    "county_names_all": "Martin|Daviess",
+    "county_fips_all": "18101|18027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Vincennes"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 56628,
+    "lat": 47.69575,
+    "lng": -93.5215,
+    "city": "Bigfork",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1649.0,
+    "density": 1.9,
+    "county_fips": 27061,
+    "county_name": "Itasca",
+    "county_weights": "{\"27061\": 100}",
+    "county_names_all": "Itasca",
+    "county_fips_all": "27061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 37380,
+    "lat": 35.07265,
+    "lng": -85.75754,
+    "city": "South Pittsburg",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6604.0,
+    "density": 20.2,
+    "county_fips": 47115,
+    "county_name": "Marion",
+    "county_weights": "{\"47115\": 98.62, \"47051\": 1.38}",
+    "county_names_all": "Marion|Franklin",
+    "county_fips_all": "47115|47051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

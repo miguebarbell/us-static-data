@@ -1,0 +1,20 @@
+{
+    "zip": 95432,
+    "lat": 39.1083,
+    "lng": -123.63829,
+    "city": "Elk",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 771.0,
+    "density": 4.1,
+    "county_fips": 6045,
+    "county_name": "Mendocino",
+    "county_weights": "{\"06045\": 100}",
+    "county_names_all": "Mendocino",
+    "county_fips_all": "06045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

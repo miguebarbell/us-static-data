@@ -1,0 +1,20 @@
+{
+    "zip": 6443,
+    "lat": 41.33976,
+    "lng": -72.62783,
+    "city": "Madison",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17577.0,
+    "density": 187.7,
+    "county_fips": 9170,
+    "county_name": "South Central Connecticut",
+    "county_weights": "{\"09170\": 100}",
+    "county_names_all": "South Central Connecticut",
+    "county_fips_all": "09170",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

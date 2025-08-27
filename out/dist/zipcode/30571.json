@@ -1,0 +1,20 @@
+{
+    "zip": 30571,
+    "lat": 34.71219,
+    "lng": -83.68322,
+    "city": "Sautee Nacoochee",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3984.0,
+    "density": 35.2,
+    "county_fips": 13311,
+    "county_name": "White",
+    "county_weights": "{\"13311\": 100}",
+    "county_names_all": "White",
+    "county_fips_all": "13311",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

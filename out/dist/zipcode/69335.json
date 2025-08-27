@@ -1,0 +1,20 @@
+{
+    "zip": 69335,
+    "lat": 42.02418,
+    "lng": -102.13908,
+    "city": "Bingham",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30.0,
+    "density": 0.1,
+    "county_fips": 31161,
+    "county_name": "Sheridan",
+    "county_weights": "{\"31161\": 61.39, \"31069\": 38.61}",
+    "county_names_all": "Sheridan|Garden",
+    "county_fips_all": "31161|31069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

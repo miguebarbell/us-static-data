@@ -1,0 +1,20 @@
+{
+    "zip": 95316,
+    "lat": 37.54613,
+    "lng": -120.69212,
+    "city": "Denair",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7594.0,
+    "density": 35.8,
+    "county_fips": 6099,
+    "county_name": "Stanislaus",
+    "county_weights": "{\"06099\": 76.77, \"06047\": 23.23}",
+    "county_names_all": "Stanislaus|Merced",
+    "county_fips_all": "06099|06047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

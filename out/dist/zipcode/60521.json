@@ -1,0 +1,20 @@
+{
+    "zip": 60521,
+    "lat": 41.80019,
+    "lng": -87.92883,
+    "city": "Hinsdale",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18097.0,
+    "density": 1477.3,
+    "county_fips": 17043,
+    "county_name": "DuPage",
+    "county_weights": "{\"17043\": 83.39, \"17031\": 16.61}",
+    "county_names_all": "DuPage|Cook",
+    "county_fips_all": "17043|17031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 53014,
+    "lat": 44.02298,
+    "lng": -88.17549,
+    "city": "Chilton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7816.0,
+    "density": 23.1,
+    "county_fips": 55015,
+    "county_name": "Calumet",
+    "county_weights": "{\"55015\": 87.72, \"55071\": 11.22, \"55039\": 1.06}",
+    "county_names_all": "Calumet|Manitowoc|Fond du Lac",
+    "county_fips_all": "55015|55071|55039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

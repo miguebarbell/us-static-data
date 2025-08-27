@@ -1,0 +1,20 @@
+{
+    "zip": 43976,
+    "lat": 40.36981,
+    "lng": -80.90655,
+    "city": "Hopedale",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1432.0,
+    "density": 25.4,
+    "county_fips": 39067,
+    "county_name": "Harrison",
+    "county_weights": "{\"39067\": 99.9, \"39081\": 0.1}",
+    "county_names_all": "Harrison|Jefferson",
+    "county_fips_all": "39067|39081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

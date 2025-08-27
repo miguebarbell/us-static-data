@@ -1,0 +1,20 @@
+{
+    "zip": 58771,
+    "lat": 48.08711,
+    "lng": -101.98534,
+    "city": "Plaza",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 589.0,
+    "density": 0.9,
+    "county_fips": 38061,
+    "county_name": "Mountrail",
+    "county_weights": "{\"38061\": 76.19, \"38101\": 20.52, \"38055\": 3.29}",
+    "county_names_all": "Mountrail|Ward|McLean",
+    "county_fips_all": "38061|38101|38055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

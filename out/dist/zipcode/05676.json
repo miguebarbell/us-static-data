@@ -1,0 +1,20 @@
+{
+    "zip": 5676,
+    "lat": 44.34825,
+    "lng": -72.80984,
+    "city": "Waterbury",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4894.0,
+    "density": 20.1,
+    "county_fips": 50023,
+    "county_name": "Washington",
+    "county_weights": "{\"50023\": 79.51, \"50007\": 20.49}",
+    "county_names_all": "Washington|Chittenden",
+    "county_fips_all": "50023|50007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

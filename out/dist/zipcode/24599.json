@@ -1,0 +1,20 @@
+{
+    "zip": 24599,
+    "lat": 37.63289,
+    "lng": -78.72452,
+    "city": "Wingina",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 725.0,
+    "density": 5.8,
+    "county_fips": 51029,
+    "county_name": "Buckingham",
+    "county_weights": "{\"51029\": 52.19, \"51125\": 47.81}",
+    "county_names_all": "Buckingham|Nelson",
+    "county_fips_all": "51029|51125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

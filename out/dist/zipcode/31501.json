@@ -1,0 +1,20 @@
+{
+    "zip": 31501,
+    "lat": 31.22693,
+    "lng": -82.34852,
+    "city": "Waycross",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13034.0,
+    "density": 419.6,
+    "county_fips": 13299,
+    "county_name": "Ware",
+    "county_weights": "{\"13299\": 100}",
+    "county_names_all": "Ware",
+    "county_fips_all": "13299",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

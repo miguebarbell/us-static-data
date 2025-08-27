@@ -1,0 +1,20 @@
+{
+    "zip": 54534,
+    "lat": 46.3545,
+    "lng": -90.23769,
+    "city": "Hurley",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2593.0,
+    "density": 7.4,
+    "county_fips": 55051,
+    "county_name": "Iron",
+    "county_weights": "{\"55051\": 100}",
+    "county_names_all": "Iron",
+    "county_fips_all": "55051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

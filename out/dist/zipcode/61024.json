@@ -1,0 +1,20 @@
+{
+    "zip": 61024,
+    "lat": 42.43629,
+    "lng": -89.29183,
+    "city": "Durand",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2264.0,
+    "density": 14.8,
+    "county_fips": 17201,
+    "county_name": "Winnebago",
+    "county_weights": "{\"17201\": 100}",
+    "county_names_all": "Winnebago",
+    "county_fips_all": "17201",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

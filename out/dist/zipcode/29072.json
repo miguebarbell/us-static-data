@@ -1,0 +1,20 @@
+{
+    "zip": 29072,
+    "lat": 33.9985,
+    "lng": -81.27098,
+    "city": "Lexington",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 68389.0,
+    "density": 388.1,
+    "county_fips": 45063,
+    "county_name": "Lexington",
+    "county_weights": "{\"45063\": 100}",
+    "county_names_all": "Lexington",
+    "county_fips_all": "45063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

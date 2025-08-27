@@ -1,0 +1,20 @@
+{
+    "zip": 82727,
+    "lat": 44.33595,
+    "lng": -105.19426,
+    "city": "Rozet",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1818.0,
+    "density": 1.6,
+    "county_fips": 56005,
+    "county_name": "Campbell",
+    "county_weights": "{\"56005\": 94.97, \"56011\": 5.03}",
+    "county_names_all": "Campbell|Crook",
+    "county_fips_all": "56005|56011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

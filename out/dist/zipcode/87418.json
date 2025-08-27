@@ -1,0 +1,20 @@
+{
+    "zip": 87418,
+    "lat": 36.94938,
+    "lng": -108.14728,
+    "city": "La Plata",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 947.0,
+    "density": 5.5,
+    "county_fips": 35045,
+    "county_name": "San Juan",
+    "county_weights": "{\"35045\": 100}",
+    "county_names_all": "San Juan",
+    "county_fips_all": "35045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

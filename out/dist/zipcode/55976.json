@@ -1,0 +1,20 @@
+{
+    "zip": 55976,
+    "lat": 43.86378,
+    "lng": -92.48394,
+    "city": "Stewartville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8542.0,
+    "density": 36.2,
+    "county_fips": 27109,
+    "county_name": "Olmsted",
+    "county_weights": "{\"27109\": 83.01, \"27045\": 15.39, \"27099\": 1.6}",
+    "county_names_all": "Olmsted|Fillmore|Mower",
+    "county_fips_all": "27109|27045|27099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

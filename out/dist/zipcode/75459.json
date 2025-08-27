@@ -1,0 +1,20 @@
+{
+    "zip": 75459,
+    "lat": 33.52988,
+    "lng": -96.6831,
+    "city": "Howe",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6620.0,
+    "density": 31.2,
+    "county_fips": 48181,
+    "county_name": "Grayson",
+    "county_weights": "{\"48181\": 100}",
+    "county_names_all": "Grayson",
+    "county_fips_all": "48181",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

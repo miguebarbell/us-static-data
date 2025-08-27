@@ -1,0 +1,20 @@
+{
+    "zip": 56052,
+    "lat": 44.32158,
+    "lng": -93.5576,
+    "city": "Kilkenny",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 702.0,
+    "density": 5.3,
+    "county_fips": 27079,
+    "county_name": "Le Sueur",
+    "county_weights": "{\"27079\": 71.06, \"27131\": 28.94}",
+    "county_names_all": "Le Sueur|Rice",
+    "county_fips_all": "27079|27131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

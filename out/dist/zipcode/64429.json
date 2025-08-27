@@ -1,0 +1,20 @@
+{
+    "zip": 64429,
+    "lat": 39.73895,
+    "lng": -94.2285,
+    "city": "Cameron",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11815.0,
+    "density": 30.2,
+    "county_fips": 29063,
+    "county_name": "DeKalb",
+    "county_weights": "{\"29063\": 32.98, \"29025\": 30.87, \"29049\": 30.54, \"29061\": 5.61}",
+    "county_names_all": "DeKalb|Caldwell|Clinton|Daviess",
+    "county_fips_all": "29063|29025|29049|29061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

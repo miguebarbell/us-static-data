@@ -1,0 +1,20 @@
+{
+    "zip": 49102,
+    "lat": 41.95194,
+    "lng": -86.26037,
+    "city": "Berrien Center",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1575.0,
+    "density": 40.6,
+    "county_fips": 26021,
+    "county_name": "Berrien",
+    "county_weights": "{\"26021\": 95.79, \"26027\": 4.21}",
+    "county_names_all": "Berrien|Cass",
+    "county_fips_all": "26021|26027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 53578,
+    "lat": 43.31356,
+    "lng": -89.77408,
+    "city": "Prairie Du Sac",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6444.0,
+    "density": 57.7,
+    "county_fips": 55111,
+    "county_name": "Sauk",
+    "county_weights": "{\"55111\": 80.03, \"55021\": 19.97}",
+    "county_names_all": "Sauk|Columbia",
+    "county_fips_all": "55111|55021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

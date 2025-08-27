@@ -1,0 +1,20 @@
+{
+    "zip": 33905,
+    "lat": 26.66873,
+    "lng": -81.76166,
+    "city": "Fort Myers",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40908.0,
+    "density": 393.3,
+    "county_fips": 12071,
+    "county_name": "Lee",
+    "county_weights": "{\"12071\": 100}",
+    "county_names_all": "Lee",
+    "county_fips_all": "12071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

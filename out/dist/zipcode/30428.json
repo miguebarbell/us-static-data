@@ -1,0 +1,20 @@
+{
+    "zip": 30428,
+    "lat": 32.21706,
+    "lng": -82.71436,
+    "city": "Glenwood",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2941.0,
+    "density": 7.2,
+    "county_fips": 13309,
+    "county_name": "Wheeler",
+    "county_weights": "{\"13309\": 74.66, \"13175\": 25.34}",
+    "county_names_all": "Wheeler|Laurens",
+    "county_fips_all": "13309|13175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

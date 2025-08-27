@@ -1,0 +1,20 @@
+{
+    "zip": 56208,
+    "lat": 45.24422,
+    "lng": -96.00961,
+    "city": "Appleton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2097.0,
+    "density": 4.1,
+    "county_fips": 27151,
+    "county_name": "Swift",
+    "county_weights": "{\"27151\": 81.38, \"27073\": 12.05, \"27011\": 4.46, \"27023\": 2.11}",
+    "county_names_all": "Swift|Lac qui Parle|Big Stone|Chippewa",
+    "county_fips_all": "27151|27073|27011|27023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

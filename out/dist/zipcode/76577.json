@@ -1,0 +1,20 @@
+{
+    "zip": 76577,
+    "lat": 30.62128,
+    "lng": -97.1787,
+    "city": "Thorndale",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3297.0,
+    "density": 9.1,
+    "county_fips": 48331,
+    "county_name": "Milam",
+    "county_weights": "{\"48331\": 90.27, \"48491\": 9.73}",
+    "county_names_all": "Milam|Williamson",
+    "county_fips_all": "48331|48491",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

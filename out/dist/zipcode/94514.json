@@ -1,0 +1,20 @@
+{
+    "zip": 94514,
+    "lat": 37.83071,
+    "lng": -121.63392,
+    "city": "Byron",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2044.0,
+    "density": 26.3,
+    "county_fips": 6013,
+    "county_name": "Contra Costa",
+    "county_weights": "{\"06013\": 82.38, \"06001\": 17.62}",
+    "county_names_all": "Contra Costa|Alameda",
+    "county_fips_all": "06013|06001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 75960,
+    "lat": 30.90372,
+    "lng": -94.8618,
+    "city": "Moscow",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1041.0,
+    "density": 6.7,
+    "county_fips": 48373,
+    "county_name": "Polk",
+    "county_weights": "{\"48373\": 100}",
+    "county_names_all": "Polk",
+    "county_fips_all": "48373",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

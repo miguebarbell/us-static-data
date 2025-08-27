@@ -1,0 +1,20 @@
+{
+    "zip": 72760,
+    "lat": 35.82898,
+    "lng": -93.69804,
+    "city": "Saint Paul",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 207.0,
+    "density": 2.7,
+    "county_fips": 5087,
+    "county_name": "Madison",
+    "county_weights": "{\"05087\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "05087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

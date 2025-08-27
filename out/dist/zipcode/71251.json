@@ -1,0 +1,20 @@
+{
+    "zip": 71251,
+    "lat": 32.21891,
+    "lng": -92.67162,
+    "city": "Jonesboro",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7724.0,
+    "density": 16.1,
+    "county_fips": 22049,
+    "county_name": "Jackson",
+    "county_weights": "{\"22049\": 86.5, \"22013\": 13.5}",
+    "county_names_all": "Jackson|Bienville",
+    "county_fips_all": "22049|22013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

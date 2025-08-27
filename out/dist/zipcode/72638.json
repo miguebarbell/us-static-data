@@ -1,0 +1,20 @@
+{
+    "zip": 72638,
+    "lat": 36.3245,
+    "lng": -93.40496,
+    "city": "Green Forest",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7068.0,
+    "density": 15.1,
+    "county_fips": 5015,
+    "county_name": "Carroll",
+    "county_weights": "{\"05015\": 95.18, \"05101\": 4.82}",
+    "county_names_all": "Carroll|Newton",
+    "county_fips_all": "05015|05101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

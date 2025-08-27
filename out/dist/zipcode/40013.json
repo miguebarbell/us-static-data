@@ -1,0 +1,20 @@
+{
+    "zip": 40013,
+    "lat": 37.93427,
+    "lng": -85.48684,
+    "city": "Coxs Creek",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6830.0,
+    "density": 34.9,
+    "county_fips": 21179,
+    "county_name": "Nelson",
+    "county_weights": "{\"21179\": 76.57, \"21215\": 13.73, \"21029\": 9.7}",
+    "county_names_all": "Nelson|Spencer|Bullitt",
+    "county_fips_all": "21179|21215|21029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,15 @@
+{
+    "zip": [
+        "86001",
+        "86003",
+        "86004",
+        "86005",
+        "86011"
+    ],
+    "city": "Flagstaff",
+    "state": "AZ",
+    "lat": 33.45059,
+    "lng": -112.07833,
+    "state_name": "Arizona",
+    "timezone": "America/Phoenix"
+}

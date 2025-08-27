@@ -1,0 +1,20 @@
+{
+    "zip": 47352,
+    "lat": 39.79597,
+    "lng": -85.3637,
+    "city": "Lewisville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 823.0,
+    "density": 9.9,
+    "county_fips": 18065,
+    "county_name": "Henry",
+    "county_weights": "{\"18065\": 61.57, \"18139\": 35.27, \"18041\": 3.16}",
+    "county_names_all": "Henry|Rush|Fayette",
+    "county_fips_all": "18065|18139|18041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

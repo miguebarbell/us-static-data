@@ -1,0 +1,20 @@
+{
+    "zip": 33455,
+    "lat": 27.05748,
+    "lng": -80.1703,
+    "city": "Hobe Sound",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20980.0,
+    "density": 143.2,
+    "county_fips": 12085,
+    "county_name": "Martin",
+    "county_weights": "{\"12085\": 100}",
+    "county_names_all": "Martin",
+    "county_fips_all": "12085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

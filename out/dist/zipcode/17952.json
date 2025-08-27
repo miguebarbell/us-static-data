@@ -1,0 +1,20 @@
+{
+    "zip": 17952,
+    "lat": 40.76434,
+    "lng": -76.05997,
+    "city": "Mary D",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 214.0,
+    "density": 48.0,
+    "county_fips": 42107,
+    "county_name": "Schuylkill",
+    "county_weights": "{\"42107\": 100}",
+    "county_names_all": "Schuylkill",
+    "county_fips_all": "42107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

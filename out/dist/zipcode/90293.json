@@ -1,0 +1,20 @@
+{
+    "zip": 90293,
+    "lat": 33.95071,
+    "lng": -118.43745,
+    "city": "Playa Del Rey",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12784.0,
+    "density": 1801.0,
+    "county_fips": 6037,
+    "county_name": "Los Angeles",
+    "county_weights": "{\"06037\": 100}",
+    "county_names_all": "Los Angeles",
+    "county_fips_all": "06037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

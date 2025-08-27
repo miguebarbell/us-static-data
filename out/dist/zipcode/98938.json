@@ -1,0 +1,20 @@
+{
+    "zip": 98938,
+    "lat": 46.38842,
+    "lng": -120.09662,
+    "city": "Outlook",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1678.0,
+    "density": 17.4,
+    "county_fips": 53077,
+    "county_name": "Yakima",
+    "county_weights": "{\"53077\": 100}",
+    "county_names_all": "Yakima",
+    "county_fips_all": "53077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

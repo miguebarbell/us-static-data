@@ -1,0 +1,20 @@
+{
+    "zip": 58707,
+    "lat": 48.24767,
+    "lng": -101.30127,
+    "city": "Minot",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 496.0,
+    "density": 1674.5,
+    "county_fips": 38101,
+    "county_name": "Ward",
+    "county_weights": "{\"38101\": 100}",
+    "county_names_all": "Ward",
+    "county_fips_all": "38101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

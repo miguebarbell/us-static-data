@@ -1,0 +1,20 @@
+{
+    "zip": 59218,
+    "lat": 48.09993,
+    "lng": -104.52361,
+    "city": "Culbertson",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 952.0,
+    "density": 0.9,
+    "county_fips": 30085,
+    "county_name": "Roosevelt",
+    "county_weights": "{\"30085\": 50.16, \"30083\": 49.84}",
+    "county_names_all": "Roosevelt|Richland",
+    "county_fips_all": "30085|30083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

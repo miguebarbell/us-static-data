@@ -1,0 +1,20 @@
+{
+    "zip": 14030,
+    "lat": 42.56518,
+    "lng": -78.50052,
+    "city": "Chaffee",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2051.0,
+    "density": 37.4,
+    "county_fips": 36029,
+    "county_name": "Erie",
+    "county_weights": "{\"36029\": 87.0, \"36009\": 9.68, \"36121\": 3.32}",
+    "county_names_all": "Erie|Cattaraugus|Wyoming",
+    "county_fips_all": "36029|36009|36121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

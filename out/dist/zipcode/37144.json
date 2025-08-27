@@ -1,0 +1,20 @@
+{
+    "zip": 37144,
+    "lat": 35.30516,
+    "lng": -86.65585,
+    "city": "Petersburg",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2941.0,
+    "density": 8.7,
+    "county_fips": 47103,
+    "county_name": "Lincoln",
+    "county_weights": "{\"47103\": 58.79, \"47117\": 28.0, \"47003\": 8.27, \"47127\": 3.28, \"47055\": 1.66}",
+    "county_names_all": "Lincoln|Marshall|Bedford|Moore|Giles",
+    "county_fips_all": "47103|47117|47003|47127|47055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

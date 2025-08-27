@@ -1,0 +1,20 @@
+{
+    "zip": 4224,
+    "lat": 44.58001,
+    "lng": -70.40058,
+    "city": "Dixfield",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3077.0,
+    "density": 15.9,
+    "county_fips": 23017,
+    "county_name": "Oxford",
+    "county_weights": "{\"23017\": 55.17, \"23007\": 44.83}",
+    "county_names_all": "Oxford|Franklin",
+    "county_fips_all": "23017|23007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

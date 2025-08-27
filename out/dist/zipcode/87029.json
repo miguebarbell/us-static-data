@@ -1,0 +1,20 @@
+{
+    "zip": 87029,
+    "lat": 36.39394,
+    "lng": -107.03949,
+    "city": "Lindrith",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 326.0,
+    "density": 0.5,
+    "county_fips": 35039,
+    "county_name": "Rio Arriba",
+    "county_weights": "{\"35039\": 100}",
+    "county_names_all": "Rio Arriba",
+    "county_fips_all": "35039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

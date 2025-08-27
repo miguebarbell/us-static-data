@@ -1,0 +1,20 @@
+{
+    "zip": 62510,
+    "lat": 39.5315,
+    "lng": -89.02706,
+    "city": "Assumption",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1573.0,
+    "density": 7.9,
+    "county_fips": 17021,
+    "county_name": "Christian",
+    "county_weights": "{\"17021\": 51.26, \"17173\": 48.74}",
+    "county_names_all": "Christian|Shelby",
+    "county_fips_all": "17021|17173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

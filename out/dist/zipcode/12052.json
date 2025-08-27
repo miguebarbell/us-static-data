@@ -1,0 +1,20 @@
+{
+    "zip": 12052,
+    "lat": 42.75767,
+    "lng": -73.47847,
+    "city": "Cropseyville",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1931.0,
+    "density": 24.7,
+    "county_fips": 36083,
+    "county_name": "Rensselaer",
+    "county_weights": "{\"36083\": 100}",
+    "county_names_all": "Rensselaer",
+    "county_fips_all": "36083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

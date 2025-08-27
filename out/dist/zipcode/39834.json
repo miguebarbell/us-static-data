@@ -1,0 +1,20 @@
+{
+    "zip": 39834,
+    "lat": 30.89298,
+    "lng": -84.42749,
+    "city": "Climax",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2020.0,
+    "density": 6.4,
+    "county_fips": 13087,
+    "county_name": "Decatur",
+    "county_weights": "{\"13087\": 100}",
+    "county_names_all": "Decatur",
+    "county_fips_all": "13087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

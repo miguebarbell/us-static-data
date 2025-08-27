@@ -1,0 +1,20 @@
+{
+    "zip": 62920,
+    "lat": 37.55095,
+    "lng": -89.23208,
+    "city": "Cobden",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2872.0,
+    "density": 15.7,
+    "county_fips": 17181,
+    "county_name": "Union",
+    "county_weights": "{\"17181\": 95.73, \"17077\": 4.27}",
+    "county_names_all": "Union|Jackson",
+    "county_fips_all": "17181|17077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

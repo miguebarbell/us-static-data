@@ -1,0 +1,20 @@
+{
+    "zip": 20871,
+    "lat": 39.2592,
+    "lng": -77.28187,
+    "city": "Clarksburg",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28329.0,
+    "density": 478.0,
+    "county_fips": 24031,
+    "county_name": "Montgomery",
+    "county_weights": "{\"24031\": 94.34, \"24021\": 5.66}",
+    "county_names_all": "Montgomery|Frederick",
+    "county_fips_all": "24031|24021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 56751,
+    "lat": 48.80929,
+    "lng": -95.76035,
+    "city": "Roseau",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5776.0,
+    "density": 4.7,
+    "county_fips": 27135,
+    "county_name": "Roseau",
+    "county_weights": "{\"27135\": 100}",
+    "county_names_all": "Roseau",
+    "county_fips_all": "27135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

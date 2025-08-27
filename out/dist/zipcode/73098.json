@@ -1,0 +1,20 @@
+{
+    "zip": 73098,
+    "lat": 34.62753,
+    "lng": -97.16537,
+    "city": "Wynnewood",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3382.0,
+    "density": 9.5,
+    "county_fips": 40049,
+    "county_name": "Garvin",
+    "county_weights": "{\"40049\": 80.98, \"40099\": 19.02}",
+    "county_names_all": "Garvin|Murray",
+    "county_fips_all": "40049|40099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

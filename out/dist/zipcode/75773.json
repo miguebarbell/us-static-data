@@ -1,0 +1,20 @@
+{
+    "zip": 75773,
+    "lat": 32.67969,
+    "lng": -95.44654,
+    "city": "Mineola",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14311.0,
+    "density": 31.2,
+    "county_fips": 48499,
+    "county_name": "Wood",
+    "county_weights": "{\"48499\": 82.52, \"48423\": 17.48}",
+    "county_names_all": "Wood|Smith",
+    "county_fips_all": "48499|48423",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

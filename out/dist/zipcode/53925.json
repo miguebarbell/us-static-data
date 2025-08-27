@@ -1,0 +1,20 @@
+{
+    "zip": 53925,
+    "lat": 43.3325,
+    "lng": -89.05075,
+    "city": "Columbus",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8956.0,
+    "density": 27.2,
+    "county_fips": 55021,
+    "county_name": "Columbia",
+    "county_weights": "{\"55021\": 53.87, \"55027\": 36.12, \"55025\": 10.01}",
+    "county_names_all": "Columbia|Dodge|Dane",
+    "county_fips_all": "55021|55027|55025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

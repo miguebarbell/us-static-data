@@ -1,0 +1,20 @@
+{
+    "zip": 63445,
+    "lat": 40.39681,
+    "lng": -91.72044,
+    "city": "Kahoka",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3945.0,
+    "density": 9.8,
+    "county_fips": 29045,
+    "county_name": "Clark",
+    "county_weights": "{\"29045\": 100}",
+    "county_names_all": "Clark",
+    "county_fips_all": "29045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

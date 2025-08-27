@@ -1,0 +1,20 @@
+{
+    "zip": 48742,
+    "lat": 44.71934,
+    "lng": -83.44542,
+    "city": "Lincoln",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1767.0,
+    "density": 10.0,
+    "county_fips": 26001,
+    "county_name": "Alcona",
+    "county_weights": "{\"26001\": 100}",
+    "county_names_all": "Alcona",
+    "county_fips_all": "26001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

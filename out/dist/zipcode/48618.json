@@ -1,0 +1,20 @@
+{
+    "zip": 48618,
+    "lat": 43.73602,
+    "lng": -84.5584,
+    "city": "Coleman",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5110.0,
+    "density": 19.2,
+    "county_fips": 26111,
+    "county_name": "Midland",
+    "county_weights": "{\"26111\": 76.61, \"26073\": 21.26, \"26051\": 2.13}",
+    "county_names_all": "Midland|Isabella|Gladwin",
+    "county_fips_all": "26111|26073|26051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 45322,
+    "lat": 39.89967,
+    "lng": -84.33206,
+    "city": "Englewood",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20978.0,
+    "density": 382.8,
+    "county_fips": 39113,
+    "county_name": "Montgomery",
+    "county_weights": "{\"39113\": 77.28, \"39109\": 22.72}",
+    "county_names_all": "Montgomery|Miami",
+    "county_fips_all": "39113|39109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

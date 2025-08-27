@@ -1,0 +1,20 @@
+{
+    "zip": 50837,
+    "lat": 41.22878,
+    "lng": -94.68367,
+    "city": "Bridgewater",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 311.0,
+    "density": 2.3,
+    "county_fips": 19001,
+    "county_name": "Adair",
+    "county_weights": "{\"19001\": 70.12, \"19029\": 16.49, \"19003\": 13.39}",
+    "county_names_all": "Adair|Cass|Adams",
+    "county_fips_all": "19001|19029|19003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

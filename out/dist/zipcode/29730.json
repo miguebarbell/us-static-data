@@ -1,0 +1,20 @@
+{
+    "zip": 29730,
+    "lat": 34.8878,
+    "lng": -81.02116,
+    "city": "Rock Hill",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 57500.0,
+    "density": 186.0,
+    "county_fips": 45091,
+    "county_name": "York",
+    "county_weights": "{\"45091\": 95.26, \"45023\": 4.74}",
+    "county_names_all": "York|Chester",
+    "county_fips_all": "45091|45023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

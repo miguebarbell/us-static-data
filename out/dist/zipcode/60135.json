@@ -1,0 +1,20 @@
+{
+    "zip": 60135,
+    "lat": 42.11265,
+    "lng": -88.67867,
+    "city": "Genoa",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7486.0,
+    "density": 61.8,
+    "county_fips": 17037,
+    "county_name": "DeKalb",
+    "county_weights": "{\"17037\": 96.2, \"17111\": 2.17, \"17007\": 1.63}",
+    "county_names_all": "DeKalb|McHenry|Boone",
+    "county_fips_all": "17037|17111|17007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

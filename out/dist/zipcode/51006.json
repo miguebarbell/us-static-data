@@ -1,0 +1,20 @@
+{
+    "zip": 51006,
+    "lat": 42.31088,
+    "lng": -95.61299,
+    "city": "Battle Creek",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1201.0,
+    "density": 5.9,
+    "county_fips": 19093,
+    "county_name": "Ida",
+    "county_weights": "{\"19093\": 85.87, \"19193\": 12.25, \"19047\": 1.88}",
+    "county_names_all": "Ida|Woodbury|Crawford",
+    "county_fips_all": "19093|19193|19047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

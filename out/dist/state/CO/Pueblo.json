@@ -1,0 +1,17 @@
+{
+    "zip": [
+        "81001",
+        "81003",
+        "81004",
+        "81005",
+        "81006",
+        "81007",
+        "81008"
+    ],
+    "city": "Pueblo",
+    "state": "CO",
+    "lat": 39.79405,
+    "lng": -105.10845,
+    "state_name": "Colorado",
+    "timezone": "America/Denver"
+}

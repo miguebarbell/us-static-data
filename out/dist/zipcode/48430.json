@@ -1,0 +1,20 @@
+{
+    "zip": 48430,
+    "lat": 42.75752,
+    "lng": -83.74208,
+    "city": "Fenton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38731.0,
+    "density": 179.8,
+    "county_fips": 26093,
+    "county_name": "Livingston",
+    "county_weights": "{\"26093\": 65.68, \"26049\": 24.42, \"26125\": 9.9}",
+    "county_names_all": "Livingston|Genesee|Oakland",
+    "county_fips_all": "26093|26049|26125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

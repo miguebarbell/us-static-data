@@ -1,0 +1,20 @@
+{
+    "zip": 48229,
+    "lat": 42.24889,
+    "lng": -83.1399,
+    "city": "Ecorse",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9166.0,
+    "density": 1248.9,
+    "county_fips": 26163,
+    "county_name": "Wayne",
+    "county_weights": "{\"26163\": 100}",
+    "county_names_all": "Wayne",
+    "county_fips_all": "26163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

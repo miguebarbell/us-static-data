@@ -1,0 +1,20 @@
+{
+    "zip": 53049,
+    "lat": 43.8853,
+    "lng": -88.28917,
+    "city": "Malone",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2311.0,
+    "density": 23.4,
+    "county_fips": 55039,
+    "county_name": "Fond du Lac",
+    "county_weights": "{\"55039\": 95.55, \"55015\": 4.45}",
+    "county_names_all": "Fond du Lac|Calumet",
+    "county_fips_all": "55039|55015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

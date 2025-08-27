@@ -1,0 +1,20 @@
+{
+    "zip": 76821,
+    "lat": 31.73862,
+    "lng": -99.94963,
+    "city": "Ballinger",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4572.0,
+    "density": 6.6,
+    "county_fips": 48399,
+    "county_name": "Runnels",
+    "county_weights": "{\"48399\": 100}",
+    "county_names_all": "Runnels",
+    "county_fips_all": "48399",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

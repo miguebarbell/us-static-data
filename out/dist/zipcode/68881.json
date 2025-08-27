@@ -1,0 +1,20 @@
+{
+    "zip": 68881,
+    "lat": 41.43472,
+    "lng": -99.35957,
+    "city": "Westerville",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23.0,
+    "density": 0.5,
+    "county_fips": 31041,
+    "county_name": "Custer",
+    "county_weights": "{\"31041\": 100}",
+    "county_names_all": "Custer",
+    "county_fips_all": "31041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 50247,
+    "lat": 42.01832,
+    "lng": -93.1665,
+    "city": "State Center",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2198.0,
+    "density": 10.0,
+    "county_fips": 19127,
+    "county_name": "Marshall",
+    "county_weights": "{\"19127\": 93.36, \"19169\": 6.64}",
+    "county_names_all": "Marshall|Story",
+    "county_fips_all": "19127|19169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

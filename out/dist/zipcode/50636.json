@@ -1,0 +1,20 @@
+{
+    "zip": 50636,
+    "lat": 42.89439,
+    "lng": -92.80745,
+    "city": "Greene",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2141.0,
+    "density": 7.1,
+    "county_fips": 19023,
+    "county_name": "Butler",
+    "county_weights": "{\"19023\": 62.25, \"19067\": 37.75}",
+    "county_names_all": "Butler|Floyd",
+    "county_fips_all": "19023|19067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

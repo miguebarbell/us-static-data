@@ -1,0 +1,20 @@
+{
+    "zip": 32976,
+    "lat": 27.86198,
+    "lng": -80.53721,
+    "city": "Sebastian",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9237.0,
+    "density": 146.8,
+    "county_fips": 12009,
+    "county_name": "Brevard",
+    "county_weights": "{\"12009\": 100}",
+    "county_names_all": "Brevard",
+    "county_fips_all": "12009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

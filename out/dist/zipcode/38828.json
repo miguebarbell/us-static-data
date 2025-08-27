@@ -1,0 +1,20 @@
+{
+    "zip": 38828,
+    "lat": 34.42365,
+    "lng": -88.86789,
+    "city": "Blue Springs",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4532.0,
+    "density": 18.7,
+    "county_fips": 28145,
+    "county_name": "Union",
+    "county_weights": "{\"28145\": 80.87, \"28115\": 15.11, \"28081\": 4.02}",
+    "county_names_all": "Union|Pontotoc|Lee",
+    "county_fips_all": "28145|28115|28081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

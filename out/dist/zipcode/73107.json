@@ -1,0 +1,20 @@
+{
+    "zip": 73107,
+    "lat": 35.48201,
+    "lng": -97.5744,
+    "city": "Oklahoma City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25995.0,
+    "density": 1325.4,
+    "county_fips": 40109,
+    "county_name": "Oklahoma",
+    "county_weights": "{\"40109\": 100}",
+    "county_names_all": "Oklahoma",
+    "county_fips_all": "40109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

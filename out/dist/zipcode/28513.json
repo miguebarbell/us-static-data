@@ -1,0 +1,20 @@
+{
+    "zip": 28513,
+    "lat": 35.44276,
+    "lng": -77.3897,
+    "city": "Ayden",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9754.0,
+    "density": 42.3,
+    "county_fips": 37147,
+    "county_name": "Pitt",
+    "county_weights": "{\"37147\": 87.02, \"37079\": 12.98}",
+    "county_names_all": "Pitt|Greene",
+    "county_fips_all": "37147|37079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

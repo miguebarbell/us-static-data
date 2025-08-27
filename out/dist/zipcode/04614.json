@@ -1,0 +1,20 @@
+{
+    "zip": 4614,
+    "lat": 44.41819,
+    "lng": -68.58223,
+    "city": "Blue Hill",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2811.0,
+    "density": 17.4,
+    "county_fips": 23009,
+    "county_name": "Hancock",
+    "county_weights": "{\"23009\": 100}",
+    "county_names_all": "Hancock",
+    "county_fips_all": "23009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

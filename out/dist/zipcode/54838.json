@@ -1,0 +1,20 @@
+{
+    "zip": 54838,
+    "lat": 46.24836,
+    "lng": -91.79179,
+    "city": "Gordon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1302.0,
+    "density": 2.1,
+    "county_fips": 55031,
+    "county_name": "Douglas",
+    "county_weights": "{\"55031\": 97.98, \"55007\": 2.02}",
+    "county_names_all": "Douglas|Bayfield",
+    "county_fips_all": "55031|55007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

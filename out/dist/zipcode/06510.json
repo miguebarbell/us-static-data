@@ -1,0 +1,20 @@
+{
+    "zip": 6510,
+    "lat": 41.3062,
+    "lng": -72.92652,
+    "city": "New Haven",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4205.0,
+    "density": 6030.4,
+    "county_fips": 9170,
+    "county_name": "South Central Connecticut",
+    "county_weights": "{\"09170\": 100}",
+    "county_names_all": "South Central Connecticut",
+    "county_fips_all": "09170",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

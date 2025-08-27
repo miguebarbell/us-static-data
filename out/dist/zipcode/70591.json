@@ -1,0 +1,20 @@
+{
+    "zip": 70591,
+    "lat": 30.25604,
+    "lng": -92.8397,
+    "city": "Welsh",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5635.0,
+    "density": 12.7,
+    "county_fips": 22053,
+    "county_name": "Jefferson Davis",
+    "county_weights": "{\"22053\": 100}",
+    "county_names_all": "Jefferson Davis",
+    "county_fips_all": "22053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

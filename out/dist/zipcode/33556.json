@@ -1,0 +1,20 @@
+{
+    "zip": 33556,
+    "lat": 28.17029,
+    "lng": -82.59264,
+    "city": "Odessa",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 34045.0,
+    "density": 218.0,
+    "county_fips": 12057,
+    "county_name": "Hillsborough",
+    "county_weights": "{\"12057\": 55.85, \"12101\": 44.15}",
+    "county_names_all": "Hillsborough|Pasco",
+    "county_fips_all": "12057|12101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

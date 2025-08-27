@@ -1,0 +1,20 @@
+{
+    "zip": 76261,
+    "lat": 33.80291,
+    "lng": -97.96233,
+    "city": "Ringgold",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 203.0,
+    "density": 1.1,
+    "county_fips": 48337,
+    "county_name": "Montague",
+    "county_weights": "{\"48337\": 63.53, \"48077\": 36.47}",
+    "county_names_all": "Montague|Clay",
+    "county_fips_all": "48337|48077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

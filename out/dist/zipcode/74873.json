@@ -1,0 +1,20 @@
+{
+    "zip": 74873,
+    "lat": 35.22396,
+    "lng": -96.97975,
+    "city": "Tecumseh",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11033.0,
+    "density": 31.1,
+    "county_fips": 40125,
+    "county_name": "Pottawatomie",
+    "county_weights": "{\"40125\": 100}",
+    "county_names_all": "Pottawatomie",
+    "county_fips_all": "40125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

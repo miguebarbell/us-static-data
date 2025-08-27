@@ -1,0 +1,20 @@
+{
+    "zip": 8226,
+    "lat": 39.26812,
+    "lng": -74.60196,
+    "city": "Ocean City",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11260.0,
+    "density": 643.8,
+    "county_fips": 34009,
+    "county_name": "Cape May",
+    "county_weights": "{\"34009\": 100}",
+    "county_names_all": "Cape May",
+    "county_fips_all": "34009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

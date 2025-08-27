@@ -1,0 +1,20 @@
+{
+    "zip": 86538,
+    "lat": 36.43323,
+    "lng": -109.63752,
+    "city": "Many Farms",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1545.0,
+    "density": 4.3,
+    "county_fips": 4001,
+    "county_name": "Apache",
+    "county_weights": "{\"04001\": 100}",
+    "county_names_all": "Apache",
+    "county_fips_all": "04001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

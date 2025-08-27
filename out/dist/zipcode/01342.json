@@ -1,0 +1,20 @@
+{
+    "zip": 1342,
+    "lat": 42.54384,
+    "lng": -72.6058,
+    "city": "Deerfield",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1313.0,
+    "density": 27.5,
+    "county_fips": 25011,
+    "county_name": "Franklin",
+    "county_weights": "{\"25011\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "25011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

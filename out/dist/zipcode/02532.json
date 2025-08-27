@@ -1,0 +1,20 @@
+{
+    "zip": 2532,
+    "lat": 41.75111,
+    "lng": -70.59713,
+    "city": "Buzzards Bay",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13180.0,
+    "density": 369.1,
+    "county_fips": 25001,
+    "county_name": "Barnstable",
+    "county_weights": "{\"25001\": 89.94, \"25023\": 10.06}",
+    "county_names_all": "Barnstable|Plymouth",
+    "county_fips_all": "25001|25023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

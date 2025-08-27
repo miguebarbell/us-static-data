@@ -1,0 +1,20 @@
+{
+    "zip": 4062,
+    "lat": 43.79798,
+    "lng": -70.40547,
+    "city": "Windham",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19041.0,
+    "density": 157.6,
+    "county_fips": 23005,
+    "county_name": "Cumberland",
+    "county_weights": "{\"23005\": 100}",
+    "county_names_all": "Cumberland",
+    "county_fips_all": "23005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

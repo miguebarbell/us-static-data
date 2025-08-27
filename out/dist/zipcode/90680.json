@@ -1,0 +1,20 @@
+{
+    "zip": 90680,
+    "lat": 33.80115,
+    "lng": -117.99532,
+    "city": "Stanton",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31949.0,
+    "density": 4833.3,
+    "county_fips": 6059,
+    "county_name": "Orange",
+    "county_weights": "{\"06059\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "06059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

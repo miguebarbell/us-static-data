@@ -1,0 +1,20 @@
+{
+    "zip": 54830,
+    "lat": 46.10571,
+    "lng": -92.22305,
+    "city": "Danbury",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3414.0,
+    "density": 3.7,
+    "county_fips": 55013,
+    "county_name": "Burnett",
+    "county_weights": "{\"55013\": 63.81, \"55031\": 36.04, \"55129\": 0.15}",
+    "county_names_all": "Burnett|Douglas|Washburn",
+    "county_fips_all": "55013|55031|55129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

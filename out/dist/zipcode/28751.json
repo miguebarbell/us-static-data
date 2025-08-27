@@ -1,0 +1,20 @@
+{
+    "zip": 28751,
+    "lat": 35.50547,
+    "lng": -83.11955,
+    "city": "Maggie Valley",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4370.0,
+    "density": 36.9,
+    "county_fips": 37087,
+    "county_name": "Haywood",
+    "county_weights": "{\"37087\": 78.29, \"37099\": 21.71}",
+    "county_names_all": "Haywood|Jackson",
+    "county_fips_all": "37087|37099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

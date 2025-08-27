@@ -1,0 +1,20 @@
+{
+    "zip": 27306,
+    "lat": 35.22098,
+    "lng": -79.97685,
+    "city": "Mount Gilead",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5457.0,
+    "density": 11.4,
+    "county_fips": 37123,
+    "county_name": "Montgomery",
+    "county_weights": "{\"37123\": 77.29, \"37153\": 22.71}",
+    "county_names_all": "Montgomery|Richmond",
+    "county_fips_all": "37123|37153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

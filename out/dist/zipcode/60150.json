@@ -1,0 +1,20 @@
+{
+    "zip": 60150,
+    "lat": 41.92106,
+    "lng": -88.88982,
+    "city": "Malta",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2000.0,
+    "density": 13.8,
+    "county_fips": 17037,
+    "county_name": "DeKalb",
+    "county_weights": "{\"17037\": 100}",
+    "county_names_all": "DeKalb",
+    "county_fips_all": "17037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

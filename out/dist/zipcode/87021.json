@@ -1,0 +1,20 @@
+{
+    "zip": 87021,
+    "lat": 35.19673,
+    "lng": -107.88621,
+    "city": "Milan",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3164.0,
+    "density": 121.7,
+    "county_fips": 35006,
+    "county_name": "Cibola",
+    "county_weights": "{\"35006\": 100}",
+    "county_names_all": "Cibola",
+    "county_fips_all": "35006",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

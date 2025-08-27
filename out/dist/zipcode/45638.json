@@ -1,0 +1,20 @@
+{
+    "zip": 45638,
+    "lat": 38.56217,
+    "lng": -82.67607,
+    "city": "Ironton",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19921.0,
+    "density": 100.0,
+    "county_fips": 39087,
+    "county_name": "Lawrence",
+    "county_weights": "{\"39087\": 88.73, \"39145\": 11.27}",
+    "county_names_all": "Lawrence|Scioto",
+    "county_fips_all": "39087|39145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

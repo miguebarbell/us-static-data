@@ -1,0 +1,20 @@
+{
+    "zip": 56156,
+    "lat": 43.66196,
+    "lng": -96.22466,
+    "city": "Luverne",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6398.0,
+    "density": 14.8,
+    "county_fips": 27133,
+    "county_name": "Rock",
+    "county_weights": "{\"27133\": 100}",
+    "county_names_all": "Rock",
+    "county_fips_all": "27133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

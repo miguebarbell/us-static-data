@@ -1,0 +1,20 @@
+{
+    "zip": 95452,
+    "lat": 38.42969,
+    "lng": -122.5362,
+    "city": "Kenwood",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1388.0,
+    "density": 32.4,
+    "county_fips": 6097,
+    "county_name": "Sonoma",
+    "county_weights": "{\"06097\": 98.72, \"06055\": 1.28}",
+    "county_names_all": "Sonoma|Napa",
+    "county_fips_all": "06097|06055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

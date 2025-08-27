@@ -1,0 +1,20 @@
+{
+    "zip": 81044,
+    "lat": 37.90328,
+    "lng": -102.93628,
+    "city": "Hasty",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 134.0,
+    "density": 0.2,
+    "county_fips": 8011,
+    "county_name": "Bent",
+    "county_weights": "{\"08011\": 100}",
+    "county_names_all": "Bent",
+    "county_fips_all": "08011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

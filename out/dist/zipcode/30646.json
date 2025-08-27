@@ -1,0 +1,20 @@
+{
+    "zip": 30646,
+    "lat": 34.08011,
+    "lng": -83.31254,
+    "city": "Hull",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8161.0,
+    "density": 86.6,
+    "county_fips": 13195,
+    "county_name": "Madison",
+    "county_weights": "{\"13195\": 99.15, \"13059\": 0.44, \"13157\": 0.41}",
+    "county_names_all": "Madison|Clarke|Jackson",
+    "county_fips_all": "13195|13059|13157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 36477,
+    "lat": 31.08741,
+    "lng": -86.05407,
+    "city": "Samson",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4363.0,
+    "density": 10.5,
+    "county_fips": 1061,
+    "county_name": "Geneva",
+    "county_weights": "{\"01061\": 89.06, \"01031\": 10.49, \"01039\": 0.45}",
+    "county_names_all": "Geneva|Coffee|Covington",
+    "county_fips_all": "01061|01031|01039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

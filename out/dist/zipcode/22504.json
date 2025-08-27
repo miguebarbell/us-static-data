@@ -1,0 +1,20 @@
+{
+    "zip": 22504,
+    "lat": 37.76346,
+    "lng": -76.72675,
+    "city": "Laneview",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 117.0,
+    "density": 3.6,
+    "county_fips": 51057,
+    "county_name": "Essex",
+    "county_weights": "{\"51057\": 81.31, \"51119\": 18.69}",
+    "county_names_all": "Essex|Middlesex",
+    "county_fips_all": "51057|51119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

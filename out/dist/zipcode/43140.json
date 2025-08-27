@@ -1,0 +1,20 @@
+{
+    "zip": 43140,
+    "lat": 39.88406,
+    "lng": -83.42946,
+    "city": "London",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24162.0,
+    "density": 42.4,
+    "county_fips": 39097,
+    "county_name": "Madison",
+    "county_weights": "{\"39097\": 96.56, \"39049\": 2.21, \"39023\": 1.23}",
+    "county_names_all": "Madison|Franklin|Clark",
+    "county_fips_all": "39097|39049|39023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

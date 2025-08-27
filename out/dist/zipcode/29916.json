@@ -1,0 +1,20 @@
+{
+    "zip": 29916,
+    "lat": 32.72863,
+    "lng": -80.95708,
+    "city": "Early Branch",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1595.0,
+    "density": 9.7,
+    "county_fips": 45049,
+    "county_name": "Hampton",
+    "county_weights": "{\"45049\": 63.06, \"45053\": 36.94}",
+    "county_names_all": "Hampton|Jasper",
+    "county_fips_all": "45049|45053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 30297,
+    "lat": 33.61511,
+    "lng": -84.37145,
+    "city": "Forest Park",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28892.0,
+    "density": 1018.4,
+    "county_fips": 13063,
+    "county_name": "Clayton",
+    "county_weights": "{\"13063\": 100}",
+    "county_names_all": "Clayton",
+    "county_fips_all": "13063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

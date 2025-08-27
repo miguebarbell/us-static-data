@@ -1,0 +1,20 @@
+{
+    "zip": 71419,
+    "lat": 31.80188,
+    "lng": -93.72614,
+    "city": "Converse",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1865.0,
+    "density": 5.1,
+    "county_fips": 22085,
+    "county_name": "Sabine",
+    "county_weights": "{\"22085\": 79.06, \"22031\": 20.94}",
+    "county_names_all": "Sabine|De Soto",
+    "county_fips_all": "22085|22031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

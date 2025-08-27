@@ -1,0 +1,20 @@
+{
+    "zip": 67841,
+    "lat": 37.62997,
+    "lng": -100.22878,
+    "city": "Ensign",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 372.0,
+    "density": 1.3,
+    "county_fips": 20069,
+    "county_name": "Gray",
+    "county_weights": "{\"20069\": 60.85, \"20057\": 39.15}",
+    "county_names_all": "Gray|Ford",
+    "county_fips_all": "20069|20057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

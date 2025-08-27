@@ -1,0 +1,20 @@
+{
+    "zip": 21532,
+    "lat": 39.65559,
+    "lng": -78.96025,
+    "city": "Frostburg",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13123.0,
+    "density": 68.4,
+    "county_fips": 24001,
+    "county_name": "Allegany",
+    "county_weights": "{\"24001\": 54.4, \"24023\": 45.6}",
+    "county_names_all": "Allegany|Garrett",
+    "county_fips_all": "24001|24023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

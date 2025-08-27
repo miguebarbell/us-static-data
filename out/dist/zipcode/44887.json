@@ -1,0 +1,20 @@
+{
+    "zip": 44887,
+    "lat": 40.9205,
+    "lng": -82.788,
+    "city": "Tiro",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1140.0,
+    "density": 14.7,
+    "county_fips": 39033,
+    "county_name": "Crawford",
+    "county_weights": "{\"39033\": 100}",
+    "county_names_all": "Crawford",
+    "county_fips_all": "39033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

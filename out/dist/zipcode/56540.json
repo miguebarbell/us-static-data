@@ -1,0 +1,20 @@
+{
+    "zip": 56540,
+    "lat": 47.54255,
+    "lng": -96.27671,
+    "city": "Fertile",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1838.0,
+    "density": 4.1,
+    "county_fips": 27119,
+    "county_name": "Polk",
+    "county_weights": "{\"27119\": 73.87, \"27107\": 26.13}",
+    "county_names_all": "Polk|Norman",
+    "county_fips_all": "27119|27107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

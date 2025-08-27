@@ -1,0 +1,20 @@
+{
+    "zip": 33538,
+    "lat": 28.84679,
+    "lng": -82.18218,
+    "city": "Lake Panasoffkee",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5748.0,
+    "density": 24.9,
+    "county_fips": 12119,
+    "county_name": "Sumter",
+    "county_weights": "{\"12119\": 100}",
+    "county_names_all": "Sumter",
+    "county_fips_all": "12119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 47670,
+    "lat": 38.34355,
+    "lng": -87.57797,
+    "city": "Princeton",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11638.0,
+    "density": 54.8,
+    "county_fips": 18051,
+    "county_name": "Gibson",
+    "county_weights": "{\"18051\": 100}",
+    "county_names_all": "Gibson",
+    "county_fips_all": "18051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

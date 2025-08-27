@@ -1,0 +1,20 @@
+{
+    "zip": 40313,
+    "lat": 38.13215,
+    "lng": -83.38973,
+    "city": "Clearfield",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2856.0,
+    "density": 39.8,
+    "county_fips": 21205,
+    "county_name": "Rowan",
+    "county_weights": "{\"21205\": 100}",
+    "county_names_all": "Rowan",
+    "county_fips_all": "21205",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

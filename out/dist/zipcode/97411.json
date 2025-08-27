@@ -1,0 +1,20 @@
+{
+    "zip": 97411,
+    "lat": 43.07557,
+    "lng": -124.3624,
+    "city": "Bandon",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7629.0,
+    "density": 22.9,
+    "county_fips": 41011,
+    "county_name": "Coos",
+    "county_weights": "{\"41011\": 100}",
+    "county_names_all": "Coos",
+    "county_fips_all": "41011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

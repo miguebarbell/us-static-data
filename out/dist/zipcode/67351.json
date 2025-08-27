@@ -1,0 +1,20 @@
+{
+    "zip": 67351,
+    "lat": 37.14066,
+    "lng": -95.56698,
+    "city": "Liberty",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 387.0,
+    "density": 3.4,
+    "county_fips": 20125,
+    "county_name": "Montgomery",
+    "county_weights": "{\"20125\": 80.21, \"20099\": 19.79}",
+    "county_names_all": "Montgomery|Labette",
+    "county_fips_all": "20125|20099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

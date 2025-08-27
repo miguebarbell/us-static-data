@@ -1,0 +1,20 @@
+{
+    "zip": 35042,
+    "lat": 32.93297,
+    "lng": -87.12542,
+    "city": "Centreville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5681.0,
+    "density": 11.4,
+    "county_fips": 1007,
+    "county_name": "Bibb",
+    "county_weights": "{\"01007\": 83.0, \"01105\": 17.0}",
+    "county_names_all": "Bibb|Perry",
+    "county_fips_all": "01007|01105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

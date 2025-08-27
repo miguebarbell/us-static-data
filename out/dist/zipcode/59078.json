@@ -1,0 +1,20 @@
+{
+    "zip": 59078,
+    "lat": 46.32585,
+    "lng": -109.5442,
+    "city": "Shawmut",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 125.0,
+    "density": 0.2,
+    "county_fips": 30107,
+    "county_name": "Wheatland",
+    "county_weights": "{\"30107\": 69.81, \"30037\": 22.1, \"30097\": 8.09}",
+    "county_names_all": "Wheatland|Golden Valley|Sweet Grass",
+    "county_fips_all": "30107|30037|30097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

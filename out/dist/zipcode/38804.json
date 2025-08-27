@@ -1,0 +1,20 @@
+{
+    "zip": 38804,
+    "lat": 34.28094,
+    "lng": -88.67246,
+    "city": "Tupelo",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16920.0,
+    "density": 83.2,
+    "county_fips": 28081,
+    "county_name": "Lee",
+    "county_weights": "{\"28081\": 97.71, \"28057\": 2.29}",
+    "county_names_all": "Lee|Itawamba",
+    "county_fips_all": "28081|28057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

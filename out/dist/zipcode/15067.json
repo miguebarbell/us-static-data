@@ -1,0 +1,20 @@
+{
+    "zip": 15067,
+    "lat": 40.20823,
+    "lng": -79.96106,
+    "city": "New Eagle",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2207.0,
+    "density": 492.1,
+    "county_fips": 42125,
+    "county_name": "Washington",
+    "county_weights": "{\"42125\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "42125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

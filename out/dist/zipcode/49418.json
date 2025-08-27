@@ -1,0 +1,20 @@
+{
+    "zip": 49418,
+    "lat": 42.8774,
+    "lng": -85.77226,
+    "city": "Grandville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30907.0,
+    "density": 628.5,
+    "county_fips": 26081,
+    "county_name": "Kent",
+    "county_weights": "{\"26081\": 64.35, \"26139\": 35.65}",
+    "county_names_all": "Kent|Ottawa",
+    "county_fips_all": "26081|26139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

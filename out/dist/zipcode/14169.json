@@ -1,0 +1,20 @@
+{
+    "zip": 14169,
+    "lat": 42.76446,
+    "lng": -78.52938,
+    "city": "Wales Center",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 84.0,
+    "density": 228.3,
+    "county_fips": 36029,
+    "county_name": "Erie",
+    "county_weights": "{\"36029\": 100}",
+    "county_names_all": "Erie",
+    "county_fips_all": "36029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

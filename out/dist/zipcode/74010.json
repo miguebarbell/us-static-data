@@ -1,0 +1,20 @@
+{
+    "zip": 74010,
+    "lat": 35.80945,
+    "lng": -96.36101,
+    "city": "Bristow",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10328.0,
+    "density": 12.4,
+    "county_fips": 40037,
+    "county_name": "Creek",
+    "county_weights": "{\"40037\": 99.15, \"40107\": 0.85}",
+    "county_names_all": "Creek|Okfuskee",
+    "county_fips_all": "40037|40107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

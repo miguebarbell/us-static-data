@@ -1,0 +1,20 @@
+{
+    "zip": 62979,
+    "lat": 37.80813,
+    "lng": -88.2365,
+    "city": "Ridgway",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 932.0,
+    "density": 7.3,
+    "county_fips": 17059,
+    "county_name": "Gallatin",
+    "county_weights": "{\"17059\": 100}",
+    "county_names_all": "Gallatin",
+    "county_fips_all": "17059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

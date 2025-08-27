@@ -1,0 +1,20 @@
+{
+    "zip": 24612,
+    "lat": 37.09728,
+    "lng": -81.84461,
+    "city": "Doran",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 175.0,
+    "density": 62.3,
+    "county_fips": 51185,
+    "county_name": "Tazewell",
+    "county_weights": "{\"51185\": 100}",
+    "county_names_all": "Tazewell",
+    "county_fips_all": "51185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

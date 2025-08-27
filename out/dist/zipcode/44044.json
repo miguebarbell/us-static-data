@@ -1,0 +1,20 @@
+{
+    "zip": 44044,
+    "lat": 41.26779,
+    "lng": -82.04188,
+    "city": "Grafton",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14422.0,
+    "density": 102.9,
+    "county_fips": 39093,
+    "county_name": "Lorain",
+    "county_weights": "{\"39093\": 100}",
+    "county_names_all": "Lorain",
+    "county_fips_all": "39093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

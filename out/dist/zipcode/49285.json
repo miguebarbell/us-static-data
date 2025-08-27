@@ -1,0 +1,20 @@
+{
+    "zip": 49285,
+    "lat": 42.46855,
+    "lng": -84.20752,
+    "city": "Stockbridge",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6120.0,
+    "density": 31.1,
+    "county_fips": 26065,
+    "county_name": "Ingham",
+    "county_weights": "{\"26065\": 80.17, \"26075\": 10.11, \"26093\": 6.36, \"26161\": 3.36}",
+    "county_names_all": "Ingham|Jackson|Livingston|Washtenaw",
+    "county_fips_all": "26065|26075|26093|26161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

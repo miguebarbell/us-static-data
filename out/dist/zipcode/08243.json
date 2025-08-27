@@ -1,0 +1,20 @@
+{
+    "zip": 8243,
+    "lat": 39.15235,
+    "lng": -74.69758,
+    "city": "Sea Isle City",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2079.0,
+    "density": 364.1,
+    "county_fips": 34009,
+    "county_name": "Cape May",
+    "county_weights": "{\"34009\": 100}",
+    "county_names_all": "Cape May",
+    "county_fips_all": "34009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

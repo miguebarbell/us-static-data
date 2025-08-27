@@ -1,0 +1,20 @@
+{
+    "zip": 94542,
+    "lat": 37.6553,
+    "lng": -122.02584,
+    "city": "Hayward",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14729.0,
+    "density": 657.2,
+    "county_fips": 6001,
+    "county_name": "Alameda",
+    "county_weights": "{\"06001\": 100}",
+    "county_names_all": "Alameda",
+    "county_fips_all": "06001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

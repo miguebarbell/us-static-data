@@ -1,0 +1,20 @@
+{
+    "zip": 69358,
+    "lat": 42.07503,
+    "lng": -103.96617,
+    "city": "Morrill",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1976.0,
+    "density": 3.9,
+    "county_fips": 31165,
+    "county_name": "Sioux",
+    "county_weights": "{\"31165\": 71.89, \"31157\": 28.11}",
+    "county_names_all": "Sioux|Scotts Bluff",
+    "county_fips_all": "31165|31157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

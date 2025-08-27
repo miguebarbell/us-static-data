@@ -1,0 +1,20 @@
+{
+    "zip": 95471,
+    "lat": 38.53218,
+    "lng": -122.97362,
+    "city": "Rio Nido",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 604.0,
+    "density": 65.7,
+    "county_fips": 6097,
+    "county_name": "Sonoma",
+    "county_weights": "{\"06097\": 100}",
+    "county_names_all": "Sonoma",
+    "county_fips_all": "06097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

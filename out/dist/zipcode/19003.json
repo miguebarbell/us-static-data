@@ -1,0 +1,20 @@
+{
+    "zip": 19003,
+    "lat": 40.00217,
+    "lng": -75.29841,
+    "city": "Ardmore",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14411.0,
+    "density": 2761.3,
+    "county_fips": 42045,
+    "county_name": "Delaware",
+    "county_weights": "{\"42045\": 53.91, \"42091\": 46.09}",
+    "county_names_all": "Delaware|Montgomery",
+    "county_fips_all": "42045|42091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

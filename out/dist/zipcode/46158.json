@@ -1,0 +1,20 @@
+{
+    "zip": 46158,
+    "lat": 39.58275,
+    "lng": -86.37405,
+    "city": "Mooresville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24622.0,
+    "density": 123.9,
+    "county_fips": 18109,
+    "county_name": "Morgan",
+    "county_weights": "{\"18109\": 88.68, \"18063\": 11.32}",
+    "county_names_all": "Morgan|Hendricks",
+    "county_fips_all": "18109|18063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

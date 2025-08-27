@@ -1,0 +1,20 @@
+{
+    "zip": 38924,
+    "lat": 33.29342,
+    "lng": -90.22392,
+    "city": "Cruger",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 441.0,
+    "density": 1.5,
+    "county_fips": 28051,
+    "county_name": "Holmes",
+    "county_weights": "{\"28051\": 66.48, \"28053\": 15.91, \"28015\": 10.89, \"28083\": 6.72}",
+    "county_names_all": "Holmes|Humphreys|Carroll|Leflore",
+    "county_fips_all": "28051|28053|28015|28083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 80469,
+    "lat": 40.21448,
+    "lng": -106.96797,
+    "city": "Phippsburg",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 407.0,
+    "density": 4.3,
+    "county_fips": 8107,
+    "county_name": "Routt",
+    "county_weights": "{\"08107\": 100}",
+    "county_names_all": "Routt",
+    "county_fips_all": "08107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

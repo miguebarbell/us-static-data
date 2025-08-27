@@ -1,0 +1,20 @@
+{
+    "zip": 71071,
+    "lat": 32.91747,
+    "lng": -93.45099,
+    "city": "Sarepta",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2184.0,
+    "density": 16.0,
+    "county_fips": 22119,
+    "county_name": "Webster",
+    "county_weights": "{\"22119\": 80.74, \"22015\": 19.26}",
+    "county_names_all": "Webster|Bossier",
+    "county_fips_all": "22119|22015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

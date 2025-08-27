@@ -1,0 +1,20 @@
+{
+    "zip": 12589,
+    "lat": 41.6278,
+    "lng": -74.15875,
+    "city": "Wallkill",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19639.0,
+    "density": 127.4,
+    "county_fips": 36111,
+    "county_name": "Ulster",
+    "county_weights": "{\"36111\": 84.68, \"36071\": 15.32}",
+    "county_names_all": "Ulster|Orange",
+    "county_fips_all": "36111|36071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

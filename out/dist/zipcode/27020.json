@@ -1,0 +1,20 @@
+{
+    "zip": 27020,
+    "lat": 36.1047,
+    "lng": -80.81272,
+    "city": "Hamptonville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5854.0,
+    "density": 29.7,
+    "county_fips": 37197,
+    "county_name": "Yadkin",
+    "county_weights": "{\"37197\": 78.34, \"37097\": 13.92, \"37193\": 7.74}",
+    "county_names_all": "Yadkin|Iredell|Wilkes",
+    "county_fips_all": "37197|37097|37193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

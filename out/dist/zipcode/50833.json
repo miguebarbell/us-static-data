@@ -1,0 +1,20 @@
+{
+    "zip": 50833,
+    "lat": 40.66956,
+    "lng": -94.70309,
+    "city": "Bedford",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2085.0,
+    "density": 3.8,
+    "county_fips": 19173,
+    "county_name": "Taylor",
+    "county_weights": "{\"19173\": 100}",
+    "county_names_all": "Taylor",
+    "county_fips_all": "19173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

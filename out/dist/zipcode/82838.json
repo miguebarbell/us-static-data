@@ -1,0 +1,20 @@
+{
+    "zip": 82838,
+    "lat": 44.93793,
+    "lng": -107.4839,
+    "city": "Parkman",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 442.0,
+    "density": 1.1,
+    "county_fips": 56033,
+    "county_name": "Sheridan",
+    "county_weights": "{\"56033\": 100}",
+    "county_names_all": "Sheridan",
+    "county_fips_all": "56033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

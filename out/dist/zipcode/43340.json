@@ -1,0 +1,20 @@
+{
+    "zip": 43340,
+    "lat": 40.53748,
+    "lng": -83.48,
+    "city": "Mount Victory",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2192.0,
+    "density": 17.4,
+    "county_fips": 39065,
+    "county_name": "Hardin",
+    "county_weights": "{\"39065\": 79.95, \"39159\": 20.05}",
+    "county_names_all": "Hardin|Union",
+    "county_fips_all": "39065|39159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

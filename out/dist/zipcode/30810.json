@@ -1,0 +1,20 @@
+{
+    "zip": 30810,
+    "lat": 33.23247,
+    "lng": -82.58849,
+    "city": "Gibson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2312.0,
+    "density": 10.7,
+    "county_fips": 13125,
+    "county_name": "Glascock",
+    "county_weights": "{\"13125\": 90.84, \"13163\": 4.61, \"13301\": 4.55}",
+    "county_names_all": "Glascock|Jefferson|Warren",
+    "county_fips_all": "13125|13163|13301",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

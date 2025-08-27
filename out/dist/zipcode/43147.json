@@ -1,0 +1,20 @@
+{
+    "zip": 43147,
+    "lat": 39.8982,
+    "lng": -82.74227,
+    "city": "Pickerington",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 45929.0,
+    "density": 592.8,
+    "county_fips": 39045,
+    "county_name": "Fairfield",
+    "county_weights": "{\"39045\": 98.44, \"39089\": 0.92, \"39049\": 0.64}",
+    "county_names_all": "Fairfield|Licking|Franklin",
+    "county_fips_all": "39045|39089|39049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

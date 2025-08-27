@@ -1,0 +1,20 @@
+{
+    "zip": 72619,
+    "lat": 36.3781,
+    "lng": -92.58517,
+    "city": "Bull Shoals",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1671.0,
+    "density": 134.2,
+    "county_fips": 5089,
+    "county_name": "Marion",
+    "county_weights": "{\"05089\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "05089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

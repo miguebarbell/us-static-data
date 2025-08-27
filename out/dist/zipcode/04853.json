@@ -1,0 +1,20 @@
+{
+    "zip": 4853,
+    "lat": 44.15172,
+    "lng": -68.86311,
+    "city": "North Haven",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 488.0,
+    "density": 16.6,
+    "county_fips": 23013,
+    "county_name": "Knox",
+    "county_weights": "{\"23013\": 100}",
+    "county_names_all": "Knox",
+    "county_fips_all": "23013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 31820,
+    "lat": 32.57576,
+    "lng": -84.82947,
+    "city": "Midland",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14619.0,
+    "density": 136.7,
+    "county_fips": 13215,
+    "county_name": "Muscogee",
+    "county_weights": "{\"13215\": 60.23, \"13145\": 39.77}",
+    "county_names_all": "Muscogee|Harris",
+    "county_fips_all": "13215|13145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

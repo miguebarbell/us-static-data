@@ -1,0 +1,20 @@
+{
+    "zip": 23120,
+    "lat": 37.40872,
+    "lng": -77.78468,
+    "city": "Moseley",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17240.0,
+    "density": 105.4,
+    "county_fips": 51041,
+    "county_name": "Chesterfield",
+    "county_weights": "{\"51041\": 93.68, \"51145\": 6.32}",
+    "county_names_all": "Chesterfield|Powhatan",
+    "county_fips_all": "51041|51145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

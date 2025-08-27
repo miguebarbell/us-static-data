@@ -1,0 +1,20 @@
+{
+    "zip": 56167,
+    "lat": 43.55082,
+    "lng": -95.40524,
+    "city": "Round Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 615.0,
+    "density": 4.5,
+    "county_fips": 27063,
+    "county_name": "Jackson",
+    "county_weights": "{\"27063\": 79.99, \"27105\": 20.01}",
+    "county_names_all": "Jackson|Nobles",
+    "county_fips_all": "27063|27105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 28575,
+    "lat": 34.68833,
+    "lng": -76.88129,
+    "city": "Salter Path",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 171.0,
+    "density": 276.4,
+    "county_fips": 37031,
+    "county_name": "Carteret",
+    "county_weights": "{\"37031\": 100}",
+    "county_names_all": "Carteret",
+    "county_fips_all": "37031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

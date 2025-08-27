@@ -1,0 +1,20 @@
+{
+    "zip": 38454,
+    "lat": 35.72334,
+    "lng": -87.35538,
+    "city": "Duck River",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 888.0,
+    "density": 5.9,
+    "county_fips": 47081,
+    "county_name": "Hickman",
+    "county_weights": "{\"47081\": 100}",
+    "county_names_all": "Hickman",
+    "county_fips_all": "47081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

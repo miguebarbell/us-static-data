@@ -1,0 +1,20 @@
+{
+    "zip": 44004,
+    "lat": 41.85255,
+    "lng": -80.78738,
+    "city": "Ashtabula",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31076.0,
+    "density": 162.0,
+    "county_fips": 39007,
+    "county_name": "Ashtabula",
+    "county_weights": "{\"39007\": 100}",
+    "county_names_all": "Ashtabula",
+    "county_fips_all": "39007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

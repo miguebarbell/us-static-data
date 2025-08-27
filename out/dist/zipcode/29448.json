@@ -1,0 +1,20 @@
+{
+    "zip": 29448,
+    "lat": 33.24062,
+    "lng": -80.44639,
+    "city": "Harleyville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2224.0,
+    "density": 14.4,
+    "county_fips": 45035,
+    "county_name": "Dorchester",
+    "county_weights": "{\"45035\": 100}",
+    "county_names_all": "Dorchester",
+    "county_fips_all": "45035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

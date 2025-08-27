@@ -1,0 +1,20 @@
+{
+    "zip": 62702,
+    "lat": 39.82377,
+    "lng": -89.64286,
+    "city": "Springfield",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31251.0,
+    "density": 785.3,
+    "county_fips": 17167,
+    "county_name": "Sangamon",
+    "county_weights": "{\"17167\": 100}",
+    "county_names_all": "Sangamon",
+    "county_fips_all": "17167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

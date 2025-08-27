@@ -1,0 +1,20 @@
+{
+    "zip": 17832,
+    "lat": 40.80554,
+    "lng": -76.45499,
+    "city": "Marion Heights",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 694.0,
+    "density": 342.2,
+    "county_fips": 42097,
+    "county_name": "Northumberland",
+    "county_weights": "{\"42097\": 100}",
+    "county_names_all": "Northumberland",
+    "county_fips_all": "42097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

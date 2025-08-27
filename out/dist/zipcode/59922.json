@@ -1,0 +1,20 @@
+{
+    "zip": 59922,
+    "lat": 47.99962,
+    "lng": -114.22227,
+    "city": "Lakeside",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2617.0,
+    "density": 26.4,
+    "county_fips": 30029,
+    "county_name": "Flathead",
+    "county_weights": "{\"30029\": 93.2, \"30047\": 6.8}",
+    "county_names_all": "Flathead|Lake",
+    "county_fips_all": "30029|30047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

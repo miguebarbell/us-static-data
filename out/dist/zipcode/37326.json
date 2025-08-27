@@ -1,0 +1,20 @@
+{
+    "zip": 37326,
+    "lat": 35.04023,
+    "lng": -84.38329,
+    "city": "Ducktown",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 423.0,
+    "density": 92.1,
+    "county_fips": 47139,
+    "county_name": "Polk",
+    "county_weights": "{\"47139\": 100}",
+    "county_names_all": "Polk",
+    "county_fips_all": "47139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

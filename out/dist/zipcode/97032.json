@@ -1,0 +1,20 @@
+{
+    "zip": 97032,
+    "lat": 45.17949,
+    "lng": -122.78559,
+    "city": "Hubbard",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4810.0,
+    "density": 103.8,
+    "county_fips": 41047,
+    "county_name": "Marion",
+    "county_weights": "{\"41047\": 65.21, \"41005\": 34.79}",
+    "county_names_all": "Marion|Clackamas",
+    "county_fips_all": "41047|41005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

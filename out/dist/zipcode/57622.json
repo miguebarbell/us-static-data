@@ -1,0 +1,20 @@
+{
+    "zip": 57622,
+    "lat": 44.65177,
+    "lng": -101.54572,
+    "city": "Cherry Creek",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 185.0,
+    "density": 0.8,
+    "county_fips": 46137,
+    "county_name": "Ziebach",
+    "county_weights": "{\"46137\": 100}",
+    "county_names_all": "Ziebach",
+    "county_fips_all": "46137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

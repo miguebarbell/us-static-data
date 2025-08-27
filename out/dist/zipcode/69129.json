@@ -1,0 +1,20 @@
+{
+    "zip": 69129,
+    "lat": 41.14089,
+    "lng": -102.37823,
+    "city": "Chappell",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1241.0,
+    "density": 1.4,
+    "county_fips": 31049,
+    "county_name": "Deuel",
+    "county_weights": "{\"31049\": 80.38, \"31069\": 19.62}",
+    "county_names_all": "Deuel|Garden",
+    "county_fips_all": "31049|31069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

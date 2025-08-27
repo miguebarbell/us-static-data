@@ -1,0 +1,20 @@
+{
+    "zip": 34714,
+    "lat": 28.40406,
+    "lng": -81.80132,
+    "city": "Clermont",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26826.0,
+    "density": 83.1,
+    "county_fips": 12069,
+    "county_name": "Lake",
+    "county_weights": "{\"12069\": 99.61, \"12105\": 0.39}",
+    "county_names_all": "Lake|Polk",
+    "county_fips_all": "12069|12105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 4677,
+    "lat": 44.49016,
+    "lng": -68.17945,
+    "city": "Sorrento",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 322.0,
+    "density": 31.1,
+    "county_fips": 23009,
+    "county_name": "Hancock",
+    "county_weights": "{\"23009\": 100}",
+    "county_names_all": "Hancock",
+    "county_fips_all": "23009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

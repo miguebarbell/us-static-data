@@ -1,0 +1,20 @@
+{
+    "zip": 42371,
+    "lat": 37.4978,
+    "lng": -87.29362,
+    "city": "Rumsey",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 356.0,
+    "density": 3.6,
+    "county_fips": 21149,
+    "county_name": "McLean",
+    "county_weights": "{\"21149\": 100}",
+    "county_names_all": "McLean",
+    "county_fips_all": "21149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

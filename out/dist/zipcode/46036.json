@@ -1,0 +1,20 @@
+{
+    "zip": 46036,
+    "lat": 40.29689,
+    "lng": -85.83289,
+    "city": "Elwood",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11211.0,
+    "density": 53.9,
+    "county_fips": 18095,
+    "county_name": "Madison",
+    "county_weights": "{\"18095\": 73.0, \"18159\": 25.27, \"18053\": 1.73}",
+    "county_names_all": "Madison|Tipton|Grant",
+    "county_fips_all": "18095|18159|18053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

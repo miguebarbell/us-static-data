@@ -1,0 +1,20 @@
+{
+    "zip": 46045,
+    "lat": 40.2898,
+    "lng": -86.14832,
+    "city": "Goldsmith",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 156.0,
+    "density": 798.6,
+    "county_fips": 18159,
+    "county_name": "Tipton",
+    "county_weights": "{\"18159\": 100}",
+    "county_names_all": "Tipton",
+    "county_fips_all": "18159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

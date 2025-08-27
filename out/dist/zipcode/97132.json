@@ -1,0 +1,20 @@
+{
+    "zip": 97132,
+    "lat": 45.32272,
+    "lng": -122.98854,
+    "city": "Newberg",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31715.0,
+    "density": 195.5,
+    "county_fips": 41071,
+    "county_name": "Yamhill",
+    "county_weights": "{\"41071\": 92.37, \"41067\": 6.4, \"41005\": 1.23}",
+    "county_names_all": "Yamhill|Washington|Clackamas",
+    "county_fips_all": "41071|41067|41005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

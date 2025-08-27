@@ -1,0 +1,20 @@
+{
+    "zip": 18330,
+    "lat": 40.96505,
+    "lng": -75.45285,
+    "city": "Effort",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8586.0,
+    "density": 229.2,
+    "county_fips": 42089,
+    "county_name": "Monroe",
+    "county_weights": "{\"42089\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "42089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

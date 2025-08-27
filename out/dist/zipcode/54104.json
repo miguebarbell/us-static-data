@@ -1,0 +1,20 @@
+{
+    "zip": 54104,
+    "lat": 45.44018,
+    "lng": -88.26518,
+    "city": "Athelstane",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1003.0,
+    "density": 2.1,
+    "county_fips": 55075,
+    "county_name": "Marinette",
+    "county_weights": "{\"55075\": 99.17, \"55041\": 0.83}",
+    "county_names_all": "Marinette|Forest",
+    "county_fips_all": "55075|55041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

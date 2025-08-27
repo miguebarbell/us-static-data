@@ -1,0 +1,20 @@
+{
+    "zip": 73529,
+    "lat": 34.34146,
+    "lng": -97.94619,
+    "city": "Comanche",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4757.0,
+    "density": 7.7,
+    "county_fips": 40137,
+    "county_name": "Stephens",
+    "county_weights": "{\"40137\": 74.86, \"40067\": 23.47, \"40033\": 1.67}",
+    "county_names_all": "Stephens|Jefferson|Cotton",
+    "county_fips_all": "40137|40067|40033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

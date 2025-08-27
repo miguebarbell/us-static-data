@@ -1,0 +1,20 @@
+{
+    "zip": 48874,
+    "lat": 43.18644,
+    "lng": -84.59498,
+    "city": "Pompeii",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 160.0,
+    "density": 107.3,
+    "county_fips": 26057,
+    "county_name": "Gratiot",
+    "county_weights": "{\"26057\": 100}",
+    "county_names_all": "Gratiot",
+    "county_fips_all": "26057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

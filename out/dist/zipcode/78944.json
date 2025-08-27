@@ -1,0 +1,20 @@
+{
+    "zip": 78944,
+    "lat": 30.00401,
+    "lng": -96.48945,
+    "city": "Industry",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 672.0,
+    "density": 17.1,
+    "county_fips": 48015,
+    "county_name": "Austin",
+    "county_weights": "{\"48015\": 100}",
+    "county_names_all": "Austin",
+    "county_fips_all": "48015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

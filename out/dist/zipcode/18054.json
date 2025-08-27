@@ -1,0 +1,20 @@
+{
+    "zip": 18054,
+    "lat": 40.35321,
+    "lng": -75.43824,
+    "city": "Green Lane",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4714.0,
+    "density": 107.4,
+    "county_fips": 42091,
+    "county_name": "Montgomery",
+    "county_weights": "{\"42091\": 80.27, \"42017\": 19.73}",
+    "county_names_all": "Montgomery|Bucks",
+    "county_fips_all": "42091|42017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

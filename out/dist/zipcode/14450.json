@@ -1,0 +1,20 @@
+{
+    "zip": 14450,
+    "lat": 43.0921,
+    "lng": -77.41623,
+    "city": "Fairport",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43063.0,
+    "density": 519.0,
+    "county_fips": 36055,
+    "county_name": "Monroe",
+    "county_weights": "{\"36055\": 97.83, \"36117\": 2.17}",
+    "county_names_all": "Monroe|Wayne",
+    "county_fips_all": "36055|36117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 2896,
+    "lat": 41.97285,
+    "lng": -71.55027,
+    "city": "North Smithfield",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11683.0,
+    "density": 195.9,
+    "county_fips": 44007,
+    "county_name": "Providence",
+    "county_weights": "{\"44007\": 100}",
+    "county_names_all": "Providence",
+    "county_fips_all": "44007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

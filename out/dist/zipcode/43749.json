@@ -1,0 +1,20 @@
+{
+    "zip": 43749,
+    "lat": 40.15932,
+    "lng": -81.56411,
+    "city": "Kimbolton",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2177.0,
+    "density": 7.9,
+    "county_fips": 39059,
+    "county_name": "Guernsey",
+    "county_weights": "{\"39059\": 86.99, \"39031\": 12.62, \"39157\": 0.39}",
+    "county_names_all": "Guernsey|Coshocton|Tuscarawas",
+    "county_fips_all": "39059|39031|39157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 35469,
+    "lat": 33.01447,
+    "lng": -87.80578,
+    "city": "Knoxville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 365.0,
+    "density": 4.1,
+    "county_fips": 1063,
+    "county_name": "Greene",
+    "county_weights": "{\"01063\": 79.51, \"01125\": 20.49}",
+    "county_names_all": "Greene|Tuscaloosa",
+    "county_fips_all": "01063|01125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

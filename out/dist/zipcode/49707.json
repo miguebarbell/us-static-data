@@ -1,0 +1,20 @@
+{
+    "zip": 49707,
+    "lat": 45.09375,
+    "lng": -83.50186,
+    "city": "Alpena",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22050.0,
+    "density": 39.5,
+    "county_fips": 26007,
+    "county_name": "Alpena",
+    "county_weights": "{\"26007\": 96.16, \"26141\": 3.84}",
+    "county_names_all": "Alpena|Presque Isle",
+    "county_fips_all": "26007|26141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

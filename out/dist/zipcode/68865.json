@@ -1,0 +1,20 @@
+{
+    "zip": 68865,
+    "lat": 40.89337,
+    "lng": -98.187,
+    "city": "Phillips",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1050.0,
+    "density": 6.7,
+    "county_fips": 31081,
+    "county_name": "Hamilton",
+    "county_weights": "{\"31081\": 100}",
+    "county_names_all": "Hamilton",
+    "county_fips_all": "31081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

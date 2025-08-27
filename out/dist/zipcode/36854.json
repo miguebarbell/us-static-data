@@ -1,0 +1,20 @@
+{
+    "zip": 36854,
+    "lat": 32.75257,
+    "lng": -85.18484,
+    "city": "Valley",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15913.0,
+    "density": 101.6,
+    "county_fips": 1017,
+    "county_name": "Chambers",
+    "county_weights": "{\"01017\": 56.35, \"01081\": 43.65}",
+    "county_names_all": "Chambers|Lee",
+    "county_fips_all": "01017|01081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

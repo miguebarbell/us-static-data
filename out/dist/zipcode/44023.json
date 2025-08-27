@@ -1,0 +1,20 @@
+{
+    "zip": 44023,
+    "lat": 41.38732,
+    "lng": -81.28858,
+    "city": "Chagrin Falls",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18905.0,
+    "density": 141.4,
+    "county_fips": 39055,
+    "county_name": "Geauga",
+    "county_weights": "{\"39055\": 100}",
+    "county_names_all": "Geauga",
+    "county_fips_all": "39055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 57212,
+    "lat": 44.38111,
+    "lng": -97.14344,
+    "city": "Arlington",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1880.0,
+    "density": 3.2,
+    "county_fips": 46077,
+    "county_name": "Kingsbury",
+    "county_weights": "{\"46077\": 53.94, \"46011\": 41.71, \"46057\": 3.54, \"46079\": 0.81}",
+    "county_names_all": "Kingsbury|Brookings|Hamlin|Lake",
+    "county_fips_all": "46077|46011|46057|46079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

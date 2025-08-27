@@ -1,0 +1,20 @@
+{
+    "zip": 38760,
+    "lat": 33.4535,
+    "lng": -90.99394,
+    "city": "Metcalfe",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1004.0,
+    "density": 237.3,
+    "county_fips": 28151,
+    "county_name": "Washington",
+    "county_weights": "{\"28151\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "28151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

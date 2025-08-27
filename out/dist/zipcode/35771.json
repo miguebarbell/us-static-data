@@ -1,0 +1,20 @@
+{
+    "zip": 35771,
+    "lat": 34.53635,
+    "lng": -85.99843,
+    "city": "Section",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3113.0,
+    "density": 19.3,
+    "county_fips": 1071,
+    "county_name": "Jackson",
+    "county_weights": "{\"01071\": 96.26, \"01049\": 3.74}",
+    "county_names_all": "Jackson|DeKalb",
+    "county_fips_all": "01071|01049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

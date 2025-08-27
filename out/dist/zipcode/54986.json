@@ -1,0 +1,20 @@
+{
+    "zip": 54986,
+    "lat": 44.11981,
+    "lng": -88.75127,
+    "city": "Winneconne",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5339.0,
+    "density": 71.0,
+    "county_fips": 55139,
+    "county_name": "Winnebago",
+    "county_weights": "{\"55139\": 99.19, \"55137\": 0.81}",
+    "county_names_all": "Winnebago|Waushara",
+    "county_fips_all": "55139|55137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

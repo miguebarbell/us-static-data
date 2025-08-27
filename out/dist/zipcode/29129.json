@@ -1,0 +1,20 @@
+{
+    "zip": 29129,
+    "lat": 33.79236,
+    "lng": -81.66823,
+    "city": "Ridge Spring",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5329.0,
+    "density": 24.6,
+    "county_fips": 45003,
+    "county_name": "Aiken",
+    "county_weights": "{\"45003\": 55.0, \"45081\": 32.8, \"45037\": 12.2}",
+    "county_names_all": "Aiken|Saluda|Edgefield",
+    "county_fips_all": "45003|45081|45037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

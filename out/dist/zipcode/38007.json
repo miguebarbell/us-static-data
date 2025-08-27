@@ -1,0 +1,20 @@
+{
+    "zip": 38007,
+    "lat": 36.16422,
+    "lng": -89.43925,
+    "city": "Bogota",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 47045,
+    "county_name": "Dyer",
+    "county_weights": "{\"47045\": 100}",
+    "county_names_all": "Dyer",
+    "county_fips_all": "47045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

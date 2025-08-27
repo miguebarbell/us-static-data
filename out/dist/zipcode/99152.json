@@ -1,0 +1,20 @@
+{
+    "zip": 99152,
+    "lat": 48.85066,
+    "lng": -117.39748,
+    "city": "Metaline",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 139.0,
+    "density": 12.1,
+    "county_fips": 53051,
+    "county_name": "Pend Oreille",
+    "county_weights": "{\"53051\": 100}",
+    "county_names_all": "Pend Oreille",
+    "county_fips_all": "53051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

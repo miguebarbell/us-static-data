@@ -1,0 +1,20 @@
+{
+    "zip": 26534,
+    "lat": 39.64748,
+    "lng": -79.99733,
+    "city": "Granville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 831.0,
+    "density": 251.9,
+    "county_fips": 54061,
+    "county_name": "Monongalia",
+    "county_weights": "{\"54061\": 100}",
+    "county_names_all": "Monongalia",
+    "county_fips_all": "54061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

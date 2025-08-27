@@ -1,0 +1,20 @@
+{
+    "zip": 47374,
+    "lat": 39.83376,
+    "lng": -84.88997,
+    "city": "Richmond",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 45186.0,
+    "density": 145.6,
+    "county_fips": 18177,
+    "county_name": "Wayne",
+    "county_weights": "{\"18177\": 98.86, \"18161\": 1.14}",
+    "county_names_all": "Wayne|Union",
+    "county_fips_all": "18177|18161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

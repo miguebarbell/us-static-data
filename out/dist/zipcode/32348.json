@@ -1,0 +1,20 @@
+{
+    "zip": 32348,
+    "lat": 29.94808,
+    "lng": -83.56762,
+    "city": "Perry",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12498.0,
+    "density": 15.0,
+    "county_fips": 12123,
+    "county_name": "Taylor",
+    "county_weights": "{\"12123\": 100}",
+    "county_names_all": "Taylor",
+    "county_fips_all": "12123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

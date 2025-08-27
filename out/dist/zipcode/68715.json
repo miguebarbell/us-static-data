@@ -1,0 +1,20 @@
+{
+    "zip": 68715,
+    "lat": 41.97003,
+    "lng": -97.60883,
+    "city": "Battle Creek",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1892.0,
+    "density": 14.2,
+    "county_fips": 31119,
+    "county_name": "Madison",
+    "county_weights": "{\"31119\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "31119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

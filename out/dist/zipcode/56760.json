@@ -1,0 +1,20 @@
+{
+    "zip": 56760,
+    "lat": 48.24037,
+    "lng": -96.44586,
+    "city": "Viking",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 412.0,
+    "density": 1.9,
+    "county_fips": 27089,
+    "county_name": "Marshall",
+    "county_weights": "{\"27089\": 100}",
+    "county_names_all": "Marshall",
+    "county_fips_all": "27089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

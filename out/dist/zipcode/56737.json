@@ -1,0 +1,20 @@
+{
+    "zip": 56737,
+    "lat": 48.41144,
+    "lng": -96.01081,
+    "city": "Middle River",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 759.0,
+    "density": 1.2,
+    "county_fips": 27089,
+    "county_name": "Marshall",
+    "county_weights": "{\"27089\": 100}",
+    "county_names_all": "Marshall",
+    "county_fips_all": "27089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

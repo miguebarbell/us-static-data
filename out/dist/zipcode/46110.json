@@ -1,0 +1,20 @@
+{
+    "zip": 46110,
+    "lat": 39.56021,
+    "lng": -85.91333,
+    "city": "Boggstown",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 942.0,
+    "density": 24.7,
+    "county_fips": 18145,
+    "county_name": "Shelby",
+    "county_weights": "{\"18145\": 100}",
+    "county_names_all": "Shelby",
+    "county_fips_all": "18145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

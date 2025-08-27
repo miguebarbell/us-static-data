@@ -1,0 +1,20 @@
+{
+    "zip": 54011,
+    "lat": 44.71648,
+    "lng": -92.46279,
+    "city": "Ellsworth",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6910.0,
+    "density": 25.6,
+    "county_fips": 55093,
+    "county_name": "Pierce",
+    "county_weights": "{\"55093\": 100}",
+    "county_names_all": "Pierce",
+    "county_fips_all": "55093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

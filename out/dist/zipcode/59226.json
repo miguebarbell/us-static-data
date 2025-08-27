@@ -1,0 +1,20 @@
+{
+    "zip": 59226,
+    "lat": 48.34283,
+    "lng": -104.51545,
+    "city": "Froid",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 655.0,
+    "density": 0.8,
+    "county_fips": 30085,
+    "county_name": "Roosevelt",
+    "county_weights": "{\"30085\": 86.95, \"30091\": 13.05}",
+    "county_names_all": "Roosevelt|Sheridan",
+    "county_fips_all": "30085|30091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

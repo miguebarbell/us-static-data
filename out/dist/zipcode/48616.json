@@ -1,0 +1,20 @@
+{
+    "zip": 48616,
+    "lat": 43.19336,
+    "lng": -84.11311,
+    "city": "Chesaning",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7702.0,
+    "density": 36.7,
+    "county_fips": 26145,
+    "county_name": "Saginaw",
+    "county_weights": "{\"26145\": 98.32, \"26155\": 1.68}",
+    "county_names_all": "Saginaw|Shiawassee",
+    "county_fips_all": "26145|26155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

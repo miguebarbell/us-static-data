@@ -1,0 +1,20 @@
+{
+    "zip": 30019,
+    "lat": 33.97642,
+    "lng": -83.88252,
+    "city": "Dacula",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 47887.0,
+    "density": 394.5,
+    "county_fips": 13135,
+    "county_name": "Gwinnett",
+    "county_weights": "{\"13135\": 96.05, \"13297\": 3.95}",
+    "county_names_all": "Gwinnett|Walton",
+    "county_fips_all": "13135|13297",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

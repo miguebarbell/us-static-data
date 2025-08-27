@@ -1,0 +1,20 @@
+{
+    "zip": 65232,
+    "lat": 39.15901,
+    "lng": -91.75516,
+    "city": "Benton City",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 269.0,
+    "density": 4.4,
+    "county_fips": 29007,
+    "county_name": "Audrain",
+    "county_weights": "{\"29007\": 100}",
+    "county_names_all": "Audrain",
+    "county_fips_all": "29007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

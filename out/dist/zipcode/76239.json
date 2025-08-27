@@ -1,0 +1,20 @@
+{
+    "zip": 76239,
+    "lat": 33.524,
+    "lng": -97.57033,
+    "city": "Forestburg",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1201.0,
+    "density": 3.8,
+    "county_fips": 48337,
+    "county_name": "Montague",
+    "county_weights": "{\"48337\": 88.05, \"48097\": 11.95}",
+    "county_names_all": "Montague|Cooke",
+    "county_fips_all": "48337|48097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

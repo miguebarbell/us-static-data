@@ -1,0 +1,20 @@
+{
+    "zip": 76666,
+    "lat": 32.04653,
+    "lng": -96.89178,
+    "city": "Mertens",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 245.0,
+    "density": 3.4,
+    "county_fips": 48217,
+    "county_name": "Hill",
+    "county_weights": "{\"48217\": 63.16, \"48349\": 36.84}",
+    "county_names_all": "Hill|Navarro",
+    "county_fips_all": "48217|48349",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

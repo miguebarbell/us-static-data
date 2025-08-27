@@ -1,0 +1,20 @@
+{
+    "zip": 61957,
+    "lat": 39.4397,
+    "lng": -88.60495,
+    "city": "Windsor",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1784.0,
+    "density": 8.4,
+    "county_fips": 17173,
+    "county_name": "Shelby",
+    "county_weights": "{\"17173\": 87.66, \"17139\": 12.34}",
+    "county_names_all": "Shelby|Moultrie",
+    "county_fips_all": "17173|17139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

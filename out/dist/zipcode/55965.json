@@ -1,0 +1,20 @@
+{
+    "zip": 55965,
+    "lat": 43.62913,
+    "lng": -92.13282,
+    "city": "Preston",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2253.0,
+    "density": 8.0,
+    "county_fips": 27045,
+    "county_name": "Fillmore",
+    "county_weights": "{\"27045\": 100}",
+    "county_names_all": "Fillmore",
+    "county_fips_all": "27045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

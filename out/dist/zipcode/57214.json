@@ -1,0 +1,20 @@
+{
+    "zip": 57214,
+    "lat": 44.47764,
+    "lng": -97.19575,
+    "city": "Badger",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 171.0,
+    "density": 11.8,
+    "county_fips": 46077,
+    "county_name": "Kingsbury",
+    "county_weights": "{\"46077\": 100}",
+    "county_names_all": "Kingsbury",
+    "county_fips_all": "46077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

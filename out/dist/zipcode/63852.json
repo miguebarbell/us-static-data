@@ -1,0 +1,20 @@
+{
+    "zip": 63852,
+    "lat": 36.36748,
+    "lng": -90.01435,
+    "city": "Holcomb",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1261.0,
+    "density": 10.0,
+    "county_fips": 29069,
+    "county_name": "Dunklin",
+    "county_weights": "{\"29069\": 86.85, \"29155\": 13.15}",
+    "county_names_all": "Dunklin|Pemiscot",
+    "county_fips_all": "29069|29155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

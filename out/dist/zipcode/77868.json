@@ -1,0 +1,20 @@
+{
+    "zip": 77868,
+    "lat": 30.36954,
+    "lng": -96.05815,
+    "city": "Navasota",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18863.0,
+    "density": 26.2,
+    "county_fips": 48185,
+    "county_name": "Grimes",
+    "county_weights": "{\"48185\": 70.12, \"48041\": 28.41, \"48477\": 0.78, \"48473\": 0.69}",
+    "county_names_all": "Grimes|Brazos|Washington|Waller",
+    "county_fips_all": "48185|48041|48477|48473",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

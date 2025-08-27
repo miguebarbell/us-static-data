@@ -1,0 +1,20 @@
+{
+    "zip": 44849,
+    "lat": 40.80863,
+    "lng": -83.13186,
+    "city": "Nevada",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2177.0,
+    "density": 16.7,
+    "county_fips": 39175,
+    "county_name": "Wyandot",
+    "county_weights": "{\"39175\": 73.19, \"39033\": 23.53, \"39101\": 3.28}",
+    "county_names_all": "Wyandot|Crawford|Marion",
+    "county_fips_all": "39175|39033|39101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

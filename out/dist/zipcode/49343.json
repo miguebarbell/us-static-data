@@ -1,0 +1,20 @@
+{
+    "zip": 49343,
+    "lat": 43.29579,
+    "lng": -85.53115,
+    "city": "Sand Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5445.0,
+    "density": 38.0,
+    "county_fips": 26081,
+    "county_name": "Kent",
+    "county_weights": "{\"26081\": 52.9, \"26123\": 36.93, \"26117\": 10.17}",
+    "county_names_all": "Kent|Newaygo|Montcalm",
+    "county_fips_all": "26081|26123|26117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

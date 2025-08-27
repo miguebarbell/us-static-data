@@ -1,0 +1,20 @@
+{
+    "zip": 97480,
+    "lat": 44.1303,
+    "lng": -123.83213,
+    "city": "Swisshome",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 325.0,
+    "density": 1.9,
+    "county_fips": 41039,
+    "county_name": "Lane",
+    "county_weights": "{\"41039\": 100}",
+    "county_names_all": "Lane",
+    "county_fips_all": "41039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

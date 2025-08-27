@@ -1,0 +1,20 @@
+{
+    "zip": 55375,
+    "lat": 44.89475,
+    "lng": -93.73129,
+    "city": "Saint Bonifacius",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4285.0,
+    "density": 321.6,
+    "county_fips": 27053,
+    "county_name": "Hennepin",
+    "county_weights": "{\"27053\": 62.04, \"27019\": 37.96}",
+    "county_names_all": "Hennepin|Carver",
+    "county_fips_all": "27053|27019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

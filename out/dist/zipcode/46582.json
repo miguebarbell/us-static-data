@@ -1,0 +1,20 @@
+{
+    "zip": 46582,
+    "lat": 41.28323,
+    "lng": -85.85235,
+    "city": "Warsaw",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14490.0,
+    "density": 97.1,
+    "county_fips": 18085,
+    "county_name": "Kosciusko",
+    "county_weights": "{\"18085\": 100}",
+    "county_names_all": "Kosciusko",
+    "county_fips_all": "18085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

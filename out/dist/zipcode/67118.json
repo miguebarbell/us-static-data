@@ -1,0 +1,20 @@
+{
+    "zip": 67118,
+    "lat": 37.47829,
+    "lng": -97.8605,
+    "city": "Norwich",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 856.0,
+    "density": 3.8,
+    "county_fips": 20095,
+    "county_name": "Kingman",
+    "county_weights": "{\"20095\": 90.38, \"20173\": 5.55, \"20077\": 2.24, \"20191\": 1.83}",
+    "county_names_all": "Kingman|Sedgwick|Harper|Sumner",
+    "county_fips_all": "20095|20173|20077|20191",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

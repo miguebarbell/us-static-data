@@ -1,0 +1,20 @@
+{
+    "zip": 15322,
+    "lat": 39.97655,
+    "lng": -80.0488,
+    "city": "Clarksville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1656.0,
+    "density": 42.6,
+    "county_fips": 42059,
+    "county_name": "Greene",
+    "county_weights": "{\"42059\": 80.47, \"42125\": 19.53}",
+    "county_names_all": "Greene|Washington",
+    "county_fips_all": "42059|42125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

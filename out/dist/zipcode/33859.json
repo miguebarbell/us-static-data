@@ -1,0 +1,20 @@
+{
+    "zip": 33859,
+    "lat": 27.88428,
+    "lng": -81.63106,
+    "city": "Lake Wales",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10827.0,
+    "density": 92.0,
+    "county_fips": 12105,
+    "county_name": "Polk",
+    "county_weights": "{\"12105\": 100}",
+    "county_names_all": "Polk",
+    "county_fips_all": "12105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

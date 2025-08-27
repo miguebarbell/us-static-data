@@ -1,0 +1,20 @@
+{
+    "zip": 76682,
+    "lat": 31.45235,
+    "lng": -96.90825,
+    "city": "Riesel",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3559.0,
+    "density": 11.1,
+    "county_fips": 48145,
+    "county_name": "Falls",
+    "county_weights": "{\"48145\": 60.23, \"48309\": 39.77}",
+    "county_names_all": "Falls|McLennan",
+    "county_fips_all": "48145|48309",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

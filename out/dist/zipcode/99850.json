@@ -1,0 +1,20 @@
+{
+    "zip": 99850,
+    "lat": 58.48821,
+    "lng": -135.48432,
+    "city": "Juneau",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 2100,
+    "county_name": "Haines",
+    "county_weights": "{\"02100\": 100}",
+    "county_names_all": "Haines",
+    "county_fips_all": "02100",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Juneau"
+}

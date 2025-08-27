@@ -1,0 +1,20 @@
+{
+    "zip": 78938,
+    "lat": 29.82757,
+    "lng": -96.7041,
+    "city": "Ellinger",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 245.0,
+    "density": 12.1,
+    "county_fips": 48149,
+    "county_name": "Fayette",
+    "county_weights": "{\"48149\": 100}",
+    "county_names_all": "Fayette",
+    "county_fips_all": "48149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

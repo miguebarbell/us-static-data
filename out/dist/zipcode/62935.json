@@ -1,0 +1,20 @@
+{
+    "zip": 62935,
+    "lat": 37.84281,
+    "lng": -88.63194,
+    "city": "Galatia",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2246.0,
+    "density": 14.0,
+    "county_fips": 17165,
+    "county_name": "Saline",
+    "county_weights": "{\"17165\": 91.47, \"17065\": 7.74, \"17199\": 0.79}",
+    "county_names_all": "Saline|Hamilton|Williamson",
+    "county_fips_all": "17165|17065|17199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

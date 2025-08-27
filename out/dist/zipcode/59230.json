@@ -1,0 +1,20 @@
+{
+    "zip": 59230,
+    "lat": 48.09992,
+    "lng": -106.80196,
+    "city": "Glasgow",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4515.0,
+    "density": 1.2,
+    "county_fips": 30105,
+    "county_name": "Valley",
+    "county_weights": "{\"30105\": 100}",
+    "county_names_all": "Valley",
+    "county_fips_all": "30105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

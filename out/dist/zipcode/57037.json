@@ -1,0 +1,20 @@
+{
+    "zip": 57037,
+    "lat": 43.10146,
+    "lng": -97.25318,
+    "city": "Irene",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 908.0,
+    "density": 3.4,
+    "county_fips": 46135,
+    "county_name": "Yankton",
+    "county_weights": "{\"46135\": 82.13, \"46125\": 11.07, \"46027\": 6.8}",
+    "county_names_all": "Yankton|Turner|Clay",
+    "county_fips_all": "46135|46125|46027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

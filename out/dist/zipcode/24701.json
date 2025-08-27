@@ -1,0 +1,20 @@
+{
+    "zip": 24701,
+    "lat": 37.29929,
+    "lng": -81.2065,
+    "city": "Bluefield",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17943.0,
+    "density": 113.2,
+    "county_fips": 54055,
+    "county_name": "Mercer",
+    "county_weights": "{\"54055\": 100}",
+    "county_names_all": "Mercer",
+    "county_fips_all": "54055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

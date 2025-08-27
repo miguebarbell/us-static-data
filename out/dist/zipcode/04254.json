@@ -1,0 +1,20 @@
+{
+    "zip": 4254,
+    "lat": 44.43249,
+    "lng": -70.14265,
+    "city": "Livermore Falls",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3076.0,
+    "density": 60.4,
+    "county_fips": 23001,
+    "county_name": "Androscoggin",
+    "county_weights": "{\"23001\": 100}",
+    "county_names_all": "Androscoggin",
+    "county_fips_all": "23001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

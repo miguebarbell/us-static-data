@@ -1,0 +1,20 @@
+{
+    "zip": 42455,
+    "lat": 37.5858,
+    "lng": -87.53938,
+    "city": "Sebree",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3703.0,
+    "density": 19.7,
+    "county_fips": 21233,
+    "county_name": "Webster",
+    "county_weights": "{\"21233\": 100}",
+    "county_names_all": "Webster",
+    "county_fips_all": "21233",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

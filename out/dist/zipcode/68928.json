@@ -1,0 +1,20 @@
+{
+    "zip": 68928,
+    "lat": 40.2874,
+    "lng": -98.60728,
+    "city": "Bladen",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 331.0,
+    "density": 1.2,
+    "county_fips": 31181,
+    "county_name": "Webster",
+    "county_weights": "{\"31181\": 82.66, \"31001\": 17.34}",
+    "county_names_all": "Webster|Adams",
+    "county_fips_all": "31181|31001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

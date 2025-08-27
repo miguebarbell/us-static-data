@@ -1,0 +1,20 @@
+{
+    "zip": 78624,
+    "lat": 30.29227,
+    "lng": -98.87141,
+    "city": "Fredericksburg",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23610.0,
+    "density": 12.3,
+    "county_fips": 48171,
+    "county_name": "Gillespie",
+    "county_weights": "{\"48171\": 91.34, \"48259\": 8.66}",
+    "county_names_all": "Gillespie|Kendall",
+    "county_fips_all": "48171|48259",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

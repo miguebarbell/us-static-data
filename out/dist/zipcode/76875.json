@@ -1,0 +1,20 @@
+{
+    "zip": 76875,
+    "lat": 31.59928,
+    "lng": -100.00749,
+    "city": "Rowena",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 498.0,
+    "density": 1.6,
+    "county_fips": 48399,
+    "county_name": "Runnels",
+    "county_weights": "{\"48399\": 62.63, \"48095\": 37.37}",
+    "county_names_all": "Runnels|Concho",
+    "county_fips_all": "48399|48095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

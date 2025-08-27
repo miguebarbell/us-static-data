@@ -1,0 +1,20 @@
+{
+    "zip": 46974,
+    "lat": 40.94839,
+    "lng": -85.93041,
+    "city": "Roann",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1565.0,
+    "density": 14.5,
+    "county_fips": 18169,
+    "county_name": "Wabash",
+    "county_weights": "{\"18169\": 59.82, \"18103\": 40.18}",
+    "county_names_all": "Wabash|Miami",
+    "county_fips_all": "18169|18103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

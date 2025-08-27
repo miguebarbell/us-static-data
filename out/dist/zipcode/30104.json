@@ -1,0 +1,20 @@
+{
+    "zip": 30104,
+    "lat": 34.0879,
+    "lng": -85.06982,
+    "city": "Aragon",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5192.0,
+    "density": 59.0,
+    "county_fips": 13233,
+    "county_name": "Polk",
+    "county_weights": "{\"13233\": 56.83, \"13115\": 30.93, \"13015\": 12.24}",
+    "county_names_all": "Polk|Floyd|Bartow",
+    "county_fips_all": "13233|13115|13015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

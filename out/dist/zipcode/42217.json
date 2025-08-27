@@ -1,0 +1,20 @@
+{
+    "zip": 42217,
+    "lat": 37.04915,
+    "lng": -87.47212,
+    "city": "Crofton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3739.0,
+    "density": 9.0,
+    "county_fips": 21047,
+    "county_name": "Christian",
+    "county_weights": "{\"21047\": 100}",
+    "county_names_all": "Christian",
+    "county_fips_all": "21047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

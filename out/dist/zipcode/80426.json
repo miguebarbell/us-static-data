@@ -1,0 +1,20 @@
+{
+    "zip": 80426,
+    "lat": 39.87393,
+    "lng": -106.98452,
+    "city": "Burns",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 47.0,
+    "density": 0.2,
+    "county_fips": 8037,
+    "county_name": "Eagle",
+    "county_weights": "{\"08037\": 100}",
+    "county_names_all": "Eagle",
+    "county_fips_all": "08037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

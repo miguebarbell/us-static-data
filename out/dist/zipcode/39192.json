@@ -1,0 +1,20 @@
+{
+    "zip": 39192,
+    "lat": 33.19153,
+    "lng": -89.75324,
+    "city": "West",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1951.0,
+    "density": 5.2,
+    "county_fips": 28007,
+    "county_name": "Attala",
+    "county_weights": "{\"28007\": 57.22, \"28051\": 29.55, \"28015\": 13.23}",
+    "county_names_all": "Attala|Holmes|Carroll",
+    "county_fips_all": "28007|28051|28015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

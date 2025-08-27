@@ -1,0 +1,20 @@
+{
+    "zip": 68785,
+    "lat": 42.42796,
+    "lng": -96.7224,
+    "city": "Waterbury",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 254.0,
+    "density": 3.3,
+    "county_fips": 31051,
+    "county_name": "Dixon",
+    "county_weights": "{\"31051\": 51.43, \"31043\": 48.57}",
+    "county_names_all": "Dixon|Dakota",
+    "county_fips_all": "31051|31043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

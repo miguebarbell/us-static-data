@@ -1,0 +1,20 @@
+{
+    "zip": 66758,
+    "lat": 38.01862,
+    "lng": -95.59602,
+    "city": "Neosho Falls",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 220.0,
+    "density": 1.6,
+    "county_fips": 20207,
+    "county_name": "Woodson",
+    "county_weights": "{\"20207\": 71.34, \"20031\": 16.42, \"20003\": 6.39, \"20001\": 5.85}",
+    "county_names_all": "Woodson|Coffey|Anderson|Allen",
+    "county_fips_all": "20207|20031|20003|20001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

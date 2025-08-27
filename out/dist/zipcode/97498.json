@@ -1,0 +1,20 @@
+{
+    "zip": 97498,
+    "lat": 44.27728,
+    "lng": -124.01901,
+    "city": "Yachats",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2141.0,
+    "density": 7.7,
+    "county_fips": 41039,
+    "county_name": "Lane",
+    "county_weights": "{\"41039\": 50.62, \"41041\": 49.38}",
+    "county_names_all": "Lane|Lincoln",
+    "county_fips_all": "41039|41041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 63837,
+    "lat": 36.44907,
+    "lng": -89.98023,
+    "city": "Clarkton",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1451.0,
+    "density": 17.9,
+    "county_fips": 29069,
+    "county_name": "Dunklin",
+    "county_weights": "{\"29069\": 72.32, \"29143\": 27.68}",
+    "county_names_all": "Dunklin|New Madrid",
+    "county_fips_all": "29069|29143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

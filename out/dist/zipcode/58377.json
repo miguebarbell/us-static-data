@@ -1,0 +1,20 @@
+{
+    "zip": 58377,
+    "lat": 48.46481,
+    "lng": -98.87416,
+    "city": "Starkweather",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 227.0,
+    "density": 0.4,
+    "county_fips": 38071,
+    "county_name": "Ramsey",
+    "county_weights": "{\"38071\": 68.02, \"38095\": 17.47, \"38019\": 14.51}",
+    "county_names_all": "Ramsey|Towner|Cavalier",
+    "county_fips_all": "38071|38095|38019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

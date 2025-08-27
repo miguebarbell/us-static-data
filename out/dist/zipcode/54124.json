@@ -1,0 +1,20 @@
+{
+    "zip": 54124,
+    "lat": 44.90701,
+    "lng": -88.36616,
+    "city": "Gillett",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3345.0,
+    "density": 13.9,
+    "county_fips": 55083,
+    "county_name": "Oconto",
+    "county_weights": "{\"55083\": 91.57, \"55078\": 8.24, \"55115\": 0.19}",
+    "county_names_all": "Oconto|Menominee|Shawano",
+    "county_fips_all": "55083|55078|55115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

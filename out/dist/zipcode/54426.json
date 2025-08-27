@@ -1,0 +1,20 @@
+{
+    "zip": 54426,
+    "lat": 44.90804,
+    "lng": -89.98832,
+    "city": "Edgar",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4359.0,
+    "density": 15.8,
+    "county_fips": 55073,
+    "county_name": "Marathon",
+    "county_weights": "{\"55073\": 100}",
+    "county_names_all": "Marathon",
+    "county_fips_all": "55073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

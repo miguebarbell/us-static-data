@@ -1,0 +1,20 @@
+{
+    "zip": 68351,
+    "lat": 40.65393,
+    "lng": -97.43015,
+    "city": "Exeter",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 747.0,
+    "density": 3.2,
+    "county_fips": 31059,
+    "county_name": "Fillmore",
+    "county_weights": "{\"31059\": 73.99, \"31185\": 26.01}",
+    "county_names_all": "Fillmore|York",
+    "county_fips_all": "31059|31185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 67855,
+    "lat": 37.54551,
+    "lng": -101.69477,
+    "city": "Johnson",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1835.0,
+    "density": 1.4,
+    "county_fips": 20187,
+    "county_name": "Stanton",
+    "county_weights": "{\"20187\": 89.18, \"20129\": 9.7, \"20067\": 1.12}",
+    "county_names_all": "Stanton|Morton|Grant",
+    "county_fips_all": "20187|20129|20067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

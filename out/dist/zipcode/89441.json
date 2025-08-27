@@ -1,0 +1,20 @@
+{
+    "zip": 89441,
+    "lat": 39.68131,
+    "lng": -119.68755,
+    "city": "Sparks",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13854.0,
+    "density": 107.7,
+    "county_fips": 32031,
+    "county_name": "Washoe",
+    "county_weights": "{\"32031\": 100}",
+    "county_names_all": "Washoe",
+    "county_fips_all": "32031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

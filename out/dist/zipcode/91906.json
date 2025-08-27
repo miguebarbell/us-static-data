@@ -1,0 +1,20 @@
+{
+    "zip": 91906,
+    "lat": 32.66241,
+    "lng": -116.47255,
+    "city": "Campo",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3375.0,
+    "density": 12.4,
+    "county_fips": 6073,
+    "county_name": "San Diego",
+    "county_weights": "{\"06073\": 100}",
+    "county_names_all": "San Diego",
+    "county_fips_all": "06073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

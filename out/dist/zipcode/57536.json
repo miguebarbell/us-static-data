@@ -1,0 +1,20 @@
+{
+    "zip": 57536,
+    "lat": 44.41502,
+    "lng": -99.76694,
+    "city": "Harrold",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 278.0,
+    "density": 0.3,
+    "county_fips": 46065,
+    "county_name": "Hughes",
+    "county_weights": "{\"46065\": 72.59, \"46119\": 27.41}",
+    "county_names_all": "Hughes|Sully",
+    "county_fips_all": "46065|46119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

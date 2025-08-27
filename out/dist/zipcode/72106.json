@@ -1,0 +1,20 @@
+{
+    "zip": 72106,
+    "lat": 34.96997,
+    "lng": -92.48727,
+    "city": "Mayflower",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5719.0,
+    "density": 42.2,
+    "county_fips": 5045,
+    "county_name": "Faulkner",
+    "county_weights": "{\"05045\": 98.37, \"05119\": 1.63}",
+    "county_names_all": "Faulkner|Pulaski",
+    "county_fips_all": "05045|05119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 70310,
+    "lat": 29.79048,
+    "lng": -90.80301,
+    "city": "Thibodaux",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 383.0,
+    "density": 784.2,
+    "county_fips": 22057,
+    "county_name": "Lafourche",
+    "county_weights": "{\"22057\": 100}",
+    "county_names_all": "Lafourche",
+    "county_fips_all": "22057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

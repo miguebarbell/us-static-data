@@ -1,0 +1,20 @@
+{
+    "zip": 53129,
+    "lat": 42.93795,
+    "lng": -88.00003,
+    "city": "Greendale",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14607.0,
+    "density": 1095.1,
+    "county_fips": 55079,
+    "county_name": "Milwaukee",
+    "county_weights": "{\"55079\": 100}",
+    "county_names_all": "Milwaukee",
+    "county_fips_all": "55079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

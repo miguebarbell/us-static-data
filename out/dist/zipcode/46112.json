@@ -1,0 +1,20 @@
+{
+    "zip": 46112,
+    "lat": 39.86561,
+    "lng": -86.38215,
+    "city": "Brownsburg",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42491.0,
+    "density": 389.7,
+    "county_fips": 18063,
+    "county_name": "Hendricks",
+    "county_weights": "{\"18063\": 96.65, \"18011\": 3.35}",
+    "county_names_all": "Hendricks|Boone",
+    "county_fips_all": "18063|18011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

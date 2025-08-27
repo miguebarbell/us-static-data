@@ -1,0 +1,20 @@
+{
+    "zip": 75173,
+    "lat": 33.05986,
+    "lng": -96.38673,
+    "city": "Nevada",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9284.0,
+    "density": 109.6,
+    "county_fips": 48085,
+    "county_name": "Collin",
+    "county_weights": "{\"48085\": 100}",
+    "county_names_all": "Collin",
+    "county_fips_all": "48085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

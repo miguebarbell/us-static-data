@@ -1,0 +1,20 @@
+{
+    "zip": 98902,
+    "lat": 46.59778,
+    "lng": -120.53393,
+    "city": "Yakima",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 45377.0,
+    "density": 1882.6,
+    "county_fips": 53077,
+    "county_name": "Yakima",
+    "county_weights": "{\"53077\": 100}",
+    "county_names_all": "Yakima",
+    "county_fips_all": "53077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

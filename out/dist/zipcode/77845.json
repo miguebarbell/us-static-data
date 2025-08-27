@@ -1,0 +1,20 @@
+{
+    "zip": 77845,
+    "lat": 30.56212,
+    "lng": -96.27607,
+    "city": "College Station",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 74612.0,
+    "density": 202.1,
+    "county_fips": 48041,
+    "county_name": "Brazos",
+    "county_weights": "{\"48041\": 100}",
+    "county_names_all": "Brazos",
+    "county_fips_all": "48041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

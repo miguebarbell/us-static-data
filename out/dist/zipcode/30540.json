@@ -1,0 +1,20 @@
+{
+    "zip": 30540,
+    "lat": 34.72313,
+    "lng": -84.54421,
+    "city": "Ellijay",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20145.0,
+    "density": 39.6,
+    "county_fips": 13123,
+    "county_name": "Gilmer",
+    "county_weights": "{\"13123\": 100}",
+    "county_names_all": "Gilmer",
+    "county_fips_all": "13123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

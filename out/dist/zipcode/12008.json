@@ -1,0 +1,20 @@
+{
+    "zip": 12008,
+    "lat": 42.85367,
+    "lng": -73.9063,
+    "city": "Alplaus",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 610.0,
+    "density": 352.0,
+    "county_fips": 36093,
+    "county_name": "Schenectady",
+    "county_weights": "{\"36093\": 100}",
+    "county_names_all": "Schenectady",
+    "county_fips_all": "36093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

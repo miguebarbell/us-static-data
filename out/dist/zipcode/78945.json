@@ -1,0 +1,20 @@
+{
+    "zip": 78945,
+    "lat": 29.91594,
+    "lng": -96.89031,
+    "city": "La Grange",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10459.0,
+    "density": 16.3,
+    "county_fips": 48149,
+    "county_name": "Fayette",
+    "county_weights": "{\"48149\": 99.14, \"48021\": 0.74, \"48287\": 0.12}",
+    "county_names_all": "Fayette|Bastrop|Lee",
+    "county_fips_all": "48149|48021|48287",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

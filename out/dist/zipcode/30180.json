@@ -1,0 +1,20 @@
+{
+    "zip": 30180,
+    "lat": 33.72018,
+    "lng": -84.91956,
+    "city": "Villa Rica",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41434.0,
+    "density": 206.7,
+    "county_fips": 13045,
+    "county_name": "Carroll",
+    "county_weights": "{\"13045\": 62.78, \"13097\": 27.52, \"13223\": 9.7}",
+    "county_names_all": "Carroll|Douglas|Paulding",
+    "county_fips_all": "13045|13097|13223",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

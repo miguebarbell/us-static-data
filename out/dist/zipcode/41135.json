@@ -1,0 +1,20 @@
+{
+    "zip": 41135,
+    "lat": 38.36026,
+    "lng": -83.28796,
+    "city": "Emerson",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 359.0,
+    "density": 11.6,
+    "county_fips": 21135,
+    "county_name": "Lewis",
+    "county_weights": "{\"21135\": 100}",
+    "county_names_all": "Lewis",
+    "county_fips_all": "21135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

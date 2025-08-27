@@ -1,0 +1,20 @@
+{
+    "zip": 74020,
+    "lat": 36.24562,
+    "lng": -96.41934,
+    "city": "Cleveland",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7365.0,
+    "density": 42.0,
+    "county_fips": 40117,
+    "county_name": "Pawnee",
+    "county_weights": "{\"40117\": 100}",
+    "county_names_all": "Pawnee",
+    "county_fips_all": "40117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

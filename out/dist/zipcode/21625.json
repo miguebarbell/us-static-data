@@ -1,0 +1,20 @@
+{
+    "zip": 21625,
+    "lat": 38.86925,
+    "lng": -75.99216,
+    "city": "Cordova",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1837.0,
+    "density": 17.3,
+    "county_fips": 24041,
+    "county_name": "Talbot",
+    "county_weights": "{\"24041\": 100}",
+    "county_names_all": "Talbot",
+    "county_fips_all": "24041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

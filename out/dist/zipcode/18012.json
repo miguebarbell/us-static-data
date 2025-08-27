@@ -1,0 +1,20 @@
+{
+    "zip": 18012,
+    "lat": 40.81135,
+    "lng": -75.59158,
+    "city": "Aquashicola",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27.0,
+    "density": 917.1,
+    "county_fips": 42025,
+    "county_name": "Carbon",
+    "county_weights": "{\"42025\": 100}",
+    "county_names_all": "Carbon",
+    "county_fips_all": "42025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

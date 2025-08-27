@@ -1,0 +1,20 @@
+{
+    "zip": 30519,
+    "lat": 34.08792,
+    "lng": -83.9423,
+    "city": "Buford",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 57648.0,
+    "density": 659.3,
+    "county_fips": 13135,
+    "county_name": "Gwinnett",
+    "county_weights": "{\"13135\": 88.72, \"13139\": 11.28}",
+    "county_names_all": "Gwinnett|Hall",
+    "county_fips_all": "13135|13139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

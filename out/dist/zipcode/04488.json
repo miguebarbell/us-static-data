@@ -1,0 +1,20 @@
+{
+    "zip": 4488,
+    "lat": 44.87586,
+    "lng": -69.11143,
+    "city": "Stetson",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1087.0,
+    "density": 12.0,
+    "county_fips": 23019,
+    "county_name": "Penobscot",
+    "county_weights": "{\"23019\": 100}",
+    "county_names_all": "Penobscot",
+    "county_fips_all": "23019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

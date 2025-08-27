@@ -1,0 +1,20 @@
+{
+    "zip": 61283,
+    "lat": 41.59094,
+    "lng": -89.78854,
+    "city": "Tampico",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1349.0,
+    "density": 6.2,
+    "county_fips": 17195,
+    "county_name": "Whiteside",
+    "county_weights": "{\"17195\": 50.68, \"17011\": 46.93, \"17073\": 2.39}",
+    "county_names_all": "Whiteside|Bureau|Henry",
+    "county_fips_all": "17195|17011|17073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

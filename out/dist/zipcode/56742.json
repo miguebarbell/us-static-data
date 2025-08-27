@@ -1,0 +1,20 @@
+{
+    "zip": 56742,
+    "lat": 47.92728,
+    "lng": -95.82076,
+    "city": "Oklee",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 806.0,
+    "density": 2.8,
+    "county_fips": 27125,
+    "county_name": "Red Lake",
+    "county_weights": "{\"27125\": 68.8, \"27113\": 27.15, \"27119\": 4.05}",
+    "county_names_all": "Red Lake|Pennington|Polk",
+    "county_fips_all": "27125|27113|27119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

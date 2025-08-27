@@ -1,0 +1,20 @@
+{
+    "zip": 68025,
+    "lat": 41.43749,
+    "lng": -96.49158,
+    "city": "Fremont",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31201.0,
+    "density": 97.2,
+    "county_fips": 31053,
+    "county_name": "Dodge",
+    "county_weights": "{\"31053\": 73.6, \"31155\": 26.27, \"31177\": 0.13}",
+    "county_names_all": "Dodge|Saunders|Washington",
+    "county_fips_all": "31053|31155|31177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

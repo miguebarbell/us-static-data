@@ -1,0 +1,20 @@
+{
+    "zip": 69024,
+    "lat": 40.23918,
+    "lng": -100.856,
+    "city": "Culbertson",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1088.0,
+    "density": 1.5,
+    "county_fips": 31087,
+    "county_name": "Hitchcock",
+    "county_weights": "{\"31087\": 76.17, \"31085\": 19.59, \"31145\": 2.75, \"31063\": 1.49}",
+    "county_names_all": "Hitchcock|Hayes|Red Willow|Frontier",
+    "county_fips_all": "31087|31085|31145|31063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

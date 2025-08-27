@@ -1,0 +1,20 @@
+{
+    "zip": 38235,
+    "lat": 35.99116,
+    "lng": -88.58109,
+    "city": "McLemoresville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 207.0,
+    "density": 58.2,
+    "county_fips": 47017,
+    "county_name": "Carroll",
+    "county_weights": "{\"47017\": 100}",
+    "county_names_all": "Carroll",
+    "county_fips_all": "47017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

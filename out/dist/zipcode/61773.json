@@ -1,0 +1,20 @@
+{
+    "zip": 61773,
+    "lat": 40.57209,
+    "lng": -88.37605,
+    "city": "Sibley",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 299.0,
+    "density": 2.7,
+    "county_fips": 17053,
+    "county_name": "Ford",
+    "county_weights": "{\"17053\": 100}",
+    "county_names_all": "Ford",
+    "county_fips_all": "17053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

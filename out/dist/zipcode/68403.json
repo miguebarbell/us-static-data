@@ -1,0 +1,20 @@
+{
+    "zip": 68403,
+    "lat": 40.92045,
+    "lng": -96.16707,
+    "city": "Manley",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 209.0,
+    "density": 108.9,
+    "county_fips": 31025,
+    "county_name": "Cass",
+    "county_weights": "{\"31025\": 100}",
+    "county_names_all": "Cass",
+    "county_fips_all": "31025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

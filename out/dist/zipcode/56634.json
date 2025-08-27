@@ -1,0 +1,20 @@
+{
+    "zip": 56634,
+    "lat": 47.68577,
+    "lng": -95.40169,
+    "city": "Clearbrook",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1786.0,
+    "density": 5.7,
+    "county_fips": 27029,
+    "county_name": "Clearwater",
+    "county_weights": "{\"27029\": 100}",
+    "county_names_all": "Clearwater",
+    "county_fips_all": "27029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

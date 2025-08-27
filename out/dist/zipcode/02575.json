@@ -1,0 +1,20 @@
+{
+    "zip": 2575,
+    "lat": 41.39651,
+    "lng": -70.65496,
+    "city": "West Tisbury",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2417.0,
+    "density": 41.0,
+    "county_fips": 25007,
+    "county_name": "Dukes",
+    "county_weights": "{\"25007\": 100}",
+    "county_names_all": "Dukes",
+    "county_fips_all": "25007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

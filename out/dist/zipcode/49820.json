@@ -1,0 +1,20 @@
+{
+    "zip": 49820,
+    "lat": 46.18965,
+    "lng": -85.67951,
+    "city": "Curtis",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 180.0,
+    "density": 2.7,
+    "county_fips": 26097,
+    "county_name": "Mackinac",
+    "county_weights": "{\"26097\": 100}",
+    "county_names_all": "Mackinac",
+    "county_fips_all": "26097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 99006,
+    "lat": 47.95208,
+    "lng": -117.51016,
+    "city": "Deer Park",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14666.0,
+    "density": 34.5,
+    "county_fips": 53063,
+    "county_name": "Spokane",
+    "county_weights": "{\"53063\": 54.48, \"53065\": 40.71, \"53051\": 4.81}",
+    "county_names_all": "Spokane|Stevens|Pend Oreille",
+    "county_fips_all": "53063|53065|53051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 67235,
+    "lat": 37.68951,
+    "lng": -97.49929,
+    "city": "Wichita",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15442.0,
+    "density": 552.2,
+    "county_fips": 20173,
+    "county_name": "Sedgwick",
+    "county_weights": "{\"20173\": 100}",
+    "county_names_all": "Sedgwick",
+    "county_fips_all": "20173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

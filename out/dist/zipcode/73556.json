@@ -1,0 +1,20 @@
+{
+    "zip": 73556,
+    "lat": 34.72617,
+    "lng": -99.38673,
+    "city": "Martha",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 121.0,
+    "density": 185.3,
+    "county_fips": 40065,
+    "county_name": "Jackson",
+    "county_weights": "{\"40065\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "40065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

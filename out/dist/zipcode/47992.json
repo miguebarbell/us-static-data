@@ -1,0 +1,20 @@
+{
+    "zip": 47992,
+    "lat": 40.31933,
+    "lng": -87.0519,
+    "city": "Westpoint",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1523.0,
+    "density": 16.2,
+    "county_fips": 18157,
+    "county_name": "Tippecanoe",
+    "county_weights": "{\"18157\": 100}",
+    "county_names_all": "Tippecanoe",
+    "county_fips_all": "18157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

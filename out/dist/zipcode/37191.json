@@ -1,0 +1,20 @@
+{
+    "zip": 37191,
+    "lat": 36.50726,
+    "lng": -87.52392,
+    "city": "Woodlawn",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3998.0,
+    "density": 33.6,
+    "county_fips": 47125,
+    "county_name": "Montgomery",
+    "county_weights": "{\"47125\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "47125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

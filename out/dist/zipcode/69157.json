@@ -1,0 +1,20 @@
+{
+    "zip": 69157,
+    "lat": 42.02451,
+    "lng": -100.14824,
+    "city": "Purdum",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 91.0,
+    "density": 0.2,
+    "county_fips": 31009,
+    "county_name": "Blaine",
+    "county_weights": "{\"31009\": 71.33, \"31017\": 20.62, \"31031\": 8.06}",
+    "county_names_all": "Blaine|Brown|Cherry",
+    "county_fips_all": "31009|31017|31031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

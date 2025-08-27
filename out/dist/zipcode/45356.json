@@ -1,0 +1,20 @@
+{
+    "zip": 45356,
+    "lat": 40.16252,
+    "lng": -84.23097,
+    "city": "Piqua",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25155.0,
+    "density": 128.6,
+    "county_fips": 39109,
+    "county_name": "Miami",
+    "county_weights": "{\"39109\": 84.5, \"39149\": 15.5}",
+    "county_names_all": "Miami|Shelby",
+    "county_fips_all": "39109|39149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

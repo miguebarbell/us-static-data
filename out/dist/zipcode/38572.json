@@ -1,0 +1,20 @@
+{
+    "zip": 38572,
+    "lat": 35.84764,
+    "lng": -85.12778,
+    "city": "Crossville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12030.0,
+    "density": 29.3,
+    "county_fips": 47035,
+    "county_name": "Cumberland",
+    "county_weights": "{\"47035\": 91.4, \"47007\": 8.6}",
+    "county_names_all": "Cumberland|Bledsoe",
+    "county_fips_all": "47035|47007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 39345,
+    "lat": 32.28717,
+    "lng": -89.12974,
+    "city": "Newton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5571.0,
+    "density": 15.3,
+    "county_fips": 28101,
+    "county_name": "Newton",
+    "county_weights": "{\"28101\": 83.58, \"28061\": 16.42}",
+    "county_names_all": "Newton|Jasper",
+    "county_fips_all": "28101|28061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

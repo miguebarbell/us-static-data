@@ -1,0 +1,20 @@
+{
+    "zip": 40380,
+    "lat": 37.81965,
+    "lng": -83.78006,
+    "city": "Stanton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6943.0,
+    "density": 22.0,
+    "county_fips": 21197,
+    "county_name": "Powell",
+    "county_weights": "{\"21197\": 92.39, \"21065\": 7.61}",
+    "county_names_all": "Powell|Estill",
+    "county_fips_all": "21197|21065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

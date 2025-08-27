@@ -1,0 +1,20 @@
+{
+    "zip": 24822,
+    "lat": 37.62908,
+    "lng": -81.68755,
+    "city": "Clear Fork",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 891.0,
+    "density": 17.3,
+    "county_fips": 54109,
+    "county_name": "Wyoming",
+    "county_weights": "{\"54109\": 100}",
+    "county_names_all": "Wyoming",
+    "county_fips_all": "54109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

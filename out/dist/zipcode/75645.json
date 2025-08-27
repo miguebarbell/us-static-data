@@ -1,0 +1,20 @@
+{
+    "zip": 75645,
+    "lat": 32.68375,
+    "lng": -94.87317,
+    "city": "Gilmer",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10511.0,
+    "density": 28.1,
+    "county_fips": 48459,
+    "county_name": "Upshur",
+    "county_weights": "{\"48459\": 97.84, \"48183\": 2.16}",
+    "county_names_all": "Upshur|Gregg",
+    "county_fips_all": "48459|48183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 53038,
+    "lat": 43.08592,
+    "lng": -88.79031,
+    "city": "Johnson Creek",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4319.0,
+    "density": 53.9,
+    "county_fips": 55055,
+    "county_name": "Jefferson",
+    "county_weights": "{\"55055\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "55055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 23899,
+    "lat": 37.23079,
+    "lng": -76.96562,
+    "city": "Claremont",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 360.0,
+    "density": 55.3,
+    "county_fips": 51181,
+    "county_name": "Surry",
+    "county_weights": "{\"51181\": 100}",
+    "county_names_all": "Surry",
+    "county_fips_all": "51181",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

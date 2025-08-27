@@ -1,0 +1,20 @@
+{
+    "zip": 38587,
+    "lat": 35.8677,
+    "lng": -85.61723,
+    "city": "Walling",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1169.0,
+    "density": 15.1,
+    "county_fips": 47185,
+    "county_name": "White",
+    "county_weights": "{\"47185\": 100}",
+    "county_names_all": "White",
+    "county_fips_all": "47185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

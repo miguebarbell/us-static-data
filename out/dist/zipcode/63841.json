@@ -1,0 +1,20 @@
+{
+    "zip": 63841,
+    "lat": 36.77198,
+    "lng": -89.98169,
+    "city": "Dexter",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13319.0,
+    "density": 39.8,
+    "county_fips": 29207,
+    "county_name": "Stoddard",
+    "county_weights": "{\"29207\": 100}",
+    "county_names_all": "Stoddard",
+    "county_fips_all": "29207",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

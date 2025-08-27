@@ -1,0 +1,20 @@
+{
+    "zip": 53153,
+    "lat": 42.94056,
+    "lng": -88.40237,
+    "city": "North Prairie",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2728.0,
+    "density": 220.8,
+    "county_fips": 55133,
+    "county_name": "Waukesha",
+    "county_weights": "{\"55133\": 100}",
+    "county_names_all": "Waukesha",
+    "county_fips_all": "55133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 78417,
+    "lat": 27.73753,
+    "lng": -97.46771,
+    "city": "Corpus Christi",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4462.0,
+    "density": 184.9,
+    "county_fips": 48355,
+    "county_name": "Nueces",
+    "county_weights": "{\"48355\": 100}",
+    "county_names_all": "Nueces",
+    "county_fips_all": "48355",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

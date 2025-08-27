@@ -1,0 +1,20 @@
+{
+    "zip": 54646,
+    "lat": 44.08807,
+    "lng": -90.0912,
+    "city": "Necedah",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3752.0,
+    "density": 8.7,
+    "county_fips": 55057,
+    "county_name": "Juneau",
+    "county_weights": "{\"55057\": 100}",
+    "county_names_all": "Juneau",
+    "county_fips_all": "55057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

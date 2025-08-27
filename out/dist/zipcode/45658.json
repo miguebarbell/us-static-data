@@ -1,0 +1,20 @@
+{
+    "zip": 45658,
+    "lat": 38.76324,
+    "lng": -82.41411,
+    "city": "Patriot",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2654.0,
+    "density": 10.9,
+    "county_fips": 39053,
+    "county_name": "Gallia",
+    "county_weights": "{\"39053\": 97.93, \"39087\": 2.07}",
+    "county_names_all": "Gallia|Lawrence",
+    "county_fips_all": "39053|39087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

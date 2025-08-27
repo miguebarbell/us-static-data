@@ -1,0 +1,20 @@
+{
+    "zip": 68631,
+    "lat": 41.68753,
+    "lng": -97.35074,
+    "city": "Creston",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 344.0,
+    "density": 3.4,
+    "county_fips": 31141,
+    "county_name": "Platte",
+    "county_weights": "{\"31141\": 87.69, \"31167\": 12.31}",
+    "county_names_all": "Platte|Stanton",
+    "county_fips_all": "31141|31167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

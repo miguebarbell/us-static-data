@@ -1,0 +1,20 @@
+{
+    "zip": 49862,
+    "lat": 46.38021,
+    "lng": -86.7153,
+    "city": "Munising",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4532.0,
+    "density": 10.3,
+    "county_fips": 26003,
+    "county_name": "Alger",
+    "county_weights": "{\"26003\": 100}",
+    "county_names_all": "Alger",
+    "county_fips_all": "26003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

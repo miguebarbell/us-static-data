@@ -1,0 +1,20 @@
+{
+    "zip": 93252,
+    "lat": 34.80685,
+    "lng": -119.34664,
+    "city": "Maricopa",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1429.0,
+    "density": 1.2,
+    "county_fips": 6111,
+    "county_name": "Ventura",
+    "county_weights": "{\"06111\": 66.05, \"06029\": 18.03, \"06083\": 9.82, \"06079\": 6.1}",
+    "county_names_all": "Ventura|Kern|Santa Barbara|San Luis Obispo",
+    "county_fips_all": "06111|06029|06083|06079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

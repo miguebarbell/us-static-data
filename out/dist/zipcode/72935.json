@@ -1,0 +1,20 @@
+{
+    "zip": 72935,
+    "lat": 35.49431,
+    "lng": -94.13277,
+    "city": "Dyer",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 487.0,
+    "density": 94.1,
+    "county_fips": 5033,
+    "county_name": "Crawford",
+    "county_weights": "{\"05033\": 100}",
+    "county_names_all": "Crawford",
+    "county_fips_all": "05033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

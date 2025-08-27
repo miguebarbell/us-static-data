@@ -1,0 +1,20 @@
+{
+    "zip": 77466,
+    "lat": 29.80003,
+    "lng": -96.01085,
+    "city": "Pattison",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 258.0,
+    "density": 10.9,
+    "county_fips": 48473,
+    "county_name": "Waller",
+    "county_weights": "{\"48473\": 100}",
+    "county_names_all": "Waller",
+    "county_fips_all": "48473",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 54177,
+    "lat": 45.36428,
+    "lng": -87.89183,
+    "city": "Wausaukee",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2788.0,
+    "density": 6.1,
+    "county_fips": 55075,
+    "county_name": "Marinette",
+    "county_weights": "{\"55075\": 100}",
+    "county_names_all": "Marinette",
+    "county_fips_all": "55075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

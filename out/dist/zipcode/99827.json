@@ -1,0 +1,20 @@
+{
+    "zip": 99827,
+    "lat": 59.02659,
+    "lng": -135.88483,
+    "city": "Haines",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2166.0,
+    "density": 0.3,
+    "county_fips": 2100,
+    "county_name": "Haines",
+    "county_weights": "{\"02100\": 55.1, \"02105\": 44.72, \"02230\": 0.18}",
+    "county_names_all": "Haines|Hoonah-Angoon|Skagway",
+    "county_fips_all": "02100|02105|02230",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Juneau"
+}

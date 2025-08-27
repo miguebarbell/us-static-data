@@ -1,0 +1,20 @@
+{
+    "zip": 80751,
+    "lat": 40.65263,
+    "lng": -103.24504,
+    "city": "Sterling",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17207.0,
+    "density": 14.0,
+    "county_fips": 8075,
+    "county_name": "Logan",
+    "county_weights": "{\"08075\": 100}",
+    "county_names_all": "Logan",
+    "county_fips_all": "08075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

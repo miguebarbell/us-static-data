@@ -1,0 +1,20 @@
+{
+    "zip": 48436,
+    "lat": 42.87017,
+    "lng": -83.87704,
+    "city": "Gaines",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4251.0,
+    "density": 50.3,
+    "county_fips": 26049,
+    "county_name": "Genesee",
+    "county_weights": "{\"26049\": 90.5, \"26155\": 9.5}",
+    "county_names_all": "Genesee|Shiawassee",
+    "county_fips_all": "26049|26155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

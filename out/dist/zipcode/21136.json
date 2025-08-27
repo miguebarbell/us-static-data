@@ -1,0 +1,20 @@
+{
+    "zip": 21136,
+    "lat": 39.48851,
+    "lng": -76.80888,
+    "city": "Reisterstown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33778.0,
+    "density": 232.1,
+    "county_fips": 24005,
+    "county_name": "Baltimore",
+    "county_weights": "{\"24005\": 96.26, \"24013\": 3.74}",
+    "county_names_all": "Baltimore|Carroll",
+    "county_fips_all": "24005|24013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

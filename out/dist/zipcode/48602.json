@@ -1,0 +1,20 @@
+{
+    "zip": 48602,
+    "lat": 43.41971,
+    "lng": -83.97469,
+    "city": "Saginaw",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27490.0,
+    "density": 1358.0,
+    "county_fips": 26145,
+    "county_name": "Saginaw",
+    "county_weights": "{\"26145\": 100}",
+    "county_names_all": "Saginaw",
+    "county_fips_all": "26145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

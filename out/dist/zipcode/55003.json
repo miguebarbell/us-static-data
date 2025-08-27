@@ -1,0 +1,20 @@
+{
+    "zip": 55003,
+    "lat": 45.01183,
+    "lng": -92.77883,
+    "city": "Bayport",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3948.0,
+    "density": 733.8,
+    "county_fips": 27163,
+    "county_name": "Washington",
+    "county_weights": "{\"27163\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "27163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

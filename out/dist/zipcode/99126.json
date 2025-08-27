@@ -1,0 +1,20 @@
+{
+    "zip": 99126,
+    "lat": 48.73574,
+    "lng": -117.97447,
+    "city": "Evans",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 926.0,
+    "density": 7.1,
+    "county_fips": 53065,
+    "county_name": "Stevens",
+    "county_weights": "{\"53065\": 100}",
+    "county_names_all": "Stevens",
+    "county_fips_all": "53065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

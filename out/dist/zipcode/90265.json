@@ -1,0 +1,20 @@
+{
+    "zip": 90265,
+    "lat": 34.07282,
+    "lng": -118.84995,
+    "city": "Malibu",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15914.0,
+    "density": 55.4,
+    "county_fips": 6037,
+    "county_name": "Los Angeles",
+    "county_weights": "{\"06037\": 68.4, \"06111\": 31.6}",
+    "county_names_all": "Los Angeles|Ventura",
+    "county_fips_all": "06037|06111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 52046,
+    "lat": 42.44024,
+    "lng": -91.0119,
+    "city": "Farley",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2628.0,
+    "density": 21.0,
+    "county_fips": 19061,
+    "county_name": "Dubuque",
+    "county_weights": "{\"19061\": 100}",
+    "county_names_all": "Dubuque",
+    "county_fips_all": "19061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

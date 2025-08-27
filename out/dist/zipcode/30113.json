@@ -1,0 +1,20 @@
+{
+    "zip": 30113,
+    "lat": 33.8531,
+    "lng": -85.20967,
+    "city": "Buchanan",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5939.0,
+    "density": 22.5,
+    "county_fips": 13143,
+    "county_name": "Haralson",
+    "county_weights": "{\"13143\": 92.38, \"13233\": 7.62}",
+    "county_names_all": "Haralson|Polk",
+    "county_fips_all": "13143|13233",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

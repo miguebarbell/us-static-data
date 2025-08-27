@@ -1,0 +1,20 @@
+{
+    "zip": 23225,
+    "lat": 37.51872,
+    "lng": -77.51044,
+    "city": "Richmond",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42223.0,
+    "density": 1168.7,
+    "county_fips": 51760,
+    "county_name": "Richmond",
+    "county_weights": "{\"51760\": 81.16, \"51041\": 18.84}",
+    "county_names_all": "Richmond|Chesterfield",
+    "county_fips_all": "51760|51041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

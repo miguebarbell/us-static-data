@@ -1,0 +1,20 @@
+{
+    "zip": 35961,
+    "lat": 34.27753,
+    "lng": -85.86241,
+    "city": "Collinsville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5997.0,
+    "density": 19.6,
+    "county_fips": 1049,
+    "county_name": "DeKalb",
+    "county_weights": "{\"01049\": 81.47, \"01019\": 10.57, \"01055\": 7.96}",
+    "county_names_all": "DeKalb|Cherokee|Etowah",
+    "county_fips_all": "01049|01019|01055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

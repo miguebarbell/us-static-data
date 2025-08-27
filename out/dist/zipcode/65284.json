@@ -1,0 +1,20 @@
+{
+    "zip": 65284,
+    "lat": 39.19658,
+    "lng": -92.30361,
+    "city": "Sturgeon",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2172.0,
+    "density": 13.9,
+    "county_fips": 29019,
+    "county_name": "Boone",
+    "county_weights": "{\"29019\": 85.67, \"29007\": 14.33}",
+    "county_names_all": "Boone|Audrain",
+    "county_fips_all": "29019|29007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 55716,
+    "lat": 47.32169,
+    "lng": -93.26432,
+    "city": "Calumet",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 219.0,
+    "density": 66.5,
+    "county_fips": 27061,
+    "county_name": "Itasca",
+    "county_weights": "{\"27061\": 100}",
+    "county_names_all": "Itasca",
+    "county_fips_all": "27061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

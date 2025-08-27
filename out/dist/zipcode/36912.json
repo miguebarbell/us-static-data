@@ -1,0 +1,20 @@
+{
+    "zip": 36912,
+    "lat": 32.23825,
+    "lng": -88.30369,
+    "city": "Lisman",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1299.0,
+    "density": 3.3,
+    "county_fips": 1023,
+    "county_name": "Choctaw",
+    "county_weights": "{\"01023\": 94.05, \"01119\": 5.95}",
+    "county_names_all": "Choctaw|Sumter",
+    "county_fips_all": "01023|01119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

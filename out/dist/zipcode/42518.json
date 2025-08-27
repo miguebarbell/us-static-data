@@ -1,0 +1,20 @@
+{
+    "zip": 42518,
+    "lat": 36.9253,
+    "lng": -84.64265,
+    "city": "Bronston",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2946.0,
+    "density": 33.2,
+    "county_fips": 21199,
+    "county_name": "Pulaski",
+    "county_weights": "{\"21199\": 52.46, \"21231\": 47.54}",
+    "county_names_all": "Pulaski|Wayne",
+    "county_fips_all": "21199|21231",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

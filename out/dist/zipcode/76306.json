@@ -1,0 +1,20 @@
+{
+    "zip": 76306,
+    "lat": 33.95237,
+    "lng": -98.52745,
+    "city": "Wichita Falls",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14487.0,
+    "density": 326.3,
+    "county_fips": 48485,
+    "county_name": "Wichita",
+    "county_weights": "{\"48485\": 100}",
+    "county_names_all": "Wichita",
+    "county_fips_all": "48485",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

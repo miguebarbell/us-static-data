@@ -1,0 +1,20 @@
+{
+    "zip": 35096,
+    "lat": 33.62141,
+    "lng": -86.10849,
+    "city": "Lincoln",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9201.0,
+    "density": 45.1,
+    "county_fips": 1121,
+    "county_name": "Talladega",
+    "county_weights": "{\"01121\": 89.25, \"01015\": 10.75}",
+    "county_names_all": "Talladega|Calhoun",
+    "county_fips_all": "01121|01015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

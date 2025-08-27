@@ -1,0 +1,20 @@
+{
+    "zip": 44123,
+    "lat": 41.60365,
+    "lng": -81.52441,
+    "city": "Euclid",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18391.0,
+    "density": 2804.3,
+    "county_fips": 39035,
+    "county_name": "Cuyahoga",
+    "county_weights": "{\"39035\": 100}",
+    "county_names_all": "Cuyahoga",
+    "county_fips_all": "39035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

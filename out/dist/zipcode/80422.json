@@ -1,0 +1,20 @@
+{
+    "zip": 80422,
+    "lat": 39.8635,
+    "lng": -105.53846,
+    "city": "Black Hawk",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4373.0,
+    "density": 15.8,
+    "county_fips": 8047,
+    "county_name": "Gilpin",
+    "county_weights": "{\"08047\": 100}",
+    "county_names_all": "Gilpin",
+    "county_fips_all": "08047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

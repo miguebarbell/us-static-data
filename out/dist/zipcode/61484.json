@@ -1,0 +1,20 @@
+{
+    "zip": 61484,
+    "lat": 40.29696,
+    "lng": -90.44153,
+    "city": "Vermont",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 671.0,
+    "density": 5.5,
+    "county_fips": 17057,
+    "county_name": "Fulton",
+    "county_weights": "{\"17057\": 54.17, \"17109\": 41.28, \"17169\": 4.55}",
+    "county_names_all": "Fulton|McDonough|Schuyler",
+    "county_fips_all": "17057|17109|17169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

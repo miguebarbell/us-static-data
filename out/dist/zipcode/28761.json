@@ -1,0 +1,20 @@
+{
+    "zip": 28761,
+    "lat": 35.69134,
+    "lng": -81.90714,
+    "city": "Nebo",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7884.0,
+    "density": 29.3,
+    "county_fips": 37111,
+    "county_name": "McDowell",
+    "county_weights": "{\"37111\": 69.99, \"37023\": 30.01}",
+    "county_names_all": "McDowell|Burke",
+    "county_fips_all": "37111|37023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

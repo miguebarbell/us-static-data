@@ -1,0 +1,20 @@
+{
+    "zip": 62547,
+    "lat": 39.76883,
+    "lng": -89.24929,
+    "city": "Mount Auburn",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 619.0,
+    "density": 5.7,
+    "county_fips": 17021,
+    "county_name": "Christian",
+    "county_weights": "{\"17021\": 96.26, \"17115\": 3.74}",
+    "county_names_all": "Christian|Macon",
+    "county_fips_all": "17021|17115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

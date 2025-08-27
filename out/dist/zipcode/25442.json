@@ -1,0 +1,20 @@
+{
+    "zip": 25442,
+    "lat": 39.37157,
+    "lng": -77.83181,
+    "city": "Shenandoah Junction",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2918.0,
+    "density": 77.4,
+    "county_fips": 54037,
+    "county_name": "Jefferson",
+    "county_weights": "{\"54037\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "54037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

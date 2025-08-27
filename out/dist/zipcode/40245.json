@@ -1,0 +1,20 @@
+{
+    "zip": 40245,
+    "lat": 38.26574,
+    "lng": -85.45327,
+    "city": "Louisville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39261.0,
+    "density": 465.5,
+    "county_fips": 21111,
+    "county_name": "Jefferson",
+    "county_weights": "{\"21111\": 72.06, \"21211\": 27.34, \"21185\": 0.6}",
+    "county_names_all": "Jefferson|Shelby|Oldham",
+    "county_fips_all": "21111|21211|21185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

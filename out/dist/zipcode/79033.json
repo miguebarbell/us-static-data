@@ -1,0 +1,20 @@
+{
+    "zip": 79033,
+    "lat": 36.30684,
+    "lng": -100.97661,
+    "city": "Farnsworth",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14.0,
+    "density": 1.6,
+    "county_fips": 48357,
+    "county_name": "Ochiltree",
+    "county_weights": "{\"48357\": 100}",
+    "county_names_all": "Ochiltree",
+    "county_fips_all": "48357",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

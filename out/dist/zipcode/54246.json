@@ -1,0 +1,20 @@
+{
+    "zip": 54246,
+    "lat": 45.37538,
+    "lng": -86.89721,
+    "city": "Washington Island",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 784.0,
+    "density": 11.9,
+    "county_fips": 55029,
+    "county_name": "Door",
+    "county_weights": "{\"55029\": 100}",
+    "county_names_all": "Door",
+    "county_fips_all": "55029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

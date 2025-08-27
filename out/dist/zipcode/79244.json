@@ -1,0 +1,20 @@
+{
+    "zip": 79244,
+    "lat": 34.0383,
+    "lng": -100.8059,
+    "city": "Matador",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 777.0,
+    "density": 1.3,
+    "county_fips": 48345,
+    "county_name": "Motley",
+    "county_weights": "{\"48345\": 100}",
+    "county_names_all": "Motley",
+    "county_fips_all": "48345",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

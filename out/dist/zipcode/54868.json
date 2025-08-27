@@ -1,0 +1,20 @@
+{
+    "zip": 54868,
+    "lat": 45.52723,
+    "lng": -91.70977,
+    "city": "Rice Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16054.0,
+    "density": 29.2,
+    "county_fips": 55005,
+    "county_name": "Barron",
+    "county_weights": "{\"55005\": 94.33, \"55107\": 4.4, \"55129\": 1.27}",
+    "county_names_all": "Barron|Rusk|Washburn",
+    "county_fips_all": "55005|55107|55129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

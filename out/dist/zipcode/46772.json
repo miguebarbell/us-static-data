@@ -1,0 +1,20 @@
+{
+    "zip": 46772,
+    "lat": 40.7221,
+    "lng": -84.91153,
+    "city": "Monroe",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3164.0,
+    "density": 32.8,
+    "county_fips": 18001,
+    "county_name": "Adams",
+    "county_weights": "{\"18001\": 100}",
+    "county_names_all": "Adams",
+    "county_fips_all": "18001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

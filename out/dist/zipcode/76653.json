@@ -1,0 +1,20 @@
+{
+    "zip": 76653,
+    "lat": 31.29963,
+    "lng": -96.60536,
+    "city": "Kosse",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1133.0,
+    "density": 2.9,
+    "county_fips": 48293,
+    "county_name": "Limestone",
+    "county_weights": "{\"48293\": 57.59, \"48145\": 32.86, \"48395\": 9.55}",
+    "county_names_all": "Limestone|Falls|Robertson",
+    "county_fips_all": "48293|48145|48395",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

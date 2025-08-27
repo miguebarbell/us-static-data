@@ -1,0 +1,20 @@
+{
+    "zip": 13623,
+    "lat": 44.44877,
+    "lng": -75.75299,
+    "city": "Chippewa Bay",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 76.0,
+    "density": 65.8,
+    "county_fips": 36089,
+    "county_name": "St. Lawrence",
+    "county_weights": "{\"36089\": 100}",
+    "county_names_all": "St. Lawrence",
+    "county_fips_all": "36089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

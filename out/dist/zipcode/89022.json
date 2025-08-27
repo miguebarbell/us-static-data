@@ -1,0 +1,20 @@
+{
+    "zip": 89022,
+    "lat": 38.51839,
+    "lng": -117.01489,
+    "city": "Manhattan",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 32023,
+    "county_name": "Nye",
+    "county_weights": "{\"32023\": 100}",
+    "county_names_all": "Nye",
+    "county_fips_all": "32023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

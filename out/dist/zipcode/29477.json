@@ -1,0 +1,20 @@
+{
+    "zip": 29477,
+    "lat": 33.16626,
+    "lng": -80.57176,
+    "city": "Saint George",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6949.0,
+    "density": 24.3,
+    "county_fips": 45035,
+    "county_name": "Dorchester",
+    "county_weights": "{\"45035\": 99.13, \"45075\": 0.87}",
+    "county_names_all": "Dorchester|Orangeburg",
+    "county_fips_all": "45035|45075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

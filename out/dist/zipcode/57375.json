@@ -1,0 +1,20 @@
+{
+    "zip": 57375,
+    "lat": 43.56222,
+    "lng": -98.47877,
+    "city": "Stickney",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 590.0,
+    "density": 1.6,
+    "county_fips": 46003,
+    "county_name": "Aurora",
+    "county_weights": "{\"46003\": 98.57, \"46035\": 1.43}",
+    "county_names_all": "Aurora|Davison",
+    "county_fips_all": "46003|46035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

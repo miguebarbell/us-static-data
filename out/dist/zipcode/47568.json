@@ -1,0 +1,20 @@
+{
+    "zip": 47568,
+    "lat": 38.79121,
+    "lng": -87.13654,
+    "city": "Plainville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 579.0,
+    "density": 7.0,
+    "county_fips": 18027,
+    "county_name": "Daviess",
+    "county_weights": "{\"18027\": 100}",
+    "county_names_all": "Daviess",
+    "county_fips_all": "18027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Vincennes"
+}

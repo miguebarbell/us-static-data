@@ -1,0 +1,20 @@
+{
+    "zip": 48837,
+    "lat": 42.7453,
+    "lng": -84.76701,
+    "city": "Grand Ledge",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19822.0,
+    "density": 97.6,
+    "county_fips": 26045,
+    "county_name": "Eaton",
+    "county_weights": "{\"26045\": 71.21, \"26037\": 24.26, \"26067\": 4.53}",
+    "county_names_all": "Eaton|Clinton|Ionia",
+    "county_fips_all": "26045|26037|26067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

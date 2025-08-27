@@ -1,0 +1,20 @@
+{
+    "zip": 27950,
+    "lat": 36.52599,
+    "lng": -76.00081,
+    "city": "Knotts Island",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1786.0,
+    "density": 23.2,
+    "county_fips": 37053,
+    "county_name": "Currituck",
+    "county_weights": "{\"37053\": 99.83, \"51810\": 0.17}",
+    "county_names_all": "Currituck|Virginia Beach",
+    "county_fips_all": "37053|51810",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

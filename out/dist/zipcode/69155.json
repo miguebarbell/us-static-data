@@ -1,0 +1,20 @@
+{
+    "zip": 69155,
+    "lat": 41.18974,
+    "lng": -101.39008,
+    "city": "Paxton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1077.0,
+    "density": 1.1,
+    "county_fips": 31101,
+    "county_name": "Keith",
+    "county_weights": "{\"31101\": 93.13, \"31135\": 5.19, \"31117\": 1.17, \"31005\": 0.51}",
+    "county_names_all": "Keith|Perkins|McPherson|Arthur",
+    "county_fips_all": "31101|31135|31117|31005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

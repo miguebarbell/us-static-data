@@ -1,0 +1,20 @@
+{
+    "zip": 76824,
+    "lat": 30.9411,
+    "lng": -98.46339,
+    "city": "Bend",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 48411,
+    "county_name": "San Saba",
+    "county_weights": "{\"48411\": 99.89, \"48299\": 0.11}",
+    "county_names_all": "San Saba|Llano",
+    "county_fips_all": "48411|48299",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

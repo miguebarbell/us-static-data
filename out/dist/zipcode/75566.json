@@ -1,0 +1,20 @@
+{
+    "zip": 75566,
+    "lat": 33.15256,
+    "lng": -94.49018,
+    "city": "Marietta",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 953.0,
+    "density": 7.8,
+    "county_fips": 48067,
+    "county_name": "Cass",
+    "county_weights": "{\"48067\": 100}",
+    "county_names_all": "Cass",
+    "county_fips_all": "48067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

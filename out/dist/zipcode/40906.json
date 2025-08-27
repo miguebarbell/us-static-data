@@ -1,0 +1,20 @@
+{
+    "zip": 40906,
+    "lat": 36.88828,
+    "lng": -83.87546,
+    "city": "Barbourville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10560.0,
+    "density": 29.7,
+    "county_fips": 21121,
+    "county_name": "Knox",
+    "county_weights": "{\"21121\": 97.72, \"21235\": 2.28}",
+    "county_names_all": "Knox|Whitley",
+    "county_fips_all": "21121|21235",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

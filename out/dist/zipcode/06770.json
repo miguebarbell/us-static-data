@@ -1,0 +1,20 @@
+{
+    "zip": 6770,
+    "lat": 41.48913,
+    "lng": -73.05181,
+    "city": "Naugatuck",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31671.0,
+    "density": 746.6,
+    "county_fips": 9140,
+    "county_name": "Naugatuck Valley",
+    "county_weights": "{\"09140\": 100}",
+    "county_names_all": "Naugatuck Valley",
+    "county_fips_all": "09140",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

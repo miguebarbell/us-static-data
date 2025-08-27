@@ -1,0 +1,20 @@
+{
+    "zip": 63369,
+    "lat": 38.93758,
+    "lng": -90.77766,
+    "city": "Old Monroe",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2984.0,
+    "density": 40.2,
+    "county_fips": 29113,
+    "county_name": "Lincoln",
+    "county_weights": "{\"29113\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "29113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

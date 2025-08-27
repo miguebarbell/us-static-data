@@ -1,0 +1,20 @@
+{
+    "zip": 45744,
+    "lat": 39.5396,
+    "lng": -81.5077,
+    "city": "Lowell",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2164.0,
+    "density": 14.9,
+    "county_fips": 39167,
+    "county_name": "Washington",
+    "county_weights": "{\"39167\": 95.47, \"39121\": 4.53}",
+    "county_names_all": "Washington|Noble",
+    "county_fips_all": "39167|39121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

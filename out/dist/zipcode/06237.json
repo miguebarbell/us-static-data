@@ -1,0 +1,20 @@
+{
+    "zip": 6237,
+    "lat": 41.69387,
+    "lng": -72.30722,
+    "city": "Columbia",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5268.0,
+    "density": 95.2,
+    "county_fips": 9110,
+    "county_name": "Capitol",
+    "county_weights": "{\"09110\": 100}",
+    "county_names_all": "Capitol",
+    "county_fips_all": "09110",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

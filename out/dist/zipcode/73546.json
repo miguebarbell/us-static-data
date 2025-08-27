@@ -1,0 +1,20 @@
+{
+    "zip": 73546,
+    "lat": 34.22336,
+    "lng": -98.73053,
+    "city": "Grandfield",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1159.0,
+    "density": 2.7,
+    "county_fips": 40141,
+    "county_name": "Tillman",
+    "county_weights": "{\"40141\": 92.08, \"40033\": 7.92}",
+    "county_names_all": "Tillman|Cotton",
+    "county_fips_all": "40141|40033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

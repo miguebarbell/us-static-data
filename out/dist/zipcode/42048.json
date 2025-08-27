@@ -1,0 +1,20 @@
+{
+    "zip": 42048,
+    "lat": 36.76676,
+    "lng": -88.23533,
+    "city": "Hardin",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1838.0,
+    "density": 26.5,
+    "county_fips": 21157,
+    "county_name": "Marshall",
+    "county_weights": "{\"21157\": 93.36, \"21035\": 6.64}",
+    "county_names_all": "Marshall|Calloway",
+    "county_fips_all": "21157|21035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

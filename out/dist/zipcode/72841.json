@@ -1,0 +1,20 @@
+{
+    "zip": 72841,
+    "lat": 34.86736,
+    "lng": -93.78515,
+    "city": "Harvey",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 216.0,
+    "density": 2.0,
+    "county_fips": 5127,
+    "county_name": "Scott",
+    "county_weights": "{\"05127\": 96.05, \"05149\": 3.95}",
+    "county_names_all": "Scott|Yell",
+    "county_fips_all": "05127|05149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

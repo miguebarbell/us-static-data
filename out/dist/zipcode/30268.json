@@ -1,0 +1,20 @@
+{
+    "zip": 30268,
+    "lat": 33.54357,
+    "lng": -84.72262,
+    "city": "Palmetto",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10714.0,
+    "density": 59.8,
+    "county_fips": 13121,
+    "county_name": "Fulton",
+    "county_weights": "{\"13121\": 87.24, \"13077\": 12.76}",
+    "county_names_all": "Fulton|Coweta",
+    "county_fips_all": "13121|13077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

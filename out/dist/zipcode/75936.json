@@ -1,0 +1,20 @@
+{
+    "zip": 75936,
+    "lat": 30.95147,
+    "lng": -94.58883,
+    "city": "Chester",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 677.0,
+    "density": 2.2,
+    "county_fips": 48457,
+    "county_name": "Tyler",
+    "county_weights": "{\"48457\": 82.24, \"48373\": 17.76}",
+    "county_names_all": "Tyler|Polk",
+    "county_fips_all": "48457|48373",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

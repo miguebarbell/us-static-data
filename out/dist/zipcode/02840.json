@@ -1,0 +1,20 @@
+{
+    "zip": 2840,
+    "lat": 41.47838,
+    "lng": -71.31993,
+    "city": "Newport",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23615.0,
+    "density": 1252.8,
+    "county_fips": 44005,
+    "county_name": "Newport",
+    "county_weights": "{\"44005\": 100}",
+    "county_names_all": "Newport",
+    "county_fips_all": "44005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

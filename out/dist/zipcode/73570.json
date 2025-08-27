@@ -1,0 +1,20 @@
+{
+    "zip": 73570,
+    "lat": 34.50988,
+    "lng": -99.1071,
+    "city": "Tipton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 940.0,
+    "density": 2.9,
+    "county_fips": 40141,
+    "county_name": "Tillman",
+    "county_weights": "{\"40141\": 100}",
+    "county_names_all": "Tillman",
+    "county_fips_all": "40141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

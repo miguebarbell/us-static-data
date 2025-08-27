@@ -1,0 +1,20 @@
+{
+    "zip": 57052,
+    "lat": 43.29471,
+    "lng": -97.7054,
+    "city": "Olivet",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 420.0,
+    "density": 1.9,
+    "county_fips": 46067,
+    "county_name": "Hutchinson",
+    "county_weights": "{\"46067\": 100}",
+    "county_names_all": "Hutchinson",
+    "county_fips_all": "46067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

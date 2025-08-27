@@ -1,0 +1,20 @@
+{
+    "zip": 80424,
+    "lat": 39.47089,
+    "lng": -106.01685,
+    "city": "Breckenridge",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10044.0,
+    "density": 30.8,
+    "county_fips": 8117,
+    "county_name": "Summit",
+    "county_weights": "{\"08117\": 100}",
+    "county_names_all": "Summit",
+    "county_fips_all": "08117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

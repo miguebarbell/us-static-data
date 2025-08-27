@@ -1,0 +1,20 @@
+{
+    "zip": 79371,
+    "lat": 33.97942,
+    "lng": -102.69414,
+    "city": "Sudan",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1464.0,
+    "density": 1.7,
+    "county_fips": 48017,
+    "county_name": "Bailey",
+    "county_weights": "{\"48017\": 57.82, \"48279\": 42.18}",
+    "county_names_all": "Bailey|Lamb",
+    "county_fips_all": "48017|48279",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

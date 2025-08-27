@@ -1,0 +1,20 @@
+{
+    "zip": 17016,
+    "lat": 40.27322,
+    "lng": -76.40705,
+    "city": "Cornwall",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1044.0,
+    "density": 1700.8,
+    "county_fips": 42075,
+    "county_name": "Lebanon",
+    "county_weights": "{\"42075\": 100}",
+    "county_names_all": "Lebanon",
+    "county_fips_all": "42075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

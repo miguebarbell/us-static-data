@@ -1,0 +1,20 @@
+{
+    "zip": 6755,
+    "lat": 41.64915,
+    "lng": -73.48143,
+    "city": "Gaylordsville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 975.0,
+    "density": 75.0,
+    "county_fips": 9190,
+    "county_name": "Western Connecticut",
+    "county_weights": "{\"09190\": 99.87, \"09160\": 0.13}",
+    "county_names_all": "Western Connecticut|Northwest Hills",
+    "county_fips_all": "09190|09160",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

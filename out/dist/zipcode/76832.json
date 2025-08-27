@@ -1,0 +1,20 @@
+{
+    "zip": 76832,
+    "lat": 30.97485,
+    "lng": -98.74384,
+    "city": "Cherokee",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 517.0,
+    "density": 1.1,
+    "county_fips": 48411,
+    "county_name": "San Saba",
+    "county_weights": "{\"48411\": 100}",
+    "county_names_all": "San Saba",
+    "county_fips_all": "48411",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

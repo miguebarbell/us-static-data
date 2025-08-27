@@ -1,0 +1,20 @@
+{
+    "zip": 97448,
+    "lat": 44.2105,
+    "lng": -123.27882,
+    "city": "Junction City",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14629.0,
+    "density": 40.9,
+    "county_fips": 41039,
+    "county_name": "Lane",
+    "county_weights": "{\"41039\": 94.43, \"41003\": 5.57}",
+    "county_names_all": "Lane|Benton",
+    "county_fips_all": "41039|41003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

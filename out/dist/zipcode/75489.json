@@ -1,0 +1,20 @@
+{
+    "zip": 75489,
+    "lat": 33.5204,
+    "lng": -96.48467,
+    "city": "Tom Bean",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 716.0,
+    "density": 114.9,
+    "county_fips": 48181,
+    "county_name": "Grayson",
+    "county_weights": "{\"48181\": 100}",
+    "county_names_all": "Grayson",
+    "county_fips_all": "48181",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

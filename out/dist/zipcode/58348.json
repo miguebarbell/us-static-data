@@ -1,0 +1,20 @@
+{
+    "zip": 58348,
+    "lat": 47.95509,
+    "lng": -99.52365,
+    "city": "Maddock",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 801.0,
+    "density": 1.2,
+    "county_fips": 38005,
+    "county_name": "Benson",
+    "county_weights": "{\"38005\": 89.49, \"38103\": 10.51}",
+    "county_names_all": "Benson|Wells",
+    "county_fips_all": "38005|38103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

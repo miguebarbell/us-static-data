@@ -1,0 +1,20 @@
+{
+    "zip": 68788,
+    "lat": 41.8387,
+    "lng": -96.72571,
+    "city": "West Point",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4531.0,
+    "density": 9.4,
+    "county_fips": 31039,
+    "county_name": "Cuming",
+    "county_weights": "{\"31039\": 99.88, \"31053\": 0.12}",
+    "county_names_all": "Cuming|Dodge",
+    "county_fips_all": "31039|31053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

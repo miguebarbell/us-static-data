@@ -1,0 +1,20 @@
+{
+    "zip": 75643,
+    "lat": 32.01041,
+    "lng": -94.35518,
+    "city": "Gary",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2072.0,
+    "density": 10.8,
+    "county_fips": 48365,
+    "county_name": "Panola",
+    "county_weights": "{\"48365\": 87.09, \"48419\": 12.91}",
+    "county_names_all": "Panola|Shelby",
+    "county_fips_all": "48365|48419",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

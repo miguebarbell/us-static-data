@@ -1,0 +1,20 @@
+{
+    "zip": 42788,
+    "lat": 37.52774,
+    "lng": -86.0372,
+    "city": "White Mills",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 339.0,
+    "density": 17.2,
+    "county_fips": 21093,
+    "county_name": "Hardin",
+    "county_weights": "{\"21093\": 100}",
+    "county_names_all": "Hardin",
+    "county_fips_all": "21093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

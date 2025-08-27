@@ -1,0 +1,20 @@
+{
+    "zip": 76305,
+    "lat": 33.99979,
+    "lng": -98.3909,
+    "city": "Wichita Falls",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4929.0,
+    "density": 8.7,
+    "county_fips": 48077,
+    "county_name": "Clay",
+    "county_weights": "{\"48077\": 68.74, \"48485\": 31.26}",
+    "county_names_all": "Clay|Wichita",
+    "county_fips_all": "48077|48485",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

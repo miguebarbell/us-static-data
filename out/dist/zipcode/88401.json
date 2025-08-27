@@ -1,0 +1,20 @@
+{
+    "zip": 88401,
+    "lat": 35.08984,
+    "lng": -103.80942,
+    "city": "Tucumcari",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6689.0,
+    "density": 2.7,
+    "county_fips": 35037,
+    "county_name": "Quay",
+    "county_weights": "{\"35037\": 90.24, \"35047\": 9.76}",
+    "county_names_all": "Quay|San Miguel",
+    "county_fips_all": "35037|35047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

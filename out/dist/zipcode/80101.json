@@ -1,0 +1,20 @@
+{
+    "zip": 80101,
+    "lat": 39.42503,
+    "lng": -103.95395,
+    "city": "Agate",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 449.0,
+    "density": 0.5,
+    "county_fips": 8039,
+    "county_name": "Elbert",
+    "county_weights": "{\"08039\": 100}",
+    "county_names_all": "Elbert",
+    "county_fips_all": "08039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

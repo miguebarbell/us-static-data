@@ -1,0 +1,20 @@
+{
+    "zip": 32622,
+    "lat": 29.89914,
+    "lng": -82.31216,
+    "city": "Brooker",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1418.0,
+    "density": 7.9,
+    "county_fips": 12007,
+    "county_name": "Bradford",
+    "county_weights": "{\"12007\": 85.64, \"12001\": 14.36}",
+    "county_names_all": "Bradford|Alachua",
+    "county_fips_all": "12007|12001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

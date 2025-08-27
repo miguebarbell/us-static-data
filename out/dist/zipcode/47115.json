@@ -1,0 +1,20 @@
+{
+    "zip": 47115,
+    "lat": 38.34465,
+    "lng": -86.21655,
+    "city": "Depauw",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2929.0,
+    "density": 19.4,
+    "county_fips": 18061,
+    "county_name": "Harrison",
+    "county_weights": "{\"18061\": 100}",
+    "county_names_all": "Harrison",
+    "county_fips_all": "18061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Kentucky/Louisville"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 7735,
+    "lat": 40.44108,
+    "lng": -74.2028,
+    "city": "Keyport",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19203.0,
+    "density": 1527.2,
+    "county_fips": 34025,
+    "county_name": "Monmouth",
+    "county_weights": "{\"34025\": 84.42, \"34023\": 15.58}",
+    "county_names_all": "Monmouth|Middlesex",
+    "county_fips_all": "34025|34023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

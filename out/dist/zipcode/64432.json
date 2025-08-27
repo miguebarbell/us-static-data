@@ -1,0 +1,20 @@
+{
+    "zip": 64432,
+    "lat": 40.26399,
+    "lng": -94.66119,
+    "city": "Clyde",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 144.0,
+    "density": 51.4,
+    "county_fips": 29147,
+    "county_name": "Nodaway",
+    "county_weights": "{\"29147\": 100}",
+    "county_names_all": "Nodaway",
+    "county_fips_all": "29147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

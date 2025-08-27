@@ -1,0 +1,20 @@
+{
+    "zip": 25121,
+    "lat": 37.91167,
+    "lng": -81.87787,
+    "city": "Lake",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1049.0,
+    "density": 13.1,
+    "county_fips": 54045,
+    "county_name": "Logan",
+    "county_weights": "{\"54045\": 97.28, \"54005\": 2.72}",
+    "county_names_all": "Logan|Boone",
+    "county_fips_all": "54045|54005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

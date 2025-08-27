@@ -1,0 +1,20 @@
+{
+    "zip": 71833,
+    "lat": 34.13409,
+    "lng": -94.02665,
+    "city": "Dierks",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1830.0,
+    "density": 4.8,
+    "county_fips": 5061,
+    "county_name": "Howard",
+    "county_weights": "{\"05061\": 89.46, \"05133\": 10.54}",
+    "county_names_all": "Howard|Sevier",
+    "county_fips_all": "05061|05133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 46407,
+    "lat": 41.57844,
+    "lng": -87.33047,
+    "city": "Gary",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8889.0,
+    "density": 822.0,
+    "county_fips": 18089,
+    "county_name": "Lake",
+    "county_weights": "{\"18089\": 100}",
+    "county_names_all": "Lake",
+    "county_fips_all": "18089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

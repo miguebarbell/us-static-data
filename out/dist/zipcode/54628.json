@@ -1,0 +1,20 @@
+{
+    "zip": 54628,
+    "lat": 43.37572,
+    "lng": -91.02618,
+    "city": "Ferryville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 938.0,
+    "density": 4.9,
+    "county_fips": 55023,
+    "county_name": "Crawford",
+    "county_weights": "{\"55023\": 91.49, \"55123\": 8.51}",
+    "county_names_all": "Crawford|Vernon",
+    "county_fips_all": "55023|55123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

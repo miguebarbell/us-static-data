@@ -1,0 +1,20 @@
+{
+    "zip": 16342,
+    "lat": 41.31995,
+    "lng": -79.9294,
+    "city": "Polk",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2185.0,
+    "density": 12.7,
+    "county_fips": 42121,
+    "county_name": "Venango",
+    "county_weights": "{\"42121\": 96.68, \"42085\": 3.32}",
+    "county_names_all": "Venango|Mercer",
+    "county_fips_all": "42121|42085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

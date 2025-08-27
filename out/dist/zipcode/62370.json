@@ -1,0 +1,20 @@
+{
+    "zip": 62370,
+    "lat": 39.51818,
+    "lng": -90.99881,
+    "city": "Rockport",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 295.0,
+    "density": 1.9,
+    "county_fips": 17149,
+    "county_name": "Pike",
+    "county_weights": "{\"17149\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "17149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

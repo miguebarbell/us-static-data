@@ -1,0 +1,20 @@
+{
+    "zip": 73481,
+    "lat": 34.42229,
+    "lng": -97.51955,
+    "city": "Ratliff City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 924.0,
+    "density": 4.6,
+    "county_fips": 40019,
+    "county_name": "Carter",
+    "county_weights": "{\"40019\": 74.14, \"40137\": 17.02, \"40049\": 8.84}",
+    "county_names_all": "Carter|Stephens|Garvin",
+    "county_fips_all": "40019|40137|40049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 76351,
+    "lat": 33.55553,
+    "lng": -98.71145,
+    "city": "Archer City",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1481.0,
+    "density": 2.2,
+    "county_fips": 48009,
+    "county_name": "Archer",
+    "county_weights": "{\"48009\": 100}",
+    "county_names_all": "Archer",
+    "county_fips_all": "48009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

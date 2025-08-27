@@ -1,0 +1,20 @@
+{
+    "zip": 52228,
+    "lat": 41.90282,
+    "lng": -91.79132,
+    "city": "Fairfax",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3865.0,
+    "density": 40.1,
+    "county_fips": 19113,
+    "county_name": "Linn",
+    "county_weights": "{\"19113\": 75.69, \"19011\": 13.04, \"19103\": 11.27}",
+    "county_names_all": "Linn|Benton|Johnson",
+    "county_fips_all": "19113|19011|19103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 79353,
+    "lat": 33.78723,
+    "lng": -102.58723,
+    "city": "Pep",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31.0,
+    "density": 0.8,
+    "county_fips": 48219,
+    "county_name": "Hockley",
+    "county_weights": "{\"48219\": 100}",
+    "county_names_all": "Hockley",
+    "county_fips_all": "48219",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

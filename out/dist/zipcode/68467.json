@@ -1,0 +1,20 @@
+{
+    "zip": 68467,
+    "lat": 40.86528,
+    "lng": -97.59778,
+    "city": "York",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9688.0,
+    "density": 21.6,
+    "county_fips": 31185,
+    "county_name": "York",
+    "county_weights": "{\"31185\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "31185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

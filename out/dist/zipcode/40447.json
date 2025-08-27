@@ -1,0 +1,20 @@
+{
+    "zip": 40447,
+    "lat": 37.45496,
+    "lng": -84.0299,
+    "city": "McKee",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7559.0,
+    "density": 12.0,
+    "county_fips": 21109,
+    "county_name": "Jackson",
+    "county_weights": "{\"21109\": 94.52, \"21189\": 4.13, \"21065\": 0.68, \"21203\": 0.67}",
+    "county_names_all": "Jackson|Owsley|Estill|Rockcastle",
+    "county_fips_all": "21109|21189|21065|21203",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

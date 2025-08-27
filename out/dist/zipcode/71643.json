@@ -1,0 +1,20 @@
+{
+    "zip": 71643,
+    "lat": 34.01953,
+    "lng": -91.57945,
+    "city": "Gould",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5241.0,
+    "density": 14.7,
+    "county_fips": 5079,
+    "county_name": "Lincoln",
+    "county_weights": "{\"05079\": 92.81, \"05041\": 7.19}",
+    "county_names_all": "Lincoln|Desha",
+    "county_fips_all": "05079|05041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

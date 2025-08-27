@@ -1,0 +1,20 @@
+{
+    "zip": 25059,
+    "lat": 38.25422,
+    "lng": -81.2153,
+    "city": "Dixie",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 374.0,
+    "density": 27.7,
+    "county_fips": 54019,
+    "county_name": "Fayette",
+    "county_weights": "{\"54019\": 51.99, \"54067\": 47.78, \"54039\": 0.13, \"54015\": 0.1}",
+    "county_names_all": "Fayette|Nicholas|Kanawha|Clay",
+    "county_fips_all": "54019|54067|54039|54015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

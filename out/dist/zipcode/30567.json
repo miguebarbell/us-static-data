@@ -1,0 +1,20 @@
+{
+    "zip": 30567,
+    "lat": 34.18326,
+    "lng": -83.6814,
+    "city": "Pendergrass",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5169.0,
+    "density": 68.8,
+    "county_fips": 13157,
+    "county_name": "Jackson",
+    "county_weights": "{\"13157\": 98.81, \"13139\": 1.19}",
+    "county_names_all": "Jackson|Hall",
+    "county_fips_all": "13157|13139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

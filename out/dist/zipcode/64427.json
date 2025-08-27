@@ -1,0 +1,20 @@
+{
+    "zip": 64427,
+    "lat": 40.10828,
+    "lng": -94.84136,
+    "city": "Bolckow",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 621.0,
+    "density": 3.9,
+    "county_fips": 29003,
+    "county_name": "Andrew",
+    "county_weights": "{\"29003\": 82.33, \"29147\": 17.67}",
+    "county_names_all": "Andrew|Nodaway",
+    "county_fips_all": "29003|29147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

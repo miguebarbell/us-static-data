@@ -1,0 +1,20 @@
+{
+    "zip": 71003,
+    "lat": 32.62969,
+    "lng": -93.02787,
+    "city": "Athens",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 753.0,
+    "density": 4.6,
+    "county_fips": 22027,
+    "county_name": "Claiborne",
+    "county_weights": "{\"22027\": 100}",
+    "county_names_all": "Claiborne",
+    "county_fips_all": "22027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

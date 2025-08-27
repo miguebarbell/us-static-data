@@ -1,0 +1,20 @@
+{
+    "zip": 70544,
+    "lat": 29.9059,
+    "lng": -91.6575,
+    "city": "Jeanerette",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10407.0,
+    "density": 39.1,
+    "county_fips": 22045,
+    "county_name": "Iberia",
+    "county_weights": "{\"22045\": 52.48, \"22101\": 47.52}",
+    "county_names_all": "Iberia|St. Mary",
+    "county_fips_all": "22045|22101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

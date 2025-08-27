@@ -1,0 +1,20 @@
+{
+    "zip": 55038,
+    "lat": 45.169,
+    "lng": -92.98059,
+    "city": "Hugo",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24246.0,
+    "density": 185.4,
+    "county_fips": 27163,
+    "county_name": "Washington",
+    "county_weights": "{\"27163\": 68.95, \"27003\": 30.73, \"27123\": 0.32}",
+    "county_names_all": "Washington|Anoka|Ramsey",
+    "county_fips_all": "27163|27003|27123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

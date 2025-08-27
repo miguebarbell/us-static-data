@@ -1,0 +1,20 @@
+{
+    "zip": 95043,
+    "lat": 36.51652,
+    "lng": -120.97677,
+    "city": "Paicines",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 673.0,
+    "density": 0.3,
+    "county_fips": 6069,
+    "county_name": "San Benito",
+    "county_weights": "{\"06069\": 100}",
+    "county_names_all": "San Benito",
+    "county_fips_all": "06069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

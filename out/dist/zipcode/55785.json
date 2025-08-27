@@ -1,0 +1,20 @@
+{
+    "zip": 55785,
+    "lat": 46.92332,
+    "lng": -93.74591,
+    "city": "Swatara",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 347.0,
+    "density": 1.2,
+    "county_fips": 27001,
+    "county_name": "Aitkin",
+    "county_weights": "{\"27001\": 74.15, \"27021\": 25.85}",
+    "county_names_all": "Aitkin|Cass",
+    "county_fips_all": "27001|27021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

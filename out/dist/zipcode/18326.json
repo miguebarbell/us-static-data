@@ -1,0 +1,20 @@
+{
+    "zip": 18326,
+    "lat": 41.15617,
+    "lng": -75.25186,
+    "city": "Cresco",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3574.0,
+    "density": 41.3,
+    "county_fips": 42089,
+    "county_name": "Monroe",
+    "county_weights": "{\"42089\": 97.18, \"42103\": 2.82}",
+    "county_names_all": "Monroe|Pike",
+    "county_fips_all": "42089|42103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 44647,
+    "lat": 40.79537,
+    "lng": -81.56575,
+    "city": "Massillon",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17851.0,
+    "density": 238.6,
+    "county_fips": 39151,
+    "county_name": "Stark",
+    "county_weights": "{\"39151\": 100}",
+    "county_names_all": "Stark",
+    "county_fips_all": "39151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

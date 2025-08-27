@@ -1,0 +1,20 @@
+{
+    "zip": 44666,
+    "lat": 40.84232,
+    "lng": -81.63202,
+    "city": "North Lawrence",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3122.0,
+    "density": 51.3,
+    "county_fips": 39151,
+    "county_name": "Stark",
+    "county_weights": "{\"39151\": 71.29, \"39169\": 28.71}",
+    "county_names_all": "Stark|Wayne",
+    "county_fips_all": "39151|39169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

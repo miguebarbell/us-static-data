@@ -1,0 +1,20 @@
+{
+    "zip": 73048,
+    "lat": 35.48929,
+    "lng": -98.55378,
+    "city": "Hydro",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2260.0,
+    "density": 4.6,
+    "county_fips": 40015,
+    "county_name": "Caddo",
+    "county_weights": "{\"40015\": 71.55, \"40011\": 21.49, \"40039\": 6.96}",
+    "county_names_all": "Caddo|Blaine|Custer",
+    "county_fips_all": "40015|40011|40039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

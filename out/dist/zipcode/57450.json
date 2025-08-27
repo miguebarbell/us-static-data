@@ -1,0 +1,20 @@
+{
+    "zip": 57450,
+    "lat": 45.21599,
+    "lng": -99.83696,
+    "city": "Hoven",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 605.0,
+    "density": 1.1,
+    "county_fips": 46107,
+    "county_name": "Potter",
+    "county_weights": "{\"46107\": 64.42, \"46129\": 35.58}",
+    "county_names_all": "Potter|Walworth",
+    "county_fips_all": "46107|46129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

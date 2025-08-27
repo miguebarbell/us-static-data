@@ -1,0 +1,20 @@
+{
+    "zip": 29107,
+    "lat": 33.52348,
+    "lng": -81.11856,
+    "city": "Neeses",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2695.0,
+    "density": 15.0,
+    "county_fips": 45075,
+    "county_name": "Orangeburg",
+    "county_weights": "{\"45075\": 100}",
+    "county_names_all": "Orangeburg",
+    "county_fips_all": "45075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

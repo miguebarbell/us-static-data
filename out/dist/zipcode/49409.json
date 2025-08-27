@@ -1,0 +1,20 @@
+{
+    "zip": 49409,
+    "lat": 43.08077,
+    "lng": -86.21826,
+    "city": "Ferrysburg",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 102.0,
+    "density": 394.3,
+    "county_fips": 26139,
+    "county_name": "Ottawa",
+    "county_weights": "{\"26139\": 100}",
+    "county_names_all": "Ottawa",
+    "county_fips_all": "26139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

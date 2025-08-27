@@ -1,0 +1,20 @@
+{
+    "zip": 36441,
+    "lat": 31.04064,
+    "lng": -87.25885,
+    "city": "Flomaton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3438.0,
+    "density": 21.9,
+    "county_fips": 1053,
+    "county_name": "Escambia",
+    "county_weights": "{\"01053\": 100}",
+    "county_names_all": "Escambia",
+    "county_fips_all": "01053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

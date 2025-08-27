@@ -1,0 +1,20 @@
+{
+    "zip": 67865,
+    "lat": 37.4368,
+    "lng": -99.96506,
+    "city": "Minneola",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 903.0,
+    "density": 1.3,
+    "county_fips": 20025,
+    "county_name": "Clark",
+    "county_weights": "{\"20025\": 62.88, \"20057\": 37.12}",
+    "county_names_all": "Clark|Ford",
+    "county_fips_all": "20025|20057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

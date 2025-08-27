@@ -1,0 +1,20 @@
+{
+    "zip": 37682,
+    "lat": 36.30035,
+    "lng": -82.29169,
+    "city": "Milligan",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 513.0,
+    "density": 1942.7,
+    "county_fips": 47019,
+    "county_name": "Carter",
+    "county_weights": "{\"47019\": 100}",
+    "county_names_all": "Carter",
+    "county_fips_all": "47019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 70609,
+    "lat": 30.17907,
+    "lng": -93.21482,
+    "city": "Lake Charles",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 412.0,
+    "density": 17706.7,
+    "county_fips": 22019,
+    "county_name": "Calcasieu",
+    "county_weights": "{\"22019\": 100}",
+    "county_names_all": "Calcasieu",
+    "county_fips_all": "22019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

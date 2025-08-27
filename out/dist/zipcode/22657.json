@@ -1,0 +1,20 @@
+{
+    "zip": 22657,
+    "lat": 39.00155,
+    "lng": -78.36755,
+    "city": "Strasburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12047.0,
+    "density": 80.6,
+    "county_fips": 51171,
+    "county_name": "Shenandoah",
+    "county_weights": "{\"51171\": 85.87, \"51187\": 14.13}",
+    "county_names_all": "Shenandoah|Warren",
+    "county_fips_all": "51171|51187",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 80742,
+    "lat": 40.74855,
+    "lng": -103.81371,
+    "city": "New Raymer",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 215.0,
+    "density": 0.2,
+    "county_fips": 8123,
+    "county_name": "Weld",
+    "county_weights": "{\"08123\": 92.74, \"08087\": 7.26}",
+    "county_names_all": "Weld|Morgan",
+    "county_fips_all": "08123|08087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

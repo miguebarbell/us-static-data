@@ -1,0 +1,20 @@
+{
+    "zip": 26374,
+    "lat": 39.44755,
+    "lng": -79.88101,
+    "city": "Independence",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1858.0,
+    "density": 20.0,
+    "county_fips": 54077,
+    "county_name": "Preston",
+    "county_weights": "{\"54077\": 71.35, \"54091\": 18.2, \"54061\": 10.45}",
+    "county_names_all": "Preston|Taylor|Monongalia",
+    "county_fips_all": "54077|54091|54061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

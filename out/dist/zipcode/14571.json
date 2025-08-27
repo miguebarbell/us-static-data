@@ -1,0 +1,20 @@
+{
+    "zip": 14571,
+    "lat": 43.34397,
+    "lng": -78.24894,
+    "city": "Waterport",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1001.0,
+    "density": 22.7,
+    "county_fips": 36073,
+    "county_name": "Orleans",
+    "county_weights": "{\"36073\": 100}",
+    "county_names_all": "Orleans",
+    "county_fips_all": "36073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

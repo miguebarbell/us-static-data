@@ -1,0 +1,15 @@
+{
+    "zip": [
+        "10701",
+        "10703",
+        "10704",
+        "10705",
+        "10710"
+    ],
+    "city": "Yonkers",
+    "state": "NY",
+    "lat": 41.27027,
+    "lng": -71.98886,
+    "state_name": "New York",
+    "timezone": "America/New_York"
+}

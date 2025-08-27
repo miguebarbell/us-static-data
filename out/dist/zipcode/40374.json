@@ -1,0 +1,20 @@
+{
+    "zip": 40374,
+    "lat": 38.21419,
+    "lng": -83.90359,
+    "city": "Sharpsburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2667.0,
+    "density": 16.8,
+    "county_fips": 21011,
+    "county_name": "Bath",
+    "county_weights": "{\"21011\": 83.93, \"21181\": 11.76, \"21017\": 4.31}",
+    "county_names_all": "Bath|Nicholas|Bourbon",
+    "county_fips_all": "21011|21181|21017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

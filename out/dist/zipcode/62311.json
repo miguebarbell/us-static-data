@@ -1,0 +1,20 @@
+{
+    "zip": 62311,
+    "lat": 40.22195,
+    "lng": -90.9212,
+    "city": "Augusta",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 893.0,
+    "density": 7.1,
+    "county_fips": 17067,
+    "county_name": "Hancock",
+    "county_weights": "{\"17067\": 48.57, \"17169\": 39.9, \"17001\": 11.53}",
+    "county_names_all": "Hancock|Schuyler|Adams",
+    "county_fips_all": "17067|17169|17001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

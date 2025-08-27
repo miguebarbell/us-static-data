@@ -1,0 +1,20 @@
+{
+    "zip": 88231,
+    "lat": 32.42376,
+    "lng": -103.26873,
+    "city": "Eunice",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3360.0,
+    "density": 3.7,
+    "county_fips": 35025,
+    "county_name": "Lea",
+    "county_weights": "{\"35025\": 100}",
+    "county_names_all": "Lea",
+    "county_fips_all": "35025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

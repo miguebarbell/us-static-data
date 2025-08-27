@@ -1,0 +1,20 @@
+{
+    "zip": 73554,
+    "lat": 34.85562,
+    "lng": -99.60118,
+    "city": "Mangum",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3361.0,
+    "density": 3.6,
+    "county_fips": 40055,
+    "county_name": "Greer",
+    "county_weights": "{\"40055\": 85.55, \"40057\": 13.42, \"40065\": 1.03}",
+    "county_names_all": "Greer|Harmon|Jackson",
+    "county_fips_all": "40055|40057|40065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

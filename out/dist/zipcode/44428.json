@@ -1,0 +1,20 @@
+{
+    "zip": 44428,
+    "lat": 41.43458,
+    "lng": -80.5779,
+    "city": "Kinsman",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3196.0,
+    "density": 22.8,
+    "county_fips": 39155,
+    "county_name": "Trumbull",
+    "county_weights": "{\"39155\": 96.5, \"39007\": 3.5}",
+    "county_names_all": "Trumbull|Ashtabula",
+    "county_fips_all": "39155|39007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

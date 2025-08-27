@@ -1,0 +1,20 @@
+{
+    "zip": 83271,
+    "lat": 42.4574,
+    "lng": -112.84551,
+    "city": "Rockland",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 368.0,
+    "density": 0.6,
+    "county_fips": 16077,
+    "county_name": "Power",
+    "county_weights": "{\"16077\": 100}",
+    "county_names_all": "Power",
+    "county_fips_all": "16077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

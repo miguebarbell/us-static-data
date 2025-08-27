@@ -1,0 +1,20 @@
+{
+    "zip": 47858,
+    "lat": 39.26268,
+    "lng": -87.22868,
+    "city": "Lewis",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 952.0,
+    "density": 11.9,
+    "county_fips": 18021,
+    "county_name": "Clay",
+    "county_weights": "{\"18021\": 61.39, \"18167\": 24.87, \"18153\": 13.74}",
+    "county_names_all": "Clay|Vigo|Sullivan",
+    "county_fips_all": "18021|18167|18153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

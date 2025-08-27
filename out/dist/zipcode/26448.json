@@ -1,0 +1,20 @@
+{
+    "zip": 26448,
+    "lat": 39.40595,
+    "lng": -80.49265,
+    "city": "Wallace",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1181.0,
+    "density": 11.9,
+    "county_fips": 54033,
+    "county_name": "Harrison",
+    "county_weights": "{\"54033\": 90.89, \"54049\": 5.57, \"54017\": 3.54}",
+    "county_names_all": "Harrison|Marion|Doddridge",
+    "county_fips_all": "54033|54049|54017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

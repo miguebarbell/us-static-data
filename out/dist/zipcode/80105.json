@@ -1,0 +1,20 @@
+{
+    "zip": 80105,
+    "lat": 39.62679,
+    "lng": -103.96078,
+    "city": "Deer Trail",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2023.0,
+    "density": 2.0,
+    "county_fips": 8005,
+    "county_name": "Arapahoe",
+    "county_weights": "{\"08005\": 59.35, \"08039\": 27.9, \"08001\": 12.75}",
+    "county_names_all": "Arapahoe|Elbert|Adams",
+    "county_fips_all": "08005|08039|08001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

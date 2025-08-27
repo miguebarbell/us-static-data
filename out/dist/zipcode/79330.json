@@ -1,0 +1,20 @@
+{
+    "zip": 79330,
+    "lat": 33.03072,
+    "lng": -101.21727,
+    "city": "Justiceburg",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 113.0,
+    "density": 0.3,
+    "county_fips": 48169,
+    "county_name": "Garza",
+    "county_weights": "{\"48169\": 100}",
+    "county_names_all": "Garza",
+    "county_fips_all": "48169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

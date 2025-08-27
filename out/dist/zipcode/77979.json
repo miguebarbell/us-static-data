@@ -1,0 +1,20 @@
+{
+    "zip": 77979,
+    "lat": 28.60248,
+    "lng": -96.6017,
+    "city": "Port Lavaca",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16179.0,
+    "density": 18.3,
+    "county_fips": 48057,
+    "county_name": "Calhoun",
+    "county_weights": "{\"48057\": 85.64, \"48469\": 7.65, \"48239\": 6.71}",
+    "county_names_all": "Calhoun|Victoria|Jackson",
+    "county_fips_all": "48057|48469|48239",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

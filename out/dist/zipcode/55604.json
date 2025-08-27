@@ -1,0 +1,20 @@
+{
+    "zip": 55604,
+    "lat": 47.96201,
+    "lng": -90.55792,
+    "city": "Grand Marais",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3613.0,
+    "density": 1.7,
+    "county_fips": 27031,
+    "county_name": "Cook",
+    "county_weights": "{\"27031\": 100}",
+    "county_names_all": "Cook",
+    "county_fips_all": "27031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

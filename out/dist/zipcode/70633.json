@@ -1,0 +1,20 @@
+{
+    "zip": 70633,
+    "lat": 30.42762,
+    "lng": -93.3925,
+    "city": "Dequincy",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8178.0,
+    "density": 17.7,
+    "county_fips": 22019,
+    "county_name": "Calcasieu",
+    "county_weights": "{\"22019\": 58.41, \"22011\": 41.59}",
+    "county_names_all": "Calcasieu|Beauregard",
+    "county_fips_all": "22019|22011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

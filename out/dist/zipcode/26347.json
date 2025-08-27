@@ -1,0 +1,20 @@
+{
+    "zip": 26347,
+    "lat": 39.26371,
+    "lng": -80.1261,
+    "city": "Flemington",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2345.0,
+    "density": 22.1,
+    "county_fips": 54091,
+    "county_name": "Taylor",
+    "county_weights": "{\"54091\": 73.64, \"54001\": 26.36}",
+    "county_names_all": "Taylor|Barbour",
+    "county_fips_all": "54091|54001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

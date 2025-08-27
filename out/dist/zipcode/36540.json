@@ -1,0 +1,20 @@
+{
+    "zip": 36540,
+    "lat": 31.44702,
+    "lng": -87.66487,
+    "city": "Gainestown",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 854.0,
+    "density": 7.6,
+    "county_fips": 1025,
+    "county_name": "Clarke",
+    "county_weights": "{\"01025\": 100}",
+    "county_names_all": "Clarke",
+    "county_fips_all": "01025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 25243,
+    "lat": 38.67841,
+    "lng": -81.48216,
+    "city": "Gandeeville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 686.0,
+    "density": 4.9,
+    "county_fips": 54087,
+    "county_name": "Roane",
+    "county_weights": "{\"54087\": 96.22, \"54035\": 3.78}",
+    "county_names_all": "Roane|Jackson",
+    "county_fips_all": "54087|54035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

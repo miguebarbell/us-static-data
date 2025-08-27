@@ -1,0 +1,20 @@
+{
+    "zip": 16123,
+    "lat": 40.82389,
+    "lng": -80.19844,
+    "city": "Fombell",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2601.0,
+    "density": 45.8,
+    "county_fips": 42007,
+    "county_name": "Beaver",
+    "county_weights": "{\"42007\": 82.1, \"42073\": 17.9}",
+    "county_names_all": "Beaver|Lawrence",
+    "county_fips_all": "42007|42073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

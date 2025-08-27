@@ -1,0 +1,20 @@
+{
+    "zip": 31624,
+    "lat": 31.29911,
+    "lng": -82.72612,
+    "city": "Axson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1597.0,
+    "density": 6.5,
+    "county_fips": 13003,
+    "county_name": "Atkinson",
+    "county_weights": "{\"13003\": 87.16, \"13069\": 11.23, \"13299\": 1.61}",
+    "county_names_all": "Atkinson|Coffee|Ware",
+    "county_fips_all": "13003|13069|13299",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 29550,
+    "lat": 34.39309,
+    "lng": -80.07595,
+    "city": "Hartsville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30198.0,
+    "density": 56.0,
+    "county_fips": 45031,
+    "county_name": "Darlington",
+    "county_weights": "{\"45031\": 80.94, \"45025\": 16.83, \"45061\": 2.23}",
+    "county_names_all": "Darlington|Chesterfield|Lee",
+    "county_fips_all": "45031|45025|45061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 62474,
+    "lat": 39.43526,
+    "lng": -87.99462,
+    "city": "Westfield",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 651.0,
+    "density": 7.0,
+    "county_fips": 17023,
+    "county_name": "Clark",
+    "county_weights": "{\"17023\": 63.55, \"17029\": 36.45}",
+    "county_names_all": "Clark|Coles",
+    "county_fips_all": "17023|17029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

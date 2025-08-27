@@ -1,0 +1,20 @@
+{
+    "zip": 74359,
+    "lat": 36.16846,
+    "lng": -94.85218,
+    "city": "Oaks",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 298.0,
+    "density": 52.4,
+    "county_fips": 40041,
+    "county_name": "Delaware",
+    "county_weights": "{\"40041\": 94.64, \"40021\": 5.36}",
+    "county_names_all": "Delaware|Cherokee",
+    "county_fips_all": "40041|40021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

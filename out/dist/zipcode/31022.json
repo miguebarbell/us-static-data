@@ -1,0 +1,20 @@
+{
+    "zip": 31022,
+    "lat": 32.51216,
+    "lng": -83.10954,
+    "city": "Dudley",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1721.0,
+    "density": 12.9,
+    "county_fips": 13175,
+    "county_name": "Laurens",
+    "county_weights": "{\"13175\": 95.11, \"13023\": 4.89}",
+    "county_names_all": "Laurens|Bleckley",
+    "county_fips_all": "13175|13023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

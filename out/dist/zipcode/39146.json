@@ -1,0 +1,20 @@
+{
+    "zip": 39146,
+    "lat": 32.88078,
+    "lng": -89.99316,
+    "city": "Pickens",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3057.0,
+    "density": 8.7,
+    "county_fips": 28089,
+    "county_name": "Madison",
+    "county_weights": "{\"28089\": 42.62, \"28051\": 40.22, \"28163\": 17.16}",
+    "county_names_all": "Madison|Holmes|Yazoo",
+    "county_fips_all": "28089|28051|28163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

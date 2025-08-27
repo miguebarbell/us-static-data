@@ -1,0 +1,20 @@
+{
+    "zip": 32968,
+    "lat": 27.58808,
+    "lng": -80.50993,
+    "city": "Vero Beach",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15576.0,
+    "density": 138.4,
+    "county_fips": 12061,
+    "county_name": "Indian River",
+    "county_weights": "{\"12061\": 99.74, \"12111\": 0.26}",
+    "county_names_all": "Indian River|St. Lucie",
+    "county_fips_all": "12061|12111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

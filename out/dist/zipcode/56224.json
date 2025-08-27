@@ -1,0 +1,20 @@
+{
+    "zip": 56224,
+    "lat": 44.37628,
+    "lng": -95.05854,
+    "city": "Clements",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 301.0,
+    "density": 3.3,
+    "county_fips": 27127,
+    "county_name": "Redwood",
+    "county_weights": "{\"27127\": 100}",
+    "county_names_all": "Redwood",
+    "county_fips_all": "27127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

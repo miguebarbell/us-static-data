@@ -1,0 +1,20 @@
+{
+    "zip": 50599,
+    "lat": 42.58089,
+    "lng": -93.81471,
+    "city": "Woolstock",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 423.0,
+    "density": 3.4,
+    "county_fips": 19197,
+    "county_name": "Wright",
+    "county_weights": "{\"19197\": 83.68, \"19079\": 16.32}",
+    "county_names_all": "Wright|Hamilton",
+    "county_fips_all": "19197|19079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

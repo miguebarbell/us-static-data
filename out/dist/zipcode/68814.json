@@ -1,0 +1,20 @@
+{
+    "zip": 68814,
+    "lat": 41.3086,
+    "lng": -99.4102,
+    "city": "Ansley",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 919.0,
+    "density": 1.7,
+    "county_fips": 31041,
+    "county_name": "Custer",
+    "county_weights": "{\"31041\": 100}",
+    "county_names_all": "Custer",
+    "county_fips_all": "31041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

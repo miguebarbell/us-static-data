@@ -1,0 +1,20 @@
+{
+    "zip": 48098,
+    "lat": 42.59903,
+    "lng": -83.1789,
+    "city": "Troy",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20658.0,
+    "density": 848.6,
+    "county_fips": 26125,
+    "county_name": "Oakland",
+    "county_weights": "{\"26125\": 100}",
+    "county_names_all": "Oakland",
+    "county_fips_all": "26125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

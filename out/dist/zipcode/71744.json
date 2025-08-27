@@ -1,0 +1,20 @@
+{
+    "zip": 71744,
+    "lat": 33.49201,
+    "lng": -92.47536,
+    "city": "Hampton",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2961.0,
+    "density": 2.9,
+    "county_fips": 5013,
+    "county_name": "Calhoun",
+    "county_weights": "{\"05013\": 100}",
+    "county_names_all": "Calhoun",
+    "county_fips_all": "05013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 45698,
+    "lat": 39.28811,
+    "lng": -82.39604,
+    "city": "Zaleski",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 449.0,
+    "density": 74.3,
+    "county_fips": 39163,
+    "county_name": "Vinton",
+    "county_weights": "{\"39163\": 100}",
+    "county_names_all": "Vinton",
+    "county_fips_all": "39163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

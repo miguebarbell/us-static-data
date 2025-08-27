@@ -1,0 +1,20 @@
+{
+    "zip": 59542,
+    "lat": 48.81907,
+    "lng": -108.33693,
+    "city": "Turner",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 359.0,
+    "density": 0.2,
+    "county_fips": 30005,
+    "county_name": "Blaine",
+    "county_weights": "{\"30005\": 65.31, \"30071\": 34.69}",
+    "county_names_all": "Blaine|Phillips",
+    "county_fips_all": "30005|30071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 36579,
+    "lat": 31.11395,
+    "lng": -87.78616,
+    "city": "Stockton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1448.0,
+    "density": 3.6,
+    "county_fips": 1003,
+    "county_name": "Baldwin",
+    "county_weights": "{\"01003\": 100}",
+    "county_names_all": "Baldwin",
+    "county_fips_all": "01003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 84758,
+    "lat": 37.27041,
+    "lng": -112.68529,
+    "city": "Orderville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 837.0,
+    "density": 2.4,
+    "county_fips": 49025,
+    "county_name": "Kane",
+    "county_weights": "{\"49025\": 100}",
+    "county_names_all": "Kane",
+    "county_fips_all": "49025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

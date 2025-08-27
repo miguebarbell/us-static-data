@@ -1,0 +1,20 @@
+{
+    "zip": 96756,
+    "lat": 21.9085,
+    "lng": -159.45368,
+    "city": "Koloa",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6110.0,
+    "density": 96.8,
+    "county_fips": 15007,
+    "county_name": "Kauai",
+    "county_weights": "{\"15007\": 100}",
+    "county_names_all": "Kauai",
+    "county_fips_all": "15007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "Pacific/Honolulu"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 31307,
+    "lat": 32.17979,
+    "lng": -81.3967,
+    "city": "Eden",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1620.0,
+    "density": 132.8,
+    "county_fips": 13103,
+    "county_name": "Effingham",
+    "county_weights": "{\"13103\": 99.9, \"13029\": 0.1}",
+    "county_names_all": "Effingham|Bryan",
+    "county_fips_all": "13103|13029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

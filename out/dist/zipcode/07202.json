@@ -1,0 +1,20 @@
+{
+    "zip": 7202,
+    "lat": 40.6531,
+    "lng": -74.21677,
+    "city": "Elizabeth",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44638.0,
+    "density": 7450.1,
+    "county_fips": 34039,
+    "county_name": "Union",
+    "county_weights": "{\"34039\": 100}",
+    "county_names_all": "Union",
+    "county_fips_all": "34039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

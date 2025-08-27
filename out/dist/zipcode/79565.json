@@ -1,0 +1,20 @@
+{
+    "zip": 79565,
+    "lat": 32.37637,
+    "lng": -101.08415,
+    "city": "Westbrook",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 351.0,
+    "density": 2.3,
+    "county_fips": 48335,
+    "county_name": "Mitchell",
+    "county_weights": "{\"48335\": 100}",
+    "county_names_all": "Mitchell",
+    "county_fips_all": "48335",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

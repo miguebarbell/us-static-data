@@ -1,0 +1,20 @@
+{
+    "zip": 21850,
+    "lat": 38.36171,
+    "lng": -75.39867,
+    "city": "Pittsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3733.0,
+    "density": 51.3,
+    "county_fips": 24045,
+    "county_name": "Wicomico",
+    "county_weights": "{\"24045\": 100}",
+    "county_names_all": "Wicomico",
+    "county_fips_all": "24045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

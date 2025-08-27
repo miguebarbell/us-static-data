@@ -1,0 +1,20 @@
+{
+    "zip": 67548,
+    "lat": 38.59299,
+    "lng": -99.33579,
+    "city": "La Crosse",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1290.0,
+    "density": 4.2,
+    "county_fips": 20165,
+    "county_name": "Rush",
+    "county_weights": "{\"20165\": 100}",
+    "county_names_all": "Rush",
+    "county_fips_all": "20165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

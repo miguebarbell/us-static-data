@@ -1,0 +1,20 @@
+{
+    "zip": 96062,
+    "lat": 40.56373,
+    "lng": -122.06646,
+    "city": "Millville",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1074.0,
+    "density": 6.2,
+    "county_fips": 6089,
+    "county_name": "Shasta",
+    "county_weights": "{\"06089\": 100}",
+    "county_names_all": "Shasta",
+    "county_fips_all": "06089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

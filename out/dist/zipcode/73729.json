@@ -1,0 +1,20 @@
+{
+    "zip": 73729,
+    "lat": 36.39723,
+    "lng": -98.45256,
+    "city": "Cleo Springs",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 657.0,
+    "density": 3.5,
+    "county_fips": 40093,
+    "county_name": "Major",
+    "county_weights": "{\"40093\": 84.25, \"40151\": 15.75}",
+    "county_names_all": "Major|Woods",
+    "county_fips_all": "40093|40151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

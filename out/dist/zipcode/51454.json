@@ -1,0 +1,20 @@
+{
+    "zip": 51454,
+    "lat": 41.8798,
+    "lng": -95.2072,
+    "city": "Manilla",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1399.0,
+    "density": 5.6,
+    "county_fips": 19047,
+    "county_name": "Crawford",
+    "county_weights": "{\"19047\": 57.58, \"19165\": 42.42}",
+    "county_names_all": "Crawford|Shelby",
+    "county_fips_all": "19047|19165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

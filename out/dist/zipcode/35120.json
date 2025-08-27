@@ -1,0 +1,20 @@
+{
+    "zip": 35120,
+    "lat": 33.66777,
+    "lng": -86.42064,
+    "city": "Odenville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17735.0,
+    "density": 96.7,
+    "county_fips": 1115,
+    "county_name": "St. Clair",
+    "county_weights": "{\"01115\": 100}",
+    "county_names_all": "St. Clair",
+    "county_fips_all": "01115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

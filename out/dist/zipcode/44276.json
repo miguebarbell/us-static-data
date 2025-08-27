@@ -1,0 +1,20 @@
+{
+    "zip": 44276,
+    "lat": 40.93667,
+    "lng": -81.83502,
+    "city": "Sterling",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1725.0,
+    "density": 32.4,
+    "county_fips": 39169,
+    "county_name": "Wayne",
+    "county_weights": "{\"39169\": 100}",
+    "county_names_all": "Wayne",
+    "county_fips_all": "39169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

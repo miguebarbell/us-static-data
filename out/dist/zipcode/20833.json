@@ -1,0 +1,20 @@
+{
+    "zip": 20833,
+    "lat": 39.20595,
+    "lng": -77.05552,
+    "city": "Brookeville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7868.0,
+    "density": 159.0,
+    "county_fips": 24031,
+    "county_name": "Montgomery",
+    "county_weights": "{\"24031\": 90.43, \"24027\": 9.57}",
+    "county_names_all": "Montgomery|Howard",
+    "county_fips_all": "24031|24027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

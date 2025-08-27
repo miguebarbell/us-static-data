@@ -1,0 +1,20 @@
+{
+    "zip": 36362,
+    "lat": 31.35072,
+    "lng": -85.69027,
+    "city": "Fort Novosel",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5221.0,
+    "density": 68.6,
+    "county_fips": 1045,
+    "county_name": "Dale",
+    "county_weights": "{\"01045\": 100}",
+    "county_names_all": "Dale",
+    "county_fips_all": "01045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

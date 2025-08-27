@@ -1,0 +1,20 @@
+{
+    "zip": 70443,
+    "lat": 30.62885,
+    "lng": -90.54257,
+    "city": "Independence",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8359.0,
+    "density": 42.3,
+    "county_fips": 22105,
+    "county_name": "Tangipahoa",
+    "county_weights": "{\"22105\": 57.39, \"22063\": 32.87, \"22091\": 9.74}",
+    "county_names_all": "Tangipahoa|Livingston|St. Helena",
+    "county_fips_all": "22105|22063|22091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

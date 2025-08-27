@@ -1,0 +1,20 @@
+{
+    "zip": 2366,
+    "lat": 41.84868,
+    "lng": -70.6613,
+    "city": "South Carver",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 251.0,
+    "density": 2164.5,
+    "county_fips": 25023,
+    "county_name": "Plymouth",
+    "county_weights": "{\"25023\": 100}",
+    "county_names_all": "Plymouth",
+    "county_fips_all": "25023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

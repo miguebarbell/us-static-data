@@ -1,0 +1,20 @@
+{
+    "zip": 95639,
+    "lat": 38.39202,
+    "lng": -121.49599,
+    "city": "Hood",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 286.0,
+    "density": 23.8,
+    "county_fips": 6067,
+    "county_name": "Sacramento",
+    "county_weights": "{\"06067\": 100}",
+    "county_names_all": "Sacramento",
+    "county_fips_all": "06067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 57301,
+    "lat": 43.71136,
+    "lng": -98.04155,
+    "city": "Mitchell",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19142.0,
+    "density": 31.0,
+    "county_fips": 46035,
+    "county_name": "Davison",
+    "county_weights": "{\"46035\": 77.51, \"46061\": 22.49}",
+    "county_names_all": "Davison|Hanson",
+    "county_fips_all": "46035|46061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

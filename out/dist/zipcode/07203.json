@@ -1,0 +1,20 @@
+{
+    "zip": 7203,
+    "lat": 40.65269,
+    "lng": -74.2599,
+    "city": "Roselle",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22455.0,
+    "density": 3289.7,
+    "county_fips": 34039,
+    "county_name": "Union",
+    "county_weights": "{\"34039\": 100}",
+    "county_names_all": "Union",
+    "county_fips_all": "34039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

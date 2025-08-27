@@ -1,0 +1,20 @@
+{
+    "zip": 81427,
+    "lat": 37.99301,
+    "lng": -107.64387,
+    "city": "Ouray",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1251.0,
+    "density": 6.5,
+    "county_fips": 8091,
+    "county_name": "Ouray",
+    "county_weights": "{\"08091\": 100}",
+    "county_names_all": "Ouray",
+    "county_fips_all": "08091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

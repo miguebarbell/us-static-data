@@ -1,0 +1,20 @@
+{
+    "zip": 57359,
+    "lat": 43.90105,
+    "lng": -98.15589,
+    "city": "Letcher",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 632.0,
+    "density": 1.6,
+    "county_fips": 46111,
+    "county_name": "Sanborn",
+    "county_weights": "{\"46111\": 76.21, \"46003\": 14.94, \"46035\": 8.85}",
+    "county_names_all": "Sanborn|Aurora|Davison",
+    "county_fips_all": "46111|46003|46035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

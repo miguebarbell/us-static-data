@@ -1,0 +1,20 @@
+{
+    "zip": 74728,
+    "lat": 34.15411,
+    "lng": -94.81959,
+    "city": "Broken Bow",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11177.0,
+    "density": 10.8,
+    "county_fips": 40089,
+    "county_name": "McCurtain",
+    "county_weights": "{\"40089\": 89.39, \"40127\": 10.61}",
+    "county_names_all": "McCurtain|Pushmataha",
+    "county_fips_all": "40089|40127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

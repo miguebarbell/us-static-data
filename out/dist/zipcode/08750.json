@@ -1,0 +1,20 @@
+{
+    "zip": 8750,
+    "lat": 40.13389,
+    "lng": -74.0444,
+    "city": "Sea Girt",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3624.0,
+    "density": 736.4,
+    "county_fips": 34025,
+    "county_name": "Monmouth",
+    "county_weights": "{\"34025\": 100}",
+    "county_names_all": "Monmouth",
+    "county_fips_all": "34025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

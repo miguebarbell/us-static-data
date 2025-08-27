@@ -1,0 +1,20 @@
+{
+    "zip": 76454,
+    "lat": 32.22983,
+    "lng": -98.69621,
+    "city": "Gorman",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1396.0,
+    "density": 4.3,
+    "county_fips": 48133,
+    "county_name": "Eastland",
+    "county_weights": "{\"48133\": 75.75, \"48093\": 24.25}",
+    "county_names_all": "Eastland|Comanche",
+    "county_fips_all": "48133|48093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

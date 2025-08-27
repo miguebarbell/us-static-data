@@ -1,0 +1,20 @@
+{
+    "zip": 16063,
+    "lat": 40.76352,
+    "lng": -80.12773,
+    "city": "Zelienople",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8188.0,
+    "density": 186.4,
+    "county_fips": 42019,
+    "county_name": "Butler",
+    "county_weights": "{\"42019\": 77.88, \"42007\": 22.12}",
+    "county_names_all": "Butler|Beaver",
+    "county_fips_all": "42019|42007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

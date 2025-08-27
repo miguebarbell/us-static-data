@@ -1,0 +1,20 @@
+{
+    "zip": 58795,
+    "lat": 48.64198,
+    "lng": -103.15094,
+    "city": "Wildrose",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 256.0,
+    "density": 0.5,
+    "county_fips": 38023,
+    "county_name": "Divide",
+    "county_weights": "{\"38023\": 53.85, \"38105\": 46.15}",
+    "county_names_all": "Divide|Williams",
+    "county_fips_all": "38023|38105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

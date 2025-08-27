@@ -1,0 +1,20 @@
+{
+    "zip": 61531,
+    "lat": 40.68291,
+    "lng": -90.03482,
+    "city": "Farmington",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3018.0,
+    "density": 20.7,
+    "county_fips": 17057,
+    "county_name": "Fulton",
+    "county_weights": "{\"17057\": 62.59, \"17095\": 23.75, \"17143\": 13.66}",
+    "county_names_all": "Fulton|Knox|Peoria",
+    "county_fips_all": "17057|17095|17143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

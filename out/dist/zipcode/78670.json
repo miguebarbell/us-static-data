@@ -1,0 +1,20 @@
+{
+    "zip": 78670,
+    "lat": 29.76267,
+    "lng": -97.84608,
+    "city": "Staples",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 178.0,
+    "density": 12.2,
+    "county_fips": 48187,
+    "county_name": "Guadalupe",
+    "county_weights": "{\"48187\": 100}",
+    "county_names_all": "Guadalupe",
+    "county_fips_all": "48187",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

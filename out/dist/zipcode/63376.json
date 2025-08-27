@@ -1,0 +1,20 @@
+{
+    "zip": 63376,
+    "lat": 38.80022,
+    "lng": -90.61636,
+    "city": "Saint Peters",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 74876.0,
+    "density": 720.3,
+    "county_fips": 29183,
+    "county_name": "St. Charles",
+    "county_weights": "{\"29183\": 100}",
+    "county_names_all": "St. Charles",
+    "county_fips_all": "29183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

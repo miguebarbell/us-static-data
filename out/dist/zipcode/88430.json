@@ -1,0 +1,20 @@
+{
+    "zip": 88430,
+    "lat": 35.65348,
+    "lng": -103.21357,
+    "city": "Nara Visa",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 241.0,
+    "density": 0.2,
+    "county_fips": 35037,
+    "county_name": "Quay",
+    "county_weights": "{\"35037\": 71.89, \"35059\": 25.48, \"48359\": 2.63}",
+    "county_names_all": "Quay|Union|Oldham",
+    "county_fips_all": "35037|35059|48359",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

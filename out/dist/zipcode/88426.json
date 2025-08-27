@@ -1,0 +1,20 @@
+{
+    "zip": 88426,
+    "lat": 35.52366,
+    "lng": -103.47607,
+    "city": "Logan",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 997.0,
+    "density": 0.5,
+    "county_fips": 35021,
+    "county_name": "Harding",
+    "county_weights": "{\"35021\": 65.38, \"35037\": 31.51, \"35047\": 3.11}",
+    "county_names_all": "Harding|Quay|San Miguel",
+    "county_fips_all": "35021|35037|35047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

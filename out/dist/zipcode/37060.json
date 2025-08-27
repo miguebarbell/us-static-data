@@ -1,0 +1,20 @@
+{
+    "zip": 37060,
+    "lat": 35.74924,
+    "lng": -86.63428,
+    "city": "Eagleville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3574.0,
+    "density": 34.2,
+    "county_fips": 47149,
+    "county_name": "Rutherford",
+    "county_weights": "{\"47149\": 74.7, \"47187\": 12.71, \"47003\": 11.57, \"47117\": 1.02}",
+    "county_names_all": "Rutherford|Williamson|Bedford|Marshall",
+    "county_fips_all": "47149|47187|47003|47117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

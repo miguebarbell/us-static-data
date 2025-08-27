@@ -1,0 +1,20 @@
+{
+    "zip": 1568,
+    "lat": 42.17694,
+    "lng": -71.60516,
+    "city": "Upton",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7926.0,
+    "density": 144.2,
+    "county_fips": 25027,
+    "county_name": "Worcester",
+    "county_weights": "{\"25027\": 100}",
+    "county_names_all": "Worcester",
+    "county_fips_all": "25027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

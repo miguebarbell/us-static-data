@@ -1,0 +1,20 @@
+{
+    "zip": 14824,
+    "lat": 42.26875,
+    "lng": -76.70881,
+    "city": "Cayuta",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 778.0,
+    "density": 14.7,
+    "county_fips": 36097,
+    "county_name": "Schuyler",
+    "county_weights": "{\"36097\": 66.7, \"36015\": 33.3}",
+    "county_names_all": "Schuyler|Chemung",
+    "county_fips_all": "36097|36015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

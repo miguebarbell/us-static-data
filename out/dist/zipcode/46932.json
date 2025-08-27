@@ -1,0 +1,20 @@
+{
+    "zip": 46932,
+    "lat": 40.59675,
+    "lng": -86.26243,
+    "city": "Galveston",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2996.0,
+    "density": 21.0,
+    "county_fips": 18017,
+    "county_name": "Cass",
+    "county_weights": "{\"18017\": 88.37, \"18067\": 9.31, \"18103\": 1.58, \"18015\": 0.74}",
+    "county_names_all": "Cass|Howard|Miami|Carroll",
+    "county_fips_all": "18017|18067|18103|18015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

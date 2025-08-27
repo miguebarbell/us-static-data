@@ -1,0 +1,20 @@
+{
+    "zip": 35971,
+    "lat": 34.45603,
+    "lng": -85.9466,
+    "city": "Fyffe",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4903.0,
+    "density": 34.3,
+    "county_fips": 1049,
+    "county_name": "DeKalb",
+    "county_weights": "{\"01049\": 99.66, \"01071\": 0.34}",
+    "county_names_all": "DeKalb|Jackson",
+    "county_fips_all": "01049|01071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

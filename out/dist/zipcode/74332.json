@@ -1,0 +1,20 @@
+{
+    "zip": 74332,
+    "lat": 36.52111,
+    "lng": -95.23864,
+    "city": "Big Cabin",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1808.0,
+    "density": 10.0,
+    "county_fips": 40035,
+    "county_name": "Craig",
+    "county_weights": "{\"40035\": 43.57, \"40097\": 35.84, \"40131\": 20.59}",
+    "county_names_all": "Craig|Mayes|Rogers",
+    "county_fips_all": "40035|40097|40131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

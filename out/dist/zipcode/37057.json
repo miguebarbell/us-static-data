@@ -1,0 +1,20 @@
+{
+    "zip": 37057,
+    "lat": 36.40466,
+    "lng": -86.02726,
+    "city": "Dixon Springs",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 691.0,
+    "density": 9.1,
+    "county_fips": 47169,
+    "county_name": "Trousdale",
+    "county_weights": "{\"47169\": 38.14, \"47159\": 31.37, \"47111\": 30.49}",
+    "county_names_all": "Trousdale|Smith|Macon",
+    "county_fips_all": "47169|47159|47111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

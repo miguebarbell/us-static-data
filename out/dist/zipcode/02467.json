@@ -1,0 +1,20 @@
+{
+    "zip": 2467,
+    "lat": 42.31725,
+    "lng": -71.16096,
+    "city": "Chestnut Hill",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22325.0,
+    "density": 1757.1,
+    "county_fips": 25021,
+    "county_name": "Norfolk",
+    "county_weights": "{\"25021\": 57.05, \"25017\": 28.64, \"25025\": 14.31}",
+    "county_names_all": "Norfolk|Middlesex|Suffolk",
+    "county_fips_all": "25021|25017|25025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

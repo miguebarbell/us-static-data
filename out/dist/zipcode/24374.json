@@ -1,0 +1,20 @@
+{
+    "zip": 24374,
+    "lat": 36.79129,
+    "lng": -81.20178,
+    "city": "Speedwell",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 514.0,
+    "density": 7.7,
+    "county_fips": 51197,
+    "county_name": "Wythe",
+    "county_weights": "{\"51197\": 100}",
+    "county_names_all": "Wythe",
+    "county_fips_all": "51197",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

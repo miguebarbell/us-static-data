@@ -1,0 +1,20 @@
+{
+    "zip": 65640,
+    "lat": 37.69956,
+    "lng": -93.57165,
+    "city": "Dunnegan",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1373.0,
+    "density": 13.5,
+    "county_fips": 29167,
+    "county_name": "Polk",
+    "county_weights": "{\"29167\": 74.17, \"29039\": 25.83}",
+    "county_names_all": "Polk|Cedar",
+    "county_fips_all": "29167|29039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

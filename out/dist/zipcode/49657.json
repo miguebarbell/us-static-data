@@ -1,0 +1,20 @@
+{
+    "zip": 49657,
+    "lat": 44.21523,
+    "lng": -85.17653,
+    "city": "McBain",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3875.0,
+    "density": 16.2,
+    "county_fips": 26113,
+    "county_name": "Missaukee",
+    "county_weights": "{\"26113\": 99.67, \"26165\": 0.33}",
+    "county_names_all": "Missaukee|Wexford",
+    "county_fips_all": "26113|26165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 70743,
+    "lat": 30.02655,
+    "lng": -90.7729,
+    "city": "Hester",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 756.0,
+    "density": 100.3,
+    "county_fips": 22093,
+    "county_name": "St. James",
+    "county_weights": "{\"22093\": 100}",
+    "county_names_all": "St. James",
+    "county_fips_all": "22093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

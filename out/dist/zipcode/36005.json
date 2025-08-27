@@ -1,0 +1,20 @@
+{
+    "zip": 36005,
+    "lat": 31.88137,
+    "lng": -85.72802,
+    "city": "Banks",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1486.0,
+    "density": 3.8,
+    "county_fips": 1109,
+    "county_name": "Pike",
+    "county_weights": "{\"01109\": 54.7, \"01011\": 44.91, \"01005\": 0.39}",
+    "county_names_all": "Pike|Bullock|Barbour",
+    "county_fips_all": "01109|01011|01005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

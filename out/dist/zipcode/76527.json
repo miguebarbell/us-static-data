@@ -1,0 +1,20 @@
+{
+    "zip": 76527,
+    "lat": 30.8379,
+    "lng": -97.79531,
+    "city": "Florence",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4686.0,
+    "density": 15.1,
+    "county_fips": 48491,
+    "county_name": "Williamson",
+    "county_weights": "{\"48491\": 85.74, \"48053\": 7.62, \"48027\": 6.64}",
+    "county_names_all": "Williamson|Burnet|Bell",
+    "county_fips_all": "48491|48053|48027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

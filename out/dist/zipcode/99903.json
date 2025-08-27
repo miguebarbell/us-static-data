@@ -1,0 +1,20 @@
+{
+    "zip": 99903,
+    "lat": 55.73414,
+    "lng": -132.10669,
+    "city": "Meyers Chuck",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1.0,
+    "density": 0.0,
+    "county_fips": 2275,
+    "county_name": "Wrangell",
+    "county_weights": "{\"02275\": 100}",
+    "county_names_all": "Wrangell",
+    "county_fips_all": "02275",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Sitka"
+}

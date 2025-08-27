@@ -1,0 +1,20 @@
+{
+    "zip": 76539,
+    "lat": 31.09193,
+    "lng": -97.9992,
+    "city": "Kempner",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8642.0,
+    "density": 27.6,
+    "county_fips": 48281,
+    "county_name": "Lampasas",
+    "county_weights": "{\"48281\": 71.24, \"48053\": 21.94, \"48027\": 5.06, \"48099\": 1.76}",
+    "county_names_all": "Lampasas|Burnet|Bell|Coryell",
+    "county_fips_all": "48281|48053|48027|48099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

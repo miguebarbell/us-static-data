@@ -1,0 +1,20 @@
+{
+    "zip": 58484,
+    "lat": 47.37821,
+    "lng": -98.4687,
+    "city": "Sutton",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 104.0,
+    "density": 0.7,
+    "county_fips": 38039,
+    "county_name": "Griggs",
+    "county_weights": "{\"38039\": 73.3, \"38031\": 26.7}",
+    "county_names_all": "Griggs|Foster",
+    "county_fips_all": "38039|38031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 52041,
+    "lat": 42.5051,
+    "lng": -91.25515,
+    "city": "Earlville",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1796.0,
+    "density": 11.8,
+    "county_fips": 19055,
+    "county_name": "Delaware",
+    "county_weights": "{\"19055\": 100}",
+    "county_names_all": "Delaware",
+    "county_fips_all": "19055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

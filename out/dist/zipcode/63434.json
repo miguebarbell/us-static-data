@@ -1,0 +1,20 @@
+{
+    "zip": 63434,
+    "lat": 39.90591,
+    "lng": -91.9507,
+    "city": "Bethel",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 761.0,
+    "density": 4.5,
+    "county_fips": 29205,
+    "county_name": "Shelby",
+    "county_weights": "{\"29205\": 100}",
+    "county_names_all": "Shelby",
+    "county_fips_all": "29205",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

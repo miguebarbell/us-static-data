@@ -1,0 +1,20 @@
+{
+    "zip": 22957,
+    "lat": 38.22998,
+    "lng": -78.1918,
+    "city": "Montpelier Station",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 51137,
+    "county_name": "Orange",
+    "county_weights": "{\"51137\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "51137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65286,
+    "lat": 39.50616,
+    "lng": -93.22059,
+    "city": "Triplett",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 101.0,
+    "density": 0.9,
+    "county_fips": 29041,
+    "county_name": "Chariton",
+    "county_weights": "{\"29041\": 100}",
+    "county_names_all": "Chariton",
+    "county_fips_all": "29041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

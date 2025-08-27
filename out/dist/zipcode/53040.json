@@ -1,0 +1,20 @@
+{
+    "zip": 53040,
+    "lat": 43.52126,
+    "lng": -88.19198,
+    "city": "Kewaskum",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8223.0,
+    "density": 50.5,
+    "county_fips": 55131,
+    "county_name": "Washington",
+    "county_weights": "{\"55131\": 76.69, \"55117\": 12.64, \"55039\": 10.67}",
+    "county_names_all": "Washington|Sheboygan|Fond du Lac",
+    "county_fips_all": "55131|55117|55039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

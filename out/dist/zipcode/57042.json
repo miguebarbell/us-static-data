@@ -1,0 +1,20 @@
+{
+    "zip": 57042,
+    "lat": 43.97744,
+    "lng": -97.15133,
+    "city": "Madison",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7900.0,
+    "density": 15.8,
+    "county_fips": 46079,
+    "county_name": "Lake",
+    "county_weights": "{\"46079\": 99.22, \"46087\": 0.78}",
+    "county_names_all": "Lake|McCook",
+    "county_fips_all": "46079|46087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

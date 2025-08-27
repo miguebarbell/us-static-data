@@ -1,0 +1,20 @@
+{
+    "zip": 46571,
+    "lat": 41.56795,
+    "lng": -85.54667,
+    "city": "Topeka",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6321.0,
+    "density": 54.2,
+    "county_fips": 18087,
+    "county_name": "LaGrange",
+    "county_weights": "{\"18087\": 95.16, \"18113\": 4.84}",
+    "county_names_all": "LaGrange|Noble",
+    "county_fips_all": "18087|18113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

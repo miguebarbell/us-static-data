@@ -1,0 +1,20 @@
+{
+    "zip": 48875,
+    "lat": 42.8578,
+    "lng": -84.93201,
+    "city": "Portland",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11090.0,
+    "density": 50.2,
+    "county_fips": 26067,
+    "county_name": "Ionia",
+    "county_weights": "{\"26067\": 90.06, \"26037\": 9.94}",
+    "county_names_all": "Ionia|Clinton",
+    "county_fips_all": "26067|26037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

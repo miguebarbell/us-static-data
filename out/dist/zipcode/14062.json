@@ -1,0 +1,20 @@
+{
+    "zip": 14062,
+    "lat": 42.44364,
+    "lng": -79.14897,
+    "city": "Forestville",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3220.0,
+    "density": 17.6,
+    "county_fips": 36013,
+    "county_name": "Chautauqua",
+    "county_weights": "{\"36013\": 99.71, \"36009\": 0.29}",
+    "county_names_all": "Chautauqua|Cattaraugus",
+    "county_fips_all": "36013|36009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

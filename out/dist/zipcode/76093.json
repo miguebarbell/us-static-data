@@ -1,0 +1,20 @@
+{
+    "zip": 76093,
+    "lat": 32.21459,
+    "lng": -97.40098,
+    "city": "Rio Vista",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4193.0,
+    "density": 47.3,
+    "county_fips": 48251,
+    "county_name": "Johnson",
+    "county_weights": "{\"48251\": 80.11, \"48217\": 19.89}",
+    "county_names_all": "Johnson|Hill",
+    "county_fips_all": "48251|48217",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

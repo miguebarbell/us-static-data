@@ -1,0 +1,20 @@
+{
+    "zip": 30286,
+    "lat": 32.88078,
+    "lng": -84.33334,
+    "city": "Thomaston",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24616.0,
+    "density": 47.7,
+    "county_fips": 13293,
+    "county_name": "Upson",
+    "county_weights": "{\"13293\": 100}",
+    "county_names_all": "Upson",
+    "county_fips_all": "13293",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 32320,
+    "lat": 29.74232,
+    "lng": -85.06938,
+    "city": "Apalachicola",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3503.0,
+    "density": 42.3,
+    "county_fips": 12037,
+    "county_name": "Franklin",
+    "county_weights": "{\"12037\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "12037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

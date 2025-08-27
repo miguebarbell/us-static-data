@@ -1,0 +1,20 @@
+{
+    "zip": 97465,
+    "lat": 42.7376,
+    "lng": -124.3795,
+    "city": "Port Orford",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1777.0,
+    "density": 6.0,
+    "county_fips": 41015,
+    "county_name": "Curry",
+    "county_weights": "{\"41015\": 100}",
+    "county_names_all": "Curry",
+    "county_fips_all": "41015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

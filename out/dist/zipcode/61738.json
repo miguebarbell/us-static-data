@@ -1,0 +1,20 @@
+{
+    "zip": 61738,
+    "lat": 40.74925,
+    "lng": -89.02821,
+    "city": "El Paso",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4444.0,
+    "density": 19.9,
+    "county_fips": 17203,
+    "county_name": "Woodford",
+    "county_weights": "{\"17203\": 94.0, \"17113\": 6.0}",
+    "county_names_all": "Woodford|McLean",
+    "county_fips_all": "17203|17113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

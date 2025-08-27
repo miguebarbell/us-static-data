@@ -1,0 +1,20 @@
+{
+    "zip": 42742,
+    "lat": 37.07774,
+    "lng": -85.47888,
+    "city": "Gradyville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 99.0,
+    "density": 19.5,
+    "county_fips": 21001,
+    "county_name": "Adair",
+    "county_weights": "{\"21001\": 100}",
+    "county_names_all": "Adair",
+    "county_fips_all": "21001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

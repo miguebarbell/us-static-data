@@ -1,0 +1,20 @@
+{
+    "zip": 68844,
+    "lat": 41.05659,
+    "lng": -99.05938,
+    "city": "Hazard",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 243.0,
+    "density": 2.0,
+    "county_fips": 31163,
+    "county_name": "Sherman",
+    "county_weights": "{\"31163\": 64.13, \"31019\": 35.87}",
+    "county_names_all": "Sherman|Buffalo",
+    "county_fips_all": "31163|31019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

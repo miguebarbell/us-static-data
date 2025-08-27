@@ -1,0 +1,20 @@
+{
+    "zip": 41164,
+    "lat": 38.28914,
+    "lng": -83.16231,
+    "city": "Olive Hill",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12372.0,
+    "density": 19.7,
+    "county_fips": 21043,
+    "county_name": "Carter",
+    "county_weights": "{\"21043\": 77.0, \"21063\": 22.43, \"21135\": 0.42, \"21205\": 0.15}",
+    "county_names_all": "Carter|Elliott|Lewis|Rowan",
+    "county_fips_all": "21043|21063|21135|21205",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

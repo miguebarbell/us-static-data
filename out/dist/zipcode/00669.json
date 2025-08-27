@@ -1,0 +1,20 @@
+{
+    "zip": 669,
+    "lat": 18.27019,
+    "lng": -66.86727,
+    "city": "Lares",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27534.0,
+    "density": 165.8,
+    "county_fips": 72081,
+    "county_name": "Lares",
+    "county_weights": "{\"72081\": 93.38, \"72141\": 3.8, \"72083\": 2.7, \"72131\": 0.12}",
+    "county_names_all": "Lares|Utuado|Las Mar\u00edas|San Sebasti\u00e1n",
+    "county_fips_all": "72081|72141|72083|72131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

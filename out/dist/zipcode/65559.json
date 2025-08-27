@@ -1,0 +1,20 @@
+{
+    "zip": 65559,
+    "lat": 38.0181,
+    "lng": -91.60664,
+    "city": "Saint James",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9390.0,
+    "density": 19.1,
+    "county_fips": 29161,
+    "county_name": "Phelps",
+    "county_weights": "{\"29161\": 78.8, \"29125\": 17.84, \"29055\": 2.78, \"29073\": 0.58}",
+    "county_names_all": "Phelps|Maries|Crawford|Gasconade",
+    "county_fips_all": "29161|29125|29055|29073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

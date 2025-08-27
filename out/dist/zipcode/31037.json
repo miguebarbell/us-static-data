@@ -1,0 +1,20 @@
+{
+    "zip": 31037,
+    "lat": 32.12056,
+    "lng": -82.93245,
+    "city": "McRae Helena",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3327.0,
+    "density": 19.5,
+    "county_fips": 13271,
+    "county_name": "Telfair",
+    "county_weights": "{\"13271\": 36.14, \"13091\": 29.48, \"13309\": 25.6, \"13175\": 8.77}",
+    "county_names_all": "Telfair|Dodge|Wheeler|Laurens",
+    "county_fips_all": "13271|13091|13309|13175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

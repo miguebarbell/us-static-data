@@ -1,0 +1,20 @@
+{
+    "zip": 68932,
+    "lat": 40.30258,
+    "lng": -98.73851,
+    "city": "Campbell",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 361.0,
+    "density": 1.5,
+    "county_fips": 31061,
+    "county_name": "Franklin",
+    "county_weights": "{\"31061\": 41.95, \"31181\": 32.56, \"31099\": 12.76, \"31001\": 12.74}",
+    "county_names_all": "Franklin|Webster|Kearney|Adams",
+    "county_fips_all": "31061|31181|31099|31001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

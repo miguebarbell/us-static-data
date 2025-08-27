@@ -1,0 +1,20 @@
+{
+    "zip": 68038,
+    "lat": 41.95458,
+    "lng": -96.4432,
+    "city": "Lyons",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1267.0,
+    "density": 4.6,
+    "county_fips": 31021,
+    "county_name": "Burt",
+    "county_weights": "{\"31021\": 94.85, \"31039\": 2.8, \"31173\": 2.35}",
+    "county_names_all": "Burt|Cuming|Thurston",
+    "county_fips_all": "31021|31039|31173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

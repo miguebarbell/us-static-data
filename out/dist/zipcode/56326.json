@@ -1,0 +1,20 @@
+{
+    "zip": 56326,
+    "lat": 46.02506,
+    "lng": -95.68596,
+    "city": "Evansville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1838.0,
+    "density": 7.5,
+    "county_fips": 27041,
+    "county_name": "Douglas",
+    "county_weights": "{\"27041\": 89.2, \"27111\": 8.69, \"27051\": 2.11}",
+    "county_names_all": "Douglas|Otter Tail|Grant",
+    "county_fips_all": "27041|27111|27051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

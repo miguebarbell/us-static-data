@@ -1,0 +1,20 @@
+{
+    "zip": 19564,
+    "lat": 40.51926,
+    "lng": -75.87403,
+    "city": "Virginville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 293.0,
+    "density": 345.3,
+    "county_fips": 42011,
+    "county_name": "Berks",
+    "county_weights": "{\"42011\": 100}",
+    "county_names_all": "Berks",
+    "county_fips_all": "42011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

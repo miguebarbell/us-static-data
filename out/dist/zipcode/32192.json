@@ -1,0 +1,20 @@
+{
+    "zip": 32192,
+    "lat": 29.35005,
+    "lng": -82.11109,
+    "city": "Sparr",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 12083,
+    "county_name": "Marion",
+    "county_weights": "{\"12083\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "12083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

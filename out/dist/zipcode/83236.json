@@ -1,0 +1,20 @@
+{
+    "zip": 83236,
+    "lat": 43.22819,
+    "lng": -111.94894,
+    "city": "Firth",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1929.0,
+    "density": 3.4,
+    "county_fips": 16011,
+    "county_name": "Bingham",
+    "county_weights": "{\"16011\": 100}",
+    "county_names_all": "Bingham",
+    "county_fips_all": "16011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

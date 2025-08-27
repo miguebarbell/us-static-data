@@ -1,0 +1,20 @@
+{
+    "zip": 57370,
+    "lat": 43.80508,
+    "lng": -99.17211,
+    "city": "Pukwana",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 770.0,
+    "density": 1.4,
+    "county_fips": 46015,
+    "county_name": "Brule",
+    "county_weights": "{\"46015\": 78.7, \"46017\": 21.3}",
+    "county_names_all": "Brule|Buffalo",
+    "county_fips_all": "46015|46017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

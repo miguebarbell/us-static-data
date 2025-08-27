@@ -1,0 +1,20 @@
+{
+    "zip": 61479,
+    "lat": 41.00192,
+    "lng": -89.63939,
+    "city": "Speer",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 80.0,
+    "density": 2.7,
+    "county_fips": 17123,
+    "county_name": "Marshall",
+    "county_weights": "{\"17123\": 51.06, \"17175\": 48.94}",
+    "county_names_all": "Marshall|Stark",
+    "county_fips_all": "17123|17175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

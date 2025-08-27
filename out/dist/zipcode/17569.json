@@ -1,0 +1,20 @@
+{
+    "zip": 17569,
+    "lat": 40.27043,
+    "lng": -76.09652,
+    "city": "Reinholds",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7136.0,
+    "density": 166.3,
+    "county_fips": 42071,
+    "county_name": "Lancaster",
+    "county_weights": "{\"42071\": 73.81, \"42011\": 26.19}",
+    "county_names_all": "Lancaster|Berks",
+    "county_fips_all": "42071|42011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

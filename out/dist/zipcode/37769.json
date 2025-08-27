@@ -1,0 +1,20 @@
+{
+    "zip": 37769,
+    "lat": 36.21799,
+    "lng": -84.15532,
+    "city": "Rocky Top",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5673.0,
+    "density": 73.0,
+    "county_fips": 47001,
+    "county_name": "Anderson",
+    "county_weights": "{\"47001\": 81.22, \"47013\": 18.78}",
+    "county_names_all": "Anderson|Campbell",
+    "county_fips_all": "47001|47013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 3904,
+    "lat": 43.11025,
+    "lng": -70.73201,
+    "city": "Kittery",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8310.0,
+    "density": 293.9,
+    "county_fips": 23031,
+    "county_name": "York",
+    "county_weights": "{\"23031\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "23031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

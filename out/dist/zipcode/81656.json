@@ -1,0 +1,20 @@
+{
+    "zip": 81656,
+    "lat": 39.27948,
+    "lng": -106.78711,
+    "city": "Woody Creek",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 508.0,
+    "density": 3.3,
+    "county_fips": 8097,
+    "county_name": "Pitkin",
+    "county_weights": "{\"08097\": 100}",
+    "county_names_all": "Pitkin",
+    "county_fips_all": "08097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

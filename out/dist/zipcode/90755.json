@@ -1,0 +1,20 @@
+{
+    "zip": 90755,
+    "lat": 33.80274,
+    "lng": -118.16747,
+    "city": "Signal Hill",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11654.0,
+    "density": 2070.9,
+    "county_fips": 6037,
+    "county_name": "Los Angeles",
+    "county_weights": "{\"06037\": 100}",
+    "county_names_all": "Los Angeles",
+    "county_fips_all": "06037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

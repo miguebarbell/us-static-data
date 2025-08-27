@@ -1,0 +1,20 @@
+{
+    "zip": 65663,
+    "lat": 37.62732,
+    "lng": -93.24486,
+    "city": "Half Way",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2606.0,
+    "density": 8.8,
+    "county_fips": 29167,
+    "county_name": "Polk",
+    "county_weights": "{\"29167\": 100}",
+    "county_names_all": "Polk",
+    "county_fips_all": "29167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 33548,
+    "lat": 28.13788,
+    "lng": -82.48184,
+    "city": "Lutz",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8678.0,
+    "density": 440.0,
+    "county_fips": 12057,
+    "county_name": "Hillsborough",
+    "county_weights": "{\"12057\": 96.46, \"12101\": 3.54}",
+    "county_names_all": "Hillsborough|Pasco",
+    "county_fips_all": "12057|12101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

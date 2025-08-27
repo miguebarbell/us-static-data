@@ -1,0 +1,20 @@
+{
+    "zip": 30307,
+    "lat": 33.77053,
+    "lng": -84.33419,
+    "city": "Atlanta",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21680.0,
+    "density": 1841.5,
+    "county_fips": 13089,
+    "county_name": "DeKalb",
+    "county_weights": "{\"13089\": 82.16, \"13121\": 17.84}",
+    "county_names_all": "DeKalb|Fulton",
+    "county_fips_all": "13089|13121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

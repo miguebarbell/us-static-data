@@ -1,0 +1,20 @@
+{
+    "zip": 49329,
+    "lat": 43.40567,
+    "lng": -85.48771,
+    "city": "Howard City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9030.0,
+    "density": 44.3,
+    "county_fips": 26117,
+    "county_name": "Montcalm",
+    "county_weights": "{\"26117\": 77.62, \"26123\": 22.38}",
+    "county_names_all": "Montcalm|Newaygo",
+    "county_fips_all": "26117|26123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

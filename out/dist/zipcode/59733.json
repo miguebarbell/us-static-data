@@ -1,0 +1,20 @@
+{
+    "zip": 59733,
+    "lat": 46.54922,
+    "lng": -112.94987,
+    "city": "Gold Creek",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 206.0,
+    "density": 0.5,
+    "county_fips": 30077,
+    "county_name": "Powell",
+    "county_weights": "{\"30077\": 100}",
+    "county_names_all": "Powell",
+    "county_fips_all": "30077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

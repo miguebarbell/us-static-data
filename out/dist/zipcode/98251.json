@@ -1,0 +1,20 @@
+{
+    "zip": 98251,
+    "lat": 47.89812,
+    "lng": -121.55752,
+    "city": "Gold Bar",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4782.0,
+    "density": 11.5,
+    "county_fips": 53061,
+    "county_name": "Snohomish",
+    "county_weights": "{\"53061\": 100}",
+    "county_names_all": "Snohomish",
+    "county_fips_all": "53061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 30189,
+    "lat": 34.12835,
+    "lng": -84.57148,
+    "city": "Woodstock",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41586.0,
+    "density": 835.2,
+    "county_fips": 13057,
+    "county_name": "Cherokee",
+    "county_weights": "{\"13057\": 100}",
+    "county_names_all": "Cherokee",
+    "county_fips_all": "13057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

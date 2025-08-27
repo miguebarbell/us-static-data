@@ -1,0 +1,20 @@
+{
+    "zip": 46733,
+    "lat": 40.83033,
+    "lng": -84.94023,
+    "city": "Decatur",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19246.0,
+    "density": 43.1,
+    "county_fips": 18001,
+    "county_name": "Adams",
+    "county_weights": "{\"18001\": 97.02, \"18003\": 2.98}",
+    "county_names_all": "Adams|Allen",
+    "county_fips_all": "18001|18003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

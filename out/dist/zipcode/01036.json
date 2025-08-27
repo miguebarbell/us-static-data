@@ -1,0 +1,20 @@
+{
+    "zip": 1036,
+    "lat": 42.0638,
+    "lng": -72.4157,
+    "city": "Hampden",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4937.0,
+    "density": 97.2,
+    "county_fips": 25013,
+    "county_name": "Hampden",
+    "county_weights": "{\"25013\": 100}",
+    "county_names_all": "Hampden",
+    "county_fips_all": "25013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 99141,
+    "lat": 48.72571,
+    "lng": -118.17509,
+    "city": "Kettle Falls",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6272.0,
+    "density": 3.9,
+    "county_fips": 53019,
+    "county_name": "Ferry",
+    "county_weights": "{\"53019\": 51.91, \"53065\": 48.09}",
+    "county_names_all": "Ferry|Stevens",
+    "county_fips_all": "53019|53065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

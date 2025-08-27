@@ -1,0 +1,20 @@
+{
+    "zip": 70578,
+    "lat": 30.2291,
+    "lng": -92.26261,
+    "city": "Rayne",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16279.0,
+    "density": 54.7,
+    "county_fips": 22001,
+    "county_name": "Acadia",
+    "county_weights": "{\"22001\": 67.91, \"22055\": 18.18, \"22113\": 13.91}",
+    "county_names_all": "Acadia|Lafayette|Vermilion",
+    "county_fips_all": "22001|22055|22113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

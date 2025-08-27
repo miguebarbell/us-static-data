@@ -1,0 +1,20 @@
+{
+    "zip": 29832,
+    "lat": 33.83922,
+    "lng": -81.80656,
+    "city": "Johnston",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5375.0,
+    "density": 21.9,
+    "county_fips": 45037,
+    "county_name": "Edgefield",
+    "county_weights": "{\"45037\": 66.76, \"45081\": 32.4, \"45003\": 0.84}",
+    "county_names_all": "Edgefield|Saluda|Aiken",
+    "county_fips_all": "45037|45081|45003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

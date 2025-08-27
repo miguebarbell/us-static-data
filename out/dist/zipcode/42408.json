@@ -1,0 +1,20 @@
+{
+    "zip": 42408,
+    "lat": 37.1797,
+    "lng": -87.69229,
+    "city": "Dawson Springs",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6167.0,
+    "density": 16.6,
+    "county_fips": 21107,
+    "county_name": "Hopkins",
+    "county_weights": "{\"21107\": 57.92, \"21033\": 26.8, \"21047\": 15.28}",
+    "county_names_all": "Hopkins|Caldwell|Christian",
+    "county_fips_all": "21107|21033|21047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

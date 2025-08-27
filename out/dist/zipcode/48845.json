@@ -1,0 +1,20 @@
+{
+    "zip": 48845,
+    "lat": 43.10746,
+    "lng": -84.854,
+    "city": "Hubbardston",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1109.0,
+    "density": 18.4,
+    "county_fips": 26067,
+    "county_name": "Ionia",
+    "county_weights": "{\"26067\": 43.57, \"26037\": 29.59, \"26117\": 18.28, \"26057\": 8.55}",
+    "county_names_all": "Ionia|Clinton|Montcalm|Gratiot",
+    "county_fips_all": "26067|26037|26117|26057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

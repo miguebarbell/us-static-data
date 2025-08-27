@@ -1,0 +1,20 @@
+{
+    "zip": 47562,
+    "lat": 38.83493,
+    "lng": -86.98268,
+    "city": "Odon",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5332.0,
+    "density": 31.3,
+    "county_fips": 18027,
+    "county_name": "Daviess",
+    "county_weights": "{\"18027\": 98.78, \"18101\": 1.22}",
+    "county_names_all": "Daviess|Martin",
+    "county_fips_all": "18027|18101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Vincennes"
+}

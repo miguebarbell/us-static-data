@@ -1,0 +1,20 @@
+{
+    "zip": 70773,
+    "lat": 30.59678,
+    "lng": -91.37333,
+    "city": "Rougon",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14.0,
+    "density": 0.8,
+    "county_fips": 22077,
+    "county_name": "Pointe Coupee",
+    "county_weights": "{\"22077\": 100}",
+    "county_names_all": "Pointe Coupee",
+    "county_fips_all": "22077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

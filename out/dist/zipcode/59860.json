@@ -1,0 +1,20 @@
+{
+    "zip": 59860,
+    "lat": 47.71314,
+    "lng": -114.17832,
+    "city": "Polson",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11580.0,
+    "density": 17.1,
+    "county_fips": 30047,
+    "county_name": "Lake",
+    "county_weights": "{\"30047\": 100}",
+    "county_names_all": "Lake",
+    "county_fips_all": "30047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

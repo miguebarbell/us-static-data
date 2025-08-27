@@ -1,0 +1,20 @@
+{
+    "zip": 32080,
+    "lat": 29.82453,
+    "lng": -81.27412,
+    "city": "Saint Augustine",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21368.0,
+    "density": 524.6,
+    "county_fips": 12109,
+    "county_name": "St. Johns",
+    "county_weights": "{\"12109\": 99.06, \"12035\": 0.94}",
+    "county_names_all": "St. Johns|Flagler",
+    "county_fips_all": "12109|12035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

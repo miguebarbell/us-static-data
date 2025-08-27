@@ -1,0 +1,20 @@
+{
+    "zip": 704,
+    "lat": 17.97442,
+    "lng": -66.22888,
+    "city": "Aguirre",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6433.0,
+    "density": 276.1,
+    "county_fips": 72123,
+    "county_name": "Salinas",
+    "county_weights": "{\"72123\": 97.38, \"72057\": 2.62}",
+    "county_names_all": "Salinas|Guayama",
+    "county_fips_all": "72123|72057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

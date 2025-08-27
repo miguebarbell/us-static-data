@@ -1,0 +1,20 @@
+{
+    "zip": 39440,
+    "lat": 31.694,
+    "lng": -89.14791,
+    "city": "Laurel",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20111.0,
+    "density": 438.7,
+    "county_fips": 28067,
+    "county_name": "Jones",
+    "county_weights": "{\"28067\": 100}",
+    "county_names_all": "Jones",
+    "county_fips_all": "28067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

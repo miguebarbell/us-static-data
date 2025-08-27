@@ -1,0 +1,20 @@
+{
+    "zip": 16156,
+    "lat": 41.09702,
+    "lng": -80.21943,
+    "city": "Volant",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3385.0,
+    "density": 25.5,
+    "county_fips": 42073,
+    "county_name": "Lawrence",
+    "county_weights": "{\"42073\": 78.71, \"42085\": 21.29}",
+    "county_names_all": "Lawrence|Mercer",
+    "county_fips_all": "42073|42085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 31832,
+    "lat": 31.95501,
+    "lng": -84.61709,
+    "city": "Weston",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33.0,
+    "density": 0.4,
+    "county_fips": 13307,
+    "county_name": "Webster",
+    "county_weights": "{\"13307\": 87.56, \"13243\": 12.44}",
+    "county_names_all": "Webster|Randolph",
+    "county_fips_all": "13307|13243",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

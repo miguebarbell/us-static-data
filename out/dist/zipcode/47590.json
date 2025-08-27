@@ -1,0 +1,20 @@
+{
+    "zip": 47590,
+    "lat": 38.35314,
+    "lng": -87.10113,
+    "city": "Velpen",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 550.0,
+    "density": 5.2,
+    "county_fips": 18125,
+    "county_name": "Pike",
+    "county_weights": "{\"18125\": 85.47, \"18037\": 14.53}",
+    "county_names_all": "Pike|Dubois",
+    "county_fips_all": "18125|18037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Petersburg"
+}

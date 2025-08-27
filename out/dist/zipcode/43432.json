@@ -1,0 +1,20 @@
+{
+    "zip": 43432,
+    "lat": 41.56115,
+    "lng": -83.24934,
+    "city": "Graytown",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1272.0,
+    "density": 22.6,
+    "county_fips": 39123,
+    "county_name": "Ottawa",
+    "county_weights": "{\"39123\": 100}",
+    "county_names_all": "Ottawa",
+    "county_fips_all": "39123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

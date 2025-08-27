@@ -1,0 +1,20 @@
+{
+    "zip": 39635,
+    "lat": 31.18432,
+    "lng": -90.44859,
+    "city": "Fernwood",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 28113,
+    "county_name": "Pike",
+    "county_weights": "{\"28113\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "28113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

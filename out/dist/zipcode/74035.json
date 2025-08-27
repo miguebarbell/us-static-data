@@ -1,0 +1,20 @@
+{
+    "zip": 74035,
+    "lat": 36.40368,
+    "lng": -96.37607,
+    "city": "Hominy",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4031.0,
+    "density": 6.6,
+    "county_fips": 40113,
+    "county_name": "Osage",
+    "county_weights": "{\"40113\": 100}",
+    "county_names_all": "Osage",
+    "county_fips_all": "40113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

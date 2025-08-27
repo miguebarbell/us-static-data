@@ -1,0 +1,20 @@
+{
+    "zip": 54161,
+    "lat": 45.12449,
+    "lng": -88.15696,
+    "city": "Pound",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2683.0,
+    "density": 8.3,
+    "county_fips": 55083,
+    "county_name": "Oconto",
+    "county_weights": "{\"55083\": 52.34, \"55075\": 47.66}",
+    "county_names_all": "Oconto|Marinette",
+    "county_fips_all": "55083|55075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

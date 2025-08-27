@@ -1,0 +1,20 @@
+{
+    "zip": 81415,
+    "lat": 38.64027,
+    "lng": -107.6368,
+    "city": "Crawford",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1859.0,
+    "density": 2.6,
+    "county_fips": 8085,
+    "county_name": "Montrose",
+    "county_weights": "{\"08085\": 60.44, \"08029\": 39.56}",
+    "county_names_all": "Montrose|Delta",
+    "county_fips_all": "08085|08029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

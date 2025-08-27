@@ -1,0 +1,20 @@
+{
+    "zip": 20166,
+    "lat": 38.97146,
+    "lng": -77.4637,
+    "city": "Sterling",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13854.0,
+    "density": 196.7,
+    "county_fips": 51107,
+    "county_name": "Loudoun",
+    "county_weights": "{\"51107\": 100}",
+    "county_names_all": "Loudoun",
+    "county_fips_all": "51107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

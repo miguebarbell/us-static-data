@@ -1,0 +1,20 @@
+{
+    "zip": 29924,
+    "lat": 32.87737,
+    "lng": -81.10749,
+    "city": "Hampton",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4531.0,
+    "density": 35.8,
+    "county_fips": 45049,
+    "county_name": "Hampton",
+    "county_weights": "{\"45049\": 100}",
+    "county_names_all": "Hampton",
+    "county_fips_all": "45049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

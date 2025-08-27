@@ -1,0 +1,20 @@
+{
+    "zip": 40741,
+    "lat": 37.13349,
+    "lng": -84.11636,
+    "city": "London",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23303.0,
+    "density": 43.3,
+    "county_fips": 21125,
+    "county_name": "Laurel",
+    "county_weights": "{\"21125\": 96.95, \"21051\": 3.05}",
+    "county_names_all": "Laurel|Clay",
+    "county_fips_all": "21125|21051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

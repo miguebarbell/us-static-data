@@ -1,0 +1,20 @@
+{
+    "zip": 54734,
+    "lat": 45.09045,
+    "lng": -92.11358,
+    "city": "Downing",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 727.0,
+    "density": 9.0,
+    "county_fips": 55033,
+    "county_name": "Dunn",
+    "county_weights": "{\"55033\": 94.0, \"55109\": 6.0}",
+    "county_names_all": "Dunn|St. Croix",
+    "county_fips_all": "55033|55109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 40489,
+    "lat": 37.36629,
+    "lng": -84.64435,
+    "city": "Waynesburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4238.0,
+    "density": 25.1,
+    "county_fips": 21137,
+    "county_name": "Lincoln",
+    "county_weights": "{\"21137\": 85.54, \"21045\": 14.46}",
+    "county_names_all": "Lincoln|Casey",
+    "county_fips_all": "21137|21045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

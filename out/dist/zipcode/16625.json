@@ -1,0 +1,20 @@
+{
+    "zip": 16625,
+    "lat": 40.28482,
+    "lng": -78.50855,
+    "city": "Claysburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3551.0,
+    "density": 42.8,
+    "county_fips": 42013,
+    "county_name": "Blair",
+    "county_weights": "{\"42013\": 58.16, \"42009\": 41.84}",
+    "county_names_all": "Blair|Bedford",
+    "county_fips_all": "42013|42009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

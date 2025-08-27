@@ -1,0 +1,20 @@
+{
+    "zip": 13477,
+    "lat": 43.03633,
+    "lng": -75.51441,
+    "city": "Vernon Center",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1468.0,
+    "density": 31.5,
+    "county_fips": 36065,
+    "county_name": "Oneida",
+    "county_weights": "{\"36065\": 100}",
+    "county_names_all": "Oneida",
+    "county_fips_all": "36065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

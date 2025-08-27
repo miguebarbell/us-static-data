@@ -1,0 +1,20 @@
+{
+    "zip": 28546,
+    "lat": 34.83461,
+    "lng": -77.38818,
+    "city": "Jacksonville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 48122.0,
+    "density": 178.7,
+    "county_fips": 37133,
+    "county_name": "Onslow",
+    "county_weights": "{\"37133\": 100}",
+    "county_names_all": "Onslow",
+    "county_fips_all": "37133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

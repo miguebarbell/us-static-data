@@ -1,0 +1,20 @@
+{
+    "zip": 73734,
+    "lat": 35.98453,
+    "lng": -97.8534,
+    "city": "Dover",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 719.0,
+    "density": 2.6,
+    "county_fips": 40073,
+    "county_name": "Kingfisher",
+    "county_weights": "{\"40073\": 100}",
+    "county_names_all": "Kingfisher",
+    "county_fips_all": "40073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

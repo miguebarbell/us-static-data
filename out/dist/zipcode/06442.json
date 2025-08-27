@@ -1,0 +1,20 @@
+{
+    "zip": 6442,
+    "lat": 41.34261,
+    "lng": -72.44429,
+    "city": "Ivoryton",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2623.0,
+    "density": 280.8,
+    "county_fips": 9130,
+    "county_name": "Lower Connecticut River Valley",
+    "county_weights": "{\"09130\": 100}",
+    "county_names_all": "Lower Connecticut River Valley",
+    "county_fips_all": "09130",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

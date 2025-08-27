@@ -1,0 +1,20 @@
+{
+    "zip": 43907,
+    "lat": 40.25697,
+    "lng": -81.0205,
+    "city": "Cadiz",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4814.0,
+    "density": 11.5,
+    "county_fips": 39067,
+    "county_name": "Harrison",
+    "county_weights": "{\"39067\": 96.71, \"39081\": 3.29}",
+    "county_names_all": "Harrison|Jefferson",
+    "county_fips_all": "39067|39081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

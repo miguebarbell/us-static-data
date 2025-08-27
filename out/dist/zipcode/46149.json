@@ -1,0 +1,20 @@
+{
+    "zip": 46149,
+    "lat": 39.88545,
+    "lng": -86.55758,
+    "city": "Lizton",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2234.0,
+    "density": 32.4,
+    "county_fips": 18063,
+    "county_name": "Hendricks",
+    "county_weights": "{\"18063\": 100}",
+    "county_names_all": "Hendricks",
+    "county_fips_all": "18063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

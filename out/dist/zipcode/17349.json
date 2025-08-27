@@ -1,0 +1,20 @@
+{
+    "zip": 17349,
+    "lat": 39.75536,
+    "lng": -76.68003,
+    "city": "New Freedom",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7938.0,
+    "density": 145.3,
+    "county_fips": 42133,
+    "county_name": "York",
+    "county_weights": "{\"42133\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "42133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

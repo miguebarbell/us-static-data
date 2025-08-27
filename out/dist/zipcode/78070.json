@@ -1,0 +1,20 @@
+{
+    "zip": 78070,
+    "lat": 29.89291,
+    "lng": -98.40732,
+    "city": "Spring Branch",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19836.0,
+    "density": 57.4,
+    "county_fips": 48091,
+    "county_name": "Comal",
+    "county_weights": "{\"48091\": 82.36, \"48259\": 9.89, \"48031\": 7.75}",
+    "county_names_all": "Comal|Kendall|Blanco",
+    "county_fips_all": "48091|48259|48031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

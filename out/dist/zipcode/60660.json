@@ -1,0 +1,20 @@
+{
+    "zip": 60660,
+    "lat": 41.99113,
+    "lng": -87.66609,
+    "city": "Chicago",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42750.0,
+    "density": 12958.1,
+    "county_fips": 17031,
+    "county_name": "Cook",
+    "county_weights": "{\"17031\": 100}",
+    "county_names_all": "Cook",
+    "county_fips_all": "17031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

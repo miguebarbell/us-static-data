@@ -1,0 +1,20 @@
+{
+    "zip": 28429,
+    "lat": 34.34171,
+    "lng": -77.9011,
+    "city": "Castle Hayne",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9083.0,
+    "density": 88.3,
+    "county_fips": 37129,
+    "county_name": "New Hanover",
+    "county_weights": "{\"37129\": 100}",
+    "county_names_all": "New Hanover",
+    "county_fips_all": "37129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

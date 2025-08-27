@@ -1,0 +1,20 @@
+{
+    "zip": 53936,
+    "lat": 43.87477,
+    "lng": -89.71071,
+    "city": "Grand Marsh",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1174.0,
+    "density": 7.1,
+    "county_fips": 55001,
+    "county_name": "Adams",
+    "county_weights": "{\"55001\": 100}",
+    "county_names_all": "Adams",
+    "county_fips_all": "55001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

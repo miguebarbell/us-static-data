@@ -1,0 +1,20 @@
+{
+    "zip": 23015,
+    "lat": 37.93127,
+    "lng": -77.63124,
+    "city": "Beaverdam",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4384.0,
+    "density": 19.4,
+    "county_fips": 51085,
+    "county_name": "Hanover",
+    "county_weights": "{\"51085\": 76.89, \"51177\": 14.5, \"51033\": 7.68, \"51109\": 0.93}",
+    "county_names_all": "Hanover|Spotsylvania|Caroline|Louisa",
+    "county_fips_all": "51085|51177|51033|51109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

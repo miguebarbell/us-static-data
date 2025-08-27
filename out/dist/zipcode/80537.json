@@ -1,0 +1,20 @@
+{
+    "zip": 80537,
+    "lat": 40.38304,
+    "lng": -105.20277,
+    "city": "Loveland",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44505.0,
+    "density": 140.4,
+    "county_fips": 8069,
+    "county_name": "Larimer",
+    "county_weights": "{\"08069\": 97.28, \"08123\": 2.72}",
+    "county_names_all": "Larimer|Weld",
+    "county_fips_all": "08069|08123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

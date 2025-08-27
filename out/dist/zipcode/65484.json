@@ -1,0 +1,20 @@
+{
+    "zip": 65484,
+    "lat": 37.36348,
+    "lng": -92.22052,
+    "city": "Huggins",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42.0,
+    "density": 0.6,
+    "county_fips": 29215,
+    "county_name": "Texas",
+    "county_weights": "{\"29215\": 100}",
+    "county_names_all": "Texas",
+    "county_fips_all": "29215",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 96742,
+    "lat": 21.17089,
+    "lng": -156.94753,
+    "city": "Kalaupapa",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43.0,
+    "density": 1.4,
+    "county_fips": 15005,
+    "county_name": "Kalawao",
+    "county_weights": "{\"15005\": 100}",
+    "county_names_all": "Kalawao",
+    "county_fips_all": "15005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "Pacific/Honolulu"
+}

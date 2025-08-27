@@ -1,0 +1,20 @@
+{
+    "zip": 80513,
+    "lat": 40.29789,
+    "lng": -105.10913,
+    "city": "Berthoud",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16997.0,
+    "density": 91.9,
+    "county_fips": 8069,
+    "county_name": "Larimer",
+    "county_weights": "{\"08069\": 65.51, \"08123\": 29.5, \"08013\": 4.99}",
+    "county_names_all": "Larimer|Weld|Boulder",
+    "county_fips_all": "08069|08123|08013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

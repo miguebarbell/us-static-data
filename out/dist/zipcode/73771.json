@@ -1,0 +1,20 @@
+{
+    "zip": 73771,
+    "lat": 36.87533,
+    "lng": -97.95653,
+    "city": "Wakita",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 355.0,
+    "density": 1.0,
+    "county_fips": 40053,
+    "county_name": "Grant",
+    "county_weights": "{\"40053\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "40053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

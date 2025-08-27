@@ -1,0 +1,20 @@
+{
+    "zip": 68866,
+    "lat": 40.96873,
+    "lng": -99.12297,
+    "city": "Pleasanton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1114.0,
+    "density": 3.9,
+    "county_fips": 31019,
+    "county_name": "Buffalo",
+    "county_weights": "{\"31019\": 94.41, \"31041\": 5.59}",
+    "county_names_all": "Buffalo|Custer",
+    "county_fips_all": "31019|31041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49720,
+    "lat": 45.27555,
+    "lng": -85.23984,
+    "city": "Charlevoix",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9113.0,
+    "density": 36.8,
+    "county_fips": 26029,
+    "county_name": "Charlevoix",
+    "county_weights": "{\"26029\": 91.98, \"26009\": 8.02}",
+    "county_names_all": "Charlevoix|Antrim",
+    "county_fips_all": "26029|26009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

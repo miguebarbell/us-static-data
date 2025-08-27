@@ -1,0 +1,20 @@
+{
+    "zip": 27201,
+    "lat": 36.03258,
+    "lng": -79.48418,
+    "city": "Alamance",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 135.0,
+    "density": 238.5,
+    "county_fips": 37001,
+    "county_name": "Alamance",
+    "county_weights": "{\"37001\": 100}",
+    "county_names_all": "Alamance",
+    "county_fips_all": "37001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

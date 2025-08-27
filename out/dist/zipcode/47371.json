@@ -1,0 +1,20 @@
+{
+    "zip": 47371,
+    "lat": 40.41874,
+    "lng": -84.95896,
+    "city": "Portland",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12450.0,
+    "density": 21.9,
+    "county_fips": 18075,
+    "county_name": "Jay",
+    "county_weights": "{\"18075\": 100}",
+    "county_names_all": "Jay",
+    "county_fips_all": "18075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

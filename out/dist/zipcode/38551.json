@@ -1,0 +1,20 @@
+{
+    "zip": 38551,
+    "lat": 36.55804,
+    "lng": -85.48699,
+    "city": "Celina",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4318.0,
+    "density": 18.7,
+    "county_fips": 47027,
+    "county_name": "Clay",
+    "county_weights": "{\"47027\": 97.82, \"47087\": 2.18}",
+    "county_names_all": "Clay|Jackson",
+    "county_fips_all": "47027|47087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

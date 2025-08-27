@@ -1,0 +1,20 @@
+{
+    "zip": 26547,
+    "lat": 39.5133,
+    "lng": -79.80757,
+    "city": "Reedsville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3001.0,
+    "density": 76.1,
+    "county_fips": 54077,
+    "county_name": "Preston",
+    "county_weights": "{\"54077\": 100}",
+    "county_names_all": "Preston",
+    "county_fips_all": "54077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

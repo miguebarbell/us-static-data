@@ -1,0 +1,20 @@
+{
+    "zip": 32442,
+    "lat": 30.68531,
+    "lng": -85.00829,
+    "city": "Grand Ridge",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3709.0,
+    "density": 15.2,
+    "county_fips": 12063,
+    "county_name": "Jackson",
+    "county_weights": "{\"12063\": 89.76, \"12013\": 10.24}",
+    "county_names_all": "Jackson|Calhoun",
+    "county_fips_all": "12063|12013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

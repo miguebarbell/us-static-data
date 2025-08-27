@@ -1,0 +1,20 @@
+{
+    "zip": 76633,
+    "lat": 31.6857,
+    "lng": -97.32503,
+    "city": "China Spring",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6037.0,
+    "density": 41.8,
+    "county_fips": 48309,
+    "county_name": "McLennan",
+    "county_weights": "{\"48309\": 73.62, \"48035\": 26.38}",
+    "county_names_all": "McLennan|Bosque",
+    "county_fips_all": "48309|48035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

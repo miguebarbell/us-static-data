@@ -1,0 +1,20 @@
+{
+    "zip": 45309,
+    "lat": 39.84475,
+    "lng": -84.42204,
+    "city": "Brookville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11905.0,
+    "density": 69.7,
+    "county_fips": 39113,
+    "county_name": "Montgomery",
+    "county_weights": "{\"39113\": 94.63, \"39037\": 2.41, \"39109\": 2.31, \"39135\": 0.65}",
+    "county_names_all": "Montgomery|Darke|Miami|Preble",
+    "county_fips_all": "39113|39037|39109|39135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

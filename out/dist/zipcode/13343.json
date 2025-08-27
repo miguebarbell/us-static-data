@@ -1,0 +1,20 @@
+{
+    "zip": 13343,
+    "lat": 43.75271,
+    "lng": -75.31062,
+    "city": "Glenfield",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1543.0,
+    "density": 10.3,
+    "county_fips": 36049,
+    "county_name": "Lewis",
+    "county_weights": "{\"36049\": 100}",
+    "county_names_all": "Lewis",
+    "county_fips_all": "36049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

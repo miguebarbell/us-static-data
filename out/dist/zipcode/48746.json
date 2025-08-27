@@ -1,0 +1,20 @@
+{
+    "zip": 48746,
+    "lat": 43.26397,
+    "lng": -83.54155,
+    "city": "Millington",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8148.0,
+    "density": 38.3,
+    "county_fips": 26157,
+    "county_name": "Tuscola",
+    "county_weights": "{\"26157\": 89.48, \"26049\": 10.52}",
+    "county_names_all": "Tuscola|Genesee",
+    "county_fips_all": "26157|26049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43532,
+    "lat": 41.45486,
+    "lng": -83.97008,
+    "city": "Liberty Center",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3500.0,
+    "density": 29.9,
+    "county_fips": 39069,
+    "county_name": "Henry",
+    "county_weights": "{\"39069\": 94.37, \"39051\": 3.49, \"39095\": 2.14}",
+    "county_names_all": "Henry|Fulton|Lucas",
+    "county_fips_all": "39069|39051|39095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

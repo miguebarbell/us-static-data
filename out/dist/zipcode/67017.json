@@ -1,0 +1,20 @@
+{
+    "zip": 67017,
+    "lat": 37.82778,
+    "lng": -97.11165,
+    "city": "Benton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2058.0,
+    "density": 12.4,
+    "county_fips": 20015,
+    "county_name": "Butler",
+    "county_weights": "{\"20015\": 89.51, \"20173\": 10.49}",
+    "county_names_all": "Butler|Sedgwick",
+    "county_fips_all": "20015|20173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

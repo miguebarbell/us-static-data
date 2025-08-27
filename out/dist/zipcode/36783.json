@@ -1,0 +1,20 @@
+{
+    "zip": 36783,
+    "lat": 32.24085,
+    "lng": -87.6081,
+    "city": "Thomaston",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 637.0,
+    "density": 2.3,
+    "county_fips": 1091,
+    "county_name": "Marengo",
+    "county_weights": "{\"01091\": 94.05, \"01131\": 5.95}",
+    "county_names_all": "Marengo|Wilcox",
+    "county_fips_all": "01091|01131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

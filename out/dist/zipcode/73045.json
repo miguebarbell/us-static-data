@@ -1,0 +1,20 @@
+{
+    "zip": 73045,
+    "lat": 35.51201,
+    "lng": -97.1414,
+    "city": "Harrah",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11542.0,
+    "density": 68.5,
+    "county_fips": 40109,
+    "county_name": "Oklahoma",
+    "county_weights": "{\"40109\": 58.61, \"40081\": 39.47, \"40125\": 1.92}",
+    "county_names_all": "Oklahoma|Lincoln|Pottawatomie",
+    "county_fips_all": "40109|40081|40125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

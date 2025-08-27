@@ -1,0 +1,20 @@
+{
+    "zip": 78643,
+    "lat": 30.68161,
+    "lng": -98.71281,
+    "city": "Llano",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6837.0,
+    "density": 3.7,
+    "county_fips": 48299,
+    "county_name": "Llano",
+    "county_weights": "{\"48299\": 100}",
+    "county_names_all": "Llano",
+    "county_fips_all": "48299",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

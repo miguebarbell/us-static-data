@@ -1,0 +1,20 @@
+{
+    "zip": 37334,
+    "lat": 35.16532,
+    "lng": -86.57966,
+    "city": "Fayetteville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24168.0,
+    "density": 36.7,
+    "county_fips": 47103,
+    "county_name": "Lincoln",
+    "county_weights": "{\"47103\": 93.11, \"47127\": 6.52, \"47003\": 0.37}",
+    "county_names_all": "Lincoln|Moore|Bedford",
+    "county_fips_all": "47103|47127|47003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

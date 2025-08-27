@@ -1,0 +1,20 @@
+{
+    "zip": 66779,
+    "lat": 37.83751,
+    "lng": -94.97867,
+    "city": "Uniontown",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 955.0,
+    "density": 5.0,
+    "county_fips": 20011,
+    "county_name": "Bourbon",
+    "county_weights": "{\"20011\": 100}",
+    "county_names_all": "Bourbon",
+    "county_fips_all": "20011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

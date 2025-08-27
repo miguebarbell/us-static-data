@@ -1,0 +1,20 @@
+{
+    "zip": 10519,
+    "lat": 41.34701,
+    "lng": -73.66196,
+    "city": "Croton Falls",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 188.0,
+    "density": 290.5,
+    "county_fips": 36119,
+    "county_name": "Westchester",
+    "county_weights": "{\"36119\": 100}",
+    "county_names_all": "Westchester",
+    "county_fips_all": "36119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

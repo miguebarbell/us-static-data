@@ -1,0 +1,20 @@
+{
+    "zip": 34229,
+    "lat": 27.19159,
+    "lng": -82.48309,
+    "city": "Osprey",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7237.0,
+    "density": 468.8,
+    "county_fips": 12115,
+    "county_name": "Sarasota",
+    "county_weights": "{\"12115\": 100}",
+    "county_names_all": "Sarasota",
+    "county_fips_all": "12115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

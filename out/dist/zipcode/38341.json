@@ -1,0 +1,20 @@
+{
+    "zip": 38341,
+    "lat": 35.87677,
+    "lng": -88.08888,
+    "city": "Holladay",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2544.0,
+    "density": 7.3,
+    "county_fips": 47005,
+    "county_name": "Benton",
+    "county_weights": "{\"47005\": 77.08, \"47039\": 20.89, \"47017\": 2.03}",
+    "county_names_all": "Benton|Decatur|Carroll",
+    "county_fips_all": "47005|47039|47017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

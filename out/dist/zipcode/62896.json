@@ -1,0 +1,20 @@
+{
+    "zip": 62896,
+    "lat": 37.89287,
+    "lng": -88.91183,
+    "city": "West Frankfort",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10691.0,
+    "density": 68.3,
+    "county_fips": 17055,
+    "county_name": "Franklin",
+    "county_weights": "{\"17055\": 91.0, \"17199\": 9.0}",
+    "county_names_all": "Franklin|Williamson",
+    "county_fips_all": "17055|17199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

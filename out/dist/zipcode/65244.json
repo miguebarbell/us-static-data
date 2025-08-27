@@ -1,0 +1,20 @@
+{
+    "zip": 65244,
+    "lat": 39.4807,
+    "lng": -92.65982,
+    "city": "Clifton Hill",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 312.0,
+    "density": 1.7,
+    "county_fips": 29175,
+    "county_name": "Randolph",
+    "county_weights": "{\"29175\": 100}",
+    "county_names_all": "Randolph",
+    "county_fips_all": "29175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

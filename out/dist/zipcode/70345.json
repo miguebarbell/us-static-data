@@ -1,0 +1,20 @@
+{
+    "zip": 70345,
+    "lat": 29.51815,
+    "lng": -90.23763,
+    "city": "Cut Off",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8678.0,
+    "density": 26.0,
+    "county_fips": 22057,
+    "county_name": "Lafourche",
+    "county_weights": "{\"22057\": 100}",
+    "county_names_all": "Lafourche",
+    "county_fips_all": "22057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 35576,
+    "lat": 33.582,
+    "lng": -88.1315,
+    "city": "Millport",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3875.0,
+    "density": 8.8,
+    "county_fips": 1075,
+    "county_name": "Lamar",
+    "county_weights": "{\"01075\": 80.53, \"01107\": 19.47}",
+    "county_names_all": "Lamar|Pickens",
+    "county_fips_all": "01075|01107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

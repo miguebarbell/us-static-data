@@ -1,0 +1,20 @@
+{
+    "zip": 55811,
+    "lat": 46.83767,
+    "lng": -92.21993,
+    "city": "Duluth",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27907.0,
+    "density": 167.0,
+    "county_fips": 27137,
+    "county_name": "St. Louis",
+    "county_weights": "{\"27137\": 100}",
+    "county_names_all": "St. Louis",
+    "county_fips_all": "27137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

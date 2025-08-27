@@ -1,0 +1,20 @@
+{
+    "zip": 44688,
+    "lat": 40.68458,
+    "lng": -81.25757,
+    "city": "Waynesburg",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2895.0,
+    "density": 48.0,
+    "county_fips": 39151,
+    "county_name": "Stark",
+    "county_weights": "{\"39151\": 70.29, \"39019\": 29.71}",
+    "county_names_all": "Stark|Carroll",
+    "county_fips_all": "39151|39019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

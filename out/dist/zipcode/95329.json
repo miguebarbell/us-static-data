@@ -1,0 +1,20 @@
+{
+    "zip": 95329,
+    "lat": 37.67726,
+    "lng": -120.41363,
+    "city": "La Grange",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2339.0,
+    "density": 7.7,
+    "county_fips": 6109,
+    "county_name": "Tuolumne",
+    "county_weights": "{\"06109\": 48.33, \"06099\": 36.0, \"06043\": 15.66}",
+    "county_names_all": "Tuolumne|Stanislaus|Mariposa",
+    "county_fips_all": "06109|06099|06043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 28078,
+    "lat": 35.40545,
+    "lng": -80.86633,
+    "city": "Huntersville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 69907.0,
+    "density": 423.6,
+    "county_fips": 37119,
+    "county_name": "Mecklenburg",
+    "county_weights": "{\"37119\": 98.19, \"37025\": 1.81}",
+    "county_names_all": "Mecklenburg|Cabarrus",
+    "county_fips_all": "37119|37025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

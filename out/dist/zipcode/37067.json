@@ -1,0 +1,20 @@
+{
+    "zip": 37067,
+    "lat": 35.91314,
+    "lng": -86.77461,
+    "city": "Franklin",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31550.0,
+    "density": 374.4,
+    "county_fips": 47187,
+    "county_name": "Williamson",
+    "county_weights": "{\"47187\": 100}",
+    "county_names_all": "Williamson",
+    "county_fips_all": "47187",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

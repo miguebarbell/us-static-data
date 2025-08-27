@@ -1,0 +1,20 @@
+{
+    "zip": 28627,
+    "lat": 36.4528,
+    "lng": -81.01294,
+    "city": "Glade Valley",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1273.0,
+    "density": 19.1,
+    "county_fips": 37005,
+    "county_name": "Alleghany",
+    "county_weights": "{\"37005\": 100}",
+    "county_names_all": "Alleghany",
+    "county_fips_all": "37005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

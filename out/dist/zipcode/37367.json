@@ -1,0 +1,20 @@
+{
+    "zip": 37367,
+    "lat": 35.62959,
+    "lng": -85.21832,
+    "city": "Pikeville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11736.0,
+    "density": 15.3,
+    "county_fips": 47007,
+    "county_name": "Bledsoe",
+    "county_weights": "{\"47007\": 91.77, \"47035\": 4.41, \"47175\": 3.82}",
+    "county_names_all": "Bledsoe|Cumberland|Van Buren",
+    "county_fips_all": "47007|47035|47175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

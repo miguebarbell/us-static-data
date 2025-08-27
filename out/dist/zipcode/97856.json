@@ -1,0 +1,20 @@
+{
+    "zip": 97856,
+    "lat": 44.78426,
+    "lng": -119.12976,
+    "city": "Long Creek",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 455.0,
+    "density": 0.3,
+    "county_fips": 41023,
+    "county_name": "Grant",
+    "county_weights": "{\"41023\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "41023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

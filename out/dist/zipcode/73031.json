@@ -1,0 +1,20 @@
+{
+    "zip": 73031,
+    "lat": 35.03376,
+    "lng": -97.63139,
+    "city": "Dibble",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 47.0,
+    "density": 126.1,
+    "county_fips": 40087,
+    "county_name": "McClain",
+    "county_weights": "{\"40087\": 100}",
+    "county_names_all": "McClain",
+    "county_fips_all": "40087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

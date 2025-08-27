@@ -1,0 +1,20 @@
+{
+    "zip": 53929,
+    "lat": 43.75415,
+    "lng": -90.28376,
+    "city": "Elroy",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2833.0,
+    "density": 14.8,
+    "county_fips": 55057,
+    "county_name": "Juneau",
+    "county_weights": "{\"55057\": 72.2, \"55081\": 16.81, \"55123\": 10.99}",
+    "county_names_all": "Juneau|Monroe|Vernon",
+    "county_fips_all": "55057|55081|55123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

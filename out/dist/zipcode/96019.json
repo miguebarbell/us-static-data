@@ -1,0 +1,20 @@
+{
+    "zip": 96019,
+    "lat": 40.68729,
+    "lng": -122.39927,
+    "city": "Shasta Lake",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10413.0,
+    "density": 208.1,
+    "county_fips": 6089,
+    "county_name": "Shasta",
+    "county_weights": "{\"06089\": 100}",
+    "county_names_all": "Shasta",
+    "county_fips_all": "06089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65777,
+    "lat": 36.51768,
+    "lng": -91.98356,
+    "city": "Moody",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 135.0,
+    "density": 4.0,
+    "county_fips": 29091,
+    "county_name": "Howell",
+    "county_weights": "{\"29091\": 100}",
+    "county_names_all": "Howell",
+    "county_fips_all": "29091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

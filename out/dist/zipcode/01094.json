@@ -1,0 +1,20 @@
+{
+    "zip": 1094,
+    "lat": 42.36481,
+    "lng": -72.13548,
+    "city": "Wheelwright",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 64.0,
+    "density": 34.3,
+    "county_fips": 25027,
+    "county_name": "Worcester",
+    "county_weights": "{\"25027\": 100}",
+    "county_names_all": "Worcester",
+    "county_fips_all": "25027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

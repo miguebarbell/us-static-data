@@ -1,0 +1,20 @@
+{
+    "zip": 13862,
+    "lat": 42.3369,
+    "lng": -75.9372,
+    "city": "Whitney Point",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3667.0,
+    "density": 27.5,
+    "county_fips": 36007,
+    "county_name": "Broome",
+    "county_weights": "{\"36007\": 98.8, \"36023\": 1.2}",
+    "county_names_all": "Broome|Cortland",
+    "county_fips_all": "36007|36023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

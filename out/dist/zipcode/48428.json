@@ -1,0 +1,20 @@
+{
+    "zip": 48428,
+    "lat": 42.93752,
+    "lng": -83.14756,
+    "city": "Dryden",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5322.0,
+    "density": 62.2,
+    "county_fips": 26087,
+    "county_name": "Lapeer",
+    "county_weights": "{\"26087\": 98.71, \"26125\": 1.29}",
+    "county_names_all": "Lapeer|Oakland",
+    "county_fips_all": "26087|26125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

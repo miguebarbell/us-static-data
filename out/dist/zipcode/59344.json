@@ -1,0 +1,20 @@
+{
+    "zip": 59344,
+    "lat": 46.3516,
+    "lng": -104.5713,
+    "city": "Plevna",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 471.0,
+    "density": 0.4,
+    "county_fips": 30025,
+    "county_name": "Fallon",
+    "county_weights": "{\"30025\": 93.98, \"30011\": 6.02}",
+    "county_names_all": "Fallon|Carter",
+    "county_fips_all": "30025|30011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

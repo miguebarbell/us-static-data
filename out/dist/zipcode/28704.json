@@ -1,0 +1,20 @@
+{
+    "zip": 28704,
+    "lat": 35.46305,
+    "lng": -82.57142,
+    "city": "Arden",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23516.0,
+    "density": 301.3,
+    "county_fips": 37021,
+    "county_name": "Buncombe",
+    "county_weights": "{\"37021\": 93.74, \"37089\": 6.26}",
+    "county_names_all": "Buncombe|Henderson",
+    "county_fips_all": "37021|37089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

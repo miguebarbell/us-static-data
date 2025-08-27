@@ -1,0 +1,20 @@
+{
+    "zip": 46537,
+    "lat": 41.45724,
+    "lng": -86.30669,
+    "city": "Lapaz",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 520.0,
+    "density": 484.5,
+    "county_fips": 18099,
+    "county_name": "Marshall",
+    "county_weights": "{\"18099\": 100}",
+    "county_names_all": "Marshall",
+    "county_fips_all": "18099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

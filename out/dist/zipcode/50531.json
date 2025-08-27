@@ -1,0 +1,20 @@
+{
+    "zip": 50531,
+    "lat": 43.45841,
+    "lng": -94.61417,
+    "city": "Dolliver",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 260.0,
+    "density": 2.6,
+    "county_fips": 19063,
+    "county_name": "Emmet",
+    "county_weights": "{\"19063\": 100}",
+    "county_names_all": "Emmet",
+    "county_fips_all": "19063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

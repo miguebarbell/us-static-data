@@ -1,0 +1,20 @@
+{
+    "zip": 54629,
+    "lat": 44.15928,
+    "lng": -91.66661,
+    "city": "Fountain City",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2546.0,
+    "density": 8.8,
+    "county_fips": 55011,
+    "county_name": "Buffalo",
+    "county_weights": "{\"55011\": 100}",
+    "county_names_all": "Buffalo",
+    "county_fips_all": "55011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

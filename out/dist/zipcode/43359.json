@@ -1,0 +1,20 @@
+{
+    "zip": 43359,
+    "lat": 40.86977,
+    "lng": -83.45319,
+    "city": "Wharton",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 616.0,
+    "density": 11.0,
+    "county_fips": 39175,
+    "county_name": "Wyandot",
+    "county_weights": "{\"39175\": 100}",
+    "county_names_all": "Wyandot",
+    "county_fips_all": "39175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

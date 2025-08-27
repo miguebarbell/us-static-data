@@ -1,0 +1,20 @@
+{
+    "zip": 53146,
+    "lat": 42.9718,
+    "lng": -88.15885,
+    "city": "New Berlin",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7348.0,
+    "density": 155.0,
+    "county_fips": 55133,
+    "county_name": "Waukesha",
+    "county_weights": "{\"55133\": 100}",
+    "county_names_all": "Waukesha",
+    "county_fips_all": "55133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

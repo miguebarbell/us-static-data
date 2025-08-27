@@ -1,0 +1,20 @@
+{
+    "zip": 63827,
+    "lat": 36.26133,
+    "lng": -89.89226,
+    "city": "Bragg City",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 538.0,
+    "density": 2.8,
+    "county_fips": 29155,
+    "county_name": "Pemiscot",
+    "county_weights": "{\"29155\": 100}",
+    "county_names_all": "Pemiscot",
+    "county_fips_all": "29155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

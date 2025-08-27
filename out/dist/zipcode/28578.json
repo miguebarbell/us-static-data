@@ -1,0 +1,20 @@
+{
+    "zip": 28578,
+    "lat": 35.20017,
+    "lng": -77.86332,
+    "city": "Seven Springs",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4585.0,
+    "density": 27.0,
+    "county_fips": 37191,
+    "county_name": "Wayne",
+    "county_weights": "{\"37191\": 57.62, \"37107\": 27.89, \"37061\": 14.49}",
+    "county_names_all": "Wayne|Lenoir|Duplin",
+    "county_fips_all": "37191|37107|37061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

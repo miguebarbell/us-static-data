@@ -1,0 +1,20 @@
+{
+    "zip": 46140,
+    "lat": 39.80358,
+    "lng": -85.77049,
+    "city": "Greenfield",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42927.0,
+    "density": 96.1,
+    "county_fips": 18059,
+    "county_name": "Hancock",
+    "county_weights": "{\"18059\": 98.93, \"18139\": 0.64, \"18145\": 0.43}",
+    "county_names_all": "Hancock|Rush|Shelby",
+    "county_fips_all": "18059|18139|18145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

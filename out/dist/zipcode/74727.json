@@ -1,0 +1,20 @@
+{
+    "zip": 74727,
+    "lat": 34.01907,
+    "lng": -95.86018,
+    "city": "Boswell",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2040.0,
+    "density": 3.6,
+    "county_fips": 40023,
+    "county_name": "Choctaw",
+    "county_weights": "{\"40023\": 75.53, \"40013\": 14.38, \"40005\": 10.09}",
+    "county_names_all": "Choctaw|Bryan|Atoka",
+    "county_fips_all": "40023|40013|40005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

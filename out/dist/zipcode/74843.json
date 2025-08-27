@@ -1,0 +1,20 @@
+{
+    "zip": 74843,
+    "lat": 34.65763,
+    "lng": -96.7125,
+    "city": "Fitzhugh",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 299.0,
+    "density": 3.5,
+    "county_fips": 40123,
+    "county_name": "Pontotoc",
+    "county_weights": "{\"40123\": 100}",
+    "county_names_all": "Pontotoc",
+    "county_fips_all": "40123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

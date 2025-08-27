@@ -1,0 +1,20 @@
+{
+    "zip": 64862,
+    "lat": 37.10128,
+    "lng": -94.11469,
+    "city": "Sarcoxie",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3214.0,
+    "density": 13.7,
+    "county_fips": 29097,
+    "county_name": "Jasper",
+    "county_weights": "{\"29097\": 60.84, \"29145\": 25.02, \"29109\": 14.14}",
+    "county_names_all": "Jasper|Newton|Lawrence",
+    "county_fips_all": "29097|29145|29109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

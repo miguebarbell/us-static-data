@@ -1,0 +1,20 @@
+{
+    "zip": 55961,
+    "lat": 43.60541,
+    "lng": -92.47544,
+    "city": "Ostrander",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 517.0,
+    "density": 6.7,
+    "county_fips": 27099,
+    "county_name": "Mower",
+    "county_weights": "{\"27099\": 74.25, \"27045\": 25.75}",
+    "county_names_all": "Mower|Fillmore",
+    "county_fips_all": "27099|27045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

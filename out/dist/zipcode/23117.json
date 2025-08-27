@@ -1,0 +1,20 @@
+{
+    "zip": 23117,
+    "lat": 37.97736,
+    "lng": -77.87365,
+    "city": "Mineral",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10772.0,
+    "density": 29.1,
+    "county_fips": 51109,
+    "county_name": "Louisa",
+    "county_weights": "{\"51109\": 88.45, \"51177\": 8.45, \"51075\": 3.1}",
+    "county_names_all": "Louisa|Spotsylvania|Goochland",
+    "county_fips_all": "51109|51177|51075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

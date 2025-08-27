@@ -1,0 +1,20 @@
+{
+    "zip": 54455,
+    "lat": 44.7625,
+    "lng": -89.68559,
+    "city": "Mosinee",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18994.0,
+    "density": 31.1,
+    "county_fips": 55073,
+    "county_name": "Marathon",
+    "county_weights": "{\"55073\": 92.64, \"55097\": 7.36}",
+    "county_names_all": "Marathon|Portage",
+    "county_fips_all": "55073|55097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

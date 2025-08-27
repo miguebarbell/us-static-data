@@ -1,0 +1,20 @@
+{
+    "zip": 30171,
+    "lat": 34.36122,
+    "lng": -84.73584,
+    "city": "Rydal",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2937.0,
+    "density": 27.6,
+    "county_fips": 13015,
+    "county_name": "Bartow",
+    "county_weights": "{\"13015\": 85.85, \"13129\": 14.15}",
+    "county_names_all": "Bartow|Gordon",
+    "county_fips_all": "13015|13129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

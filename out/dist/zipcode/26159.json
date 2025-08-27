@@ -1,0 +1,20 @@
+{
+    "zip": 26159,
+    "lat": 39.60724,
+    "lng": -80.93216,
+    "city": "Paden City",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2523.0,
+    "density": 959.5,
+    "county_fips": 54103,
+    "county_name": "Wetzel",
+    "county_weights": "{\"54103\": 75.99, \"54095\": 24.01}",
+    "county_names_all": "Wetzel|Tyler",
+    "county_fips_all": "54103|54095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

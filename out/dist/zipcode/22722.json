@@ -1,0 +1,20 @@
+{
+    "zip": 22722,
+    "lat": 38.46304,
+    "lng": -78.22645,
+    "city": "Haywood",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 399.0,
+    "density": 58.9,
+    "county_fips": 51113,
+    "county_name": "Madison",
+    "county_weights": "{\"51113\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "51113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

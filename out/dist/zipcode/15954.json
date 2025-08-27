@@ -1,0 +1,20 @@
+{
+    "zip": 15954,
+    "lat": 40.41837,
+    "lng": -79.00051,
+    "city": "Seward",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2186.0,
+    "density": 41.7,
+    "county_fips": 42063,
+    "county_name": "Indiana",
+    "county_weights": "{\"42063\": 60.16, \"42129\": 39.7, \"42021\": 0.14}",
+    "county_names_all": "Indiana|Westmoreland|Cambria",
+    "county_fips_all": "42063|42129|42021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

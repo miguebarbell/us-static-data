@@ -1,0 +1,20 @@
+{
+    "zip": 97357,
+    "lat": 44.73934,
+    "lng": -123.81592,
+    "city": "Logsden",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 206.0,
+    "density": 4.2,
+    "county_fips": 41041,
+    "county_name": "Lincoln",
+    "county_weights": "{\"41041\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "41041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 33525,
+    "lat": 28.33503,
+    "lng": -82.18383,
+    "city": "Dade City",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20220.0,
+    "density": 81.3,
+    "county_fips": 12101,
+    "county_name": "Pasco",
+    "county_weights": "{\"12101\": 100}",
+    "county_names_all": "Pasco",
+    "county_fips_all": "12101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

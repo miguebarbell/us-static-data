@@ -1,0 +1,20 @@
+{
+    "zip": 71417,
+    "lat": 31.51611,
+    "lng": -92.65361,
+    "city": "Colfax",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4681.0,
+    "density": 12.8,
+    "county_fips": 22043,
+    "county_name": "Grant",
+    "county_weights": "{\"22043\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "22043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

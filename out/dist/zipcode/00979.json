@@ -1,0 +1,20 @@
+{
+    "zip": 979,
+    "lat": 18.43734,
+    "lng": -66.0089,
+    "city": "Carolina",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15597.0,
+    "density": 1548.7,
+    "county_fips": 72031,
+    "county_name": "Carolina",
+    "county_weights": "{\"72031\": 100}",
+    "county_names_all": "Carolina",
+    "county_fips_all": "72031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

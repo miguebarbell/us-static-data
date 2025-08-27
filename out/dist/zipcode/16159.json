@@ -1,0 +1,20 @@
+{
+    "zip": 16159,
+    "lat": 41.15967,
+    "lng": -80.46858,
+    "city": "West Middlesex",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4664.0,
+    "density": 64.1,
+    "county_fips": 42085,
+    "county_name": "Mercer",
+    "county_weights": "{\"42085\": 89.54, \"42073\": 10.46}",
+    "county_names_all": "Mercer|Lawrence",
+    "county_fips_all": "42085|42073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

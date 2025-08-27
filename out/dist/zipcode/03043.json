@@ -1,0 +1,20 @@
+{
+    "zip": 3043,
+    "lat": 42.99581,
+    "lng": -71.81514,
+    "city": "Francestown",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1347.0,
+    "density": 17.5,
+    "county_fips": 33011,
+    "county_name": "Hillsborough",
+    "county_weights": "{\"33011\": 100}",
+    "county_names_all": "Hillsborough",
+    "county_fips_all": "33011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 62088,
+    "lat": 39.01318,
+    "lng": -89.79764,
+    "city": "Staunton",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6482.0,
+    "density": 57.1,
+    "county_fips": 17117,
+    "county_name": "Macoupin",
+    "county_weights": "{\"17117\": 63.58, \"17119\": 36.42}",
+    "county_names_all": "Macoupin|Madison",
+    "county_fips_all": "17117|17119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

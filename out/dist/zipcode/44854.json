@@ -1,0 +1,20 @@
+{
+    "zip": 44854,
+    "lat": 40.94723,
+    "lng": -82.85748,
+    "city": "New Washington",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1459.0,
+    "density": 13.8,
+    "county_fips": 39033,
+    "county_name": "Crawford",
+    "county_weights": "{\"39033\": 92.76, \"39147\": 7.24}",
+    "county_names_all": "Crawford|Seneca",
+    "county_fips_all": "39033|39147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

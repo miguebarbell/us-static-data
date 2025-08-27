@@ -1,0 +1,20 @@
+{
+    "zip": 35766,
+    "lat": 34.87342,
+    "lng": -86.27661,
+    "city": "Princeton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 217.0,
+    "density": 2.3,
+    "county_fips": 1071,
+    "county_name": "Jackson",
+    "county_weights": "{\"01071\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "01071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

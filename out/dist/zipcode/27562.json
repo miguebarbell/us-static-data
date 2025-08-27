@@ -1,0 +1,20 @@
+{
+    "zip": 27562,
+    "lat": 35.64157,
+    "lng": -78.98141,
+    "city": "New Hill",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5044.0,
+    "density": 35.9,
+    "county_fips": 37037,
+    "county_name": "Chatham",
+    "county_weights": "{\"37037\": 60.03, \"37183\": 39.97}",
+    "county_names_all": "Chatham|Wake",
+    "county_fips_all": "37037|37183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

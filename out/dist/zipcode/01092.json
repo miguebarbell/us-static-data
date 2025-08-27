@@ -1,0 +1,20 @@
+{
+    "zip": 1092,
+    "lat": 42.20008,
+    "lng": -72.23715,
+    "city": "West Warren",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1123.0,
+    "density": 64.5,
+    "county_fips": 25027,
+    "county_name": "Worcester",
+    "county_weights": "{\"25027\": 100}",
+    "county_names_all": "Worcester",
+    "county_fips_all": "25027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

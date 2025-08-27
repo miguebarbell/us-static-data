@@ -1,0 +1,20 @@
+{
+    "zip": 60423,
+    "lat": 41.47922,
+    "lng": -87.83961,
+    "city": "Frankfort",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32813.0,
+    "density": 334.5,
+    "county_fips": 17197,
+    "county_name": "Will",
+    "county_weights": "{\"17197\": 94.66, \"17031\": 5.34}",
+    "county_names_all": "Will|Cook",
+    "county_fips_all": "17197|17031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

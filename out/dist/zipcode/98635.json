@@ -1,0 +1,20 @@
+{
+    "zip": 98635,
+    "lat": 45.74364,
+    "lng": -121.20915,
+    "city": "Lyle",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2033.0,
+    "density": 5.9,
+    "county_fips": 53039,
+    "county_name": "Klickitat",
+    "county_weights": "{\"53039\": 100}",
+    "county_names_all": "Klickitat",
+    "county_fips_all": "53039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

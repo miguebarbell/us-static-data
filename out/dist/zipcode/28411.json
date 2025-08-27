@@ -1,0 +1,20 @@
+{
+    "zip": 28411,
+    "lat": 34.3015,
+    "lng": -77.79307,
+    "city": "Wilmington",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37303.0,
+    "density": 349.4,
+    "county_fips": 37129,
+    "county_name": "New Hanover",
+    "county_weights": "{\"37129\": 80.48, \"37141\": 19.52}",
+    "county_names_all": "New Hanover|Pender",
+    "county_fips_all": "37129|37141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

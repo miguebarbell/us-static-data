@@ -1,0 +1,20 @@
+{
+    "zip": 22030,
+    "lat": 38.83891,
+    "lng": -77.34188,
+    "city": "Fairfax",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 60855.0,
+    "density": 1208.4,
+    "county_fips": 51059,
+    "county_name": "Fairfax",
+    "county_weights": "{\"51059\": 76.08, \"51600\": 23.92}",
+    "county_names_all": "Fairfax|Fairfax",
+    "county_fips_all": "51059|51600",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

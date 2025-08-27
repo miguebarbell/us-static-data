@@ -1,0 +1,20 @@
+{
+    "zip": 71766,
+    "lat": 33.7362,
+    "lng": -92.50205,
+    "city": "Thornton",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 534.0,
+    "density": 4.1,
+    "county_fips": 5013,
+    "county_name": "Calhoun",
+    "county_weights": "{\"05013\": 100}",
+    "county_names_all": "Calhoun",
+    "county_fips_all": "05013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

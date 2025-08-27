@@ -1,0 +1,20 @@
+{
+    "zip": 51640,
+    "lat": 40.62262,
+    "lng": -95.6634,
+    "city": "Hamburg",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1445.0,
+    "density": 4.8,
+    "county_fips": 19071,
+    "county_name": "Fremont",
+    "county_weights": "{\"19071\": 81.66, \"29005\": 18.34}",
+    "county_names_all": "Fremont|Atchison",
+    "county_fips_all": "19071|29005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

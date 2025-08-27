@@ -1,0 +1,20 @@
+{
+    "zip": 3752,
+    "lat": 43.28909,
+    "lng": -72.11489,
+    "city": "Goshen",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 982.0,
+    "density": 17.0,
+    "county_fips": 33019,
+    "county_name": "Sullivan",
+    "county_weights": "{\"33019\": 100}",
+    "county_names_all": "Sullivan",
+    "county_fips_all": "33019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 30118,
+    "lat": 33.57288,
+    "lng": -85.09938,
+    "city": "Carrollton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1149.0,
+    "density": 2213.4,
+    "county_fips": 13045,
+    "county_name": "Carroll",
+    "county_weights": "{\"13045\": 100}",
+    "county_names_all": "Carroll",
+    "county_fips_all": "13045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

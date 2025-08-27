@@ -1,0 +1,20 @@
+{
+    "zip": 39479,
+    "lat": 31.53775,
+    "lng": -89.46065,
+    "city": "Seminary",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5694.0,
+    "density": 17.7,
+    "county_fips": 28031,
+    "county_name": "Covington",
+    "county_weights": "{\"28031\": 86.88, \"28067\": 13.12}",
+    "county_names_all": "Covington|Jones",
+    "county_fips_all": "28031|28067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

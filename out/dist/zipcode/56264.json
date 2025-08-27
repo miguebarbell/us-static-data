@@ -1,0 +1,20 @@
+{
+    "zip": 56264,
+    "lat": 44.57529,
+    "lng": -95.98001,
+    "city": "Minneota",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2185.0,
+    "density": 6.5,
+    "county_fips": 27083,
+    "county_name": "Lyon",
+    "county_weights": "{\"27083\": 69.91, \"27173\": 25.8, \"27081\": 4.29}",
+    "county_names_all": "Lyon|Yellow Medicine|Lincoln",
+    "county_fips_all": "27083|27173|27081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

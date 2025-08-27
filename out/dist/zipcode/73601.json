@@ -1,0 +1,20 @@
+{
+    "zip": 73601,
+    "lat": 35.49859,
+    "lng": -98.94694,
+    "city": "Clinton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9489.0,
+    "density": 26.6,
+    "county_fips": 40039,
+    "county_name": "Custer",
+    "county_weights": "{\"40039\": 73.55, \"40149\": 26.45}",
+    "county_names_all": "Custer|Washita",
+    "county_fips_all": "40039|40149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

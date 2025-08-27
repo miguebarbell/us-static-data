@@ -1,0 +1,20 @@
+{
+    "zip": 80750,
+    "lat": 40.41144,
+    "lng": -103.60681,
+    "city": "Snyder",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 160.0,
+    "density": 0.5,
+    "county_fips": 8087,
+    "county_name": "Morgan",
+    "county_weights": "{\"08087\": 100}",
+    "county_names_all": "Morgan",
+    "county_fips_all": "08087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

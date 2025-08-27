@@ -1,0 +1,20 @@
+{
+    "zip": 83623,
+    "lat": 43.04932,
+    "lng": -115.39485,
+    "city": "Glenns Ferry",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1637.0,
+    "density": 2.6,
+    "county_fips": 16039,
+    "county_name": "Elmore",
+    "county_weights": "{\"16039\": 100}",
+    "county_names_all": "Elmore",
+    "county_fips_all": "16039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 62817,
+    "lat": 37.9545,
+    "lng": -88.47762,
+    "city": "Broughton",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 571.0,
+    "density": 3.3,
+    "county_fips": 17065,
+    "county_name": "Hamilton",
+    "county_weights": "{\"17065\": 100}",
+    "county_names_all": "Hamilton",
+    "county_fips_all": "17065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 11373,
+    "lat": 40.73892,
+    "lng": -73.87854,
+    "city": "Elmhurst",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 99433.0,
+    "density": 25394.8,
+    "county_fips": 36081,
+    "county_name": "Queens",
+    "county_weights": "{\"36081\": 100}",
+    "county_names_all": "Queens",
+    "county_fips_all": "36081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

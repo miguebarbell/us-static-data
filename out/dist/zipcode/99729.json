@@ -1,0 +1,20 @@
+{
+    "zip": 99729,
+    "lat": 63.22686,
+    "lng": -148.10122,
+    "city": "Cantwell",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 121.0,
+    "density": 0.0,
+    "county_fips": 2170,
+    "county_name": "Matanuska-Susitna",
+    "county_weights": "{\"02170\": 89.4, \"02068\": 10.6}",
+    "county_names_all": "Matanuska-Susitna|Denali",
+    "county_fips_all": "02170|02068",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 99901,
+    "lat": 55.6227,
+    "lng": -131.67157,
+    "city": "Ketchikan",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13875.0,
+    "density": 2.7,
+    "county_fips": 2130,
+    "county_name": "Ketchikan Gateway",
+    "county_weights": "{\"02130\": 86.21, \"02198\": 13.79}",
+    "county_names_all": "Ketchikan Gateway|Prince of Wales-Hyder",
+    "county_fips_all": "02130|02198",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Sitka"
+}

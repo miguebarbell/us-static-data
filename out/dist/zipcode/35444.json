@@ -1,0 +1,20 @@
+{
+    "zip": 35444,
+    "lat": 33.33474,
+    "lng": -87.30387,
+    "city": "Brookwood",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4047.0,
+    "density": 10.4,
+    "county_fips": 1125,
+    "county_name": "Tuscaloosa",
+    "county_weights": "{\"01125\": 93.49, \"01073\": 6.51}",
+    "county_names_all": "Tuscaloosa|Jefferson",
+    "county_fips_all": "01125|01073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

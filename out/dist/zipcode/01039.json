@@ -1,0 +1,20 @@
+{
+    "zip": 1039,
+    "lat": 42.41049,
+    "lng": -72.69188,
+    "city": "Haydenville",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1660.0,
+    "density": 38.9,
+    "county_fips": 25015,
+    "county_name": "Hampshire",
+    "county_weights": "{\"25015\": 58.67, \"25011\": 41.33}",
+    "county_names_all": "Hampshire|Franklin",
+    "county_fips_all": "25015|25011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

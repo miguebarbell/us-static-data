@@ -1,0 +1,20 @@
+{
+    "zip": 28788,
+    "lat": 35.35044,
+    "lng": -83.22266,
+    "city": "Webster",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 197.0,
+    "density": 131.5,
+    "county_fips": 37099,
+    "county_name": "Jackson",
+    "county_weights": "{\"37099\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "37099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 84015,
+    "lat": 41.12073,
+    "lng": -112.06129,
+    "city": "Clearfield",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 70730.0,
+    "density": 1311.3,
+    "county_fips": 49011,
+    "county_name": "Davis",
+    "county_weights": "{\"49011\": 100}",
+    "county_names_all": "Davis",
+    "county_fips_all": "49011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 32334,
+    "lat": 30.2612,
+    "lng": -84.75835,
+    "city": "Hosford",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1749.0,
+    "density": 3.0,
+    "county_fips": 12077,
+    "county_name": "Liberty",
+    "county_weights": "{\"12077\": 100}",
+    "county_names_all": "Liberty",
+    "county_fips_all": "12077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

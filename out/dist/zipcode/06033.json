@@ -1,0 +1,20 @@
+{
+    "zip": 6033,
+    "lat": 41.70593,
+    "lng": -72.53915,
+    "city": "Glastonbury",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29311.0,
+    "density": 308.0,
+    "county_fips": 9110,
+    "county_name": "Capitol",
+    "county_weights": "{\"09110\": 100}",
+    "county_names_all": "Capitol",
+    "county_fips_all": "09110",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

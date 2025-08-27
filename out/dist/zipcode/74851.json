@@ -1,0 +1,20 @@
+{
+    "zip": 74851,
+    "lat": 35.42653,
+    "lng": -97.08072,
+    "city": "Mcloud",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11161.0,
+    "density": 51.3,
+    "county_fips": 40125,
+    "county_name": "Pottawatomie",
+    "county_weights": "{\"40125\": 58.4, \"40081\": 34.15, \"40027\": 7.45}",
+    "county_names_all": "Pottawatomie|Lincoln|Cleveland",
+    "county_fips_all": "40125|40081|40027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 33903,
+    "lat": 26.68217,
+    "lng": -81.90688,
+    "city": "North Fort Myers",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23199.0,
+    "density": 790.7,
+    "county_fips": 12071,
+    "county_name": "Lee",
+    "county_weights": "{\"12071\": 100}",
+    "county_names_all": "Lee",
+    "county_fips_all": "12071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

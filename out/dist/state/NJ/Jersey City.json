@@ -1,0 +1,17 @@
+{
+    "zip": [
+        "07302",
+        "07304",
+        "07305",
+        "07306",
+        "07307",
+        "07310",
+        "07311"
+    ],
+    "city": "Jersey City",
+    "state": "NJ",
+    "lat": 40.58342,
+    "lng": -74.26992,
+    "state_name": "New Jersey",
+    "timezone": "America/New_York"
+}

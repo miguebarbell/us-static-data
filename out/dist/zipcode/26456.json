@@ -1,0 +1,20 @@
+{
+    "zip": 26456,
+    "lat": 39.28078,
+    "lng": -80.77354,
+    "city": "West Union",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3258.0,
+    "density": 8.9,
+    "county_fips": 54017,
+    "county_name": "Doddridge",
+    "county_weights": "{\"54017\": 87.02, \"54085\": 8.73, \"54095\": 4.25}",
+    "county_names_all": "Doddridge|Ritchie|Tyler",
+    "county_fips_all": "54017|54085|54095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

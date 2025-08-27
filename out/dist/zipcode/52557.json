@@ -1,0 +1,20 @@
+{
+    "zip": 52557,
+    "lat": 41.02026,
+    "lng": -91.96653,
+    "city": "Fairfield",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 615.0,
+    "density": 888.6,
+    "county_fips": 19101,
+    "county_name": "Jefferson",
+    "county_weights": "{\"19101\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "19101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

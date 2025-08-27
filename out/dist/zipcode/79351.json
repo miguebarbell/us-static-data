@@ -1,0 +1,20 @@
+{
+    "zip": 79351,
+    "lat": 32.93191,
+    "lng": -101.78581,
+    "city": "Odonnell",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1047.0,
+    "density": 1.4,
+    "county_fips": 48115,
+    "county_name": "Dawson",
+    "county_weights": "{\"48115\": 37.04, \"48305\": 31.89, \"48033\": 31.07}",
+    "county_names_all": "Dawson|Lynn|Borden",
+    "county_fips_all": "48115|48305|48033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

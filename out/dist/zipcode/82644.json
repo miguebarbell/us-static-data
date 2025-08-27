@@ -1,0 +1,20 @@
+{
+    "zip": 82644,
+    "lat": 42.84303,
+    "lng": -106.37437,
+    "city": "Mills",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1890.0,
+    "density": 898.1,
+    "county_fips": 56025,
+    "county_name": "Natrona",
+    "county_weights": "{\"56025\": 100}",
+    "county_names_all": "Natrona",
+    "county_fips_all": "56025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

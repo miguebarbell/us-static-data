@@ -1,0 +1,20 @@
+{
+    "zip": 16748,
+    "lat": 41.9427,
+    "lng": -78.14425,
+    "city": "Shinglehouse",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2687.0,
+    "density": 9.5,
+    "county_fips": 42105,
+    "county_name": "Potter",
+    "county_weights": "{\"42105\": 76.62, \"42083\": 23.38}",
+    "county_names_all": "Potter|McKean",
+    "county_fips_all": "42105|42083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

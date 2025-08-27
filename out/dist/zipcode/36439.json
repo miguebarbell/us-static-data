@@ -1,0 +1,20 @@
+{
+    "zip": 36439,
+    "lat": 31.42252,
+    "lng": -87.34512,
+    "city": "Excel",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 141.0,
+    "density": 62.6,
+    "county_fips": 1099,
+    "county_name": "Monroe",
+    "county_weights": "{\"01099\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "01099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

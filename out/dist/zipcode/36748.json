@@ -1,0 +1,20 @@
+{
+    "zip": 36748,
+    "lat": 32.27084,
+    "lng": -87.77728,
+    "city": "Linden",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2358.0,
+    "density": 6.5,
+    "county_fips": 1091,
+    "county_name": "Marengo",
+    "county_weights": "{\"01091\": 100}",
+    "county_names_all": "Marengo",
+    "county_fips_all": "01091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

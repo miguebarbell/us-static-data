@@ -1,0 +1,20 @@
+{
+    "zip": 53934,
+    "lat": 43.98044,
+    "lng": -89.82184,
+    "city": "Friendship",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4404.0,
+    "density": 14.0,
+    "county_fips": 55001,
+    "county_name": "Adams",
+    "county_weights": "{\"55001\": 100}",
+    "county_names_all": "Adams",
+    "county_fips_all": "55001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

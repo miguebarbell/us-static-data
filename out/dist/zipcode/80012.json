@@ -1,0 +1,20 @@
+{
+    "zip": 80012,
+    "lat": 39.69976,
+    "lng": -104.83784,
+    "city": "Aurora",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 51389.0,
+    "density": 2610.8,
+    "county_fips": 8005,
+    "county_name": "Arapahoe",
+    "county_weights": "{\"08005\": 99.64, \"08031\": 0.36}",
+    "county_names_all": "Arapahoe|Denver",
+    "county_fips_all": "08005|08031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

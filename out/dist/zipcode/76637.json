@@ -1,0 +1,20 @@
+{
+    "zip": 76637,
+    "lat": 31.76631,
+    "lng": -97.81817,
+    "city": "Cranfills Gap",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 463.0,
+    "density": 5.2,
+    "county_fips": 48035,
+    "county_name": "Bosque",
+    "county_weights": "{\"48035\": 56.83, \"48193\": 43.17}",
+    "county_names_all": "Bosque|Hamilton",
+    "county_fips_all": "48035|48193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

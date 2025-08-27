@@ -1,0 +1,20 @@
+{
+    "zip": 71861,
+    "lat": 33.1039,
+    "lng": -93.4941,
+    "city": "Taylor",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2330.0,
+    "density": 6.1,
+    "county_fips": 5073,
+    "county_name": "Lafayette",
+    "county_weights": "{\"05073\": 55.47, \"05027\": 44.53}",
+    "county_names_all": "Lafayette|Columbia",
+    "county_fips_all": "05073|05027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

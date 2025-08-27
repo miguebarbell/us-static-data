@@ -1,0 +1,20 @@
+{
+    "zip": 31051,
+    "lat": 32.14456,
+    "lng": -83.87812,
+    "city": "Lilly",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 135.0,
+    "density": 121.8,
+    "county_fips": 13093,
+    "county_name": "Dooly",
+    "county_weights": "{\"13093\": 100}",
+    "county_names_all": "Dooly",
+    "county_fips_all": "13093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 57233,
+    "lat": 44.50992,
+    "lng": -97.3993,
+    "city": "Erwin",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 240.0,
+    "density": 2.5,
+    "county_fips": 46077,
+    "county_name": "Kingsbury",
+    "county_weights": "{\"46077\": 100}",
+    "county_names_all": "Kingsbury",
+    "county_fips_all": "46077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

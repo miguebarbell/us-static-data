@@ -1,0 +1,20 @@
+{
+    "zip": 18435,
+    "lat": 41.49221,
+    "lng": -75.00661,
+    "city": "Lackawaxen",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 906.0,
+    "density": 28.0,
+    "county_fips": 42103,
+    "county_name": "Pike",
+    "county_weights": "{\"42103\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "42103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

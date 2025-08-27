@@ -1,0 +1,20 @@
+{
+    "zip": 71630,
+    "lat": 33.61827,
+    "lng": -91.23004,
+    "city": "Arkansas City",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 487.0,
+    "density": 8.0,
+    "county_fips": 5041,
+    "county_name": "Desha",
+    "county_weights": "{\"05041\": 100}",
+    "county_names_all": "Desha",
+    "county_fips_all": "05041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

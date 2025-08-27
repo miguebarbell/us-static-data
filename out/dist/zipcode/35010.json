@@ -1,0 +1,20 @@
+{
+    "zip": 35010,
+    "lat": 32.91433,
+    "lng": -85.93816,
+    "city": "Alexander City",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19619.0,
+    "density": 34.0,
+    "county_fips": 1123,
+    "county_name": "Tallapoosa",
+    "county_weights": "{\"01123\": 75.52, \"01037\": 18.24, \"01051\": 6.24}",
+    "county_names_all": "Tallapoosa|Coosa|Elmore",
+    "county_fips_all": "01123|01037|01051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

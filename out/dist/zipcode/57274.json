@@ -1,0 +1,20 @@
+{
+    "zip": 57274,
+    "lat": 45.30943,
+    "lng": -97.55533,
+    "city": "Webster",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2611.0,
+    "density": 2.7,
+    "county_fips": 46037,
+    "county_name": "Day",
+    "county_weights": "{\"46037\": 92.63, \"46025\": 7.37}",
+    "county_names_all": "Day|Clark",
+    "county_fips_all": "46037|46025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

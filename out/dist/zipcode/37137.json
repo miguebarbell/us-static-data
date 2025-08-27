@@ -1,0 +1,20 @@
+{
+    "zip": 37137,
+    "lat": 35.87912,
+    "lng": -87.50276,
+    "city": "Nunnelly",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1999.0,
+    "density": 9.0,
+    "county_fips": 47081,
+    "county_name": "Hickman",
+    "county_weights": "{\"47081\": 100}",
+    "county_names_all": "Hickman",
+    "county_fips_all": "47081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

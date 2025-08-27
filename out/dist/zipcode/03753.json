@@ -1,0 +1,20 @@
+{
+    "zip": 3753,
+    "lat": 43.51534,
+    "lng": -72.14798,
+    "city": "Grantham",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3478.0,
+    "density": 47.6,
+    "county_fips": 33019,
+    "county_name": "Sullivan",
+    "county_weights": "{\"33019\": 100}",
+    "county_names_all": "Sullivan",
+    "county_fips_all": "33019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 23551,
+    "lat": 36.92359,
+    "lng": -76.29238,
+    "city": "Norfolk",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1630.0,
+    "density": 1294.3,
+    "county_fips": 51710,
+    "county_name": "Norfolk",
+    "county_weights": "{\"51710\": 100}",
+    "county_names_all": "Norfolk",
+    "county_fips_all": "51710",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

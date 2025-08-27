@@ -1,0 +1,20 @@
+{
+    "zip": 46953,
+    "lat": 40.51928,
+    "lng": -85.643,
+    "city": "Marion",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23570.0,
+    "density": 106.3,
+    "county_fips": 18053,
+    "county_name": "Grant",
+    "county_weights": "{\"18053\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "18053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

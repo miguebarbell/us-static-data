@@ -1,0 +1,20 @@
+{
+    "zip": 71264,
+    "lat": 32.6029,
+    "lng": -91.7734,
+    "city": "Oak Ridge",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1167.0,
+    "density": 4.0,
+    "county_fips": 22067,
+    "county_name": "Morehouse",
+    "county_weights": "{\"22067\": 80.63, \"22083\": 19.37}",
+    "county_names_all": "Morehouse|Richland",
+    "county_fips_all": "22067|22083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

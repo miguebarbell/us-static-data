@@ -1,0 +1,20 @@
+{
+    "zip": 18356,
+    "lat": 41.01574,
+    "lng": -75.11192,
+    "city": "Shawnee On Delaware",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 42089,
+    "county_name": "Monroe",
+    "county_weights": "{\"42089\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "42089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

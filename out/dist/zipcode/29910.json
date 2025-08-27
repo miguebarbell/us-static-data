@@ -1,0 +1,20 @@
+{
+    "zip": 29910,
+    "lat": 32.2204,
+    "lng": -80.88277,
+    "city": "Bluffton",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 50173.0,
+    "density": 185.5,
+    "county_fips": 45013,
+    "county_name": "Beaufort",
+    "county_weights": "{\"45013\": 100}",
+    "county_names_all": "Beaufort",
+    "county_fips_all": "45013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

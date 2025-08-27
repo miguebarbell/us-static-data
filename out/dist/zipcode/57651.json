@@ -1,0 +1,20 @@
+{
+    "zip": 57651,
+    "lat": 45.48394,
+    "lng": -103.07746,
+    "city": "Reva",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 121.0,
+    "density": 0.1,
+    "county_fips": 46063,
+    "county_name": "Harding",
+    "county_weights": "{\"46063\": 84.92, \"46105\": 15.08}",
+    "county_names_all": "Harding|Perkins",
+    "county_fips_all": "46063|46105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

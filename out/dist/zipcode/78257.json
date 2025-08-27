@@ -1,0 +1,20 @@
+{
+    "zip": 78257,
+    "lat": 29.64373,
+    "lng": -98.57713,
+    "city": "San Antonio",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10390.0,
+    "density": 140.8,
+    "county_fips": 48029,
+    "county_name": "Bexar",
+    "county_weights": "{\"48029\": 100}",
+    "county_names_all": "Bexar",
+    "county_fips_all": "48029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

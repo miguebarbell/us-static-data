@@ -1,0 +1,20 @@
+{
+    "zip": 70339,
+    "lat": 29.92987,
+    "lng": -91.18357,
+    "city": "Pierre Part",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4510.0,
+    "density": 31.6,
+    "county_fips": 22007,
+    "county_name": "Assumption",
+    "county_weights": "{\"22007\": 89.79, \"22099\": 10.21}",
+    "county_names_all": "Assumption|St. Martin",
+    "county_fips_all": "22007|22099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

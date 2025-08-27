@@ -1,0 +1,20 @@
+{
+    "zip": 22460,
+    "lat": 37.87612,
+    "lng": -76.60692,
+    "city": "Farnham",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1797.0,
+    "density": 12.0,
+    "county_fips": 51159,
+    "county_name": "Richmond",
+    "county_weights": "{\"51159\": 100}",
+    "county_names_all": "Richmond",
+    "county_fips_all": "51159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

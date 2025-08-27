@@ -1,0 +1,20 @@
+{
+    "zip": 75862,
+    "lat": 30.96193,
+    "lng": -95.32951,
+    "city": "Trinity",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10030.0,
+    "density": 16.0,
+    "county_fips": 48455,
+    "county_name": "Trinity",
+    "county_weights": "{\"48455\": 79.94, \"48471\": 20.06}",
+    "county_names_all": "Trinity|Walker",
+    "county_fips_all": "48455|48471",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 15845,
+    "lat": 41.50714,
+    "lng": -78.69066,
+    "city": "Johnsonburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3109.0,
+    "density": 30.1,
+    "county_fips": 42047,
+    "county_name": "Elk",
+    "county_weights": "{\"42047\": 100}",
+    "county_names_all": "Elk",
+    "county_fips_all": "42047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

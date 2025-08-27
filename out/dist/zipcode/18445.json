@@ -1,0 +1,20 @@
+{
+    "zip": 18445,
+    "lat": 41.2948,
+    "lng": -75.34751,
+    "city": "Newfoundland",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2488.0,
+    "density": 29.3,
+    "county_fips": 42127,
+    "county_name": "Wayne",
+    "county_weights": "{\"42127\": 67.49, \"42103\": 32.51}",
+    "county_names_all": "Wayne|Pike",
+    "county_fips_all": "42127|42103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

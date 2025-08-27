@@ -1,0 +1,20 @@
+{
+    "zip": 46001,
+    "lat": 40.25141,
+    "lng": -85.65838,
+    "city": "Alexandria",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10481.0,
+    "density": 52.4,
+    "county_fips": 18095,
+    "county_name": "Madison",
+    "county_weights": "{\"18095\": 96.49, \"18035\": 3.51}",
+    "county_names_all": "Madison|Delaware",
+    "county_fips_all": "18095|18035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

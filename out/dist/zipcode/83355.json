@@ -1,0 +1,20 @@
+{
+    "zip": 83355,
+    "lat": 42.75515,
+    "lng": -114.72676,
+    "city": "Wendell",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5451.0,
+    "density": 18.1,
+    "county_fips": 16047,
+    "county_name": "Gooding",
+    "county_weights": "{\"16047\": 100}",
+    "county_names_all": "Gooding",
+    "county_fips_all": "16047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 6422,
+    "lat": 41.46221,
+    "lng": -72.68285,
+    "city": "Durham",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7182.0,
+    "density": 117.2,
+    "county_fips": 9130,
+    "county_name": "Lower Connecticut River Valley",
+    "county_weights": "{\"09130\": 100}",
+    "county_names_all": "Lower Connecticut River Valley",
+    "county_fips_all": "09130",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

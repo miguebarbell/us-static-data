@@ -1,0 +1,20 @@
+{
+    "zip": 38463,
+    "lat": 35.06802,
+    "lng": -87.64494,
+    "city": "Iron City",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2857.0,
+    "density": 9.6,
+    "county_fips": 47181,
+    "county_name": "Wayne",
+    "county_weights": "{\"47181\": 77.16, \"47099\": 22.84}",
+    "county_names_all": "Wayne|Lawrence",
+    "county_fips_all": "47181|47099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

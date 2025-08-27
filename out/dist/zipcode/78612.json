@@ -1,0 +1,20 @@
+{
+    "zip": 78612,
+    "lat": 30.09301,
+    "lng": -97.49017,
+    "city": "Cedar Creek",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19830.0,
+    "density": 77.3,
+    "county_fips": 48021,
+    "county_name": "Bastrop",
+    "county_weights": "{\"48021\": 98.78, \"48453\": 1.22}",
+    "county_names_all": "Bastrop|Travis",
+    "county_fips_all": "48021|48453",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

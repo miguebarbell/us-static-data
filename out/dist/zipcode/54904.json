@@ -1,0 +1,20 @@
+{
+    "zip": 54904,
+    "lat": 44.02346,
+    "lng": -88.62592,
+    "city": "Oshkosh",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22428.0,
+    "density": 111.2,
+    "county_fips": 55139,
+    "county_name": "Winnebago",
+    "county_weights": "{\"55139\": 99.54, \"55039\": 0.46}",
+    "county_names_all": "Winnebago|Fond du Lac",
+    "county_fips_all": "55139|55039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

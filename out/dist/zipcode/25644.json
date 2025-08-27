@@ -1,0 +1,20 @@
+{
+    "zip": 25644,
+    "lat": 37.70191,
+    "lng": -82.00107,
+    "city": "Sarah Ann",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 603.0,
+    "density": 10.1,
+    "county_fips": 54045,
+    "county_name": "Logan",
+    "county_weights": "{\"54045\": 100}",
+    "county_names_all": "Logan",
+    "county_fips_all": "54045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

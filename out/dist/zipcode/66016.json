@@ -1,0 +1,20 @@
+{
+    "zip": 66016,
+    "lat": 39.47038,
+    "lng": -95.23158,
+    "city": "Cummings",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 700.0,
+    "density": 8.6,
+    "county_fips": 20005,
+    "county_name": "Atchison",
+    "county_weights": "{\"20005\": 100}",
+    "county_names_all": "Atchison",
+    "county_fips_all": "20005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

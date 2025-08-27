@@ -1,0 +1,20 @@
+{
+    "zip": 60531,
+    "lat": 41.61563,
+    "lng": -88.78639,
+    "city": "Leland",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2170.0,
+    "density": 13.6,
+    "county_fips": 17099,
+    "county_name": "LaSalle",
+    "county_weights": "{\"17099\": 62.11, \"17037\": 37.89}",
+    "county_names_all": "LaSalle|DeKalb",
+    "county_fips_all": "17099|17037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

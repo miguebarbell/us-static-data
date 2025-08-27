@@ -1,0 +1,20 @@
+{
+    "zip": 59453,
+    "lat": 46.65903,
+    "lng": -109.66996,
+    "city": "Judith Gap",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 302.0,
+    "density": 0.3,
+    "county_fips": 30107,
+    "county_name": "Wheatland",
+    "county_weights": "{\"30107\": 76.59, \"30027\": 18.54, \"30045\": 4.87}",
+    "county_names_all": "Wheatland|Fergus|Judith Basin",
+    "county_fips_all": "30107|30027|30045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

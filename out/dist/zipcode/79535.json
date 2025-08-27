@@ -1,0 +1,20 @@
+{
+    "zip": 79535,
+    "lat": 32.2219,
+    "lng": -100.48421,
+    "city": "Maryneal",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 133.0,
+    "density": 0.3,
+    "county_fips": 48353,
+    "county_name": "Nolan",
+    "county_weights": "{\"48353\": 99.89, \"48335\": 0.11}",
+    "county_names_all": "Nolan|Mitchell",
+    "county_fips_all": "48353|48335",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

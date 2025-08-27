@@ -1,0 +1,20 @@
+{
+    "zip": 32038,
+    "lat": 29.93617,
+    "lng": -82.69924,
+    "city": "Fort White",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10035.0,
+    "density": 36.2,
+    "county_fips": 12023,
+    "county_name": "Columbia",
+    "county_weights": "{\"12023\": 100}",
+    "county_names_all": "Columbia",
+    "county_fips_all": "12023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

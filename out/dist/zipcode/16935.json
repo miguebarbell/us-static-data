@@ -1,0 +1,20 @@
+{
+    "zip": 16935,
+    "lat": 41.87032,
+    "lng": -77.32404,
+    "city": "Middlebury Center",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1175.0,
+    "density": 9.2,
+    "county_fips": 42117,
+    "county_name": "Tioga",
+    "county_weights": "{\"42117\": 100}",
+    "county_names_all": "Tioga",
+    "county_fips_all": "42117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

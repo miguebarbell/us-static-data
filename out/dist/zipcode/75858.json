@@ -1,0 +1,20 @@
+{
+    "zip": 75858,
+    "lat": 31.38083,
+    "lng": -95.13676,
+    "city": "Ratcliff",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 84.0,
+    "density": 14.7,
+    "county_fips": 48225,
+    "county_name": "Houston",
+    "county_weights": "{\"48225\": 100}",
+    "county_names_all": "Houston",
+    "county_fips_all": "48225",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 21904,
+    "lat": 39.62303,
+    "lng": -76.07812,
+    "city": "Port Deposit",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6401.0,
+    "density": 104.7,
+    "county_fips": 24015,
+    "county_name": "Cecil",
+    "county_weights": "{\"24015\": 100}",
+    "county_names_all": "Cecil",
+    "county_fips_all": "24015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

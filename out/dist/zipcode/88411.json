@@ -1,0 +1,20 @@
+{
+    "zip": 88411,
+    "lat": 35.23488,
+    "lng": -103.16248,
+    "city": "Bard",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 104.0,
+    "density": 0.2,
+    "county_fips": 35037,
+    "county_name": "Quay",
+    "county_weights": "{\"35037\": 100}",
+    "county_names_all": "Quay",
+    "county_fips_all": "35037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

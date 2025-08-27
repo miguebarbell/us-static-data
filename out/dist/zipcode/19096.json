@@ -1,0 +1,20 @@
+{
+    "zip": 19096,
+    "lat": 39.99813,
+    "lng": -75.27388,
+    "city": "Wynnewood",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15136.0,
+    "density": 1674.5,
+    "county_fips": 42091,
+    "county_name": "Montgomery",
+    "county_weights": "{\"42091\": 95.24, \"42045\": 4.76}",
+    "county_names_all": "Montgomery|Delaware",
+    "county_fips_all": "42091|42045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

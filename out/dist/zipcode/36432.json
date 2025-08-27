@@ -1,0 +1,20 @@
+{
+    "zip": 36432,
+    "lat": 31.30055,
+    "lng": -87.03888,
+    "city": "Castleberry",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1879.0,
+    "density": 5.3,
+    "county_fips": 1035,
+    "county_name": "Conecuh",
+    "county_weights": "{\"01035\": 74.91, \"01053\": 25.09}",
+    "county_names_all": "Conecuh|Escambia",
+    "county_fips_all": "01035|01053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

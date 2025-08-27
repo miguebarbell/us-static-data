@@ -1,0 +1,20 @@
+{
+    "zip": 22810,
+    "lat": 38.84466,
+    "lng": -78.78554,
+    "city": "Basye",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 505.0,
+    "density": 10.2,
+    "county_fips": 51171,
+    "county_name": "Shenandoah",
+    "county_weights": "{\"51171\": 100}",
+    "county_names_all": "Shenandoah",
+    "county_fips_all": "51171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

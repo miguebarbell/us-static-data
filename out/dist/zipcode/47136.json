@@ -1,0 +1,20 @@
+{
+    "zip": 47136,
+    "lat": 38.23511,
+    "lng": -85.96194,
+    "city": "Lanesville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4787.0,
+    "density": 66.9,
+    "county_fips": 18061,
+    "county_name": "Harrison",
+    "county_weights": "{\"18061\": 54.03, \"18043\": 45.97}",
+    "county_names_all": "Harrison|Floyd",
+    "county_fips_all": "18061|18043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Kentucky/Louisville"
+}

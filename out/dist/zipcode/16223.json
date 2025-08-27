@@ -1,0 +1,20 @@
+{
+    "zip": 16223,
+    "lat": 40.98701,
+    "lng": -79.35381,
+    "city": "Distant",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 57.0,
+    "density": 14.4,
+    "county_fips": 42005,
+    "county_name": "Armstrong",
+    "county_weights": "{\"42005\": 100}",
+    "county_names_all": "Armstrong",
+    "county_fips_all": "42005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49052,
+    "lat": 42.11538,
+    "lng": -85.31936,
+    "city": "Fulton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1086.0,
+    "density": 13.2,
+    "county_fips": 26077,
+    "county_name": "Kalamazoo",
+    "county_weights": "{\"26077\": 77.02, \"26025\": 22.98}",
+    "county_names_all": "Kalamazoo|Calhoun",
+    "county_fips_all": "26077|26025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

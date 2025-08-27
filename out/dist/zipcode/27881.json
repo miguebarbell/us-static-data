@@ -1,0 +1,20 @@
+{
+    "zip": 27881,
+    "lat": 35.9702,
+    "lng": -77.44228,
+    "city": "Speed",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29.0,
+    "density": 127.7,
+    "county_fips": 37065,
+    "county_name": "Edgecombe",
+    "county_weights": "{\"37065\": 100}",
+    "county_names_all": "Edgecombe",
+    "county_fips_all": "37065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

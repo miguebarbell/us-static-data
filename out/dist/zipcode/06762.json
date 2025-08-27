@@ -1,0 +1,20 @@
+{
+    "zip": 6762,
+    "lat": 41.5271,
+    "lng": -73.1228,
+    "city": "Middlebury",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7736.0,
+    "density": 168.2,
+    "county_fips": 9140,
+    "county_name": "Naugatuck Valley",
+    "county_weights": "{\"09140\": 100}",
+    "county_names_all": "Naugatuck Valley",
+    "county_fips_all": "09140",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 54149,
+    "lat": 45.204,
+    "lng": -88.47445,
+    "city": "Mountain",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1194.0,
+    "density": 3.5,
+    "county_fips": 55083,
+    "county_name": "Oconto",
+    "county_weights": "{\"55083\": 100}",
+    "county_names_all": "Oconto",
+    "county_fips_all": "55083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

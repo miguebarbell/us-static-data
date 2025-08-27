@@ -1,0 +1,20 @@
+{
+    "zip": 97231,
+    "lat": 45.68197,
+    "lng": -122.82687,
+    "city": "Portland",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4304.0,
+    "density": 26.5,
+    "county_fips": 41051,
+    "county_name": "Multnomah",
+    "county_weights": "{\"41051\": 72.53, \"41009\": 25.36, \"41067\": 2.11}",
+    "county_names_all": "Multnomah|Columbia|Washington",
+    "county_fips_all": "41051|41009|41067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

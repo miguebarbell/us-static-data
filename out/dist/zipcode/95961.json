@@ -1,0 +1,20 @@
+{
+    "zip": 95961,
+    "lat": 39.03343,
+    "lng": -121.55754,
+    "city": "Olivehurst",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33439.0,
+    "density": 281.6,
+    "county_fips": 6115,
+    "county_name": "Yuba",
+    "county_weights": "{\"06115\": 100}",
+    "county_names_all": "Yuba",
+    "county_fips_all": "06115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

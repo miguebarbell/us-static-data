@@ -1,0 +1,20 @@
+{
+    "zip": 72544,
+    "lat": 36.40395,
+    "lng": -92.19022,
+    "city": "Henderson",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 965.0,
+    "density": 12.9,
+    "county_fips": 5005,
+    "county_name": "Baxter",
+    "county_weights": "{\"05005\": 100}",
+    "county_names_all": "Baxter",
+    "county_fips_all": "05005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

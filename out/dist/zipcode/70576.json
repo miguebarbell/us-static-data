@@ -1,0 +1,20 @@
+{
+    "zip": 70576,
+    "lat": 30.78097,
+    "lng": -92.41826,
+    "city": "Pine Prairie",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1214.0,
+    "density": 416.8,
+    "county_fips": 22039,
+    "county_name": "Evangeline",
+    "county_weights": "{\"22039\": 100}",
+    "county_names_all": "Evangeline",
+    "county_fips_all": "22039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

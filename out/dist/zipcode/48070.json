@@ -1,0 +1,20 @@
+{
+    "zip": 48070,
+    "lat": 42.48161,
+    "lng": -83.16852,
+    "city": "Huntington Woods",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6322.0,
+    "density": 1639.1,
+    "county_fips": 26125,
+    "county_name": "Oakland",
+    "county_weights": "{\"26125\": 100}",
+    "county_names_all": "Oakland",
+    "county_fips_all": "26125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

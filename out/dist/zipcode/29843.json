@@ -1,0 +1,20 @@
+{
+    "zip": 29843,
+    "lat": 33.18385,
+    "lng": -81.18218,
+    "city": "Olar",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1056.0,
+    "density": 6.2,
+    "county_fips": 45009,
+    "county_name": "Bamberg",
+    "county_weights": "{\"45009\": 81.28, \"45011\": 18.72}",
+    "county_names_all": "Bamberg|Barnwell",
+    "county_fips_all": "45009|45011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

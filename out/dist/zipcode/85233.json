@@ -1,0 +1,20 @@
+{
+    "zip": 85233,
+    "lat": 33.35242,
+    "lng": -111.8115,
+    "city": "Gilbert",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37841.0,
+    "density": 1514.4,
+    "county_fips": 4013,
+    "county_name": "Maricopa",
+    "county_weights": "{\"04013\": 100}",
+    "county_names_all": "Maricopa",
+    "county_fips_all": "04013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

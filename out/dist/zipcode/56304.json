@@ -1,0 +1,20 @@
+{
+    "zip": 56304,
+    "lat": 45.52512,
+    "lng": -94.05199,
+    "city": "Saint Cloud",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17281.0,
+    "density": 110.0,
+    "county_fips": 27141,
+    "county_name": "Sherburne",
+    "county_weights": "{\"27141\": 86.81, \"27009\": 13.19}",
+    "county_names_all": "Sherburne|Benton",
+    "county_fips_all": "27141|27009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

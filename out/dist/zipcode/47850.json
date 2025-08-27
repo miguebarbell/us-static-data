@@ -1,0 +1,20 @@
+{
+    "zip": 47850,
+    "lat": 39.24441,
+    "lng": -87.43763,
+    "city": "Farmersburg",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2027.0,
+    "density": 15.1,
+    "county_fips": 18153,
+    "county_name": "Sullivan",
+    "county_weights": "{\"18153\": 75.48, \"18167\": 24.52}",
+    "county_names_all": "Sullivan|Vigo",
+    "county_fips_all": "18153|18167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

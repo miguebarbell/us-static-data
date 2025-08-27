@@ -1,0 +1,20 @@
+{
+    "zip": 75089,
+    "lat": 32.93195,
+    "lng": -96.54435,
+    "city": "Rowlett",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35400.0,
+    "density": 1129.4,
+    "county_fips": 48113,
+    "county_name": "Dallas",
+    "county_weights": "{\"48113\": 86.17, \"48397\": 13.83}",
+    "county_names_all": "Dallas|Rockwall",
+    "county_fips_all": "48113|48397",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

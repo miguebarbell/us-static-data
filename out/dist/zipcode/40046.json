@@ -1,0 +1,20 @@
+{
+    "zip": 40046,
+    "lat": 38.02324,
+    "lng": -85.17729,
+    "city": "Mount Eden",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1239.0,
+    "density": 9.8,
+    "county_fips": 21215,
+    "county_name": "Spencer",
+    "county_weights": "{\"21215\": 76.18, \"21005\": 16.74, \"21211\": 7.08}",
+    "county_names_all": "Spencer|Anderson|Shelby",
+    "county_fips_all": "21215|21005|21211",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

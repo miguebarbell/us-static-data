@@ -1,0 +1,20 @@
+{
+    "zip": 71474,
+    "lat": 31.27724,
+    "lng": -93.01394,
+    "city": "Simpson",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 373.0,
+    "density": 6.8,
+    "county_fips": 22115,
+    "county_name": "Vernon",
+    "county_weights": "{\"22115\": 100}",
+    "county_names_all": "Vernon",
+    "county_fips_all": "22115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

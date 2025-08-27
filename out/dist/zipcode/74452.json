@@ -1,0 +1,20 @@
+{
+    "zip": 74452,
+    "lat": 36.12137,
+    "lng": -95.06829,
+    "city": "Peggs",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 306.0,
+    "density": 4.6,
+    "county_fips": 40021,
+    "county_name": "Cherokee",
+    "county_weights": "{\"40021\": 91.79, \"40097\": 8.21}",
+    "county_names_all": "Cherokee|Mayes",
+    "county_fips_all": "40021|40097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

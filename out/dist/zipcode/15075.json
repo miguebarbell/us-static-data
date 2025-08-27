@@ -1,0 +1,20 @@
+{
+    "zip": 15075,
+    "lat": 40.58665,
+    "lng": -79.82693,
+    "city": "Rural Ridge",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29.0,
+    "density": 407.7,
+    "county_fips": 42003,
+    "county_name": "Allegheny",
+    "county_weights": "{\"42003\": 100}",
+    "county_names_all": "Allegheny",
+    "county_fips_all": "42003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

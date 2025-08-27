@@ -1,0 +1,20 @@
+{
+    "zip": 49346,
+    "lat": 43.58616,
+    "lng": -85.42213,
+    "city": "Stanwood",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4851.0,
+    "density": 29.0,
+    "county_fips": 26107,
+    "county_name": "Mecosta",
+    "county_weights": "{\"26107\": 96.97, \"26123\": 3.03}",
+    "county_names_all": "Mecosta|Newaygo",
+    "county_fips_all": "26107|26123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 4964,
+    "lat": 44.9355,
+    "lng": -70.83584,
+    "city": "Oquossoc",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 84.0,
+    "density": 0.4,
+    "county_fips": 23017,
+    "county_name": "Oxford",
+    "county_weights": "{\"23017\": 74.12, \"23007\": 25.88}",
+    "county_names_all": "Oxford|Franklin",
+    "county_fips_all": "23017|23007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

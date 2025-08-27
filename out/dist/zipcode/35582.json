@@ -1,0 +1,20 @@
+{
+    "zip": 35582,
+    "lat": 34.48577,
+    "lng": -88.09536,
+    "city": "Red Bay",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4507.0,
+    "density": 19.2,
+    "county_fips": 1059,
+    "county_name": "Franklin",
+    "county_weights": "{\"01059\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "01059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

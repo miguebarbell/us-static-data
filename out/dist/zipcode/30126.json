@@ -1,0 +1,20 @@
+{
+    "zip": 30126,
+    "lat": 33.81588,
+    "lng": -84.55171,
+    "city": "Mableton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43047.0,
+    "density": 810.1,
+    "county_fips": 13067,
+    "county_name": "Cobb",
+    "county_weights": "{\"13067\": 99.81, \"13121\": 0.19}",
+    "county_names_all": "Cobb|Fulton",
+    "county_fips_all": "13067|13121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

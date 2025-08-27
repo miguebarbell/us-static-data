@@ -1,0 +1,20 @@
+{
+    "zip": 73032,
+    "lat": 34.40051,
+    "lng": -97.05137,
+    "city": "Dougherty",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 219.0,
+    "density": 225.5,
+    "county_fips": 40099,
+    "county_name": "Murray",
+    "county_weights": "{\"40099\": 100}",
+    "county_names_all": "Murray",
+    "county_fips_all": "40099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

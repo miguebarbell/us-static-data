@@ -1,0 +1,20 @@
+{
+    "zip": 38629,
+    "lat": 34.86914,
+    "lng": -88.99421,
+    "city": "Falkner",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1731.0,
+    "density": 15.5,
+    "county_fips": 28139,
+    "county_name": "Tippah",
+    "county_weights": "{\"28139\": 71.33, \"28009\": 28.67}",
+    "county_names_all": "Tippah|Benton",
+    "county_fips_all": "28139|28009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 23357,
+    "lat": 37.75862,
+    "lng": -75.67459,
+    "city": "Greenbush",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 796.0,
+    "density": 53.4,
+    "county_fips": 51001,
+    "county_name": "Accomack",
+    "county_weights": "{\"51001\": 100}",
+    "county_names_all": "Accomack",
+    "county_fips_all": "51001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

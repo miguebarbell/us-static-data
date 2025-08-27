@@ -1,0 +1,20 @@
+{
+    "zip": 92555,
+    "lat": 33.9133,
+    "lng": -117.10867,
+    "city": "Moreno Valley",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 45751.0,
+    "density": 268.6,
+    "county_fips": 6065,
+    "county_name": "Riverside",
+    "county_weights": "{\"06065\": 100}",
+    "county_names_all": "Riverside",
+    "county_fips_all": "06065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

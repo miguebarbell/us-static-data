@@ -1,0 +1,20 @@
+{
+    "zip": 68929,
+    "lat": 40.15245,
+    "lng": -99.07124,
+    "city": "Bloomington",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 140.0,
+    "density": 0.9,
+    "county_fips": 31061,
+    "county_name": "Franklin",
+    "county_weights": "{\"31061\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "31061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

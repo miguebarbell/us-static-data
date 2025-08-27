@@ -1,0 +1,20 @@
+{
+    "zip": 54666,
+    "lat": 44.16201,
+    "lng": -90.4399,
+    "city": "Warrens",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2623.0,
+    "density": 4.3,
+    "county_fips": 55081,
+    "county_name": "Monroe",
+    "county_weights": "{\"55081\": 45.04, \"55053\": 43.99, \"55057\": 10.97}",
+    "county_names_all": "Monroe|Jackson|Juneau",
+    "county_fips_all": "55081|55053|55057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

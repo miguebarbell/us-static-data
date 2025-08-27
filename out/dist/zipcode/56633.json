@@ -1,0 +1,20 @@
+{
+    "zip": 56633,
+    "lat": 47.31957,
+    "lng": -94.50911,
+    "city": "Cass Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4863.0,
+    "density": 8.7,
+    "county_fips": 27021,
+    "county_name": "Cass",
+    "county_weights": "{\"27021\": 80.27, \"27007\": 13.57, \"27057\": 6.16}",
+    "county_names_all": "Cass|Beltrami|Hubbard",
+    "county_fips_all": "27021|27007|27057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 39083,
+    "lat": 31.83467,
+    "lng": -90.46997,
+    "city": "Hazlehurst",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8497.0,
+    "density": 10.2,
+    "county_fips": 28029,
+    "county_name": "Copiah",
+    "county_weights": "{\"28029\": 98.3, \"28085\": 1.7}",
+    "county_names_all": "Copiah|Lincoln",
+    "county_fips_all": "28029|28085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

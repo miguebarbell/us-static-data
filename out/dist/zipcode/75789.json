@@ -1,0 +1,20 @@
+{
+    "zip": 75789,
+    "lat": 32.1126,
+    "lng": -95.09405,
+    "city": "Troup",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8332.0,
+    "density": 17.4,
+    "county_fips": 48073,
+    "county_name": "Cherokee",
+    "county_weights": "{\"48073\": 62.93, \"48423\": 36.55, \"48401\": 0.52}",
+    "county_names_all": "Cherokee|Smith|Rusk",
+    "county_fips_all": "48073|48423|48401",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

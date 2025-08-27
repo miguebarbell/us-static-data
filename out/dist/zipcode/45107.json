@@ -1,0 +1,20 @@
+{
+    "zip": 45107,
+    "lat": 39.28888,
+    "lng": -83.96967,
+    "city": "Blanchester",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9748.0,
+    "density": 46.7,
+    "county_fips": 39027,
+    "county_name": "Clinton",
+    "county_weights": "{\"39027\": 52.13, \"39165\": 18.72, \"39015\": 18.08, \"39025\": 11.07}",
+    "county_names_all": "Clinton|Warren|Brown|Clermont",
+    "county_fips_all": "39027|39165|39015|39025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

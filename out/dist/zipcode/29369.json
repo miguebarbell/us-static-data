@@ -1,0 +1,20 @@
+{
+    "zip": 29369,
+    "lat": 34.86535,
+    "lng": -82.02207,
+    "city": "Moore",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15782.0,
+    "density": 216.9,
+    "county_fips": 45083,
+    "county_name": "Spartanburg",
+    "county_weights": "{\"45083\": 100}",
+    "county_names_all": "Spartanburg",
+    "county_fips_all": "45083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

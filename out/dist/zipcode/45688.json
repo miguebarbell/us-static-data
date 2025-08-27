@@ -1,0 +1,20 @@
+{
+    "zip": 45688,
+    "lat": 38.73013,
+    "lng": -82.53155,
+    "city": "Waterloo",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 204.0,
+    "density": 2.3,
+    "county_fips": 39087,
+    "county_name": "Lawrence",
+    "county_weights": "{\"39087\": 97.57, \"39053\": 2.43}",
+    "county_names_all": "Lawrence|Gallia",
+    "county_fips_all": "39087|39053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 21222,
+    "lat": 39.26424,
+    "lng": -76.49537,
+    "city": "Dundalk",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 58935.0,
+    "density": 1978.1,
+    "county_fips": 24005,
+    "county_name": "Baltimore",
+    "county_weights": "{\"24005\": 93.59, \"24510\": 6.41}",
+    "county_names_all": "Baltimore|Baltimore",
+    "county_fips_all": "24005|24510",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

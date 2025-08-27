@@ -1,0 +1,20 @@
+{
+    "zip": 56580,
+    "lat": 46.73944,
+    "lng": -96.61004,
+    "city": "Sabin",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1330.0,
+    "density": 8.0,
+    "county_fips": 27027,
+    "county_name": "Clay",
+    "county_weights": "{\"27027\": 100}",
+    "county_names_all": "Clay",
+    "county_fips_all": "27027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

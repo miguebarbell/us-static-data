@@ -1,0 +1,20 @@
+{
+    "zip": 38671,
+    "lat": 34.96376,
+    "lng": -89.99567,
+    "city": "Southaven",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37070.0,
+    "density": 644.0,
+    "county_fips": 28033,
+    "county_name": "DeSoto",
+    "county_weights": "{\"28033\": 100}",
+    "county_names_all": "DeSoto",
+    "county_fips_all": "28033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

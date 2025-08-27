@@ -1,0 +1,20 @@
+{
+    "zip": 6254,
+    "lat": 41.61585,
+    "lng": -72.14313,
+    "city": "North Franklin",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1925.0,
+    "density": 37.7,
+    "county_fips": 9180,
+    "county_name": "Southeastern Connecticut",
+    "county_weights": "{\"09180\": 100}",
+    "county_names_all": "Southeastern Connecticut",
+    "county_fips_all": "09180",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

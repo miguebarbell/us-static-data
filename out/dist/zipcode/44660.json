@@ -1,0 +1,20 @@
+{
+    "zip": 44660,
+    "lat": 40.62382,
+    "lng": -81.77487,
+    "city": "Mount Hope",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 58.0,
+    "density": 30.1,
+    "county_fips": 39075,
+    "county_name": "Holmes",
+    "county_weights": "{\"39075\": 100}",
+    "county_names_all": "Holmes",
+    "county_fips_all": "39075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 87742,
+    "lat": 35.87161,
+    "lng": -105.44427,
+    "city": "Rociada",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 343.0,
+    "density": 1.9,
+    "county_fips": 35047,
+    "county_name": "San Miguel",
+    "county_weights": "{\"35047\": 58.15, \"35033\": 41.85}",
+    "county_names_all": "San Miguel|Mora",
+    "county_fips_all": "35047|35033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

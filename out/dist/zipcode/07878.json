@@ -1,0 +1,20 @@
+{
+    "zip": 7878,
+    "lat": 40.87152,
+    "lng": -74.47826,
+    "city": "Mount Tabor",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 712.0,
+    "density": 3012.0,
+    "county_fips": 34027,
+    "county_name": "Morris",
+    "county_weights": "{\"34027\": 100}",
+    "county_names_all": "Morris",
+    "county_fips_all": "34027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

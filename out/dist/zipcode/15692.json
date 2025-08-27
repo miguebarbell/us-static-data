@@ -1,0 +1,20 @@
+{
+    "zip": 15692,
+    "lat": 40.33086,
+    "lng": -79.67861,
+    "city": "Westmoreland City",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 769.0,
+    "density": 935.2,
+    "county_fips": 42129,
+    "county_name": "Westmoreland",
+    "county_weights": "{\"42129\": 100}",
+    "county_names_all": "Westmoreland",
+    "county_fips_all": "42129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 27349,
+    "lat": 35.89845,
+    "lng": -79.41202,
+    "city": "Snow Camp",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6225.0,
+    "density": 37.7,
+    "county_fips": 37001,
+    "county_name": "Alamance",
+    "county_weights": "{\"37001\": 91.34, \"37037\": 8.66}",
+    "county_names_all": "Alamance|Chatham",
+    "county_fips_all": "37001|37037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

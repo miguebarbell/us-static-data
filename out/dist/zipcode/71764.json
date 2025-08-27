@@ -1,0 +1,20 @@
+{
+    "zip": 71764,
+    "lat": 33.43041,
+    "lng": -93.04475,
+    "city": "Stephens",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1405.0,
+    "density": 3.0,
+    "county_fips": 5103,
+    "county_name": "Ouachita",
+    "county_weights": "{\"05103\": 63.16, \"05027\": 23.27, \"05099\": 13.05, \"05139\": 0.52}",
+    "county_names_all": "Ouachita|Columbia|Nevada|Union",
+    "county_fips_all": "05103|05027|05099|05139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

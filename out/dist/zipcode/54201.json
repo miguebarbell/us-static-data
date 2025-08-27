@@ -1,0 +1,20 @@
+{
+    "zip": 54201,
+    "lat": 44.61987,
+    "lng": -87.49399,
+    "city": "Algoma",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5178.0,
+    "density": 26.5,
+    "county_fips": 55061,
+    "county_name": "Kewaunee",
+    "county_weights": "{\"55061\": 91.62, \"55029\": 8.38}",
+    "county_names_all": "Kewaunee|Door",
+    "county_fips_all": "55061|55029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

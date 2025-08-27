@@ -1,0 +1,20 @@
+{
+    "zip": 18657,
+    "lat": 41.52712,
+    "lng": -75.95601,
+    "city": "Tunkhannock",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11043.0,
+    "density": 36.1,
+    "county_fips": 42131,
+    "county_name": "Wyoming",
+    "county_weights": "{\"42131\": 100}",
+    "county_names_all": "Wyoming",
+    "county_fips_all": "42131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

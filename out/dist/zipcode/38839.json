@@ -1,0 +1,20 @@
+{
+    "zip": 38839,
+    "lat": 33.8558,
+    "lng": -89.28404,
+    "city": "Derma",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41.0,
+    "density": 281.9,
+    "county_fips": 28013,
+    "county_name": "Calhoun",
+    "county_weights": "{\"28013\": 100}",
+    "county_names_all": "Calhoun",
+    "county_fips_all": "28013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

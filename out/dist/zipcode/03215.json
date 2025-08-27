@@ -1,0 +1,20 @@
+{
+    "zip": 3215,
+    "lat": 44.03605,
+    "lng": -71.48109,
+    "city": "Waterville Valley",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 269.0,
+    "density": 0.5,
+    "county_fips": 33009,
+    "county_name": "Grafton",
+    "county_weights": "{\"33009\": 100}",
+    "county_names_all": "Grafton",
+    "county_fips_all": "33009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

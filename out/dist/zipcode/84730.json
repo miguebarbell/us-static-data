@@ -1,0 +1,20 @@
+{
+    "zip": 84730,
+    "lat": 38.74504,
+    "lng": -112.00084,
+    "city": "Glenwood",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 744.0,
+    "density": 22.1,
+    "county_fips": 49041,
+    "county_name": "Sevier",
+    "county_weights": "{\"49041\": 100}",
+    "county_names_all": "Sevier",
+    "county_fips_all": "49041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

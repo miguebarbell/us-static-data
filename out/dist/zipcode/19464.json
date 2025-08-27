@@ -1,0 +1,20 @@
+{
+    "zip": 19464,
+    "lat": 40.25882,
+    "lng": -75.616,
+    "city": "Pottstown",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 48084.0,
+    "density": 724.1,
+    "county_fips": 42091,
+    "county_name": "Montgomery",
+    "county_weights": "{\"42091\": 99.23, \"42011\": 0.77}",
+    "county_names_all": "Montgomery|Berks",
+    "county_fips_all": "42091|42011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 38680,
+    "lat": 34.96152,
+    "lng": -90.14463,
+    "city": "Walls",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7069.0,
+    "density": 112.7,
+    "county_fips": 28033,
+    "county_name": "DeSoto",
+    "county_weights": "{\"28033\": 100}",
+    "county_names_all": "DeSoto",
+    "county_fips_all": "28033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 23837,
+    "lat": 36.75816,
+    "lng": -77.08753,
+    "city": "Courtland",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4414.0,
+    "density": 15.4,
+    "county_fips": 51175,
+    "county_name": "Southampton",
+    "county_weights": "{\"51175\": 92.68, \"51183\": 7.32}",
+    "county_names_all": "Southampton|Sussex",
+    "county_fips_all": "51175|51183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 2045,
+    "lat": 42.28437,
+    "lng": -70.88266,
+    "city": "Hull",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10098.0,
+    "density": 1458.3,
+    "county_fips": 25023,
+    "county_name": "Plymouth",
+    "county_weights": "{\"25023\": 100}",
+    "county_names_all": "Plymouth",
+    "county_fips_all": "25023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

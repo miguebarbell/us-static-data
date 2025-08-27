@@ -1,0 +1,20 @@
+{
+    "zip": 43988,
+    "lat": 40.40486,
+    "lng": -81.09925,
+    "city": "Scio",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2364.0,
+    "density": 16.6,
+    "county_fips": 39067,
+    "county_name": "Harrison",
+    "county_weights": "{\"39067\": 66.41, \"39019\": 33.59}",
+    "county_names_all": "Harrison|Carroll",
+    "county_fips_all": "39067|39019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

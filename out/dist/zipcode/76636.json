@@ -1,0 +1,20 @@
+{
+    "zip": 76636,
+    "lat": 32.17213,
+    "lng": -97.28307,
+    "city": "Covington",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1678.0,
+    "density": 14.4,
+    "county_fips": 48217,
+    "county_name": "Hill",
+    "county_weights": "{\"48217\": 100}",
+    "county_names_all": "Hill",
+    "county_fips_all": "48217",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

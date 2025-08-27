@@ -1,0 +1,20 @@
+{
+    "zip": 66021,
+    "lat": 38.75939,
+    "lng": -95.00692,
+    "city": "Edgerton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2792.0,
+    "density": 21.0,
+    "county_fips": 20091,
+    "county_name": "Johnson",
+    "county_weights": "{\"20091\": 60.09, \"20121\": 31.16, \"20045\": 8.75}",
+    "county_names_all": "Johnson|Miami|Douglas",
+    "county_fips_all": "20091|20121|20045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

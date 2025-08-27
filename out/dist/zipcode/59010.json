@@ -1,0 +1,20 @@
+{
+    "zip": 59010,
+    "lat": 45.97505,
+    "lng": -107.3037,
+    "city": "Bighorn",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 172.0,
+    "density": 0.2,
+    "county_fips": 30103,
+    "county_name": "Treasure",
+    "county_weights": "{\"30103\": 54.95, \"30003\": 45.05}",
+    "county_names_all": "Treasure|Big Horn",
+    "county_fips_all": "30103|30003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

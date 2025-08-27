@@ -1,0 +1,20 @@
+{
+    "zip": 35089,
+    "lat": 32.9426,
+    "lng": -86.07457,
+    "city": "Kellyton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1901.0,
+    "density": 12.0,
+    "county_fips": 1037,
+    "county_name": "Coosa",
+    "county_weights": "{\"01037\": 81.8, \"01123\": 18.2}",
+    "county_names_all": "Coosa|Tallapoosa",
+    "county_fips_all": "01037|01123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

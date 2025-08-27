@@ -1,0 +1,20 @@
+{
+    "zip": 37877,
+    "lat": 36.15176,
+    "lng": -83.40503,
+    "city": "Talbott",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9103.0,
+    "density": 132.8,
+    "county_fips": 47089,
+    "county_name": "Jefferson",
+    "county_weights": "{\"47089\": 55.4, \"47063\": 44.6}",
+    "county_names_all": "Jefferson|Hamblen",
+    "county_fips_all": "47089|47063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

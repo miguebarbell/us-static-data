@@ -1,0 +1,20 @@
+{
+    "zip": 78028,
+    "lat": 30.04115,
+    "lng": -99.16276,
+    "city": "Kerrville",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40829.0,
+    "density": 59.9,
+    "county_fips": 48265,
+    "county_name": "Kerr",
+    "county_weights": "{\"48265\": 83.83, \"48171\": 16.17}",
+    "county_names_all": "Kerr|Gillespie",
+    "county_fips_all": "48265|48171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

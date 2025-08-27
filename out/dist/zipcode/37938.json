@@ -1,0 +1,20 @@
+{
+    "zip": 37938,
+    "lat": 36.12499,
+    "lng": -83.93815,
+    "city": "Knoxville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16904.0,
+    "density": 201.7,
+    "county_fips": 47093,
+    "county_name": "Knox",
+    "county_weights": "{\"47093\": 99.02, \"47173\": 0.6, \"47001\": 0.38}",
+    "county_names_all": "Knox|Union|Anderson",
+    "county_fips_all": "47093|47173|47001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 56547,
+    "lat": 46.89068,
+    "lng": -96.55043,
+    "city": "Glyndon",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2879.0,
+    "density": 7.3,
+    "county_fips": 27027,
+    "county_name": "Clay",
+    "county_weights": "{\"27027\": 100}",
+    "county_names_all": "Clay",
+    "county_fips_all": "27027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 6810,
+    "lat": 41.37627,
+    "lng": -73.45904,
+    "city": "Danbury",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 55179.0,
+    "density": 1018.7,
+    "county_fips": 9190,
+    "county_name": "Western Connecticut",
+    "county_weights": "{\"09190\": 100}",
+    "county_names_all": "Western Connecticut",
+    "county_fips_all": "09190",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

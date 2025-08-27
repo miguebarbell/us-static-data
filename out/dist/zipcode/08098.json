@@ -1,0 +1,20 @@
+{
+    "zip": 8098,
+    "lat": 39.63934,
+    "lng": -75.3316,
+    "city": "Woodstown",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9475.0,
+    "density": 63.2,
+    "county_fips": 34033,
+    "county_name": "Salem",
+    "county_weights": "{\"34033\": 100}",
+    "county_names_all": "Salem",
+    "county_fips_all": "34033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

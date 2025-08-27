@@ -1,0 +1,20 @@
+{
+    "zip": 45307,
+    "lat": 39.58065,
+    "lng": -83.72347,
+    "city": "Bowersville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 237.0,
+    "density": 531.7,
+    "county_fips": 39057,
+    "county_name": "Greene",
+    "county_weights": "{\"39057\": 100}",
+    "county_names_all": "Greene",
+    "county_fips_all": "39057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

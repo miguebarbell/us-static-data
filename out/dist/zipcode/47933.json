@@ -1,0 +1,20 @@
+{
+    "zip": 47933,
+    "lat": 40.03728,
+    "lng": -86.90234,
+    "city": "Crawfordsville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28227.0,
+    "density": 46.2,
+    "county_fips": 18107,
+    "county_name": "Montgomery",
+    "county_weights": "{\"18107\": 98.2, \"18045\": 1.37, \"18011\": 0.43}",
+    "county_names_all": "Montgomery|Fountain|Boone",
+    "county_fips_all": "18107|18045|18011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

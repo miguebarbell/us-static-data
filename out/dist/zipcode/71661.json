@@ -1,0 +1,20 @@
+{
+    "zip": 71661,
+    "lat": 33.14338,
+    "lng": -91.51333,
+    "city": "Parkdale",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 121.0,
+    "density": 0.5,
+    "county_fips": 5003,
+    "county_name": "Ashley",
+    "county_weights": "{\"05003\": 75.8, \"05017\": 24.2}",
+    "county_names_all": "Ashley|Chicot",
+    "county_fips_all": "05003|05017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

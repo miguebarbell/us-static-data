@@ -1,0 +1,20 @@
+{
+    "zip": 3064,
+    "lat": 42.77886,
+    "lng": -71.47466,
+    "city": "Nashua",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14565.0,
+    "density": 1360.1,
+    "county_fips": 33011,
+    "county_name": "Hillsborough",
+    "county_weights": "{\"33011\": 100}",
+    "county_names_all": "Hillsborough",
+    "county_fips_all": "33011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

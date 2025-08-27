@@ -1,0 +1,20 @@
+{
+    "zip": 63386,
+    "lat": 38.87104,
+    "lng": -90.22009,
+    "city": "West Alton",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 537.0,
+    "density": 6.2,
+    "county_fips": 29183,
+    "county_name": "St. Charles",
+    "county_weights": "{\"29183\": 100}",
+    "county_names_all": "St. Charles",
+    "county_fips_all": "29183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

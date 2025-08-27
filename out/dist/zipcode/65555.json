@@ -1,0 +1,20 @@
+{
+    "zip": 65555,
+    "lat": 37.35906,
+    "lng": -91.77723,
+    "city": "Raymondville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1305.0,
+    "density": 6.8,
+    "county_fips": 29215,
+    "county_name": "Texas",
+    "county_weights": "{\"29215\": 100}",
+    "county_names_all": "Texas",
+    "county_fips_all": "29215",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

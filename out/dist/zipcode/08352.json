@@ -1,0 +1,20 @@
+{
+    "zip": 8352,
+    "lat": 39.47545,
+    "lng": -75.12724,
+    "city": "Rosenhayn",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 224.0,
+    "density": 316.5,
+    "county_fips": 34011,
+    "county_name": "Cumberland",
+    "county_weights": "{\"34011\": 100}",
+    "county_names_all": "Cumberland",
+    "county_fips_all": "34011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

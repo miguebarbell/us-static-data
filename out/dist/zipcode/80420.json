@@ -1,0 +1,20 @@
+{
+    "zip": 80420,
+    "lat": 39.31451,
+    "lng": -106.10553,
+    "city": "Alma",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 958.0,
+    "density": 8.8,
+    "county_fips": 8093,
+    "county_name": "Park",
+    "county_weights": "{\"08093\": 100}",
+    "county_names_all": "Park",
+    "county_fips_all": "08093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

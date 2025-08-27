@@ -1,0 +1,20 @@
+{
+    "zip": 24347,
+    "lat": 36.95958,
+    "lng": -80.65598,
+    "city": "Hiwassee",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1549.0,
+    "density": 7.3,
+    "county_fips": 51155,
+    "county_name": "Pulaski",
+    "county_weights": "{\"51155\": 87.12, \"51035\": 9.03, \"51121\": 3.85}",
+    "county_names_all": "Pulaski|Carroll|Montgomery",
+    "county_fips_all": "51155|51035|51121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

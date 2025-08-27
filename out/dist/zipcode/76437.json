@@ -1,0 +1,20 @@
+{
+    "zip": 76437,
+    "lat": 32.388,
+    "lng": -99.01935,
+    "city": "Cisco",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5895.0,
+    "density": 5.7,
+    "county_fips": 48133,
+    "county_name": "Eastland",
+    "county_weights": "{\"48133\": 69.32, \"48059\": 15.59, \"48429\": 15.09}",
+    "county_names_all": "Eastland|Callahan|Stephens",
+    "county_fips_all": "48133|48059|48429",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

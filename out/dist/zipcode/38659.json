@@ -1,0 +1,20 @@
+{
+    "zip": 38659,
+    "lat": 34.62073,
+    "lng": -89.32065,
+    "city": "Potts Camp",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2117.0,
+    "density": 7.4,
+    "county_fips": 28093,
+    "county_name": "Marshall",
+    "county_weights": "{\"28093\": 80.27, \"28009\": 19.73}",
+    "county_names_all": "Marshall|Benton",
+    "county_fips_all": "28093|28009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

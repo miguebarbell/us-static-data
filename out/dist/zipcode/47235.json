@@ -1,0 +1,20 @@
+{
+    "zip": 47235,
+    "lat": 39.01385,
+    "lng": -86.14046,
+    "city": "Freetown",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1658.0,
+    "density": 15.0,
+    "county_fips": 18071,
+    "county_name": "Jackson",
+    "county_weights": "{\"18071\": 69.9, \"18013\": 30.1}",
+    "county_names_all": "Jackson|Brown",
+    "county_fips_all": "18071|18013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

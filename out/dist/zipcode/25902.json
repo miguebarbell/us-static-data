@@ -1,0 +1,20 @@
+{
+    "zip": 25902,
+    "lat": 37.56301,
+    "lng": -81.21115,
+    "city": "Odd",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 326.0,
+    "density": 4.9,
+    "county_fips": 54081,
+    "county_name": "Raleigh",
+    "county_weights": "{\"54081\": 75.01, \"54055\": 24.99}",
+    "county_names_all": "Raleigh|Mercer",
+    "county_fips_all": "54081|54055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

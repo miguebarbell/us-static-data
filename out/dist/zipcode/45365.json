@@ -1,0 +1,20 @@
+{
+    "zip": 45365,
+    "lat": 40.2828,
+    "lng": -84.15582,
+    "city": "Sidney",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28955.0,
+    "density": 71.8,
+    "county_fips": 39149,
+    "county_name": "Shelby",
+    "county_weights": "{\"39149\": 99.38, \"39021\": 0.62}",
+    "county_names_all": "Shelby|Champaign",
+    "county_fips_all": "39149|39021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

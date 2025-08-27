@@ -1,0 +1,20 @@
+{
+    "zip": 28355,
+    "lat": 35.39053,
+    "lng": -79.19514,
+    "city": "Lemon Springs",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 37105,
+    "county_name": "Lee",
+    "county_weights": "{\"37105\": 100}",
+    "county_names_all": "Lee",
+    "county_fips_all": "37105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

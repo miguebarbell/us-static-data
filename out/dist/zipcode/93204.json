@@ -1,0 +1,20 @@
+{
+    "zip": 93204,
+    "lat": 35.90819,
+    "lng": -120.06776,
+    "city": "Avenal",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13441.0,
+    "density": 73.5,
+    "county_fips": 6031,
+    "county_name": "Kings",
+    "county_weights": "{\"06031\": 100}",
+    "county_names_all": "Kings",
+    "county_fips_all": "06031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

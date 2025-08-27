@@ -1,0 +1,20 @@
+{
+    "zip": 48891,
+    "lat": 43.39676,
+    "lng": -84.91469,
+    "city": "Vestaburg",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2923.0,
+    "density": 28.0,
+    "county_fips": 26117,
+    "county_name": "Montcalm",
+    "county_weights": "{\"26117\": 100}",
+    "county_names_all": "Montcalm",
+    "county_fips_all": "26117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 78359,
+    "lat": 27.93021,
+    "lng": -97.30056,
+    "city": "Gregory",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2230.0,
+    "density": 89.9,
+    "county_fips": 48409,
+    "county_name": "San Patricio",
+    "county_weights": "{\"48409\": 100}",
+    "county_names_all": "San Patricio",
+    "county_fips_all": "48409",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

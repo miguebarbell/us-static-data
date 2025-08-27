@@ -1,0 +1,20 @@
+{
+    "zip": 46168,
+    "lat": 39.68985,
+    "lng": -86.39262,
+    "city": "Plainfield",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38889.0,
+    "density": 457.5,
+    "county_fips": 18063,
+    "county_name": "Hendricks",
+    "county_weights": "{\"18063\": 100}",
+    "county_names_all": "Hendricks",
+    "county_fips_all": "18063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

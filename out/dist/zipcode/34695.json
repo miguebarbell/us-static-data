@@ -1,0 +1,20 @@
+{
+    "zip": 34695,
+    "lat": 28.00927,
+    "lng": -82.69673,
+    "city": "Safety Harbor",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17882.0,
+    "density": 1236.8,
+    "county_fips": 12103,
+    "county_name": "Pinellas",
+    "county_weights": "{\"12103\": 100}",
+    "county_names_all": "Pinellas",
+    "county_fips_all": "12103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 693,
+    "lat": 18.42633,
+    "lng": -66.39811,
+    "city": "Vega Baja",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 55725.0,
+    "density": 484.5,
+    "county_fips": 72145,
+    "county_name": "Vega Baja",
+    "county_weights": "{\"72145\": 98.29, \"72143\": 1.43, \"72091\": 0.28}",
+    "county_names_all": "Vega Baja|Vega Alta|Manat\u00ed",
+    "county_fips_all": "72145|72143|72091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

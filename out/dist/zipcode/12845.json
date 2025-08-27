@@ -1,0 +1,20 @@
+{
+    "zip": 12845,
+    "lat": 43.42757,
+    "lng": -73.70703,
+    "city": "Lake George",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4389.0,
+    "density": 37.6,
+    "county_fips": 36113,
+    "county_name": "Warren",
+    "county_weights": "{\"36113\": 100}",
+    "county_names_all": "Warren",
+    "county_fips_all": "36113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

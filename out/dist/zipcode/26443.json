@@ -1,0 +1,20 @@
+{
+    "zip": 26443,
+    "lat": 39.06814,
+    "lng": -80.7554,
+    "city": "Troy",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 359.0,
+    "density": 6.6,
+    "county_fips": 54021,
+    "county_name": "Gilmer",
+    "county_weights": "{\"54021\": 86.65, \"54017\": 13.35}",
+    "county_names_all": "Gilmer|Doddridge",
+    "county_fips_all": "54021|54017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

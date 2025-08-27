@@ -1,0 +1,20 @@
+{
+    "zip": 56036,
+    "lat": 43.5513,
+    "lng": -93.22152,
+    "city": "Glenville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1766.0,
+    "density": 5.8,
+    "county_fips": 27047,
+    "county_name": "Freeborn",
+    "county_weights": "{\"27047\": 100}",
+    "county_names_all": "Freeborn",
+    "county_fips_all": "27047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

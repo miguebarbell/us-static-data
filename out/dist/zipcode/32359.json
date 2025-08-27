@@ -1,0 +1,20 @@
+{
+    "zip": 32359,
+    "lat": 29.66181,
+    "lng": -83.37047,
+    "city": "Steinhatchee",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1406.0,
+    "density": 3.0,
+    "county_fips": 12029,
+    "county_name": "Dixie",
+    "county_weights": "{\"12029\": 61.1, \"12123\": 38.9}",
+    "county_names_all": "Dixie|Taylor",
+    "county_fips_all": "12029|12123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

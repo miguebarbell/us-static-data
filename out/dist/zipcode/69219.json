@@ -1,0 +1,20 @@
+{
+    "zip": 69219,
+    "lat": 42.70144,
+    "lng": -101.0886,
+    "city": "Nenzel",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 58.0,
+    "density": 0.1,
+    "county_fips": 31031,
+    "county_name": "Cherry",
+    "county_weights": "{\"31031\": 100}",
+    "county_names_all": "Cherry",
+    "county_fips_all": "31031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

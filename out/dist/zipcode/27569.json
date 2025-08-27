@@ -1,0 +1,20 @@
+{
+    "zip": 27569,
+    "lat": 35.43306,
+    "lng": -78.17432,
+    "city": "Princeton",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8396.0,
+    "density": 40.5,
+    "county_fips": 37101,
+    "county_name": "Johnston",
+    "county_weights": "{\"37101\": 79.02, \"37191\": 20.98}",
+    "county_names_all": "Johnston|Wayne",
+    "county_fips_all": "37101|37191",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

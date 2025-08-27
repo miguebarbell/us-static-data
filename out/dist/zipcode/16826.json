@@ -1,0 +1,20 @@
+{
+    "zip": 16826,
+    "lat": 41.06199,
+    "lng": -77.58598,
+    "city": "Blanchard",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 457.0,
+    "density": 100.6,
+    "county_fips": 42027,
+    "county_name": "Centre",
+    "county_weights": "{\"42027\": 100}",
+    "county_names_all": "Centre",
+    "county_fips_all": "42027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

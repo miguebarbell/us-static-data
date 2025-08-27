@@ -1,0 +1,20 @@
+{
+    "zip": 54139,
+    "lat": 44.9539,
+    "lng": -88.07152,
+    "city": "Lena",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3041.0,
+    "density": 11.8,
+    "county_fips": 55083,
+    "county_name": "Oconto",
+    "county_weights": "{\"55083\": 98.46, \"55075\": 1.54}",
+    "county_names_all": "Oconto|Marinette",
+    "county_fips_all": "55083|55075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

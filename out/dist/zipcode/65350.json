@@ -1,0 +1,20 @@
+{
+    "zip": 65350,
+    "lat": 38.65557,
+    "lng": -93.10038,
+    "city": "Smithton",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1326.0,
+    "density": 8.0,
+    "county_fips": 29159,
+    "county_name": "Pettis",
+    "county_weights": "{\"29159\": 86.46, \"29141\": 13.19, \"29053\": 0.35}",
+    "county_names_all": "Pettis|Morgan|Cooper",
+    "county_fips_all": "29159|29141|29053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

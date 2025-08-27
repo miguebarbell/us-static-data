@@ -1,0 +1,20 @@
+{
+    "zip": 62305,
+    "lat": 39.92915,
+    "lng": -91.34441,
+    "city": "Quincy",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19077.0,
+    "density": 52.9,
+    "county_fips": 17001,
+    "county_name": "Adams",
+    "county_weights": "{\"17001\": 100}",
+    "county_names_all": "Adams",
+    "county_fips_all": "17001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

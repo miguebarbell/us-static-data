@@ -1,0 +1,20 @@
+{
+    "zip": 64422,
+    "lat": 39.90022,
+    "lng": -94.4941,
+    "city": "Amity",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 366.0,
+    "density": 3.3,
+    "county_fips": 29063,
+    "county_name": "DeKalb",
+    "county_weights": "{\"29063\": 100}",
+    "county_names_all": "DeKalb",
+    "county_fips_all": "29063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

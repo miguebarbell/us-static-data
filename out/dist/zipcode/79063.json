@@ -1,0 +1,20 @@
+{
+    "zip": 79063,
+    "lat": 34.51063,
+    "lng": -102.115,
+    "city": "Nazareth",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 594.0,
+    "density": 2.8,
+    "county_fips": 48069,
+    "county_name": "Castro",
+    "county_weights": "{\"48069\": 100}",
+    "county_names_all": "Castro",
+    "county_fips_all": "48069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

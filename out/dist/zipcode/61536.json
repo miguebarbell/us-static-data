@@ -1,0 +1,20 @@
+{
+    "zip": 61536,
+    "lat": 40.69051,
+    "lng": -89.78688,
+    "city": "Hanna City",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3445.0,
+    "density": 32.5,
+    "county_fips": 17143,
+    "county_name": "Peoria",
+    "county_weights": "{\"17143\": 100}",
+    "county_names_all": "Peoria",
+    "county_fips_all": "17143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

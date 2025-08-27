@@ -1,0 +1,20 @@
+{
+    "zip": 38748,
+    "lat": 33.15787,
+    "lng": -90.87964,
+    "city": "Hollandale",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3047.0,
+    "density": 4.5,
+    "county_fips": 28151,
+    "county_name": "Washington",
+    "county_weights": "{\"28151\": 94.85, \"28125\": 5.15}",
+    "county_names_all": "Washington|Sharkey",
+    "county_fips_all": "28151|28125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

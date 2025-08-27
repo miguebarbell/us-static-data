@@ -1,0 +1,20 @@
+{
+    "zip": 47172,
+    "lat": 38.39745,
+    "lng": -85.76886,
+    "city": "Sellersburg",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20423.0,
+    "density": 324.1,
+    "county_fips": 18019,
+    "county_name": "Clark",
+    "county_weights": "{\"18019\": 87.91, \"18043\": 12.09}",
+    "county_names_all": "Clark|Floyd",
+    "county_fips_all": "18019|18043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Kentucky/Louisville"
+}

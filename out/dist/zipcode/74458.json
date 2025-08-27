@@ -1,0 +1,20 @@
+{
+    "zip": 74458,
+    "lat": 35.88231,
+    "lng": -95.58786,
+    "city": "Redbird",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 112.0,
+    "density": 16.9,
+    "county_fips": 40145,
+    "county_name": "Wagoner",
+    "county_weights": "{\"40145\": 100}",
+    "county_names_all": "Wagoner",
+    "county_fips_all": "40145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

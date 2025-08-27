@@ -1,0 +1,20 @@
+{
+    "zip": 15021,
+    "lat": 40.39373,
+    "lng": -80.43583,
+    "city": "Burgettstown",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6775.0,
+    "density": 28.4,
+    "county_fips": 42125,
+    "county_name": "Washington",
+    "county_weights": "{\"42125\": 99.49, \"42007\": 0.51}",
+    "county_names_all": "Washington|Beaver",
+    "county_fips_all": "42125|42007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72937,
+    "lat": 35.13764,
+    "lng": -94.39545,
+    "city": "Hackett",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3546.0,
+    "density": 22.5,
+    "county_fips": 5131,
+    "county_name": "Sebastian",
+    "county_weights": "{\"05131\": 100}",
+    "county_names_all": "Sebastian",
+    "county_fips_all": "05131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

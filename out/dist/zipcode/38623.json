@@ -1,0 +1,20 @@
+{
+    "zip": 38623,
+    "lat": 34.36131,
+    "lng": -90.29692,
+    "city": "Darling",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 139.0,
+    "density": 7.9,
+    "county_fips": 28119,
+    "county_name": "Quitman",
+    "county_weights": "{\"28119\": 100}",
+    "county_names_all": "Quitman",
+    "county_fips_all": "28119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

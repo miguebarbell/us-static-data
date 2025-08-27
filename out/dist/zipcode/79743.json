@@ -1,0 +1,20 @@
+{
+    "zip": 79743,
+    "lat": 31.24911,
+    "lng": -102.76766,
+    "city": "Imperial",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 278.0,
+    "density": 1.2,
+    "county_fips": 48371,
+    "county_name": "Pecos",
+    "county_weights": "{\"48371\": 100}",
+    "county_names_all": "Pecos",
+    "county_fips_all": "48371",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

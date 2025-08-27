@@ -1,0 +1,20 @@
+{
+    "zip": 74360,
+    "lat": 36.9801,
+    "lng": -94.83636,
+    "city": "Picher",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9.0,
+    "density": 0.7,
+    "county_fips": 40115,
+    "county_name": "Ottawa",
+    "county_weights": "{\"40115\": 100}",
+    "county_names_all": "Ottawa",
+    "county_fips_all": "40115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 58053,
+    "lat": 46.05058,
+    "lng": -97.18007,
+    "city": "Lidgerwood",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1333.0,
+    "density": 2.2,
+    "county_fips": 38077,
+    "county_name": "Richland",
+    "county_weights": "{\"38077\": 71.39, \"38081\": 20.86, \"46109\": 5.8, \"46091\": 1.95}",
+    "county_names_all": "Richland|Sargent|Roberts|Marshall",
+    "county_fips_all": "38077|38081|46109|46091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

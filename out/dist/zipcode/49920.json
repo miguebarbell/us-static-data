@@ -1,0 +1,20 @@
+{
+    "zip": 49920,
+    "lat": 46.14087,
+    "lng": -88.30079,
+    "city": "Crystal Falls",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4243.0,
+    "density": 4.1,
+    "county_fips": 26071,
+    "county_name": "Iron",
+    "county_weights": "{\"26071\": 100}",
+    "county_names_all": "Iron",
+    "county_fips_all": "26071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Menominee"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 23970,
+    "lat": 36.74818,
+    "lng": -78.18637,
+    "city": "South Hill",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8092.0,
+    "density": 25.7,
+    "county_fips": 51117,
+    "county_name": "Mecklenburg",
+    "county_weights": "{\"51117\": 78.21, \"51111\": 21.79}",
+    "county_names_all": "Mecklenburg|Lunenburg",
+    "county_fips_all": "51117|51111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

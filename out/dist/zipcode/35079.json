@@ -1,0 +1,20 @@
+{
+    "zip": 35079,
+    "lat": 33.94118,
+    "lng": -86.75261,
+    "city": "Hayden",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9388.0,
+    "density": 33.1,
+    "county_fips": 1009,
+    "county_name": "Blount",
+    "county_weights": "{\"01009\": 100}",
+    "county_names_all": "Blount",
+    "county_fips_all": "01009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 76628,
+    "lat": 32.03007,
+    "lng": -96.97179,
+    "city": "Brandon",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 101.0,
+    "density": 6.8,
+    "county_fips": 48217,
+    "county_name": "Hill",
+    "county_weights": "{\"48217\": 100}",
+    "county_names_all": "Hill",
+    "county_fips_all": "48217",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72135,
+    "lat": 34.87698,
+    "lng": -92.56087,
+    "city": "Roland",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3442.0,
+    "density": 18.1,
+    "county_fips": 5119,
+    "county_name": "Pulaski",
+    "county_weights": "{\"05119\": 100}",
+    "county_names_all": "Pulaski",
+    "county_fips_all": "05119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

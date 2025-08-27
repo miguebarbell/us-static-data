@@ -1,0 +1,20 @@
+{
+    "zip": 13809,
+    "lat": 42.40849,
+    "lng": -75.3914,
+    "city": "Mount Upton",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1688.0,
+    "density": 19.4,
+    "county_fips": 36077,
+    "county_name": "Otsego",
+    "county_weights": "{\"36077\": 53.04, \"36017\": 46.96}",
+    "county_names_all": "Otsego|Chenango",
+    "county_fips_all": "36077|36017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

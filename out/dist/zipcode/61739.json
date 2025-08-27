@@ -1,0 +1,20 @@
+{
+    "zip": 61739,
+    "lat": 40.73342,
+    "lng": -88.51938,
+    "city": "Fairbury",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4673.0,
+    "density": 17.0,
+    "county_fips": 17105,
+    "county_name": "Livingston",
+    "county_weights": "{\"17105\": 95.35, \"17113\": 4.65}",
+    "county_names_all": "Livingston|McLean",
+    "county_fips_all": "17105|17113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

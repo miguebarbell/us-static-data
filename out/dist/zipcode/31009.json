@@ -1,0 +1,20 @@
+{
+    "zip": 31009,
+    "lat": 32.27636,
+    "lng": -83.00564,
+    "city": "Cadwell",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1142.0,
+    "density": 5.8,
+    "county_fips": 13175,
+    "county_name": "Laurens",
+    "county_weights": "{\"13175\": 100}",
+    "county_names_all": "Laurens",
+    "county_fips_all": "13175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

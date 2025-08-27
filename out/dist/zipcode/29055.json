@@ -1,0 +1,20 @@
+{
+    "zip": 29055,
+    "lat": 34.57248,
+    "lng": -80.91753,
+    "city": "Great Falls",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3858.0,
+    "density": 43.0,
+    "county_fips": 45023,
+    "county_name": "Chester",
+    "county_weights": "{\"45023\": 67.98, \"45039\": 31.9, \"45057\": 0.12}",
+    "county_names_all": "Chester|Fairfield|Lancaster",
+    "county_fips_all": "45023|45039|45057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

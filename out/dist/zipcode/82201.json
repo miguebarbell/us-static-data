@@ -1,0 +1,20 @@
+{
+    "zip": 82201,
+    "lat": 42.01049,
+    "lng": -105.11328,
+    "city": "Wheatland",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6615.0,
+    "density": 1.5,
+    "county_fips": 56031,
+    "county_name": "Platte",
+    "county_weights": "{\"56031\": 71.7, \"56001\": 28.3}",
+    "county_names_all": "Platte|Albany",
+    "county_fips_all": "56031|56001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

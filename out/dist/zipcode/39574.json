@@ -1,0 +1,20 @@
+{
+    "zip": 39574,
+    "lat": 30.60912,
+    "lng": -89.10489,
+    "city": "Saucier",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13830.0,
+    "density": 25.1,
+    "county_fips": 28047,
+    "county_name": "Harrison",
+    "county_weights": "{\"28047\": 98.49, \"28131\": 1.51}",
+    "county_names_all": "Harrison|Stone",
+    "county_fips_all": "28047|28131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

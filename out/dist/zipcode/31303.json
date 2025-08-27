@@ -1,0 +1,20 @@
+{
+    "zip": 31303,
+    "lat": 32.49631,
+    "lng": -81.30616,
+    "city": "Clyo",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2056.0,
+    "density": 9.7,
+    "county_fips": 13103,
+    "county_name": "Effingham",
+    "county_weights": "{\"13103\": 100}",
+    "county_names_all": "Effingham",
+    "county_fips_all": "13103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

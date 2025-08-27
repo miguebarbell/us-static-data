@@ -1,0 +1,20 @@
+{
+    "zip": 25008,
+    "lat": 37.95044,
+    "lng": -81.35766,
+    "city": "Artie",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 180.0,
+    "density": 5.1,
+    "county_fips": 54081,
+    "county_name": "Raleigh",
+    "county_weights": "{\"54081\": 99.71, \"54019\": 0.29}",
+    "county_names_all": "Raleigh|Fayette",
+    "county_fips_all": "54081|54019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 55398,
+    "lat": 45.45787,
+    "lng": -93.5903,
+    "city": "Zimmerman",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17768.0,
+    "density": 93.8,
+    "county_fips": 27141,
+    "county_name": "Sherburne",
+    "county_weights": "{\"27141\": 82.64, \"27059\": 17.36}",
+    "county_names_all": "Sherburne|Isanti",
+    "county_fips_all": "27141|27059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

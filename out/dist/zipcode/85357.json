@@ -1,0 +1,20 @@
+{
+    "zip": 85357,
+    "lat": 34.02498,
+    "lng": -113.49055,
+    "city": "Wenden",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 415.0,
+    "density": 0.4,
+    "county_fips": 4012,
+    "county_name": "La Paz",
+    "county_weights": "{\"04012\": 100}",
+    "county_names_all": "La Paz",
+    "county_fips_all": "04012",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

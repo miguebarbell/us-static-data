@@ -1,0 +1,20 @@
+{
+    "zip": 93926,
+    "lat": 36.52567,
+    "lng": -121.3991,
+    "city": "Gonzales",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8998.0,
+    "density": 51.7,
+    "county_fips": 6053,
+    "county_name": "Monterey",
+    "county_weights": "{\"06053\": 100}",
+    "county_names_all": "Monterey",
+    "county_fips_all": "06053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

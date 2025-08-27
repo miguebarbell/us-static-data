@@ -1,0 +1,20 @@
+{
+    "zip": 76360,
+    "lat": 33.97361,
+    "lng": -99.00302,
+    "city": "Electra",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2692.0,
+    "density": 2.7,
+    "county_fips": 48485,
+    "county_name": "Wichita",
+    "county_weights": "{\"48485\": 49.13, \"48487\": 43.6, \"48009\": 6.84, \"48023\": 0.44}",
+    "county_names_all": "Wichita|Wilbarger|Archer|Baylor",
+    "county_fips_all": "48485|48487|48009|48023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 59270,
+    "lat": 47.57233,
+    "lng": -104.08264,
+    "city": "Sidney",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8844.0,
+    "density": 3.8,
+    "county_fips": 30083,
+    "county_name": "Richland",
+    "county_weights": "{\"30083\": 60.71, \"38053\": 39.29}",
+    "county_names_all": "Richland|McKenzie",
+    "county_fips_all": "30083|38053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

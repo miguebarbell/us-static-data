@@ -1,0 +1,16 @@
+{
+    "zip": [
+        "90501",
+        "90502",
+        "90503",
+        "90504",
+        "90505",
+        "90506"
+    ],
+    "city": "Torrance",
+    "state": "CA",
+    "lat": 33.97365,
+    "lng": -118.24904,
+    "state_name": "California",
+    "timezone": "America/Los_Angeles"
+}

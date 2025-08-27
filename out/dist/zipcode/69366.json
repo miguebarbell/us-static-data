@@ -1,0 +1,20 @@
+{
+    "zip": 69366,
+    "lat": 42.13175,
+    "lng": -101.5421,
+    "city": "Whitman",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 359.0,
+    "density": 0.2,
+    "county_fips": 31031,
+    "county_name": "Cherry",
+    "county_weights": "{\"31031\": 58.32, \"31075\": 39.42, \"31005\": 2.26}",
+    "county_names_all": "Cherry|Grant|Arthur",
+    "county_fips_all": "31031|31075|31005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

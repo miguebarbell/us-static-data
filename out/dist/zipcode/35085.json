@@ -1,0 +1,20 @@
+{
+    "zip": 35085,
+    "lat": 32.97975,
+    "lng": -86.73584,
+    "city": "Jemison",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8786.0,
+    "density": 32.6,
+    "county_fips": 1021,
+    "county_name": "Chilton",
+    "county_weights": "{\"01021\": 100}",
+    "county_names_all": "Chilton",
+    "county_fips_all": "01021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

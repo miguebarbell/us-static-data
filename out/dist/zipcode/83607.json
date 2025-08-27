@@ -1,0 +1,20 @@
+{
+    "zip": 83607,
+    "lat": 43.7116,
+    "lng": -116.74362,
+    "city": "Caldwell",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33804.0,
+    "density": 56.8,
+    "county_fips": 16027,
+    "county_name": "Canyon",
+    "county_weights": "{\"16027\": 70.79, \"16075\": 19.63, \"16045\": 9.58}",
+    "county_names_all": "Canyon|Payette|Gem",
+    "county_fips_all": "16027|16075|16045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

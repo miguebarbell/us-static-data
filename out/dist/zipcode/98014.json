@@ -1,0 +1,20 @@
+{
+    "zip": 98014,
+    "lat": 47.69664,
+    "lng": -121.84024,
+    "city": "Carnation",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7681.0,
+    "density": 34.0,
+    "county_fips": 53033,
+    "county_name": "King",
+    "county_weights": "{\"53033\": 100}",
+    "county_names_all": "King",
+    "county_fips_all": "53033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 16733,
+    "lat": 41.70303,
+    "lng": -78.59514,
+    "city": "Hazel Hurst",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 204.0,
+    "density": 6.7,
+    "county_fips": 42083,
+    "county_name": "McKean",
+    "county_weights": "{\"42083\": 100}",
+    "county_names_all": "McKean",
+    "county_fips_all": "42083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

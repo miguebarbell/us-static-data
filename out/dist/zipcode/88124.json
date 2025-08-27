@@ -1,0 +1,20 @@
+{
+    "zip": 88124,
+    "lat": 34.52771,
+    "lng": -103.6473,
+    "city": "Melrose",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 907.0,
+    "density": 0.5,
+    "county_fips": 35009,
+    "county_name": "Curry",
+    "county_weights": "{\"35009\": 58.24, \"35041\": 27.72, \"35037\": 14.04}",
+    "county_names_all": "Curry|Roosevelt|Quay",
+    "county_fips_all": "35009|35041|35037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

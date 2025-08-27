@@ -1,0 +1,20 @@
+{
+    "zip": 49760,
+    "lat": 46.05715,
+    "lng": -84.88881,
+    "city": "Moran",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 706.0,
+    "density": 2.0,
+    "county_fips": 26097,
+    "county_name": "Mackinac",
+    "county_weights": "{\"26097\": 95.82, \"26033\": 4.18}",
+    "county_names_all": "Mackinac|Chippewa",
+    "county_fips_all": "26097|26033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

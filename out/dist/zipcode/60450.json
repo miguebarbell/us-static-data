@@ -1,0 +1,20 @@
+{
+    "zip": 60450,
+    "lat": 41.37011,
+    "lng": -88.43417,
+    "city": "Morris",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20918.0,
+    "density": 51.2,
+    "county_fips": 17063,
+    "county_name": "Grundy",
+    "county_weights": "{\"17063\": 97.91, \"17093\": 2.09}",
+    "county_names_all": "Grundy|Kendall",
+    "county_fips_all": "17063|17093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

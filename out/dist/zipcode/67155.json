@@ -1,0 +1,20 @@
+{
+    "zip": 67155,
+    "lat": 37.28171,
+    "lng": -99.13233,
+    "city": "Wilmore",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 101.0,
+    "density": 0.1,
+    "county_fips": 20033,
+    "county_name": "Comanche",
+    "county_weights": "{\"20033\": 87.07, \"20097\": 12.93}",
+    "county_names_all": "Comanche|Kiowa",
+    "county_fips_all": "20033|20097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

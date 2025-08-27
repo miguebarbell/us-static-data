@@ -1,0 +1,20 @@
+{
+    "zip": 99129,
+    "lat": 48.00281,
+    "lng": -118.18342,
+    "city": "Fruitland",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 649.0,
+    "density": 1.7,
+    "county_fips": 53065,
+    "county_name": "Stevens",
+    "county_weights": "{\"53065\": 100}",
+    "county_names_all": "Stevens",
+    "county_fips_all": "53065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

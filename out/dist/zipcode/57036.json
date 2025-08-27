@@ -1,0 +1,20 @@
+{
+    "zip": 57036,
+    "lat": 43.27067,
+    "lng": -97.14364,
+    "city": "Hurley",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 609.0,
+    "density": 2.5,
+    "county_fips": 46125,
+    "county_name": "Turner",
+    "county_weights": "{\"46125\": 100}",
+    "county_names_all": "Turner",
+    "county_fips_all": "46125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

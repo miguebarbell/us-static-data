@@ -1,0 +1,20 @@
+{
+    "zip": 23068,
+    "lat": 37.49511,
+    "lng": -76.33727,
+    "city": "Hallieford",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 207.0,
+    "density": 94.8,
+    "county_fips": 51115,
+    "county_name": "Mathews",
+    "county_weights": "{\"51115\": 100}",
+    "county_names_all": "Mathews",
+    "county_fips_all": "51115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

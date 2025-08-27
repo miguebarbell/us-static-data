@@ -1,0 +1,20 @@
+{
+    "zip": 50457,
+    "lat": 42.91418,
+    "lng": -93.4928,
+    "city": "Meservey",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 504.0,
+    "density": 5.7,
+    "county_fips": 19081,
+    "county_name": "Hancock",
+    "county_weights": "{\"19081\": 30.11, \"19033\": 29.67, \"19069\": 27.75, \"19197\": 12.48}",
+    "county_names_all": "Hancock|Cerro Gordo|Franklin|Wright",
+    "county_fips_all": "19081|19033|19069|19197",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

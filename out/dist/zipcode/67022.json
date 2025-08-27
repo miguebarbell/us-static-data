@@ -1,0 +1,20 @@
+{
+    "zip": 67022,
+    "lat": 37.07352,
+    "lng": -97.63347,
+    "city": "Caldwell",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1579.0,
+    "density": 3.3,
+    "county_fips": 20191,
+    "county_name": "Sumner",
+    "county_weights": "{\"20191\": 100}",
+    "county_names_all": "Sumner",
+    "county_fips_all": "20191",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

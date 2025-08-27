@@ -1,0 +1,20 @@
+{
+    "zip": 81325,
+    "lat": 37.89605,
+    "lng": -108.72011,
+    "city": "Egnar",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 86.0,
+    "density": 0.1,
+    "county_fips": 8033,
+    "county_name": "Dolores",
+    "county_weights": "{\"08033\": 51.12, \"08113\": 48.88}",
+    "county_names_all": "Dolores|San Miguel",
+    "county_fips_all": "08033|08113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 84624,
+    "lat": 39.38429,
+    "lng": -112.58756,
+    "city": "Delta",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5956.0,
+    "density": 7.7,
+    "county_fips": 49027,
+    "county_name": "Millard",
+    "county_weights": "{\"49027\": 100}",
+    "county_names_all": "Millard",
+    "county_fips_all": "49027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

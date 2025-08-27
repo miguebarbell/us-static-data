@@ -1,0 +1,20 @@
+{
+    "zip": 63935,
+    "lat": 36.67053,
+    "lng": -90.92055,
+    "city": "Doniphan",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8017.0,
+    "density": 6.8,
+    "county_fips": 29181,
+    "county_name": "Ripley",
+    "county_weights": "{\"29181\": 92.49, \"29149\": 6.73, \"29035\": 0.78}",
+    "county_names_all": "Ripley|Oregon|Carter",
+    "county_fips_all": "29181|29149|29035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

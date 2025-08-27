@@ -1,0 +1,20 @@
+{
+    "zip": 41216,
+    "lat": 37.73016,
+    "lng": -82.81308,
+    "city": "East Point",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1343.0,
+    "density": 30.4,
+    "county_fips": 21071,
+    "county_name": "Floyd",
+    "county_weights": "{\"21071\": 66.46, \"21115\": 33.54}",
+    "county_names_all": "Floyd|Johnson",
+    "county_fips_all": "21071|21115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

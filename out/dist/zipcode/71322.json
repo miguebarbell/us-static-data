@@ -1,0 +1,20 @@
+{
+    "zip": 71322,
+    "lat": 30.86731,
+    "lng": -92.15188,
+    "city": "Bunkie",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5257.0,
+    "density": 10.4,
+    "county_fips": 22009,
+    "county_name": "Avoyelles",
+    "county_weights": "{\"22009\": 49.56, \"22097\": 44.14, \"22079\": 6.31}",
+    "county_names_all": "Avoyelles|St. Landry|Rapides",
+    "county_fips_all": "22009|22097|22079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

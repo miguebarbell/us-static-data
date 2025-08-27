@@ -1,0 +1,20 @@
+{
+    "zip": 42776,
+    "lat": 37.51577,
+    "lng": -85.91834,
+    "city": "Sonora",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2071.0,
+    "density": 12.1,
+    "county_fips": 21093,
+    "county_name": "Hardin",
+    "county_weights": "{\"21093\": 69.11, \"21123\": 30.89}",
+    "county_names_all": "Hardin|Larue",
+    "county_fips_all": "21093|21123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

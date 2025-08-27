@@ -1,0 +1,20 @@
+{
+    "zip": 29114,
+    "lat": 33.95436,
+    "lng": -79.93537,
+    "city": "Olanta",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1815.0,
+    "density": 20.3,
+    "county_fips": 45041,
+    "county_name": "Florence",
+    "county_weights": "{\"45041\": 58.8, \"45085\": 39.52, \"45027\": 1.68}",
+    "county_names_all": "Florence|Sumter|Clarendon",
+    "county_fips_all": "45041|45085|45027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

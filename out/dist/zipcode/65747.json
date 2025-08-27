@@ -1,0 +1,20 @@
+{
+    "zip": 65747,
+    "lat": 36.60248,
+    "lng": -93.57971,
+    "city": "Shell Knob",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3957.0,
+    "density": 19.9,
+    "county_fips": 29209,
+    "county_name": "Stone",
+    "county_weights": "{\"29209\": 54.94, \"29009\": 45.06}",
+    "county_names_all": "Stone|Barry",
+    "county_fips_all": "29209|29009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

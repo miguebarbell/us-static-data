@@ -1,0 +1,20 @@
+{
+    "zip": 73761,
+    "lat": 36.68452,
+    "lng": -98.03647,
+    "city": "Nash",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 302.0,
+    "density": 1.0,
+    "county_fips": 40053,
+    "county_name": "Grant",
+    "county_weights": "{\"40053\": 90.01, \"40047\": 9.99}",
+    "county_names_all": "Grant|Garfield",
+    "county_fips_all": "40053|40047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

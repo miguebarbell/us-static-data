@@ -1,0 +1,20 @@
+{
+    "zip": 37848,
+    "lat": 36.23701,
+    "lng": -83.68179,
+    "city": "Powder Springs",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 94.0,
+    "density": 4.5,
+    "county_fips": 47057,
+    "county_name": "Grainger",
+    "county_weights": "{\"47057\": 74.67, \"47173\": 25.33}",
+    "county_names_all": "Grainger|Union",
+    "county_fips_all": "47057|47173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

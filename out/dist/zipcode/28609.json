@@ -1,0 +1,20 @@
+{
+    "zip": 28609,
+    "lat": 35.67608,
+    "lng": -81.05314,
+    "city": "Catawba",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6617.0,
+    "density": 55.9,
+    "county_fips": 37035,
+    "county_name": "Catawba",
+    "county_weights": "{\"37035\": 100}",
+    "county_names_all": "Catawba",
+    "county_fips_all": "37035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

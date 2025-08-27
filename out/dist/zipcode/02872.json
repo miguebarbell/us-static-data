@@ -1,0 +1,20 @@
+{
+    "zip": 2872,
+    "lat": 41.61718,
+    "lng": -71.32886,
+    "city": "Prudence Island",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 105.0,
+    "density": 6.8,
+    "county_fips": 44005,
+    "county_name": "Newport",
+    "county_weights": "{\"44005\": 100}",
+    "county_names_all": "Newport",
+    "county_fips_all": "44005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

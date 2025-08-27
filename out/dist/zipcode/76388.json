@@ -1,0 +1,20 @@
+{
+    "zip": 76388,
+    "lat": 33.31785,
+    "lng": -99.62931,
+    "city": "Weinert",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 215.0,
+    "density": 0.8,
+    "county_fips": 48207,
+    "county_name": "Haskell",
+    "county_weights": "{\"48207\": 100}",
+    "county_names_all": "Haskell",
+    "county_fips_all": "48207",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

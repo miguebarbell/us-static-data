@@ -1,0 +1,20 @@
+{
+    "zip": 38256,
+    "lat": 36.31388,
+    "lng": -88.12539,
+    "city": "Springville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2994.0,
+    "density": 17.1,
+    "county_fips": 47079,
+    "county_name": "Henry",
+    "county_weights": "{\"47079\": 100}",
+    "county_names_all": "Henry",
+    "county_fips_all": "47079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

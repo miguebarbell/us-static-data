@@ -1,0 +1,20 @@
+{
+    "zip": 28752,
+    "lat": 35.71124,
+    "lng": -82.03631,
+    "city": "Marion",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30602.0,
+    "density": 47.4,
+    "county_fips": 37111,
+    "county_name": "McDowell",
+    "county_weights": "{\"37111\": 99.85, \"37161\": 0.15}",
+    "county_names_all": "McDowell|Rutherford",
+    "county_fips_all": "37111|37161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

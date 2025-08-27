@@ -1,0 +1,20 @@
+{
+    "zip": 47725,
+    "lat": 38.10721,
+    "lng": -87.52855,
+    "city": "Evansville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19436.0,
+    "density": 136.1,
+    "county_fips": 18163,
+    "county_name": "Vanderburgh",
+    "county_weights": "{\"18163\": 97.77, \"18173\": 1.55, \"18051\": 0.68}",
+    "county_names_all": "Vanderburgh|Warrick|Gibson",
+    "county_fips_all": "18163|18173|18051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

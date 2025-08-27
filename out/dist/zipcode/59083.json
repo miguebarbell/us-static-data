@@ -1,0 +1,20 @@
+{
+    "zip": 59083,
+    "lat": 46.55133,
+    "lng": -107.56312,
+    "city": "Sumatra",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4.0,
+    "density": 0.0,
+    "county_fips": 30087,
+    "county_name": "Rosebud",
+    "county_weights": "{\"30087\": 100}",
+    "county_names_all": "Rosebud",
+    "county_fips_all": "30087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

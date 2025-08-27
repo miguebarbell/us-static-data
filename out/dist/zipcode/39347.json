@@ -1,0 +1,20 @@
+{
+    "zip": 39347,
+    "lat": 32.05507,
+    "lng": -88.93419,
+    "city": "Pachuta",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1068.0,
+    "density": 5.2,
+    "county_fips": 28061,
+    "county_name": "Jasper",
+    "county_weights": "{\"28061\": 65.14, \"28023\": 34.86}",
+    "county_names_all": "Jasper|Clarke",
+    "county_fips_all": "28061|28023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

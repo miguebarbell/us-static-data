@@ -1,0 +1,20 @@
+{
+    "zip": 56758,
+    "lat": 48.46201,
+    "lng": -96.51891,
+    "city": "Strandquist",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 351.0,
+    "density": 1.3,
+    "county_fips": 27089,
+    "county_name": "Marshall",
+    "county_weights": "{\"27089\": 100}",
+    "county_names_all": "Marshall",
+    "county_fips_all": "27089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

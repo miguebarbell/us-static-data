@@ -1,0 +1,20 @@
+{
+    "zip": 3852,
+    "lat": 43.4982,
+    "lng": -70.97547,
+    "city": "Milton Mills",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 245.0,
+    "density": 14.0,
+    "county_fips": 33017,
+    "county_name": "Strafford",
+    "county_weights": "{\"33017\": 100}",
+    "county_names_all": "Strafford",
+    "county_fips_all": "33017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

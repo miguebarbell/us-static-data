@@ -1,0 +1,20 @@
+{
+    "zip": 56514,
+    "lat": 46.64892,
+    "lng": -96.43486,
+    "city": "Barnesville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4055.0,
+    "density": 7.4,
+    "county_fips": 27027,
+    "county_name": "Clay",
+    "county_weights": "{\"27027\": 61.86, \"27167\": 35.7, \"27111\": 2.44}",
+    "county_names_all": "Clay|Wilkin|Otter Tail",
+    "county_fips_all": "27027|27167|27111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 17778,
+    "lat": 41.28532,
+    "lng": -77.96477,
+    "city": "Westport",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 73.0,
+    "density": 0.4,
+    "county_fips": 42035,
+    "county_name": "Clinton",
+    "county_weights": "{\"42035\": 100}",
+    "county_names_all": "Clinton",
+    "county_fips_all": "42035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 54469,
+    "lat": 44.34642,
+    "lng": -89.87028,
+    "city": "Port Edwards",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1830.0,
+    "density": 269.2,
+    "county_fips": 55141,
+    "county_name": "Wood",
+    "county_weights": "{\"55141\": 100}",
+    "county_names_all": "Wood",
+    "county_fips_all": "55141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

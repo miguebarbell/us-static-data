@@ -1,0 +1,20 @@
+{
+    "zip": 61419,
+    "lat": 41.19982,
+    "lng": -90.11751,
+    "city": "Bishop Hill",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 156.0,
+    "density": 113.2,
+    "county_fips": 17073,
+    "county_name": "Henry",
+    "county_weights": "{\"17073\": 100}",
+    "county_names_all": "Henry",
+    "county_fips_all": "17073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

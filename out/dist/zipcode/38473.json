@@ -1,0 +1,20 @@
+{
+    "zip": 38473,
+    "lat": 35.02775,
+    "lng": -87.17057,
+    "city": "Minor Hill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1067.0,
+    "density": 14.8,
+    "county_fips": 47055,
+    "county_name": "Giles",
+    "county_weights": "{\"47055\": 98.29, \"47099\": 1.71}",
+    "county_names_all": "Giles|Lawrence",
+    "county_fips_all": "47055|47099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

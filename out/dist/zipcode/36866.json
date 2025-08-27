@@ -1,0 +1,20 @@
+{
+    "zip": 36866,
+    "lat": 32.55468,
+    "lng": -85.71459,
+    "city": "Notasulga",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3540.0,
+    "density": 15.7,
+    "county_fips": 1087,
+    "county_name": "Macon",
+    "county_weights": "{\"01087\": 68.59, \"01123\": 22.49, \"01081\": 8.92}",
+    "county_names_all": "Macon|Tallapoosa|Lee",
+    "county_fips_all": "01087|01123|01081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

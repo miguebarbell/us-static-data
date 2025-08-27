@@ -1,0 +1,20 @@
+{
+    "zip": 49340,
+    "lat": 43.62213,
+    "lng": -85.11222,
+    "city": "Remus",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2479.0,
+    "density": 11.2,
+    "county_fips": 26107,
+    "county_name": "Mecosta",
+    "county_weights": "{\"26107\": 70.72, \"26073\": 29.28}",
+    "county_names_all": "Mecosta|Isabella",
+    "county_fips_all": "26107|26073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

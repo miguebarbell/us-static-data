@@ -1,0 +1,20 @@
+{
+    "zip": 16849,
+    "lat": 40.95978,
+    "lng": -78.11431,
+    "city": "Lanse",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 101.0,
+    "density": 9.9,
+    "county_fips": 42033,
+    "county_name": "Clearfield",
+    "county_weights": "{\"42033\": 98.25, \"42027\": 1.75}",
+    "county_names_all": "Clearfield|Centre",
+    "county_fips_all": "42033|42027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

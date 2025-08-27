@@ -1,0 +1,20 @@
+{
+    "zip": 30756,
+    "lat": 34.90103,
+    "lng": -84.97458,
+    "city": "Varnell",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3.0,
+    "density": 23.4,
+    "county_fips": 13313,
+    "county_name": "Whitfield",
+    "county_weights": "{\"13313\": 100}",
+    "county_names_all": "Whitfield",
+    "county_fips_all": "13313",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 4294,
+    "lat": 44.62346,
+    "lng": -70.27075,
+    "city": "Wilton",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3978.0,
+    "density": 28.7,
+    "county_fips": 23007,
+    "county_name": "Franklin",
+    "county_weights": "{\"23007\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "23007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

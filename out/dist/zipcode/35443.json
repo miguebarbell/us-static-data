@@ -1,0 +1,20 @@
+{
+    "zip": 35443,
+    "lat": 32.76538,
+    "lng": -88.01908,
+    "city": "Boligee",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1659.0,
+    "density": 2.9,
+    "county_fips": 1063,
+    "county_name": "Greene",
+    "county_weights": "{\"01063\": 100}",
+    "county_names_all": "Greene",
+    "county_fips_all": "01063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

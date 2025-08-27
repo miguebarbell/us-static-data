@@ -1,0 +1,20 @@
+{
+    "zip": 72749,
+    "lat": 35.86712,
+    "lng": -94.43932,
+    "city": "Morrow",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 389.0,
+    "density": 128.9,
+    "county_fips": 5143,
+    "county_name": "Washington",
+    "county_weights": "{\"05143\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "05143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 37777,
+    "lat": 35.82742,
+    "lng": -84.05186,
+    "city": "Louisville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13101.0,
+    "density": 153.8,
+    "county_fips": 47009,
+    "county_name": "Blount",
+    "county_weights": "{\"47009\": 99.83, \"47093\": 0.17}",
+    "county_names_all": "Blount|Knox",
+    "county_fips_all": "47009|47093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

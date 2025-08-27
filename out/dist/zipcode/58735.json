@@ -1,0 +1,20 @@
+{
+    "zip": 58735,
+    "lat": 47.87771,
+    "lng": -101.48366,
+    "city": "Douglas",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 534.0,
+    "density": 1.0,
+    "county_fips": 38101,
+    "county_name": "Ward",
+    "county_weights": "{\"38101\": 59.86, \"38055\": 40.14}",
+    "county_names_all": "Ward|McLean",
+    "county_fips_all": "38101|38055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

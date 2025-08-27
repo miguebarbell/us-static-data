@@ -1,0 +1,20 @@
+{
+    "zip": 39092,
+    "lat": 32.31489,
+    "lng": -89.36833,
+    "city": "Lake",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3323.0,
+    "density": 12.8,
+    "county_fips": 28123,
+    "county_name": "Scott",
+    "county_weights": "{\"28123\": 79.83, \"28101\": 14.19, \"28129\": 5.98}",
+    "county_names_all": "Scott|Newton|Smith",
+    "county_fips_all": "28123|28101|28129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

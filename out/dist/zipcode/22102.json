@@ -1,0 +1,20 @@
+{
+    "zip": 22102,
+    "lat": 38.95199,
+    "lng": -77.22901,
+    "city": "McLean",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28577.0,
+    "density": 896.5,
+    "county_fips": 51059,
+    "county_name": "Fairfax",
+    "county_weights": "{\"51059\": 100}",
+    "county_names_all": "Fairfax",
+    "county_fips_all": "51059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

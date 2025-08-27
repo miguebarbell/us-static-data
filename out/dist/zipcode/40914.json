@@ -1,0 +1,20 @@
+{
+    "zip": 40914,
+    "lat": 37.0932,
+    "lng": -83.56154,
+    "city": "Big Creek",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 955.0,
+    "density": 8.2,
+    "county_fips": 21051,
+    "county_name": "Clay",
+    "county_weights": "{\"21051\": 71.68, \"21131\": 28.32}",
+    "county_names_all": "Clay|Leslie",
+    "county_fips_all": "21051|21131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

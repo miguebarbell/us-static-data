@@ -1,0 +1,20 @@
+{
+    "zip": 80476,
+    "lat": 39.68522,
+    "lng": -105.80972,
+    "city": "Silver Plume",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 243.0,
+    "density": 1.6,
+    "county_fips": 8019,
+    "county_name": "Clear Creek",
+    "county_weights": "{\"08019\": 100}",
+    "county_names_all": "Clear Creek",
+    "county_fips_all": "08019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

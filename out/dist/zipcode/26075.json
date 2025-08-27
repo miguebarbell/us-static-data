@@ -1,0 +1,20 @@
+{
+    "zip": 26075,
+    "lat": 40.19748,
+    "lng": -80.64567,
+    "city": "Windsor Heights",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 569.0,
+    "density": 71.5,
+    "county_fips": 54009,
+    "county_name": "Brooke",
+    "county_weights": "{\"54009\": 100}",
+    "county_names_all": "Brooke",
+    "county_fips_all": "54009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 687,
+    "lat": 18.31707,
+    "lng": -66.42029,
+    "city": "Morovis",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28534.0,
+    "density": 283.4,
+    "county_fips": 72101,
+    "county_name": "Morovis",
+    "county_weights": "{\"72101\": 100}",
+    "county_names_all": "Morovis",
+    "county_fips_all": "72101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

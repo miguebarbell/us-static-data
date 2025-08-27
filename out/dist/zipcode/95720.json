@@ -1,0 +1,20 @@
+{
+    "zip": 95720,
+    "lat": 38.84536,
+    "lng": -120.26021,
+    "city": "Kyburz",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 52.0,
+    "density": 0.1,
+    "county_fips": 6017,
+    "county_name": "El Dorado",
+    "county_weights": "{\"06017\": 100}",
+    "county_names_all": "El Dorado",
+    "county_fips_all": "06017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

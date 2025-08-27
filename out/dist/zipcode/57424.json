@@ -1,0 +1,20 @@
+{
+    "zip": 57424,
+    "lat": 45.02012,
+    "lng": -98.53101,
+    "city": "Ashton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 342.0,
+    "density": 0.8,
+    "county_fips": 46115,
+    "county_name": "Spink",
+    "county_weights": "{\"46115\": 92.97, \"46049\": 7.03}",
+    "county_names_all": "Spink|Faulk",
+    "county_fips_all": "46115|46049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

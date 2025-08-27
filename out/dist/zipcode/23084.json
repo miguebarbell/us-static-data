@@ -1,0 +1,20 @@
+{
+    "zip": 23084,
+    "lat": 37.8864,
+    "lng": -78.11162,
+    "city": "Kents Store",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1282.0,
+    "density": 12.7,
+    "county_fips": 51065,
+    "county_name": "Fluvanna",
+    "county_weights": "{\"51065\": 73.53, \"51075\": 19.39, \"51109\": 7.08}",
+    "county_names_all": "Fluvanna|Goochland|Louisa",
+    "county_fips_all": "51065|51075|51109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

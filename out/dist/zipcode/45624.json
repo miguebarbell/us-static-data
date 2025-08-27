@@ -1,0 +1,20 @@
+{
+    "zip": 45624,
+    "lat": 39.17301,
+    "lng": -83.3487,
+    "city": "Cynthiana",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 39131,
+    "county_name": "Pike",
+    "county_weights": "{\"39131\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "39131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

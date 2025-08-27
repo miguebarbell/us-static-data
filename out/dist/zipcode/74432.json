@@ -1,0 +1,20 @@
+{
+    "zip": 74432,
+    "lat": 35.28371,
+    "lng": -95.64911,
+    "city": "Eufaula",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9793.0,
+    "density": 18.1,
+    "county_fips": 40091,
+    "county_name": "McIntosh",
+    "county_weights": "{\"40091\": 79.37, \"40121\": 20.63}",
+    "county_names_all": "McIntosh|Pittsburg",
+    "county_fips_all": "40091|40121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

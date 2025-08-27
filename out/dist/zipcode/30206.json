@@ -1,0 +1,20 @@
+{
+    "zip": 30206,
+    "lat": 33.09671,
+    "lng": -84.46303,
+    "city": "Concord",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3292.0,
+    "density": 25.7,
+    "county_fips": 13231,
+    "county_name": "Pike",
+    "county_weights": "{\"13231\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "13231",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

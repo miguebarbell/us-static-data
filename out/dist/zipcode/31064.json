@@ -1,0 +1,20 @@
+{
+    "zip": 31064,
+    "lat": 33.29031,
+    "lng": -83.69986,
+    "city": "Monticello",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9859.0,
+    "density": 15.5,
+    "county_fips": 13159,
+    "county_name": "Jasper",
+    "county_weights": "{\"13159\": 100}",
+    "county_names_all": "Jasper",
+    "county_fips_all": "13159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

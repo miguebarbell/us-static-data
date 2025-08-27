@@ -1,0 +1,20 @@
+{
+    "zip": 17855,
+    "lat": 40.88735,
+    "lng": -76.97217,
+    "city": "New Berlin",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 961.0,
+    "density": 191.4,
+    "county_fips": 42119,
+    "county_name": "Union",
+    "county_weights": "{\"42119\": 100}",
+    "county_names_all": "Union",
+    "county_fips_all": "42119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

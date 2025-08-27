@@ -1,0 +1,20 @@
+{
+    "zip": 59046,
+    "lat": 46.39147,
+    "lng": -108.98604,
+    "city": "Lavina",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 510.0,
+    "density": 0.3,
+    "county_fips": 30037,
+    "county_name": "Golden Valley",
+    "county_weights": "{\"30037\": 91.74, \"30065\": 8.26}",
+    "county_names_all": "Golden Valley|Musselshell",
+    "county_fips_all": "30037|30065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 87715,
+    "lat": 36.01839,
+    "lng": -105.42535,
+    "city": "Cleveland",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 272.0,
+    "density": 2.4,
+    "county_fips": 35033,
+    "county_name": "Mora",
+    "county_weights": "{\"35033\": 100}",
+    "county_names_all": "Mora",
+    "county_fips_all": "35033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 5860,
+    "lat": 44.80018,
+    "lng": -72.10353,
+    "city": "Orleans",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2859.0,
+    "density": 14.4,
+    "county_fips": 50019,
+    "county_name": "Orleans",
+    "county_weights": "{\"50019\": 100}",
+    "county_names_all": "Orleans",
+    "county_fips_all": "50019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

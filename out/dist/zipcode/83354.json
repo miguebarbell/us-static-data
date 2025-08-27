@@ -1,0 +1,20 @@
+{
+    "zip": 83354,
+    "lat": 43.67012,
+    "lng": -114.32235,
+    "city": "Sun Valley",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9.0,
+    "density": 176.2,
+    "county_fips": 16013,
+    "county_name": "Blaine",
+    "county_weights": "{\"16013\": 100}",
+    "county_names_all": "Blaine",
+    "county_fips_all": "16013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

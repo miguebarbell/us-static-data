@@ -1,0 +1,20 @@
+{
+    "zip": 6355,
+    "lat": 41.36857,
+    "lng": -71.97426,
+    "city": "Mystic",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12223.0,
+    "density": 332.5,
+    "county_fips": 9180,
+    "county_name": "Southeastern Connecticut",
+    "county_weights": "{\"09180\": 100}",
+    "county_names_all": "Southeastern Connecticut",
+    "county_fips_all": "09180",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

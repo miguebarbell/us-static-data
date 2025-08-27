@@ -1,0 +1,20 @@
+{
+    "zip": 31743,
+    "lat": 31.90089,
+    "lng": -84.00604,
+    "city": "De Soto",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 359.0,
+    "density": 2.1,
+    "county_fips": 13177,
+    "county_name": "Lee",
+    "county_weights": "{\"13177\": 60.35, \"13261\": 39.65}",
+    "county_names_all": "Lee|Sumter",
+    "county_fips_all": "13177|13261",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

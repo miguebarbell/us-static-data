@@ -1,0 +1,20 @@
+{
+    "zip": 42275,
+    "lat": 37.22701,
+    "lng": -86.44628,
+    "city": "Roundhill",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 881.0,
+    "density": 7.3,
+    "county_fips": 21031,
+    "county_name": "Butler",
+    "county_weights": "{\"21031\": 72.88, \"21061\": 27.12}",
+    "county_names_all": "Butler|Edmonson",
+    "county_fips_all": "21031|21061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

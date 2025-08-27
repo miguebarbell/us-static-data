@@ -1,0 +1,20 @@
+{
+    "zip": 5489,
+    "lat": 44.5458,
+    "lng": -72.89471,
+    "city": "Underhill",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3429.0,
+    "density": 22.5,
+    "county_fips": 50007,
+    "county_name": "Chittenden",
+    "county_weights": "{\"50007\": 100}",
+    "county_names_all": "Chittenden",
+    "county_fips_all": "50007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

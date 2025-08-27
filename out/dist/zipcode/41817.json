@@ -1,0 +1,20 @@
+{
+    "zip": 41817,
+    "lat": 37.35922,
+    "lng": -82.90038,
+    "city": "Garner",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 331.0,
+    "density": 9.6,
+    "county_fips": 21119,
+    "county_name": "Knott",
+    "county_weights": "{\"21119\": 100}",
+    "county_names_all": "Knott",
+    "county_fips_all": "21119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49684,
+    "lat": 44.80191,
+    "lng": -85.70549,
+    "city": "Traverse City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21328.0,
+    "density": 156.1,
+    "county_fips": 26089,
+    "county_name": "Leelanau",
+    "county_weights": "{\"26089\": 62.23, \"26055\": 31.71, \"26019\": 6.06}",
+    "county_names_all": "Leelanau|Grand Traverse|Benzie",
+    "county_fips_all": "26089|26055|26019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

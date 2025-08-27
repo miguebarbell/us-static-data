@@ -1,0 +1,20 @@
+{
+    "zip": 72650,
+    "lat": 35.87938,
+    "lng": -92.69308,
+    "city": "Marshall",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4462.0,
+    "density": 6.3,
+    "county_fips": 5129,
+    "county_name": "Searcy",
+    "county_weights": "{\"05129\": 97.05, \"05137\": 2.95}",
+    "county_names_all": "Searcy|Stone",
+    "county_fips_all": "05129|05137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

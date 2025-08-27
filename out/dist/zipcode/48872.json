@@ -1,0 +1,20 @@
+{
+    "zip": 48872,
+    "lat": 42.80065,
+    "lng": -84.2189,
+    "city": "Perry",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6421.0,
+    "density": 44.7,
+    "county_fips": 26155,
+    "county_name": "Shiawassee",
+    "county_weights": "{\"26155\": 80.28, \"26065\": 16.06, \"26093\": 3.66}",
+    "county_names_all": "Shiawassee|Ingham|Livingston",
+    "county_fips_all": "26155|26065|26093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

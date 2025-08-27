@@ -1,0 +1,20 @@
+{
+    "zip": 32608,
+    "lat": 29.59271,
+    "lng": -82.3935,
+    "city": "Gainesville",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 53966.0,
+    "density": 468.7,
+    "county_fips": 12001,
+    "county_name": "Alachua",
+    "county_weights": "{\"12001\": 100}",
+    "county_names_all": "Alachua",
+    "county_fips_all": "12001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

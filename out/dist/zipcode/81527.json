@@ -1,0 +1,20 @@
+{
+    "zip": 81527,
+    "lat": 38.75758,
+    "lng": -108.52466,
+    "city": "Whitewater",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1340.0,
+    "density": 0.6,
+    "county_fips": 8077,
+    "county_name": "Mesa",
+    "county_weights": "{\"08077\": 100}",
+    "county_names_all": "Mesa",
+    "county_fips_all": "08077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

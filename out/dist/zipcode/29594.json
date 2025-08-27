@@ -1,0 +1,20 @@
+{
+    "zip": 29594,
+    "lat": 34.64017,
+    "lng": -79.57728,
+    "city": "Tatum",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 140.0,
+    "density": 23.6,
+    "county_fips": 45069,
+    "county_name": "Marlboro",
+    "county_weights": "{\"45069\": 100}",
+    "county_names_all": "Marlboro",
+    "county_fips_all": "45069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

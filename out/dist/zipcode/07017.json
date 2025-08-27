@@ -1,0 +1,20 @@
+{
+    "zip": 7017,
+    "lat": 40.77192,
+    "lng": -74.20712,
+    "city": "East Orange",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40809.0,
+    "density": 6966.4,
+    "county_fips": 34013,
+    "county_name": "Essex",
+    "county_weights": "{\"34013\": 100}",
+    "county_names_all": "Essex",
+    "county_fips_all": "34013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

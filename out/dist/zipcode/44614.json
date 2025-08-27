@@ -1,0 +1,20 @@
+{
+    "zip": 44614,
+    "lat": 40.88689,
+    "lng": -81.58747,
+    "city": "Canal Fulton",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13088.0,
+    "density": 221.4,
+    "county_fips": 39151,
+    "county_name": "Stark",
+    "county_weights": "{\"39151\": 91.44, \"39153\": 5.05, \"39169\": 3.51}",
+    "county_names_all": "Stark|Summit|Wayne",
+    "county_fips_all": "39151|39153|39169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 74012,
+    "lat": 36.05381,
+    "lng": -95.80509,
+    "city": "Broken Arrow",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 63899.0,
+    "density": 993.9,
+    "county_fips": 40143,
+    "county_name": "Tulsa",
+    "county_weights": "{\"40143\": 100}",
+    "county_names_all": "Tulsa",
+    "county_fips_all": "40143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 58622,
+    "lat": 46.88035,
+    "lng": -103.24434,
+    "city": "Belfield",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1650.0,
+    "density": 1.2,
+    "county_fips": 38007,
+    "county_name": "Billings",
+    "county_weights": "{\"38007\": 70.96, \"38089\": 28.6, \"38087\": 0.44}",
+    "county_names_all": "Billings|Stark|Slope",
+    "county_fips_all": "38007|38089|38087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

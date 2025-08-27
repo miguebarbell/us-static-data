@@ -1,0 +1,20 @@
+{
+    "zip": 74534,
+    "lat": 34.61965,
+    "lng": -96.36634,
+    "city": "Centrahoma",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 141.0,
+    "density": 1.9,
+    "county_fips": 40029,
+    "county_name": "Coal",
+    "county_weights": "{\"40029\": 100}",
+    "county_names_all": "Coal",
+    "county_fips_all": "40029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

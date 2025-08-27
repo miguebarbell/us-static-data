@@ -1,0 +1,20 @@
+{
+    "zip": 59301,
+    "lat": 46.36022,
+    "lng": -105.85055,
+    "city": "Miles City",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11598.0,
+    "density": 1.6,
+    "county_fips": 30017,
+    "county_name": "Custer",
+    "county_weights": "{\"30017\": 81.19, \"30087\": 10.07, \"30033\": 5.1, \"30075\": 2.26, \"30079\": 1.38}",
+    "county_names_all": "Custer|Rosebud|Garfield|Powder River|Prairie",
+    "county_fips_all": "30017|30087|30033|30075|30079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

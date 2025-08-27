@@ -1,0 +1,20 @@
+{
+    "zip": 57067,
+    "lat": 43.04095,
+    "lng": -97.47169,
+    "city": "Utica",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 314.0,
+    "density": 2.2,
+    "county_fips": 46135,
+    "county_name": "Yankton",
+    "county_weights": "{\"46135\": 100}",
+    "county_names_all": "Yankton",
+    "county_fips_all": "46135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

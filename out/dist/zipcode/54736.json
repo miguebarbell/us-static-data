@@ -1,0 +1,20 @@
+{
+    "zip": 54736,
+    "lat": 44.60345,
+    "lng": -91.90455,
+    "city": "Durand",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4239.0,
+    "density": 12.7,
+    "county_fips": 55091,
+    "county_name": "Pepin",
+    "county_weights": "{\"55091\": 50.3, \"55011\": 44.79, \"55033\": 4.91}",
+    "county_names_all": "Pepin|Buffalo|Dunn",
+    "county_fips_all": "55091|55011|55033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

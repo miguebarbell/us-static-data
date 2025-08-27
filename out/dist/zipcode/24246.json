@@ -1,0 +1,20 @@
+{
+    "zip": 24246,
+    "lat": 36.86609,
+    "lng": -82.74395,
+    "city": "East Stone Gap",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 187.0,
+    "density": 182.0,
+    "county_fips": 51195,
+    "county_name": "Wise",
+    "county_weights": "{\"51195\": 100}",
+    "county_names_all": "Wise",
+    "county_fips_all": "51195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

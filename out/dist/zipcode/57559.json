@@ -1,0 +1,20 @@
+{
+    "zip": 57559,
+    "lat": 43.93654,
+    "lng": -100.72054,
+    "city": "Murdo",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 795.0,
+    "density": 0.7,
+    "county_fips": 46075,
+    "county_name": "Jones",
+    "county_weights": "{\"46075\": 99.17, \"46095\": 0.83}",
+    "county_names_all": "Jones|Mellette",
+    "county_fips_all": "46075|46095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

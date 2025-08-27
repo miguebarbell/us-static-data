@@ -1,0 +1,20 @@
+{
+    "zip": 68875,
+    "lat": 41.51328,
+    "lng": -98.68197,
+    "city": "Scotia",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 627.0,
+    "density": 1.9,
+    "county_fips": 31077,
+    "county_name": "Greeley",
+    "county_weights": "{\"31077\": 95.92, \"31093\": 4.08}",
+    "county_names_all": "Greeley|Howard",
+    "county_fips_all": "31077|31093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

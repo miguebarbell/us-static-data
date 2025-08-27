@@ -1,0 +1,20 @@
+{
+    "zip": 53805,
+    "lat": 43.14236,
+    "lng": -90.68445,
+    "city": "Boscobel",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5569.0,
+    "density": 16.3,
+    "county_fips": 55043,
+    "county_name": "Grant",
+    "county_weights": "{\"55043\": 63.99, \"55023\": 36.01}",
+    "county_names_all": "Grant|Crawford",
+    "county_fips_all": "55043|55023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

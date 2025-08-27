@@ -1,0 +1,20 @@
+{
+    "zip": 43157,
+    "lat": 39.84303,
+    "lng": -82.54675,
+    "city": "Thurston",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 615.0,
+    "density": 599.8,
+    "county_fips": 39045,
+    "county_name": "Fairfield",
+    "county_weights": "{\"39045\": 100}",
+    "county_names_all": "Fairfield",
+    "county_fips_all": "39045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

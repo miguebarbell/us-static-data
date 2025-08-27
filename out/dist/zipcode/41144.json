@@ -1,0 +1,20 @@
+{
+    "zip": 41144,
+    "lat": 38.53461,
+    "lng": -82.91208,
+    "city": "Greenup",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8457.0,
+    "density": 23.1,
+    "county_fips": 21089,
+    "county_name": "Greenup",
+    "county_weights": "{\"21089\": 100}",
+    "county_names_all": "Greenup",
+    "county_fips_all": "21089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

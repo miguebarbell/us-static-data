@@ -1,0 +1,20 @@
+{
+    "zip": 77545,
+    "lat": 29.53729,
+    "lng": -95.47242,
+    "city": "Fresno",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25863.0,
+    "density": 680.0,
+    "county_fips": 48157,
+    "county_name": "Fort Bend",
+    "county_weights": "{\"48157\": 99.26, \"48039\": 0.74}",
+    "county_names_all": "Fort Bend|Brazoria",
+    "county_fips_all": "48157|48039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

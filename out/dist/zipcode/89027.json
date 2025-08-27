@@ -1,0 +1,20 @@
+{
+    "zip": 89027,
+    "lat": 36.81374,
+    "lng": -114.08857,
+    "city": "Mesquite",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18398.0,
+    "density": 568.6,
+    "county_fips": 32003,
+    "county_name": "Clark",
+    "county_weights": "{\"32003\": 100}",
+    "county_names_all": "Clark",
+    "county_fips_all": "32003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

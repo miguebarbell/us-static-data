@@ -1,0 +1,20 @@
+{
+    "zip": 70648,
+    "lat": 30.50568,
+    "lng": -92.88387,
+    "city": "Kinder",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6994.0,
+    "density": 12.8,
+    "county_fips": 22003,
+    "county_name": "Allen",
+    "county_weights": "{\"22003\": 72.61, \"22053\": 27.39}",
+    "county_names_all": "Allen|Jefferson Davis",
+    "county_fips_all": "22003|22053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

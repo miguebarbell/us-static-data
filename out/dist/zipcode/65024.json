@@ -1,0 +1,20 @@
+{
+    "zip": 65024,
+    "lat": 38.62444,
+    "lng": -91.75712,
+    "city": "Chamois",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1158.0,
+    "density": 4.5,
+    "county_fips": 29151,
+    "county_name": "Osage",
+    "county_weights": "{\"29151\": 100}",
+    "county_names_all": "Osage",
+    "county_fips_all": "29151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

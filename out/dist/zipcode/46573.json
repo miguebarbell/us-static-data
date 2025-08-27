@@ -1,0 +1,20 @@
+{
+    "zip": 46573,
+    "lat": 41.53941,
+    "lng": -86.06054,
+    "city": "Wakarusa",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3943.0,
+    "density": 44.2,
+    "county_fips": 18039,
+    "county_name": "Elkhart",
+    "county_weights": "{\"18039\": 51.01, \"18141\": 48.99}",
+    "county_names_all": "Elkhart|St. Joseph",
+    "county_fips_all": "18039|18141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

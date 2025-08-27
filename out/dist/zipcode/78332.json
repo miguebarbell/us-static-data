@@ -1,0 +1,20 @@
+{
+    "zip": 78332,
+    "lat": 27.71671,
+    "lng": -98.13208,
+    "city": "Alice",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27281.0,
+    "density": 21.6,
+    "county_fips": 48249,
+    "county_name": "Jim Wells",
+    "county_weights": "{\"48249\": 84.75, \"48131\": 15.25}",
+    "county_names_all": "Jim Wells|Duval",
+    "county_fips_all": "48249|48131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

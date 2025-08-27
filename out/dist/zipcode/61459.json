@@ -1,0 +1,20 @@
+{
+    "zip": 61459,
+    "lat": 40.50497,
+    "lng": -90.41453,
+    "city": "Marietta",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 290.0,
+    "density": 3.2,
+    "county_fips": 17057,
+    "county_name": "Fulton",
+    "county_weights": "{\"17057\": 84.68, \"17109\": 15.32}",
+    "county_names_all": "Fulton|McDonough",
+    "county_fips_all": "17057|17109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

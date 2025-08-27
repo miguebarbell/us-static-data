@@ -1,0 +1,20 @@
+{
+    "zip": 98377,
+    "lat": 46.50586,
+    "lng": -121.81912,
+    "city": "Randle",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2555.0,
+    "density": 3.0,
+    "county_fips": 53041,
+    "county_name": "Lewis",
+    "county_weights": "{\"53041\": 100}",
+    "county_names_all": "Lewis",
+    "county_fips_all": "53041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

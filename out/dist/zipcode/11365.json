@@ -1,0 +1,20 @@
+{
+    "zip": 11365,
+    "lat": 40.73983,
+    "lng": -73.79499,
+    "city": "Fresh Meadows",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43258.0,
+    "density": 6717.8,
+    "county_fips": 36081,
+    "county_name": "Queens",
+    "county_weights": "{\"36081\": 100}",
+    "county_names_all": "Queens",
+    "county_fips_all": "36081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

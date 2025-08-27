@@ -1,0 +1,20 @@
+{
+    "zip": 80512,
+    "lat": 40.62989,
+    "lng": -105.56828,
+    "city": "Bellvue",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1702.0,
+    "density": 1.4,
+    "county_fips": 8069,
+    "county_name": "Larimer",
+    "county_weights": "{\"08069\": 100}",
+    "county_names_all": "Larimer",
+    "county_fips_all": "08069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

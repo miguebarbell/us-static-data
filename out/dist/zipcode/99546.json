@@ -1,0 +1,20 @@
+{
+    "zip": 99546,
+    "lat": 51.88145,
+    "lng": -176.62962,
+    "city": "Adak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 141.0,
+    "density": 1.7,
+    "county_fips": 2016,
+    "county_name": "Aleutians West",
+    "county_weights": "{\"02016\": 100}",
+    "county_names_all": "Aleutians West",
+    "county_fips_all": "02016",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Adak"
+}

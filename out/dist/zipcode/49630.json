@@ -1,0 +1,20 @@
+{
+    "zip": 49630,
+    "lat": 44.92262,
+    "lng": -86.00074,
+    "city": "Empire",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1484.0,
+    "density": 9.5,
+    "county_fips": 26089,
+    "county_name": "Leelanau",
+    "county_weights": "{\"26089\": 96.74, \"26019\": 3.26}",
+    "county_names_all": "Leelanau|Benzie",
+    "county_fips_all": "26089|26019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

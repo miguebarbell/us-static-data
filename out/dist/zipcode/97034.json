@@ -1,0 +1,20 @@
+{
+    "zip": 97034,
+    "lat": 45.4095,
+    "lng": -122.68467,
+    "city": "Lake Oswego",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21119.0,
+    "density": 1053.2,
+    "county_fips": 41005,
+    "county_name": "Clackamas",
+    "county_weights": "{\"41005\": 96.63, \"41051\": 3.37}",
+    "county_names_all": "Clackamas|Multnomah",
+    "county_fips_all": "41005|41051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

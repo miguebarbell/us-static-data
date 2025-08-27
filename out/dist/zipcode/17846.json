@@ -1,0 +1,20 @@
+{
+    "zip": 17846,
+    "lat": 41.14647,
+    "lng": -76.51681,
+    "city": "Millville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3796.0,
+    "density": 31.3,
+    "county_fips": 42037,
+    "county_name": "Columbia",
+    "county_weights": "{\"42037\": 96.45, \"42081\": 3.55}",
+    "county_names_all": "Columbia|Lycoming",
+    "county_fips_all": "42037|42081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

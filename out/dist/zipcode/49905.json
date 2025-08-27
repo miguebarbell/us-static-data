@@ -1,0 +1,20 @@
+{
+    "zip": 49905,
+    "lat": 47.10694,
+    "lng": -88.71395,
+    "city": "Atlantic Mine",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2138.0,
+    "density": 10.5,
+    "county_fips": 26061,
+    "county_name": "Houghton",
+    "county_weights": "{\"26061\": 100}",
+    "county_names_all": "Houghton",
+    "county_fips_all": "26061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

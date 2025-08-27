@@ -1,0 +1,20 @@
+{
+    "zip": 39737,
+    "lat": 33.65211,
+    "lng": -89.33573,
+    "city": "Bellefontaine",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 373.0,
+    "density": 8.4,
+    "county_fips": 28155,
+    "county_name": "Webster",
+    "county_weights": "{\"28155\": 100}",
+    "county_names_all": "Webster",
+    "county_fips_all": "28155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 98221,
+    "lat": 48.50401,
+    "lng": -122.65435,
+    "city": "Anacortes",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23211.0,
+    "density": 172.6,
+    "county_fips": 53057,
+    "county_name": "Skagit",
+    "county_weights": "{\"53057\": 89.25, \"53055\": 10.75}",
+    "county_names_all": "Skagit|San Juan",
+    "county_fips_all": "53057|53055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

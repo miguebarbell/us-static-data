@@ -1,0 +1,20 @@
+{
+    "zip": 3584,
+    "lat": 44.48696,
+    "lng": -71.54278,
+    "city": "Lancaster",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3439.0,
+    "density": 21.4,
+    "county_fips": 33007,
+    "county_name": "Coos",
+    "county_weights": "{\"33007\": 100}",
+    "county_names_all": "Coos",
+    "county_fips_all": "33007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

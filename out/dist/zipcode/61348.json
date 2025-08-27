@@ -1,0 +1,20 @@
+{
+    "zip": 61348,
+    "lat": 41.2812,
+    "lng": -89.03685,
+    "city": "Oglesby",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4397.0,
+    "density": 43.2,
+    "county_fips": 17099,
+    "county_name": "LaSalle",
+    "county_weights": "{\"17099\": 100}",
+    "county_names_all": "LaSalle",
+    "county_fips_all": "17099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

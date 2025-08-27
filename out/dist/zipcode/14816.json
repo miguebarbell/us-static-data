@@ -1,0 +1,20 @@
+{
+    "zip": 14816,
+    "lat": 42.19728,
+    "lng": -76.73161,
+    "city": "Breesport",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 502.0,
+    "density": 51.5,
+    "county_fips": 36015,
+    "county_name": "Chemung",
+    "county_weights": "{\"36015\": 100}",
+    "county_names_all": "Chemung",
+    "county_fips_all": "36015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

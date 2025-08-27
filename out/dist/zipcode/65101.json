@@ -1,0 +1,20 @@
+{
+    "zip": 65101,
+    "lat": 38.49143,
+    "lng": -92.15009,
+    "city": "Jefferson City",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29777.0,
+    "density": 87.8,
+    "county_fips": 29051,
+    "county_name": "Cole",
+    "county_weights": "{\"29051\": 89.25, \"29151\": 5.88, \"29027\": 4.87}",
+    "county_names_all": "Cole|Osage|Callaway",
+    "county_fips_all": "29051|29151|29027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

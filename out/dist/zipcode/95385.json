@@ -1,0 +1,20 @@
+{
+    "zip": 95385,
+    "lat": 37.612,
+    "lng": -121.24773,
+    "city": "Vernalis",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 671.0,
+    "density": 9.7,
+    "county_fips": 6099,
+    "county_name": "Stanislaus",
+    "county_weights": "{\"06099\": 97.99, \"06077\": 2.01}",
+    "county_names_all": "Stanislaus|San Joaquin",
+    "county_fips_all": "06099|06077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

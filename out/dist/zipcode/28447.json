@@ -1,0 +1,20 @@
+{
+    "zip": 28447,
+    "lat": 34.59953,
+    "lng": -78.25848,
+    "city": "Ivanhoe",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1483.0,
+    "density": 5.7,
+    "county_fips": 37017,
+    "county_name": "Bladen",
+    "county_weights": "{\"37017\": 41.74, \"37163\": 30.87, \"37141\": 27.4}",
+    "county_names_all": "Bladen|Sampson|Pender",
+    "county_fips_all": "37017|37163|37141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

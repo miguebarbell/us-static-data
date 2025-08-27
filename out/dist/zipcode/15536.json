@@ -1,0 +1,20 @@
+{
+    "zip": 15536,
+    "lat": 39.94956,
+    "lng": -78.2109,
+    "city": "Crystal Spring",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 354.0,
+    "density": 4.1,
+    "county_fips": 42057,
+    "county_name": "Fulton",
+    "county_weights": "{\"42057\": 100}",
+    "county_names_all": "Fulton",
+    "county_fips_all": "42057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

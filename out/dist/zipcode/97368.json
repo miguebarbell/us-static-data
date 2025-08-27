@@ -1,0 +1,20 @@
+{
+    "zip": 97368,
+    "lat": 45.0073,
+    "lng": -123.89155,
+    "city": "Otis",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2768.0,
+    "density": 17.6,
+    "county_fips": 41041,
+    "county_name": "Lincoln",
+    "county_weights": "{\"41041\": 92.74, \"41057\": 7.26}",
+    "county_names_all": "Lincoln|Tillamook",
+    "county_fips_all": "41041|41057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

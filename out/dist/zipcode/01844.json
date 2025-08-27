@@ -1,0 +1,20 @@
+{
+    "zip": 1844,
+    "lat": 42.73426,
+    "lng": -71.18858,
+    "city": "Methuen",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 53015.0,
+    "density": 926.3,
+    "county_fips": 25009,
+    "county_name": "Essex",
+    "county_weights": "{\"25009\": 100}",
+    "county_names_all": "Essex",
+    "county_fips_all": "25009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

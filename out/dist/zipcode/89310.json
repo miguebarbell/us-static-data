@@ -1,0 +1,20 @@
+{
+    "zip": 89310,
+    "lat": 39.47836,
+    "lng": -117.13758,
+    "city": "Austin",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 173.0,
+    "density": 0.0,
+    "county_fips": 32015,
+    "county_name": "Lander",
+    "county_weights": "{\"32015\": 94.43, \"32023\": 5.57}",
+    "county_names_all": "Lander|Nye",
+    "county_fips_all": "32015|32023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

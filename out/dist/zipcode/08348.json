@@ -1,0 +1,20 @@
+{
+    "zip": 8348,
+    "lat": 39.31381,
+    "lng": -74.96594,
+    "city": "Port Elizabeth",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 191.0,
+    "density": 40.3,
+    "county_fips": 34011,
+    "county_name": "Cumberland",
+    "county_weights": "{\"34011\": 100}",
+    "county_names_all": "Cumberland",
+    "county_fips_all": "34011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 25685,
+    "lat": 37.79592,
+    "lng": -82.31426,
+    "city": "Naugatuck",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 469.0,
+    "density": 11.5,
+    "county_fips": 54059,
+    "county_name": "Mingo",
+    "county_weights": "{\"54059\": 100}",
+    "county_names_all": "Mingo",
+    "county_fips_all": "54059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

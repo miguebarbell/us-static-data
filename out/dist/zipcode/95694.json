@@ -1,0 +1,20 @@
+{
+    "zip": 95694,
+    "lat": 38.56163,
+    "lng": -122.00609,
+    "city": "Winters",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10156.0,
+    "density": 29.4,
+    "county_fips": 6113,
+    "county_name": "Yolo",
+    "county_weights": "{\"06113\": 79.51, \"06095\": 19.97, \"06055\": 0.52}",
+    "county_names_all": "Yolo|Solano|Napa",
+    "county_fips_all": "06113|06095|06055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

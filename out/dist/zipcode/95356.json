@@ -1,0 +1,20 @@
+{
+    "zip": 95356,
+    "lat": 37.71945,
+    "lng": -121.02786,
+    "city": "Modesto",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33025.0,
+    "density": 574.1,
+    "county_fips": 6099,
+    "county_name": "Stanislaus",
+    "county_weights": "{\"06099\": 100}",
+    "county_names_all": "Stanislaus",
+    "county_fips_all": "06099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

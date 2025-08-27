@@ -1,0 +1,20 @@
+{
+    "zip": 82310,
+    "lat": 42.44566,
+    "lng": -107.8775,
+    "city": "Jeffrey City",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 56013,
+    "county_name": "Fremont",
+    "county_weights": "{\"56013\": 100}",
+    "county_names_all": "Fremont",
+    "county_fips_all": "56013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

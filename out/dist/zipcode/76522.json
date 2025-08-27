@@ -1,0 +1,20 @@
+{
+    "zip": 76522,
+    "lat": 31.21577,
+    "lng": -97.97215,
+    "city": "Copperas Cove",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41895.0,
+    "density": 140.7,
+    "county_fips": 48099,
+    "county_name": "Coryell",
+    "county_weights": "{\"48099\": 80.26, \"48281\": 19.74}",
+    "county_names_all": "Coryell|Lampasas",
+    "county_fips_all": "48099|48281",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

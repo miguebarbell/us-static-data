@@ -1,0 +1,20 @@
+{
+    "zip": 49303,
+    "lat": 43.27803,
+    "lng": -85.85824,
+    "city": "Bailey",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 829.0,
+    "density": 21.7,
+    "county_fips": 26121,
+    "county_name": "Muskegon",
+    "county_weights": "{\"26121\": 93.51, \"26123\": 6.49}",
+    "county_names_all": "Muskegon|Newaygo",
+    "county_fips_all": "26121|26123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

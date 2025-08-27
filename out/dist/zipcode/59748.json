@@ -1,0 +1,20 @@
+{
+    "zip": 59748,
+    "lat": 46.04611,
+    "lng": -112.69601,
+    "city": "Ramsay",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 340.0,
+    "density": 6.2,
+    "county_fips": 30093,
+    "county_name": "Silver Bow",
+    "county_weights": "{\"30093\": 100}",
+    "county_names_all": "Silver Bow",
+    "county_fips_all": "30093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

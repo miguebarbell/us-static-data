@@ -1,0 +1,20 @@
+{
+    "zip": 50201,
+    "lat": 42.03337,
+    "lng": -93.44434,
+    "city": "Nevada",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8301.0,
+    "density": 27.3,
+    "county_fips": 19169,
+    "county_name": "Story",
+    "county_weights": "{\"19169\": 100}",
+    "county_names_all": "Story",
+    "county_fips_all": "19169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

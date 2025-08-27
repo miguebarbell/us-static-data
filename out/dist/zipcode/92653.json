@@ -1,0 +1,20 @@
+{
+    "zip": 92653,
+    "lat": 33.59276,
+    "lng": -117.69994,
+    "city": "Laguna Hills",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29596.0,
+    "density": 1649.7,
+    "county_fips": 6059,
+    "county_name": "Orange",
+    "county_weights": "{\"06059\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "06059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

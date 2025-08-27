@@ -1,0 +1,20 @@
+{
+    "zip": 46563,
+    "lat": 41.35541,
+    "lng": -86.32612,
+    "city": "Plymouth",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23869.0,
+    "density": 60.2,
+    "county_fips": 18099,
+    "county_name": "Marshall",
+    "county_weights": "{\"18099\": 98.64, \"18149\": 1.23, \"18141\": 0.13}",
+    "county_names_all": "Marshall|Starke|St. Joseph",
+    "county_fips_all": "18099|18149|18141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

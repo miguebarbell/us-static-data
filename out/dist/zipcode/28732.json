@@ -1,0 +1,20 @@
+{
+    "zip": 28732,
+    "lat": 35.44667,
+    "lng": -82.46577,
+    "city": "Fletcher",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18490.0,
+    "density": 172.7,
+    "county_fips": 37089,
+    "county_name": "Henderson",
+    "county_weights": "{\"37089\": 63.76, \"37021\": 36.24}",
+    "county_names_all": "Henderson|Buncombe",
+    "county_fips_all": "37089|37021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

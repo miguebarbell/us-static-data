@@ -1,0 +1,20 @@
+{
+    "zip": 68443,
+    "lat": 40.45627,
+    "lng": -96.36758,
+    "city": "Sterling",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1146.0,
+    "density": 4.6,
+    "county_fips": 31097,
+    "county_name": "Johnson",
+    "county_weights": "{\"31097\": 98.41, \"31131\": 1.59}",
+    "county_names_all": "Johnson|Otoe",
+    "county_fips_all": "31097|31131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

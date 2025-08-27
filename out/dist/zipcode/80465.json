@@ -1,0 +1,20 @@
+{
+    "zip": 80465,
+    "lat": 39.60437,
+    "lng": -105.21521,
+    "city": "Morrison",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16277.0,
+    "density": 144.8,
+    "county_fips": 8059,
+    "county_name": "Jefferson",
+    "county_weights": "{\"08059\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "08059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

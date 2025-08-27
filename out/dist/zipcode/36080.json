@@ -1,0 +1,20 @@
+{
+    "zip": 36080,
+    "lat": 32.70497,
+    "lng": -86.28662,
+    "city": "Titus",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2676.0,
+    "density": 19.9,
+    "county_fips": 1051,
+    "county_name": "Elmore",
+    "county_weights": "{\"01051\": 96.66, \"01037\": 3.34}",
+    "county_names_all": "Elmore|Coosa",
+    "county_fips_all": "01051|01037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

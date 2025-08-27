@@ -1,0 +1,20 @@
+{
+    "zip": 30641,
+    "lat": 33.77872,
+    "lng": -83.56456,
+    "city": "Good Hope",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1568.0,
+    "density": 18.3,
+    "county_fips": 13297,
+    "county_name": "Walton",
+    "county_weights": "{\"13297\": 77.08, \"13211\": 22.92}",
+    "county_names_all": "Walton|Morgan",
+    "county_fips_all": "13297|13211",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

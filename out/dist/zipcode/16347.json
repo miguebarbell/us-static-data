@@ -1,0 +1,20 @@
+{
+    "zip": 16347,
+    "lat": 41.64671,
+    "lng": -79.06481,
+    "city": "Sheffield",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1538.0,
+    "density": 5.7,
+    "county_fips": 42123,
+    "county_name": "Warren",
+    "county_weights": "{\"42123\": 57.2, \"42053\": 42.8}",
+    "county_names_all": "Warren|Forest",
+    "county_fips_all": "42123|42053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

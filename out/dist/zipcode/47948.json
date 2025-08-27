@@ -1,0 +1,20 @@
+{
+    "zip": 47948,
+    "lat": 40.77638,
+    "lng": -87.28676,
+    "city": "Goodland",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1158.0,
+    "density": 7.7,
+    "county_fips": 18111,
+    "county_name": "Newton",
+    "county_weights": "{\"18111\": 54.38, \"18073\": 28.12, \"18007\": 17.5}",
+    "county_names_all": "Newton|Jasper|Benton",
+    "county_fips_all": "18111|18073|18007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

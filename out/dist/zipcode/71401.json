@@ -1,0 +1,20 @@
+{
+    "zip": 71401,
+    "lat": 31.79477,
+    "lng": -91.94461,
+    "city": "Aimwell",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44.0,
+    "density": 1.0,
+    "county_fips": 22025,
+    "county_name": "Catahoula",
+    "county_weights": "{\"22025\": 100}",
+    "county_names_all": "Catahoula",
+    "county_fips_all": "22025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

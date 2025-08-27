@@ -1,0 +1,20 @@
+{
+    "zip": 39213,
+    "lat": 32.39384,
+    "lng": -90.23007,
+    "city": "Jackson",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18831.0,
+    "density": 257.1,
+    "county_fips": 28049,
+    "county_name": "Hinds",
+    "county_weights": "{\"28049\": 97.02, \"28089\": 2.98}",
+    "county_names_all": "Hinds|Madison",
+    "county_fips_all": "28049|28089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

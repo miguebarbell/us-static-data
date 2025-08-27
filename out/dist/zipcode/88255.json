@@ -1,0 +1,20 @@
+{
+    "zip": 88255,
+    "lat": 32.81091,
+    "lng": -103.99923,
+    "city": "Loco Hills",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 61.0,
+    "density": 6.6,
+    "county_fips": 35015,
+    "county_name": "Eddy",
+    "county_weights": "{\"35015\": 100}",
+    "county_names_all": "Eddy",
+    "county_fips_all": "35015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

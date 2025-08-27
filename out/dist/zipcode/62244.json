@@ -1,0 +1,20 @@
+{
+    "zip": 62244,
+    "lat": 38.19142,
+    "lng": -90.1965,
+    "city": "Fults",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1155.0,
+    "density": 9.4,
+    "county_fips": 17133,
+    "county_name": "Monroe",
+    "county_weights": "{\"17133\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "17133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

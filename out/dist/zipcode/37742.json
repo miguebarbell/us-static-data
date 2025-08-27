@@ -1,0 +1,20 @@
+{
+    "zip": 37742,
+    "lat": 35.67548,
+    "lng": -84.18049,
+    "city": "Greenback",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7568.0,
+    "density": 59.1,
+    "county_fips": 47105,
+    "county_name": "Loudon",
+    "county_weights": "{\"47105\": 69.37, \"47009\": 30.63}",
+    "county_names_all": "Loudon|Blount",
+    "county_fips_all": "47105|47009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

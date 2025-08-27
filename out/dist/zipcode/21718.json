@@ -1,0 +1,20 @@
+{
+    "zip": 21718,
+    "lat": 39.39343,
+    "lng": -77.62734,
+    "city": "Burkittsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 142.0,
+    "density": 165.2,
+    "county_fips": 24021,
+    "county_name": "Frederick",
+    "county_weights": "{\"24021\": 100}",
+    "county_names_all": "Frederick",
+    "county_fips_all": "24021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

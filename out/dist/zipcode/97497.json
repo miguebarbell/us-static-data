@@ -1,0 +1,20 @@
+{
+    "zip": 97497,
+    "lat": 42.66015,
+    "lng": -123.40929,
+    "city": "Wolf Creek",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1172.0,
+    "density": 2.7,
+    "county_fips": 41033,
+    "county_name": "Josephine",
+    "county_weights": "{\"41033\": 94.06, \"41029\": 5.94}",
+    "county_names_all": "Josephine|Jackson",
+    "county_fips_all": "41033|41029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

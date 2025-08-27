@@ -1,0 +1,20 @@
+{
+    "zip": 51455,
+    "lat": 41.90829,
+    "lng": -95.0559,
+    "city": "Manning",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2303.0,
+    "density": 7.9,
+    "county_fips": 19027,
+    "county_name": "Carroll",
+    "county_weights": "{\"19027\": 55.78, \"19047\": 23.48, \"19009\": 18.23, \"19165\": 2.51}",
+    "county_names_all": "Carroll|Crawford|Audubon|Shelby",
+    "county_fips_all": "19027|19047|19009|19165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 36475,
+    "lat": 31.38511,
+    "lng": -87.22717,
+    "city": "Repton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1830.0,
+    "density": 4.9,
+    "county_fips": 1035,
+    "county_name": "Conecuh",
+    "county_weights": "{\"01035\": 86.87, \"01099\": 13.13}",
+    "county_names_all": "Conecuh|Monroe",
+    "county_fips_all": "01035|01099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

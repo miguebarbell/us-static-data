@@ -1,0 +1,20 @@
+{
+    "zip": 3897,
+    "lat": 43.90841,
+    "lng": -71.32453,
+    "city": "Wonalancet",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8.0,
+    "density": 1.3,
+    "county_fips": 33003,
+    "county_name": "Carroll",
+    "county_weights": "{\"33003\": 100}",
+    "county_names_all": "Carroll",
+    "county_fips_all": "33003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

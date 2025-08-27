@@ -1,0 +1,20 @@
+{
+    "zip": 83425,
+    "lat": 43.93106,
+    "lng": -112.21677,
+    "city": "Hamer",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 634.0,
+    "density": 2.0,
+    "county_fips": 16051,
+    "county_name": "Jefferson",
+    "county_weights": "{\"16051\": 93.42, \"16043\": 6.58}",
+    "county_names_all": "Jefferson|Fremont",
+    "county_fips_all": "16051|16043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

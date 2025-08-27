@@ -1,0 +1,20 @@
+{
+    "zip": 65401,
+    "lat": 37.90691,
+    "lng": -91.76374,
+    "city": "Rolla",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32476.0,
+    "density": 48.5,
+    "county_fips": 29161,
+    "county_name": "Phelps",
+    "county_weights": "{\"29161\": 83.01, \"29065\": 12.72, \"29125\": 4.27}",
+    "county_names_all": "Phelps|Dent|Maries",
+    "county_fips_all": "29161|29065|29125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

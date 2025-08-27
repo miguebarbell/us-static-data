@@ -1,0 +1,20 @@
+{
+    "zip": 69148,
+    "lat": 41.61329,
+    "lng": -102.58773,
+    "city": "Lisco",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 57.0,
+    "density": 0.1,
+    "county_fips": 31069,
+    "county_name": "Garden",
+    "county_weights": "{\"31069\": 75.08, \"31123\": 24.92}",
+    "county_names_all": "Garden|Morrill",
+    "county_fips_all": "31069|31123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 30024,
+    "lat": 34.06341,
+    "lng": -84.09116,
+    "city": "Suwanee",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 85106.0,
+    "density": 788.8,
+    "county_fips": 13135,
+    "county_name": "Gwinnett",
+    "county_weights": "{\"13135\": 65.24, \"13117\": 31.96, \"13121\": 2.8}",
+    "county_names_all": "Gwinnett|Forsyth|Fulton",
+    "county_fips_all": "13135|13117|13121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

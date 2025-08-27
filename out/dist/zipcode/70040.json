@@ -1,0 +1,20 @@
+{
+    "zip": 70040,
+    "lat": 29.75806,
+    "lng": -89.92327,
+    "city": "Braithwaite",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 978.0,
+    "density": 4.0,
+    "county_fips": 22075,
+    "county_name": "Plaquemines",
+    "county_weights": "{\"22075\": 99.15, \"22087\": 0.85}",
+    "county_names_all": "Plaquemines|St. Bernard",
+    "county_fips_all": "22075|22087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

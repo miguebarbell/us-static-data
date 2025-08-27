@@ -1,0 +1,20 @@
+{
+    "zip": 27846,
+    "lat": 35.76519,
+    "lng": -76.89191,
+    "city": "Jamesville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2689.0,
+    "density": 11.1,
+    "county_fips": 37117,
+    "county_name": "Martin",
+    "county_weights": "{\"37117\": 100}",
+    "county_names_all": "Martin",
+    "county_fips_all": "37117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

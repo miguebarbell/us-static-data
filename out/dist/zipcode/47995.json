@@ -1,0 +1,20 @@
+{
+    "zip": 47995,
+    "lat": 40.75861,
+    "lng": -87.0329,
+    "city": "Wolcott",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1809.0,
+    "density": 8.5,
+    "county_fips": 18181,
+    "county_name": "White",
+    "county_weights": "{\"18181\": 95.85, \"18007\": 2.38, \"18073\": 1.77}",
+    "county_names_all": "White|Benton|Jasper",
+    "county_fips_all": "18181|18007|18073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

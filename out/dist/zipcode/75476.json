@@ -1,0 +1,20 @@
+{
+    "zip": 75476,
+    "lat": 33.70793,
+    "lng": -96.24342,
+    "city": "Ravenna",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1203.0,
+    "density": 9.2,
+    "county_fips": 48147,
+    "county_name": "Fannin",
+    "county_weights": "{\"48147\": 100}",
+    "county_names_all": "Fannin",
+    "county_fips_all": "48147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

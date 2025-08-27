@@ -1,0 +1,20 @@
+{
+    "zip": 43452,
+    "lat": 41.51568,
+    "lng": -82.96522,
+    "city": "Port Clinton",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14052.0,
+    "density": 117.4,
+    "county_fips": 39123,
+    "county_name": "Ottawa",
+    "county_weights": "{\"39123\": 100}",
+    "county_names_all": "Ottawa",
+    "county_fips_all": "39123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

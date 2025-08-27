@@ -1,0 +1,20 @@
+{
+    "zip": 49633,
+    "lat": 44.55709,
+    "lng": -85.19318,
+    "city": "Fife Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3325.0,
+    "density": 7.6,
+    "county_fips": 26079,
+    "county_name": "Kalkaska",
+    "county_weights": "{\"26079\": 72.14, \"26055\": 18.08, \"26165\": 5.61, \"26113\": 4.17}",
+    "county_names_all": "Kalkaska|Grand Traverse|Wexford|Missaukee",
+    "county_fips_all": "26079|26055|26165|26113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

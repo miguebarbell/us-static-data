@@ -1,0 +1,20 @@
+{
+    "zip": 64640,
+    "lat": 39.90172,
+    "lng": -93.94542,
+    "city": "Gallatin",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3183.0,
+    "density": 8.5,
+    "county_fips": 29061,
+    "county_name": "Daviess",
+    "county_weights": "{\"29061\": 100}",
+    "county_names_all": "Daviess",
+    "county_fips_all": "29061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

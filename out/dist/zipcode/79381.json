@@ -1,0 +1,20 @@
+{
+    "zip": 79381,
+    "lat": 33.32312,
+    "lng": -101.76982,
+    "city": "Wilson",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1457.0,
+    "density": 4.7,
+    "county_fips": 48305,
+    "county_name": "Lynn",
+    "county_weights": "{\"48305\": 100}",
+    "county_names_all": "Lynn",
+    "county_fips_all": "48305",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

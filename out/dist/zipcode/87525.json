@@ -1,0 +1,20 @@
+{
+    "zip": 87525,
+    "lat": 36.5985,
+    "lng": -105.49812,
+    "city": "Taos Ski Valley",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39.0,
+    "density": 0.8,
+    "county_fips": 35055,
+    "county_name": "Taos",
+    "county_weights": "{\"35055\": 100}",
+    "county_names_all": "Taos",
+    "county_fips_all": "35055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

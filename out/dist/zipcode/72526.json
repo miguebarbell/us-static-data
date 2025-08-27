@@ -1,0 +1,20 @@
+{
+    "zip": 72526,
+    "lat": 35.87762,
+    "lng": -91.76623,
+    "city": "Cushman",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 108.0,
+    "density": 5.3,
+    "county_fips": 5063,
+    "county_name": "Independence",
+    "county_weights": "{\"05063\": 100}",
+    "county_names_all": "Independence",
+    "county_fips_all": "05063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

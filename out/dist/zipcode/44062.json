@@ -1,0 +1,20 @@
+{
+    "zip": 44062,
+    "lat": 41.45899,
+    "lng": -81.02698,
+    "city": "Middlefield",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16335.0,
+    "density": 84.5,
+    "county_fips": 39055,
+    "county_name": "Geauga",
+    "county_weights": "{\"39055\": 69.76, \"39155\": 24.69, \"39007\": 5.55}",
+    "county_names_all": "Geauga|Trumbull|Ashtabula",
+    "county_fips_all": "39055|39155|39007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

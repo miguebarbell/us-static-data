@@ -1,0 +1,20 @@
+{
+    "zip": 35149,
+    "lat": 33.24378,
+    "lng": -86.20709,
+    "city": "Sycamore",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 1121,
+    "county_name": "Talladega",
+    "county_weights": "{\"01121\": 100}",
+    "county_names_all": "Talladega",
+    "county_fips_all": "01121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

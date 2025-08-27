@@ -1,0 +1,20 @@
+{
+    "zip": 93022,
+    "lat": 34.40324,
+    "lng": -119.29836,
+    "city": "Oak View",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5929.0,
+    "density": 729.3,
+    "county_fips": 6111,
+    "county_name": "Ventura",
+    "county_weights": "{\"06111\": 100}",
+    "county_names_all": "Ventura",
+    "county_fips_all": "06111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

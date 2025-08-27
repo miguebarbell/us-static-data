@@ -1,0 +1,20 @@
+{
+    "zip": 68769,
+    "lat": 42.3158,
+    "lng": -97.81636,
+    "city": "Plainview",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1685.0,
+    "density": 4.1,
+    "county_fips": 31139,
+    "county_name": "Pierce",
+    "county_weights": "{\"31139\": 64.04, \"31003\": 35.48, \"31107\": 0.48}",
+    "county_names_all": "Pierce|Antelope|Knox",
+    "county_fips_all": "31139|31003|31107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

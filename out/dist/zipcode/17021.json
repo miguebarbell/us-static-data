@@ -1,0 +1,20 @@
+{
+    "zip": 17021,
+    "lat": 40.33758,
+    "lng": -77.66093,
+    "city": "East Waterford",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1008.0,
+    "density": 7.1,
+    "county_fips": 42067,
+    "county_name": "Juniata",
+    "county_weights": "{\"42067\": 77.21, \"42099\": 15.83, \"42055\": 5.42, \"42061\": 1.54}",
+    "county_names_all": "Juniata|Perry|Franklin|Huntingdon",
+    "county_fips_all": "42067|42099|42055|42061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

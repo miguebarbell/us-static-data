@@ -1,0 +1,20 @@
+{
+    "zip": 39475,
+    "lat": 31.15496,
+    "lng": -89.4129,
+    "city": "Purvis",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14585.0,
+    "density": 35.5,
+    "county_fips": 28073,
+    "county_name": "Lamar",
+    "county_weights": "{\"28073\": 82.94, \"28035\": 17.06}",
+    "county_names_all": "Lamar|Forrest",
+    "county_fips_all": "28073|28035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

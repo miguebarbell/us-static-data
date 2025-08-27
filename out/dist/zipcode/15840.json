@@ -1,0 +1,20 @@
+{
+    "zip": 15840,
+    "lat": 41.16927,
+    "lng": -78.82708,
+    "city": "Falls Creek",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1807.0,
+    "density": 40.4,
+    "county_fips": 42065,
+    "county_name": "Jefferson",
+    "county_weights": "{\"42065\": 96.93, \"42033\": 3.07}",
+    "county_names_all": "Jefferson|Clearfield",
+    "county_fips_all": "42065|42033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

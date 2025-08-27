@@ -1,0 +1,20 @@
+{
+    "zip": 7009,
+    "lat": 40.85651,
+    "lng": -74.22871,
+    "city": "Cedar Grove",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13317.0,
+    "density": 1210.0,
+    "county_fips": 34013,
+    "county_name": "Essex",
+    "county_weights": "{\"34013\": 99.71, \"34031\": 0.29}",
+    "county_names_all": "Essex|Passaic",
+    "county_fips_all": "34013|34031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

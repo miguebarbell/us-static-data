@@ -1,0 +1,20 @@
+{
+    "zip": 50448,
+    "lat": 43.35053,
+    "lng": -93.24753,
+    "city": "Kensett",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 613.0,
+    "density": 3.8,
+    "county_fips": 19195,
+    "county_name": "Worth",
+    "county_weights": "{\"19195\": 100}",
+    "county_names_all": "Worth",
+    "county_fips_all": "19195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

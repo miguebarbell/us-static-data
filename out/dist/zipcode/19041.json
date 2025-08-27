@@ -1,0 +1,20 @@
+{
+    "zip": 19041,
+    "lat": 40.00663,
+    "lng": -75.31747,
+    "city": "Haverford",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6088.0,
+    "density": 716.6,
+    "county_fips": 42045,
+    "county_name": "Delaware",
+    "county_weights": "{\"42045\": 67.53, \"42091\": 32.47}",
+    "county_names_all": "Delaware|Montgomery",
+    "county_fips_all": "42045|42091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

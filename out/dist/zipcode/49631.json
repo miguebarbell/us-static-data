@@ -1,0 +1,20 @@
+{
+    "zip": 49631,
+    "lat": 43.91707,
+    "lng": -85.25788,
+    "city": "Evart",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5646.0,
+    "density": 15.1,
+    "county_fips": 26133,
+    "county_name": "Osceola",
+    "county_weights": "{\"26133\": 84.99, \"26107\": 15.01}",
+    "county_names_all": "Osceola|Mecosta",
+    "county_fips_all": "26133|26107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

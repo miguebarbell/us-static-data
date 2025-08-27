@@ -1,0 +1,20 @@
+{
+    "zip": 89496,
+    "lat": 39.19949,
+    "lng": -118.57103,
+    "city": "Fallon",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 78.0,
+    "density": 0.2,
+    "county_fips": 32001,
+    "county_name": "Churchill",
+    "county_weights": "{\"32001\": 100}",
+    "county_names_all": "Churchill",
+    "county_fips_all": "32001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 53007,
+    "lat": 43.10825,
+    "lng": -88.07116,
+    "city": "Butler",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2003.0,
+    "density": 1005.3,
+    "county_fips": 55133,
+    "county_name": "Waukesha",
+    "county_weights": "{\"55133\": 100}",
+    "county_names_all": "Waukesha",
+    "county_fips_all": "55133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

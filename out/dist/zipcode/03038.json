@@ -1,0 +1,20 @@
+{
+    "zip": 3038,
+    "lat": 42.88867,
+    "lng": -71.27932,
+    "city": "Derry",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 34622.0,
+    "density": 372.9,
+    "county_fips": 33015,
+    "county_name": "Rockingham",
+    "county_weights": "{\"33015\": 100}",
+    "county_names_all": "Rockingham",
+    "county_fips_all": "33015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

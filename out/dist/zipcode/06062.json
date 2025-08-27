@@ -1,0 +1,20 @@
+{
+    "zip": 6062,
+    "lat": 41.67338,
+    "lng": -72.86079,
+    "city": "Plainville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17499.0,
+    "density": 771.9,
+    "county_fips": 9110,
+    "county_name": "Capitol",
+    "county_weights": "{\"09110\": 99.88, \"09140\": 0.12}",
+    "county_names_all": "Capitol|Naugatuck Valley",
+    "county_fips_all": "09110|09140",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

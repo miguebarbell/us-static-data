@@ -1,0 +1,20 @@
+{
+    "zip": 72683,
+    "lat": 35.93102,
+    "lng": -93.11629,
+    "city": "Vendor",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 365.0,
+    "density": 8.9,
+    "county_fips": 5101,
+    "county_name": "Newton",
+    "county_weights": "{\"05101\": 100}",
+    "county_names_all": "Newton",
+    "county_fips_all": "05101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 83624,
+    "lat": 42.92441,
+    "lng": -116.14266,
+    "city": "Grand View",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1437.0,
+    "density": 2.1,
+    "county_fips": 16073,
+    "county_name": "Owyhee",
+    "county_weights": "{\"16073\": 77.31, \"16039\": 22.69}",
+    "county_names_all": "Owyhee|Elmore",
+    "county_fips_all": "16073|16039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 73638,
+    "lat": 35.86532,
+    "lng": -99.79059,
+    "city": "Crawford",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 159.0,
+    "density": 0.5,
+    "county_fips": 40129,
+    "county_name": "Roger Mills",
+    "county_weights": "{\"40129\": 100}",
+    "county_names_all": "Roger Mills",
+    "county_fips_all": "40129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

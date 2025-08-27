@@ -1,0 +1,20 @@
+{
+    "zip": 92651,
+    "lat": 33.56535,
+    "lng": -117.77399,
+    "city": "Laguna Beach",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23477.0,
+    "density": 411.0,
+    "county_fips": 6059,
+    "county_name": "Orange",
+    "county_weights": "{\"06059\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "06059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 38017,
+    "lat": 35.06722,
+    "lng": -89.65347,
+    "city": "Collierville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 56427.0,
+    "density": 265.8,
+    "county_fips": 47157,
+    "county_name": "Shelby",
+    "county_weights": "{\"47157\": 56.54, \"47047\": 43.46}",
+    "county_names_all": "Shelby|Fayette",
+    "county_fips_all": "47157|47047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

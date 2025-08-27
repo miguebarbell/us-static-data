@@ -1,0 +1,20 @@
+{
+    "zip": 49284,
+    "lat": 42.38507,
+    "lng": -84.69128,
+    "city": "Springport",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2436.0,
+    "density": 17.7,
+    "county_fips": 26075,
+    "county_name": "Jackson",
+    "county_weights": "{\"26075\": 62.32, \"26025\": 30.02, \"26045\": 7.66}",
+    "county_names_all": "Jackson|Calhoun|Eaton",
+    "county_fips_all": "26075|26025|26045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 47341,
+    "lat": 39.9741,
+    "lng": -84.89361,
+    "city": "Fountain City",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2513.0,
+    "density": 28.8,
+    "county_fips": 18177,
+    "county_name": "Wayne",
+    "county_weights": "{\"18177\": 100}",
+    "county_names_all": "Wayne",
+    "county_fips_all": "18177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

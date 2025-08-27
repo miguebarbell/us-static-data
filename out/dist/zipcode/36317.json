@@ -1,0 +1,20 @@
+{
+    "zip": 36317,
+    "lat": 31.63532,
+    "lng": -85.38748,
+    "city": "Clopton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 710.0,
+    "density": 6.7,
+    "county_fips": 1067,
+    "county_name": "Henry",
+    "county_weights": "{\"01067\": 83.46, \"01045\": 8.69, \"01005\": 7.85}",
+    "county_names_all": "Henry|Dale|Barbour",
+    "county_fips_all": "01067|01045|01005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

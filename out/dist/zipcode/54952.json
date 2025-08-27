@@ -1,0 +1,20 @@
+{
+    "zip": 54952,
+    "lat": 44.20086,
+    "lng": -88.33719,
+    "city": "Menasha",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27127.0,
+    "density": 373.0,
+    "county_fips": 55015,
+    "county_name": "Calumet",
+    "county_weights": "{\"55015\": 71.79, \"55139\": 28.21}",
+    "county_names_all": "Calumet|Winnebago",
+    "county_fips_all": "55015|55139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

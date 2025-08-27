@@ -1,0 +1,20 @@
+{
+    "zip": 49015,
+    "lat": 42.27467,
+    "lng": -85.23115,
+    "city": "Battle Creek",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29013.0,
+    "density": 411.9,
+    "county_fips": 26025,
+    "county_name": "Calhoun",
+    "county_weights": "{\"26025\": 99.89, \"26077\": 0.11}",
+    "county_names_all": "Calhoun|Kalamazoo",
+    "county_fips_all": "26025|26077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

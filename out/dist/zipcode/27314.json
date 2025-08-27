@@ -1,0 +1,20 @@
+{
+    "zip": 27314,
+    "lat": 36.29072,
+    "lng": -79.18594,
+    "city": "Prospect Hill",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 596.0,
+    "density": 9.4,
+    "county_fips": 37033,
+    "county_name": "Caswell",
+    "county_weights": "{\"37033\": 100}",
+    "county_names_all": "Caswell",
+    "county_fips_all": "37033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

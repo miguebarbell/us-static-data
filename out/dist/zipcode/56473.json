@@ -1,0 +1,20 @@
+{
+    "zip": 56473,
+    "lat": 46.35649,
+    "lng": -94.48355,
+    "city": "Pillager",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3452.0,
+    "density": 14.8,
+    "county_fips": 27021,
+    "county_name": "Cass",
+    "county_weights": "{\"27021\": 80.53, \"27097\": 19.47}",
+    "county_names_all": "Cass|Morrison",
+    "county_fips_all": "27021|27097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 37388,
+    "lat": 35.35141,
+    "lng": -86.19747,
+    "city": "Tullahoma",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27340.0,
+    "density": 89.5,
+    "county_fips": 47031,
+    "county_name": "Coffee",
+    "county_weights": "{\"47031\": 42.99, \"47051\": 33.94, \"47127\": 19.73, \"47003\": 3.34}",
+    "county_names_all": "Coffee|Franklin|Moore|Bedford",
+    "county_fips_all": "47031|47051|47127|47003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

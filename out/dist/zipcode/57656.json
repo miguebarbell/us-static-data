@@ -1,0 +1,20 @@
+{
+    "zip": 57656,
+    "lat": 45.42387,
+    "lng": -101.10696,
+    "city": "Timber Lake",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 911.0,
+    "density": 0.9,
+    "county_fips": 46041,
+    "county_name": "Dewey",
+    "county_weights": "{\"46041\": 63.29, \"46031\": 36.71}",
+    "county_names_all": "Dewey|Corson",
+    "county_fips_all": "46041|46031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

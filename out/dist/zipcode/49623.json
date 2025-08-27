@@ -1,0 +1,20 @@
+{
+    "zip": 49623,
+    "lat": 43.90367,
+    "lng": -85.68285,
+    "city": "Chase",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1030.0,
+    "density": 5.8,
+    "county_fips": 26085,
+    "county_name": "Lake",
+    "county_weights": "{\"26085\": 100}",
+    "county_names_all": "Lake",
+    "county_fips_all": "26085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

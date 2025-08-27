@@ -1,0 +1,20 @@
+{
+    "zip": 93624,
+    "lat": 36.37258,
+    "lng": -120.12125,
+    "city": "Five Points",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 764.0,
+    "density": 2.0,
+    "county_fips": 6019,
+    "county_name": "Fresno",
+    "county_weights": "{\"06019\": 100}",
+    "county_names_all": "Fresno",
+    "county_fips_all": "06019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

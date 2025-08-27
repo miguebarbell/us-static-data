@@ -1,0 +1,20 @@
+{
+    "zip": 49534,
+    "lat": 42.97106,
+    "lng": -85.78834,
+    "city": "Grand Rapids",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23387.0,
+    "density": 256.0,
+    "county_fips": 26139,
+    "county_name": "Ottawa",
+    "county_weights": "{\"26139\": 50.85, \"26081\": 49.15}",
+    "county_names_all": "Ottawa|Kent",
+    "county_fips_all": "26139|26081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 21641,
+    "lat": 38.91696,
+    "lng": -75.94161,
+    "city": "Hillsboro",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 130.0,
+    "density": 371.0,
+    "county_fips": 24011,
+    "county_name": "Caroline",
+    "county_weights": "{\"24011\": 100}",
+    "county_names_all": "Caroline",
+    "county_fips_all": "24011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 31622,
+    "lat": 31.37446,
+    "lng": -83.2023,
+    "city": "Alapaha",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1847.0,
+    "density": 5.9,
+    "county_fips": 13019,
+    "county_name": "Berrien",
+    "county_weights": "{\"13019\": 100}",
+    "county_names_all": "Berrien",
+    "county_fips_all": "13019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

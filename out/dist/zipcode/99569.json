@@ -1,0 +1,20 @@
+{
+    "zip": 99569,
+    "lat": 58.81714,
+    "lng": -158.52914,
+    "city": "Clarks Point",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20.0,
+    "density": 1.0,
+    "county_fips": 2070,
+    "county_name": "Dillingham",
+    "county_weights": "{\"02070\": 100}",
+    "county_names_all": "Dillingham",
+    "county_fips_all": "02070",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 73097,
+    "lat": 35.39893,
+    "lng": -97.64501,
+    "city": "Wheatland",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 179.0,
+    "density": 69.7,
+    "county_fips": 40109,
+    "county_name": "Oklahoma",
+    "county_weights": "{\"40109\": 100}",
+    "county_names_all": "Oklahoma",
+    "county_fips_all": "40109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

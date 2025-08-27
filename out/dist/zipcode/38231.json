@@ -1,0 +1,20 @@
+{
+    "zip": 38231,
+    "lat": 36.21277,
+    "lng": -88.42442,
+    "city": "Henry",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2012.0,
+    "density": 13.3,
+    "county_fips": 47079,
+    "county_name": "Henry",
+    "county_weights": "{\"47079\": 100}",
+    "county_names_all": "Henry",
+    "county_fips_all": "47079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 54923,
+    "lat": 43.99456,
+    "lng": -88.96883,
+    "city": "Berlin",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8850.0,
+    "density": 25.2,
+    "county_fips": 55137,
+    "county_name": "Waushara",
+    "county_weights": "{\"55137\": 47.89, \"55047\": 43.73, \"55139\": 8.38}",
+    "county_names_all": "Waushara|Green Lake|Winnebago",
+    "county_fips_all": "55137|55047|55139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

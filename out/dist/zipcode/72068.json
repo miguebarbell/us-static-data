@@ -1,0 +1,20 @@
+{
+    "zip": 72068,
+    "lat": 35.15766,
+    "lng": -91.71547,
+    "city": "Higginson",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 759.0,
+    "density": 70.4,
+    "county_fips": 5145,
+    "county_name": "White",
+    "county_weights": "{\"05145\": 100}",
+    "county_names_all": "White",
+    "county_fips_all": "05145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

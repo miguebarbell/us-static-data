@@ -1,0 +1,20 @@
+{
+    "zip": 60706,
+    "lat": 41.96384,
+    "lng": -87.81672,
+    "city": "Harwood Heights",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24028.0,
+    "density": 3010.0,
+    "county_fips": 17031,
+    "county_name": "Cook",
+    "county_weights": "{\"17031\": 100}",
+    "county_names_all": "Cook",
+    "county_fips_all": "17031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

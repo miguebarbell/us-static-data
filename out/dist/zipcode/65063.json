@@ -1,0 +1,20 @@
+{
+    "zip": 65063,
+    "lat": 38.72635,
+    "lng": -92.08743,
+    "city": "New Bloomfield",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4180.0,
+    "density": 18.8,
+    "county_fips": 29027,
+    "county_name": "Callaway",
+    "county_weights": "{\"29027\": 100}",
+    "county_names_all": "Callaway",
+    "county_fips_all": "29027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

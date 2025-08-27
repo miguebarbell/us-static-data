@@ -1,0 +1,20 @@
+{
+    "zip": 37847,
+    "lat": 36.43156,
+    "lng": -84.27346,
+    "city": "Pioneer",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2789.0,
+    "density": 7.4,
+    "county_fips": 47013,
+    "county_name": "Campbell",
+    "county_weights": "{\"47013\": 81.65, \"47151\": 18.35}",
+    "county_names_all": "Campbell|Scott",
+    "county_fips_all": "47013|47151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

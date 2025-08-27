@@ -1,0 +1,20 @@
+{
+    "zip": 54303,
+    "lat": 44.53931,
+    "lng": -88.05115,
+    "city": "Green Bay",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27694.0,
+    "density": 930.4,
+    "county_fips": 55009,
+    "county_name": "Brown",
+    "county_weights": "{\"55009\": 100}",
+    "county_names_all": "Brown",
+    "county_fips_all": "55009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

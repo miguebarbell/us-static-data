@@ -1,0 +1,20 @@
+{
+    "zip": 44086,
+    "lat": 41.67443,
+    "lng": -81.05599,
+    "city": "Thompson",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2405.0,
+    "density": 34.8,
+    "county_fips": 39055,
+    "county_name": "Geauga",
+    "county_weights": "{\"39055\": 86.55, \"39085\": 11.76, \"39007\": 1.69}",
+    "county_names_all": "Geauga|Lake|Ashtabula",
+    "county_fips_all": "39055|39085|39007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 19341,
+    "lat": 40.04213,
+    "lng": -75.63814,
+    "city": "Exton",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20660.0,
+    "density": 582.8,
+    "county_fips": 42029,
+    "county_name": "Chester",
+    "county_weights": "{\"42029\": 100}",
+    "county_names_all": "Chester",
+    "county_fips_all": "42029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

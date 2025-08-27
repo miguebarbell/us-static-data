@@ -1,0 +1,20 @@
+{
+    "zip": 56572,
+    "lat": 46.60485,
+    "lng": -96.08682,
+    "city": "Pelican Rapids",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5900.0,
+    "density": 13.3,
+    "county_fips": 27111,
+    "county_name": "Otter Tail",
+    "county_weights": "{\"27111\": 92.13, \"27027\": 3.94, \"27005\": 3.43, \"27167\": 0.5}",
+    "county_names_all": "Otter Tail|Clay|Becker|Wilkin",
+    "county_fips_all": "27111|27027|27005|27167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

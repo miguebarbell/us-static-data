@@ -1,0 +1,20 @@
+{
+    "zip": 96741,
+    "lat": 21.94986,
+    "lng": -159.51847,
+    "city": "Kalaheo",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6283.0,
+    "density": 76.1,
+    "county_fips": 15007,
+    "county_name": "Kauai",
+    "county_weights": "{\"15007\": 100}",
+    "county_names_all": "Kauai",
+    "county_fips_all": "15007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "Pacific/Honolulu"
+}

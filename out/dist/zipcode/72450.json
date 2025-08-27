@@ -1,0 +1,20 @@
+{
+    "zip": 72450,
+    "lat": 36.0784,
+    "lng": -90.51695,
+    "city": "Paragould",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40464.0,
+    "density": 54.8,
+    "county_fips": 5055,
+    "county_name": "Greene",
+    "county_weights": "{\"05055\": 98.29, \"05031\": 1.71}",
+    "county_names_all": "Greene|Craighead",
+    "county_fips_all": "05055|05031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

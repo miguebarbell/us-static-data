@@ -1,0 +1,20 @@
+{
+    "zip": 56296,
+    "lat": 45.82981,
+    "lng": -96.46953,
+    "city": "Wheaton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1861.0,
+    "density": 3.0,
+    "county_fips": 27155,
+    "county_name": "Traverse",
+    "county_weights": "{\"27155\": 100}",
+    "county_names_all": "Traverse",
+    "county_fips_all": "27155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

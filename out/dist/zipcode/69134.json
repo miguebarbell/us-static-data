@@ -1,0 +1,20 @@
+{
+    "zip": 69134,
+    "lat": 40.80733,
+    "lng": -101.36968,
+    "city": "Elsie",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 338.0,
+    "density": 0.6,
+    "county_fips": 31135,
+    "county_name": "Perkins",
+    "county_weights": "{\"31135\": 78.72, \"31029\": 11.09, \"31085\": 10.18}",
+    "county_names_all": "Perkins|Chase|Hayes",
+    "county_fips_all": "31135|31029|31085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

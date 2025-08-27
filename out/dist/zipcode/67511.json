@@ -1,0 +1,20 @@
+{
+    "zip": 67511,
+    "lat": 38.43365,
+    "lng": -99.05058,
+    "city": "Albert",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 142.0,
+    "density": 0.8,
+    "county_fips": 20165,
+    "county_name": "Rush",
+    "county_weights": "{\"20165\": 64.07, \"20009\": 35.93}",
+    "county_names_all": "Rush|Barton",
+    "county_fips_all": "20165|20009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

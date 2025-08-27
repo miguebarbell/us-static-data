@@ -1,0 +1,20 @@
+{
+    "zip": 65686,
+    "lat": 36.62275,
+    "lng": -93.43625,
+    "city": "Kimberling City",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4487.0,
+    "density": 177.2,
+    "county_fips": 29209,
+    "county_name": "Stone",
+    "county_weights": "{\"29209\": 100}",
+    "county_names_all": "Stone",
+    "county_fips_all": "29209",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

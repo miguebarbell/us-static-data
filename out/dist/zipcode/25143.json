@@ -1,0 +1,20 @@
+{
+    "zip": 25143,
+    "lat": 38.42001,
+    "lng": -81.82414,
+    "city": "Nitro",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9185.0,
+    "density": 399.5,
+    "county_fips": 54039,
+    "county_name": "Kanawha",
+    "county_weights": "{\"54039\": 67.18, \"54079\": 32.82}",
+    "county_names_all": "Kanawha|Putnam",
+    "county_fips_all": "54039|54079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

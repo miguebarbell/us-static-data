@@ -1,0 +1,20 @@
+{
+    "zip": 58367,
+    "lat": 48.88179,
+    "lng": -99.55163,
+    "city": "Rolla",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1485.0,
+    "density": 3.0,
+    "county_fips": 38079,
+    "county_name": "Rolette",
+    "county_weights": "{\"38079\": 62.63, \"38095\": 37.37}",
+    "county_names_all": "Rolette|Towner",
+    "county_fips_all": "38079|38095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

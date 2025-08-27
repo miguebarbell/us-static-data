@@ -1,0 +1,20 @@
+{
+    "zip": 63012,
+    "lat": 38.33532,
+    "lng": -90.44832,
+    "city": "Barnhart",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10977.0,
+    "density": 168.6,
+    "county_fips": 29099,
+    "county_name": "Jefferson",
+    "county_weights": "{\"29099\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "29099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

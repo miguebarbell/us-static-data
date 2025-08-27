@@ -1,0 +1,20 @@
+{
+    "zip": 45741,
+    "lat": 39.06648,
+    "lng": -82.2527,
+    "city": "Langsville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 871.0,
+    "density": 8.2,
+    "county_fips": 39105,
+    "county_name": "Meigs",
+    "county_weights": "{\"39105\": 100}",
+    "county_names_all": "Meigs",
+    "county_fips_all": "39105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

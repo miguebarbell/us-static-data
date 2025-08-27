@@ -1,0 +1,20 @@
+{
+    "zip": 66207,
+    "lat": 38.95625,
+    "lng": -94.64439,
+    "city": "Overland Park",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15149.0,
+    "density": 1279.6,
+    "county_fips": 20091,
+    "county_name": "Johnson",
+    "county_weights": "{\"20091\": 100}",
+    "county_names_all": "Johnson",
+    "county_fips_all": "20091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

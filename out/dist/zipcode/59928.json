@@ -1,0 +1,20 @@
+{
+    "zip": 59928,
+    "lat": 48.79745,
+    "lng": -114.29117,
+    "city": "Polebridge",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 130.0,
+    "density": 0.1,
+    "county_fips": 30029,
+    "county_name": "Flathead",
+    "county_weights": "{\"30029\": 100}",
+    "county_names_all": "Flathead",
+    "county_fips_all": "30029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

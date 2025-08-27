@@ -1,0 +1,20 @@
+{
+    "zip": 28382,
+    "lat": 34.97546,
+    "lng": -78.50561,
+    "city": "Roseboro",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6659.0,
+    "density": 22.8,
+    "county_fips": 37163,
+    "county_name": "Sampson",
+    "county_weights": "{\"37163\": 87.22, \"37051\": 12.78}",
+    "county_names_all": "Sampson|Cumberland",
+    "county_fips_all": "37163|37051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

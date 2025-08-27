@@ -1,0 +1,20 @@
+{
+    "zip": 31554,
+    "lat": 31.48265,
+    "lng": -82.61861,
+    "city": "Nicholls",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7343.0,
+    "density": 12.6,
+    "county_fips": 13069,
+    "county_name": "Coffee",
+    "county_weights": "{\"13069\": 51.73, \"13299\": 25.01, \"13005\": 23.26}",
+    "county_names_all": "Coffee|Ware|Bacon",
+    "county_fips_all": "13069|13299|13005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 41831,
+    "lat": 37.38531,
+    "lng": -82.94633,
+    "city": "Leburn",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 953.0,
+    "density": 19.5,
+    "county_fips": 21119,
+    "county_name": "Knott",
+    "county_weights": "{\"21119\": 100}",
+    "county_names_all": "Knott",
+    "county_fips_all": "21119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

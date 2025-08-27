@@ -1,0 +1,20 @@
+{
+    "zip": 63560,
+    "lat": 40.3574,
+    "lng": -93.12291,
+    "city": "Pollock",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 82.0,
+    "density": 0.8,
+    "county_fips": 29211,
+    "county_name": "Sullivan",
+    "county_weights": "{\"29211\": 87.21, \"29171\": 12.79}",
+    "county_names_all": "Sullivan|Putnam",
+    "county_fips_all": "29211|29171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

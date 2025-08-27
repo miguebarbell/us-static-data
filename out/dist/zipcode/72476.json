@@ -1,0 +1,20 @@
+{
+    "zip": 72476,
+    "lat": 36.04533,
+    "lng": -90.91692,
+    "city": "Walnut Ridge",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7565.0,
+    "density": 13.1,
+    "county_fips": 5075,
+    "county_name": "Lawrence",
+    "county_weights": "{\"05075\": 82.64, \"05121\": 8.92, \"05031\": 6.17, \"05055\": 2.27}",
+    "county_names_all": "Lawrence|Randolph|Craighead|Greene",
+    "county_fips_all": "05075|05121|05031|05055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

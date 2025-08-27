@@ -1,0 +1,20 @@
+{
+    "zip": 13332,
+    "lat": 42.75831,
+    "lng": -75.57452,
+    "city": "Earlville",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2695.0,
+    "density": 18.6,
+    "county_fips": 36053,
+    "county_name": "Madison",
+    "county_weights": "{\"36053\": 80.74, \"36017\": 19.26}",
+    "county_names_all": "Madison|Chenango",
+    "county_fips_all": "36053|36017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

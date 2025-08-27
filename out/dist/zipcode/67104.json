@@ -1,0 +1,20 @@
+{
+    "zip": 67104,
+    "lat": 37.27286,
+    "lng": -98.65223,
+    "city": "Medicine Lodge",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2087.0,
+    "density": 2.4,
+    "county_fips": 20007,
+    "county_name": "Barber",
+    "county_weights": "{\"20007\": 100}",
+    "county_names_all": "Barber",
+    "county_fips_all": "20007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

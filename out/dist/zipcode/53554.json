@@ -1,0 +1,20 @@
+{
+    "zip": 53554,
+    "lat": 42.90205,
+    "lng": -90.44919,
+    "city": "Livingston",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 972.0,
+    "density": 8.3,
+    "county_fips": 55043,
+    "county_name": "Grant",
+    "county_weights": "{\"55043\": 67.36, \"55049\": 32.64}",
+    "county_names_all": "Grant|Iowa",
+    "county_fips_all": "55043|55049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

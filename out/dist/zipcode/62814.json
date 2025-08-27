@@ -1,0 +1,20 @@
+{
+    "zip": 62814,
+    "lat": 38.37641,
+    "lng": -88.73054,
+    "city": "Bluford",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1724.0,
+    "density": 9.3,
+    "county_fips": 17081,
+    "county_name": "Jefferson",
+    "county_weights": "{\"17081\": 82.1, \"17191\": 17.9}",
+    "county_names_all": "Jefferson|Wayne",
+    "county_fips_all": "17081|17191",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 20186,
+    "lat": 38.69045,
+    "lng": -77.843,
+    "city": "Warrenton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15433.0,
+    "density": 101.5,
+    "county_fips": 51061,
+    "county_name": "Fauquier",
+    "county_weights": "{\"51061\": 98.32, \"51047\": 1.68}",
+    "county_names_all": "Fauquier|Culpeper",
+    "county_fips_all": "51061|51047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

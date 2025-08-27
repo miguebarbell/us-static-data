@@ -1,0 +1,20 @@
+{
+    "zip": 57737,
+    "lat": 44.55618,
+    "lng": -102.52096,
+    "city": "Enning",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 74.0,
+    "density": 0.5,
+    "county_fips": 46093,
+    "county_name": "Meade",
+    "county_weights": "{\"46093\": 100}",
+    "county_names_all": "Meade",
+    "county_fips_all": "46093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 24073,
+    "lat": 37.13053,
+    "lng": -80.4225,
+    "city": "Christiansburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30125.0,
+    "density": 129.8,
+    "county_fips": 51121,
+    "county_name": "Montgomery",
+    "county_weights": "{\"51121\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "51121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

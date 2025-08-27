@@ -1,0 +1,20 @@
+{
+    "zip": 72520,
+    "lat": 36.39816,
+    "lng": -91.72476,
+    "city": "Camp",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 332.0,
+    "density": 4.1,
+    "county_fips": 5049,
+    "county_name": "Fulton",
+    "county_weights": "{\"05049\": 100}",
+    "county_names_all": "Fulton",
+    "county_fips_all": "05049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

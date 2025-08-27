@@ -1,0 +1,20 @@
+{
+    "zip": 65727,
+    "lat": 37.76266,
+    "lng": -93.28889,
+    "city": "Polk",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 132.0,
+    "density": 5.1,
+    "county_fips": 29167,
+    "county_name": "Polk",
+    "county_weights": "{\"29167\": 99.43, \"29085\": 0.57}",
+    "county_names_all": "Polk|Hickory",
+    "county_fips_all": "29167|29085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 76939,
+    "lat": 31.26855,
+    "lng": -100.59028,
+    "city": "Knickerbocker",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 48451,
+    "county_name": "Tom Green",
+    "county_weights": "{\"48451\": 100}",
+    "county_names_all": "Tom Green",
+    "county_fips_all": "48451",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

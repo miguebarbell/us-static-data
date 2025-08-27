@@ -1,0 +1,20 @@
+{
+    "zip": 58325,
+    "lat": 48.28613,
+    "lng": -99.15569,
+    "city": "Churchs Ferry",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 122.0,
+    "density": 0.5,
+    "county_fips": 38071,
+    "county_name": "Ramsey",
+    "county_weights": "{\"38071\": 70.28, \"38005\": 29.72}",
+    "county_names_all": "Ramsey|Benson",
+    "county_fips_all": "38071|38005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

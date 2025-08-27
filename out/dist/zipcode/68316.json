@@ -1,0 +1,20 @@
+{
+    "zip": 68316,
+    "lat": 41.01688,
+    "lng": -97.61577,
+    "city": "Benedict",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 502.0,
+    "density": 3.9,
+    "county_fips": 31185,
+    "county_name": "York",
+    "county_weights": "{\"31185\": 87.81, \"31143\": 12.19}",
+    "county_names_all": "York|Polk",
+    "county_fips_all": "31185|31143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

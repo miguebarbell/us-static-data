@@ -1,0 +1,20 @@
+{
+    "zip": 54980,
+    "lat": 43.98625,
+    "lng": -88.76906,
+    "city": "Waukau",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 247.0,
+    "density": 273.6,
+    "county_fips": 55139,
+    "county_name": "Winnebago",
+    "county_weights": "{\"55139\": 100}",
+    "county_names_all": "Winnebago",
+    "county_fips_all": "55139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

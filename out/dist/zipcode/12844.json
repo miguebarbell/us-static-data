@@ -1,0 +1,20 @@
+{
+    "zip": 12844,
+    "lat": 43.49423,
+    "lng": -73.64081,
+    "city": "Kattskill Bay",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 207.0,
+    "density": 26.5,
+    "county_fips": 36113,
+    "county_name": "Warren",
+    "county_weights": "{\"36113\": 64.4, \"36115\": 35.6}",
+    "county_names_all": "Warren|Washington",
+    "county_fips_all": "36113|36115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

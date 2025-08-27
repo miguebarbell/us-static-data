@@ -1,0 +1,20 @@
+{
+    "zip": 25917,
+    "lat": 37.97944,
+    "lng": -81.25021,
+    "city": "Scarbro",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1341.0,
+    "density": 11.7,
+    "county_fips": 54019,
+    "county_name": "Fayette",
+    "county_weights": "{\"54019\": 100}",
+    "county_names_all": "Fayette",
+    "county_fips_all": "54019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

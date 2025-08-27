@@ -1,0 +1,20 @@
+{
+    "zip": 91977,
+    "lat": 32.72387,
+    "lng": -116.99631,
+    "city": "Spring Valley",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 62957.0,
+    "density": 2450.9,
+    "county_fips": 6073,
+    "county_name": "San Diego",
+    "county_weights": "{\"06073\": 100}",
+    "county_names_all": "San Diego",
+    "county_fips_all": "06073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

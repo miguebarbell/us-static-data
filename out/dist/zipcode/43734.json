@@ -1,0 +1,20 @@
+{
+    "zip": 43734,
+    "lat": 39.88144,
+    "lng": -81.90489,
+    "city": "Duncan Falls",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1824.0,
+    "density": 199.3,
+    "county_fips": 39119,
+    "county_name": "Muskingum",
+    "county_weights": "{\"39119\": 100}",
+    "county_names_all": "Muskingum",
+    "county_fips_all": "39119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

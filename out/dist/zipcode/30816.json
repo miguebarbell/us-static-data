@@ -1,0 +1,20 @@
+{
+    "zip": 30816,
+    "lat": 33.1639,
+    "lng": -82.17061,
+    "city": "Keysville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2286.0,
+    "density": 7.8,
+    "county_fips": 13033,
+    "county_name": "Burke",
+    "county_weights": "{\"13033\": 86.53, \"13163\": 13.47}",
+    "county_names_all": "Burke|Jefferson",
+    "county_fips_all": "13033|13163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72060,
+    "lat": 35.07609,
+    "lng": -91.57779,
+    "city": "Griffithville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 593.0,
+    "density": 2.9,
+    "county_fips": 5145,
+    "county_name": "White",
+    "county_weights": "{\"05145\": 58.74, \"05117\": 41.26}",
+    "county_names_all": "White|Prairie",
+    "county_fips_all": "05145|05117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

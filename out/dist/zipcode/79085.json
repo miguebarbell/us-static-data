@@ -1,0 +1,20 @@
+{
+    "zip": 79085,
+    "lat": 34.73977,
+    "lng": -102.50956,
+    "city": "Summerfield",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 48069,
+    "county_name": "Castro",
+    "county_weights": "{\"48069\": 100}",
+    "county_names_all": "Castro",
+    "county_fips_all": "48069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

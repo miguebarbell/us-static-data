@@ -1,0 +1,20 @@
+{
+    "zip": 88063,
+    "lat": 31.80715,
+    "lng": -106.58259,
+    "city": "Sunland Park",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11282.0,
+    "density": 698.5,
+    "county_fips": 35013,
+    "county_name": "Do\u00f1a Ana",
+    "county_weights": "{\"35013\": 100}",
+    "county_names_all": "Do\u00f1a Ana",
+    "county_fips_all": "35013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

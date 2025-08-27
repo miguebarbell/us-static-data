@@ -1,0 +1,20 @@
+{
+    "zip": 57501,
+    "lat": 44.53525,
+    "lng": -100.31906,
+    "city": "Pierre",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17456.0,
+    "density": 11.9,
+    "county_fips": 46065,
+    "county_name": "Hughes",
+    "county_weights": "{\"46065\": 55.15, \"46119\": 44.85}",
+    "county_names_all": "Hughes|Sully",
+    "county_fips_all": "46065|46119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

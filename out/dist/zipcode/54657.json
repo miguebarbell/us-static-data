@@ -1,0 +1,20 @@
+{
+    "zip": 54657,
+    "lat": 43.19447,
+    "lng": -90.90678,
+    "city": "Steuben",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 387.0,
+    "density": 5.2,
+    "county_fips": 55023,
+    "county_name": "Crawford",
+    "county_weights": "{\"55023\": 100}",
+    "county_names_all": "Crawford",
+    "county_fips_all": "55023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

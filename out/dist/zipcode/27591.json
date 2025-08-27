@@ -1,0 +1,20 @@
+{
+    "zip": 27591,
+    "lat": 35.7859,
+    "lng": -78.38638,
+    "city": "Wendell",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26745.0,
+    "density": 155.0,
+    "county_fips": 37183,
+    "county_name": "Wake",
+    "county_weights": "{\"37183\": 69.75, \"37101\": 30.25}",
+    "county_names_all": "Wake|Johnston",
+    "county_fips_all": "37183|37101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

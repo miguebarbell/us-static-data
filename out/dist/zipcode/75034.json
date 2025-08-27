@@ -1,0 +1,20 @@
+{
+    "zip": 75034,
+    "lat": 33.12084,
+    "lng": -96.83778,
+    "city": "Frisco",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 51059.0,
+    "density": 1236.5,
+    "county_fips": 48085,
+    "county_name": "Collin",
+    "county_weights": "{\"48085\": 55.89, \"48121\": 44.11}",
+    "county_names_all": "Collin|Denton",
+    "county_fips_all": "48085|48121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

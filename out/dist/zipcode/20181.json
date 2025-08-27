@@ -1,0 +1,20 @@
+{
+    "zip": 20181,
+    "lat": 38.66687,
+    "lng": -77.55374,
+    "city": "Nokesville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10128.0,
+    "density": 50.2,
+    "county_fips": 51153,
+    "county_name": "Prince William",
+    "county_weights": "{\"51153\": 93.57, \"51061\": 6.43}",
+    "county_names_all": "Prince William|Fauquier",
+    "county_fips_all": "51153|51061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

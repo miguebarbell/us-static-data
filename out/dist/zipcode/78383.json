@@ -1,0 +1,20 @@
+{
+    "zip": 78383,
+    "lat": 28.07713,
+    "lng": -97.94425,
+    "city": "Sandia",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4306.0,
+    "density": 11.8,
+    "county_fips": 48297,
+    "county_name": "Live Oak",
+    "county_weights": "{\"48297\": 63.82, \"48249\": 29.04, \"48355\": 7.14}",
+    "county_names_all": "Live Oak|Jim Wells|Nueces",
+    "county_fips_all": "48297|48249|48355",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

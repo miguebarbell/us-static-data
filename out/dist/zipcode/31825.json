@@ -1,0 +1,20 @@
+{
+    "zip": 31825,
+    "lat": 32.1081,
+    "lng": -84.6693,
+    "city": "Richland",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2733.0,
+    "density": 7.3,
+    "county_fips": 13259,
+    "county_name": "Stewart",
+    "county_weights": "{\"13259\": 70.21, \"13307\": 29.79}",
+    "county_names_all": "Stewart|Webster",
+    "county_fips_all": "13259|13307",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

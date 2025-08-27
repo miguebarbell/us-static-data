@@ -1,0 +1,20 @@
+{
+    "zip": 95325,
+    "lat": 37.48058,
+    "lng": -120.24208,
+    "city": "Hornitos",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 6043,
+    "county_name": "Mariposa",
+    "county_weights": "{\"06043\": 100}",
+    "county_names_all": "Mariposa",
+    "county_fips_all": "06043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

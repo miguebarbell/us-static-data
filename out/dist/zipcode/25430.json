@@ -1,0 +1,20 @@
+{
+    "zip": 25430,
+    "lat": 39.34024,
+    "lng": -77.93899,
+    "city": "Kearneysville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8215.0,
+    "density": 69.0,
+    "county_fips": 54037,
+    "county_name": "Jefferson",
+    "county_weights": "{\"54037\": 90.97, \"54003\": 9.03}",
+    "county_names_all": "Jefferson|Berkeley",
+    "county_fips_all": "54037|54003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

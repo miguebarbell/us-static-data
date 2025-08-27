@@ -1,0 +1,20 @@
+{
+    "zip": 48162,
+    "lat": 41.96045,
+    "lng": -83.43503,
+    "city": "Monroe",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28275.0,
+    "density": 190.0,
+    "county_fips": 26115,
+    "county_name": "Monroe",
+    "county_weights": "{\"26115\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "26115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 23843,
+    "lat": 36.84988,
+    "lng": -77.8109,
+    "city": "Dolphin",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 396.0,
+    "density": 5.6,
+    "county_fips": 51025,
+    "county_name": "Brunswick",
+    "county_weights": "{\"51025\": 100}",
+    "county_names_all": "Brunswick",
+    "county_fips_all": "51025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

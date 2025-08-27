@@ -1,0 +1,20 @@
+{
+    "zip": 71292,
+    "lat": 32.40147,
+    "lng": -92.21569,
+    "city": "West Monroe",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21866.0,
+    "density": 54.9,
+    "county_fips": 22073,
+    "county_name": "Ouachita",
+    "county_weights": "{\"22073\": 100}",
+    "county_names_all": "Ouachita",
+    "county_fips_all": "22073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 70652,
+    "lat": 30.60547,
+    "lng": -93.24646,
+    "city": "Longville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2559.0,
+    "density": 9.2,
+    "county_fips": 22011,
+    "county_name": "Beauregard",
+    "county_weights": "{\"22011\": 100}",
+    "county_names_all": "Beauregard",
+    "county_fips_all": "22011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

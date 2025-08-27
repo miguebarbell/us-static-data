@@ -1,0 +1,20 @@
+{
+    "zip": 43756,
+    "lat": 39.68993,
+    "lng": -81.79574,
+    "city": "Mcconnelsville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5747.0,
+    "density": 16.0,
+    "county_fips": 39115,
+    "county_name": "Morgan",
+    "county_weights": "{\"39115\": 98.64, \"39119\": 1.36}",
+    "county_names_all": "Morgan|Muskingum",
+    "county_fips_all": "39115|39119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

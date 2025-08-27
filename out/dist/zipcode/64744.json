@@ -1,0 +1,20 @@
+{
+    "zip": 64744,
+    "lat": 37.84963,
+    "lng": -93.97755,
+    "city": "El Dorado Springs",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8547.0,
+    "density": 13.2,
+    "county_fips": 29039,
+    "county_name": "Cedar",
+    "county_weights": "{\"29039\": 57.08, \"29185\": 27.94, \"29217\": 14.98}",
+    "county_names_all": "Cedar|St. Clair|Vernon",
+    "county_fips_all": "29039|29185|29217",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49646,
+    "lat": 44.72727,
+    "lng": -85.04926,
+    "city": "Kalkaska",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8573.0,
+    "density": 15.1,
+    "county_fips": 26079,
+    "county_name": "Kalkaska",
+    "county_weights": "{\"26079\": 100}",
+    "county_names_all": "Kalkaska",
+    "county_fips_all": "26079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

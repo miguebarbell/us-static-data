@@ -1,0 +1,20 @@
+{
+    "zip": 70534,
+    "lat": 30.16564,
+    "lng": -92.45499,
+    "city": "Estherwood",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 630.0,
+    "density": 38.3,
+    "county_fips": 22001,
+    "county_name": "Acadia",
+    "county_weights": "{\"22001\": 100}",
+    "county_names_all": "Acadia",
+    "county_fips_all": "22001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

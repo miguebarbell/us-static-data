@@ -1,0 +1,20 @@
+{
+    "zip": 38944,
+    "lat": 33.76106,
+    "lng": -90.34242,
+    "city": "Minter City",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 235.0,
+    "density": 0.9,
+    "county_fips": 28083,
+    "county_name": "Leflore",
+    "county_weights": "{\"28083\": 96.74, \"28135\": 3.26}",
+    "county_names_all": "Leflore|Tallahatchie",
+    "county_fips_all": "28083|28135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

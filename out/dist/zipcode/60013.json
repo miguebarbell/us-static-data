@@ -1,0 +1,20 @@
+{
+    "zip": 60013,
+    "lat": 42.22027,
+    "lng": -88.23568,
+    "city": "Cary",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26503.0,
+    "density": 707.5,
+    "county_fips": 17111,
+    "county_name": "McHenry",
+    "county_weights": "{\"17111\": 89.39, \"17097\": 10.61}",
+    "county_names_all": "McHenry|Lake",
+    "county_fips_all": "17111|17097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 38626,
+    "lat": 34.5182,
+    "lng": -90.43966,
+    "city": "Dundee",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1123.0,
+    "density": 2.6,
+    "county_fips": 28143,
+    "county_name": "Tunica",
+    "county_weights": "{\"28143\": 81.71, \"28027\": 18.29}",
+    "county_names_all": "Tunica|Coahoma",
+    "county_fips_all": "28143|28027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

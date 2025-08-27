@@ -1,0 +1,20 @@
+{
+    "zip": 63739,
+    "lat": 37.35686,
+    "lng": -89.80216,
+    "city": "Burfordville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 577.0,
+    "density": 15.3,
+    "county_fips": 29031,
+    "county_name": "Cape Girardeau",
+    "county_weights": "{\"29031\": 100}",
+    "county_names_all": "Cape Girardeau",
+    "county_fips_all": "29031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

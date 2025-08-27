@@ -1,0 +1,20 @@
+{
+    "zip": 67651,
+    "lat": 39.20926,
+    "lng": -99.03969,
+    "city": "Natoma",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 493.0,
+    "density": 0.9,
+    "county_fips": 20141,
+    "county_name": "Osborne",
+    "county_weights": "{\"20141\": 42.2, \"20163\": 40.29, \"20051\": 13.19, \"20167\": 4.33}",
+    "county_names_all": "Osborne|Rooks|Ellis|Russell",
+    "county_fips_all": "20141|20163|20051|20167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 79042,
+    "lat": 34.74802,
+    "lng": -101.89449,
+    "city": "Happy",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1181.0,
+    "density": 1.0,
+    "county_fips": 48381,
+    "county_name": "Randall",
+    "county_weights": "{\"48381\": 47.79, \"48069\": 23.39, \"48437\": 22.14, \"48011\": 6.68}",
+    "county_names_all": "Randall|Castro|Swisher|Armstrong",
+    "county_fips_all": "48381|48069|48437|48011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

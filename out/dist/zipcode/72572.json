@@ -1,0 +1,20 @@
+{
+    "zip": 72572,
+    "lat": 35.89762,
+    "lng": -91.29173,
+    "city": "Saffell",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 337.0,
+    "density": 9.9,
+    "county_fips": 5075,
+    "county_name": "Lawrence",
+    "county_weights": "{\"05075\": 75.46, \"05063\": 24.54}",
+    "county_names_all": "Lawrence|Independence",
+    "county_fips_all": "05075|05063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

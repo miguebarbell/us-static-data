@@ -1,0 +1,20 @@
+{
+    "zip": 59444,
+    "lat": 48.65227,
+    "lng": -111.34881,
+    "city": "Galata",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 226.0,
+    "density": 0.2,
+    "county_fips": 30101,
+    "county_name": "Toole",
+    "county_weights": "{\"30101\": 80.5, \"30051\": 19.5}",
+    "county_names_all": "Toole|Liberty",
+    "county_fips_all": "30101|30051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

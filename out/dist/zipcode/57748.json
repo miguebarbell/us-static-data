@@ -1,0 +1,20 @@
+{
+    "zip": 57748,
+    "lat": 44.58484,
+    "lng": -102.01082,
+    "city": "Howes",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 334.0,
+    "density": 0.3,
+    "county_fips": 46093,
+    "county_name": "Meade",
+    "county_weights": "{\"46093\": 55.59, \"46137\": 44.41}",
+    "county_names_all": "Meade|Ziebach",
+    "county_fips_all": "46093|46137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

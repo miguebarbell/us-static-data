@@ -1,0 +1,20 @@
+{
+    "zip": 25544,
+    "lat": 38.23078,
+    "lng": -82.11017,
+    "city": "Myra",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 128.0,
+    "density": 18.7,
+    "county_fips": 54043,
+    "county_name": "Lincoln",
+    "county_weights": "{\"54043\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "54043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

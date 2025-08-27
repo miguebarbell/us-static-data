@@ -1,0 +1,20 @@
+{
+    "zip": 50206,
+    "lat": 42.25018,
+    "lng": -93.18941,
+    "city": "New Providence",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 460.0,
+    "density": 3.9,
+    "county_fips": 19083,
+    "county_name": "Hardin",
+    "county_weights": "{\"19083\": 81.17, \"19127\": 16.15, \"19169\": 2.68}",
+    "county_names_all": "Hardin|Marshall|Story",
+    "county_fips_all": "19083|19127|19169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

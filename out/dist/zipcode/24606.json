@@ -1,0 +1,20 @@
+{
+    "zip": 24606,
+    "lat": 37.28814,
+    "lng": -81.39183,
+    "city": "Boissevain",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 262.0,
+    "density": 43.1,
+    "county_fips": 51185,
+    "county_name": "Tazewell",
+    "county_weights": "{\"51185\": 100}",
+    "county_names_all": "Tazewell",
+    "county_fips_all": "51185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

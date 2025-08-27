@@ -1,0 +1,20 @@
+{
+    "zip": 29743,
+    "lat": 35.02865,
+    "lng": -81.40772,
+    "city": "Smyrna",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1880.0,
+    "density": 19.5,
+    "county_fips": 45091,
+    "county_name": "York",
+    "county_weights": "{\"45091\": 84.51, \"45021\": 15.49}",
+    "county_names_all": "York|Cherokee",
+    "county_fips_all": "45091|45021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

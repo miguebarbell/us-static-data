@@ -1,0 +1,20 @@
+{
+    "zip": 76801,
+    "lat": 31.75471,
+    "lng": -99.05462,
+    "city": "Brownwood",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25152.0,
+    "density": 25.8,
+    "county_fips": 48049,
+    "county_name": "Brown",
+    "county_weights": "{\"48049\": 94.87, \"48083\": 3.0, \"48333\": 2.13}",
+    "county_names_all": "Brown|Coleman|Mills",
+    "county_fips_all": "48049|48083|48333",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

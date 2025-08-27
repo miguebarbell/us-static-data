@@ -1,0 +1,20 @@
+{
+    "zip": 37310,
+    "lat": 35.26237,
+    "lng": -84.77767,
+    "city": "Charleston",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3824.0,
+    "density": 34.6,
+    "county_fips": 47011,
+    "county_name": "Bradley",
+    "county_weights": "{\"47011\": 89.42, \"47139\": 10.58}",
+    "county_names_all": "Bradley|Polk",
+    "county_fips_all": "47011|47139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

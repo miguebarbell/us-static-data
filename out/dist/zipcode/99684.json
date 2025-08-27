@@ -1,0 +1,20 @@
+{
+    "zip": 99684,
+    "lat": 64.09938,
+    "lng": -160.32776,
+    "city": "Unalakleet",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 821.0,
+    "density": 0.2,
+    "county_fips": 2180,
+    "county_name": "Nome",
+    "county_weights": "{\"02180\": 100}",
+    "county_names_all": "Nome",
+    "county_fips_all": "02180",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 17506,
+    "lat": 40.11718,
+    "lng": -76.0527,
+    "city": "Blue Ball",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 446.0,
+    "density": 2233.8,
+    "county_fips": 42071,
+    "county_name": "Lancaster",
+    "county_weights": "{\"42071\": 100}",
+    "county_names_all": "Lancaster",
+    "county_fips_all": "42071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

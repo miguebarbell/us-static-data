@@ -1,0 +1,20 @@
+{
+    "zip": 70546,
+    "lat": 30.26756,
+    "lng": -92.66747,
+    "city": "Jennings",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15821.0,
+    "density": 40.0,
+    "county_fips": 22053,
+    "county_name": "Jefferson Davis",
+    "county_weights": "{\"22053\": 88.65, \"22001\": 11.35}",
+    "county_names_all": "Jefferson Davis|Acadia",
+    "county_fips_all": "22053|22001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

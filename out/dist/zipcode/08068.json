@@ -1,0 +1,20 @@
+{
+    "zip": 8068,
+    "lat": 39.9617,
+    "lng": -74.667,
+    "city": "Pemberton",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6811.0,
+    "density": 112.9,
+    "county_fips": 34005,
+    "county_name": "Burlington",
+    "county_weights": "{\"34005\": 100}",
+    "county_names_all": "Burlington",
+    "county_fips_all": "34005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

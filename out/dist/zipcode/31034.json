@@ -1,0 +1,20 @@
+{
+    "zip": 31034,
+    "lat": 33.05473,
+    "lng": -83.22538,
+    "city": "Hardwick",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33.0,
+    "density": 353.2,
+    "county_fips": 13009,
+    "county_name": "Baldwin",
+    "county_weights": "{\"13009\": 100}",
+    "county_names_all": "Baldwin",
+    "county_fips_all": "13009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

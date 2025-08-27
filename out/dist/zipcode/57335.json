@@ -1,0 +1,20 @@
+{
+    "zip": 57335,
+    "lat": 43.06005,
+    "lng": -98.77255,
+    "city": "Fairfax",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 313.0,
+    "density": 1.2,
+    "county_fips": 46053,
+    "county_name": "Gregory",
+    "county_weights": "{\"46053\": 100}",
+    "county_names_all": "Gregory",
+    "county_fips_all": "46053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

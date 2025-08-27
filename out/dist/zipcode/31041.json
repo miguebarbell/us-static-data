@@ -1,0 +1,20 @@
+{
+    "zip": 31041,
+    "lat": 32.37905,
+    "lng": -84.1721,
+    "city": "Ideal",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 887.0,
+    "density": 8.6,
+    "county_fips": 13193,
+    "county_name": "Macon",
+    "county_weights": "{\"13193\": 100}",
+    "county_names_all": "Macon",
+    "county_fips_all": "13193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

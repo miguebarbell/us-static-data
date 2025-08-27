@@ -1,0 +1,20 @@
+{
+    "zip": 43613,
+    "lat": 41.70628,
+    "lng": -83.60374,
+    "city": "Toledo",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30597.0,
+    "density": 1928.6,
+    "county_fips": 39095,
+    "county_name": "Lucas",
+    "county_weights": "{\"39095\": 100}",
+    "county_names_all": "Lucas",
+    "county_fips_all": "39095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 45419,
+    "lat": 39.71436,
+    "lng": -84.1676,
+    "city": "Dayton",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16583.0,
+    "density": 1718.2,
+    "county_fips": 39113,
+    "county_name": "Montgomery",
+    "county_weights": "{\"39113\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "39113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

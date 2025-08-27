@@ -1,0 +1,20 @@
+{
+    "zip": 56511,
+    "lat": 46.8532,
+    "lng": -96.00763,
+    "city": "Audubon",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1942.0,
+    "density": 11.8,
+    "county_fips": 27005,
+    "county_name": "Becker",
+    "county_weights": "{\"27005\": 100}",
+    "county_names_all": "Becker",
+    "county_fips_all": "27005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

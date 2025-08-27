@@ -1,0 +1,20 @@
+{
+    "zip": 39702,
+    "lat": 33.43876,
+    "lng": -88.34493,
+    "city": "Columbus",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23536.0,
+    "density": 90.9,
+    "county_fips": 28087,
+    "county_name": "Lowndes",
+    "county_weights": "{\"28087\": 100}",
+    "county_names_all": "Lowndes",
+    "county_fips_all": "28087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 56090,
+    "lat": 43.9584,
+    "lng": -94.23303,
+    "city": "Vernon Center",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 581.0,
+    "density": 5.2,
+    "county_fips": 27013,
+    "county_name": "Blue Earth",
+    "county_weights": "{\"27013\": 100}",
+    "county_names_all": "Blue Earth",
+    "county_fips_all": "27013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

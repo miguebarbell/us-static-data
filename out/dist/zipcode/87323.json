@@ -1,0 +1,20 @@
+{
+    "zip": 87323,
+    "lat": 35.45214,
+    "lng": -108.17531,
+    "city": "Thoreau",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3702.0,
+    "density": 4.8,
+    "county_fips": 35031,
+    "county_name": "McKinley",
+    "county_weights": "{\"35031\": 85.47, \"35006\": 14.53}",
+    "county_names_all": "McKinley|Cibola",
+    "county_fips_all": "35031|35006",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

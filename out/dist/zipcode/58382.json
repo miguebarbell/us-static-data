@@ -1,0 +1,20 @@
+{
+    "zip": 58382,
+    "lat": 48.31727,
+    "lng": -98.79252,
+    "city": "Webster",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 139.0,
+    "density": 0.4,
+    "county_fips": 38071,
+    "county_name": "Ramsey",
+    "county_weights": "{\"38071\": 100}",
+    "county_names_all": "Ramsey",
+    "county_fips_all": "38071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

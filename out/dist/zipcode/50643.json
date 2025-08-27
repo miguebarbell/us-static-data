@@ -1,0 +1,20 @@
+{
+    "zip": 50643,
+    "lat": 42.36413,
+    "lng": -92.47402,
+    "city": "Hudson",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3081.0,
+    "density": 20.6,
+    "county_fips": 19013,
+    "county_name": "Black Hawk",
+    "county_weights": "{\"19013\": 90.66, \"19075\": 9.34}",
+    "county_names_all": "Black Hawk|Grundy",
+    "county_fips_all": "19013|19075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

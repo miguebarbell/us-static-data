@@ -1,0 +1,20 @@
+{
+    "zip": 18031,
+    "lat": 40.554,
+    "lng": -75.65361,
+    "city": "Breinigsville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12031.0,
+    "density": 333.6,
+    "county_fips": 42077,
+    "county_name": "Lehigh",
+    "county_weights": "{\"42077\": 98.72, \"42011\": 1.28}",
+    "county_names_all": "Lehigh|Berks",
+    "county_fips_all": "42077|42011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 16133,
+    "lat": 41.27101,
+    "lng": -80.11562,
+    "city": "Jackson Center",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1528.0,
+    "density": 21.5,
+    "county_fips": 42085,
+    "county_name": "Mercer",
+    "county_weights": "{\"42085\": 100}",
+    "county_names_all": "Mercer",
+    "county_fips_all": "42085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

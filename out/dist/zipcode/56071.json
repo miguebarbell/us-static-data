@@ -1,0 +1,20 @@
+{
+    "zip": 56071,
+    "lat": 44.53459,
+    "lng": -93.58209,
+    "city": "New Prague",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13015.0,
+    "density": 58.5,
+    "county_fips": 27079,
+    "county_name": "Le Sueur",
+    "county_weights": "{\"27079\": 46.07, \"27139\": 42.07, \"27131\": 11.86}",
+    "county_names_all": "Le Sueur|Scott|Rice",
+    "county_fips_all": "27079|27139|27131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

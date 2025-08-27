@@ -1,0 +1,20 @@
+{
+    "zip": 75105,
+    "lat": 32.26717,
+    "lng": -96.36682,
+    "city": "Chatfield",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 132.0,
+    "density": 1.3,
+    "county_fips": 48349,
+    "county_name": "Navarro",
+    "county_weights": "{\"48349\": 100}",
+    "county_names_all": "Navarro",
+    "county_fips_all": "48349",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

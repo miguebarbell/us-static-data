@@ -1,0 +1,20 @@
+{
+    "zip": 58474,
+    "lat": 46.09588,
+    "lng": -98.13574,
+    "city": "Oakes",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2739.0,
+    "density": 2.7,
+    "county_fips": 38021,
+    "county_name": "Dickey",
+    "county_weights": "{\"38021\": 86.67, \"38081\": 12.6, \"38045\": 0.73}",
+    "county_names_all": "Dickey|Sargent|LaMoure",
+    "county_fips_all": "38021|38081|38045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

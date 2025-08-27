@@ -1,0 +1,20 @@
+{
+    "zip": 5761,
+    "lat": 43.34786,
+    "lng": -73.14855,
+    "city": "Pawlet",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1019.0,
+    "density": 9.6,
+    "county_fips": 50021,
+    "county_name": "Rutland",
+    "county_weights": "{\"50021\": 78.83, \"50003\": 21.17}",
+    "county_names_all": "Rutland|Bennington",
+    "county_fips_all": "50021|50003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

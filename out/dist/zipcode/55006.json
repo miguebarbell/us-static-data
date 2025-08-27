@@ -1,0 +1,20 @@
+{
+    "zip": 55006,
+    "lat": 45.74002,
+    "lng": -93.20504,
+    "city": "Braham",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3655.0,
+    "density": 18.5,
+    "county_fips": 27065,
+    "county_name": "Kanabec",
+    "county_weights": "{\"27065\": 38.18, \"27059\": 34.51, \"27115\": 19.61, \"27025\": 7.71}",
+    "county_names_all": "Kanabec|Isanti|Pine|Chisago",
+    "county_fips_all": "27065|27059|27115|27025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

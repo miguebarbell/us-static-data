@@ -1,0 +1,20 @@
+{
+    "zip": 79347,
+    "lat": 34.18804,
+    "lng": -102.79682,
+    "city": "Muleshoe",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7264.0,
+    "density": 4.1,
+    "county_fips": 48017,
+    "county_name": "Bailey",
+    "county_weights": "{\"48017\": 77.81, \"48369\": 15.27, \"48279\": 4.11, \"48069\": 2.81}",
+    "county_names_all": "Bailey|Parmer|Lamb|Castro",
+    "county_fips_all": "48017|48369|48279|48069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

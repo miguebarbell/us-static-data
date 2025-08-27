@@ -1,0 +1,20 @@
+{
+    "zip": 68665,
+    "lat": 41.70543,
+    "lng": -98.41445,
+    "city": "Spalding",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 767.0,
+    "density": 1.7,
+    "county_fips": 31077,
+    "county_name": "Greeley",
+    "county_weights": "{\"31077\": 67.01, \"31183\": 32.99}",
+    "county_names_all": "Greeley|Wheeler",
+    "county_fips_all": "31077|31183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

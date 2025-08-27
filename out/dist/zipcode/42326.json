@@ -1,0 +1,20 @@
+{
+    "zip": 42326,
+    "lat": 37.23666,
+    "lng": -87.00835,
+    "city": "Browder",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 294.0,
+    "density": 7.2,
+    "county_fips": 21177,
+    "county_name": "Muhlenberg",
+    "county_weights": "{\"21177\": 100}",
+    "county_names_all": "Muhlenberg",
+    "county_fips_all": "21177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 75435,
+    "lat": 33.50175,
+    "lng": -95.29522,
+    "city": "Deport",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1056.0,
+    "density": 7.0,
+    "county_fips": 48277,
+    "county_name": "Lamar",
+    "county_weights": "{\"48277\": 54.39, \"48387\": 45.61}",
+    "county_names_all": "Lamar|Red River",
+    "county_fips_all": "48277|48387",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 74045,
+    "lat": 36.22153,
+    "lng": -96.70049,
+    "city": "Maramec",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 273.0,
+    "density": 2.5,
+    "county_fips": 40117,
+    "county_name": "Pawnee",
+    "county_weights": "{\"40117\": 99.71, \"40119\": 0.29}",
+    "county_names_all": "Pawnee|Payne",
+    "county_fips_all": "40117|40119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

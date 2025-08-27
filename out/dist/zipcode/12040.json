@@ -1,0 +1,20 @@
+{
+    "zip": 12040,
+    "lat": 42.63047,
+    "lng": -73.35916,
+    "city": "Cherry Plain",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29.0,
+    "density": 187.4,
+    "county_fips": 36083,
+    "county_name": "Rensselaer",
+    "county_weights": "{\"36083\": 100}",
+    "county_names_all": "Rensselaer",
+    "county_fips_all": "36083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

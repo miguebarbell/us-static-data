@@ -1,0 +1,20 @@
+{
+    "zip": 27509,
+    "lat": 36.12889,
+    "lng": -78.77604,
+    "city": "Butner",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7838.0,
+    "density": 206.4,
+    "county_fips": 37077,
+    "county_name": "Granville",
+    "county_weights": "{\"37077\": 100}",
+    "county_names_all": "Granville",
+    "county_fips_all": "37077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

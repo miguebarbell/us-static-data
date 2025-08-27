@@ -1,0 +1,20 @@
+{
+    "zip": 49318,
+    "lat": 43.22319,
+    "lng": -85.82981,
+    "city": "Casnovia",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1484.0,
+    "density": 28.6,
+    "county_fips": 26121,
+    "county_name": "Muskegon",
+    "county_weights": "{\"26121\": 72.89, \"26139\": 23.24, \"26081\": 3.87}",
+    "county_names_all": "Muskegon|Ottawa|Kent",
+    "county_fips_all": "26121|26139|26081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

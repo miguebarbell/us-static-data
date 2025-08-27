@@ -1,0 +1,20 @@
+{
+    "zip": 72374,
+    "lat": 34.56126,
+    "lng": -90.83996,
+    "city": "Poplar Grove",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 614.0,
+    "density": 5.7,
+    "county_fips": 5107,
+    "county_name": "Phillips",
+    "county_weights": "{\"05107\": 98.28, \"05077\": 1.72}",
+    "county_names_all": "Phillips|Lee",
+    "county_fips_all": "05107|05077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

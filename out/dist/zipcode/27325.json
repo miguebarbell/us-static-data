@@ -1,0 +1,20 @@
+{
+    "zip": 27325,
+    "lat": 35.46236,
+    "lng": -79.57249,
+    "city": "Robbins",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7261.0,
+    "density": 33.9,
+    "county_fips": 37125,
+    "county_name": "Moore",
+    "county_weights": "{\"37125\": 98.84, \"37151\": 1.16}",
+    "county_names_all": "Moore|Randolph",
+    "county_fips_all": "37125|37151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

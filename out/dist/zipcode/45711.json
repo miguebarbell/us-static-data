@@ -1,0 +1,20 @@
+{
+    "zip": 45711,
+    "lat": 39.42503,
+    "lng": -81.93038,
+    "city": "Amesville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1039.0,
+    "density": 8.0,
+    "county_fips": 39009,
+    "county_name": "Athens",
+    "county_weights": "{\"39009\": 81.66, \"39115\": 11.42, \"39167\": 6.92}",
+    "county_names_all": "Athens|Morgan|Washington",
+    "county_fips_all": "39009|39115|39167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

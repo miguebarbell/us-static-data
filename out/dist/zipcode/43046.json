@@ -1,0 +1,20 @@
+{
+    "zip": 43046,
+    "lat": 39.89917,
+    "lng": -82.53844,
+    "city": "Millersport",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3128.0,
+    "density": 45.3,
+    "county_fips": 39045,
+    "county_name": "Fairfield",
+    "county_weights": "{\"39045\": 88.57, \"39089\": 11.43}",
+    "county_names_all": "Fairfield|Licking",
+    "county_fips_all": "39045|39089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

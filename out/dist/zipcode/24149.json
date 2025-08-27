@@ -1,0 +1,20 @@
+{
+    "zip": 24149,
+    "lat": 37.02277,
+    "lng": -80.43424,
+    "city": "Riner",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3935.0,
+    "density": 27.6,
+    "county_fips": 51121,
+    "county_name": "Montgomery",
+    "county_weights": "{\"51121\": 66.11, \"51063\": 33.89}",
+    "county_names_all": "Montgomery|Floyd",
+    "county_fips_all": "51121|51063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

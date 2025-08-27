@@ -1,0 +1,20 @@
+{
+    "zip": 56136,
+    "lat": 44.50187,
+    "lng": -96.41645,
+    "city": "Hendricks",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1231.0,
+    "density": 4.2,
+    "county_fips": 27081,
+    "county_name": "Lincoln",
+    "county_weights": "{\"27081\": 77.68, \"46011\": 22.32}",
+    "county_names_all": "Lincoln|Brookings",
+    "county_fips_all": "27081|46011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

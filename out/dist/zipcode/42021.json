@@ -1,0 +1,20 @@
+{
+    "zip": 42021,
+    "lat": 36.80129,
+    "lng": -88.9957,
+    "city": "Arlington",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1190.0,
+    "density": 8.1,
+    "county_fips": 21039,
+    "county_name": "Carlisle",
+    "county_weights": "{\"21039\": 90.26, \"21105\": 9.74}",
+    "county_names_all": "Carlisle|Hickman",
+    "county_fips_all": "21039|21105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

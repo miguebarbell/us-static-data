@@ -1,0 +1,20 @@
+{
+    "zip": 6076,
+    "lat": 41.98906,
+    "lng": -72.26224,
+    "city": "Stafford Springs",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11989.0,
+    "density": 53.5,
+    "county_fips": 9110,
+    "county_name": "Capitol",
+    "county_weights": "{\"09110\": 67.06, \"09150\": 32.94}",
+    "county_names_all": "Capitol|Northeastern Connecticut",
+    "county_fips_all": "09110|09150",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

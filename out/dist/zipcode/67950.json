@@ -1,0 +1,20 @@
+{
+    "zip": 67950,
+    "lat": 37.06277,
+    "lng": -101.86765,
+    "city": "Elkhart",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1786.0,
+    "density": 3.8,
+    "county_fips": 20129,
+    "county_name": "Morton",
+    "county_weights": "{\"20129\": 100}",
+    "county_names_all": "Morton",
+    "county_fips_all": "20129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 74026,
+    "lat": 35.72266,
+    "lng": -96.78282,
+    "city": "Davenport",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 888.0,
+    "density": 36.1,
+    "county_fips": 40081,
+    "county_name": "Lincoln",
+    "county_weights": "{\"40081\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "40081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

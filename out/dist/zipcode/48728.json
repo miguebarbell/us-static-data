@@ -1,0 +1,20 @@
+{
+    "zip": 48728,
+    "lat": 44.74659,
+    "lng": -83.82344,
+    "city": "Curran",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 329.0,
+    "density": 1.0,
+    "county_fips": 26001,
+    "county_name": "Alcona",
+    "county_weights": "{\"26001\": 87.7, \"26135\": 12.3}",
+    "county_names_all": "Alcona|Oscoda",
+    "county_fips_all": "26001|26135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

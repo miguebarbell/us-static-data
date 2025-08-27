@@ -1,0 +1,20 @@
+{
+    "zip": 29940,
+    "lat": 32.5524,
+    "lng": -80.67511,
+    "city": "Seabrook",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3594.0,
+    "density": 18.8,
+    "county_fips": 45013,
+    "county_name": "Beaufort",
+    "county_weights": "{\"45013\": 100}",
+    "county_names_all": "Beaufort",
+    "county_fips_all": "45013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

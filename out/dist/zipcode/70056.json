@@ -1,0 +1,20 @@
+{
+    "zip": 70056,
+    "lat": 29.88848,
+    "lng": -90.03028,
+    "city": "Gretna",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42471.0,
+    "density": 2424.2,
+    "county_fips": 22051,
+    "county_name": "Jefferson",
+    "county_weights": "{\"22051\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "22051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

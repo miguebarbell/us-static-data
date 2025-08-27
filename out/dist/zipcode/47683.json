@@ -1,0 +1,20 @@
+{
+    "zip": 47683,
+    "lat": 38.27696,
+    "lng": -87.37744,
+    "city": "Somerville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 49.0,
+    "density": 263.2,
+    "county_fips": 18051,
+    "county_name": "Gibson",
+    "county_weights": "{\"18051\": 100}",
+    "county_names_all": "Gibson",
+    "county_fips_all": "18051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

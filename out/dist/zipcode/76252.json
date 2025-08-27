@@ -1,0 +1,20 @@
+{
+    "zip": 76252,
+    "lat": 33.67788,
+    "lng": -97.38695,
+    "city": "Muenster",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2836.0,
+    "density": 5.8,
+    "county_fips": 48097,
+    "county_name": "Cooke",
+    "county_weights": "{\"48097\": 97.82, \"48337\": 2.18}",
+    "county_names_all": "Cooke|Montague",
+    "county_fips_all": "48097|48337",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 79258,
+    "lat": 34.24344,
+    "lng": -101.29647,
+    "city": "South Plains",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8.0,
+    "density": 0.2,
+    "county_fips": 48153,
+    "county_name": "Floyd",
+    "county_weights": "{\"48153\": 100}",
+    "county_names_all": "Floyd",
+    "county_fips_all": "48153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

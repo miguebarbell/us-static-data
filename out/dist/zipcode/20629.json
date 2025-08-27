@@ -1,0 +1,20 @@
+{
+    "zip": 20629,
+    "lat": 38.33996,
+    "lng": -76.45388,
+    "city": "Dowell",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1067.0,
+    "density": 491.1,
+    "county_fips": 24009,
+    "county_name": "Calvert",
+    "county_weights": "{\"24009\": 100}",
+    "county_names_all": "Calvert",
+    "county_fips_all": "24009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 55337,
+    "lat": 44.77673,
+    "lng": -93.27491,
+    "city": "Burnsville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 48104.0,
+    "density": 992.3,
+    "county_fips": 27037,
+    "county_name": "Dakota",
+    "county_weights": "{\"27037\": 100}",
+    "county_names_all": "Dakota",
+    "county_fips_all": "27037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

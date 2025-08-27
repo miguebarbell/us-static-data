@@ -1,0 +1,20 @@
+{
+    "zip": 27317,
+    "lat": 35.83809,
+    "lng": -79.80376,
+    "city": "Randleman",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17769.0,
+    "density": 126.8,
+    "county_fips": 37151,
+    "county_name": "Randolph",
+    "county_weights": "{\"37151\": 95.15, \"37081\": 4.85}",
+    "county_names_all": "Randolph|Guilford",
+    "county_fips_all": "37151|37081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 74955,
+    "lat": 35.50213,
+    "lng": -94.75547,
+    "city": "Sallisaw",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14299.0,
+    "density": 26.1,
+    "county_fips": 40135,
+    "county_name": "Sequoyah",
+    "county_weights": "{\"40135\": 100}",
+    "county_names_all": "Sequoyah",
+    "county_fips_all": "40135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

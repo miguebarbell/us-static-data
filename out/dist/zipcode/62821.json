@@ -1,0 +1,20 @@
+{
+    "zip": 62821,
+    "lat": 38.07301,
+    "lng": -88.13357,
+    "city": "Carmi",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6896.0,
+    "density": 15.6,
+    "county_fips": 17193,
+    "county_name": "White",
+    "county_weights": "{\"17193\": 100}",
+    "county_names_all": "White",
+    "county_fips_all": "17193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

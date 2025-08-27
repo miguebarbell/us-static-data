@@ -1,0 +1,20 @@
+{
+    "zip": 60012,
+    "lat": 42.27199,
+    "lng": -88.31157,
+    "city": "Crystal Lake",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11929.0,
+    "density": 266.2,
+    "county_fips": 17111,
+    "county_name": "McHenry",
+    "county_weights": "{\"17111\": 100}",
+    "county_names_all": "McHenry",
+    "county_fips_all": "17111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

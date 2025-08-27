@@ -1,0 +1,20 @@
+{
+    "zip": 39827,
+    "lat": 30.94911,
+    "lng": -84.21674,
+    "city": "Cairo",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4752.0,
+    "density": 26.3,
+    "county_fips": 13131,
+    "county_name": "Grady",
+    "county_weights": "{\"13131\": 100}",
+    "county_names_all": "Grady",
+    "county_fips_all": "13131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

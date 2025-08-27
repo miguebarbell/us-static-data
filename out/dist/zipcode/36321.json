@@ -1,0 +1,20 @@
+{
+    "zip": 36321,
+    "lat": 31.20558,
+    "lng": -85.30093,
+    "city": "Cowarts",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2159.0,
+    "density": 132.0,
+    "county_fips": 1069,
+    "county_name": "Houston",
+    "county_weights": "{\"01069\": 100}",
+    "county_names_all": "Houston",
+    "county_fips_all": "01069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

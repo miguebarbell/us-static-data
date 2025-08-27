@@ -1,0 +1,20 @@
+{
+    "zip": 32321,
+    "lat": 30.26196,
+    "lng": -84.9891,
+    "city": "Bristol",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5792.0,
+    "density": 6.0,
+    "county_fips": 12077,
+    "county_name": "Liberty",
+    "county_weights": "{\"12077\": 97.72, \"12037\": 2.28}",
+    "county_names_all": "Liberty|Franklin",
+    "county_fips_all": "12077|12037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

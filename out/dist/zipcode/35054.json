@@ -1,0 +1,20 @@
+{
+    "zip": 35054,
+    "lat": 33.50417,
+    "lng": -86.32693,
+    "city": "Cropwell",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4954.0,
+    "density": 84.7,
+    "county_fips": 1115,
+    "county_name": "St. Clair",
+    "county_weights": "{\"01115\": 100}",
+    "county_names_all": "St. Clair",
+    "county_fips_all": "01115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 42351,
+    "lat": 37.9026,
+    "lng": -86.87903,
+    "city": "Lewisport",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4580.0,
+    "density": 25.0,
+    "county_fips": 21091,
+    "county_name": "Hancock",
+    "county_weights": "{\"21091\": 76.23, \"21059\": 23.77}",
+    "county_names_all": "Hancock|Daviess",
+    "county_fips_all": "21091|21059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

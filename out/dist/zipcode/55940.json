@@ -1,0 +1,20 @@
+{
+    "zip": 55940,
+    "lat": 43.89417,
+    "lng": -92.80775,
+    "city": "Hayfield",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2810.0,
+    "density": 11.7,
+    "county_fips": 27039,
+    "county_name": "Dodge",
+    "county_weights": "{\"27039\": 90.08, \"27109\": 8.63, \"27099\": 1.29}",
+    "county_names_all": "Dodge|Olmsted|Mower",
+    "county_fips_all": "27039|27109|27099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

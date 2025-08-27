@@ -1,0 +1,20 @@
+{
+    "zip": 23690,
+    "lat": 37.21829,
+    "lng": -76.52371,
+    "city": "Yorktown",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4948.0,
+    "density": 166.6,
+    "county_fips": 51199,
+    "county_name": "York",
+    "county_weights": "{\"51199\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "51199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

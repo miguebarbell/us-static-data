@@ -1,0 +1,20 @@
+{
+    "zip": 28650,
+    "lat": 35.57347,
+    "lng": -81.15668,
+    "city": "Maiden",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13082.0,
+    "density": 103.9,
+    "county_fips": 37035,
+    "county_name": "Catawba",
+    "county_weights": "{\"37035\": 81.76, \"37109\": 18.24}",
+    "county_names_all": "Catawba|Lincoln",
+    "county_fips_all": "37035|37109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

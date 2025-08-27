@@ -1,0 +1,20 @@
+{
+    "zip": 69025,
+    "lat": 40.61957,
+    "lng": -100.50814,
+    "city": "Curtis",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1011.0,
+    "density": 1.6,
+    "county_fips": 31063,
+    "county_name": "Frontier",
+    "county_weights": "{\"31063\": 74.41, \"31111\": 25.59}",
+    "county_names_all": "Frontier|Lincoln",
+    "county_fips_all": "31063|31111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 28052,
+    "lat": 35.22492,
+    "lng": -81.23266,
+    "city": "Gastonia",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36896.0,
+    "density": 344.0,
+    "county_fips": 37071,
+    "county_name": "Gaston",
+    "county_weights": "{\"37071\": 100}",
+    "county_names_all": "Gaston",
+    "county_fips_all": "37071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

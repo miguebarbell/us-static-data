@@ -1,0 +1,20 @@
+{
+    "zip": 37150,
+    "lat": 36.54437,
+    "lng": -85.81082,
+    "city": "Red Boiling Springs",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4363.0,
+    "density": 16.3,
+    "county_fips": 47111,
+    "county_name": "Macon",
+    "county_weights": "{\"47111\": 54.17, \"47027\": 40.53, \"47087\": 5.3}",
+    "county_names_all": "Macon|Clay|Jackson",
+    "county_fips_all": "47111|47027|47087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

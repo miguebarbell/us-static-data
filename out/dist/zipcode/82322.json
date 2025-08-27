@@ -1,0 +1,20 @@
+{
+    "zip": 82322,
+    "lat": 42.24643,
+    "lng": -107.54816,
+    "city": "Bairoil",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 158.0,
+    "density": 11.6,
+    "county_fips": 56037,
+    "county_name": "Sweetwater",
+    "county_weights": "{\"56037\": 99.79, \"56013\": 0.21}",
+    "county_names_all": "Sweetwater|Fremont",
+    "county_fips_all": "56037|56013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

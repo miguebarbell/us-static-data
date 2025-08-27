@@ -1,0 +1,20 @@
+{
+    "zip": 54540,
+    "lat": 46.15505,
+    "lng": -89.38216,
+    "city": "Land O'Lakes",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 985.0,
+    "density": 4.8,
+    "county_fips": 55125,
+    "county_name": "Vilas",
+    "county_weights": "{\"55125\": 99.35, \"26053\": 0.65}",
+    "county_names_all": "Vilas|Gogebic",
+    "county_fips_all": "55125|26053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

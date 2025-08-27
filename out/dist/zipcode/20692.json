@@ -1,0 +1,20 @@
+{
+    "zip": 20692,
+    "lat": 38.18352,
+    "lng": -76.50682,
+    "city": "Valley Lee",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 438.0,
+    "density": 23.5,
+    "county_fips": 24037,
+    "county_name": "St. Mary's",
+    "county_weights": "{\"24037\": 100}",
+    "county_names_all": "St. Mary's",
+    "county_fips_all": "24037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

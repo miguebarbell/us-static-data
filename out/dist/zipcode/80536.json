@@ -1,0 +1,20 @@
+{
+    "zip": 80536,
+    "lat": 40.87458,
+    "lng": -105.38842,
+    "city": "Livermore",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2358.0,
+    "density": 2.5,
+    "county_fips": 8069,
+    "county_name": "Larimer",
+    "county_weights": "{\"08069\": 100}",
+    "county_names_all": "Larimer",
+    "county_fips_all": "08069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

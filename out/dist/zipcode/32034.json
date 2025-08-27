@@ -1,0 +1,20 @@
+{
+    "zip": 32034,
+    "lat": 30.624,
+    "lng": -81.49392,
+    "city": "Fernandina Beach",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39280.0,
+    "density": 233.4,
+    "county_fips": 12089,
+    "county_name": "Nassau",
+    "county_weights": "{\"12089\": 100}",
+    "county_names_all": "Nassau",
+    "county_fips_all": "12089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

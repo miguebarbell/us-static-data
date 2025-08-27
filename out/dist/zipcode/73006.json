@@ -1,0 +1,20 @@
+{
+    "zip": 73006,
+    "lat": 34.90587,
+    "lng": -98.40583,
+    "city": "Apache",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2463.0,
+    "density": 5.4,
+    "county_fips": 40015,
+    "county_name": "Caddo",
+    "county_weights": "{\"40015\": 80.36, \"40031\": 19.64}",
+    "county_names_all": "Caddo|Comanche",
+    "county_fips_all": "40015|40031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

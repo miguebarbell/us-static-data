@@ -1,0 +1,20 @@
+{
+    "zip": 73460,
+    "lat": 34.28789,
+    "lng": -96.66689,
+    "city": "Tishomingo",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4355.0,
+    "density": 11.0,
+    "county_fips": 40069,
+    "county_name": "Johnston",
+    "county_weights": "{\"40069\": 100}",
+    "county_names_all": "Johnston",
+    "county_fips_all": "40069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

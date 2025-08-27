@@ -1,0 +1,20 @@
+{
+    "zip": 75754,
+    "lat": 32.42431,
+    "lng": -95.66462,
+    "city": "Ben Wheeler",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7297.0,
+    "density": 22.4,
+    "county_fips": 48467,
+    "county_name": "Van Zandt",
+    "county_weights": "{\"48467\": 100}",
+    "county_names_all": "Van Zandt",
+    "county_fips_all": "48467",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

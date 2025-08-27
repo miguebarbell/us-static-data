@@ -1,0 +1,20 @@
+{
+    "zip": 35761,
+    "lat": 34.914,
+    "lng": -86.41001,
+    "city": "New Market",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14124.0,
+    "density": 46.8,
+    "county_fips": 1089,
+    "county_name": "Madison",
+    "county_weights": "{\"01089\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "01089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

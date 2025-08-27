@@ -1,0 +1,20 @@
+{
+    "zip": 42276,
+    "lat": 36.86093,
+    "lng": -86.87727,
+    "city": "Russellville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16042.0,
+    "density": 30.2,
+    "county_fips": 21141,
+    "county_name": "Logan",
+    "county_weights": "{\"21141\": 99.86, \"21031\": 0.14}",
+    "county_names_all": "Logan|Butler",
+    "county_fips_all": "21141|21031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

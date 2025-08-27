@@ -1,0 +1,20 @@
+{
+    "zip": 68442,
+    "lat": 40.239,
+    "lng": -95.7729,
+    "city": "Stella",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 232.0,
+    "density": 2.5,
+    "county_fips": 31147,
+    "county_name": "Richardson",
+    "county_weights": "{\"31147\": 80.09, \"31127\": 19.91}",
+    "county_names_all": "Richardson|Nemaha",
+    "county_fips_all": "31147|31127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

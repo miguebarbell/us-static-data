@@ -1,0 +1,20 @@
+{
+    "zip": 49808,
+    "lat": 46.8109,
+    "lng": -87.8764,
+    "city": "Big Bay",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 237.0,
+    "density": 0.5,
+    "county_fips": 26103,
+    "county_name": "Marquette",
+    "county_weights": "{\"26103\": 100}",
+    "county_names_all": "Marquette",
+    "county_fips_all": "26103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

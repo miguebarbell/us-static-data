@@ -1,0 +1,20 @@
+{
+    "zip": 83629,
+    "lat": 43.91115,
+    "lng": -116.16947,
+    "city": "Horseshoe Bend",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1829.0,
+    "density": 3.6,
+    "county_fips": 16015,
+    "county_name": "Boise",
+    "county_weights": "{\"16015\": 95.23, \"16045\": 4.67, \"16001\": 0.1}",
+    "county_names_all": "Boise|Gem|Ada",
+    "county_fips_all": "16015|16045|16001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

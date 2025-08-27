@@ -1,0 +1,20 @@
+{
+    "zip": 65201,
+    "lat": 38.89595,
+    "lng": -92.24365,
+    "city": "Columbia",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 49811.0,
+    "density": 220.2,
+    "county_fips": 29019,
+    "county_name": "Boone",
+    "county_weights": "{\"29019\": 98.09, \"29027\": 1.91}",
+    "county_names_all": "Boone|Callaway",
+    "county_fips_all": "29019|29027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

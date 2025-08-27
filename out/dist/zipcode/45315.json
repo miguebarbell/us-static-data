@@ -1,0 +1,20 @@
+{
+    "zip": 45315,
+    "lat": 39.85772,
+    "lng": -84.33875,
+    "city": "Clayton",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4804.0,
+    "density": 170.5,
+    "county_fips": 39113,
+    "county_name": "Montgomery",
+    "county_weights": "{\"39113\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "39113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

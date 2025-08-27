@@ -1,0 +1,20 @@
+{
+    "zip": 56214,
+    "lat": 44.60804,
+    "lng": -95.32943,
+    "city": "Belview",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 714.0,
+    "density": 4.4,
+    "county_fips": 27127,
+    "county_name": "Redwood",
+    "county_weights": "{\"27127\": 84.52, \"27173\": 15.48}",
+    "county_names_all": "Redwood|Yellow Medicine",
+    "county_fips_all": "27127|27173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

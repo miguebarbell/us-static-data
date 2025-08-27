@@ -1,0 +1,20 @@
+{
+    "zip": 17265,
+    "lat": 40.03846,
+    "lng": -77.77297,
+    "city": "Upperstrasburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 307.0,
+    "density": 3.9,
+    "county_fips": 42055,
+    "county_name": "Franklin",
+    "county_weights": "{\"42055\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "42055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

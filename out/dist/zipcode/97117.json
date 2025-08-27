@@ -1,0 +1,20 @@
+{
+    "zip": 97117,
+    "lat": 45.62189,
+    "lng": -123.31132,
+    "city": "Gales Creek",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 787.0,
+    "density": 7.7,
+    "county_fips": 41067,
+    "county_name": "Washington",
+    "county_weights": "{\"41067\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "41067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

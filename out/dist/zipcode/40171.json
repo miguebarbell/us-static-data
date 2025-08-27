@@ -1,0 +1,20 @@
+{
+    "zip": 40171,
+    "lat": 37.96435,
+    "lng": -86.43577,
+    "city": "Union Star",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 195.0,
+    "density": 3.7,
+    "county_fips": 21027,
+    "county_name": "Breckinridge",
+    "county_weights": "{\"21027\": 99.69, \"21163\": 0.31}",
+    "county_names_all": "Breckinridge|Meade",
+    "county_fips_all": "21027|21163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

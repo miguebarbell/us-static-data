@@ -1,0 +1,20 @@
+{
+    "zip": 23851,
+    "lat": 36.6521,
+    "lng": -76.95776,
+    "city": "Franklin",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13481.0,
+    "density": 47.9,
+    "county_fips": 51175,
+    "county_name": "Southampton",
+    "county_weights": "{\"51175\": 78.43, \"51093\": 14.02, \"51620\": 7.55}",
+    "county_names_all": "Southampton|Isle of Wight|Franklin",
+    "county_fips_all": "51175|51093|51620",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

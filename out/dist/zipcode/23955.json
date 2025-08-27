@@ -1,0 +1,20 @@
+{
+    "zip": 23955,
+    "lat": 37.10816,
+    "lng": -78.06556,
+    "city": "Nottoway",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18.0,
+    "density": 5.9,
+    "county_fips": 51135,
+    "county_name": "Nottoway",
+    "county_weights": "{\"51135\": 100}",
+    "county_names_all": "Nottoway",
+    "county_fips_all": "51135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 47165,
+    "lat": 38.50152,
+    "lng": -86.00508,
+    "city": "Pekin",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6599.0,
+    "density": 32.3,
+    "county_fips": 18175,
+    "county_name": "Washington",
+    "county_weights": "{\"18175\": 95.96, \"18043\": 2.62, \"18019\": 1.42}",
+    "county_names_all": "Washington|Floyd|Clark",
+    "county_fips_all": "18175|18043|18019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

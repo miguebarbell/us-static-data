@@ -1,0 +1,20 @@
+{
+    "zip": 45331,
+    "lat": 40.09729,
+    "lng": -84.64616,
+    "city": "Greenville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22298.0,
+    "density": 56.9,
+    "county_fips": 39037,
+    "county_name": "Darke",
+    "county_weights": "{\"39037\": 100}",
+    "county_names_all": "Darke",
+    "county_fips_all": "39037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

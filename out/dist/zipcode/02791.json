@@ -1,0 +1,20 @@
+{
+    "zip": 2791,
+    "lat": 41.52262,
+    "lng": -71.08266,
+    "city": "Westport Point",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 316.0,
+    "density": 93.7,
+    "county_fips": 25005,
+    "county_name": "Bristol",
+    "county_weights": "{\"25005\": 100}",
+    "county_names_all": "Bristol",
+    "county_fips_all": "25005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

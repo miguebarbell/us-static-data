@@ -1,0 +1,20 @@
+{
+    "zip": 48023,
+    "lat": 42.70102,
+    "lng": -82.6593,
+    "city": "Fair Haven",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4980.0,
+    "density": 112.8,
+    "county_fips": 26147,
+    "county_name": "St. Clair",
+    "county_weights": "{\"26147\": 100}",
+    "county_names_all": "St. Clair",
+    "county_fips_all": "26147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

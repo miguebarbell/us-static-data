@@ -1,0 +1,20 @@
+{
+    "zip": 54601,
+    "lat": 43.80199,
+    "lng": -91.14559,
+    "city": "La Crosse",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 50474.0,
+    "density": 258.3,
+    "county_fips": 55063,
+    "county_name": "La Crosse",
+    "county_weights": "{\"55063\": 100}",
+    "county_names_all": "La Crosse",
+    "county_fips_all": "55063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

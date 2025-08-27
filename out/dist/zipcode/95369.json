@@ -1,0 +1,20 @@
+{
+    "zip": 95369,
+    "lat": 37.52435,
+    "lng": -120.41301,
+    "city": "Snelling",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 802.0,
+    "density": 2.0,
+    "county_fips": 6047,
+    "county_name": "Merced",
+    "county_weights": "{\"06047\": 85.76, \"06043\": 14.24}",
+    "county_names_all": "Merced|Mariposa",
+    "county_fips_all": "06047|06043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

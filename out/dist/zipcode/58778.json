@@ -1,0 +1,20 @@
+{
+    "zip": 58778,
+    "lat": 47.78307,
+    "lng": -100.91268,
+    "city": "Ruso",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 143.0,
+    "density": 0.4,
+    "county_fips": 38055,
+    "county_name": "McLean",
+    "county_weights": "{\"38055\": 92.19, \"38049\": 7.81}",
+    "county_names_all": "McLean|McHenry",
+    "county_fips_all": "38055|38049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

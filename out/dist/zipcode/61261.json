@@ -1,0 +1,20 @@
+{
+    "zip": 61261,
+    "lat": 41.72928,
+    "lng": -89.91166,
+    "city": "Lyndon",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 691.0,
+    "density": 16.1,
+    "county_fips": 17195,
+    "county_name": "Whiteside",
+    "county_weights": "{\"17195\": 100}",
+    "county_names_all": "Whiteside",
+    "county_fips_all": "17195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

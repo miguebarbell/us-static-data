@@ -1,0 +1,20 @@
+{
+    "zip": 68873,
+    "lat": 41.24696,
+    "lng": -98.45149,
+    "city": "Saint Paul",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3710.0,
+    "density": 8.4,
+    "county_fips": 31093,
+    "county_name": "Howard",
+    "county_weights": "{\"31093\": 100}",
+    "county_names_all": "Howard",
+    "county_fips_all": "31093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

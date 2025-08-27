@@ -1,0 +1,20 @@
+{
+    "zip": 58770,
+    "lat": 47.86531,
+    "lng": -102.16251,
+    "city": "Parshall",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1437.0,
+    "density": 2.1,
+    "county_fips": 38061,
+    "county_name": "Mountrail",
+    "county_weights": "{\"38061\": 55.27, \"38055\": 44.73}",
+    "county_names_all": "Mountrail|McLean",
+    "county_fips_all": "38061|38055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 98605,
+    "lat": 45.77846,
+    "lng": -121.6393,
+    "city": "Bingen",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1336.0,
+    "density": 12.9,
+    "county_fips": 53059,
+    "county_name": "Skamania",
+    "county_weights": "{\"53059\": 92.31, \"53039\": 7.69}",
+    "county_names_all": "Skamania|Klickitat",
+    "county_fips_all": "53059|53039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

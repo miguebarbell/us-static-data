@@ -1,0 +1,20 @@
+{
+    "zip": 50248,
+    "lat": 42.19256,
+    "lng": -93.61297,
+    "city": "Story City",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4300.0,
+    "density": 20.2,
+    "county_fips": 19169,
+    "county_name": "Story",
+    "county_weights": "{\"19169\": 53.97, \"19079\": 35.53, \"19015\": 10.5}",
+    "county_names_all": "Story|Hamilton|Boone",
+    "county_fips_all": "19169|19079|19015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

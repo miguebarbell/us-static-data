@@ -1,0 +1,20 @@
+{
+    "zip": 44084,
+    "lat": 41.67242,
+    "lng": -80.89605,
+    "city": "Rock Creek",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3965.0,
+    "density": 36.0,
+    "county_fips": 39007,
+    "county_name": "Ashtabula",
+    "county_weights": "{\"39007\": 100}",
+    "county_names_all": "Ashtabula",
+    "county_fips_all": "39007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

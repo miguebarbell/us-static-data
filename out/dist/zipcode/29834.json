@@ -1,0 +1,20 @@
+{
+    "zip": 29834,
+    "lat": 33.5178,
+    "lng": -81.84216,
+    "city": "Langley",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 519.0,
+    "density": 1286.6,
+    "county_fips": 45003,
+    "county_name": "Aiken",
+    "county_weights": "{\"45003\": 100}",
+    "county_names_all": "Aiken",
+    "county_fips_all": "45003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

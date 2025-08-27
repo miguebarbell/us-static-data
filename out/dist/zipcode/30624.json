@@ -1,0 +1,20 @@
+{
+    "zip": 30624,
+    "lat": 34.18097,
+    "lng": -83.03885,
+    "city": "Bowman",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4039.0,
+    "density": 34.1,
+    "county_fips": 13105,
+    "county_name": "Elbert",
+    "county_weights": "{\"13105\": 82.51, \"13147\": 10.75, \"13195\": 6.74}",
+    "county_names_all": "Elbert|Hart|Madison",
+    "county_fips_all": "13105|13147|13195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

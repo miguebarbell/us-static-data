@@ -1,0 +1,20 @@
+{
+    "zip": 59214,
+    "lat": 47.28325,
+    "lng": -106.02221,
+    "city": "Brockway",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35.0,
+    "density": 0.0,
+    "county_fips": 30055,
+    "county_name": "McCone",
+    "county_weights": "{\"30055\": 83.91, \"30079\": 11.03, \"30033\": 5.06}",
+    "county_names_all": "McCone|Prairie|Garfield",
+    "county_fips_all": "30055|30079|30033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

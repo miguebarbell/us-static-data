@@ -1,0 +1,20 @@
+{
+    "zip": 92028,
+    "lat": 33.38613,
+    "lng": -117.22658,
+    "city": "Fallbrook",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 50905.0,
+    "density": 168.4,
+    "county_fips": 6073,
+    "county_name": "San Diego",
+    "county_weights": "{\"06073\": 99.29, \"06065\": 0.71}",
+    "county_names_all": "San Diego|Riverside",
+    "county_fips_all": "06073|06065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

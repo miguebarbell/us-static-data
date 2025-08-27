@@ -1,0 +1,20 @@
+{
+    "zip": 96091,
+    "lat": 41.04567,
+    "lng": -122.78053,
+    "city": "Trinity Center",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 761.0,
+    "density": 0.7,
+    "county_fips": 6105,
+    "county_name": "Trinity",
+    "county_weights": "{\"06105\": 100}",
+    "county_names_all": "Trinity",
+    "county_fips_all": "06105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

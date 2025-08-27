@@ -1,0 +1,20 @@
+{
+    "zip": 83627,
+    "lat": 42.91336,
+    "lng": -115.53238,
+    "city": "Hammett",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 426.0,
+    "density": 1.9,
+    "county_fips": 16073,
+    "county_name": "Owyhee",
+    "county_weights": "{\"16073\": 72.37, \"16039\": 27.63}",
+    "county_names_all": "Owyhee|Elmore",
+    "county_fips_all": "16073|16039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

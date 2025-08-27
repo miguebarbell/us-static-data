@@ -1,0 +1,20 @@
+{
+    "zip": 61233,
+    "lat": 41.29464,
+    "lng": -90.29129,
+    "city": "Andover",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 245.0,
+    "density": 131.4,
+    "county_fips": 17073,
+    "county_name": "Henry",
+    "county_weights": "{\"17073\": 100}",
+    "county_names_all": "Henry",
+    "county_fips_all": "17073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

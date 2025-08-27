@@ -1,0 +1,20 @@
+{
+    "zip": 12033,
+    "lat": 42.53665,
+    "lng": -73.70558,
+    "city": "Castleton On Hudson",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7772.0,
+    "density": 105.3,
+    "county_fips": 36083,
+    "county_name": "Rensselaer",
+    "county_weights": "{\"36083\": 100}",
+    "county_names_all": "Rensselaer",
+    "county_fips_all": "36083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

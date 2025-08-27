@@ -1,0 +1,20 @@
+{
+    "zip": 43917,
+    "lat": 40.22396,
+    "lng": -80.80546,
+    "city": "Dillonvale",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2647.0,
+    "density": 31.6,
+    "county_fips": 39081,
+    "county_name": "Jefferson",
+    "county_weights": "{\"39081\": 91.31, \"39013\": 8.69}",
+    "county_names_all": "Jefferson|Belmont",
+    "county_fips_all": "39081|39013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

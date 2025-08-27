@@ -1,0 +1,20 @@
+{
+    "zip": 37765,
+    "lat": 36.57219,
+    "lng": -83.06534,
+    "city": "Kyles Ford",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 537.0,
+    "density": 10.6,
+    "county_fips": 47067,
+    "county_name": "Hancock",
+    "county_weights": "{\"47067\": 100}",
+    "county_names_all": "Hancock",
+    "county_fips_all": "47067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

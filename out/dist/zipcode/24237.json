@@ -1,0 +1,20 @@
+{
+    "zip": 24237,
+    "lat": 37.03939,
+    "lng": -82.26424,
+    "city": "Dante",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1064.0,
+    "density": 7.6,
+    "county_fips": 51051,
+    "county_name": "Dickenson",
+    "county_weights": "{\"51051\": 76.47, \"51167\": 23.53}",
+    "county_names_all": "Dickenson|Russell",
+    "county_fips_all": "51051|51167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 13083,
+    "lat": 43.64853,
+    "lng": -75.98091,
+    "city": "Lacona",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1861.0,
+    "density": 12.1,
+    "county_fips": 36075,
+    "county_name": "Oswego",
+    "county_weights": "{\"36075\": 98.5, \"36045\": 1.5}",
+    "county_names_all": "Oswego|Jefferson",
+    "county_fips_all": "36075|36045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

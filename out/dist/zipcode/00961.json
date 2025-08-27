@@ -1,0 +1,20 @@
+{
+    "zip": 961,
+    "lat": 18.40987,
+    "lng": -66.16415,
+    "city": "Bayamon",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28891.0,
+    "density": 2091.6,
+    "county_fips": 72021,
+    "county_name": "Bayam\u00f3n",
+    "county_weights": "{\"72021\": 99.0, \"72033\": 1.0}",
+    "county_names_all": "Bayam\u00f3n|Cata\u00f1o",
+    "county_fips_all": "72021|72033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

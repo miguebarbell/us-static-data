@@ -1,0 +1,20 @@
+{
+    "zip": 66509,
+    "lat": 39.33239,
+    "lng": -95.78097,
+    "city": "Mayetta",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2426.0,
+    "density": 7.4,
+    "county_fips": 20085,
+    "county_name": "Jackson",
+    "county_weights": "{\"20085\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "20085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

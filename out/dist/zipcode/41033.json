@@ -1,0 +1,20 @@
+{
+    "zip": 41033,
+    "lat": 38.77131,
+    "lng": -84.46114,
+    "city": "De Mossville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2252.0,
+    "density": 21.3,
+    "county_fips": 21191,
+    "county_name": "Pendleton",
+    "county_weights": "{\"21191\": 82.61, \"21117\": 17.39}",
+    "county_names_all": "Pendleton|Kenton",
+    "county_fips_all": "21191|21117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

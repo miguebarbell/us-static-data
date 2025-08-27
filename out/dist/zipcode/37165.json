@@ -1,0 +1,20 @@
+{
+    "zip": 37165,
+    "lat": 36.29005,
+    "lng": -87.46943,
+    "city": "Slayden",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21.0,
+    "density": 24.0,
+    "county_fips": 47043,
+    "county_name": "Dickson",
+    "county_weights": "{\"47043\": 100}",
+    "county_names_all": "Dickson",
+    "county_fips_all": "47043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

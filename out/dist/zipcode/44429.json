@@ -1,0 +1,20 @@
+{
+    "zip": 44429,
+    "lat": 41.09648,
+    "lng": -80.98156,
+    "city": "Lake Milton",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2361.0,
+    "density": 139.0,
+    "county_fips": 39099,
+    "county_name": "Mahoning",
+    "county_weights": "{\"39099\": 97.0, \"39133\": 3.0}",
+    "county_names_all": "Mahoning|Portage",
+    "county_fips_all": "39099|39133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

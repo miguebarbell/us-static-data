@@ -1,0 +1,20 @@
+{
+    "zip": 81632,
+    "lat": 39.62015,
+    "lng": -106.61132,
+    "city": "Edwards",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10527.0,
+    "density": 35.1,
+    "county_fips": 8037,
+    "county_name": "Eagle",
+    "county_weights": "{\"08037\": 100}",
+    "county_names_all": "Eagle",
+    "county_fips_all": "08037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

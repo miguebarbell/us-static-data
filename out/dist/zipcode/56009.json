@@ -1,0 +1,20 @@
+{
+    "zip": 56009,
+    "lat": 43.66125,
+    "lng": -93.55904,
+    "city": "Alden",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1539.0,
+    "density": 6.1,
+    "county_fips": 27047,
+    "county_name": "Freeborn",
+    "county_weights": "{\"27047\": 98.48, \"27043\": 1.52}",
+    "county_names_all": "Freeborn|Faribault",
+    "county_fips_all": "27047|27043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

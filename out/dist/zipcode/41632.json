@@ -1,0 +1,20 @@
+{
+    "zip": 41632,
+    "lat": 37.55029,
+    "lng": -82.94982,
+    "city": "Gunlock",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 516.0,
+    "density": 6.1,
+    "county_fips": 21153,
+    "county_name": "Magoffin",
+    "county_weights": "{\"21153\": 100}",
+    "county_names_all": "Magoffin",
+    "county_fips_all": "21153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

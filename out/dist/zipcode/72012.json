@@ -1,0 +1,20 @@
+{
+    "zip": 72012,
+    "lat": 35.10199,
+    "lng": -91.91789,
+    "city": "Beebe",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13663.0,
+    "density": 54.8,
+    "county_fips": 5145,
+    "county_name": "White",
+    "county_weights": "{\"05145\": 100}",
+    "county_names_all": "White",
+    "county_fips_all": "05145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

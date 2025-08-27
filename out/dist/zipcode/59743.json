@@ -1,0 +1,20 @@
+{
+    "zip": 59743,
+    "lat": 45.60068,
+    "lng": -112.74964,
+    "city": "Melrose",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 192.0,
+    "density": 0.4,
+    "county_fips": 30001,
+    "county_name": "Beaverhead",
+    "county_weights": "{\"30001\": 62.75, \"30057\": 27.89, \"30093\": 9.36}",
+    "county_names_all": "Beaverhead|Madison|Silver Bow",
+    "county_fips_all": "30001|30057|30093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72958,
+    "lat": 34.90173,
+    "lng": -94.14659,
+    "city": "Waldron",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6566.0,
+    "density": 7.7,
+    "county_fips": 5127,
+    "county_name": "Scott",
+    "county_weights": "{\"05127\": 100}",
+    "county_names_all": "Scott",
+    "county_fips_all": "05127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

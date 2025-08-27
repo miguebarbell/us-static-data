@@ -1,0 +1,20 @@
+{
+    "zip": 77363,
+    "lat": 30.3267,
+    "lng": -95.85732,
+    "city": "Plantersville",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3246.0,
+    "density": 21.3,
+    "county_fips": 48185,
+    "county_name": "Grimes",
+    "county_weights": "{\"48185\": 98.13, \"48473\": 1.87}",
+    "county_names_all": "Grimes|Waller",
+    "county_fips_all": "48185|48473",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

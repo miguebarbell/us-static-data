@@ -1,0 +1,20 @@
+{
+    "zip": 48654,
+    "lat": 44.45468,
+    "lng": -84.12627,
+    "city": "Rose City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2455.0,
+    "density": 9.6,
+    "county_fips": 26129,
+    "county_name": "Ogemaw",
+    "county_weights": "{\"26129\": 76.86, \"26135\": 23.14}",
+    "county_names_all": "Ogemaw|Oscoda",
+    "county_fips_all": "26129|26135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 68842,
+    "lat": 41.58068,
+    "lng": -98.53462,
+    "city": "Greeley",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 523.0,
+    "density": 1.1,
+    "county_fips": 31077,
+    "county_name": "Greeley",
+    "county_weights": "{\"31077\": 100}",
+    "county_names_all": "Greeley",
+    "county_fips_all": "31077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

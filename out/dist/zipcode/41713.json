@@ -1,0 +1,20 @@
+{
+    "zip": 41713,
+    "lat": 37.22703,
+    "lng": -83.27799,
+    "city": "Avawam",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 21193,
+    "county_name": "Perry",
+    "county_weights": "{\"21193\": 100}",
+    "county_names_all": "Perry",
+    "county_fips_all": "21193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

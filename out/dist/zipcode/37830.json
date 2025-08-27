@@ -1,0 +1,20 @@
+{
+    "zip": 37830,
+    "lat": 35.96431,
+    "lng": -84.29221,
+    "city": "Oak Ridge",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32519.0,
+    "density": 148.0,
+    "county_fips": 47001,
+    "county_name": "Anderson",
+    "county_weights": "{\"47001\": 52.24, \"47145\": 47.23, \"47093\": 0.53}",
+    "county_names_all": "Anderson|Roane|Knox",
+    "county_fips_all": "47001|47145|47093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

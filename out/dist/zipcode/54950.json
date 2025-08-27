@@ -1,0 +1,20 @@
+{
+    "zip": 54950,
+    "lat": 44.65408,
+    "lng": -88.90614,
+    "city": "Marion",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2756.0,
+    "density": 13.0,
+    "county_fips": 55135,
+    "county_name": "Waupaca",
+    "county_weights": "{\"55135\": 67.7, \"55115\": 32.3}",
+    "county_names_all": "Waupaca|Shawano",
+    "county_fips_all": "55135|55115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 56425,
+    "lat": 46.34162,
+    "lng": -94.28308,
+    "city": "Baxter",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8729.0,
+    "density": 184.6,
+    "county_fips": 27035,
+    "county_name": "Crow Wing",
+    "county_weights": "{\"27035\": 100}",
+    "county_names_all": "Crow Wing",
+    "county_fips_all": "27035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

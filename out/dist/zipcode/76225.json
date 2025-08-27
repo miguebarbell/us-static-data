@@ -1,0 +1,20 @@
+{
+    "zip": 76225,
+    "lat": 33.36616,
+    "lng": -97.67345,
+    "city": "Alvord",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3311.0,
+    "density": 12.1,
+    "county_fips": 48497,
+    "county_name": "Wise",
+    "county_weights": "{\"48497\": 99.27, \"48337\": 0.73}",
+    "county_names_all": "Wise|Montague",
+    "county_fips_all": "48497|48337",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 96080,
+    "lat": 40.16386,
+    "lng": -122.39171,
+    "city": "Red Bluff",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31149.0,
+    "density": 18.6,
+    "county_fips": 6103,
+    "county_name": "Tehama",
+    "county_weights": "{\"06103\": 100}",
+    "county_names_all": "Tehama",
+    "county_fips_all": "06103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

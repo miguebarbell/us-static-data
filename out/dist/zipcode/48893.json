@@ -1,0 +1,20 @@
+{
+    "zip": 48893,
+    "lat": 43.68329,
+    "lng": -84.97805,
+    "city": "Weidman",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5660.0,
+    "density": 42.7,
+    "county_fips": 26073,
+    "county_name": "Isabella",
+    "county_weights": "{\"26073\": 100}",
+    "county_names_all": "Isabella",
+    "county_fips_all": "26073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

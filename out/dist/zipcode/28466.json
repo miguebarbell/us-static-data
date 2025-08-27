@@ -1,0 +1,20 @@
+{
+    "zip": 28466,
+    "lat": 34.73219,
+    "lng": -77.8954,
+    "city": "Wallace",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8746.0,
+    "density": 18.9,
+    "county_fips": 37061,
+    "county_name": "Duplin",
+    "county_weights": "{\"37061\": 63.07, \"37141\": 36.93}",
+    "county_names_all": "Duplin|Pender",
+    "county_fips_all": "37061|37141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 75117,
+    "lat": 32.71005,
+    "lng": -95.85268,
+    "city": "Edgewood",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5005.0,
+    "density": 39.1,
+    "county_fips": 48467,
+    "county_name": "Van Zandt",
+    "county_weights": "{\"48467\": 100}",
+    "county_names_all": "Van Zandt",
+    "county_fips_all": "48467",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

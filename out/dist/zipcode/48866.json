@@ -1,0 +1,20 @@
+{
+    "zip": 48866,
+    "lat": 42.99303,
+    "lng": -84.37219,
+    "city": "Ovid",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4375.0,
+    "density": 34.1,
+    "county_fips": 26037,
+    "county_name": "Clinton",
+    "county_weights": "{\"26037\": 55.38, \"26155\": 44.62}",
+    "county_names_all": "Clinton|Shiawassee",
+    "county_fips_all": "26037|26155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

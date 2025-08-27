@@ -1,0 +1,20 @@
+{
+    "zip": 43534,
+    "lat": 41.35446,
+    "lng": -83.92914,
+    "city": "McClure",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1501.0,
+    "density": 16.1,
+    "county_fips": 39069,
+    "county_name": "Henry",
+    "county_weights": "{\"39069\": 100}",
+    "county_names_all": "Henry",
+    "county_fips_all": "39069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

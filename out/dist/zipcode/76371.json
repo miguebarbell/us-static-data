@@ -1,0 +1,20 @@
+{
+    "zip": 76371,
+    "lat": 33.48668,
+    "lng": -99.65453,
+    "city": "Munday",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1801.0,
+    "density": 5.4,
+    "county_fips": 48275,
+    "county_name": "Knox",
+    "county_weights": "{\"48275\": 96.69, \"48207\": 3.31}",
+    "county_names_all": "Knox|Haskell",
+    "county_fips_all": "48275|48207",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

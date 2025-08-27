@@ -1,0 +1,20 @@
+{
+    "zip": 89448,
+    "lat": 39.00789,
+    "lng": -119.92412,
+    "city": "Zephyr Cove",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1961.0,
+    "density": 61.6,
+    "county_fips": 32005,
+    "county_name": "Douglas",
+    "county_weights": "{\"32005\": 100}",
+    "county_names_all": "Douglas",
+    "county_fips_all": "32005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

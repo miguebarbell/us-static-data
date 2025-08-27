@@ -1,0 +1,20 @@
+{
+    "zip": 60109,
+    "lat": 42.04448,
+    "lng": -88.56261,
+    "city": "Burlington",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 520.0,
+    "density": 36.2,
+    "county_fips": 17089,
+    "county_name": "Kane",
+    "county_weights": "{\"17089\": 100}",
+    "county_names_all": "Kane",
+    "county_fips_all": "17089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

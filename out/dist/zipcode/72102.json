@@ -1,0 +1,20 @@
+{
+    "zip": 72102,
+    "lat": 35.14556,
+    "lng": -91.83352,
+    "city": "McRae",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2508.0,
+    "density": 19.8,
+    "county_fips": 5145,
+    "county_name": "White",
+    "county_weights": "{\"05145\": 100}",
+    "county_names_all": "White",
+    "county_fips_all": "05145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

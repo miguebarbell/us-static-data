@@ -1,0 +1,20 @@
+{
+    "zip": 78102,
+    "lat": 28.4094,
+    "lng": -97.71733,
+    "city": "Beeville",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27000.0,
+    "density": 19.8,
+    "county_fips": 48025,
+    "county_name": "Bee",
+    "county_weights": "{\"48025\": 94.24, \"48297\": 5.76}",
+    "county_names_all": "Bee|Live Oak",
+    "county_fips_all": "48025|48297",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

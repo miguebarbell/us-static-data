@@ -1,0 +1,20 @@
+{
+    "zip": 52586,
+    "lat": 41.34573,
+    "lng": -92.46694,
+    "city": "Rose Hill",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 558.0,
+    "density": 4.6,
+    "county_fips": 19123,
+    "county_name": "Mahaska",
+    "county_weights": "{\"19123\": 96.86, \"19107\": 3.14}",
+    "county_names_all": "Mahaska|Keokuk",
+    "county_fips_all": "19123|19107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

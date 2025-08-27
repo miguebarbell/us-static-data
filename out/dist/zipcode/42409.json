@@ -1,0 +1,20 @@
+{
+    "zip": 42409,
+    "lat": 37.5436,
+    "lng": -87.69947,
+    "city": "Dixon",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2319.0,
+    "density": 11.0,
+    "county_fips": 21233,
+    "county_name": "Webster",
+    "county_weights": "{\"21233\": 100}",
+    "county_names_all": "Webster",
+    "county_fips_all": "21233",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 22553,
+    "lat": 38.26594,
+    "lng": -77.6397,
+    "city": "Spotsylvania",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16960.0,
+    "density": 150.3,
+    "county_fips": 51177,
+    "county_name": "Spotsylvania",
+    "county_weights": "{\"51177\": 100}",
+    "county_names_all": "Spotsylvania",
+    "county_fips_all": "51177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

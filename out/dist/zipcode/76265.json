@@ -1,0 +1,20 @@
+{
+    "zip": 76265,
+    "lat": 33.74079,
+    "lng": -97.53922,
+    "city": "Saint Jo",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1634.0,
+    "density": 3.6,
+    "county_fips": 48337,
+    "county_name": "Montague",
+    "county_weights": "{\"48337\": 83.76, \"48097\": 16.24}",
+    "county_names_all": "Montague|Cooke",
+    "county_fips_all": "48337|48097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

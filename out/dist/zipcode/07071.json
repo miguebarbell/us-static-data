@@ -1,0 +1,20 @@
+{
+    "zip": 7071,
+    "lat": 40.79646,
+    "lng": -74.1099,
+    "city": "Lyndhurst",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22343.0,
+    "density": 1881.7,
+    "county_fips": 34003,
+    "county_name": "Bergen",
+    "county_weights": "{\"34003\": 99.87, \"34013\": 0.13}",
+    "county_names_all": "Bergen|Essex",
+    "county_fips_all": "34003|34013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

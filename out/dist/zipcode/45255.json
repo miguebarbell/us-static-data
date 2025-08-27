@@ -1,0 +1,20 @@
+{
+    "zip": 45255,
+    "lat": 39.05862,
+    "lng": -84.32675,
+    "city": "Cincinnati",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22760.0,
+    "density": 678.8,
+    "county_fips": 39061,
+    "county_name": "Hamilton",
+    "county_weights": "{\"39061\": 68.5, \"39025\": 31.5}",
+    "county_names_all": "Hamilton|Clermont",
+    "county_fips_all": "39061|39025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

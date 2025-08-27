@@ -1,0 +1,20 @@
+{
+    "zip": 70630,
+    "lat": 30.02723,
+    "lng": -93.04966,
+    "city": "Bell City",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2027.0,
+    "density": 5.6,
+    "county_fips": 22023,
+    "county_name": "Cameron",
+    "county_weights": "{\"22023\": 59.28, \"22019\": 40.72}",
+    "county_names_all": "Cameron|Calcasieu",
+    "county_fips_all": "22023|22019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

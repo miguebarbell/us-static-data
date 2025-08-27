@@ -1,0 +1,20 @@
+{
+    "zip": 28304,
+    "lat": 35.02498,
+    "lng": -78.99072,
+    "city": "Fayetteville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36634.0,
+    "density": 813.2,
+    "county_fips": 37051,
+    "county_name": "Cumberland",
+    "county_weights": "{\"37051\": 97.53, \"37093\": 2.47}",
+    "county_names_all": "Cumberland|Hoke",
+    "county_fips_all": "37051|37093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

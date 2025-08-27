@@ -1,0 +1,20 @@
+{
+    "zip": 77867,
+    "lat": 30.74163,
+    "lng": -96.56992,
+    "city": "Mumford",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 181.0,
+    "density": 2.9,
+    "county_fips": 48395,
+    "county_name": "Robertson",
+    "county_weights": "{\"48395\": 100}",
+    "county_names_all": "Robertson",
+    "county_fips_all": "48395",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

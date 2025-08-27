@@ -1,0 +1,20 @@
+{
+    "zip": 24846,
+    "lat": 37.52611,
+    "lng": -81.89175,
+    "city": "Isaban",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 373.0,
+    "density": 14.9,
+    "county_fips": 54047,
+    "county_name": "McDowell",
+    "county_weights": "{\"54047\": 63.88, \"54059\": 36.12}",
+    "county_names_all": "McDowell|Mingo",
+    "county_fips_all": "54047|54059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

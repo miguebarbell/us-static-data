@@ -1,0 +1,20 @@
+{
+    "zip": 61039,
+    "lat": 42.20805,
+    "lng": -89.46931,
+    "city": "German Valley",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 812.0,
+    "density": 10.9,
+    "county_fips": 17177,
+    "county_name": "Stephenson",
+    "county_weights": "{\"17177\": 61.94, \"17141\": 38.06}",
+    "county_names_all": "Stephenson|Ogle",
+    "county_fips_all": "17177|17141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

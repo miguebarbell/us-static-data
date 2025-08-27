@@ -1,0 +1,20 @@
+{
+    "zip": 48463,
+    "lat": 43.16418,
+    "lng": -83.52202,
+    "city": "Otisville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4536.0,
+    "density": 52.5,
+    "county_fips": 26049,
+    "county_name": "Genesee",
+    "county_weights": "{\"26049\": 99.76, \"26087\": 0.24}",
+    "county_names_all": "Genesee|Lapeer",
+    "county_fips_all": "26049|26087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

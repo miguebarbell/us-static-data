@@ -1,0 +1,20 @@
+{
+    "zip": 25040,
+    "lat": 38.13673,
+    "lng": -81.24385,
+    "city": "Charlton Heights",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 583.0,
+    "density": 59.1,
+    "county_fips": 54019,
+    "county_name": "Fayette",
+    "county_weights": "{\"54019\": 100}",
+    "county_names_all": "Fayette",
+    "county_fips_all": "54019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

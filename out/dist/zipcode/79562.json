@@ -1,0 +1,20 @@
+{
+    "zip": 79562,
+    "lat": 32.24168,
+    "lng": -99.86766,
+    "city": "Tuscola",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4567.0,
+    "density": 15.4,
+    "county_fips": 48441,
+    "county_name": "Taylor",
+    "county_weights": "{\"48441\": 100}",
+    "county_names_all": "Taylor",
+    "county_fips_all": "48441",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

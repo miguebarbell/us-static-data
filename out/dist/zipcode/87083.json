@@ -1,0 +1,20 @@
+{
+    "zip": 87083,
+    "lat": 35.64496,
+    "lng": -106.36366,
+    "city": "Cochiti Lake",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 453.0,
+    "density": 16.1,
+    "county_fips": 35043,
+    "county_name": "Sandoval",
+    "county_weights": "{\"35043\": 100}",
+    "county_names_all": "Sandoval",
+    "county_fips_all": "35043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

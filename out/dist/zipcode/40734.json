@@ -1,0 +1,20 @@
+{
+    "zip": 40734,
+    "lat": 36.92642,
+    "lng": -83.96609,
+    "city": "Gray",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3633.0,
+    "density": 30.9,
+    "county_fips": 21121,
+    "county_name": "Knox",
+    "county_weights": "{\"21121\": 95.56, \"21125\": 4.44}",
+    "county_names_all": "Knox|Laurel",
+    "county_fips_all": "21121|21125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

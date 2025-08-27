@@ -1,0 +1,20 @@
+{
+    "zip": 31079,
+    "lat": 31.94104,
+    "lng": -83.46303,
+    "city": "Rochelle",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2731.0,
+    "density": 9.0,
+    "county_fips": 13315,
+    "county_name": "Wilcox",
+    "county_weights": "{\"13315\": 90.89, \"13017\": 9.11}",
+    "county_names_all": "Wilcox|Ben Hill",
+    "county_fips_all": "13315|13017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 89043,
+    "lat": 38.30434,
+    "lng": -114.39018,
+    "city": "Pioche",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1272.0,
+    "density": 0.3,
+    "county_fips": 32017,
+    "county_name": "Lincoln",
+    "county_weights": "{\"32017\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "32017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

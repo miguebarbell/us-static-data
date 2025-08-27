@@ -1,0 +1,20 @@
+{
+    "zip": 19733,
+    "lat": 39.55928,
+    "lng": -75.65143,
+    "city": "Saint Georges",
+    "state_id": "DE",
+    "state_name": "Delaware",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 182.0,
+    "density": 639.7,
+    "county_fips": 10003,
+    "county_name": "New Castle",
+    "county_weights": "{\"10003\": 100}",
+    "county_names_all": "New Castle",
+    "county_fips_all": "10003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

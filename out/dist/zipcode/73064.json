@@ -1,0 +1,20 @@
+{
+    "zip": 73064,
+    "lat": 35.37377,
+    "lng": -97.75275,
+    "city": "Mustang",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27620.0,
+    "density": 198.5,
+    "county_fips": 40017,
+    "county_name": "Canadian",
+    "county_weights": "{\"40017\": 100}",
+    "county_names_all": "Canadian",
+    "county_fips_all": "40017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 30125,
+    "lat": 34.00067,
+    "lng": -85.27331,
+    "city": "Cedartown",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24071.0,
+    "density": 51.0,
+    "county_fips": 13233,
+    "county_name": "Polk",
+    "county_weights": "{\"13233\": 97.27, \"13115\": 2.22, \"13143\": 0.51}",
+    "county_names_all": "Polk|Floyd|Haralson",
+    "county_fips_all": "13233|13115|13143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

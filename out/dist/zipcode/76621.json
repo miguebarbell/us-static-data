@@ -1,0 +1,20 @@
+{
+    "zip": 76621,
+    "lat": 31.87789,
+    "lng": -97.08891,
+    "city": "Abbott",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1033.0,
+    "density": 5.9,
+    "county_fips": 48217,
+    "county_name": "Hill",
+    "county_weights": "{\"48217\": 96.31, \"48309\": 3.69}",
+    "county_names_all": "Hill|McLennan",
+    "county_fips_all": "48217|48309",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 23358,
+    "lat": 37.64406,
+    "lng": -75.86495,
+    "city": "Hacksneck",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 279.0,
+    "density": 19.4,
+    "county_fips": 51001,
+    "county_name": "Accomack",
+    "county_weights": "{\"51001\": 100}",
+    "county_names_all": "Accomack",
+    "county_fips_all": "51001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

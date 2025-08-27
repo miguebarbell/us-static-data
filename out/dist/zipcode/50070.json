@@ -1,0 +1,20 @@
+{
+    "zip": 50070,
+    "lat": 41.45402,
+    "lng": -94.23745,
+    "city": "Dexter",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1366.0,
+    "density": 8.1,
+    "county_fips": 19121,
+    "county_name": "Madison",
+    "county_weights": "{\"19121\": 39.86, \"19001\": 28.23, \"19077\": 16.09, \"19049\": 15.81}",
+    "county_names_all": "Madison|Adair|Guthrie|Dallas",
+    "county_fips_all": "19121|19001|19077|19049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

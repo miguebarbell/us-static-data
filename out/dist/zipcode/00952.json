@@ -1,0 +1,20 @@
+{
+    "zip": 952,
+    "lat": 18.42874,
+    "lng": -66.18897,
+    "city": "Sabana Seca",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8488.0,
+    "density": 1478.1,
+    "county_fips": 72137,
+    "county_name": "Toa Baja",
+    "county_weights": "{\"72137\": 100}",
+    "county_names_all": "Toa Baja",
+    "county_fips_all": "72137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

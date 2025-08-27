@@ -1,0 +1,20 @@
+{
+    "zip": 98292,
+    "lat": 48.22455,
+    "lng": -122.3032,
+    "city": "Stanwood",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26713.0,
+    "density": 134.3,
+    "county_fips": 53061,
+    "county_name": "Snohomish",
+    "county_weights": "{\"53061\": 98.96, \"53057\": 1.04}",
+    "county_names_all": "Snohomish|Skagit",
+    "county_fips_all": "53061|53057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

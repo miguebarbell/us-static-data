@@ -1,0 +1,20 @@
+{
+    "zip": 36003,
+    "lat": 32.44651,
+    "lng": -86.72536,
+    "city": "Autaugaville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2555.0,
+    "density": 12.0,
+    "county_fips": 1001,
+    "county_name": "Autauga",
+    "county_weights": "{\"01001\": 100}",
+    "county_names_all": "Autauga",
+    "county_fips_all": "01001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

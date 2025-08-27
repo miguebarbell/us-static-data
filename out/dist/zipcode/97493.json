@@ -1,0 +1,20 @@
+{
+    "zip": 97493,
+    "lat": 43.90256,
+    "lng": -124.01602,
+    "city": "Westlake",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 466.0,
+    "density": 3.5,
+    "county_fips": 41039,
+    "county_name": "Lane",
+    "county_weights": "{\"41039\": 91.74, \"41019\": 8.26}",
+    "county_names_all": "Lane|Douglas",
+    "county_fips_all": "41039|41019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

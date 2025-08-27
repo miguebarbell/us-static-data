@@ -1,0 +1,20 @@
+{
+    "zip": 81653,
+    "lat": 40.9144,
+    "lng": -107.2242,
+    "city": "Slater",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 8107,
+    "county_name": "Routt",
+    "county_weights": "{\"08107\": 87.48, \"08081\": 12.52}",
+    "county_names_all": "Routt|Moffat",
+    "county_fips_all": "08107|08081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

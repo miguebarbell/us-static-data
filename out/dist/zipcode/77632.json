@@ -1,0 +1,20 @@
+{
+    "zip": 77632,
+    "lat": 30.2014,
+    "lng": -93.80477,
+    "city": "Orange",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22166.0,
+    "density": 65.6,
+    "county_fips": 48361,
+    "county_name": "Orange",
+    "county_weights": "{\"48361\": 76.39, \"48351\": 23.61}",
+    "county_names_all": "Orange|Newton",
+    "county_fips_all": "48361|48351",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 71834,
+    "lat": 33.11552,
+    "lng": -93.9577,
+    "city": "Doddridge",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1708.0,
+    "density": 4.6,
+    "county_fips": 5091,
+    "county_name": "Miller",
+    "county_weights": "{\"05091\": 100}",
+    "county_names_all": "Miller",
+    "county_fips_all": "05091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

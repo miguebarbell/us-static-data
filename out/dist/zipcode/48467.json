@@ -1,0 +1,20 @@
+{
+    "zip": 48467,
+    "lat": 44.00768,
+    "lng": -82.98763,
+    "city": "Port Austin",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2306.0,
+    "density": 14.1,
+    "county_fips": 26063,
+    "county_name": "Huron",
+    "county_weights": "{\"26063\": 100}",
+    "county_names_all": "Huron",
+    "county_fips_all": "26063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 37027,
+    "lat": 35.99978,
+    "lng": -86.78439,
+    "city": "Brentwood",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 61961.0,
+    "density": 419.7,
+    "county_fips": 47187,
+    "county_name": "Williamson",
+    "county_weights": "{\"47187\": 86.43, \"47037\": 13.57}",
+    "county_names_all": "Williamson|Davidson",
+    "county_fips_all": "47187|47037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

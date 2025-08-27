@@ -1,0 +1,20 @@
+{
+    "zip": 20624,
+    "lat": 38.33523,
+    "lng": -76.73451,
+    "city": "Clements",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1157.0,
+    "density": 43.0,
+    "county_fips": 24037,
+    "county_name": "St. Mary's",
+    "county_weights": "{\"24037\": 100}",
+    "county_names_all": "St. Mary's",
+    "county_fips_all": "24037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

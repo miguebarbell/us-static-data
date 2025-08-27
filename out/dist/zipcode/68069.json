@@ -1,0 +1,20 @@
+{
+    "zip": 68069,
+    "lat": 41.24166,
+    "lng": -96.31542,
+    "city": "Waterloo",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3100.0,
+    "density": 40.1,
+    "county_fips": 31055,
+    "county_name": "Douglas",
+    "county_weights": "{\"31055\": 88.65, \"31153\": 11.35}",
+    "county_names_all": "Douglas|Sarpy",
+    "county_fips_all": "31055|31153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 26293,
+    "lat": 38.7824,
+    "lng": -79.9365,
+    "city": "Valley Bend",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 713.0,
+    "density": 47.9,
+    "county_fips": 54083,
+    "county_name": "Randolph",
+    "county_weights": "{\"54083\": 100}",
+    "county_names_all": "Randolph",
+    "county_fips_all": "54083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

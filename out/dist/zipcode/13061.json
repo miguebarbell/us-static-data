@@ -1,0 +1,20 @@
+{
+    "zip": 13061,
+    "lat": 42.86493,
+    "lng": -75.75173,
+    "city": "Erieville",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 641.0,
+    "density": 9.2,
+    "county_fips": 36053,
+    "county_name": "Madison",
+    "county_weights": "{\"36053\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "36053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

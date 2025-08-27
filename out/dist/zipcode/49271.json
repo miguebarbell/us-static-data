@@ -1,0 +1,20 @@
+{
+    "zip": 49271,
+    "lat": 41.83813,
+    "lng": -84.45382,
+    "city": "Pittsford",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2354.0,
+    "density": 17.0,
+    "county_fips": 26059,
+    "county_name": "Hillsdale",
+    "county_weights": "{\"26059\": 100}",
+    "county_names_all": "Hillsdale",
+    "county_fips_all": "26059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

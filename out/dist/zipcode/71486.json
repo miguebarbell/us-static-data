@@ -1,0 +1,20 @@
+{
+    "zip": 71486,
+    "lat": 31.62679,
+    "lng": -93.65876,
+    "city": "Zwolle",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5042.0,
+    "density": 19.4,
+    "county_fips": 22085,
+    "county_name": "Sabine",
+    "county_weights": "{\"22085\": 100}",
+    "county_names_all": "Sabine",
+    "county_fips_all": "22085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

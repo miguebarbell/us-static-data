@@ -1,0 +1,20 @@
+{
+    "zip": 75409,
+    "lat": 33.35223,
+    "lng": -96.52808,
+    "city": "Anna",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24381.0,
+    "density": 120.3,
+    "county_fips": 48085,
+    "county_name": "Collin",
+    "county_weights": "{\"48085\": 100}",
+    "county_names_all": "Collin",
+    "county_fips_all": "48085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

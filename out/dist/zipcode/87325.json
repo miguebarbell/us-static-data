@@ -1,0 +1,20 @@
+{
+    "zip": 87325,
+    "lat": 35.97495,
+    "lng": -108.58746,
+    "city": "Tohatchi",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2231.0,
+    "density": 1.7,
+    "county_fips": 35031,
+    "county_name": "McKinley",
+    "county_weights": "{\"35031\": 61.43, \"35045\": 38.57}",
+    "county_names_all": "McKinley|San Juan",
+    "county_fips_all": "35031|35045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

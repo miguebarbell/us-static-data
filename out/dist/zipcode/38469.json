@@ -1,0 +1,20 @@
+{
+    "zip": 38469,
+    "lat": 35.0741,
+    "lng": -87.42765,
+    "city": "Loretto",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4608.0,
+    "density": 25.6,
+    "county_fips": 47099,
+    "county_name": "Lawrence",
+    "county_weights": "{\"47099\": 100}",
+    "county_names_all": "Lawrence",
+    "county_fips_all": "47099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

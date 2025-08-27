@@ -1,0 +1,20 @@
+{
+    "zip": 78621,
+    "lat": 30.33737,
+    "lng": -97.36053,
+    "city": "Elgin",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27860.0,
+    "density": 60.5,
+    "county_fips": 48021,
+    "county_name": "Bastrop",
+    "county_weights": "{\"48021\": 62.58, \"48453\": 14.51, \"48491\": 14.33, \"48287\": 8.58}",
+    "county_names_all": "Bastrop|Travis|Williamson|Lee",
+    "county_fips_all": "48021|48453|48491|48287",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 35073,
+    "lat": 33.65377,
+    "lng": -86.98051,
+    "city": "Graysville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2839.0,
+    "density": 37.2,
+    "county_fips": 1073,
+    "county_name": "Jefferson",
+    "county_weights": "{\"01073\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "01073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

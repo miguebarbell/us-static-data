@@ -1,0 +1,20 @@
+{
+    "zip": 70445,
+    "lat": 30.36352,
+    "lng": -89.91265,
+    "city": "Lacombe",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9421.0,
+    "density": 33.6,
+    "county_fips": 22103,
+    "county_name": "St. Tammany",
+    "county_weights": "{\"22103\": 100}",
+    "county_names_all": "St. Tammany",
+    "county_fips_all": "22103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

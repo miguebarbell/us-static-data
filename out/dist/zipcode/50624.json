@@ -1,0 +1,20 @@
+{
+    "zip": 50624,
+    "lat": 42.46874,
+    "lng": -92.65879,
+    "city": "Dike",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1664.0,
+    "density": 12.5,
+    "county_fips": 19075,
+    "county_name": "Grundy",
+    "county_weights": "{\"19075\": 100}",
+    "county_names_all": "Grundy",
+    "county_fips_all": "19075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

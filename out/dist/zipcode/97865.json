@@ -1,0 +1,20 @@
+{
+    "zip": 97865,
+    "lat": 44.42949,
+    "lng": -119.19192,
+    "city": "Mount Vernon",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 968.0,
+    "density": 1.0,
+    "county_fips": 41023,
+    "county_name": "Grant",
+    "county_weights": "{\"41023\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "41023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

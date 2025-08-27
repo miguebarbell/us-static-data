@@ -1,0 +1,20 @@
+{
+    "zip": 20705,
+    "lat": 39.04503,
+    "lng": -76.90009,
+    "city": "Beltsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28119.0,
+    "density": 751.3,
+    "county_fips": 24033,
+    "county_name": "Prince George's",
+    "county_weights": "{\"24033\": 98.86, \"24031\": 1.14}",
+    "county_names_all": "Prince George's|Montgomery",
+    "county_fips_all": "24033|24031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

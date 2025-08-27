@@ -1,0 +1,20 @@
+{
+    "zip": 42757,
+    "lat": 37.40192,
+    "lng": -85.72501,
+    "city": "Magnolia",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2846.0,
+    "density": 14.0,
+    "county_fips": 21099,
+    "county_name": "Hart",
+    "county_weights": "{\"21099\": 63.22, \"21123\": 29.63, \"21087\": 7.15}",
+    "county_names_all": "Hart|Larue|Green",
+    "county_fips_all": "21099|21123|21087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 61862,
+    "lat": 40.30474,
+    "lng": -87.95103,
+    "city": "Penfield",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 602.0,
+    "density": 5.8,
+    "county_fips": 17019,
+    "county_name": "Champaign",
+    "county_weights": "{\"17019\": 81.69, \"17183\": 18.31}",
+    "county_names_all": "Champaign|Vermilion",
+    "county_fips_all": "17019|17183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

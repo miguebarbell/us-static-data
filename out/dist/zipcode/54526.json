@@ -1,0 +1,20 @@
+{
+    "zip": 54526,
+    "lat": 45.50969,
+    "lng": -90.85872,
+    "city": "Glen Flora",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 673.0,
+    "density": 2.2,
+    "county_fips": 55107,
+    "county_name": "Rusk",
+    "county_weights": "{\"55107\": 100}",
+    "county_names_all": "Rusk",
+    "county_fips_all": "55107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

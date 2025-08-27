@@ -1,0 +1,20 @@
+{
+    "zip": 35098,
+    "lat": 34.12779,
+    "lng": -87.04626,
+    "city": "Logan",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1118.0,
+    "density": 14.6,
+    "county_fips": 1043,
+    "county_name": "Cullman",
+    "county_weights": "{\"01043\": 83.32, \"01133\": 16.68}",
+    "county_names_all": "Cullman|Winston",
+    "county_fips_all": "01043|01133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

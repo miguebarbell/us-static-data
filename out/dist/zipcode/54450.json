@@ -1,0 +1,20 @@
+{
+    "zip": 54450,
+    "lat": 45.00367,
+    "lng": -89.04172,
+    "city": "Mattoon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 477.0,
+    "density": 126.4,
+    "county_fips": 55115,
+    "county_name": "Shawano",
+    "county_weights": "{\"55115\": 100}",
+    "county_names_all": "Shawano",
+    "county_fips_all": "55115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

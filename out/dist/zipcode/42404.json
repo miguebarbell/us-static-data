@@ -1,0 +1,20 @@
+{
+    "zip": 42404,
+    "lat": 37.47878,
+    "lng": -87.83636,
+    "city": "Clay",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2268.0,
+    "density": 10.0,
+    "county_fips": 21233,
+    "county_name": "Webster",
+    "county_weights": "{\"21233\": 94.31, \"21225\": 5.69}",
+    "county_names_all": "Webster|Union",
+    "county_fips_all": "21233|21225",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

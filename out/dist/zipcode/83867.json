@@ -1,0 +1,20 @@
+{
+    "zip": 83867,
+    "lat": 47.50624,
+    "lng": -115.94696,
+    "city": "Silverton",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 606.0,
+    "density": 55.6,
+    "county_fips": 16079,
+    "county_name": "Shoshone",
+    "county_weights": "{\"16079\": 100}",
+    "county_names_all": "Shoshone",
+    "county_fips_all": "16079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

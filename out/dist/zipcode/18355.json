@@ -1,0 +1,20 @@
+{
+    "zip": 18355,
+    "lat": 41.07301,
+    "lng": -75.35553,
+    "city": "Scotrun",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1628.0,
+    "density": 59.8,
+    "county_fips": 42089,
+    "county_name": "Monroe",
+    "county_weights": "{\"42089\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "42089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

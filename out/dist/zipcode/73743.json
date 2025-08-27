@@ -1,0 +1,20 @@
+{
+    "zip": 73743,
+    "lat": 36.56324,
+    "lng": -97.9927,
+    "city": "Hillsdale",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 77.0,
+    "density": 85.8,
+    "county_fips": 40047,
+    "county_name": "Garfield",
+    "county_weights": "{\"40047\": 100}",
+    "county_names_all": "Garfield",
+    "county_fips_all": "40047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

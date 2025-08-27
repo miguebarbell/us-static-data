@@ -1,0 +1,20 @@
+{
+    "zip": 62961,
+    "lat": 37.34063,
+    "lng": -89.25378,
+    "city": "Millcreek",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32.0,
+    "density": 36.1,
+    "county_fips": 17181,
+    "county_name": "Union",
+    "county_weights": "{\"17181\": 99.86, \"17003\": 0.14}",
+    "county_names_all": "Union|Alexander",
+    "county_fips_all": "17181|17003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

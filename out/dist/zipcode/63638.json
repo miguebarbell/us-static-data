@@ -1,0 +1,20 @@
+{
+    "zip": 63638,
+    "lat": 37.21727,
+    "lng": -91.01135,
+    "city": "Ellington",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2384.0,
+    "density": 3.1,
+    "county_fips": 29179,
+    "county_name": "Reynolds",
+    "county_weights": "{\"29179\": 82.04, \"29203\": 17.96}",
+    "county_names_all": "Reynolds|Shannon",
+    "county_fips_all": "29179|29203",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

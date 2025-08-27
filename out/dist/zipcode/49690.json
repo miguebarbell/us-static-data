@@ -1,0 +1,20 @@
+{
+    "zip": 49690,
+    "lat": 44.77915,
+    "lng": -85.38964,
+    "city": "Williamsburg",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6682.0,
+    "density": 31.2,
+    "county_fips": 26055,
+    "county_name": "Grand Traverse",
+    "county_weights": "{\"26055\": 77.39, \"26079\": 17.52, \"26009\": 5.09}",
+    "county_names_all": "Grand Traverse|Kalkaska|Antrim",
+    "county_fips_all": "26055|26079|26009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

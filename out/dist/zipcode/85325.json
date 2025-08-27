@@ -1,0 +1,20 @@
+{
+    "zip": 85325,
+    "lat": 33.98328,
+    "lng": -113.84323,
+    "city": "Bouse",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1123.0,
+    "density": 0.6,
+    "county_fips": 4012,
+    "county_name": "La Paz",
+    "county_weights": "{\"04012\": 100}",
+    "county_names_all": "La Paz",
+    "county_fips_all": "04012",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 73456,
+    "lat": 34.12211,
+    "lng": -97.62412,
+    "city": "Ringling",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1659.0,
+    "density": 2.6,
+    "county_fips": 40067,
+    "county_name": "Jefferson",
+    "county_weights": "{\"40067\": 79.29, \"40085\": 10.88, \"40019\": 9.83}",
+    "county_names_all": "Jefferson|Love|Carter",
+    "county_fips_all": "40067|40085|40019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

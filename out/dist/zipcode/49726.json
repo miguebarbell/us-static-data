@@ -1,0 +1,20 @@
+{
+    "zip": 49726,
+    "lat": 46.00169,
+    "lng": -83.66277,
+    "city": "Drummond Island",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1106.0,
+    "density": 3.3,
+    "county_fips": 26033,
+    "county_name": "Chippewa",
+    "county_weights": "{\"26033\": 100}",
+    "county_names_all": "Chippewa",
+    "county_fips_all": "26033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

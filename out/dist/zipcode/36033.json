@@ -1,0 +1,20 @@
+{
+    "zip": 36033,
+    "lat": 31.66983,
+    "lng": -86.771,
+    "city": "Georgiana",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3685.0,
+    "density": 6.7,
+    "county_fips": 1013,
+    "county_name": "Butler",
+    "county_weights": "{\"01013\": 90.47, \"01035\": 7.51, \"01099\": 2.02}",
+    "county_names_all": "Butler|Conecuh|Monroe",
+    "county_fips_all": "01013|01035|01099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

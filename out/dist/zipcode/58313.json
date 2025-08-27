@@ -1,0 +1,20 @@
+{
+    "zip": 58313,
+    "lat": 48.16615,
+    "lng": -100.03685,
+    "city": "Balta",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 54.0,
+    "density": 94.4,
+    "county_fips": 38069,
+    "county_name": "Pierce",
+    "county_weights": "{\"38069\": 100}",
+    "county_names_all": "Pierce",
+    "county_fips_all": "38069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

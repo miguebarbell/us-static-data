@@ -1,0 +1,20 @@
+{
+    "zip": 78661,
+    "lat": 29.72925,
+    "lng": -97.74212,
+    "city": "Prairie Lea",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 658.0,
+    "density": 61.6,
+    "county_fips": 48055,
+    "county_name": "Caldwell",
+    "county_weights": "{\"48055\": 99.54, \"48187\": 0.46}",
+    "county_names_all": "Caldwell|Guadalupe",
+    "county_fips_all": "48055|48187",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

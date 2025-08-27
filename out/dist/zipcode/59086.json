@@ -1,0 +1,20 @@
+{
+    "zip": 59086,
+    "lat": 46.05608,
+    "lng": -110.65293,
+    "city": "Wilsall",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 878.0,
+    "density": 0.5,
+    "county_fips": 30067,
+    "county_name": "Park",
+    "county_weights": "{\"30067\": 66.28, \"30031\": 31.45, \"30059\": 2.27}",
+    "county_names_all": "Park|Gallatin|Meagher",
+    "county_fips_all": "30067|30031|30059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

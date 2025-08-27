@@ -1,0 +1,20 @@
+{
+    "zip": 77455,
+    "lat": 29.14017,
+    "lng": -96.43782,
+    "city": "Louise",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1593.0,
+    "density": 2.9,
+    "county_fips": 48481,
+    "county_name": "Wharton",
+    "county_weights": "{\"48481\": 89.09, \"48089\": 5.49, \"48239\": 5.42}",
+    "county_names_all": "Wharton|Colorado|Jackson",
+    "county_fips_all": "48481|48089|48239",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

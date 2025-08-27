@@ -1,0 +1,20 @@
+{
+    "zip": 19085,
+    "lat": 40.03759,
+    "lng": -75.34969,
+    "city": "Villanova",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10679.0,
+    "density": 661.9,
+    "county_fips": 42045,
+    "county_name": "Delaware",
+    "county_weights": "{\"42045\": 56.79, \"42091\": 43.21}",
+    "county_names_all": "Delaware|Montgomery",
+    "county_fips_all": "42045|42091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

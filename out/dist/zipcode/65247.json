@@ -1,0 +1,20 @@
+{
+    "zip": 65247,
+    "lat": 39.63502,
+    "lng": -92.47296,
+    "city": "Excello",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 812.0,
+    "density": 7.3,
+    "county_fips": 29121,
+    "county_name": "Macon",
+    "county_weights": "{\"29121\": 100}",
+    "county_names_all": "Macon",
+    "county_fips_all": "29121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 99833,
+    "lat": 56.82952,
+    "lng": -133.17986,
+    "city": "Petersburg",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3394.0,
+    "density": 0.4,
+    "county_fips": 2195,
+    "county_name": "Petersburg",
+    "county_weights": "{\"02195\": 64.99, \"02198\": 35.01}",
+    "county_names_all": "Petersburg|Prince of Wales-Hyder",
+    "county_fips_all": "02195|02198",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Sitka"
+}

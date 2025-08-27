@@ -1,0 +1,20 @@
+{
+    "zip": 7750,
+    "lat": 40.33639,
+    "lng": -73.98632,
+    "city": "Monmouth Beach",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3201.0,
+    "density": 1186.1,
+    "county_fips": 34025,
+    "county_name": "Monmouth",
+    "county_weights": "{\"34025\": 100}",
+    "county_names_all": "Monmouth",
+    "county_fips_all": "34025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

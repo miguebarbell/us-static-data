@@ -1,0 +1,20 @@
+{
+    "zip": 75429,
+    "lat": 33.27847,
+    "lng": -95.89231,
+    "city": "Commerce",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 48231,
+    "county_name": "Hunt",
+    "county_weights": "{\"48231\": 100}",
+    "county_names_all": "Hunt",
+    "county_fips_all": "48231",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

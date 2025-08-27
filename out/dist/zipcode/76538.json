@@ -1,0 +1,20 @@
+{
+    "zip": 76538,
+    "lat": 31.64261,
+    "lng": -97.8896,
+    "city": "Jonesboro",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 996.0,
+    "density": 2.5,
+    "county_fips": 48193,
+    "county_name": "Hamilton",
+    "county_weights": "{\"48193\": 69.09, \"48099\": 30.91}",
+    "county_names_all": "Hamilton|Coryell",
+    "county_fips_all": "48193|48099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

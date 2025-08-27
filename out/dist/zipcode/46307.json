@@ -1,0 +1,20 @@
+{
+    "zip": 46307,
+    "lat": 41.40215,
+    "lng": -87.32693,
+    "city": "Crown Point",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 71418.0,
+    "density": 316.1,
+    "county_fips": 18089,
+    "county_name": "Lake",
+    "county_weights": "{\"18089\": 97.07, \"18127\": 2.93}",
+    "county_names_all": "Lake|Porter",
+    "county_fips_all": "18089|18127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 86045,
+    "lat": 36.14775,
+    "lng": -111.13344,
+    "city": "Tuba City",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10691.0,
+    "density": 5.7,
+    "county_fips": 4005,
+    "county_name": "Coconino",
+    "county_weights": "{\"04005\": 100}",
+    "county_names_all": "Coconino",
+    "county_fips_all": "04005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

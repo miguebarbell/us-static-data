@@ -1,0 +1,20 @@
+{
+    "zip": 94571,
+    "lat": 38.1566,
+    "lng": -121.7482,
+    "city": "Rio Vista",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10973.0,
+    "density": 38.8,
+    "county_fips": 6095,
+    "county_name": "Solano",
+    "county_weights": "{\"06095\": 78.06, \"06067\": 21.94}",
+    "county_names_all": "Solano|Sacramento",
+    "county_fips_all": "06095|06067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

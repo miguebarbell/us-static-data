@@ -1,0 +1,20 @@
+{
+    "zip": 89426,
+    "lat": 41.45402,
+    "lng": -117.59307,
+    "city": "Paradise Valley",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 227.0,
+    "density": 0.5,
+    "county_fips": 32013,
+    "county_name": "Humboldt",
+    "county_weights": "{\"32013\": 100}",
+    "county_names_all": "Humboldt",
+    "county_fips_all": "32013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

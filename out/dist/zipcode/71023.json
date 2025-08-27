@@ -1,0 +1,20 @@
+{
+    "zip": 71023,
+    "lat": 32.4662,
+    "lng": -93.40797,
+    "city": "Doyline",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3020.0,
+    "density": 23.9,
+    "county_fips": 22119,
+    "county_name": "Webster",
+    "county_weights": "{\"22119\": 73.75, \"22015\": 26.25}",
+    "county_names_all": "Webster|Bossier",
+    "county_fips_all": "22119|22015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 24831,
+    "lat": 37.38943,
+    "lng": -81.44085,
+    "city": "Elkhorn",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 409.0,
+    "density": 12.1,
+    "county_fips": 54047,
+    "county_name": "McDowell",
+    "county_weights": "{\"54047\": 100}",
+    "county_names_all": "McDowell",
+    "county_fips_all": "54047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

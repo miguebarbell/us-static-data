@@ -1,0 +1,20 @@
+{
+    "zip": 46781,
+    "lat": 40.63659,
+    "lng": -85.27339,
+    "city": "Poneto",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 879.0,
+    "density": 13.2,
+    "county_fips": 18179,
+    "county_name": "Wells",
+    "county_weights": "{\"18179\": 100}",
+    "county_names_all": "Wells",
+    "county_fips_all": "18179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

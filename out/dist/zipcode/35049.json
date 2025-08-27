@@ -1,0 +1,20 @@
+{
+    "zip": 35049,
+    "lat": 33.95674,
+    "lng": -86.59904,
+    "city": "Cleveland",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4334.0,
+    "density": 40.2,
+    "county_fips": 1009,
+    "county_name": "Blount",
+    "county_weights": "{\"01009\": 100}",
+    "county_names_all": "Blount",
+    "county_fips_all": "01009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 14803,
+    "lat": 42.25135,
+    "lng": -77.78808,
+    "city": "Alfred Station",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1491.0,
+    "density": 20.5,
+    "county_fips": 36003,
+    "county_name": "Allegany",
+    "county_weights": "{\"36003\": 90.84, \"36101\": 9.16}",
+    "county_names_all": "Allegany|Steuben",
+    "county_fips_all": "36003|36101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 26372,
+    "lat": 38.95859,
+    "lng": -80.37155,
+    "city": "Horner",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 774.0,
+    "density": 9.5,
+    "county_fips": 54041,
+    "county_name": "Lewis",
+    "county_weights": "{\"54041\": 97.75, \"54097\": 2.25}",
+    "county_names_all": "Lewis|Upshur",
+    "county_fips_all": "54041|54097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

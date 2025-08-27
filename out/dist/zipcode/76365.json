@@ -1,0 +1,20 @@
+{
+    "zip": 76365,
+    "lat": 33.754,
+    "lng": -98.2076,
+    "city": "Henrietta",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4668.0,
+    "density": 3.4,
+    "county_fips": 48077,
+    "county_name": "Clay",
+    "county_weights": "{\"48077\": 96.93, \"48237\": 3.07}",
+    "county_names_all": "Clay|Jack",
+    "county_fips_all": "48077|48237",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

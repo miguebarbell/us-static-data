@@ -1,0 +1,20 @@
+{
+    "zip": 69353,
+    "lat": 41.74703,
+    "lng": -103.41898,
+    "city": "Mcgrew",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 57.0,
+    "density": 273.0,
+    "county_fips": 31157,
+    "county_name": "Scotts Bluff",
+    "county_weights": "{\"31157\": 100}",
+    "county_names_all": "Scotts Bluff",
+    "county_fips_all": "31157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

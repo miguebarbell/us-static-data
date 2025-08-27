@@ -1,0 +1,20 @@
+{
+    "zip": 69346,
+    "lat": 42.66459,
+    "lng": -103.80651,
+    "city": "Harrison",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 475.0,
+    "density": 0.2,
+    "county_fips": 31165,
+    "county_name": "Sioux",
+    "county_weights": "{\"31165\": 100}",
+    "county_names_all": "Sioux",
+    "county_fips_all": "31165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

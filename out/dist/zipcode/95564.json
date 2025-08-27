@@ -1,0 +1,20 @@
+{
+    "zip": 95564,
+    "lat": 40.79023,
+    "lng": -124.20312,
+    "city": "Samoa",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 477.0,
+    "density": 54.9,
+    "county_fips": 6023,
+    "county_name": "Humboldt",
+    "county_weights": "{\"06023\": 100}",
+    "county_names_all": "Humboldt",
+    "county_fips_all": "06023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

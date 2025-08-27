@@ -1,0 +1,20 @@
+{
+    "zip": 93536,
+    "lat": 34.75267,
+    "lng": -118.3889,
+    "city": "Lancaster",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 72013.0,
+    "density": 109.3,
+    "county_fips": 6037,
+    "county_name": "Los Angeles",
+    "county_weights": "{\"06037\": 94.84, \"06029\": 5.16}",
+    "county_names_all": "Los Angeles|Kern",
+    "county_fips_all": "06037|06029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

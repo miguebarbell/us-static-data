@@ -1,0 +1,20 @@
+{
+    "zip": 18327,
+    "lat": 40.98341,
+    "lng": -75.14665,
+    "city": "Delaware Water Gap",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 590.0,
+    "density": 407.0,
+    "county_fips": 42089,
+    "county_name": "Monroe",
+    "county_weights": "{\"42089\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "42089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

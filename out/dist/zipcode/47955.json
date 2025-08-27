@@ -1,0 +1,20 @@
+{
+    "zip": 47955,
+    "lat": 40.1954,
+    "lng": -86.86513,
+    "city": "Linden",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 824.0,
+    "density": 12.2,
+    "county_fips": 18107,
+    "county_name": "Montgomery",
+    "county_weights": "{\"18107\": 88.44, \"18157\": 11.56}",
+    "county_names_all": "Montgomery|Tippecanoe",
+    "county_fips_all": "18107|18157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

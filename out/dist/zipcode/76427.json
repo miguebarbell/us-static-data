@@ -1,0 +1,20 @@
+{
+    "zip": 76427,
+    "lat": 33.13145,
+    "lng": -98.39271,
+    "city": "Bryson",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1125.0,
+    "density": 12.7,
+    "county_fips": 48237,
+    "county_name": "Jack",
+    "county_weights": "{\"48237\": 100}",
+    "county_names_all": "Jack",
+    "county_fips_all": "48237",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

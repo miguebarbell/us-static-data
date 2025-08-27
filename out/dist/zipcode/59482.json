@@ -1,0 +1,20 @@
+{
+    "zip": 59482,
+    "lat": 48.88446,
+    "lng": -111.86622,
+    "city": "Sunburst",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1002.0,
+    "density": 1.8,
+    "county_fips": 30101,
+    "county_name": "Toole",
+    "county_weights": "{\"30101\": 100}",
+    "county_names_all": "Toole",
+    "county_fips_all": "30101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

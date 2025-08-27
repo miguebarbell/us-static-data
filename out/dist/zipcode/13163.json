@@ -1,0 +1,20 @@
+{
+    "zip": 13163,
+    "lat": 43.08194,
+    "lng": -75.70841,
+    "city": "Wampsville",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 334.0,
+    "density": 353.7,
+    "county_fips": 36053,
+    "county_name": "Madison",
+    "county_weights": "{\"36053\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "36053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

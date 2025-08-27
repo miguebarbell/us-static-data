@@ -1,0 +1,20 @@
+{
+    "zip": 48439,
+    "lat": 42.91733,
+    "lng": -83.63018,
+    "city": "Grand Blanc",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 52071.0,
+    "density": 368.9,
+    "county_fips": 26049,
+    "county_name": "Genesee",
+    "county_weights": "{\"26049\": 98.68, \"26125\": 1.32}",
+    "county_names_all": "Genesee|Oakland",
+    "county_fips_all": "26049|26125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

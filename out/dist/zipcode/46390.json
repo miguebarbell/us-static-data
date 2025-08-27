@@ -1,0 +1,20 @@
+{
+    "zip": 46390,
+    "lat": 41.41677,
+    "lng": -86.8742,
+    "city": "Wanatah",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2965.0,
+    "density": 23.3,
+    "county_fips": 18091,
+    "county_name": "LaPorte",
+    "county_weights": "{\"18091\": 99.28, \"18127\": 0.72}",
+    "county_names_all": "LaPorte|Porter",
+    "county_fips_all": "18091|18127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

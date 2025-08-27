@@ -1,0 +1,20 @@
+{
+    "zip": 36273,
+    "lat": 33.53904,
+    "lng": -85.37742,
+    "city": "Ranburne",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3430.0,
+    "density": 26.7,
+    "county_fips": 1029,
+    "county_name": "Cleburne",
+    "county_weights": "{\"01029\": 100}",
+    "county_names_all": "Cleburne",
+    "county_fips_all": "01029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

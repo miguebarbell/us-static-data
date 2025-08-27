@@ -1,0 +1,20 @@
+{
+    "zip": 12883,
+    "lat": 43.85291,
+    "lng": -73.50786,
+    "city": "Ticonderoga",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4781.0,
+    "density": 21.8,
+    "county_fips": 36031,
+    "county_name": "Essex",
+    "county_weights": "{\"36031\": 98.8, \"36115\": 1.2}",
+    "county_names_all": "Essex|Washington",
+    "county_fips_all": "36031|36115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 40316,
+    "lat": 37.93419,
+    "lng": -83.52895,
+    "city": "Denniston",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 514.0,
+    "density": 22.3,
+    "county_fips": 21165,
+    "county_name": "Menifee",
+    "county_weights": "{\"21165\": 100}",
+    "county_names_all": "Menifee",
+    "county_fips_all": "21165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

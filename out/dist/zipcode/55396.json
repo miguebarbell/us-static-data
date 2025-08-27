@@ -1,0 +1,20 @@
+{
+    "zip": 55396,
+    "lat": 44.54473,
+    "lng": -94.36755,
+    "city": "Winthrop",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2162.0,
+    "density": 7.7,
+    "county_fips": 27143,
+    "county_name": "Sibley",
+    "county_weights": "{\"27143\": 99.18, \"27085\": 0.82}",
+    "county_names_all": "Sibley|McLeod",
+    "county_fips_all": "27143|27085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

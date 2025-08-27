@@ -1,0 +1,20 @@
+{
+    "zip": 54929,
+    "lat": 44.63704,
+    "lng": -88.7372,
+    "city": "Clintonville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8969.0,
+    "density": 28.3,
+    "county_fips": 55135,
+    "county_name": "Waupaca",
+    "county_weights": "{\"55135\": 72.29, \"55115\": 25.81, \"55087\": 1.9}",
+    "county_names_all": "Waupaca|Shawano|Outagamie",
+    "county_fips_all": "55135|55115|55087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

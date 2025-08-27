@@ -1,0 +1,20 @@
+{
+    "zip": 29543,
+    "lat": 34.28759,
+    "lng": -79.26591,
+    "city": "Fork",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 350.0,
+    "density": 7.3,
+    "county_fips": 45033,
+    "county_name": "Dillon",
+    "county_weights": "{\"45033\": 100}",
+    "county_names_all": "Dillon",
+    "county_fips_all": "45033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

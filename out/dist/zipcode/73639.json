@@ -1,0 +1,20 @@
+{
+    "zip": 73639,
+    "lat": 35.72666,
+    "lng": -98.95578,
+    "city": "Custer City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 734.0,
+    "density": 1.6,
+    "county_fips": 40039,
+    "county_name": "Custer",
+    "county_weights": "{\"40039\": 100}",
+    "county_names_all": "Custer",
+    "county_fips_all": "40039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

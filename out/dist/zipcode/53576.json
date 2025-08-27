@@ -1,0 +1,20 @@
+{
+    "zip": 53576,
+    "lat": 42.62543,
+    "lng": -89.23949,
+    "city": "Orfordville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2309.0,
+    "density": 28.6,
+    "county_fips": 55105,
+    "county_name": "Rock",
+    "county_weights": "{\"55105\": 100}",
+    "county_names_all": "Rock",
+    "county_fips_all": "55105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 30625,
+    "lat": 33.52128,
+    "lng": -83.34211,
+    "city": "Buckhead",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2576.0,
+    "density": 21.0,
+    "county_fips": 13211,
+    "county_name": "Morgan",
+    "county_weights": "{\"13211\": 88.65, \"13237\": 11.35}",
+    "county_names_all": "Morgan|Putnam",
+    "county_fips_all": "13211|13237",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 5441,
+    "lat": 44.7686,
+    "lng": -72.78669,
+    "city": "Bakersfield",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 552.0,
+    "density": 17.6,
+    "county_fips": 50011,
+    "county_name": "Franklin",
+    "county_weights": "{\"50011\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "50011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 99636,
+    "lat": 59.47618,
+    "lng": -157.27099,
+    "city": "New Stuyahok",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 466.0,
+    "density": 5.3,
+    "county_fips": 2070,
+    "county_name": "Dillingham",
+    "county_weights": "{\"02070\": 100}",
+    "county_names_all": "Dillingham",
+    "county_fips_all": "02070",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

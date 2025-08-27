@@ -1,0 +1,20 @@
+{
+    "zip": 75449,
+    "lat": 33.423,
+    "lng": -95.9493,
+    "city": "Ladonia",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1000.0,
+    "density": 5.0,
+    "county_fips": 48147,
+    "county_name": "Fannin",
+    "county_weights": "{\"48147\": 69.38, \"48231\": 30.62}",
+    "county_names_all": "Fannin|Hunt",
+    "county_fips_all": "48147|48231",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

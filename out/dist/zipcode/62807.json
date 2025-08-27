@@ -1,0 +1,20 @@
+{
+    "zip": 62807,
+    "lat": 38.74767,
+    "lng": -88.93412,
+    "city": "Alma",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 816.0,
+    "density": 8.0,
+    "county_fips": 17121,
+    "county_name": "Marion",
+    "county_weights": "{\"17121\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "17121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

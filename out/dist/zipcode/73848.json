@@ -1,0 +1,20 @@
+{
+    "zip": 73848,
+    "lat": 36.64843,
+    "lng": -100.023,
+    "city": "Laverne",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1609.0,
+    "density": 1.1,
+    "county_fips": 40007,
+    "county_name": "Beaver",
+    "county_weights": "{\"40007\": 56.65, \"40059\": 43.35}",
+    "county_names_all": "Beaver|Harper",
+    "county_fips_all": "40007|40059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

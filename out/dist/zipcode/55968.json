@@ -1,0 +1,20 @@
+{
+    "zip": 55968,
+    "lat": 44.39793,
+    "lng": -92.0898,
+    "city": "Reads Landing",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 130.0,
+    "density": 31.3,
+    "county_fips": 27157,
+    "county_name": "Wabasha",
+    "county_weights": "{\"27157\": 100}",
+    "county_names_all": "Wabasha",
+    "county_fips_all": "27157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

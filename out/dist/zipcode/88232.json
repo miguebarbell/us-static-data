@@ -1,0 +1,20 @@
+{
+    "zip": 88232,
+    "lat": 33.06398,
+    "lng": -104.1568,
+    "city": "Hagerman",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2713.0,
+    "density": 2.0,
+    "county_fips": 35005,
+    "county_name": "Chaves",
+    "county_weights": "{\"35005\": 100}",
+    "county_names_all": "Chaves",
+    "county_fips_all": "35005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

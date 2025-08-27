@@ -1,0 +1,20 @@
+{
+    "zip": 31714,
+    "lat": 31.71075,
+    "lng": -83.67496,
+    "city": "Ashburn",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6011.0,
+    "density": 13.7,
+    "county_fips": 13287,
+    "county_name": "Turner",
+    "county_weights": "{\"13287\": 91.46, \"13321\": 7.74, \"13277\": 0.8}",
+    "county_names_all": "Turner|Worth|Tift",
+    "county_fips_all": "13287|13321|13277",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

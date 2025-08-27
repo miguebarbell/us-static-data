@@ -1,0 +1,20 @@
+{
+    "zip": 6070,
+    "lat": 41.87674,
+    "lng": -72.81626,
+    "city": "Simsbury",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15353.0,
+    "density": 260.0,
+    "county_fips": 9110,
+    "county_name": "Capitol",
+    "county_weights": "{\"09110\": 100}",
+    "county_names_all": "Capitol",
+    "county_fips_all": "09110",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

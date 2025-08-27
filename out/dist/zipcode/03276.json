@@ -1,0 +1,20 @@
+{
+    "zip": 3276,
+    "lat": 43.42783,
+    "lng": -71.57514,
+    "city": "Tilton",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9046.0,
+    "density": 88.9,
+    "county_fips": 33013,
+    "county_name": "Merrimack",
+    "county_weights": "{\"33013\": 70.39, \"33001\": 29.61}",
+    "county_names_all": "Merrimack|Belknap",
+    "county_fips_all": "33013|33001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

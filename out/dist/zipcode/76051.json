@@ -1,0 +1,20 @@
+{
+    "zip": 76051,
+    "lat": 32.94192,
+    "lng": -97.07888,
+    "city": "Grapevine",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 50514.0,
+    "density": 875.0,
+    "county_fips": 48439,
+    "county_name": "Tarrant",
+    "county_weights": "{\"48439\": 98.58, \"48113\": 1.42}",
+    "county_names_all": "Tarrant|Dallas",
+    "county_fips_all": "48439|48113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

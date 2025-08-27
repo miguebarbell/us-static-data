@@ -1,0 +1,20 @@
+{
+    "zip": 59844,
+    "lat": 48.00803,
+    "lng": -115.9707,
+    "city": "Heron",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 662.0,
+    "density": 3.4,
+    "county_fips": 30089,
+    "county_name": "Sanders",
+    "county_weights": "{\"30089\": 100}",
+    "county_names_all": "Sanders",
+    "county_fips_all": "30089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

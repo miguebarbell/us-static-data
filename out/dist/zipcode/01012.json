@@ -1,0 +1,20 @@
+{
+    "zip": 1012,
+    "lat": 42.38495,
+    "lng": -72.84675,
+    "city": "Chesterfield",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 387.0,
+    "density": 12.4,
+    "county_fips": 25015,
+    "county_name": "Hampshire",
+    "county_weights": "{\"25015\": 100}",
+    "county_names_all": "Hampshire",
+    "county_fips_all": "25015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

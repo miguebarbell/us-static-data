@@ -1,0 +1,20 @@
+{
+    "zip": 41264,
+    "lat": 37.94021,
+    "lng": -82.677,
+    "city": "Ulysses",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 722.0,
+    "density": 20.6,
+    "county_fips": 21127,
+    "county_name": "Lawrence",
+    "county_weights": "{\"21127\": 100}",
+    "county_names_all": "Lawrence",
+    "county_fips_all": "21127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

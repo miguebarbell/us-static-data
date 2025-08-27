@@ -1,0 +1,15 @@
+{
+    "zip": [
+        "80002",
+        "80003",
+        "80004",
+        "80005",
+        "80007"
+    ],
+    "city": "Arvada",
+    "state": "CO",
+    "lat": 39.79405,
+    "lng": -105.10845,
+    "state_name": "Colorado",
+    "timezone": "America/Denver"
+}

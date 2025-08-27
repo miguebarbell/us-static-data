@@ -1,0 +1,20 @@
+{
+    "zip": 57365,
+    "lat": 43.81148,
+    "lng": -99.41723,
+    "city": "Oacoma",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 619.0,
+    "density": 3.8,
+    "county_fips": 46085,
+    "county_name": "Lyman",
+    "county_weights": "{\"46085\": 100}",
+    "county_names_all": "Lyman",
+    "county_fips_all": "46085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

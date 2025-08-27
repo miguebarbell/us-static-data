@@ -1,0 +1,20 @@
+{
+    "zip": 27813,
+    "lat": 35.63083,
+    "lng": -77.93587,
+    "city": "Black Creek",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 714.0,
+    "density": 250.6,
+    "county_fips": 37195,
+    "county_name": "Wilson",
+    "county_weights": "{\"37195\": 100}",
+    "county_names_all": "Wilson",
+    "county_fips_all": "37195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 64788,
+    "lat": 38.42868,
+    "lng": -94.02045,
+    "city": "Urich",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1457.0,
+    "density": 5.5,
+    "county_fips": 29083,
+    "county_name": "Henry",
+    "county_weights": "{\"29083\": 74.69, \"29013\": 25.31}",
+    "county_names_all": "Henry|Bates",
+    "county_fips_all": "29083|29013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

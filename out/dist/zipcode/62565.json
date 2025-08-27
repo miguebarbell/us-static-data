@@ -1,0 +1,20 @@
+{
+    "zip": 62565,
+    "lat": 39.41334,
+    "lng": -88.8026,
+    "city": "Shelbyville",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7422.0,
+    "density": 22.6,
+    "county_fips": 17173,
+    "county_name": "Shelby",
+    "county_weights": "{\"17173\": 100}",
+    "county_names_all": "Shelby",
+    "county_fips_all": "17173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

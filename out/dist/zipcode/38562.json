@@ -1,0 +1,20 @@
+{
+    "zip": 38562,
+    "lat": 36.35173,
+    "lng": -85.65932,
+    "city": "Gainesboro",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6586.0,
+    "density": 18.2,
+    "county_fips": 47087,
+    "county_name": "Jackson",
+    "county_weights": "{\"47087\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "47087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 59002,
+    "lat": 45.99832,
+    "lng": -108.6649,
+    "city": "Acton",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 168.0,
+    "density": 0.8,
+    "county_fips": 30111,
+    "county_name": "Yellowstone",
+    "county_weights": "{\"30111\": 100}",
+    "county_names_all": "Yellowstone",
+    "county_fips_all": "30111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

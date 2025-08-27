@@ -1,0 +1,20 @@
+{
+    "zip": 13475,
+    "lat": 42.88789,
+    "lng": -74.81196,
+    "city": "Van Hornesville",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 49.0,
+    "density": 8.5,
+    "county_fips": 36043,
+    "county_name": "Herkimer",
+    "county_weights": "{\"36043\": 100}",
+    "county_names_all": "Herkimer",
+    "county_fips_all": "36043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

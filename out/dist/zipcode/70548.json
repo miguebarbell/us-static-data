@@ -1,0 +1,20 @@
+{
+    "zip": 70548,
+    "lat": 29.79733,
+    "lng": -92.41875,
+    "city": "Kaplan",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9077.0,
+    "density": 6.8,
+    "county_fips": 22113,
+    "county_name": "Vermilion",
+    "county_weights": "{\"22113\": 100}",
+    "county_names_all": "Vermilion",
+    "county_fips_all": "22113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

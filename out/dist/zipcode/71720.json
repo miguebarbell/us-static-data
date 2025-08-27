@@ -1,0 +1,20 @@
+{
+    "zip": 71720,
+    "lat": 33.79075,
+    "lng": -92.64163,
+    "city": "Bearden",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2306.0,
+    "density": 6.2,
+    "county_fips": 5103,
+    "county_name": "Ouachita",
+    "county_weights": "{\"05103\": 54.21, \"05039\": 39.86, \"05013\": 5.93}",
+    "county_names_all": "Ouachita|Dallas|Calhoun",
+    "county_fips_all": "05103|05039|05013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

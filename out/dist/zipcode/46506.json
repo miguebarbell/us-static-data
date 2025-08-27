@@ -1,0 +1,20 @@
+{
+    "zip": 46506,
+    "lat": 41.46316,
+    "lng": -86.16915,
+    "city": "Bremen",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10095.0,
+    "density": 38.5,
+    "county_fips": 18099,
+    "county_name": "Marshall",
+    "county_weights": "{\"18099\": 61.78, \"18141\": 37.51, \"18085\": 0.71}",
+    "county_names_all": "Marshall|St. Joseph|Kosciusko",
+    "county_fips_all": "18099|18141|18085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

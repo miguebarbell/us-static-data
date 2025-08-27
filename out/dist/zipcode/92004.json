@@ -1,0 +1,20 @@
+{
+    "zip": 92004,
+    "lat": 33.18481,
+    "lng": -116.15688,
+    "city": "Borrego Springs",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3030.0,
+    "density": 1.3,
+    "county_fips": 6073,
+    "county_name": "San Diego",
+    "county_weights": "{\"06073\": 58.05, \"06025\": 41.95}",
+    "county_names_all": "San Diego|Imperial",
+    "county_fips_all": "06073|06025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

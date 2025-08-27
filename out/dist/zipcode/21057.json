@@ -1,0 +1,20 @@
+{
+    "zip": 21057,
+    "lat": 39.45111,
+    "lng": -76.50606,
+    "city": "Glen Arm",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4463.0,
+    "density": 108.4,
+    "county_fips": 24005,
+    "county_name": "Baltimore",
+    "county_weights": "{\"24005\": 100}",
+    "county_names_all": "Baltimore",
+    "county_fips_all": "24005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

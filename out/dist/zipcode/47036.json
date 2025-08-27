@@ -1,0 +1,20 @@
+{
+    "zip": 47036,
+    "lat": 39.38563,
+    "lng": -85.23972,
+    "city": "Oldenburg",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1202.0,
+    "density": 26.1,
+    "county_fips": 18047,
+    "county_name": "Franklin",
+    "county_weights": "{\"18047\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "18047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

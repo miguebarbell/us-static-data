@@ -1,0 +1,20 @@
+{
+    "zip": 30429,
+    "lat": 32.15897,
+    "lng": -81.93714,
+    "city": "Hagan",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 135.0,
+    "density": 235.9,
+    "county_fips": 13109,
+    "county_name": "Evans",
+    "county_weights": "{\"13109\": 100}",
+    "county_names_all": "Evans",
+    "county_fips_all": "13109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 33470,
+    "lat": 26.7832,
+    "lng": -80.38063,
+    "city": "Loxahatchee",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33232.0,
+    "density": 62.6,
+    "county_fips": 12099,
+    "county_name": "Palm Beach",
+    "county_weights": "{\"12099\": 100}",
+    "county_names_all": "Palm Beach",
+    "county_fips_all": "12099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

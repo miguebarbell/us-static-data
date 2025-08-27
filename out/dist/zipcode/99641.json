@@ -1,0 +1,20 @@
+{
+    "zip": 99641,
+    "lat": 60.87722,
+    "lng": -162.46152,
+    "city": "Nunapitchuk",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 766.0,
+    "density": 42.3,
+    "county_fips": 2050,
+    "county_name": "Bethel",
+    "county_weights": "{\"02050\": 100}",
+    "county_names_all": "Bethel",
+    "county_fips_all": "02050",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Nome"
+}

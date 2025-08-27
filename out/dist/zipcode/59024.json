@@ -1,0 +1,20 @@
+{
+    "zip": 59024,
+    "lat": 46.20549,
+    "lng": -107.71464,
+    "city": "Custer",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 295.0,
+    "density": 0.2,
+    "county_fips": 30111,
+    "county_name": "Yellowstone",
+    "county_weights": "{\"30111\": 92.12, \"30003\": 7.88}",
+    "county_names_all": "Yellowstone|Big Horn",
+    "county_fips_all": "30111|30003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

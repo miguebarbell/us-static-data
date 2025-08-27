@@ -1,0 +1,20 @@
+{
+    "zip": 70752,
+    "lat": 30.57986,
+    "lng": -91.41915,
+    "city": "Lakeland",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 582.0,
+    "density": 38.4,
+    "county_fips": 22077,
+    "county_name": "Pointe Coupee",
+    "county_weights": "{\"22077\": 100}",
+    "county_names_all": "Pointe Coupee",
+    "county_fips_all": "22077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

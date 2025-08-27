@@ -1,0 +1,20 @@
+{
+    "zip": 32131,
+    "lat": 29.67803,
+    "lng": -81.56785,
+    "city": "East Palatka",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4596.0,
+    "density": 49.6,
+    "county_fips": 12107,
+    "county_name": "Putnam",
+    "county_weights": "{\"12107\": 93.98, \"12109\": 6.02}",
+    "county_names_all": "Putnam|St. Johns",
+    "county_fips_all": "12107|12109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

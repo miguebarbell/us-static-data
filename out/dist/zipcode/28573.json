@@ -1,0 +1,20 @@
+{
+    "zip": 28573,
+    "lat": 34.97997,
+    "lng": -77.19794,
+    "city": "Pollocksville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1808.0,
+    "density": 6.7,
+    "county_fips": 37103,
+    "county_name": "Jones",
+    "county_weights": "{\"37103\": 98.39, \"37049\": 1.61}",
+    "county_names_all": "Jones|Craven",
+    "county_fips_all": "37103|37049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

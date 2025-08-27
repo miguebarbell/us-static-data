@@ -1,0 +1,20 @@
+{
+    "zip": 16412,
+    "lat": 41.88212,
+    "lng": -80.16392,
+    "city": "Edinboro",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9726.0,
+    "density": 46.5,
+    "county_fips": 42049,
+    "county_name": "Erie",
+    "county_weights": "{\"42049\": 79.27, \"42039\": 20.73}",
+    "county_names_all": "Erie|Crawford",
+    "county_fips_all": "42049|42039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

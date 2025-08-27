@@ -1,0 +1,20 @@
+{
+    "zip": 63824,
+    "lat": 37.00513,
+    "lng": -89.52638,
+    "city": "Blodgett",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 172.0,
+    "density": 558.5,
+    "county_fips": 29201,
+    "county_name": "Scott",
+    "county_weights": "{\"29201\": 100}",
+    "county_names_all": "Scott",
+    "county_fips_all": "29201",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

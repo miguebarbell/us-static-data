@@ -1,0 +1,20 @@
+{
+    "zip": 39532,
+    "lat": 30.50155,
+    "lng": -88.97454,
+    "city": "Biloxi",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36710.0,
+    "density": 172.4,
+    "county_fips": 28047,
+    "county_name": "Harrison",
+    "county_weights": "{\"28047\": 89.89, \"28059\": 10.11}",
+    "county_names_all": "Harrison|Jackson",
+    "county_fips_all": "28047|28059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

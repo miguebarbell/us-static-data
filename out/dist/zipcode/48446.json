@@ -1,0 +1,20 @@
+{
+    "zip": 48446,
+    "lat": 43.05259,
+    "lng": -83.33745,
+    "city": "Lapeer",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30807.0,
+    "density": 97.6,
+    "county_fips": 26087,
+    "county_name": "Lapeer",
+    "county_weights": "{\"26087\": 100}",
+    "county_names_all": "Lapeer",
+    "county_fips_all": "26087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

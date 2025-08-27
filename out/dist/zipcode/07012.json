@@ -1,0 +1,20 @@
+{
+    "zip": 7012,
+    "lat": 40.84694,
+    "lng": -74.1596,
+    "city": "Clifton",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15153.0,
+    "density": 2668.0,
+    "county_fips": 34031,
+    "county_name": "Passaic",
+    "county_weights": "{\"34031\": 100}",
+    "county_names_all": "Passaic",
+    "county_fips_all": "34031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

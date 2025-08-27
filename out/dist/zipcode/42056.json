@@ -1,0 +1,20 @@
+{
+    "zip": 42056,
+    "lat": 37.11088,
+    "lng": -88.98452,
+    "city": "La Center",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1442.0,
+    "density": 10.4,
+    "county_fips": 21007,
+    "county_name": "Ballard",
+    "county_weights": "{\"21007\": 100}",
+    "county_names_all": "Ballard",
+    "county_fips_all": "21007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 26680,
+    "lat": 38.08991,
+    "lng": -80.87423,
+    "city": "Nallen",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 372.0,
+    "density": 4.2,
+    "county_fips": 54019,
+    "county_name": "Fayette",
+    "county_weights": "{\"54019\": 44.55, \"54025\": 32.05, \"54067\": 23.4}",
+    "county_names_all": "Fayette|Greenbrier|Nicholas",
+    "county_fips_all": "54019|54025|54067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

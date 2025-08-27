@@ -1,0 +1,20 @@
+{
+    "zip": 61810,
+    "lat": 39.91019,
+    "lng": -87.91837,
+    "city": "Allerton",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 217.0,
+    "density": 3.5,
+    "county_fips": 17183,
+    "county_name": "Vermilion",
+    "county_weights": "{\"17183\": 58.08, \"17045\": 21.94, \"17019\": 19.98}",
+    "county_names_all": "Vermilion|Edgar|Champaign",
+    "county_fips_all": "17183|17045|17019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

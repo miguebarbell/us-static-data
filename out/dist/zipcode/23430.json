@@ -1,0 +1,20 @@
+{
+    "zip": 23430,
+    "lat": 36.98615,
+    "lng": -76.66337,
+    "city": "Smithfield",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19057.0,
+    "density": 70.7,
+    "county_fips": 51093,
+    "county_name": "Isle of Wight",
+    "county_weights": "{\"51093\": 97.04, \"51181\": 2.96}",
+    "county_names_all": "Isle of Wight|Surry",
+    "county_fips_all": "51093|51181",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

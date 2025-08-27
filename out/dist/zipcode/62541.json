@@ -1,0 +1,20 @@
+{
+    "zip": 62541,
+    "lat": 39.95657,
+    "lng": -89.37085,
+    "city": "Lake Fork",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41.0,
+    "density": 6.9,
+    "county_fips": 17107,
+    "county_name": "Logan",
+    "county_weights": "{\"17107\": 100}",
+    "county_names_all": "Logan",
+    "county_fips_all": "17107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

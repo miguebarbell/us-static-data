@@ -1,0 +1,20 @@
+{
+    "zip": 99723,
+    "lat": 71.27434,
+    "lng": -156.75394,
+    "city": "Barrow",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4855.0,
+    "density": 99.3,
+    "county_fips": 2185,
+    "county_name": "North Slope",
+    "county_weights": "{\"02185\": 100}",
+    "county_names_all": "North Slope",
+    "county_fips_all": "02185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

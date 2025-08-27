@@ -1,0 +1,20 @@
+{
+    "zip": 31711,
+    "lat": 32.18766,
+    "lng": -84.12258,
+    "city": "Andersonville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 783.0,
+    "density": 4.1,
+    "county_fips": 13261,
+    "county_name": "Sumter",
+    "county_weights": "{\"13261\": 61.91, \"13193\": 37.28, \"13249\": 0.81}",
+    "county_names_all": "Sumter|Macon|Schley",
+    "county_fips_all": "13261|13193|13249",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

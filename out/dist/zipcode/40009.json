@@ -1,0 +1,20 @@
+{
+    "zip": 40009,
+    "lat": 37.47075,
+    "lng": -85.099,
+    "city": "Bradfordsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1564.0,
+    "density": 9.4,
+    "county_fips": 21155,
+    "county_name": "Marion",
+    "county_weights": "{\"21155\": 72.7, \"21217\": 21.39, \"21045\": 5.91}",
+    "county_names_all": "Marion|Taylor|Casey",
+    "county_fips_all": "21155|21217|21045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

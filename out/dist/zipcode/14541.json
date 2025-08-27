@@ -1,0 +1,20 @@
+{
+    "zip": 14541,
+    "lat": 42.75704,
+    "lng": -76.84403,
+    "city": "Romulus",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3523.0,
+    "density": 28.4,
+    "county_fips": 36099,
+    "county_name": "Seneca",
+    "county_weights": "{\"36099\": 100}",
+    "county_names_all": "Seneca",
+    "county_fips_all": "36099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

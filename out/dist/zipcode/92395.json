@@ -1,0 +1,20 @@
+{
+    "zip": 92395,
+    "lat": 34.50032,
+    "lng": -117.29479,
+    "city": "Victorville",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 49323.0,
+    "density": 1127.4,
+    "county_fips": 6071,
+    "county_name": "San Bernardino",
+    "county_weights": "{\"06071\": 100}",
+    "county_names_all": "San Bernardino",
+    "county_fips_all": "06071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 93622,
+    "lat": 36.79283,
+    "lng": -120.62434,
+    "city": "Firebaugh",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9683.0,
+    "density": 8.2,
+    "county_fips": 6019,
+    "county_name": "Fresno",
+    "county_weights": "{\"06019\": 83.44, \"06039\": 10.32, \"06047\": 6.24}",
+    "county_names_all": "Fresno|Madera|Merced",
+    "county_fips_all": "06019|06039|06047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

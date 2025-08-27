@@ -1,0 +1,20 @@
+{
+    "zip": 76848,
+    "lat": 30.83928,
+    "lng": -99.5637,
+    "city": "Hext",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 53.0,
+    "density": 0.3,
+    "county_fips": 48327,
+    "county_name": "Menard",
+    "county_weights": "{\"48327\": 100}",
+    "county_names_all": "Menard",
+    "county_fips_all": "48327",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

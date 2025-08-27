@@ -1,0 +1,20 @@
+{
+    "zip": 55041,
+    "lat": 44.39544,
+    "lng": -92.31923,
+    "city": "Lake City",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7532.0,
+    "density": 20.2,
+    "county_fips": 27157,
+    "county_name": "Wabasha",
+    "county_weights": "{\"27157\": 83.45, \"27049\": 16.55}",
+    "county_names_all": "Wabasha|Goodhue",
+    "county_fips_all": "27157|27049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

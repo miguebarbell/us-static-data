@@ -1,0 +1,20 @@
+{
+    "zip": 14712,
+    "lat": 42.18163,
+    "lng": -79.36812,
+    "city": "Bemus Point",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3079.0,
+    "density": 46.1,
+    "county_fips": 36013,
+    "county_name": "Chautauqua",
+    "county_weights": "{\"36013\": 100}",
+    "county_names_all": "Chautauqua",
+    "county_fips_all": "36013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

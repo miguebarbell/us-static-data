@@ -1,0 +1,20 @@
+{
+    "zip": 18018,
+    "lat": 40.62766,
+    "lng": -75.39538,
+    "city": "Bethlehem",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32253.0,
+    "density": 2407.7,
+    "county_fips": 42077,
+    "county_name": "Lehigh",
+    "county_weights": "{\"42077\": 66.51, \"42095\": 33.49}",
+    "county_names_all": "Lehigh|Northampton",
+    "county_fips_all": "42077|42095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

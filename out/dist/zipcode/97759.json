@@ -1,0 +1,20 @@
+{
+    "zip": 97759,
+    "lat": 44.44428,
+    "lng": -121.76823,
+    "city": "Sisters",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7500.0,
+    "density": 5.3,
+    "county_fips": 41043,
+    "county_name": "Linn",
+    "county_weights": "{\"41043\": 42.32, \"41031\": 31.0, \"41017\": 26.68}",
+    "county_names_all": "Linn|Jefferson|Deschutes",
+    "county_fips_all": "41043|41031|41017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

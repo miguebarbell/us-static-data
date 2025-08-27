@@ -1,0 +1,20 @@
+{
+    "zip": 42078,
+    "lat": 37.28876,
+    "lng": -88.27202,
+    "city": "Salem",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1718.0,
+    "density": 7.5,
+    "county_fips": 21139,
+    "county_name": "Livingston",
+    "county_weights": "{\"21139\": 75.74, \"21055\": 24.26}",
+    "county_names_all": "Livingston|Crittenden",
+    "county_fips_all": "21139|21055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

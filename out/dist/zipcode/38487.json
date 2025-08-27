@@ -1,0 +1,20 @@
+{
+    "zip": 38487,
+    "lat": 35.72163,
+    "lng": -87.23589,
+    "city": "Williamsport",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 688.0,
+    "density": 5.2,
+    "county_fips": 47119,
+    "county_name": "Maury",
+    "county_weights": "{\"47119\": 64.97, \"47081\": 35.03}",
+    "county_names_all": "Maury|Hickman",
+    "county_fips_all": "47119|47081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

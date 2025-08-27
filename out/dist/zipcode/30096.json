@@ -1,0 +1,20 @@
+{
+    "zip": 30096,
+    "lat": 33.97691,
+    "lng": -84.14791,
+    "city": "Duluth",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 71141.0,
+    "density": 1207.5,
+    "county_fips": 13135,
+    "county_name": "Gwinnett",
+    "county_weights": "{\"13135\": 99.89, \"13121\": 0.11}",
+    "county_names_all": "Gwinnett|Fulton",
+    "county_fips_all": "13135|13121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 99587,
+    "lat": 60.9103,
+    "lng": -148.84466,
+    "city": "Girdwood",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1857.0,
+    "density": 2.1,
+    "county_fips": 2020,
+    "county_name": "Anchorage",
+    "county_weights": "{\"02020\": 100}",
+    "county_names_all": "Anchorage",
+    "county_fips_all": "02020",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

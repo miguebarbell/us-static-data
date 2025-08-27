@@ -1,0 +1,20 @@
+{
+    "zip": 54703,
+    "lat": 44.83311,
+    "lng": -91.5185,
+    "city": "Eau Claire",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43022.0,
+    "density": 204.9,
+    "county_fips": 55035,
+    "county_name": "Eau Claire",
+    "county_weights": "{\"55035\": 77.97, \"55017\": 20.37, \"55033\": 1.66}",
+    "county_names_all": "Eau Claire|Chippewa|Dunn",
+    "county_fips_all": "55035|55017|55033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 37694,
+    "lat": 36.3849,
+    "lng": -82.27588,
+    "city": "Watauga",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1738.0,
+    "density": 53.1,
+    "county_fips": 47019,
+    "county_name": "Carter",
+    "county_weights": "{\"47019\": 79.42, \"47163\": 17.62, \"47179\": 2.96}",
+    "county_names_all": "Carter|Sullivan|Washington",
+    "county_fips_all": "47019|47163|47179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

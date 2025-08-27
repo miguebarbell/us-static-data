@@ -1,0 +1,20 @@
+{
+    "zip": 18242,
+    "lat": 40.90606,
+    "lng": -76.12349,
+    "city": "Oneida",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 382.0,
+    "density": 667.2,
+    "county_fips": 42107,
+    "county_name": "Schuylkill",
+    "county_weights": "{\"42107\": 100}",
+    "county_names_all": "Schuylkill",
+    "county_fips_all": "42107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

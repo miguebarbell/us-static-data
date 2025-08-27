@@ -1,0 +1,20 @@
+{
+    "zip": 17925,
+    "lat": 40.75609,
+    "lng": -76.07047,
+    "city": "Brockton",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 324.0,
+    "density": 129.4,
+    "county_fips": 42107,
+    "county_name": "Schuylkill",
+    "county_weights": "{\"42107\": 100}",
+    "county_names_all": "Schuylkill",
+    "county_fips_all": "42107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

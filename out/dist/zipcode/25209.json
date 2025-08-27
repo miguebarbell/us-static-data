@@ -1,0 +1,20 @@
+{
+    "zip": 25209,
+    "lat": 37.96271,
+    "lng": -81.52861,
+    "city": "Whitesville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 529.0,
+    "density": 8.0,
+    "county_fips": 54005,
+    "county_name": "Boone",
+    "county_weights": "{\"54005\": 51.77, \"54081\": 48.23}",
+    "county_names_all": "Boone|Raleigh",
+    "county_fips_all": "54005|54081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

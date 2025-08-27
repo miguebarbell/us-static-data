@@ -1,0 +1,20 @@
+{
+    "zip": 46068,
+    "lat": 40.37511,
+    "lng": -86.1112,
+    "city": "Sharpsville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2555.0,
+    "density": 21.9,
+    "county_fips": 18159,
+    "county_name": "Tipton",
+    "county_weights": "{\"18159\": 97.12, \"18067\": 2.88}",
+    "county_names_all": "Tipton|Howard",
+    "county_fips_all": "18159|18067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

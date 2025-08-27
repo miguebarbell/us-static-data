@@ -1,0 +1,20 @@
+{
+    "zip": 81320,
+    "lat": 37.70115,
+    "lng": -108.72654,
+    "city": "Cahone",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 434.0,
+    "density": 1.1,
+    "county_fips": 8033,
+    "county_name": "Dolores",
+    "county_weights": "{\"08033\": 100}",
+    "county_names_all": "Dolores",
+    "county_fips_all": "08033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

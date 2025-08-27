@@ -1,0 +1,20 @@
+{
+    "zip": 23156,
+    "lat": 37.5244,
+    "lng": -76.71106,
+    "city": "Shacklefords",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1249.0,
+    "density": 11.5,
+    "county_fips": 51097,
+    "county_name": "King and Queen",
+    "county_weights": "{\"51097\": 100}",
+    "county_names_all": "King and Queen",
+    "county_fips_all": "51097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

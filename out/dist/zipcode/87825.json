@@ -1,0 +1,20 @@
+{
+    "zip": 87825,
+    "lat": 33.94509,
+    "lng": -107.6603,
+    "city": "Magdalena",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2550.0,
+    "density": 0.4,
+    "county_fips": 35053,
+    "county_name": "Socorro",
+    "county_weights": "{\"35053\": 67.6, \"35003\": 32.4}",
+    "county_names_all": "Socorro|Catron",
+    "county_fips_all": "35053|35003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

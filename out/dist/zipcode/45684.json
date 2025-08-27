@@ -1,0 +1,20 @@
+{
+    "zip": 45684,
+    "lat": 38.67546,
+    "lng": -83.27789,
+    "city": "Stout",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1577.0,
+    "density": 7.3,
+    "county_fips": 39001,
+    "county_name": "Adams",
+    "county_weights": "{\"39001\": 57.8, \"39145\": 42.2}",
+    "county_names_all": "Adams|Scioto",
+    "county_fips_all": "39001|39145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

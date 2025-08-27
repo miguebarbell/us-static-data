@@ -1,0 +1,20 @@
+{
+    "zip": 58008,
+    "lat": 46.30816,
+    "lng": -97.00237,
+    "city": "Barney",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 184.0,
+    "density": 1.3,
+    "county_fips": 38077,
+    "county_name": "Richland",
+    "county_weights": "{\"38077\": 100}",
+    "county_names_all": "Richland",
+    "county_fips_all": "38077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

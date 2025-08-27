@@ -1,0 +1,20 @@
+{
+    "zip": 81084,
+    "lat": 37.57031,
+    "lng": -102.41929,
+    "city": "Two Buttes",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39.0,
+    "density": 0.1,
+    "county_fips": 8009,
+    "county_name": "Baca",
+    "county_weights": "{\"08009\": 83.65, \"08099\": 16.35}",
+    "county_names_all": "Baca|Prowers",
+    "county_fips_all": "08009|08099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

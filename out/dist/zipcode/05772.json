@@ -1,0 +1,20 @@
+{
+    "zip": 5772,
+    "lat": 43.75989,
+    "lng": -72.74003,
+    "city": "Stockbridge",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 845.0,
+    "density": 7.9,
+    "county_fips": 50027,
+    "county_name": "Windsor",
+    "county_weights": "{\"50027\": 99.16, \"50021\": 0.84}",
+    "county_names_all": "Windsor|Rutland",
+    "county_fips_all": "50027|50021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

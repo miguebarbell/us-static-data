@@ -1,0 +1,20 @@
+{
+    "zip": 11713,
+    "lat": 40.77774,
+    "lng": -72.94253,
+    "city": "Bellport",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9236.0,
+    "density": 638.7,
+    "county_fips": 36103,
+    "county_name": "Suffolk",
+    "county_weights": "{\"36103\": 100}",
+    "county_names_all": "Suffolk",
+    "county_fips_all": "36103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

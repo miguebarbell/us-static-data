@@ -1,0 +1,20 @@
+{
+    "zip": 71832,
+    "lat": 34.0397,
+    "lng": -94.34791,
+    "city": "De Queen",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10178.0,
+    "density": 21.6,
+    "county_fips": 5133,
+    "county_name": "Sevier",
+    "county_weights": "{\"05133\": 100}",
+    "county_names_all": "Sevier",
+    "county_fips_all": "05133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

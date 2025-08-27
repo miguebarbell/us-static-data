@@ -1,0 +1,20 @@
+{
+    "zip": 18503,
+    "lat": 41.41007,
+    "lng": -75.66767,
+    "city": "Scranton",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1537.0,
+    "density": 1252.3,
+    "county_fips": 42069,
+    "county_name": "Lackawanna",
+    "county_weights": "{\"42069\": 100}",
+    "county_names_all": "Lackawanna",
+    "county_fips_all": "42069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

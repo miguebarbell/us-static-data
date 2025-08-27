@@ -1,0 +1,20 @@
+{
+    "zip": 31331,
+    "lat": 31.5159,
+    "lng": -81.42042,
+    "city": "Townsend",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5997.0,
+    "density": 8.1,
+    "county_fips": 13191,
+    "county_name": "McIntosh",
+    "county_weights": "{\"13191\": 100}",
+    "county_names_all": "McIntosh",
+    "county_fips_all": "13191",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

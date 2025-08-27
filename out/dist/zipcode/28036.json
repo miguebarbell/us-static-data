@@ -1,0 +1,20 @@
+{
+    "zip": 28036,
+    "lat": 35.48586,
+    "lng": -80.79375,
+    "city": "Davidson",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21824.0,
+    "density": 359.7,
+    "county_fips": 37119,
+    "county_name": "Mecklenburg",
+    "county_weights": "{\"37119\": 59.06, \"37025\": 32.73, \"37097\": 7.89, \"37159\": 0.32}",
+    "county_names_all": "Mecklenburg|Cabarrus|Iredell|Rowan",
+    "county_fips_all": "37119|37025|37097|37159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 93928,
+    "lat": 36.06484,
+    "lng": -121.38102,
+    "city": "Jolon",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1084.0,
+    "density": 10.9,
+    "county_fips": 6053,
+    "county_name": "Monterey",
+    "county_weights": "{\"06053\": 100}",
+    "county_names_all": "Monterey",
+    "county_fips_all": "06053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

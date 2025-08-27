@@ -1,0 +1,20 @@
+{
+    "zip": 16689,
+    "lat": 40.10737,
+    "lng": -78.10028,
+    "city": "Waterfall",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 331.0,
+    "density": 7.3,
+    "county_fips": 42057,
+    "county_name": "Fulton",
+    "county_weights": "{\"42057\": 100}",
+    "county_names_all": "Fulton",
+    "county_fips_all": "42057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

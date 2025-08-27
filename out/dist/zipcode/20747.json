@@ -1,0 +1,20 @@
+{
+    "zip": 20747,
+    "lat": 38.85348,
+    "lng": -76.88377,
+    "city": "District Heights",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37924.0,
+    "density": 1853.2,
+    "county_fips": 24033,
+    "county_name": "Prince George's",
+    "county_weights": "{\"24033\": 100}",
+    "county_names_all": "Prince George's",
+    "county_fips_all": "24033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 4285,
+    "lat": 44.70625,
+    "lng": -70.4523,
+    "city": "Weld",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 513.0,
+    "density": 3.3,
+    "county_fips": 23007,
+    "county_name": "Franklin",
+    "county_weights": "{\"23007\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "23007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

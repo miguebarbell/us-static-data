@@ -1,0 +1,20 @@
+{
+    "zip": 73441,
+    "lat": 33.8674,
+    "lng": -97.44021,
+    "city": "Leon",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 113.0,
+    "density": 4.0,
+    "county_fips": 40085,
+    "county_name": "Love",
+    "county_weights": "{\"40085\": 100}",
+    "county_names_all": "Love",
+    "county_fips_all": "40085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

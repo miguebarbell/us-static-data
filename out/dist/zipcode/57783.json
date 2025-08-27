@@ -1,0 +1,20 @@
+{
+    "zip": 57783,
+    "lat": 44.47106,
+    "lng": -103.9219,
+    "city": "Spearfish",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16929.0,
+    "density": 30.7,
+    "county_fips": 46081,
+    "county_name": "Lawrence",
+    "county_weights": "{\"46081\": 96.26, \"46019\": 3.74}",
+    "county_names_all": "Lawrence|Butte",
+    "county_fips_all": "46081|46019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

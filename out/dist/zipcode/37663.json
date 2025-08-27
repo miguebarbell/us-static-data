@@ -1,0 +1,20 @@
+{
+    "zip": 37663,
+    "lat": 36.46466,
+    "lng": -82.48525,
+    "city": "Kingsport",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14037.0,
+    "density": 210.5,
+    "county_fips": 47163,
+    "county_name": "Sullivan",
+    "county_weights": "{\"47163\": 95.26, \"47179\": 4.74}",
+    "county_names_all": "Sullivan|Washington",
+    "county_fips_all": "47163|47179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 54521,
+    "lat": 45.9162,
+    "lng": -89.25451,
+    "city": "Eagle River",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8555.0,
+    "density": 17.5,
+    "county_fips": 55125,
+    "county_name": "Vilas",
+    "county_weights": "{\"55125\": 64.65, \"55085\": 30.26, \"55041\": 5.09}",
+    "county_names_all": "Vilas|Oneida|Forest",
+    "county_fips_all": "55125|55085|55041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

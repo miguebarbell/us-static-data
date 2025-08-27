@@ -1,0 +1,20 @@
+{
+    "zip": 30542,
+    "lat": 34.17846,
+    "lng": -83.90915,
+    "city": "Flowery Branch",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38300.0,
+    "density": 348.4,
+    "county_fips": 13139,
+    "county_name": "Hall",
+    "county_weights": "{\"13139\": 100}",
+    "county_names_all": "Hall",
+    "county_fips_all": "13139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

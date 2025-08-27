@@ -1,0 +1,20 @@
+{
+    "zip": 63037,
+    "lat": 38.42497,
+    "lng": -91.3165,
+    "city": "Gerald",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2826.0,
+    "density": 13.6,
+    "county_fips": 29071,
+    "county_name": "Franklin",
+    "county_weights": "{\"29071\": 98.55, \"29073\": 1.45}",
+    "county_names_all": "Franklin|Gasconade",
+    "county_fips_all": "29071|29073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

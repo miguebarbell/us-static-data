@@ -1,0 +1,20 @@
+{
+    "zip": 48637,
+    "lat": 43.41499,
+    "lng": -84.33646,
+    "city": "Merrill",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3068.0,
+    "density": 16.7,
+    "county_fips": 26145,
+    "county_name": "Saginaw",
+    "county_weights": "{\"26145\": 68.89, \"26111\": 18.9, \"26057\": 12.21}",
+    "county_names_all": "Saginaw|Midland|Gratiot",
+    "county_fips_all": "26145|26111|26057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

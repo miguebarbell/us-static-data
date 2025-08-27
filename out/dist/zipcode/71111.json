@@ -1,0 +1,20 @@
+{
+    "zip": 71111,
+    "lat": 32.57904,
+    "lng": -93.70379,
+    "city": "Bossier City",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43302.0,
+    "density": 369.6,
+    "county_fips": 22015,
+    "county_name": "Bossier",
+    "county_weights": "{\"22015\": 100}",
+    "county_names_all": "Bossier",
+    "county_fips_all": "22015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 68405,
+    "lat": 40.76522,
+    "lng": -97.07315,
+    "city": "Milford",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3511.0,
+    "density": 17.1,
+    "county_fips": 31159,
+    "county_name": "Seward",
+    "county_weights": "{\"31159\": 99.04, \"31151\": 0.96}",
+    "county_names_all": "Seward|Saline",
+    "county_fips_all": "31159|31151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65337,
+    "lat": 38.79202,
+    "lng": -93.42573,
+    "city": "La Monte",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1786.0,
+    "density": 7.9,
+    "county_fips": 29159,
+    "county_name": "Pettis",
+    "county_weights": "{\"29159\": 100}",
+    "county_names_all": "Pettis",
+    "county_fips_all": "29159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

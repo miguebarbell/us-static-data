@@ -1,0 +1,20 @@
+{
+    "zip": 83537,
+    "lat": 46.62877,
+    "lng": -116.52348,
+    "city": "Kendrick",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 975.0,
+    "density": 2.1,
+    "county_fips": 16057,
+    "county_name": "Latah",
+    "county_weights": "{\"16057\": 52.28, \"16069\": 27.99, \"16035\": 19.73}",
+    "county_names_all": "Latah|Nez Perce|Clearwater",
+    "county_fips_all": "16057|16069|16035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

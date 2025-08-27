@@ -1,0 +1,20 @@
+{
+    "zip": 79566,
+    "lat": 32.15454,
+    "lng": -100.1098,
+    "city": "Wingate",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 195.0,
+    "density": 0.6,
+    "county_fips": 48441,
+    "county_name": "Taylor",
+    "county_weights": "{\"48441\": 67.99, \"48399\": 16.9, \"48353\": 15.11}",
+    "county_names_all": "Taylor|Runnels|Nolan",
+    "county_fips_all": "48441|48399|48353",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

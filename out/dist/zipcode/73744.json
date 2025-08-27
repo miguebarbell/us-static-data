@@ -1,0 +1,20 @@
+{
+    "zip": 73744,
+    "lat": 35.94912,
+    "lng": -98.29643,
+    "city": "Hitchcock",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 184.0,
+    "density": 0.6,
+    "county_fips": 40011,
+    "county_name": "Blaine",
+    "county_weights": "{\"40011\": 95.28, \"40073\": 4.72}",
+    "county_names_all": "Blaine|Kingfisher",
+    "county_fips_all": "40011|40073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

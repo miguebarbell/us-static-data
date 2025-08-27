@@ -1,0 +1,20 @@
+{
+    "zip": 50312,
+    "lat": 41.58064,
+    "lng": -93.67622,
+    "city": "Des Moines",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15492.0,
+    "density": 1062.4,
+    "county_fips": 19153,
+    "county_name": "Polk",
+    "county_weights": "{\"19153\": 100}",
+    "county_names_all": "Polk",
+    "county_fips_all": "19153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

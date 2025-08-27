@@ -1,0 +1,20 @@
+{
+    "zip": 30275,
+    "lat": 33.43066,
+    "lng": -84.86798,
+    "city": "Sargent",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 233.0,
+    "density": 2848.7,
+    "county_fips": 13077,
+    "county_name": "Coweta",
+    "county_weights": "{\"13077\": 100}",
+    "county_names_all": "Coweta",
+    "county_fips_all": "13077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

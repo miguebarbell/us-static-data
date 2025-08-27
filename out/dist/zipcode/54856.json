@@ -1,0 +1,20 @@
+{
+    "zip": 54856,
+    "lat": 46.43401,
+    "lng": -91.10279,
+    "city": "Mason",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1585.0,
+    "density": 2.9,
+    "county_fips": 55007,
+    "county_name": "Bayfield",
+    "county_weights": "{\"55007\": 98.48, \"55003\": 1.52}",
+    "county_names_all": "Bayfield|Ashland",
+    "county_fips_all": "55007|55003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 46968,
+    "lat": 41.17049,
+    "lng": -86.55179,
+    "city": "Ora",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 136.0,
+    "density": 46.2,
+    "county_fips": 18131,
+    "county_name": "Pulaski",
+    "county_weights": "{\"18131\": 59.25, \"18149\": 40.75}",
+    "county_names_all": "Pulaski|Starke",
+    "county_fips_all": "18131|18149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Winamac"
+}

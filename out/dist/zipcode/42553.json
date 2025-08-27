@@ -1,0 +1,20 @@
+{
+    "zip": 42553,
+    "lat": 37.1716,
+    "lng": -84.70056,
+    "city": "Science Hill",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5962.0,
+    "density": 35.0,
+    "county_fips": 21199,
+    "county_name": "Pulaski",
+    "county_weights": "{\"21199\": 100}",
+    "county_names_all": "Pulaski",
+    "county_fips_all": "21199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

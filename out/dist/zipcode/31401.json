@@ -1,0 +1,20 @@
+{
+    "zip": 31401,
+    "lat": 32.06831,
+    "lng": -81.09252,
+    "city": "Savannah",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20562.0,
+    "density": 2326.1,
+    "county_fips": 13051,
+    "county_name": "Chatham",
+    "county_weights": "{\"13051\": 100}",
+    "county_names_all": "Chatham",
+    "county_fips_all": "13051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

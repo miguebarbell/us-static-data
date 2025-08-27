@@ -1,0 +1,20 @@
+{
+    "zip": 58535,
+    "lat": 46.48724,
+    "lng": -101.24558,
+    "city": "Flasher",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 435.0,
+    "density": 0.5,
+    "county_fips": 38059,
+    "county_name": "Morton",
+    "county_weights": "{\"38059\": 62.74, \"38037\": 37.26}",
+    "county_names_all": "Morton|Grant",
+    "county_fips_all": "38059|38037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/North_Dakota/New_Salem"
+}

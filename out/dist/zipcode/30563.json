@@ -1,0 +1,20 @@
+{
+    "zip": 30563,
+    "lat": 34.5596,
+    "lng": -83.46283,
+    "city": "Mount Airy",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6140.0,
+    "density": 61.0,
+    "county_fips": 13137,
+    "county_name": "Habersham",
+    "county_weights": "{\"13137\": 98.78, \"13257\": 1.22}",
+    "county_names_all": "Habersham|Stephens",
+    "county_fips_all": "13137|13257",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

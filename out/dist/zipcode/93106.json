@@ -1,0 +1,20 @@
+{
+    "zip": 93106,
+    "lat": 34.41719,
+    "lng": -119.85111,
+    "city": "Santa Barbara",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5613.0,
+    "density": 3448.7,
+    "county_fips": 6083,
+    "county_name": "Santa Barbara",
+    "county_weights": "{\"06083\": 100}",
+    "county_names_all": "Santa Barbara",
+    "county_fips_all": "06083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

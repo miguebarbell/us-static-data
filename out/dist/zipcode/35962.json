@@ -1,0 +1,20 @@
+{
+    "zip": 35962,
+    "lat": 34.29916,
+    "lng": -86.03795,
+    "city": "Crossville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8211.0,
+    "density": 44.3,
+    "county_fips": 1049,
+    "county_name": "DeKalb",
+    "county_weights": "{\"01049\": 90.75, \"01095\": 9.25}",
+    "county_names_all": "DeKalb|Marshall",
+    "county_fips_all": "01049|01095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

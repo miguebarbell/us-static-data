@@ -1,0 +1,20 @@
+{
+    "zip": 58831,
+    "lat": 47.84878,
+    "lng": -103.65843,
+    "city": "Alexander",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1100.0,
+    "density": 1.0,
+    "county_fips": 38053,
+    "county_name": "McKenzie",
+    "county_weights": "{\"38053\": 100}",
+    "county_names_all": "McKenzie",
+    "county_fips_all": "38053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

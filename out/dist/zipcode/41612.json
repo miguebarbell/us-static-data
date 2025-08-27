@@ -1,0 +1,20 @@
+{
+    "zip": 41612,
+    "lat": 37.35451,
+    "lng": -82.72233,
+    "city": "Bypro",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 132.0,
+    "density": 131.8,
+    "county_fips": 21071,
+    "county_name": "Floyd",
+    "county_weights": "{\"21071\": 100}",
+    "county_names_all": "Floyd",
+    "county_fips_all": "21071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 28315,
+    "lat": 35.1122,
+    "lng": -79.44452,
+    "city": "Aberdeen",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14143.0,
+    "density": 84.0,
+    "county_fips": 37125,
+    "county_name": "Moore",
+    "county_weights": "{\"37125\": 66.46, \"37093\": 33.54}",
+    "county_names_all": "Moore|Hoke",
+    "county_fips_all": "37125|37093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

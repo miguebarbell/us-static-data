@@ -1,0 +1,20 @@
+{
+    "zip": 36057,
+    "lat": 32.37464,
+    "lng": -86.08461,
+    "city": "Mount Meigs",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 144.0,
+    "density": 337.3,
+    "county_fips": 1101,
+    "county_name": "Montgomery",
+    "county_weights": "{\"01101\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "01101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

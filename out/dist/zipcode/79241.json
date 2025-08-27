@@ -1,0 +1,20 @@
+{
+    "zip": 79241,
+    "lat": 34.18069,
+    "lng": -101.38507,
+    "city": "Lockney",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2088.0,
+    "density": 2.1,
+    "county_fips": 48153,
+    "county_name": "Floyd",
+    "county_weights": "{\"48153\": 99.3, \"48437\": 0.7}",
+    "county_names_all": "Floyd|Swisher",
+    "county_fips_all": "48153|48437",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 32466,
+    "lat": 30.38618,
+    "lng": -85.464,
+    "city": "Youngstown",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5837.0,
+    "density": 13.0,
+    "county_fips": 12005,
+    "county_name": "Bay",
+    "county_weights": "{\"12005\": 65.66, \"12013\": 24.08, \"12133\": 10.26}",
+    "county_names_all": "Bay|Calhoun|Washington",
+    "county_fips_all": "12005|12013|12133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

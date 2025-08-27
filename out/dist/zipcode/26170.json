@@ -1,0 +1,20 @@
+{
+    "zip": 26170,
+    "lat": 39.36136,
+    "lng": -81.17136,
+    "city": "Saint Marys",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6153.0,
+    "density": 21.9,
+    "county_fips": 54073,
+    "county_name": "Pleasants",
+    "county_weights": "{\"54073\": 96.45, \"54085\": 3.55}",
+    "county_names_all": "Pleasants|Ritchie",
+    "county_fips_all": "54073|54085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

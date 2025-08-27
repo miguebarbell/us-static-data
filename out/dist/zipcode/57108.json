@@ -1,0 +1,20 @@
+{
+    "zip": 57108,
+    "lat": 43.47776,
+    "lng": -96.70571,
+    "city": "Sioux Falls",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32888.0,
+    "density": 417.7,
+    "county_fips": 46083,
+    "county_name": "Lincoln",
+    "county_weights": "{\"46083\": 98.68, \"46099\": 1.32}",
+    "county_names_all": "Lincoln|Minnehaha",
+    "county_fips_all": "46083|46099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

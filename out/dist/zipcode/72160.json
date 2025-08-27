@@ -1,0 +1,20 @@
+{
+    "zip": 72160,
+    "lat": 34.44284,
+    "lng": -91.53136,
+    "city": "Stuttgart",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8895.0,
+    "density": 10.8,
+    "county_fips": 5001,
+    "county_name": "Arkansas",
+    "county_weights": "{\"05001\": 59.71, \"05117\": 28.82, \"05069\": 10.53, \"05085\": 0.94}",
+    "county_names_all": "Arkansas|Prairie|Jefferson|Lonoke",
+    "county_fips_all": "05001|05117|05069|05085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

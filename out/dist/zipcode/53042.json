@@ -1,0 +1,20 @@
+{
+    "zip": 53042,
+    "lat": 43.95144,
+    "lng": -87.98216,
+    "city": "Kiel",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6681.0,
+    "density": 41.6,
+    "county_fips": 55071,
+    "county_name": "Manitowoc",
+    "county_weights": "{\"55071\": 91.06, \"55015\": 8.94}",
+    "county_names_all": "Manitowoc|Calumet",
+    "county_fips_all": "55071|55015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

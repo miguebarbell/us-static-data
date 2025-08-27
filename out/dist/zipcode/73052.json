@@ -1,0 +1,20 @@
+{
+    "zip": 73052,
+    "lat": 34.83359,
+    "lng": -97.59526,
+    "city": "Lindsay",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6289.0,
+    "density": 11.6,
+    "county_fips": 40049,
+    "county_name": "Garvin",
+    "county_weights": "{\"40049\": 51.68, \"40087\": 38.09, \"40051\": 10.23}",
+    "county_names_all": "Garvin|McClain|Grady",
+    "county_fips_all": "40049|40087|40051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

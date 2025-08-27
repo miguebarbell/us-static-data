@@ -1,0 +1,20 @@
+{
+    "zip": 70041,
+    "lat": 29.33194,
+    "lng": -89.46978,
+    "city": "Buras",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2092.0,
+    "density": 26.4,
+    "county_fips": 22075,
+    "county_name": "Plaquemines",
+    "county_weights": "{\"22075\": 100}",
+    "county_names_all": "Plaquemines",
+    "county_fips_all": "22075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

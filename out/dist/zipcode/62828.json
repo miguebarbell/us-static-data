@@ -1,0 +1,20 @@
+{
+    "zip": 62828,
+    "lat": 38.19536,
+    "lng": -88.60864,
+    "city": "Dahlgren",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1642.0,
+    "density": 7.7,
+    "county_fips": 17065,
+    "county_name": "Hamilton",
+    "county_weights": "{\"17065\": 97.14, \"17191\": 2.86}",
+    "county_names_all": "Hamilton|Wayne",
+    "county_fips_all": "17065|17191",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

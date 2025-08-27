@@ -1,0 +1,20 @@
+{
+    "zip": 57706,
+    "lat": 44.1564,
+    "lng": -103.09561,
+    "city": "Ellsworth Afb",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3009.0,
+    "density": 189.4,
+    "county_fips": 46093,
+    "county_name": "Meade",
+    "county_weights": "{\"46093\": 93.42, \"46103\": 6.58}",
+    "county_names_all": "Meade|Pennington",
+    "county_fips_all": "46093|46103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

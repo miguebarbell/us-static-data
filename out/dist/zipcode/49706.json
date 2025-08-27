@@ -1,0 +1,20 @@
+{
+    "zip": 49706,
+    "lat": 45.44129,
+    "lng": -84.77915,
+    "city": "Alanson",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4712.0,
+    "density": 31.1,
+    "county_fips": 26047,
+    "county_name": "Emmet",
+    "county_weights": "{\"26047\": 73.04, \"26031\": 26.96}",
+    "county_names_all": "Emmet|Cheboygan",
+    "county_fips_all": "26047|26031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

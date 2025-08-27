@@ -1,0 +1,20 @@
+{
+    "zip": 99628,
+    "lat": 58.9033,
+    "lng": -158.90867,
+    "city": "Manokotak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 693.0,
+    "density": 3.4,
+    "county_fips": 2070,
+    "county_name": "Dillingham",
+    "county_weights": "{\"02070\": 100}",
+    "county_names_all": "Dillingham",
+    "county_fips_all": "02070",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

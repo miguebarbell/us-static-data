@@ -1,0 +1,20 @@
+{
+    "zip": 3224,
+    "lat": 43.35171,
+    "lng": -71.54691,
+    "city": "Canterbury",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2458.0,
+    "density": 22.2,
+    "county_fips": 33013,
+    "county_name": "Merrimack",
+    "county_weights": "{\"33013\": 100}",
+    "county_names_all": "Merrimack",
+    "county_fips_all": "33013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

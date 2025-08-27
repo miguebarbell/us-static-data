@@ -1,0 +1,20 @@
+{
+    "zip": 74131,
+    "lat": 36.05172,
+    "lng": -96.07291,
+    "city": "Tulsa",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2317.0,
+    "density": 93.5,
+    "county_fips": 40037,
+    "county_name": "Creek",
+    "county_weights": "{\"40037\": 99.88, \"40143\": 0.12}",
+    "county_names_all": "Creek|Tulsa",
+    "county_fips_all": "40037|40143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

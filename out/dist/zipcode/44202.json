@@ -1,0 +1,20 @@
+{
+    "zip": 44202,
+    "lat": 41.31645,
+    "lng": -81.34243,
+    "city": "Aurora",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22857.0,
+    "density": 290.9,
+    "county_fips": 39133,
+    "county_name": "Portage",
+    "county_weights": "{\"39133\": 88.43, \"39153\": 6.32, \"39055\": 5.25}",
+    "county_names_all": "Portage|Summit|Geauga",
+    "county_fips_all": "39133|39153|39055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

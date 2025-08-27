@@ -1,0 +1,20 @@
+{
+    "zip": 1242,
+    "lat": 42.3334,
+    "lng": -73.24967,
+    "city": "Lenox Dale",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 165.0,
+    "density": 138.7,
+    "county_fips": 25003,
+    "county_name": "Berkshire",
+    "county_weights": "{\"25003\": 100}",
+    "county_names_all": "Berkshire",
+    "county_fips_all": "25003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

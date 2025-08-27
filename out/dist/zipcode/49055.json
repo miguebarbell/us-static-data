@@ -1,0 +1,20 @@
+{
+    "zip": 49055,
+    "lat": 42.37022,
+    "lng": -85.85327,
+    "city": "Gobles",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5963.0,
+    "density": 40.0,
+    "county_fips": 26159,
+    "county_name": "Van Buren",
+    "county_weights": "{\"26159\": 92.49, \"26005\": 7.51}",
+    "county_names_all": "Van Buren|Allegan",
+    "county_fips_all": "26159|26005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

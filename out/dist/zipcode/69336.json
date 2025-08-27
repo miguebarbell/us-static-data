@@ -1,0 +1,20 @@
+{
+    "zip": 69336,
+    "lat": 41.61845,
+    "lng": -103.15152,
+    "city": "Bridgeport",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1949.0,
+    "density": 2.0,
+    "county_fips": 31123,
+    "county_name": "Morrill",
+    "county_weights": "{\"31123\": 97.13, \"31007\": 2.87}",
+    "county_names_all": "Morrill|Banner",
+    "county_fips_all": "31123|31007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

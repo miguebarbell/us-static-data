@@ -1,0 +1,20 @@
+{
+    "zip": 78669,
+    "lat": 30.4347,
+    "lng": -98.13066,
+    "city": "Spicewood",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11980.0,
+    "density": 38.1,
+    "county_fips": 48453,
+    "county_name": "Travis",
+    "county_weights": "{\"48453\": 45.91, \"48053\": 36.18, \"48031\": 17.92}",
+    "county_names_all": "Travis|Burnet|Blanco",
+    "county_fips_all": "48453|48053|48031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

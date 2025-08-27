@@ -1,0 +1,20 @@
+{
+    "zip": 72427,
+    "lat": 35.86872,
+    "lng": -90.94901,
+    "city": "Egypt",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 50.0,
+    "density": 79.4,
+    "county_fips": 5031,
+    "county_name": "Craighead",
+    "county_weights": "{\"05031\": 100}",
+    "county_names_all": "Craighead",
+    "county_fips_all": "05031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

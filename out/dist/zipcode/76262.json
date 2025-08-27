@@ -1,0 +1,20 @@
+{
+    "zip": 76262,
+    "lat": 33.01137,
+    "lng": -97.22101,
+    "city": "Roanoke",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43589.0,
+    "density": 397.5,
+    "county_fips": 48121,
+    "county_name": "Denton",
+    "county_weights": "{\"48121\": 73.77, \"48439\": 26.23}",
+    "county_names_all": "Denton|Tarrant",
+    "county_fips_all": "48121|48439",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

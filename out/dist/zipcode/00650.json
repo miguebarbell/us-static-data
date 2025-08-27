@@ -1,0 +1,20 @@
+{
+    "zip": 650,
+    "lat": 18.34487,
+    "lng": -66.58347,
+    "city": "Florida",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13457.0,
+    "density": 163.8,
+    "county_fips": 72054,
+    "county_name": "Florida",
+    "county_weights": "{\"72054\": 47.39, \"72141\": 41.9, \"72091\": 4.27, \"72039\": 2.87, \"72013\": 2.5, \"72017\": 1.07}",
+    "county_names_all": "Florida|Utuado|Manat\u00ed|Ciales|Arecibo|Barceloneta",
+    "county_fips_all": "72054|72141|72091|72039|72013|72017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

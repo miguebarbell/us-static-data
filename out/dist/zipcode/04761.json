@@ -1,0 +1,20 @@
+{
+    "zip": 4761,
+    "lat": 46.11857,
+    "lng": -67.97183,
+    "city": "New Limerick",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 430.0,
+    "density": 9.1,
+    "county_fips": 23003,
+    "county_name": "Aroostook",
+    "county_weights": "{\"23003\": 100}",
+    "county_names_all": "Aroostook",
+    "county_fips_all": "23003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

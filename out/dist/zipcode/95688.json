@@ -1,0 +1,20 @@
+{
+    "zip": 95688,
+    "lat": 38.41901,
+    "lng": -122.02571,
+    "city": "Vacaville",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39216.0,
+    "density": 164.6,
+    "county_fips": 6095,
+    "county_name": "Solano",
+    "county_weights": "{\"06095\": 100}",
+    "county_names_all": "Solano",
+    "county_fips_all": "06095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

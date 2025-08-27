@@ -1,0 +1,20 @@
+{
+    "zip": 53560,
+    "lat": 43.19418,
+    "lng": -89.75413,
+    "city": "Mazomanie",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3375.0,
+    "density": 21.7,
+    "county_fips": 55025,
+    "county_name": "Dane",
+    "county_weights": "{\"55025\": 91.9, \"55049\": 8.1}",
+    "county_names_all": "Dane|Iowa",
+    "county_fips_all": "55025|55049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

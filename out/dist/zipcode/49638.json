@@ -1,0 +1,20 @@
+{
+    "zip": 49638,
+    "lat": 44.28463,
+    "lng": -85.75073,
+    "city": "Harrietta",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 817.0,
+    "density": 4.3,
+    "county_fips": 26165,
+    "county_name": "Wexford",
+    "county_weights": "{\"26165\": 78.29, \"26101\": 21.71}",
+    "county_names_all": "Wexford|Manistee",
+    "county_fips_all": "26165|26101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

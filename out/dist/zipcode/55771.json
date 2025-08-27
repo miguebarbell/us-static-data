@@ -1,0 +1,20 @@
+{
+    "zip": 55771,
+    "lat": 48.12398,
+    "lng": -92.93101,
+    "city": "Orr",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1616.0,
+    "density": 0.6,
+    "county_fips": 27137,
+    "county_name": "St. Louis",
+    "county_weights": "{\"27137\": 72.43, \"27071\": 27.57}",
+    "county_names_all": "St. Louis|Koochiching",
+    "county_fips_all": "27137|27071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

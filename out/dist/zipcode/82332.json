@@ -1,0 +1,20 @@
+{
+    "zip": 82332,
+    "lat": 41.06314,
+    "lng": -107.3016,
+    "city": "Savery",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42.0,
+    "density": 0.1,
+    "county_fips": 56007,
+    "county_name": "Carbon",
+    "county_weights": "{\"56007\": 100}",
+    "county_names_all": "Carbon",
+    "county_fips_all": "56007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

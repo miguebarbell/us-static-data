@@ -1,0 +1,20 @@
+{
+    "zip": 23958,
+    "lat": 37.26848,
+    "lng": -78.65581,
+    "city": "Pamplin",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3127.0,
+    "density": 12.4,
+    "county_fips": 51011,
+    "county_name": "Appomattox",
+    "county_weights": "{\"51011\": 45.73, \"51147\": 42.75, \"51037\": 11.52}",
+    "county_names_all": "Appomattox|Prince Edward|Charlotte",
+    "county_fips_all": "51011|51147|51037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

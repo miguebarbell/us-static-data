@@ -1,0 +1,20 @@
+{
+    "zip": 80045,
+    "lat": 39.74702,
+    "lng": -104.83843,
+    "city": "Aurora",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1615.0,
+    "density": 697.6,
+    "county_fips": 8001,
+    "county_name": "Adams",
+    "county_weights": "{\"08001\": 100}",
+    "county_names_all": "Adams",
+    "county_fips_all": "08001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

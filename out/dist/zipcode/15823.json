@@ -1,0 +1,20 @@
+{
+    "zip": 15823,
+    "lat": 41.25888,
+    "lng": -78.71001,
+    "city": "Brockport",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1289.0,
+    "density": 13.9,
+    "county_fips": 42047,
+    "county_name": "Elk",
+    "county_weights": "{\"42047\": 84.92, \"42065\": 15.08}",
+    "county_names_all": "Elk|Jefferson",
+    "county_fips_all": "42047|42065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

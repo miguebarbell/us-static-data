@@ -1,0 +1,20 @@
+{
+    "zip": 79748,
+    "lat": 32.38784,
+    "lng": -101.66889,
+    "city": "Knott",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 387.0,
+    "density": 3.0,
+    "county_fips": 48227,
+    "county_name": "Howard",
+    "county_weights": "{\"48227\": 62.52, \"48317\": 37.48}",
+    "county_names_all": "Howard|Martin",
+    "county_fips_all": "48227|48317",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 14812,
+    "lat": 42.29199,
+    "lng": -76.99413,
+    "city": "Beaver Dams",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2961.0,
+    "density": 15.0,
+    "county_fips": 36097,
+    "county_name": "Schuyler",
+    "county_weights": "{\"36097\": 57.18, \"36101\": 24.46, \"36015\": 18.36}",
+    "county_names_all": "Schuyler|Steuben|Chemung",
+    "county_fips_all": "36097|36101|36015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

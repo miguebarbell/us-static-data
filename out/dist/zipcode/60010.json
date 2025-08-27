@@ -1,0 +1,20 @@
+{
+    "zip": 60010,
+    "lat": 42.15255,
+    "lng": -88.16519,
+    "city": "Barrington",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 45970.0,
+    "density": 239.6,
+    "county_fips": 17031,
+    "county_name": "Cook",
+    "county_weights": "{\"17031\": 50.63, \"17097\": 38.48, \"17111\": 9.24, \"17089\": 1.65}",
+    "county_names_all": "Cook|Lake|McHenry|Kane",
+    "county_fips_all": "17031|17097|17111|17089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

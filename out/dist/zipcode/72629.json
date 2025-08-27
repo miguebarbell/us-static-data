@@ -1,0 +1,20 @@
+{
+    "zip": 72629,
+    "lat": 35.73615,
+    "lng": -92.56625,
+    "city": "Dennard",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 353.0,
+    "density": 2.9,
+    "county_fips": 5141,
+    "county_name": "Van Buren",
+    "county_weights": "{\"05141\": 100}",
+    "county_names_all": "Van Buren",
+    "county_fips_all": "05141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

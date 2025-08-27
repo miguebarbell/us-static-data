@@ -1,0 +1,20 @@
+{
+    "zip": 94131,
+    "lat": 37.74569,
+    "lng": -122.44243,
+    "city": "San Francisco",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27809.0,
+    "density": 5310.0,
+    "county_fips": 6075,
+    "county_name": "San Francisco",
+    "county_weights": "{\"06075\": 100}",
+    "county_names_all": "San Francisco",
+    "county_fips_all": "06075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

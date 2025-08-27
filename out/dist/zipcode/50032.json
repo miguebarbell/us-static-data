@@ -1,0 +1,20 @@
+{
+    "zip": 50032,
+    "lat": 41.66591,
+    "lng": -93.54301,
+    "city": "Berwick",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 622.0,
+    "density": 565.0,
+    "county_fips": 19153,
+    "county_name": "Polk",
+    "county_weights": "{\"19153\": 100}",
+    "county_names_all": "Polk",
+    "county_fips_all": "19153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

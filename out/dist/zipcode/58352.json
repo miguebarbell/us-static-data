@@ -1,0 +1,20 @@
+{
+    "zip": 58352,
+    "lat": 48.70188,
+    "lng": -98.86099,
+    "city": "Munich",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 410.0,
+    "density": 0.7,
+    "county_fips": 38019,
+    "county_name": "Cavalier",
+    "county_weights": "{\"38019\": 88.24, \"38095\": 11.76}",
+    "county_names_all": "Cavalier|Towner",
+    "county_fips_all": "38019|38095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

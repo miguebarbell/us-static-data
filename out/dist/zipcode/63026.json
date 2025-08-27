@@ -1,0 +1,20 @@
+{
+    "zip": 63026,
+    "lat": 38.50195,
+    "lng": -90.45995,
+    "city": "Fenton",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 45267.0,
+    "density": 690.6,
+    "county_fips": 29189,
+    "county_name": "St. Louis",
+    "county_weights": "{\"29189\": 50.17, \"29099\": 49.83}",
+    "county_names_all": "St. Louis|Jefferson",
+    "county_fips_all": "29189|29099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

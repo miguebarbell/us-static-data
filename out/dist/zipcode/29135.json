@@ -1,0 +1,20 @@
+{
+    "zip": 29135,
+    "lat": 33.68834,
+    "lng": -80.7875,
+    "city": "Saint Matthews",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7940.0,
+    "density": 15.8,
+    "county_fips": 45017,
+    "county_name": "Calhoun",
+    "county_weights": "{\"45017\": 98.93, \"45075\": 1.07}",
+    "county_names_all": "Calhoun|Orangeburg",
+    "county_fips_all": "45017|45075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

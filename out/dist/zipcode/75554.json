@@ -1,0 +1,20 @@
+{
+    "zip": 75554,
+    "lat": 33.58534,
+    "lng": -94.78563,
+    "city": "Avery",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2282.0,
+    "density": 6.1,
+    "county_fips": 48387,
+    "county_name": "Red River",
+    "county_weights": "{\"48387\": 81.06, \"48037\": 18.94}",
+    "county_names_all": "Red River|Bowie",
+    "county_fips_all": "48387|48037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

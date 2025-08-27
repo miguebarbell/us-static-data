@@ -1,0 +1,20 @@
+{
+    "zip": 73027,
+    "lat": 35.97102,
+    "lng": -97.24455,
+    "city": "Coyle",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1324.0,
+    "density": 5.8,
+    "county_fips": 40083,
+    "county_name": "Logan",
+    "county_weights": "{\"40083\": 50.89, \"40119\": 49.11}",
+    "county_names_all": "Logan|Payne",
+    "county_fips_all": "40083|40119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

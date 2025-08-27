@@ -1,0 +1,20 @@
+{
+    "zip": 34739,
+    "lat": 27.92236,
+    "lng": -81.10762,
+    "city": "Kenansville",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 858.0,
+    "density": 0.8,
+    "county_fips": 12097,
+    "county_name": "Osceola",
+    "county_weights": "{\"12097\": 100}",
+    "county_names_all": "Osceola",
+    "county_fips_all": "12097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

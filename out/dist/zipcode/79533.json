@@ -1,0 +1,20 @@
+{
+    "zip": 79533,
+    "lat": 32.84898,
+    "lng": -99.54739,
+    "city": "Lueders",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 525.0,
+    "density": 1.1,
+    "county_fips": 48417,
+    "county_name": "Shackelford",
+    "county_weights": "{\"48417\": 63.09, \"48253\": 18.02, \"48207\": 13.53, \"48447\": 5.36}",
+    "county_names_all": "Shackelford|Jones|Haskell|Throckmorton",
+    "county_fips_all": "48417|48253|48207|48447",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

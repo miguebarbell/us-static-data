@@ -1,0 +1,20 @@
+{
+    "zip": 17968,
+    "lat": 40.6417,
+    "lng": -76.62625,
+    "city": "Sacramento",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 305.0,
+    "density": 21.1,
+    "county_fips": 42107,
+    "county_name": "Schuylkill",
+    "county_weights": "{\"42107\": 99.71, \"42043\": 0.29}",
+    "county_names_all": "Schuylkill|Dauphin",
+    "county_fips_all": "42107|42043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

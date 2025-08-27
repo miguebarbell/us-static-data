@@ -1,0 +1,20 @@
+{
+    "zip": 57319,
+    "lat": 43.53853,
+    "lng": -97.48353,
+    "city": "Bridgewater",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 873.0,
+    "density": 2.3,
+    "county_fips": 46087,
+    "county_name": "McCook",
+    "county_weights": "{\"46087\": 70.62, \"46067\": 26.05, \"46125\": 3.33}",
+    "county_names_all": "McCook|Hutchinson|Turner",
+    "county_fips_all": "46087|46067|46125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

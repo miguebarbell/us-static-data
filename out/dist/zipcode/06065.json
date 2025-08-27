@@ -1,0 +1,20 @@
+{
+    "zip": 6065,
+    "lat": 41.97795,
+    "lng": -73.00054,
+    "city": "Riverton",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 671.0,
+    "density": 32.4,
+    "county_fips": 9160,
+    "county_name": "Northwest Hills",
+    "county_weights": "{\"09160\": 100}",
+    "county_names_all": "Northwest Hills",
+    "county_fips_all": "09160",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

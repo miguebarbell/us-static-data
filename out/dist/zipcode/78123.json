@@ -1,0 +1,20 @@
+{
+    "zip": 78123,
+    "lat": 29.60056,
+    "lng": -98.04236,
+    "city": "McQueeney",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2271.0,
+    "density": 234.7,
+    "county_fips": 48187,
+    "county_name": "Guadalupe",
+    "county_weights": "{\"48187\": 100}",
+    "county_names_all": "Guadalupe",
+    "county_fips_all": "48187",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

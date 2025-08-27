@@ -1,0 +1,20 @@
+{
+    "zip": 15062,
+    "lat": 40.15184,
+    "lng": -79.88277,
+    "city": "Monessen",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6825.0,
+    "density": 910.8,
+    "county_fips": 42129,
+    "county_name": "Westmoreland",
+    "county_weights": "{\"42129\": 99.88, \"42125\": 0.12}",
+    "county_names_all": "Westmoreland|Washington",
+    "county_fips_all": "42129|42125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

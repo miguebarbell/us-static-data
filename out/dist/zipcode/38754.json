@@ -1,0 +1,20 @@
+{
+    "zip": 38754,
+    "lat": 33.24816,
+    "lng": -90.62066,
+    "city": "Isola",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1268.0,
+    "density": 5.4,
+    "county_fips": 28053,
+    "county_name": "Humphreys",
+    "county_weights": "{\"28053\": 72.97, \"28133\": 27.03}",
+    "county_names_all": "Humphreys|Sunflower",
+    "county_fips_all": "28053|28133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

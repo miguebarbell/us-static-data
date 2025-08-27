@@ -1,0 +1,20 @@
+{
+    "zip": 47954,
+    "lat": 39.90048,
+    "lng": -86.8178,
+    "city": "Ladoga",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2223.0,
+    "density": 13.1,
+    "county_fips": 18107,
+    "county_name": "Montgomery",
+    "county_weights": "{\"18107\": 94.39, \"18133\": 5.61}",
+    "county_names_all": "Montgomery|Putnam",
+    "county_fips_all": "18107|18133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

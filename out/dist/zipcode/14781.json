@@ -1,0 +1,20 @@
+{
+    "zip": 14781,
+    "lat": 42.16402,
+    "lng": -79.604,
+    "city": "Sherman",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1859.0,
+    "density": 9.9,
+    "county_fips": 36013,
+    "county_name": "Chautauqua",
+    "county_weights": "{\"36013\": 100}",
+    "county_names_all": "Chautauqua",
+    "county_fips_all": "36013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

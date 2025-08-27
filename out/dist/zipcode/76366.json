@@ -1,0 +1,20 @@
+{
+    "zip": 76366,
+    "lat": 33.71439,
+    "lng": -98.77436,
+    "city": "Holliday",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2096.0,
+    "density": 3.1,
+    "county_fips": 48009,
+    "county_name": "Archer",
+    "county_weights": "{\"48009\": 100}",
+    "county_names_all": "Archer",
+    "county_fips_all": "48009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

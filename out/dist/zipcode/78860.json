@@ -1,0 +1,20 @@
+{
+    "zip": 78860,
+    "lat": 28.38168,
+    "lng": -100.22962,
+    "city": "El Indio",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 48323,
+    "county_name": "Maverick",
+    "county_weights": "{\"48323\": 100}",
+    "county_names_all": "Maverick",
+    "county_fips_all": "48323",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

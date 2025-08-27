@@ -1,0 +1,20 @@
+{
+    "zip": 13146,
+    "lat": 43.09711,
+    "lng": -76.76031,
+    "city": "Savannah",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2050.0,
+    "density": 15.0,
+    "county_fips": 36117,
+    "county_name": "Wayne",
+    "county_weights": "{\"36117\": 96.47, \"36099\": 3.53}",
+    "county_names_all": "Wayne|Seneca",
+    "county_fips_all": "36117|36099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

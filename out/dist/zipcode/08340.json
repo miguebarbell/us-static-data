@@ -1,0 +1,20 @@
+{
+    "zip": 8340,
+    "lat": 39.40087,
+    "lng": -74.88407,
+    "city": "Milmay",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 876.0,
+    "density": 12.2,
+    "county_fips": 34011,
+    "county_name": "Cumberland",
+    "county_weights": "{\"34011\": 81.14, \"34001\": 18.86}",
+    "county_names_all": "Cumberland|Atlantic",
+    "county_fips_all": "34011|34001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

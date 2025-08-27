@@ -1,0 +1,20 @@
+{
+    "zip": 26268,
+    "lat": 38.71457,
+    "lng": -79.82276,
+    "city": "Glady",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37.0,
+    "density": 0.3,
+    "county_fips": 54083,
+    "county_name": "Randolph",
+    "county_weights": "{\"54083\": 100}",
+    "county_names_all": "Randolph",
+    "county_fips_all": "54083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49337,
+    "lat": 43.43472,
+    "lng": -85.71437,
+    "city": "Newaygo",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13030.0,
+    "density": 45.6,
+    "county_fips": 26123,
+    "county_name": "Newaygo",
+    "county_weights": "{\"26123\": 94.62, \"26117\": 3.14, \"26107\": 2.24}",
+    "county_names_all": "Newaygo|Montcalm|Mecosta",
+    "county_fips_all": "26123|26117|26107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

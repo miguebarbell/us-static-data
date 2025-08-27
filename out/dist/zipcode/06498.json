@@ -1,0 +1,20 @@
+{
+    "zip": 6498,
+    "lat": 41.30688,
+    "lng": -72.46652,
+    "city": "Westbrook",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6832.0,
+    "density": 167.2,
+    "county_fips": 9130,
+    "county_name": "Lower Connecticut River Valley",
+    "county_weights": "{\"09130\": 100}",
+    "county_names_all": "Lower Connecticut River Valley",
+    "county_fips_all": "09130",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

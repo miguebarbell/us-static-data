@@ -1,0 +1,20 @@
+{
+    "zip": 30143,
+    "lat": 34.46198,
+    "lng": -84.42385,
+    "city": "Jasper",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26738.0,
+    "density": 71.1,
+    "county_fips": 13227,
+    "county_name": "Pickens",
+    "county_weights": "{\"13227\": 88.09, \"13085\": 9.89, \"13057\": 2.02}",
+    "county_names_all": "Pickens|Dawson|Cherokee",
+    "county_fips_all": "13227|13085|13057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

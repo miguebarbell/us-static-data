@@ -1,0 +1,20 @@
+{
+    "zip": 62558,
+    "lat": 39.58967,
+    "lng": -89.54239,
+    "city": "Pawnee",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3585.0,
+    "density": 14.8,
+    "county_fips": 17167,
+    "county_name": "Sangamon",
+    "county_weights": "{\"17167\": 51.25, \"17021\": 39.88, \"17135\": 8.87}",
+    "county_names_all": "Sangamon|Christian|Montgomery",
+    "county_fips_all": "17167|17021|17135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

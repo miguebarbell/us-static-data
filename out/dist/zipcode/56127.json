@@ -1,0 +1,20 @@
+{
+    "zip": 56127,
+    "lat": 43.54892,
+    "lng": -94.77261,
+    "city": "Dunnell",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 478.0,
+    "density": 3.4,
+    "county_fips": 27091,
+    "county_name": "Martin",
+    "county_weights": "{\"27091\": 100}",
+    "county_names_all": "Martin",
+    "county_fips_all": "27091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

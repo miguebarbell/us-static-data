@@ -1,0 +1,20 @@
+{
+    "zip": 28702,
+    "lat": 35.39346,
+    "lng": -83.62906,
+    "city": "Almond",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 471.0,
+    "density": 7.4,
+    "county_fips": 37075,
+    "county_name": "Graham",
+    "county_weights": "{\"37075\": 95.79, \"37173\": 4.21}",
+    "county_names_all": "Graham|Swain",
+    "county_fips_all": "37075|37173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

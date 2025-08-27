@@ -1,0 +1,20 @@
+{
+    "zip": 57452,
+    "lat": 45.52873,
+    "lng": -99.87334,
+    "city": "Java",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 174.0,
+    "density": 0.3,
+    "county_fips": 46129,
+    "county_name": "Walworth",
+    "county_weights": "{\"46129\": 70.76, \"46021\": 29.24}",
+    "county_names_all": "Walworth|Campbell",
+    "county_fips_all": "46129|46021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 73086,
+    "lat": 34.48915,
+    "lng": -96.97251,
+    "city": "Sulphur",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8504.0,
+    "density": 20.6,
+    "county_fips": 40099,
+    "county_name": "Murray",
+    "county_weights": "{\"40099\": 98.43, \"40069\": 1.57}",
+    "county_names_all": "Murray|Johnston",
+    "county_fips_all": "40099|40069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

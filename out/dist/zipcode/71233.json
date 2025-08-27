@@ -1,0 +1,20 @@
+{
+    "zip": 71233,
+    "lat": 32.32509,
+    "lng": -90.93177,
+    "city": "Delta",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 201.0,
+    "density": 131.8,
+    "county_fips": 22065,
+    "county_name": "Madison",
+    "county_weights": "{\"22065\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "22065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 32830,
+    "lat": 28.38643,
+    "lng": -81.56732,
+    "city": "Orlando",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28.0,
+    "density": 0.5,
+    "county_fips": 12095,
+    "county_name": "Orange",
+    "county_weights": "{\"12095\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "12095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

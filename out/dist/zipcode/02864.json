@@ -1,0 +1,20 @@
+{
+    "zip": 2864,
+    "lat": 41.97025,
+    "lng": -71.41978,
+    "city": "Cumberland",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36383.0,
+    "density": 530.7,
+    "county_fips": 44007,
+    "county_name": "Providence",
+    "county_weights": "{\"44007\": 100}",
+    "county_names_all": "Providence",
+    "county_fips_all": "44007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 68714,
+    "lat": 42.36957,
+    "lng": -99.50258,
+    "city": "Bassett",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1139.0,
+    "density": 0.5,
+    "county_fips": 31149,
+    "county_name": "Rock",
+    "county_weights": "{\"31149\": 86.25, \"31115\": 11.65, \"31017\": 2.1}",
+    "county_names_all": "Rock|Loup|Brown",
+    "county_fips_all": "31149|31115|31017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

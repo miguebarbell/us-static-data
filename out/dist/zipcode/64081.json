@@ -1,0 +1,20 @@
+{
+    "zip": 64081,
+    "lat": 38.90971,
+    "lng": -94.40953,
+    "city": "Lees Summit",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25293.0,
+    "density": 750.6,
+    "county_fips": 29095,
+    "county_name": "Jackson",
+    "county_weights": "{\"29095\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "29095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

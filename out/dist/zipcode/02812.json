@@ -1,0 +1,20 @@
+{
+    "zip": 2812,
+    "lat": 41.47625,
+    "lng": -71.66094,
+    "city": "Carolina",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1432.0,
+    "density": 138.4,
+    "county_fips": 44009,
+    "county_name": "Washington",
+    "county_weights": "{\"44009\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "44009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

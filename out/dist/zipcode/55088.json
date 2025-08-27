@@ -1,0 +1,20 @@
+{
+    "zip": 55088,
+    "lat": 44.52945,
+    "lng": -93.38479,
+    "city": "Webster",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1727.0,
+    "density": 18.1,
+    "county_fips": 27131,
+    "county_name": "Rice",
+    "county_weights": "{\"27131\": 75.5, \"27139\": 24.5}",
+    "county_names_all": "Rice|Scott",
+    "county_fips_all": "27131|27139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

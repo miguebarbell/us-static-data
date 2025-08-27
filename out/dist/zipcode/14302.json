@@ -1,0 +1,20 @@
+{
+    "zip": 14302,
+    "lat": 43.0939,
+    "lng": -79.04919,
+    "city": "Niagara Falls",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 209.0,
+    "density": 5806.8,
+    "county_fips": 36063,
+    "county_name": "Niagara",
+    "county_weights": "{\"36063\": 100}",
+    "county_names_all": "Niagara",
+    "county_fips_all": "36063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Toronto"
+}

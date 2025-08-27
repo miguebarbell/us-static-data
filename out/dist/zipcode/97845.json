@@ -1,0 +1,20 @@
+{
+    "zip": 97845,
+    "lat": 44.41445,
+    "lng": -118.90372,
+    "city": "John Day",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2326.0,
+    "density": 7.9,
+    "county_fips": 41023,
+    "county_name": "Grant",
+    "county_weights": "{\"41023\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "41023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

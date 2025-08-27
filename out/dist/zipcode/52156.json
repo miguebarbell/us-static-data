@@ -1,0 +1,20 @@
+{
+    "zip": 52156,
+    "lat": 43.05316,
+    "lng": -91.46534,
+    "city": "Luana",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 795.0,
+    "density": 6.5,
+    "county_fips": 19043,
+    "county_name": "Clayton",
+    "county_weights": "{\"19043\": 72.56, \"19005\": 27.44}",
+    "county_names_all": "Clayton|Allamakee",
+    "county_fips_all": "19043|19005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

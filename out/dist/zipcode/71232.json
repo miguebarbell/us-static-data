@@ -1,0 +1,20 @@
+{
+    "zip": 71232,
+    "lat": 32.41554,
+    "lng": -91.493,
+    "city": "Delhi",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6003.0,
+    "density": 9.4,
+    "county_fips": 22065,
+    "county_name": "Madison",
+    "county_weights": "{\"22065\": 45.64, \"22083\": 32.31, \"22041\": 22.04}",
+    "county_names_all": "Madison|Richland|Franklin",
+    "county_fips_all": "22065|22083|22041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

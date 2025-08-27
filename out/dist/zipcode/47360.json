@@ -1,0 +1,20 @@
+{
+    "zip": 47360,
+    "lat": 40.01677,
+    "lng": -85.2614,
+    "city": "Mooreland",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1480.0,
+    "density": 17.3,
+    "county_fips": 18065,
+    "county_name": "Henry",
+    "county_weights": "{\"18065\": 94.58, \"18177\": 4.06, \"18135\": 1.36}",
+    "county_names_all": "Henry|Wayne|Randolph",
+    "county_fips_all": "18065|18177|18135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

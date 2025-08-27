@@ -1,0 +1,20 @@
+{
+    "zip": 45050,
+    "lat": 39.44437,
+    "lng": -84.36594,
+    "city": "Monroe",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12162.0,
+    "density": 557.2,
+    "county_fips": 39017,
+    "county_name": "Butler",
+    "county_weights": "{\"39017\": 82.81, \"39165\": 17.19}",
+    "county_names_all": "Butler|Warren",
+    "county_fips_all": "39017|39165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

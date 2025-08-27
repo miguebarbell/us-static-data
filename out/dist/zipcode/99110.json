@@ -1,0 +1,20 @@
+{
+    "zip": 99110,
+    "lat": 48.0083,
+    "lng": -117.58112,
+    "city": "Clayton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1592.0,
+    "density": 15.9,
+    "county_fips": 53065,
+    "county_name": "Stevens",
+    "county_weights": "{\"53065\": 92.99, \"53063\": 7.01}",
+    "county_names_all": "Stevens|Spokane",
+    "county_fips_all": "53065|53063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

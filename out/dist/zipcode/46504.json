@@ -1,0 +1,20 @@
+{
+    "zip": 46504,
+    "lat": 41.30057,
+    "lng": -86.11204,
+    "city": "Bourbon",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3391.0,
+    "density": 19.7,
+    "county_fips": 18099,
+    "county_name": "Marshall",
+    "county_weights": "{\"18099\": 95.78, \"18085\": 4.22}",
+    "county_names_all": "Marshall|Kosciusko",
+    "county_fips_all": "18099|18085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

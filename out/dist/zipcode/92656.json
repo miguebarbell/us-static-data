@@ -1,0 +1,20 @@
+{
+    "zip": 92656,
+    "lat": 33.57518,
+    "lng": -117.73036,
+    "city": "Aliso Viejo",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 52645.0,
+    "density": 2541.3,
+    "county_fips": 6059,
+    "county_name": "Orange",
+    "county_weights": "{\"06059\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "06059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

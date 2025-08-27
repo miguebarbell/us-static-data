@@ -1,0 +1,20 @@
+{
+    "zip": 29899,
+    "lat": 33.92801,
+    "lng": -82.25064,
+    "city": "McCormick",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 782.0,
+    "density": 800.2,
+    "county_fips": 45065,
+    "county_name": "McCormick",
+    "county_weights": "{\"45065\": 100}",
+    "county_names_all": "McCormick",
+    "county_fips_all": "45065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

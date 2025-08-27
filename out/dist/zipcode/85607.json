@@ -1,0 +1,20 @@
+{
+    "zip": 85607,
+    "lat": 31.49008,
+    "lng": -109.34052,
+    "city": "Douglas",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17009.0,
+    "density": 8.4,
+    "county_fips": 4003,
+    "county_name": "Cochise",
+    "county_weights": "{\"04003\": 100}",
+    "county_names_all": "Cochise",
+    "county_fips_all": "04003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

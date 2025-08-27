@@ -1,0 +1,20 @@
+{
+    "zip": 86040,
+    "lat": 36.66294,
+    "lng": -111.3852,
+    "city": "Page",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10627.0,
+    "density": 4.6,
+    "county_fips": 4005,
+    "county_name": "Coconino",
+    "county_weights": "{\"04005\": 100}",
+    "county_names_all": "Coconino",
+    "county_fips_all": "04005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

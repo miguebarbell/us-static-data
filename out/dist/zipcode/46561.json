@@ -1,0 +1,20 @@
+{
+    "zip": 46561,
+    "lat": 41.66683,
+    "lng": -86.07599,
+    "city": "Osceola",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14499.0,
+    "density": 412.7,
+    "county_fips": 18141,
+    "county_name": "St. Joseph",
+    "county_weights": "{\"18141\": 88.5, \"18039\": 11.5}",
+    "county_names_all": "St. Joseph|Elkhart",
+    "county_fips_all": "18141|18039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

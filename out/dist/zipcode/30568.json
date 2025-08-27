@@ -1,0 +1,20 @@
+{
+    "zip": 30568,
+    "lat": 34.95348,
+    "lng": -83.41218,
+    "city": "Rabun Gap",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2227.0,
+    "density": 28.1,
+    "county_fips": 13241,
+    "county_name": "Rabun",
+    "county_weights": "{\"13241\": 100}",
+    "county_names_all": "Rabun",
+    "county_fips_all": "13241",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

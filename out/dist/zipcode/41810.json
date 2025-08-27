@@ -1,0 +1,20 @@
+{
+    "zip": 41810,
+    "lat": 37.18492,
+    "lng": -82.67278,
+    "city": "Cromona",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 337.0,
+    "density": 51.0,
+    "county_fips": 21133,
+    "county_name": "Letcher",
+    "county_weights": "{\"21133\": 100}",
+    "county_names_all": "Letcher",
+    "county_fips_all": "21133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

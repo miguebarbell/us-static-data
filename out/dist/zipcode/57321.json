@@ -1,0 +1,20 @@
+{
+    "zip": 57321,
+    "lat": 43.87294,
+    "lng": -97.54864,
+    "city": "Canova",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 399.0,
+    "density": 1.4,
+    "county_fips": 46097,
+    "county_name": "Miner",
+    "county_weights": "{\"46097\": 76.29, \"46087\": 17.05, \"46061\": 6.66}",
+    "county_names_all": "Miner|McCook|Hanson",
+    "county_fips_all": "46097|46087|46061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

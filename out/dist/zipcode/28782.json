@@ -1,0 +1,20 @@
+{
+    "zip": 28782,
+    "lat": 35.23569,
+    "lng": -82.1519,
+    "city": "Tryon",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6337.0,
+    "density": 49.9,
+    "county_fips": 37149,
+    "county_name": "Polk",
+    "county_weights": "{\"37149\": 100}",
+    "county_names_all": "Polk",
+    "county_fips_all": "37149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

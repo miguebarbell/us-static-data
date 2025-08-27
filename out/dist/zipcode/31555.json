@@ -1,0 +1,20 @@
+{
+    "zip": 31555,
+    "lat": 31.70275,
+    "lng": -82.06647,
+    "city": "Odum",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3126.0,
+    "density": 8.4,
+    "county_fips": 13305,
+    "county_name": "Wayne",
+    "county_weights": "{\"13305\": 83.18, \"13001\": 16.82}",
+    "county_names_all": "Wayne|Appling",
+    "county_fips_all": "13305|13001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49683,
+    "lat": 44.53948,
+    "lng": -85.93009,
+    "city": "Thompsonville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2070.0,
+    "density": 9.2,
+    "county_fips": 26019,
+    "county_name": "Benzie",
+    "county_weights": "{\"26019\": 70.7, \"26101\": 22.66, \"26055\": 5.38, \"26165\": 1.26}",
+    "county_names_all": "Benzie|Manistee|Grand Traverse|Wexford",
+    "county_fips_all": "26019|26101|26055|26165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

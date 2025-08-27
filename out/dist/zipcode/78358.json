@@ -1,0 +1,20 @@
+{
+    "zip": 78358,
+    "lat": 28.06841,
+    "lng": -97.04325,
+    "city": "Fulton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 633.0,
+    "density": 295.5,
+    "county_fips": 48007,
+    "county_name": "Aransas",
+    "county_weights": "{\"48007\": 100}",
+    "county_names_all": "Aransas",
+    "county_fips_all": "48007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

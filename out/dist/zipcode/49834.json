@@ -1,0 +1,20 @@
+{
+    "zip": 49834,
+    "lat": 45.96829,
+    "lng": -87.70292,
+    "city": "Foster City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 527.0,
+    "density": 2.7,
+    "county_fips": 26043,
+    "county_name": "Dickinson",
+    "county_weights": "{\"26043\": 100}",
+    "county_names_all": "Dickinson",
+    "county_fips_all": "26043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Menominee"
+}

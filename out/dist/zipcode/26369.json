@@ -1,0 +1,20 @@
+{
+    "zip": 26369,
+    "lat": 39.33527,
+    "lng": -80.33117,
+    "city": "Hepzibah",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 485.0,
+    "density": 95.3,
+    "county_fips": 54033,
+    "county_name": "Harrison",
+    "county_weights": "{\"54033\": 100}",
+    "county_names_all": "Harrison",
+    "county_fips_all": "54033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

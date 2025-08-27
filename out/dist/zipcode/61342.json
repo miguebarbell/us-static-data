@@ -1,0 +1,20 @@
+{
+    "zip": 61342,
+    "lat": 41.54089,
+    "lng": -89.0938,
+    "city": "Mendota",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8373.0,
+    "density": 29.9,
+    "county_fips": 17099,
+    "county_name": "LaSalle",
+    "county_weights": "{\"17099\": 86.87, \"17011\": 8.11, \"17103\": 5.02}",
+    "county_names_all": "LaSalle|Bureau|Lee",
+    "county_fips_all": "17099|17011|17103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

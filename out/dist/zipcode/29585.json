@@ -1,0 +1,20 @@
+{
+    "zip": 29585,
+    "lat": 33.50537,
+    "lng": -79.13557,
+    "city": "Pawleys Island",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17346.0,
+    "density": 108.4,
+    "county_fips": 45043,
+    "county_name": "Georgetown",
+    "county_weights": "{\"45043\": 100}",
+    "county_names_all": "Georgetown",
+    "county_fips_all": "45043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

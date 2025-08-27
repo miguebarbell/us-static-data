@@ -1,0 +1,20 @@
+{
+    "zip": 64017,
+    "lat": 39.199,
+    "lng": -94.02951,
+    "city": "Camden",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 288.0,
+    "density": 5.3,
+    "county_fips": 29177,
+    "county_name": "Ray",
+    "county_weights": "{\"29177\": 58.17, \"29107\": 41.83}",
+    "county_names_all": "Ray|Lafayette",
+    "county_fips_all": "29177|29107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

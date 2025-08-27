@@ -1,0 +1,20 @@
+{
+    "zip": 76082,
+    "lat": 32.97098,
+    "lng": -97.71783,
+    "city": "Springtown",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24338.0,
+    "density": 91.4,
+    "county_fips": 48367,
+    "county_name": "Parker",
+    "county_weights": "{\"48367\": 73.79, \"48497\": 26.21}",
+    "county_names_all": "Parker|Wise",
+    "county_fips_all": "48367|48497",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

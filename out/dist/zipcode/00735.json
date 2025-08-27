@@ -1,0 +1,20 @@
+{
+    "zip": 735,
+    "lat": 18.2525,
+    "lng": -65.67534,
+    "city": "Ceiba",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11159.0,
+    "density": 157.4,
+    "county_fips": 72037,
+    "county_name": "Ceiba",
+    "county_weights": "{\"72037\": 94.58, \"72103\": 5.42}",
+    "county_names_all": "Ceiba|Naguabo",
+    "county_fips_all": "72037|72103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 48759,
+    "lat": 43.7265,
+    "lng": -83.39323,
+    "city": "Sebewaing",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3439.0,
+    "density": 27.7,
+    "county_fips": 26063,
+    "county_name": "Huron",
+    "county_weights": "{\"26063\": 99.08, \"26157\": 0.92}",
+    "county_names_all": "Huron|Tuscola",
+    "county_fips_all": "26063|26157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

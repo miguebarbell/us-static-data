@@ -1,0 +1,20 @@
+{
+    "zip": 54417,
+    "lat": 45.02749,
+    "lng": -89.65418,
+    "city": "Brokaw",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6.0,
+    "density": 5.8,
+    "county_fips": 55073,
+    "county_name": "Marathon",
+    "county_weights": "{\"55073\": 100}",
+    "county_names_all": "Marathon",
+    "county_fips_all": "55073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

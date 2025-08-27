@@ -1,0 +1,20 @@
+{
+    "zip": 59219,
+    "lat": 48.5579,
+    "lng": -104.15541,
+    "city": "Dagmar",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 157.0,
+    "density": 0.3,
+    "county_fips": 30091,
+    "county_name": "Sheridan",
+    "county_weights": "{\"30091\": 100}",
+    "county_names_all": "Sheridan",
+    "county_fips_all": "30091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

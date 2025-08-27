@@ -1,0 +1,20 @@
+{
+    "zip": 79772,
+    "lat": 31.39852,
+    "lng": -103.5867,
+    "city": "Pecos",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12547.0,
+    "density": 4.6,
+    "county_fips": 48389,
+    "county_name": "Reeves",
+    "county_weights": "{\"48389\": 98.64, \"48475\": 1.36}",
+    "county_names_all": "Reeves|Ward",
+    "county_fips_all": "48389|48475",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

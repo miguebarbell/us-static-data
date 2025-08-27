@@ -1,0 +1,20 @@
+{
+    "zip": 75925,
+    "lat": 31.61018,
+    "lng": -95.05327,
+    "city": "Alto",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3079.0,
+    "density": 5.7,
+    "county_fips": 48073,
+    "county_name": "Cherokee",
+    "county_weights": "{\"48073\": 100}",
+    "county_names_all": "Cherokee",
+    "county_fips_all": "48073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

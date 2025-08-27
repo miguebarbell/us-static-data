@@ -1,0 +1,20 @@
+{
+    "zip": 42154,
+    "lat": 37.04876,
+    "lng": -85.72421,
+    "city": "Knob Lick",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 704.0,
+    "density": 11.2,
+    "county_fips": 21169,
+    "county_name": "Metcalfe",
+    "county_weights": "{\"21169\": 87.18, \"21009\": 12.82}",
+    "county_names_all": "Metcalfe|Barren",
+    "county_fips_all": "21169|21009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

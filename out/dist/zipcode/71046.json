@@ -1,0 +1,20 @@
+{
+    "zip": 71046,
+    "lat": 32.16647,
+    "lng": -93.94589,
+    "city": "Keatchie",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 791.0,
+    "density": 3.5,
+    "county_fips": 22031,
+    "county_name": "De Soto",
+    "county_weights": "{\"22031\": 87.32, \"22017\": 12.68}",
+    "county_names_all": "De Soto|Caddo",
+    "county_fips_all": "22031|22017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

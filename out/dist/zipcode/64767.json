@@ -1,0 +1,20 @@
+{
+    "zip": 64767,
+    "lat": 37.7499,
+    "lng": -94.1997,
+    "city": "Milo",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 546.0,
+    "density": 3.5,
+    "county_fips": 29217,
+    "county_name": "Vernon",
+    "county_weights": "{\"29217\": 100}",
+    "county_names_all": "Vernon",
+    "county_fips_all": "29217",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

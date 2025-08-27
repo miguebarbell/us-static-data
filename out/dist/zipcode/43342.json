@@ -1,0 +1,20 @@
+{
+    "zip": 43342,
+    "lat": 40.47533,
+    "lng": -83.17994,
+    "city": "Prospect",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3566.0,
+    "density": 32.2,
+    "county_fips": 39101,
+    "county_name": "Marion",
+    "county_weights": "{\"39101\": 88.72, \"39159\": 6.66, \"39041\": 4.62}",
+    "county_names_all": "Marion|Union|Delaware",
+    "county_fips_all": "39101|39159|39041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

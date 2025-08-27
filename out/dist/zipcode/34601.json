@@ -1,0 +1,20 @@
+{
+    "zip": 34601,
+    "lat": 28.5892,
+    "lng": -82.36857,
+    "city": "Brooksville",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23648.0,
+    "density": 80.1,
+    "county_fips": 12053,
+    "county_name": "Hernando",
+    "county_weights": "{\"12053\": 99.77, \"12017\": 0.23}",
+    "county_names_all": "Hernando|Citrus",
+    "county_fips_all": "12053|12017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

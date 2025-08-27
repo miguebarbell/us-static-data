@@ -1,0 +1,15 @@
+{
+    "zip": [
+        "06510",
+        "06511",
+        "06513",
+        "06515",
+        "06519"
+    ],
+    "city": "New Haven",
+    "state": "CT",
+    "lat": 41.79185,
+    "lng": -72.85107,
+    "state_name": "Connecticut",
+    "timezone": "America/New_York"
+}

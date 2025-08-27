@@ -1,0 +1,20 @@
+{
+    "zip": 42156,
+    "lat": 36.85947,
+    "lng": -86.04952,
+    "city": "Lucas",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 251.0,
+    "density": 12.7,
+    "county_fips": 21009,
+    "county_name": "Barren",
+    "county_weights": "{\"21009\": 100}",
+    "county_names_all": "Barren",
+    "county_fips_all": "21009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

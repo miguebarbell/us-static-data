@@ -1,0 +1,20 @@
+{
+    "zip": 32686,
+    "lat": 29.36214,
+    "lng": -82.26236,
+    "city": "Reddick",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5531.0,
+    "density": 29.5,
+    "county_fips": 12083,
+    "county_name": "Marion",
+    "county_weights": "{\"12083\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "12083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 4649,
+    "lat": 44.56606,
+    "lng": -67.5817,
+    "city": "Jonesport",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1276.0,
+    "density": 17.3,
+    "county_fips": 23029,
+    "county_name": "Washington",
+    "county_weights": "{\"23029\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "23029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

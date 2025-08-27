@@ -1,0 +1,20 @@
+{
+    "zip": 42361,
+    "lat": 37.51791,
+    "lng": -86.69183,
+    "city": "Olaton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 620.0,
+    "density": 6.3,
+    "county_fips": 21183,
+    "county_name": "Ohio",
+    "county_weights": "{\"21183\": 69.27, \"21085\": 30.73}",
+    "county_names_all": "Ohio|Grayson",
+    "county_fips_all": "21183|21085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

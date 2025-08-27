@@ -1,0 +1,20 @@
+{
+    "zip": 61411,
+    "lat": 40.40105,
+    "lng": -90.50544,
+    "city": "Adair",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 264.0,
+    "density": 2.6,
+    "county_fips": 17109,
+    "county_name": "McDonough",
+    "county_weights": "{\"17109\": 100}",
+    "county_names_all": "McDonough",
+    "county_fips_all": "17109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

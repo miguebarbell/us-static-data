@@ -1,0 +1,20 @@
+{
+    "zip": 71937,
+    "lat": 34.40177,
+    "lng": -94.38751,
+    "city": "Cove",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2012.0,
+    "density": 9.5,
+    "county_fips": 5113,
+    "county_name": "Polk",
+    "county_weights": "{\"05113\": 93.78, \"40089\": 6.22}",
+    "county_names_all": "Polk|McCurtain",
+    "county_fips_all": "05113|40089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

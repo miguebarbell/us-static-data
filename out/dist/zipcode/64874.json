@@ -1,0 +1,20 @@
+{
+    "zip": 64874,
+    "lat": 36.75617,
+    "lng": -94.05444,
+    "city": "Wheaton",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 461.0,
+    "density": 97.6,
+    "county_fips": 29009,
+    "county_name": "Barry",
+    "county_weights": "{\"29009\": 100}",
+    "county_names_all": "Barry",
+    "county_fips_all": "29009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

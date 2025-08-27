@@ -1,0 +1,20 @@
+{
+    "zip": 44217,
+    "lat": 40.95561,
+    "lng": -81.9133,
+    "city": "Creston",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3633.0,
+    "density": 47.7,
+    "county_fips": 39169,
+    "county_name": "Wayne",
+    "county_weights": "{\"39169\": 87.85, \"39103\": 12.15}",
+    "county_names_all": "Wayne|Medina",
+    "county_fips_all": "39169|39103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

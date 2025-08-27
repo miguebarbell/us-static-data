@@ -1,0 +1,20 @@
+{
+    "zip": 72856,
+    "lat": 35.76773,
+    "lng": -93.05658,
+    "city": "Pelsor",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 498.0,
+    "density": 2.0,
+    "county_fips": 5101,
+    "county_name": "Newton",
+    "county_weights": "{\"05101\": 83.83, \"05115\": 16.17}",
+    "county_names_all": "Newton|Pope",
+    "county_fips_all": "05101|05115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

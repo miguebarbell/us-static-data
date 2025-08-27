@@ -1,0 +1,20 @@
+{
+    "zip": 89128,
+    "lat": 36.19678,
+    "lng": -115.26439,
+    "city": "Las Vegas",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39397.0,
+    "density": 2540.7,
+    "county_fips": 32003,
+    "county_name": "Clark",
+    "county_weights": "{\"32003\": 100}",
+    "county_names_all": "Clark",
+    "county_fips_all": "32003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

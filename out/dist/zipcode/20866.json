@@ -1,0 +1,20 @@
+{
+    "zip": 20866,
+    "lat": 39.10969,
+    "lng": -76.93411,
+    "city": "Burtonsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16499.0,
+    "density": 906.5,
+    "county_fips": 24031,
+    "county_name": "Montgomery",
+    "county_weights": "{\"24031\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "24031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

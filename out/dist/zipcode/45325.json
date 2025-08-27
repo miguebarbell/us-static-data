@@ -1,0 +1,20 @@
+{
+    "zip": 45325,
+    "lat": 39.69297,
+    "lng": -84.4269,
+    "city": "Farmersville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2746.0,
+    "density": 41.2,
+    "county_fips": 39113,
+    "county_name": "Montgomery",
+    "county_weights": "{\"39113\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "39113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

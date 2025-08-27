@@ -1,0 +1,20 @@
+{
+    "zip": 7034,
+    "lat": 40.87953,
+    "lng": -74.37965,
+    "city": "Lake Hiawatha",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10406.0,
+    "density": 3162.7,
+    "county_fips": 34027,
+    "county_name": "Morris",
+    "county_weights": "{\"34027\": 100}",
+    "county_names_all": "Morris",
+    "county_fips_all": "34027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

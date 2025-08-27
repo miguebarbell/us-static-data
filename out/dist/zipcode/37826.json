@@ -1,0 +1,20 @@
+{
+    "zip": 37826,
+    "lat": 35.55825,
+    "lng": -84.58984,
+    "city": "Niota",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3493.0,
+    "density": 25.1,
+    "county_fips": 47107,
+    "county_name": "McMinn",
+    "county_weights": "{\"47107\": 98.73, \"47121\": 1.27}",
+    "county_names_all": "McMinn|Meigs",
+    "county_fips_all": "47107|47121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

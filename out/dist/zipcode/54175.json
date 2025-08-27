@@ -1,0 +1,20 @@
+{
+    "zip": 54175,
+    "lat": 45.30552,
+    "lng": -88.62394,
+    "city": "Townsend",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1102.0,
+    "density": 7.8,
+    "county_fips": 55083,
+    "county_name": "Oconto",
+    "county_weights": "{\"55083\": 98.96, \"55067\": 1.04}",
+    "county_names_all": "Oconto|Langlade",
+    "county_fips_all": "55083|55067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

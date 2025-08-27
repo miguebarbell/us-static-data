@@ -1,0 +1,20 @@
+{
+    "zip": 65566,
+    "lat": 37.76618,
+    "lng": -91.14689,
+    "city": "Viburnum",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 888.0,
+    "density": 30.1,
+    "county_fips": 29055,
+    "county_name": "Crawford",
+    "county_weights": "{\"29055\": 64.38, \"29093\": 35.62}",
+    "county_names_all": "Crawford|Iron",
+    "county_fips_all": "29055|29093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

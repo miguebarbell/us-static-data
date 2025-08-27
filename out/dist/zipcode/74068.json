@@ -1,0 +1,20 @@
+{
+    "zip": 74068,
+    "lat": 35.90829,
+    "lng": -96.57498,
+    "city": "Shamrock",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39.0,
+    "density": 20.3,
+    "county_fips": 40037,
+    "county_name": "Creek",
+    "county_weights": "{\"40037\": 100}",
+    "county_names_all": "Creek",
+    "county_fips_all": "40037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

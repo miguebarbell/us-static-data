@@ -1,0 +1,20 @@
+{
+    "zip": 58781,
+    "lat": 48.02451,
+    "lng": -101.13468,
+    "city": "Sawyer",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 691.0,
+    "density": 2.4,
+    "county_fips": 38101,
+    "county_name": "Ward",
+    "county_weights": "{\"38101\": 100}",
+    "county_names_all": "Ward",
+    "county_fips_all": "38101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 40031,
+    "lat": 38.42617,
+    "lng": -85.39368,
+    "city": "La Grange",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25697.0,
+    "density": 148.3,
+    "county_fips": 21185,
+    "county_name": "Oldham",
+    "county_weights": "{\"21185\": 93.55, \"21103\": 6.45}",
+    "county_names_all": "Oldham|Henry",
+    "county_fips_all": "21185|21103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

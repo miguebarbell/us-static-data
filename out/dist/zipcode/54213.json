@@ -1,0 +1,20 @@
+{
+    "zip": 54213,
+    "lat": 44.69926,
+    "lng": -87.52114,
+    "city": "Forestville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1473.0,
+    "density": 14.8,
+    "county_fips": 55029,
+    "county_name": "Door",
+    "county_weights": "{\"55029\": 89.89, \"55061\": 10.11}",
+    "county_names_all": "Door|Kewaunee",
+    "county_fips_all": "55029|55061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

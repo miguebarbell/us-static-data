@@ -1,0 +1,20 @@
+{
+    "zip": 55056,
+    "lat": 45.50915,
+    "lng": -92.9543,
+    "city": "North Branch",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14279.0,
+    "density": 55.4,
+    "county_fips": 27025,
+    "county_name": "Chisago",
+    "county_weights": "{\"27025\": 69.39, \"27059\": 30.61}",
+    "county_names_all": "Chisago|Isanti",
+    "county_fips_all": "27025|27059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

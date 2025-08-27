@@ -1,0 +1,20 @@
+{
+    "zip": 44460,
+    "lat": 40.90221,
+    "lng": -80.87026,
+    "city": "Salem",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25289.0,
+    "density": 90.9,
+    "county_fips": 39029,
+    "county_name": "Columbiana",
+    "county_weights": "{\"39029\": 54.81, \"39099\": 45.19}",
+    "county_names_all": "Columbiana|Mahoning",
+    "county_fips_all": "39029|39099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 8085,
+    "lat": 39.75579,
+    "lng": -75.33017,
+    "city": "Swedesboro",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21856.0,
+    "density": 189.6,
+    "county_fips": 34015,
+    "county_name": "Gloucester",
+    "county_weights": "{\"34015\": 98.85, \"34033\": 1.15}",
+    "county_names_all": "Gloucester|Salem",
+    "county_fips_all": "34015|34033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

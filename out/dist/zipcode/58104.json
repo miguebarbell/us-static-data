@@ -1,0 +1,20 @@
+{
+    "zip": 58104,
+    "lat": 46.79371,
+    "lng": -96.83838,
+    "city": "Fargo",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 47481.0,
+    "density": 653.6,
+    "county_fips": 38017,
+    "county_name": "Cass",
+    "county_weights": "{\"38017\": 100}",
+    "county_names_all": "Cass",
+    "county_fips_all": "38017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

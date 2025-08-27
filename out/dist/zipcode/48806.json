@@ -1,0 +1,20 @@
+{
+    "zip": 48806,
+    "lat": 43.18568,
+    "lng": -84.49675,
+    "city": "Ashley",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1821.0,
+    "density": 10.9,
+    "county_fips": 26057,
+    "county_name": "Gratiot",
+    "county_weights": "{\"26057\": 100}",
+    "county_names_all": "Gratiot",
+    "county_fips_all": "26057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

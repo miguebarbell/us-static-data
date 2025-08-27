@@ -1,0 +1,20 @@
+{
+    "zip": 99163,
+    "lat": 46.72798,
+    "lng": -117.21654,
+    "city": "Pullman",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33692.0,
+    "density": 61.7,
+    "county_fips": 53075,
+    "county_name": "Whitman",
+    "county_weights": "{\"53075\": 100}",
+    "county_names_all": "Whitman",
+    "county_fips_all": "53075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

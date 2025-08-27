@@ -1,0 +1,20 @@
+{
+    "zip": 39078,
+    "lat": 31.87901,
+    "lng": -90.19596,
+    "city": "Georgetown",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1050.0,
+    "density": 10.3,
+    "county_fips": 28029,
+    "county_name": "Copiah",
+    "county_weights": "{\"28029\": 99.52, \"28127\": 0.48}",
+    "county_names_all": "Copiah|Simpson",
+    "county_fips_all": "28029|28127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

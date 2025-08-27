@@ -1,0 +1,20 @@
+{
+    "zip": 67071,
+    "lat": 37.21423,
+    "lng": -98.88522,
+    "city": "Lake City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 123.0,
+    "density": 0.3,
+    "county_fips": 20007,
+    "county_name": "Barber",
+    "county_weights": "{\"20007\": 100}",
+    "county_names_all": "Barber",
+    "county_fips_all": "20007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 95379,
+    "lat": 37.96174,
+    "lng": -120.21635,
+    "city": "Tuolumne",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3821.0,
+    "density": 57.0,
+    "county_fips": 6109,
+    "county_name": "Tuolumne",
+    "county_weights": "{\"06109\": 100}",
+    "county_names_all": "Tuolumne",
+    "county_fips_all": "06109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

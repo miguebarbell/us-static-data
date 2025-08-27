@@ -1,0 +1,20 @@
+{
+    "zip": 43035,
+    "lat": 40.18622,
+    "lng": -82.9969,
+    "city": "Lewis Center",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35732.0,
+    "density": 703.6,
+    "county_fips": 39041,
+    "county_name": "Delaware",
+    "county_weights": "{\"39041\": 100}",
+    "county_names_all": "Delaware",
+    "county_fips_all": "39041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

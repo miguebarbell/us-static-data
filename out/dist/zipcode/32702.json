@@ -1,0 +1,20 @@
+{
+    "zip": 32702,
+    "lat": 29.04642,
+    "lng": -81.6259,
+    "city": "Altoona",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2732.0,
+    "density": 17.8,
+    "county_fips": 12069,
+    "county_name": "Lake",
+    "county_weights": "{\"12069\": 77.12, \"12083\": 22.88}",
+    "county_names_all": "Lake|Marion",
+    "county_fips_all": "12069|12083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 26298,
+    "lat": 38.45054,
+    "lng": -80.26552,
+    "city": "Bergoo",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29.0,
+    "density": 0.6,
+    "county_fips": 54101,
+    "county_name": "Webster",
+    "county_weights": "{\"54101\": 100}",
+    "county_names_all": "Webster",
+    "county_fips_all": "54101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 41035,
+    "lat": 38.70322,
+    "lng": -84.66141,
+    "city": "Dry Ridge",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11220.0,
+    "density": 42.4,
+    "county_fips": 21081,
+    "county_name": "Grant",
+    "county_weights": "{\"21081\": 96.98, \"21191\": 1.51, \"21187\": 1.51}",
+    "county_names_all": "Grant|Pendleton|Owen",
+    "county_fips_all": "21081|21191|21187",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

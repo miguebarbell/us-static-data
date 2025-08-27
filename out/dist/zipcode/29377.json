@@ -1,0 +1,20 @@
+{
+    "zip": 29377,
+    "lat": 34.93036,
+    "lng": -82.0971,
+    "city": "Startex",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 422.0,
+    "density": 114.4,
+    "county_fips": 45083,
+    "county_name": "Spartanburg",
+    "county_weights": "{\"45083\": 100}",
+    "county_names_all": "Spartanburg",
+    "county_fips_all": "45083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

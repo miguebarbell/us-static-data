@@ -1,0 +1,20 @@
+{
+    "zip": 25414,
+    "lat": 39.25273,
+    "lng": -77.87055,
+    "city": "Charles Town",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20273.0,
+    "density": 138.4,
+    "county_fips": 54037,
+    "county_name": "Jefferson",
+    "county_weights": "{\"54037\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "54037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

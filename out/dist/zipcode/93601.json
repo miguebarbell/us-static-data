@@ -1,0 +1,20 @@
+{
+    "zip": 93601,
+    "lat": 37.39395,
+    "lng": -119.73702,
+    "city": "Ahwahnee",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1248.0,
+    "density": 12.2,
+    "county_fips": 6039,
+    "county_name": "Madera",
+    "county_weights": "{\"06039\": 63.75, \"06043\": 36.25}",
+    "county_names_all": "Madera|Mariposa",
+    "county_fips_all": "06039|06043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

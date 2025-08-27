@@ -1,0 +1,20 @@
+{
+    "zip": 23451,
+    "lat": 36.87175,
+    "lng": -76.00689,
+    "city": "Virginia Beach",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44641.0,
+    "density": 872.0,
+    "county_fips": 51810,
+    "county_name": "Virginia Beach",
+    "county_weights": "{\"51810\": 100}",
+    "county_names_all": "Virginia Beach",
+    "county_fips_all": "51810",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

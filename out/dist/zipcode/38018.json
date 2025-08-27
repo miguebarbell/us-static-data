@@ -1,0 +1,20 @@
+{
+    "zip": 38018,
+    "lat": 35.13781,
+    "lng": -89.76647,
+    "city": "Cordova",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38357.0,
+    "density": 793.7,
+    "county_fips": 47157,
+    "county_name": "Shelby",
+    "county_weights": "{\"47157\": 100}",
+    "county_names_all": "Shelby",
+    "county_fips_all": "47157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

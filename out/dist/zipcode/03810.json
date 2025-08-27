@@ -1,0 +1,20 @@
+{
+    "zip": 3810,
+    "lat": 43.52692,
+    "lng": -71.27941,
+    "city": "Alton Bay",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2269.0,
+    "density": 37.2,
+    "county_fips": 33001,
+    "county_name": "Belknap",
+    "county_weights": "{\"33001\": 100}",
+    "county_names_all": "Belknap",
+    "county_fips_all": "33001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

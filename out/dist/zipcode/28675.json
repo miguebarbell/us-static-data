@@ -1,0 +1,20 @@
+{
+    "zip": 28675,
+    "lat": 36.50642,
+    "lng": -81.13546,
+    "city": "Sparta",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6702.0,
+    "density": 24.1,
+    "county_fips": 37005,
+    "county_name": "Alleghany",
+    "county_weights": "{\"37005\": 99.11, \"51077\": 0.7, \"37193\": 0.19}",
+    "county_names_all": "Alleghany|Grayson|Wilkes",
+    "county_fips_all": "37005|51077|37193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

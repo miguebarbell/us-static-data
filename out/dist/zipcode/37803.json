@@ -1,0 +1,20 @@
+{
+    "zip": 37803,
+    "lat": 35.67115,
+    "lng": -83.97761,
+    "city": "Maryville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33822.0,
+    "density": 148.8,
+    "county_fips": 47009,
+    "county_name": "Blount",
+    "county_weights": "{\"47009\": 100}",
+    "county_names_all": "Blount",
+    "county_fips_all": "47009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

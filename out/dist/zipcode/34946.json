@@ -1,0 +1,20 @@
+{
+    "zip": 34946,
+    "lat": 27.50456,
+    "lng": -80.36106,
+    "city": "Fort Pierce",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6588.0,
+    "density": 167.1,
+    "county_fips": 12111,
+    "county_name": "St. Lucie",
+    "county_weights": "{\"12111\": 100}",
+    "county_names_all": "St. Lucie",
+    "county_fips_all": "12111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

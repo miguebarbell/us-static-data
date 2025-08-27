@@ -1,0 +1,20 @@
+{
+    "zip": 47436,
+    "lat": 38.9598,
+    "lng": -86.38358,
+    "city": "Heltonville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1649.0,
+    "density": 12.1,
+    "county_fips": 18093,
+    "county_name": "Lawrence",
+    "county_weights": "{\"18093\": 69.57, \"18105\": 30.43}",
+    "county_names_all": "Lawrence|Monroe",
+    "county_fips_all": "18093|18105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

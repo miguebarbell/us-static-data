@@ -1,0 +1,20 @@
+{
+    "zip": 80818,
+    "lat": 39.41539,
+    "lng": -103.48119,
+    "city": "Genoa",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 462.0,
+    "density": 0.5,
+    "county_fips": 8073,
+    "county_name": "Lincoln",
+    "county_weights": "{\"08073\": 87.22, \"08121\": 12.78}",
+    "county_names_all": "Lincoln|Washington",
+    "county_fips_all": "08073|08121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

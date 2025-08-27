@@ -1,0 +1,20 @@
+{
+    "zip": 98134,
+    "lat": 47.57691,
+    "lng": -122.33686,
+    "city": "Seattle",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 779.0,
+    "density": 90.7,
+    "county_fips": 53033,
+    "county_name": "King",
+    "county_weights": "{\"53033\": 100}",
+    "county_names_all": "King",
+    "county_fips_all": "53033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

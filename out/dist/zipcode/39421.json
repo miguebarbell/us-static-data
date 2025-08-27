@@ -1,0 +1,20 @@
+{
+    "zip": 39421,
+    "lat": 31.48411,
+    "lng": -89.71179,
+    "city": "Bassfield",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2698.0,
+    "density": 15.6,
+    "county_fips": 28065,
+    "county_name": "Jefferson Davis",
+    "county_weights": "{\"28065\": 82.76, \"28091\": 17.24}",
+    "county_names_all": "Jefferson Davis|Marion",
+    "county_fips_all": "28065|28091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

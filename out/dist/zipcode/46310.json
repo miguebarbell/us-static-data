@@ -1,0 +1,20 @@
+{
+    "zip": 46310,
+    "lat": 41.18205,
+    "lng": -87.23088,
+    "city": "Demotte",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13914.0,
+    "density": 84.7,
+    "county_fips": 18073,
+    "county_name": "Jasper",
+    "county_weights": "{\"18073\": 77.98, \"18111\": 22.02}",
+    "county_names_all": "Jasper|Newton",
+    "county_fips_all": "18073|18111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43085,
+    "lat": 40.09959,
+    "lng": -83.01639,
+    "city": "Columbus",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26154.0,
+    "density": 1380.5,
+    "county_fips": 39049,
+    "county_name": "Franklin",
+    "county_weights": "{\"39049\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "39049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

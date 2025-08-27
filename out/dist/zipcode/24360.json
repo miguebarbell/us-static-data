@@ -1,0 +1,20 @@
+{
+    "zip": 24360,
+    "lat": 36.93917,
+    "lng": -80.9023,
+    "city": "Max Meadows",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5647.0,
+    "density": 23.6,
+    "county_fips": 51197,
+    "county_name": "Wythe",
+    "county_weights": "{\"51197\": 98.81, \"51035\": 1.19}",
+    "county_names_all": "Wythe|Carroll",
+    "county_fips_all": "51197|51035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

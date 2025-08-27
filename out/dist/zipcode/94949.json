@@ -1,0 +1,20 @@
+{
+    "zip": 94949,
+    "lat": 38.06576,
+    "lng": -122.53172,
+    "city": "Novato",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18357.0,
+    "density": 528.0,
+    "county_fips": 6041,
+    "county_name": "Marin",
+    "county_weights": "{\"06041\": 100}",
+    "county_names_all": "Marin",
+    "county_fips_all": "06041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

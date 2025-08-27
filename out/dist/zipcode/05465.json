@@ -1,0 +1,20 @@
+{
+    "zip": 5465,
+    "lat": 44.45882,
+    "lng": -72.93058,
+    "city": "Jericho",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5628.0,
+    "density": 37.1,
+    "county_fips": 50007,
+    "county_name": "Chittenden",
+    "county_weights": "{\"50007\": 100}",
+    "county_names_all": "Chittenden",
+    "county_fips_all": "50007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

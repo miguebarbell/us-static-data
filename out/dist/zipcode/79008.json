@@ -1,0 +1,20 @@
+{
+    "zip": 79008,
+    "lat": 35.69845,
+    "lng": -101.42383,
+    "city": "Borger",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 48233,
+    "county_name": "Hutchinson",
+    "county_weights": "{\"48233\": 100}",
+    "county_names_all": "Hutchinson",
+    "county_fips_all": "48233",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

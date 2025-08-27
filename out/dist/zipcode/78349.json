@@ -1,0 +1,20 @@
+{
+    "zip": 78349,
+    "lat": 27.37501,
+    "lng": -98.29983,
+    "city": "Concepcion",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 538.0,
+    "density": 1.7,
+    "county_fips": 48131,
+    "county_name": "Duval",
+    "county_weights": "{\"48131\": 100}",
+    "county_names_all": "Duval",
+    "county_fips_all": "48131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

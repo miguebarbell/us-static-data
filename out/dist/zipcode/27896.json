@@ -1,0 +1,20 @@
+{
+    "zip": 27896,
+    "lat": 35.79303,
+    "lng": -77.97399,
+    "city": "Wilson",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18808.0,
+    "density": 206.5,
+    "county_fips": 37195,
+    "county_name": "Wilson",
+    "county_weights": "{\"37195\": 67.72, \"37127\": 32.28}",
+    "county_names_all": "Wilson|Nash",
+    "county_fips_all": "37195|37127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

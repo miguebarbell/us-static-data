@@ -1,0 +1,20 @@
+{
+    "zip": 16054,
+    "lat": 41.15651,
+    "lng": -79.65711,
+    "city": "Saint Petersburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 358.0,
+    "density": 84.3,
+    "county_fips": 42031,
+    "county_name": "Clarion",
+    "county_weights": "{\"42031\": 100}",
+    "county_names_all": "Clarion",
+    "county_fips_all": "42031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

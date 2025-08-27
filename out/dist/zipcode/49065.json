@@ -1,0 +1,20 @@
+{
+    "zip": 49065,
+    "lat": 42.13645,
+    "lng": -85.83928,
+    "city": "Lawton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7283.0,
+    "density": 62.7,
+    "county_fips": 26159,
+    "county_name": "Van Buren",
+    "county_weights": "{\"26159\": 98.77, \"26077\": 1.23}",
+    "county_names_all": "Van Buren|Kalamazoo",
+    "county_fips_all": "26159|26077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

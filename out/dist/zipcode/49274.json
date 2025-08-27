@@ -1,0 +1,20 @@
+{
+    "zip": 49274,
+    "lat": 41.83689,
+    "lng": -84.76419,
+    "city": "Reading",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3777.0,
+    "density": 23.7,
+    "county_fips": 26059,
+    "county_name": "Hillsdale",
+    "county_weights": "{\"26059\": 84.12, \"26023\": 15.88}",
+    "county_names_all": "Hillsdale|Branch",
+    "county_fips_all": "26059|26023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

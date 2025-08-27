@@ -1,0 +1,20 @@
+{
+    "zip": 3452,
+    "lat": 42.82922,
+    "lng": -72.05962,
+    "city": "Jaffrey",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5413.0,
+    "density": 54.4,
+    "county_fips": 33005,
+    "county_name": "Cheshire",
+    "county_weights": "{\"33005\": 100}",
+    "county_names_all": "Cheshire",
+    "county_fips_all": "33005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 97720,
+    "lat": 43.58799,
+    "lng": -118.85806,
+    "city": "Burns",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4456.0,
+    "density": 1.5,
+    "county_fips": 41025,
+    "county_name": "Harney",
+    "county_weights": "{\"41025\": 100}",
+    "county_names_all": "Harney",
+    "county_fips_all": "41025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

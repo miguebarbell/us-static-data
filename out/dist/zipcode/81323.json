@@ -1,0 +1,20 @@
+{
+    "zip": 81323,
+    "lat": 37.64874,
+    "lng": -108.27823,
+    "city": "Dolores",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5193.0,
+    "density": 2.7,
+    "county_fips": 8033,
+    "county_name": "Dolores",
+    "county_weights": "{\"08033\": 51.67, \"08083\": 48.33}",
+    "county_names_all": "Dolores|Montezuma",
+    "county_fips_all": "08033|08083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

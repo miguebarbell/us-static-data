@@ -1,0 +1,20 @@
+{
+    "zip": 40078,
+    "lat": 37.84272,
+    "lng": -85.14902,
+    "city": "Willisburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2777.0,
+    "density": 17.5,
+    "county_fips": 21229,
+    "county_name": "Washington",
+    "county_weights": "{\"21229\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "21229",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

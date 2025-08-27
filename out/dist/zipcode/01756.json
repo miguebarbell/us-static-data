@@ -1,0 +1,20 @@
+{
+    "zip": 1756,
+    "lat": 42.09301,
+    "lng": -71.55146,
+    "city": "Mendon",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6266.0,
+    "density": 136.1,
+    "county_fips": 25027,
+    "county_name": "Worcester",
+    "county_weights": "{\"25027\": 100}",
+    "county_names_all": "Worcester",
+    "county_fips_all": "25027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

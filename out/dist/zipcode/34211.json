@@ -1,0 +1,20 @@
+{
+    "zip": 34211,
+    "lat": 27.44944,
+    "lng": -82.37738,
+    "city": "Bradenton",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20786.0,
+    "density": 235.8,
+    "county_fips": 12081,
+    "county_name": "Manatee",
+    "county_weights": "{\"12081\": 100}",
+    "county_names_all": "Manatee",
+    "county_fips_all": "12081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

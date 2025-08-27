@@ -1,0 +1,20 @@
+{
+    "zip": 70640,
+    "lat": 30.36587,
+    "lng": -92.91652,
+    "city": "Fenton",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 212.0,
+    "density": 384.9,
+    "county_fips": 22053,
+    "county_name": "Jefferson Davis",
+    "county_weights": "{\"22053\": 100}",
+    "county_names_all": "Jefferson Davis",
+    "county_fips_all": "22053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

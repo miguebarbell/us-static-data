@@ -1,0 +1,20 @@
+{
+    "zip": 41183,
+    "lat": 38.55,
+    "lng": -82.73707,
+    "city": "Worthington",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1813.0,
+    "density": 463.6,
+    "county_fips": 21089,
+    "county_name": "Greenup",
+    "county_weights": "{\"21089\": 100}",
+    "county_names_all": "Greenup",
+    "county_fips_all": "21089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 58750,
+    "lat": 48.6166,
+    "lng": -101.39941,
+    "city": "Lansford",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 609.0,
+    "density": 1.0,
+    "county_fips": 38009,
+    "county_name": "Bottineau",
+    "county_weights": "{\"38009\": 59.97, \"38075\": 40.03}",
+    "county_names_all": "Bottineau|Renville",
+    "county_fips_all": "38009|38075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 94595,
+    "lat": 37.87206,
+    "lng": -122.06892,
+    "city": "Walnut Creek",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17051.0,
+    "density": 1261.6,
+    "county_fips": 6013,
+    "county_name": "Contra Costa",
+    "county_weights": "{\"06013\": 100}",
+    "county_names_all": "Contra Costa",
+    "county_fips_all": "06013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

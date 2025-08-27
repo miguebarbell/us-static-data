@@ -1,0 +1,20 @@
+{
+    "zip": 80260,
+    "lat": 39.86705,
+    "lng": -105.00569,
+    "city": "Denver",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 34861.0,
+    "density": 2825.6,
+    "county_fips": 8001,
+    "county_name": "Adams",
+    "county_weights": "{\"08001\": 100}",
+    "county_names_all": "Adams",
+    "county_fips_all": "08001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

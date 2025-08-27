@@ -1,0 +1,20 @@
+{
+    "zip": 21804,
+    "lat": 38.31726,
+    "lng": -75.53673,
+    "city": "Salisbury",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39461.0,
+    "density": 222.1,
+    "county_fips": 24045,
+    "county_name": "Wicomico",
+    "county_weights": "{\"24045\": 77.67, \"24047\": 22.33}",
+    "county_names_all": "Wicomico|Worcester",
+    "county_fips_all": "24045|24047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

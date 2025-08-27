@@ -1,0 +1,20 @@
+{
+    "zip": 58230,
+    "lat": 47.49097,
+    "lng": -97.82622,
+    "city": "Finley",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 586.0,
+    "density": 1.3,
+    "county_fips": 38091,
+    "county_name": "Steele",
+    "county_weights": "{\"38091\": 100}",
+    "county_names_all": "Steele",
+    "county_fips_all": "38091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

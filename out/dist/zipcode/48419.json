@@ -1,0 +1,20 @@
+{
+    "zip": 48419,
+    "lat": 43.42884,
+    "lng": -82.65762,
+    "city": "Carsonville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2309.0,
+    "density": 11.4,
+    "county_fips": 26151,
+    "county_name": "Sanilac",
+    "county_weights": "{\"26151\": 100}",
+    "county_names_all": "Sanilac",
+    "county_fips_all": "26151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

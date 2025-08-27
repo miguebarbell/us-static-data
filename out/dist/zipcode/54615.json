@@ -1,0 +1,20 @@
+{
+    "zip": 54615,
+    "lat": 44.26158,
+    "lng": -90.78049,
+    "city": "Black River Falls",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11054.0,
+    "density": 13.5,
+    "county_fips": 55053,
+    "county_name": "Jackson",
+    "county_weights": "{\"55053\": 97.14, \"55081\": 2.86}",
+    "county_names_all": "Jackson|Monroe",
+    "county_fips_all": "55053|55081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 13491,
+    "lat": 42.85957,
+    "lng": -75.17698,
+    "city": "West Winfield",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3570.0,
+    "density": 18.3,
+    "county_fips": 36077,
+    "county_name": "Otsego",
+    "county_weights": "{\"36077\": 51.82, \"36043\": 38.08, \"36053\": 10.11}",
+    "county_names_all": "Otsego|Herkimer|Madison",
+    "county_fips_all": "36077|36043|36053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

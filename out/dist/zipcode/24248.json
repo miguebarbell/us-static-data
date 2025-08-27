@@ -1,0 +1,20 @@
+{
+    "zip": 24248,
+    "lat": 36.62708,
+    "lng": -83.50767,
+    "city": "Ewing",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2330.0,
+    "density": 16.4,
+    "county_fips": 51105,
+    "county_name": "Lee",
+    "county_weights": "{\"51105\": 100}",
+    "county_names_all": "Lee",
+    "county_fips_all": "51105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

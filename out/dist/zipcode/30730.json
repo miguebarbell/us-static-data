@@ -1,0 +1,20 @@
+{
+    "zip": 30730,
+    "lat": 34.36017,
+    "lng": -85.42172,
+    "city": "Lyerly",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2104.0,
+    "density": 14.5,
+    "county_fips": 13055,
+    "county_name": "Chattooga",
+    "county_weights": "{\"13055\": 100}",
+    "county_names_all": "Chattooga",
+    "county_fips_all": "13055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

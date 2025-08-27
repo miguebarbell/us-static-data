@@ -1,0 +1,20 @@
+{
+    "zip": 47619,
+    "lat": 38.1924,
+    "lng": -87.30742,
+    "city": "Lynnville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1629.0,
+    "density": 16.4,
+    "county_fips": 18173,
+    "county_name": "Warrick",
+    "county_weights": "{\"18173\": 83.07, \"18051\": 12.38, \"18125\": 4.55}",
+    "county_names_all": "Warrick|Gibson|Pike",
+    "county_fips_all": "18173|18051|18125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

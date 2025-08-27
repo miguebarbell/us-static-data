@@ -1,0 +1,20 @@
+{
+    "zip": 92252,
+    "lat": 34.14801,
+    "lng": -116.28422,
+    "city": "Joshua Tree",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7916.0,
+    "density": 27.2,
+    "county_fips": 6071,
+    "county_name": "San Bernardino",
+    "county_weights": "{\"06071\": 100}",
+    "county_names_all": "San Bernardino",
+    "county_fips_all": "06071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

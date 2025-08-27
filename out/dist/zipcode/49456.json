@@ -1,0 +1,20 @@
+{
+    "zip": 49456,
+    "lat": 43.09026,
+    "lng": -86.19347,
+    "city": "Spring Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19972.0,
+    "density": 304.6,
+    "county_fips": 26139,
+    "county_name": "Ottawa",
+    "county_weights": "{\"26139\": 88.15, \"26121\": 11.85}",
+    "county_names_all": "Ottawa|Muskegon",
+    "county_fips_all": "26139|26121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

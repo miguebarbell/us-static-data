@@ -1,0 +1,20 @@
+{
+    "zip": 24133,
+    "lat": 36.67563,
+    "lng": -80.12794,
+    "city": "Patrick Springs",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2521.0,
+    "density": 24.0,
+    "county_fips": 51141,
+    "county_name": "Patrick",
+    "county_weights": "{\"51141\": 99.46, \"51089\": 0.54}",
+    "county_names_all": "Patrick|Henry",
+    "county_fips_all": "51141|51089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

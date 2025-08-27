@@ -1,0 +1,20 @@
+{
+    "zip": 60465,
+    "lat": 41.69878,
+    "lng": -87.8267,
+    "city": "Palos Hills",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18139.0,
+    "density": 1627.0,
+    "county_fips": 17031,
+    "county_name": "Cook",
+    "county_weights": "{\"17031\": 100}",
+    "county_names_all": "Cook",
+    "county_fips_all": "17031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

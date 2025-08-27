@@ -1,0 +1,20 @@
+{
+    "zip": 23924,
+    "lat": 36.80919,
+    "lng": -78.43396,
+    "city": "Chase City",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5709.0,
+    "density": 15.6,
+    "county_fips": 51117,
+    "county_name": "Mecklenburg",
+    "county_weights": "{\"51117\": 84.84, \"51111\": 9.35, \"51037\": 5.81}",
+    "county_names_all": "Mecklenburg|Lunenburg|Charlotte",
+    "county_fips_all": "51117|51111|51037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

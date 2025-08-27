@@ -1,0 +1,20 @@
+{
+    "zip": 62216,
+    "lat": 38.62559,
+    "lng": -89.60313,
+    "city": "Aviston",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3101.0,
+    "density": 49.9,
+    "county_fips": 17027,
+    "county_name": "Clinton",
+    "county_weights": "{\"17027\": 91.9, \"17119\": 8.1}",
+    "county_names_all": "Clinton|Madison",
+    "county_fips_all": "17027|17119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 81081,
+    "lat": 37.07295,
+    "lng": -104.14954,
+    "city": "Trinchera",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 81.0,
+    "density": 0.1,
+    "county_fips": 8071,
+    "county_name": "Las Animas",
+    "county_weights": "{\"08071\": 100}",
+    "county_names_all": "Las Animas",
+    "county_fips_all": "08071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 24590,
+    "lat": 37.79353,
+    "lng": -78.47767,
+    "city": "Scottsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7940.0,
+    "density": 18.9,
+    "county_fips": 51029,
+    "county_name": "Buckingham",
+    "county_weights": "{\"51029\": 35.8, \"51003\": 35.59, \"51065\": 28.62}",
+    "county_names_all": "Buckingham|Albemarle|Fluvanna",
+    "county_fips_all": "51029|51003|51065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

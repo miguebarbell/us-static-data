@@ -1,0 +1,20 @@
+{
+    "zip": 98857,
+    "lat": 46.98656,
+    "lng": -119.03698,
+    "city": "Warden",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3935.0,
+    "density": 9.1,
+    "county_fips": 53025,
+    "county_name": "Grant",
+    "county_weights": "{\"53025\": 68.99, \"53001\": 31.01}",
+    "county_names_all": "Grant|Adams",
+    "county_fips_all": "53025|53001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

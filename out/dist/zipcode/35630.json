@@ -1,0 +1,20 @@
+{
+    "zip": 35630,
+    "lat": 34.82526,
+    "lng": -87.66018,
+    "city": "Florence",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33697.0,
+    "density": 514.7,
+    "county_fips": 1077,
+    "county_name": "Lauderdale",
+    "county_weights": "{\"01077\": 100}",
+    "county_names_all": "Lauderdale",
+    "county_fips_all": "01077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

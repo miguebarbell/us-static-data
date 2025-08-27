@@ -1,0 +1,20 @@
+{
+    "zip": 49733,
+    "lat": 44.80368,
+    "lng": -84.7291,
+    "city": "Frederic",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1910.0,
+    "density": 6.9,
+    "county_fips": 26039,
+    "county_name": "Crawford",
+    "county_weights": "{\"26039\": 87.3, \"26137\": 12.7}",
+    "county_names_all": "Crawford|Otsego",
+    "county_fips_all": "26039|26137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

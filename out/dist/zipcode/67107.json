@@ -1,0 +1,20 @@
+{
+    "zip": 67107,
+    "lat": 38.19496,
+    "lng": -97.53911,
+    "city": "Moundridge",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2565.0,
+    "density": 8.5,
+    "county_fips": 20113,
+    "county_name": "McPherson",
+    "county_weights": "{\"20113\": 69.78, \"20079\": 30.22}",
+    "county_names_all": "McPherson|Harvey",
+    "county_fips_all": "20113|20079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

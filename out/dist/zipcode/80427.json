@@ -1,0 +1,20 @@
+{
+    "zip": 80427,
+    "lat": 39.79366,
+    "lng": -105.52413,
+    "city": "Central City",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 625.0,
+    "density": 16.7,
+    "county_fips": 8047,
+    "county_name": "Gilpin",
+    "county_weights": "{\"08047\": 99.9, \"08019\": 0.1}",
+    "county_names_all": "Gilpin|Clear Creek",
+    "county_fips_all": "08047|08019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

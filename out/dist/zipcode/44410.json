@@ -1,0 +1,20 @@
+{
+    "zip": 44410,
+    "lat": 41.34817,
+    "lng": -80.72629,
+    "city": "Cortland",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16467.0,
+    "density": 97.2,
+    "county_fips": 39155,
+    "county_name": "Trumbull",
+    "county_weights": "{\"39155\": 100}",
+    "county_names_all": "Trumbull",
+    "county_fips_all": "39155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

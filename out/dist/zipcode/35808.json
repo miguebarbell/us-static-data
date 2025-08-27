@@ -1,0 +1,20 @@
+{
+    "zip": 35808,
+    "lat": 34.63236,
+    "lng": -86.65579,
+    "city": "Huntsville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1116.0,
+    "density": 7.3,
+    "county_fips": 1089,
+    "county_name": "Madison",
+    "county_weights": "{\"01089\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "01089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

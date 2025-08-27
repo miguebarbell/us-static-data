@@ -1,0 +1,20 @@
+{
+    "zip": 50143,
+    "lat": 41.34245,
+    "lng": -92.79893,
+    "city": "Leighton",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 621.0,
+    "density": 6.7,
+    "county_fips": 19123,
+    "county_name": "Mahaska",
+    "county_weights": "{\"19123\": 98.57, \"19125\": 1.43}",
+    "county_names_all": "Mahaska|Marion",
+    "county_fips_all": "19123|19125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

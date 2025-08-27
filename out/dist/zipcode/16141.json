@@ -1,0 +1,20 @@
+{
+    "zip": 16141,
+    "lat": 40.87237,
+    "lng": -80.3968,
+    "city": "New Galilee",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1901.0,
+    "density": 34.4,
+    "county_fips": 42073,
+    "county_name": "Lawrence",
+    "county_weights": "{\"42073\": 69.71, \"42007\": 30.29}",
+    "county_names_all": "Lawrence|Beaver",
+    "county_fips_all": "42073|42007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

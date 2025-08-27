@@ -1,0 +1,20 @@
+{
+    "zip": 57358,
+    "lat": 44.07521,
+    "lng": -98.42201,
+    "city": "Lane",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13.0,
+    "density": 5.2,
+    "county_fips": 46073,
+    "county_name": "Jerauld",
+    "county_weights": "{\"46073\": 100}",
+    "county_names_all": "Jerauld",
+    "county_fips_all": "46073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

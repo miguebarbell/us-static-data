@@ -1,0 +1,20 @@
+{
+    "zip": 32073,
+    "lat": 30.16766,
+    "lng": -81.74069,
+    "city": "Orange Park",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42825.0,
+    "density": 982.0,
+    "county_fips": 12019,
+    "county_name": "Clay",
+    "county_weights": "{\"12019\": 100}",
+    "county_names_all": "Clay",
+    "county_fips_all": "12019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 68954,
+    "lat": 40.61215,
+    "lng": -98.23512,
+    "city": "Inland",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43.0,
+    "density": 1.5,
+    "county_fips": 31035,
+    "county_name": "Clay",
+    "county_weights": "{\"31035\": 100}",
+    "county_names_all": "Clay",
+    "county_fips_all": "31035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

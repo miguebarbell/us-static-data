@@ -1,0 +1,20 @@
+{
+    "zip": 37189,
+    "lat": 36.27875,
+    "lng": -86.82983,
+    "city": "Whites Creek",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3591.0,
+    "density": 55.0,
+    "county_fips": 47037,
+    "county_name": "Davidson",
+    "county_weights": "{\"47037\": 100}",
+    "county_names_all": "Davidson",
+    "county_fips_all": "47037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

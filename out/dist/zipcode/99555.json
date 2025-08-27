@@ -1,0 +1,20 @@
+{
+    "zip": 99555,
+    "lat": 59.28859,
+    "lng": -158.67996,
+    "city": "Aleknagik",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 109.0,
+    "density": 1.3,
+    "county_fips": 2070,
+    "county_name": "Dillingham",
+    "county_weights": "{\"02070\": 100}",
+    "county_names_all": "Dillingham",
+    "county_fips_all": "02070",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

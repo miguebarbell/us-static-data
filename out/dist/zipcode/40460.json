@@ -1,0 +1,20 @@
+{
+    "zip": 40460,
+    "lat": 37.39385,
+    "lng": -84.23985,
+    "city": "Orlando",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1269.0,
+    "density": 14.7,
+    "county_fips": 21203,
+    "county_name": "Rockcastle",
+    "county_weights": "{\"21203\": 100}",
+    "county_names_all": "Rockcastle",
+    "county_fips_all": "21203",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

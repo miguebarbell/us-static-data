@@ -1,0 +1,20 @@
+{
+    "zip": 56207,
+    "lat": 45.50266,
+    "lng": -96.0708,
+    "city": "Alberta",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 201.0,
+    "density": 1.6,
+    "county_fips": 27149,
+    "county_name": "Stevens",
+    "county_weights": "{\"27149\": 94.16, \"27151\": 5.84}",
+    "county_names_all": "Stevens|Swift",
+    "county_fips_all": "27149|27151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

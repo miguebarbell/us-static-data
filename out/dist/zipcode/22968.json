@@ -1,0 +1,20 @@
+{
+    "zip": 22968,
+    "lat": 38.24111,
+    "lng": -78.39407,
+    "city": "Ruckersville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10603.0,
+    "density": 110.4,
+    "county_fips": 51079,
+    "county_name": "Greene",
+    "county_weights": "{\"51079\": 91.06, \"51003\": 7.29, \"51137\": 1.65}",
+    "county_names_all": "Greene|Albemarle|Orange",
+    "county_fips_all": "51079|51003|51137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

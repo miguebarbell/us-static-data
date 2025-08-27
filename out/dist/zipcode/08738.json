@@ -1,0 +1,20 @@
+{
+    "zip": 8738,
+    "lat": 40.02101,
+    "lng": -74.06282,
+    "city": "Mantoloking",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1371.0,
+    "density": 543.2,
+    "county_fips": 34029,
+    "county_name": "Ocean",
+    "county_weights": "{\"34029\": 100}",
+    "county_names_all": "Ocean",
+    "county_fips_all": "34029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

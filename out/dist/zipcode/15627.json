@@ -1,0 +1,20 @@
+{
+    "zip": 15627,
+    "lat": 40.35064,
+    "lng": -79.30667,
+    "city": "Derry",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5956.0,
+    "density": 72.5,
+    "county_fips": 42129,
+    "county_name": "Westmoreland",
+    "county_weights": "{\"42129\": 100}",
+    "county_names_all": "Westmoreland",
+    "county_fips_all": "42129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 35545,
+    "lat": 33.6421,
+    "lng": -87.93147,
+    "city": "Belk",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 122.0,
+    "density": 112.3,
+    "county_fips": 1057,
+    "county_name": "Fayette",
+    "county_weights": "{\"01057\": 100}",
+    "county_names_all": "Fayette",
+    "county_fips_all": "01057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

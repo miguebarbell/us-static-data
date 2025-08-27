@@ -1,0 +1,20 @@
+{
+    "zip": 40052,
+    "lat": 37.58417,
+    "lng": -85.51154,
+    "city": "New Hope",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 646.0,
+    "density": 11.0,
+    "county_fips": 21179,
+    "county_name": "Nelson",
+    "county_weights": "{\"21179\": 44.92, \"21123\": 37.01, \"21155\": 18.07}",
+    "county_names_all": "Nelson|Larue|Marion",
+    "county_fips_all": "21179|21123|21155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

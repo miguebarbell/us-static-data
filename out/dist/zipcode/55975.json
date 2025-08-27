@@ -1,0 +1,20 @@
+{
+    "zip": 55975,
+    "lat": 43.67569,
+    "lng": -92.37296,
+    "city": "Spring Valley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4597.0,
+    "density": 11.1,
+    "county_fips": 27045,
+    "county_name": "Fillmore",
+    "county_weights": "{\"27045\": 88.07, \"27099\": 11.93}",
+    "county_names_all": "Fillmore|Mower",
+    "county_fips_all": "27045|27099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

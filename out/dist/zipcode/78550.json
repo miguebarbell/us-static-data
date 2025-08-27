@@ -1,0 +1,20 @@
+{
+    "zip": 78550,
+    "lat": 26.25469,
+    "lng": -97.66406,
+    "city": "Harlingen",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 54169.0,
+    "density": 222.1,
+    "county_fips": 48061,
+    "county_name": "Cameron",
+    "county_weights": "{\"48061\": 100}",
+    "county_names_all": "Cameron",
+    "county_fips_all": "48061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

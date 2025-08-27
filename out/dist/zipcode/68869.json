@@ -1,0 +1,20 @@
+{
+    "zip": 68869,
+    "lat": 40.99944,
+    "lng": -98.88325,
+    "city": "Ravenna",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2158.0,
+    "density": 3.9,
+    "county_fips": 31019,
+    "county_name": "Buffalo",
+    "county_weights": "{\"31019\": 73.32, \"31163\": 26.68}",
+    "county_names_all": "Buffalo|Sherman",
+    "county_fips_all": "31019|31163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

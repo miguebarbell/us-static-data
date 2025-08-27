@@ -1,0 +1,20 @@
+{
+    "zip": 57456,
+    "lat": 45.72104,
+    "lng": -98.99589,
+    "city": "Leola",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 638.0,
+    "density": 0.7,
+    "county_fips": 46089,
+    "county_name": "McPherson",
+    "county_weights": "{\"46089\": 97.26, \"46045\": 2.74}",
+    "county_names_all": "McPherson|Edmunds",
+    "county_fips_all": "46089|46045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

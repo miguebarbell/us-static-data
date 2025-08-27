@@ -1,0 +1,20 @@
+{
+    "zip": 25813,
+    "lat": 37.78309,
+    "lng": -81.10001,
+    "city": "Beaver",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7429.0,
+    "density": 62.4,
+    "county_fips": 54081,
+    "county_name": "Raleigh",
+    "county_weights": "{\"54081\": 100}",
+    "county_names_all": "Raleigh",
+    "county_fips_all": "54081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

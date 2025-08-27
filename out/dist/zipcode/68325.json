@@ -1,0 +1,20 @@
+{
+    "zip": 68325,
+    "lat": 40.0131,
+    "lng": -97.75156,
+    "city": "Byron",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 109.0,
+    "density": 0.9,
+    "county_fips": 31169,
+    "county_name": "Thayer",
+    "county_weights": "{\"31169\": 55.18, \"20157\": 44.82}",
+    "county_names_all": "Thayer|Republic",
+    "county_fips_all": "31169|20157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

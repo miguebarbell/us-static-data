@@ -1,0 +1,20 @@
+{
+    "zip": 44437,
+    "lat": 41.15536,
+    "lng": -80.73,
+    "city": "McDonald",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3900.0,
+    "density": 387.6,
+    "county_fips": 39155,
+    "county_name": "Trumbull",
+    "county_weights": "{\"39155\": 94.26, \"39099\": 5.74}",
+    "county_names_all": "Trumbull|Mahoning",
+    "county_fips_all": "39155|39099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

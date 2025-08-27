@@ -1,0 +1,20 @@
+{
+    "zip": 80836,
+    "lat": 39.30518,
+    "lng": -102.58239,
+    "city": "Stratton",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1113.0,
+    "density": 1.1,
+    "county_fips": 8063,
+    "county_name": "Kit Carson",
+    "county_weights": "{\"08063\": 99.24, \"08125\": 0.76}",
+    "county_names_all": "Kit Carson|Yuma",
+    "county_fips_all": "08063|08125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

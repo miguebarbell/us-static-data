@@ -1,0 +1,20 @@
+{
+    "zip": 80602,
+    "lat": 39.96369,
+    "lng": -104.90661,
+    "city": "Brighton",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42237.0,
+    "density": 530.5,
+    "county_fips": 8001,
+    "county_name": "Adams",
+    "county_weights": "{\"08001\": 100}",
+    "county_names_all": "Adams",
+    "county_fips_all": "08001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

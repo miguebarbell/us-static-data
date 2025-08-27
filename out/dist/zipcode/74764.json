@@ -1,0 +1,20 @@
+{
+    "zip": 74764,
+    "lat": 34.09405,
+    "lng": -95.05512,
+    "city": "Valliant",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3368.0,
+    "density": 7.1,
+    "county_fips": 40089,
+    "county_name": "McCurtain",
+    "county_weights": "{\"40089\": 93.11, \"40023\": 6.89}",
+    "county_names_all": "McCurtain|Choctaw",
+    "county_fips_all": "40089|40023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

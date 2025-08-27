@@ -1,0 +1,20 @@
+{
+    "zip": 89019,
+    "lat": 35.76949,
+    "lng": -115.51606,
+    "city": "Jean",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2355.0,
+    "density": 1.8,
+    "county_fips": 32003,
+    "county_name": "Clark",
+    "county_weights": "{\"32003\": 77.52, \"06071\": 21.56, \"06027\": 0.92}",
+    "county_names_all": "Clark|San Bernardino|Inyo",
+    "county_fips_all": "32003|06071|06027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

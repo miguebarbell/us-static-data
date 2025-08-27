@@ -1,0 +1,20 @@
+{
+    "zip": 68635,
+    "lat": 41.08544,
+    "lng": -97.02298,
+    "city": "Dwight",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 449.0,
+    "density": 3.6,
+    "county_fips": 31023,
+    "county_name": "Butler",
+    "county_weights": "{\"31023\": 100}",
+    "county_names_all": "Butler",
+    "county_fips_all": "31023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

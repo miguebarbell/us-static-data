@@ -1,0 +1,20 @@
+{
+    "zip": 39769,
+    "lat": 33.31867,
+    "lng": -89.01136,
+    "city": "Sturgis",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1371.0,
+    "density": 4.1,
+    "county_fips": 28105,
+    "county_name": "Oktibbeha",
+    "county_weights": "{\"28105\": 57.88, \"28159\": 36.74, \"28019\": 5.38}",
+    "county_names_all": "Oktibbeha|Winston|Choctaw",
+    "county_fips_all": "28105|28159|28019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

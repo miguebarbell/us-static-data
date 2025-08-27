@@ -1,0 +1,20 @@
+{
+    "zip": 72142,
+    "lat": 34.67681,
+    "lng": -92.07488,
+    "city": "Scott",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2101.0,
+    "density": 7.7,
+    "county_fips": 5085,
+    "county_name": "Lonoke",
+    "county_weights": "{\"05085\": 58.32, \"05119\": 41.68}",
+    "county_names_all": "Lonoke|Pulaski",
+    "county_fips_all": "05085|05119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

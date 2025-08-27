@@ -1,0 +1,20 @@
+{
+    "zip": 70533,
+    "lat": 29.90439,
+    "lng": -92.03536,
+    "city": "Erath",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6793.0,
+    "density": 35.3,
+    "county_fips": 22113,
+    "county_name": "Vermilion",
+    "county_weights": "{\"22113\": 98.76, \"22045\": 1.24}",
+    "county_names_all": "Vermilion|Iberia",
+    "county_fips_all": "22113|22045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

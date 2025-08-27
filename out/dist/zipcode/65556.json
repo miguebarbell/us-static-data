@@ -1,0 +1,20 @@
+{
+    "zip": 65556,
+    "lat": 37.83582,
+    "lng": -92.40541,
+    "city": "Richland",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5019.0,
+    "density": 8.7,
+    "county_fips": 29169,
+    "county_name": "Pulaski",
+    "county_weights": "{\"29169\": 44.2, \"29029\": 29.05, \"29105\": 26.75}",
+    "county_names_all": "Pulaski|Camden|Laclede",
+    "county_fips_all": "29169|29029|29105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

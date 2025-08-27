@@ -1,0 +1,20 @@
+{
+    "zip": 46161,
+    "lat": 39.66959,
+    "lng": -85.69395,
+    "city": "Morristown",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2263.0,
+    "density": 25.4,
+    "county_fips": 18145,
+    "county_name": "Shelby",
+    "county_weights": "{\"18145\": 85.13, \"18059\": 11.03, \"18139\": 3.84}",
+    "county_names_all": "Shelby|Hancock|Rush",
+    "county_fips_all": "18145|18059|18139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

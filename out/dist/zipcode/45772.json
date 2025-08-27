@@ -1,0 +1,20 @@
+{
+    "zip": 45772,
+    "lat": 39.1408,
+    "lng": -81.82268,
+    "city": "Reedsville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1614.0,
+    "density": 15.3,
+    "county_fips": 39105,
+    "county_name": "Meigs",
+    "county_weights": "{\"39105\": 100}",
+    "county_names_all": "Meigs",
+    "county_fips_all": "39105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 29452,
+    "lat": 32.6997,
+    "lng": -80.46998,
+    "city": "Jacksonboro",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 200.0,
+    "density": 1.4,
+    "county_fips": 45029,
+    "county_name": "Colleton",
+    "county_weights": "{\"45029\": 99.76, \"45019\": 0.24}",
+    "county_names_all": "Colleton|Charleston",
+    "county_fips_all": "45029|45019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

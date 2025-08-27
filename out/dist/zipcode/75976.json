@@ -1,0 +1,20 @@
+{
+    "zip": 75976,
+    "lat": 31.51546,
+    "lng": -94.93863,
+    "city": "Wells",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1201.0,
+    "density": 16.9,
+    "county_fips": 48073,
+    "county_name": "Cherokee",
+    "county_weights": "{\"48073\": 100}",
+    "county_names_all": "Cherokee",
+    "county_fips_all": "48073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

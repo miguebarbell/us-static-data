@@ -1,0 +1,20 @@
+{
+    "zip": 93261,
+    "lat": 35.81147,
+    "lng": -119.11673,
+    "city": "Richgrove",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2197.0,
+    "density": 146.9,
+    "county_fips": 6107,
+    "county_name": "Tulare",
+    "county_weights": "{\"06107\": 100}",
+    "county_names_all": "Tulare",
+    "county_fips_all": "06107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

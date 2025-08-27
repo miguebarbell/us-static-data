@@ -1,0 +1,20 @@
+{
+    "zip": 38843,
+    "lat": 34.26753,
+    "lng": -88.37437,
+    "city": "Fulton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12275.0,
+    "density": 24.2,
+    "county_fips": 28057,
+    "county_name": "Itawamba",
+    "county_weights": "{\"28057\": 99.56, \"28081\": 0.44}",
+    "county_names_all": "Itawamba|Lee",
+    "county_fips_all": "28057|28081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

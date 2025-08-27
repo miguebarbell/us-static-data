@@ -1,0 +1,20 @@
+{
+    "zip": 56759,
+    "lat": 48.55188,
+    "lng": -96.08011,
+    "city": "Strathcona",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 363.0,
+    "density": 0.8,
+    "county_fips": 27135,
+    "county_name": "Roseau",
+    "county_weights": "{\"27135\": 63.75, \"27089\": 36.25}",
+    "county_names_all": "Roseau|Marshall",
+    "county_fips_all": "27135|27089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

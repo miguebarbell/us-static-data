@@ -1,0 +1,20 @@
+{
+    "zip": 87558,
+    "lat": 36.67279,
+    "lng": -105.40523,
+    "city": "Red River",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1050.0,
+    "density": 3.8,
+    "county_fips": 35055,
+    "county_name": "Taos",
+    "county_weights": "{\"35055\": 100}",
+    "county_names_all": "Taos",
+    "county_fips_all": "35055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

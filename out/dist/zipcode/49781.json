@@ -1,0 +1,20 @@
+{
+    "zip": 49781,
+    "lat": 45.95272,
+    "lng": -84.77652,
+    "city": "Saint Ignace",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3943.0,
+    "density": 18.7,
+    "county_fips": 26097,
+    "county_name": "Mackinac",
+    "county_weights": "{\"26097\": 100}",
+    "county_names_all": "Mackinac",
+    "county_fips_all": "26097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

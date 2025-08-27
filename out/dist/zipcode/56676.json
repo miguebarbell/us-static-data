@@ -1,0 +1,20 @@
+{
+    "zip": 56676,
+    "lat": 47.52188,
+    "lng": -95.19877,
+    "city": "Shevlin",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1812.0,
+    "density": 3.2,
+    "county_fips": 27029,
+    "county_name": "Clearwater",
+    "county_weights": "{\"27029\": 61.51, \"27007\": 38.49}",
+    "county_names_all": "Clearwater|Beltrami",
+    "county_fips_all": "27029|27007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

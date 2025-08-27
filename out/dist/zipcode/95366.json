@@ -1,0 +1,20 @@
+{
+    "zip": 95366,
+    "lat": 37.76223,
+    "lng": -121.12574,
+    "city": "Ripon",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18440.0,
+    "density": 207.5,
+    "county_fips": 6077,
+    "county_name": "San Joaquin",
+    "county_weights": "{\"06077\": 100}",
+    "county_names_all": "San Joaquin",
+    "county_fips_all": "06077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

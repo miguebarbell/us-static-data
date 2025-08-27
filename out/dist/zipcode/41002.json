@@ -1,0 +1,20 @@
+{
+    "zip": 41002,
+    "lat": 38.73002,
+    "lng": -83.98282,
+    "city": "Augusta",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2498.0,
+    "density": 23.5,
+    "county_fips": 21023,
+    "county_name": "Bracken",
+    "county_weights": "{\"21023\": 100}",
+    "county_names_all": "Bracken",
+    "county_fips_all": "21023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

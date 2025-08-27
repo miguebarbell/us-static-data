@@ -1,0 +1,20 @@
+{
+    "zip": 49031,
+    "lat": 41.89883,
+    "lng": -85.98849,
+    "city": "Cassopolis",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8320.0,
+    "density": 28.4,
+    "county_fips": 26027,
+    "county_name": "Cass",
+    "county_weights": "{\"26027\": 100}",
+    "county_names_all": "Cass",
+    "county_fips_all": "26027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

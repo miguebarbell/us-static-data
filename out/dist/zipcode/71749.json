@@ -1,0 +1,20 @@
+{
+    "zip": 71749,
+    "lat": 33.07049,
+    "lng": -92.81964,
+    "city": "Junction City",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2994.0,
+    "density": 7.2,
+    "county_fips": 5139,
+    "county_name": "Union",
+    "county_weights": "{\"05139\": 98.24, \"22027\": 1.63, \"22111\": 0.13}",
+    "county_names_all": "Union|Claiborne|Union",
+    "county_fips_all": "05139|22027|22111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

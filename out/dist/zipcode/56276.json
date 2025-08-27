@@ -1,0 +1,20 @@
+{
+    "zip": 56276,
+    "lat": 45.24134,
+    "lng": -96.31249,
+    "city": "Odessa",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 251.0,
+    "density": 1.7,
+    "county_fips": 27073,
+    "county_name": "Lac qui Parle",
+    "county_weights": "{\"27073\": 51.84, \"27011\": 48.16}",
+    "county_names_all": "Lac qui Parle|Big Stone",
+    "county_fips_all": "27073|27011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

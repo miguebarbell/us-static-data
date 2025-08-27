@@ -1,0 +1,20 @@
+{
+    "zip": 44028,
+    "lat": 41.30986,
+    "lng": -81.93959,
+    "city": "Columbia Station",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9313.0,
+    "density": 106.9,
+    "county_fips": 39093,
+    "county_name": "Lorain",
+    "county_weights": "{\"39093\": 100}",
+    "county_names_all": "Lorain",
+    "county_fips_all": "39093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

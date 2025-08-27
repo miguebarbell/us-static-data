@@ -1,0 +1,20 @@
+{
+    "zip": 22488,
+    "lat": 38.04986,
+    "lng": -76.58796,
+    "city": "Kinsale",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 807.0,
+    "density": 12.4,
+    "county_fips": 51193,
+    "county_name": "Westmoreland",
+    "county_weights": "{\"51193\": 100}",
+    "county_names_all": "Westmoreland",
+    "county_fips_all": "51193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

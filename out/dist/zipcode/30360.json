@@ -1,0 +1,20 @@
+{
+    "zip": 30360,
+    "lat": 33.93198,
+    "lng": -84.27302,
+    "city": "Atlanta",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16428.0,
+    "density": 1037.7,
+    "county_fips": 13089,
+    "county_name": "DeKalb",
+    "county_weights": "{\"13089\": 72.72, \"13135\": 27.28}",
+    "county_names_all": "DeKalb|Gwinnett",
+    "county_fips_all": "13089|13135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

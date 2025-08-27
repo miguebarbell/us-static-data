@@ -1,0 +1,20 @@
+{
+    "zip": 48848,
+    "lat": 42.88584,
+    "lng": -84.35673,
+    "city": "Laingsburg",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7795.0,
+    "density": 44.1,
+    "county_fips": 26155,
+    "county_name": "Shiawassee",
+    "county_weights": "{\"26155\": 58.99, \"26037\": 41.01}",
+    "county_names_all": "Shiawassee|Clinton",
+    "county_fips_all": "26155|26037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

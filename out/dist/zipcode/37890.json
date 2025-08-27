@@ -1,0 +1,20 @@
+{
+    "zip": 37890,
+    "lat": 36.08144,
+    "lng": -83.29299,
+    "city": "White Pine",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7218.0,
+    "density": 80.8,
+    "county_fips": 47089,
+    "county_name": "Jefferson",
+    "county_weights": "{\"47089\": 94.1, \"47063\": 5.9}",
+    "county_names_all": "Jefferson|Hamblen",
+    "county_fips_all": "47089|47063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

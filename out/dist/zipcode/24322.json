@@ -1,0 +1,20 @@
+{
+    "zip": 24322,
+    "lat": 36.80534,
+    "lng": -81.1195,
+    "city": "Cripple Creek",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23.0,
+    "density": 0.5,
+    "county_fips": 51197,
+    "county_name": "Wythe",
+    "county_weights": "{\"51197\": 100}",
+    "county_names_all": "Wythe",
+    "county_fips_all": "51197",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

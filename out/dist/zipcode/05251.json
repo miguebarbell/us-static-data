@@ -1,0 +1,20 @@
+{
+    "zip": 5251,
+    "lat": 43.26189,
+    "lng": -73.08269,
+    "city": "Dorset",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1395.0,
+    "density": 12.9,
+    "county_fips": 50003,
+    "county_name": "Bennington",
+    "county_weights": "{\"50003\": 99.76, \"50021\": 0.24}",
+    "county_names_all": "Bennington|Rutland",
+    "county_fips_all": "50003|50021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

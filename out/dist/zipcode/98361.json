@@ -1,0 +1,20 @@
+{
+    "zip": 98361,
+    "lat": 46.62786,
+    "lng": -121.56385,
+    "city": "Packwood",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 388.0,
+    "density": 0.4,
+    "county_fips": 53041,
+    "county_name": "Lewis",
+    "county_weights": "{\"53041\": 100}",
+    "county_names_all": "Lewis",
+    "county_fips_all": "53041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

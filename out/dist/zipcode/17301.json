@@ -1,0 +1,20 @@
+{
+    "zip": 17301,
+    "lat": 39.89119,
+    "lng": -76.9815,
+    "city": "Abbottstown",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4122.0,
+    "density": 134.0,
+    "county_fips": 42001,
+    "county_name": "Adams",
+    "county_weights": "{\"42001\": 60.55, \"42133\": 39.45}",
+    "county_names_all": "Adams|York",
+    "county_fips_all": "42001|42133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

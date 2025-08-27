@@ -1,0 +1,20 @@
+{
+    "zip": 47860,
+    "lat": 39.72215,
+    "lng": -87.33013,
+    "city": "Mecca",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 615.0,
+    "density": 348.9,
+    "county_fips": 18121,
+    "county_name": "Parke",
+    "county_weights": "{\"18121\": 100}",
+    "county_names_all": "Parke",
+    "county_fips_all": "18121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

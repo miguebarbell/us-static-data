@@ -1,0 +1,20 @@
+{
+    "zip": 99552,
+    "lat": 60.90614,
+    "lng": -161.21223,
+    "city": "Akiak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 273.0,
+    "density": 55.8,
+    "county_fips": 2050,
+    "county_name": "Bethel",
+    "county_weights": "{\"02050\": 100}",
+    "county_names_all": "Bethel",
+    "county_fips_all": "02050",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

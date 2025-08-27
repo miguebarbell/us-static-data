@@ -1,0 +1,20 @@
+{
+    "zip": 36502,
+    "lat": 31.14498,
+    "lng": -87.49303,
+    "city": "Atmore",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16008.0,
+    "density": 18.7,
+    "county_fips": 1053,
+    "county_name": "Escambia",
+    "county_weights": "{\"01053\": 79.3, \"01003\": 10.09, \"01099\": 7.75, \"01035\": 2.86}",
+    "county_names_all": "Escambia|Baldwin|Monroe|Conecuh",
+    "county_fips_all": "01053|01003|01099|01035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

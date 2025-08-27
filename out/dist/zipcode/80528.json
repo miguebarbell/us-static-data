@@ -1,0 +1,20 @@
+{
+    "zip": 80528,
+    "lat": 40.49343,
+    "lng": -105.00075,
+    "city": "Fort Collins",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24233.0,
+    "density": 506.6,
+    "county_fips": 8069,
+    "county_name": "Larimer",
+    "county_weights": "{\"08069\": 100}",
+    "county_names_all": "Larimer",
+    "county_fips_all": "08069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

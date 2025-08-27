@@ -1,0 +1,20 @@
+{
+    "zip": 48326,
+    "lat": 42.67536,
+    "lng": -83.2531,
+    "city": "Auburn Hills",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24488.0,
+    "density": 557.8,
+    "county_fips": 26125,
+    "county_name": "Oakland",
+    "county_weights": "{\"26125\": 100}",
+    "county_names_all": "Oakland",
+    "county_fips_all": "26125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

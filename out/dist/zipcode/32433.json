@@ -1,0 +1,20 @@
+{
+    "zip": 32433,
+    "lat": 30.84848,
+    "lng": -86.19822,
+    "city": "Defuniak Springs",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18970.0,
+    "density": 29.1,
+    "county_fips": 12131,
+    "county_name": "Walton",
+    "county_weights": "{\"12131\": 100}",
+    "county_names_all": "Walton",
+    "county_fips_all": "12131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

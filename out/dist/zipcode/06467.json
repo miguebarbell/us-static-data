@@ -1,0 +1,20 @@
+{
+    "zip": 6467,
+    "lat": 41.56548,
+    "lng": -72.90022,
+    "city": "Milldale",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 570.0,
+    "density": 938.6,
+    "county_fips": 9110,
+    "county_name": "Capitol",
+    "county_weights": "{\"09110\": 100}",
+    "county_names_all": "Capitol",
+    "county_fips_all": "09110",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

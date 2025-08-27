@@ -1,0 +1,20 @@
+{
+    "zip": 23002,
+    "lat": 37.34917,
+    "lng": -77.96357,
+    "city": "Amelia Court House",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10657.0,
+    "density": 16.1,
+    "county_fips": 51007,
+    "county_name": "Amelia",
+    "county_weights": "{\"51007\": 99.2, \"51135\": 0.8}",
+    "county_names_all": "Amelia|Nottoway",
+    "county_fips_all": "51007|51135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

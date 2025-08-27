@@ -1,0 +1,20 @@
+{
+    "zip": 27315,
+    "lat": 36.50613,
+    "lng": -79.39173,
+    "city": "Providence",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2005.0,
+    "density": 30.1,
+    "county_fips": 37033,
+    "county_name": "Caswell",
+    "county_weights": "{\"37033\": 100}",
+    "county_names_all": "Caswell",
+    "county_fips_all": "37033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 76511,
+    "lat": 30.79955,
+    "lng": -97.42293,
+    "city": "Bartlett",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2473.0,
+    "density": 11.5,
+    "county_fips": 48027,
+    "county_name": "Bell",
+    "county_weights": "{\"48027\": 57.24, \"48491\": 36.61, \"48331\": 6.15}",
+    "county_names_all": "Bell|Williamson|Milam",
+    "county_fips_all": "48027|48491|48331",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

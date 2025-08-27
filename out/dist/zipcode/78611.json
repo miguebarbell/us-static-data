@@ -1,0 +1,20 @@
+{
+    "zip": 78611,
+    "lat": 30.79188,
+    "lng": -98.26663,
+    "city": "Burnet",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14463.0,
+    "density": 20.4,
+    "county_fips": 48053,
+    "county_name": "Burnet",
+    "county_weights": "{\"48053\": 97.94, \"48299\": 2.06}",
+    "county_names_all": "Burnet|Llano",
+    "county_fips_all": "48053|48299",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

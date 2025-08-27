@@ -1,0 +1,20 @@
+{
+    "zip": 74884,
+    "lat": 35.18635,
+    "lng": -96.51882,
+    "city": "Wewoka",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5558.0,
+    "density": 16.2,
+    "county_fips": 40133,
+    "county_name": "Seminole",
+    "county_weights": "{\"40133\": 98.16, \"40063\": 1.84}",
+    "county_names_all": "Seminole|Hughes",
+    "county_fips_all": "40133|40063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

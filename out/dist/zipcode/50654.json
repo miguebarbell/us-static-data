@@ -1,0 +1,20 @@
+{
+    "zip": 50654,
+    "lat": 42.45812,
+    "lng": -91.60933,
+    "city": "Masonville",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 335.0,
+    "density": 2.4,
+    "county_fips": 19019,
+    "county_name": "Buchanan",
+    "county_weights": "{\"19019\": 52.07, \"19055\": 47.93}",
+    "county_names_all": "Buchanan|Delaware",
+    "county_fips_all": "19019|19055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 75783,
+    "lat": 32.82227,
+    "lng": -95.42386,
+    "city": "Quitman",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8011.0,
+    "density": 25.8,
+    "county_fips": 48499,
+    "county_name": "Wood",
+    "county_weights": "{\"48499\": 100}",
+    "county_names_all": "Wood",
+    "county_fips_all": "48499",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

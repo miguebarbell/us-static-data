@@ -1,0 +1,20 @@
+{
+    "zip": 74960,
+    "lat": 35.80995,
+    "lng": -94.65027,
+    "city": "Stilwell",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11964.0,
+    "density": 15.4,
+    "county_fips": 40001,
+    "county_name": "Adair",
+    "county_weights": "{\"40001\": 95.71, \"40021\": 4.29}",
+    "county_names_all": "Adair|Cherokee",
+    "county_fips_all": "40001|40021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

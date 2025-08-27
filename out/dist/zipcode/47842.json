@@ -1,0 +1,20 @@
+{
+    "zip": 47842,
+    "lat": 39.67569,
+    "lng": -87.462,
+    "city": "Clinton",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9675.0,
+    "density": 51.4,
+    "county_fips": 18165,
+    "county_name": "Vermillion",
+    "county_weights": "{\"18165\": 98.14, \"18167\": 1.86}",
+    "county_names_all": "Vermillion|Vigo",
+    "county_fips_all": "18165|18167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

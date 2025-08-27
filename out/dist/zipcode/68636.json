@@ -1,0 +1,20 @@
+{
+    "zip": 68636,
+    "lat": 42.00494,
+    "lng": -98.15674,
+    "city": "Elgin",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1237.0,
+    "density": 2.3,
+    "county_fips": 31003,
+    "county_name": "Antelope",
+    "county_weights": "{\"31003\": 93.73, \"31183\": 6.27}",
+    "county_names_all": "Antelope|Wheeler",
+    "county_fips_all": "31003|31183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

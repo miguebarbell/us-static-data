@@ -1,0 +1,20 @@
+{
+    "zip": 74366,
+    "lat": 36.37887,
+    "lng": -95.04449,
+    "city": "Spavinaw",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1319.0,
+    "density": 14.1,
+    "county_fips": 40097,
+    "county_name": "Mayes",
+    "county_weights": "{\"40097\": 89.94, \"40041\": 10.06}",
+    "county_names_all": "Mayes|Delaware",
+    "county_fips_all": "40097|40041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

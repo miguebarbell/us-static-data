@@ -1,0 +1,20 @@
+{
+    "zip": 41739,
+    "lat": 37.32596,
+    "lng": -83.12802,
+    "city": "Dwarf",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 107.0,
+    "density": 14.7,
+    "county_fips": 21193,
+    "county_name": "Perry",
+    "county_weights": "{\"21193\": 100}",
+    "county_names_all": "Perry",
+    "county_fips_all": "21193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

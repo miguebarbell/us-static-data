@@ -1,0 +1,20 @@
+{
+    "zip": 57570,
+    "lat": 43.24284,
+    "lng": -100.87127,
+    "city": "Rosebud",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2213.0,
+    "density": 18.0,
+    "county_fips": 46121,
+    "county_name": "Todd",
+    "county_weights": "{\"46121\": 100}",
+    "county_names_all": "Todd",
+    "county_fips_all": "46121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

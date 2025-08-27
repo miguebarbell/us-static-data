@@ -1,0 +1,20 @@
+{
+    "zip": 95673,
+    "lat": 38.69029,
+    "lng": -121.46603,
+    "city": "Rio Linda",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16935.0,
+    "density": 402.3,
+    "county_fips": 6067,
+    "county_name": "Sacramento",
+    "county_weights": "{\"06067\": 100}",
+    "county_names_all": "Sacramento",
+    "county_fips_all": "06067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

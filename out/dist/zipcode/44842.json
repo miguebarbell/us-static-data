@@ -1,0 +1,20 @@
+{
+    "zip": 44842,
+    "lat": 40.64903,
+    "lng": -82.22498,
+    "city": "Loudonville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5571.0,
+    "density": 29.5,
+    "county_fips": 39005,
+    "county_name": "Ashland",
+    "county_weights": "{\"39005\": 71.02, \"39075\": 26.71, \"39083\": 2.27}",
+    "county_names_all": "Ashland|Holmes|Knox",
+    "county_fips_all": "39005|39075|39083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

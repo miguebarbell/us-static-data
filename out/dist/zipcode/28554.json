@@ -1,0 +1,20 @@
+{
+    "zip": 28554,
+    "lat": 35.47569,
+    "lng": -77.5926,
+    "city": "Maury",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 77.0,
+    "density": 61.4,
+    "county_fips": 37079,
+    "county_name": "Greene",
+    "county_weights": "{\"37079\": 100}",
+    "county_names_all": "Greene",
+    "county_fips_all": "37079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

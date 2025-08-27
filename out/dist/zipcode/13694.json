@@ -1,0 +1,20 @@
+{
+    "zip": 13694,
+    "lat": 44.8575,
+    "lng": -75.1645,
+    "city": "Waddington",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1232.0,
+    "density": 26.3,
+    "county_fips": 36089,
+    "county_name": "St. Lawrence",
+    "county_weights": "{\"36089\": 100}",
+    "county_names_all": "St. Lawrence",
+    "county_fips_all": "36089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 31905,
+    "lat": 32.37304,
+    "lng": -84.84331,
+    "city": "Fort Benning",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15892.0,
+    "density": 67.3,
+    "county_fips": 13053,
+    "county_name": "Chattahoochee",
+    "county_weights": "{\"13053\": 80.97, \"13215\": 19.03}",
+    "county_names_all": "Chattahoochee|Muscogee",
+    "county_fips_all": "13053|13215",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

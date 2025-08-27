@@ -1,0 +1,20 @@
+{
+    "zip": 31620,
+    "lat": 31.11861,
+    "lng": -83.43731,
+    "city": "Adel",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11199.0,
+    "density": 34.6,
+    "county_fips": 13075,
+    "county_name": "Cook",
+    "county_weights": "{\"13075\": 100}",
+    "county_names_all": "Cook",
+    "county_fips_all": "13075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

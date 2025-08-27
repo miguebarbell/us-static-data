@@ -1,0 +1,20 @@
+{
+    "zip": 36480,
+    "lat": 31.32976,
+    "lng": -87.61125,
+    "city": "Uriah",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1375.0,
+    "density": 3.4,
+    "county_fips": 1099,
+    "county_name": "Monroe",
+    "county_weights": "{\"01099\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "01099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

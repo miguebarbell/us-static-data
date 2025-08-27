@@ -1,0 +1,20 @@
+{
+    "zip": 65705,
+    "lat": 37.02607,
+    "lng": -93.60835,
+    "city": "Marionville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4703.0,
+    "density": 43.8,
+    "county_fips": 29109,
+    "county_name": "Lawrence",
+    "county_weights": "{\"29109\": 70.96, \"29209\": 29.04}",
+    "county_names_all": "Lawrence|Stone",
+    "county_fips_all": "29109|29209",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

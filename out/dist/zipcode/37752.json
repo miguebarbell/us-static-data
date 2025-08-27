@@ -1,0 +1,20 @@
+{
+    "zip": 37752,
+    "lat": 36.56735,
+    "lng": -83.55422,
+    "city": "Harrogate",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6160.0,
+    "density": 50.4,
+    "county_fips": 47025,
+    "county_name": "Claiborne",
+    "county_weights": "{\"47025\": 99.42, \"51105\": 0.58}",
+    "county_names_all": "Claiborne|Lee",
+    "county_fips_all": "47025|51105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

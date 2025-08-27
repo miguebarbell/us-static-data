@@ -1,0 +1,20 @@
+{
+    "zip": 45740,
+    "lat": 39.47709,
+    "lng": -82.08023,
+    "city": "Jacksonville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 338.0,
+    "density": 446.7,
+    "county_fips": 39009,
+    "county_name": "Athens",
+    "county_weights": "{\"39009\": 100}",
+    "county_names_all": "Athens",
+    "county_fips_all": "39009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

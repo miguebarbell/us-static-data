@@ -1,0 +1,20 @@
+{
+    "zip": 85711,
+    "lat": 32.21504,
+    "lng": -110.88348,
+    "city": "Tucson",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41201.0,
+    "density": 1846.2,
+    "county_fips": 4019,
+    "county_name": "Pima",
+    "county_weights": "{\"04019\": 100}",
+    "county_names_all": "Pima",
+    "county_fips_all": "04019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

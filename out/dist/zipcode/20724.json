@@ -1,0 +1,20 @@
+{
+    "zip": 20724,
+    "lat": 39.08028,
+    "lng": -76.79054,
+    "city": "Laurel",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18669.0,
+    "density": 382.9,
+    "county_fips": 24003,
+    "county_name": "Anne Arundel",
+    "county_weights": "{\"24003\": 100}",
+    "county_names_all": "Anne Arundel",
+    "county_fips_all": "24003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

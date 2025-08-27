@@ -1,0 +1,20 @@
+{
+    "zip": 83524,
+    "lat": 46.3586,
+    "lng": -116.65439,
+    "city": "Culdesac",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 937.0,
+    "density": 3.0,
+    "county_fips": 16069,
+    "county_name": "Nez Perce",
+    "county_weights": "{\"16069\": 80.23, \"16061\": 19.77}",
+    "county_names_all": "Nez Perce|Lewis",
+    "county_fips_all": "16069|16061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

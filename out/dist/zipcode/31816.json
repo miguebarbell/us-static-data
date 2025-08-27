@@ -1,0 +1,20 @@
+{
+    "zip": 31816,
+    "lat": 32.8762,
+    "lng": -84.60169,
+    "city": "Manchester",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4872.0,
+    "density": 50.1,
+    "county_fips": 13199,
+    "county_name": "Meriwether",
+    "county_weights": "{\"13199\": 85.89, \"13263\": 14.11}",
+    "county_names_all": "Meriwether|Talbot",
+    "county_fips_all": "13199|13263",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

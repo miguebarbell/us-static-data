@@ -1,0 +1,20 @@
+{
+    "zip": 20902,
+    "lat": 39.04381,
+    "lng": -77.0421,
+    "city": "Silver Spring",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 53170.0,
+    "density": 2714.2,
+    "county_fips": 24031,
+    "county_name": "Montgomery",
+    "county_weights": "{\"24031\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "24031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 29634,
+    "lat": 34.67517,
+    "lng": -82.83978,
+    "city": "Clemson",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5955.0,
+    "density": 1652.3,
+    "county_fips": 45077,
+    "county_name": "Pickens",
+    "county_weights": "{\"45077\": 98.91, \"45073\": 1.09}",
+    "county_names_all": "Pickens|Oconee",
+    "county_fips_all": "45077|45073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

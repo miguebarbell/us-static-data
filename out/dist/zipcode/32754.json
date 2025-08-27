@@ -1,0 +1,20 @@
+{
+    "zip": 32754,
+    "lat": 28.68565,
+    "lng": -80.9208,
+    "city": "Mims",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11250.0,
+    "density": 31.7,
+    "county_fips": 12009,
+    "county_name": "Brevard",
+    "county_weights": "{\"12009\": 78.46, \"12127\": 21.54}",
+    "county_names_all": "Brevard|Volusia",
+    "county_fips_all": "12009|12127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

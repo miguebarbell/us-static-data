@@ -1,0 +1,20 @@
+{
+    "zip": 30132,
+    "lat": 33.99042,
+    "lng": -84.85279,
+    "city": "Dallas",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 50803.0,
+    "density": 191.5,
+    "county_fips": 13223,
+    "county_name": "Paulding",
+    "county_weights": "{\"13223\": 100}",
+    "county_names_all": "Paulding",
+    "county_fips_all": "13223",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

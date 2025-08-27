@@ -1,0 +1,20 @@
+{
+    "zip": 15714,
+    "lat": 40.63962,
+    "lng": -78.82978,
+    "city": "Northern Cambria",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5215.0,
+    "density": 60.4,
+    "county_fips": 42021,
+    "county_name": "Cambria",
+    "county_weights": "{\"42021\": 55.61, \"42063\": 44.39}",
+    "county_names_all": "Cambria|Indiana",
+    "county_fips_all": "42021|42063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

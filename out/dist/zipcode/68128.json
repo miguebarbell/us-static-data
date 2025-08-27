@@ -1,0 +1,20 @@
+{
+    "zip": 68128,
+    "lat": 41.17972,
+    "lng": -96.07081,
+    "city": "La Vista",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18994.0,
+    "density": 1095.3,
+    "county_fips": 31153,
+    "county_name": "Sarpy",
+    "county_weights": "{\"31153\": 100}",
+    "county_names_all": "Sarpy",
+    "county_fips_all": "31153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

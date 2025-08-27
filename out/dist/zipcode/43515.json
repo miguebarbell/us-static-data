@@ -1,0 +1,20 @@
+{
+    "zip": 43515,
+    "lat": 41.58656,
+    "lng": -84.00746,
+    "city": "Delta",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8139.0,
+    "density": 38.4,
+    "county_fips": 39051,
+    "county_name": "Fulton",
+    "county_weights": "{\"39051\": 100}",
+    "county_names_all": "Fulton",
+    "county_fips_all": "39051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

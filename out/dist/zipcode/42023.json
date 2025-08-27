@@ -1,0 +1,20 @@
+{
+    "zip": 42023,
+    "lat": 36.87623,
+    "lng": -88.98742,
+    "city": "Bardwell",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2572.0,
+    "density": 10.5,
+    "county_fips": 21039,
+    "county_name": "Carlisle",
+    "county_weights": "{\"21039\": 100}",
+    "county_names_all": "Carlisle",
+    "county_fips_all": "21039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

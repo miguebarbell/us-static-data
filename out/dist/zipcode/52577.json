@@ -1,0 +1,20 @@
+{
+    "zip": 52577,
+    "lat": 41.27174,
+    "lng": -92.6602,
+    "city": "Oskaloosa",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14336.0,
+    "density": 35.0,
+    "county_fips": 19123,
+    "county_name": "Mahaska",
+    "county_weights": "{\"19123\": 100}",
+    "county_names_all": "Mahaska",
+    "county_fips_all": "19123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

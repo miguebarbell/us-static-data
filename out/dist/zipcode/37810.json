@@ -1,0 +1,20 @@
+{
+    "zip": 37810,
+    "lat": 36.17984,
+    "lng": -83.10296,
+    "city": "Mohawk",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1991.0,
+    "density": 22.9,
+    "county_fips": 47059,
+    "county_name": "Greene",
+    "county_weights": "{\"47059\": 100}",
+    "county_names_all": "Greene",
+    "county_fips_all": "47059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

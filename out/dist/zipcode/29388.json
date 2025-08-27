@@ -1,0 +1,20 @@
+{
+    "zip": 29388,
+    "lat": 34.76292,
+    "lng": -82.04299,
+    "city": "Woodruff",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16020.0,
+    "density": 63.6,
+    "county_fips": 45083,
+    "county_name": "Spartanburg",
+    "county_weights": "{\"45083\": 94.23, \"45059\": 5.77}",
+    "county_names_all": "Spartanburg|Laurens",
+    "county_fips_all": "45083|45059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

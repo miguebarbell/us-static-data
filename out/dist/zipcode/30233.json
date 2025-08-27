@@ -1,0 +1,20 @@
+{
+    "zip": 30233,
+    "lat": 33.29492,
+    "lng": -83.97501,
+    "city": "Jackson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25404.0,
+    "density": 66.3,
+    "county_fips": 13035,
+    "county_name": "Butts",
+    "county_weights": "{\"13035\": 86.71, \"13207\": 5.76, \"13151\": 4.36, \"13171\": 2.99, \"13217\": 0.18}",
+    "county_names_all": "Butts|Monroe|Henry|Lamar|Newton",
+    "county_fips_all": "13035|13207|13151|13171|13217",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

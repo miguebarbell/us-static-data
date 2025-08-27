@@ -1,0 +1,20 @@
+{
+    "zip": 28613,
+    "lat": 35.73978,
+    "lng": -81.20897,
+    "city": "Conover",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23486.0,
+    "density": 214.1,
+    "county_fips": 37035,
+    "county_name": "Catawba",
+    "county_weights": "{\"37035\": 100}",
+    "county_names_all": "Catawba",
+    "county_fips_all": "37035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

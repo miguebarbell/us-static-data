@@ -1,0 +1,20 @@
+{
+    "zip": 44601,
+    "lat": 40.91978,
+    "lng": -81.1278,
+    "city": "Alliance",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32823.0,
+    "density": 154.5,
+    "county_fips": 39151,
+    "county_name": "Stark",
+    "county_weights": "{\"39151\": 73.29, \"39099\": 14.38, \"39029\": 12.33}",
+    "county_names_all": "Stark|Mahoning|Columbiana",
+    "county_fips_all": "39151|39099|39029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

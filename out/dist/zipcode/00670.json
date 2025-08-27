@@ -1,0 +1,20 @@
+{
+    "zip": 670,
+    "lat": 18.23782,
+    "lng": -66.98852,
+    "city": "Las Marias",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8553.0,
+    "density": 71.0,
+    "county_fips": 72083,
+    "county_name": "Las Mar\u00edas",
+    "county_weights": "{\"72083\": 95.64, \"72011\": 3.6, \"72097\": 0.45, \"72093\": 0.31}",
+    "county_names_all": "Las Mar\u00edas|A\u00f1asco|Mayag\u00fcez|Maricao",
+    "county_fips_all": "72083|72011|72097|72093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 6258,
+    "lat": 41.88554,
+    "lng": -71.96353,
+    "city": "Pomfret",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 79.0,
+    "density": 694.8,
+    "county_fips": 9150,
+    "county_name": "Northeastern Connecticut",
+    "county_weights": "{\"09150\": 100}",
+    "county_names_all": "Northeastern Connecticut",
+    "county_fips_all": "09150",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65355,
+    "lat": 38.22137,
+    "lng": -93.37144,
+    "city": "Warsaw",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11029.0,
+    "density": 19.7,
+    "county_fips": 29015,
+    "county_name": "Benton",
+    "county_weights": "{\"29015\": 98.48, \"29185\": 0.91, \"29085\": 0.61}",
+    "county_names_all": "Benton|St. Clair|Hickory",
+    "county_fips_all": "29015|29185|29085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

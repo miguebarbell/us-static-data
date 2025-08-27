@@ -1,0 +1,20 @@
+{
+    "zip": 59715,
+    "lat": 45.6928,
+    "lng": -110.9065,
+    "city": "Bozeman",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39275.0,
+    "density": 51.4,
+    "county_fips": 30031,
+    "county_name": "Gallatin",
+    "county_weights": "{\"30031\": 91.82, \"30067\": 8.18}",
+    "county_names_all": "Gallatin|Park",
+    "county_fips_all": "30031|30067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

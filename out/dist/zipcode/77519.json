@@ -1,0 +1,20 @@
+{
+    "zip": 77519,
+    "lat": 30.21124,
+    "lng": -94.58596,
+    "city": "Batson",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 556.0,
+    "density": 7.7,
+    "county_fips": 48199,
+    "county_name": "Hardin",
+    "county_weights": "{\"48199\": 100}",
+    "county_names_all": "Hardin",
+    "county_fips_all": "48199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

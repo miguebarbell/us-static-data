@@ -1,0 +1,20 @@
+{
+    "zip": 62231,
+    "lat": 38.64402,
+    "lng": -89.32642,
+    "city": "Carlyle",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6521.0,
+    "density": 13.1,
+    "county_fips": 17027,
+    "county_name": "Clinton",
+    "county_weights": "{\"17027\": 100}",
+    "county_names_all": "Clinton",
+    "county_fips_all": "17027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

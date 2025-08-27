@@ -1,0 +1,20 @@
+{
+    "zip": 67430,
+    "lat": 39.57571,
+    "lng": -98.44193,
+    "city": "Cawker City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 508.0,
+    "density": 2.0,
+    "county_fips": 20089,
+    "county_name": "Jewell",
+    "county_weights": "{\"20089\": 51.38, \"20123\": 39.73, \"20183\": 5.99, \"20141\": 2.9}",
+    "county_names_all": "Jewell|Mitchell|Smith|Osborne",
+    "county_fips_all": "20089|20123|20183|20141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

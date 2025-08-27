@@ -1,0 +1,20 @@
+{
+    "zip": 65344,
+    "lat": 39.31174,
+    "lng": -93.1976,
+    "city": "Miami",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 176.0,
+    "density": 0.9,
+    "county_fips": 29195,
+    "county_name": "Saline",
+    "county_weights": "{\"29195\": 100}",
+    "county_names_all": "Saline",
+    "county_fips_all": "29195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 71209,
+    "lat": 32.53036,
+    "lng": -92.07206,
+    "city": "Monroe",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1366.0,
+    "density": 10138.2,
+    "county_fips": 22073,
+    "county_name": "Ouachita",
+    "county_weights": "{\"22073\": 100}",
+    "county_names_all": "Ouachita",
+    "county_fips_all": "22073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

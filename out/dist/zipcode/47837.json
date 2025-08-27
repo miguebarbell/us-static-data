@@ -1,0 +1,20 @@
+{
+    "zip": 47837,
+    "lat": 39.62929,
+    "lng": -87.11281,
+    "city": "Carbon",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 876.0,
+    "density": 10.7,
+    "county_fips": 18121,
+    "county_name": "Parke",
+    "county_weights": "{\"18121\": 73.6, \"18021\": 26.4}",
+    "county_names_all": "Parke|Clay",
+    "county_fips_all": "18121|18021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 44278,
+    "lat": 41.10052,
+    "lng": -81.42137,
+    "city": "Tallmadge",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18602.0,
+    "density": 492.9,
+    "county_fips": 39153,
+    "county_name": "Summit",
+    "county_weights": "{\"39153\": 96.09, \"39133\": 3.91}",
+    "county_names_all": "Summit|Portage",
+    "county_fips_all": "39153|39133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

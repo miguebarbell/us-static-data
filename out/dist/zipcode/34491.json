@@ -1,0 +1,20 @@
+{
+    "zip": 34491,
+    "lat": 28.99634,
+    "lng": -82.04665,
+    "city": "Summerfield",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32369.0,
+    "density": 278.2,
+    "county_fips": 12083,
+    "county_name": "Marion",
+    "county_weights": "{\"12083\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "12083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

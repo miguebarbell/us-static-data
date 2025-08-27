@@ -1,0 +1,20 @@
+{
+    "zip": 1009,
+    "lat": 42.21133,
+    "lng": -72.34189,
+    "city": "Bondsville",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 790.0,
+    "density": 437.3,
+    "county_fips": 25013,
+    "county_name": "Hampden",
+    "county_weights": "{\"25013\": 99.06, \"25015\": 0.94}",
+    "county_names_all": "Hampden|Hampshire",
+    "county_fips_all": "25013|25015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

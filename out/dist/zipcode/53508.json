@@ -1,0 +1,20 @@
+{
+    "zip": 53508,
+    "lat": 42.86783,
+    "lng": -89.5618,
+    "city": "Belleville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5711.0,
+    "density": 32.5,
+    "county_fips": 55025,
+    "county_name": "Dane",
+    "county_weights": "{\"55025\": 66.02, \"55045\": 33.98}",
+    "county_names_all": "Dane|Green",
+    "county_fips_all": "55025|55045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

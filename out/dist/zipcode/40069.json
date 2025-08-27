@@ -1,0 +1,20 @@
+{
+    "zip": 40069,
+    "lat": 37.71627,
+    "lng": -85.21764,
+    "city": "Springfield",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7802.0,
+    "density": 16.0,
+    "county_fips": 21229,
+    "county_name": "Washington",
+    "county_weights": "{\"21229\": 97.73, \"21155\": 2.27}",
+    "county_names_all": "Washington|Marion",
+    "county_fips_all": "21229|21155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

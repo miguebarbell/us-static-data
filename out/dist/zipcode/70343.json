@@ -1,0 +1,20 @@
+{
+    "zip": 70343,
+    "lat": 29.55308,
+    "lng": -90.56402,
+    "city": "Bourg",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5271.0,
+    "density": 88.9,
+    "county_fips": 22057,
+    "county_name": "Lafourche",
+    "county_weights": "{\"22057\": 50.84, \"22109\": 49.16}",
+    "county_names_all": "Lafourche|Terrebonne",
+    "county_fips_all": "22057|22109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

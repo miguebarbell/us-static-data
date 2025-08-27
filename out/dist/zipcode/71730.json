@@ -1,0 +1,20 @@
+{
+    "zip": 71730,
+    "lat": 33.20303,
+    "lng": -92.63458,
+    "city": "El Dorado",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29187.0,
+    "density": 24.6,
+    "county_fips": 5139,
+    "county_name": "Union",
+    "county_weights": "{\"05139\": 100}",
+    "county_names_all": "Union",
+    "county_fips_all": "05139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

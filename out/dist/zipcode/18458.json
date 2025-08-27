@@ -1,0 +1,20 @@
+{
+    "zip": 18458,
+    "lat": 41.40916,
+    "lng": -74.91757,
+    "city": "Shohola",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3576.0,
+    "density": 25.1,
+    "county_fips": 42103,
+    "county_name": "Pike",
+    "county_weights": "{\"42103\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "42103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

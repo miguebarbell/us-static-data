@@ -1,0 +1,20 @@
+{
+    "zip": 57197,
+    "lat": 43.52455,
+    "lng": -96.73862,
+    "city": "Sioux Falls",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 559.0,
+    "density": 2571.5,
+    "county_fips": 46099,
+    "county_name": "Minnehaha",
+    "county_weights": "{\"46099\": 100}",
+    "county_names_all": "Minnehaha",
+    "county_fips_all": "46099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

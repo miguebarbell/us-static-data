@@ -1,0 +1,20 @@
+{
+    "zip": 40981,
+    "lat": 37.27792,
+    "lng": -83.48531,
+    "city": "Saul",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 21193,
+    "county_name": "Perry",
+    "county_weights": "{\"21193\": 99.72, \"21131\": 0.28}",
+    "county_names_all": "Perry|Leslie",
+    "county_fips_all": "21193|21131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

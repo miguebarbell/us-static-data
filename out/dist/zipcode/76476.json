@@ -1,0 +1,20 @@
+{
+    "zip": 76476,
+    "lat": 32.37055,
+    "lng": -97.92017,
+    "city": "Tolar",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3638.0,
+    "density": 12.8,
+    "county_fips": 48221,
+    "county_name": "Hood",
+    "county_weights": "{\"48221\": 100}",
+    "county_names_all": "Hood",
+    "county_fips_all": "48221",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

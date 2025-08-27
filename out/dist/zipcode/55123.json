@@ -1,0 +1,20 @@
+{
+    "zip": 55123,
+    "lat": 44.8043,
+    "lng": -93.13699,
+    "city": "Saint Paul",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27288.0,
+    "density": 978.8,
+    "county_fips": 27037,
+    "county_name": "Dakota",
+    "county_weights": "{\"27037\": 100}",
+    "county_names_all": "Dakota",
+    "county_fips_all": "27037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

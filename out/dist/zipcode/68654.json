@@ -1,0 +1,20 @@
+{
+    "zip": 68654,
+    "lat": 41.06791,
+    "lng": -97.7772,
+    "city": "Polk",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 528.0,
+    "density": 3.6,
+    "county_fips": 31143,
+    "county_name": "Polk",
+    "county_weights": "{\"31143\": 62.88, \"31185\": 28.27, \"31081\": 8.85}",
+    "county_names_all": "Polk|York|Hamilton",
+    "county_fips_all": "31143|31185|31081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

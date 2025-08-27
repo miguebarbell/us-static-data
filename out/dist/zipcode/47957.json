@@ -1,0 +1,20 @@
+{
+    "zip": 47957,
+    "lat": 41.08937,
+    "lng": -86.8772,
+    "city": "Medaryville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2067.0,
+    "density": 13.3,
+    "county_fips": 18131,
+    "county_name": "Pulaski",
+    "county_weights": "{\"18131\": 86.37, \"18073\": 13.63}",
+    "county_names_all": "Pulaski|Jasper",
+    "county_fips_all": "18131|18073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Winamac"
+}

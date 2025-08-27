@@ -1,0 +1,20 @@
+{
+    "zip": 38305,
+    "lat": 35.70108,
+    "lng": -88.76779,
+    "city": "Jackson",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 53366.0,
+    "density": 161.0,
+    "county_fips": 47113,
+    "county_name": "Madison",
+    "county_weights": "{\"47113\": 97.34, \"47017\": 2.66}",
+    "county_names_all": "Madison|Carroll",
+    "county_fips_all": "47113|47017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

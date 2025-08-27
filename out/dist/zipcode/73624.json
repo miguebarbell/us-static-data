@@ -1,0 +1,20 @@
+{
+    "zip": 73624,
+    "lat": 35.35969,
+    "lng": -99.1719,
+    "city": "Burns Flat",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1968.0,
+    "density": 150.9,
+    "county_fips": 40149,
+    "county_name": "Washita",
+    "county_weights": "{\"40149\": 100}",
+    "county_names_all": "Washita",
+    "county_fips_all": "40149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

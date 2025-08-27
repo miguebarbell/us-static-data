@@ -1,0 +1,20 @@
+{
+    "zip": 88263,
+    "lat": 32.09091,
+    "lng": -104.09006,
+    "city": "Malaga",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 63.0,
+    "density": 0.2,
+    "county_fips": 35015,
+    "county_name": "Eddy",
+    "county_weights": "{\"35015\": 100}",
+    "county_names_all": "Eddy",
+    "county_fips_all": "35015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

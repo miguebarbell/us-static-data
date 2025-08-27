@@ -1,0 +1,20 @@
+{
+    "zip": 43722,
+    "lat": 39.91933,
+    "lng": -81.52001,
+    "city": "Buffalo",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 657.0,
+    "density": 519.4,
+    "county_fips": 39059,
+    "county_name": "Guernsey",
+    "county_weights": "{\"39059\": 100}",
+    "county_names_all": "Guernsey",
+    "county_fips_all": "39059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

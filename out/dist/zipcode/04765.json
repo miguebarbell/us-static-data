@@ -1,0 +1,20 @@
+{
+    "zip": 4765,
+    "lat": 46.06884,
+    "lng": -68.64477,
+    "city": "Patten",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1452.0,
+    "density": 0.7,
+    "county_fips": 23019,
+    "county_name": "Penobscot",
+    "county_weights": "{\"23019\": 100}",
+    "county_names_all": "Penobscot",
+    "county_fips_all": "23019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

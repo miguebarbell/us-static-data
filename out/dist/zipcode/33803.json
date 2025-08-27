@@ -1,0 +1,20 @@
+{
+    "zip": 33803,
+    "lat": 28.00887,
+    "lng": -81.93604,
+    "city": "Lakeland",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29058.0,
+    "density": 676.2,
+    "county_fips": 12105,
+    "county_name": "Polk",
+    "county_weights": "{\"12105\": 100}",
+    "county_names_all": "Polk",
+    "county_fips_all": "12105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

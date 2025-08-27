@@ -1,0 +1,20 @@
+{
+    "zip": 45659,
+    "lat": 38.67117,
+    "lng": -82.62331,
+    "city": "Pedro",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3007.0,
+    "density": 11.7,
+    "county_fips": 39087,
+    "county_name": "Lawrence",
+    "county_weights": "{\"39087\": 99.78, \"39145\": 0.22}",
+    "county_names_all": "Lawrence|Scioto",
+    "county_fips_all": "39087|39145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

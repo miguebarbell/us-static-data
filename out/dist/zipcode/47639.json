@@ -1,0 +1,20 @@
+{
+    "zip": 47639,
+    "lat": 38.18228,
+    "lng": -87.57132,
+    "city": "Haubstadt",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4633.0,
+    "density": 38.7,
+    "county_fips": 18051,
+    "county_name": "Gibson",
+    "county_weights": "{\"18051\": 72.91, \"18163\": 26.15, \"18173\": 0.94}",
+    "county_names_all": "Gibson|Vanderburgh|Warrick",
+    "county_fips_all": "18051|18163|18173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

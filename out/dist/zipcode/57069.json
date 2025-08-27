@@ -1,0 +1,20 @@
+{
+    "zip": 57069,
+    "lat": 42.84348,
+    "lng": -96.98774,
+    "city": "Vermillion",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12937.0,
+    "density": 29.5,
+    "county_fips": 46027,
+    "county_name": "Clay",
+    "county_weights": "{\"46027\": 100}",
+    "county_names_all": "Clay",
+    "county_fips_all": "46027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

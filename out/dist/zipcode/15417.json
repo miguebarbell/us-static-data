@@ -1,0 +1,20 @@
+{
+    "zip": 15417,
+    "lat": 40.01466,
+    "lng": -79.91464,
+    "city": "Brownsville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7709.0,
+    "density": 146.0,
+    "county_fips": 42125,
+    "county_name": "Washington",
+    "county_weights": "{\"42125\": 50.57, \"42051\": 49.43}",
+    "county_names_all": "Washington|Fayette",
+    "county_fips_all": "42125|42051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

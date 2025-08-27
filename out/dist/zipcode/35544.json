@@ -1,0 +1,20 @@
+{
+    "zip": 35544,
+    "lat": 33.95392,
+    "lng": -88.02022,
+    "city": "Beaverton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 965.0,
+    "density": 4.8,
+    "county_fips": 1075,
+    "county_name": "Lamar",
+    "county_weights": "{\"01075\": 100}",
+    "county_names_all": "Lamar",
+    "county_fips_all": "01075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 30628,
+    "lat": 34.03115,
+    "lng": -83.21364,
+    "city": "Colbert",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7261.0,
+    "density": 57.7,
+    "county_fips": 13195,
+    "county_name": "Madison",
+    "county_weights": "{\"13195\": 70.07, \"13221\": 29.93}",
+    "county_names_all": "Madison|Oglethorpe",
+    "county_fips_all": "13195|13221",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 27925,
+    "lat": 35.84336,
+    "lng": -76.18349,
+    "city": "Columbia",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3206.0,
+    "density": 4.1,
+    "county_fips": 37177,
+    "county_name": "Tyrrell",
+    "county_weights": "{\"37177\": 100}",
+    "county_names_all": "Tyrrell",
+    "county_fips_all": "37177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

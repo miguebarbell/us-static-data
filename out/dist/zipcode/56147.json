@@ -1,0 +1,20 @@
+{
+    "zip": 56147,
+    "lat": 43.75726,
+    "lng": -96.05985,
+    "city": "Kenneth",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 103.0,
+    "density": 1.3,
+    "county_fips": 27133,
+    "county_name": "Rock",
+    "county_weights": "{\"27133\": 53.53, \"27105\": 46.47}",
+    "county_names_all": "Rock|Nobles",
+    "county_fips_all": "27133|27105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

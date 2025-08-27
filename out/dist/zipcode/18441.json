@@ -1,0 +1,20 @@
+{
+    "zip": 18441,
+    "lat": 41.65833,
+    "lng": -75.62565,
+    "city": "Lenoxville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 425.0,
+    "density": 58.0,
+    "county_fips": 42115,
+    "county_name": "Susquehanna",
+    "county_weights": "{\"42115\": 100}",
+    "county_names_all": "Susquehanna",
+    "county_fips_all": "42115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

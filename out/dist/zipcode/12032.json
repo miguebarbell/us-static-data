@@ -1,0 +1,20 @@
+{
+    "zip": 12032,
+    "lat": 43.24042,
+    "lng": -74.55666,
+    "city": "Caroga Lake",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 710.0,
+    "density": 2.9,
+    "county_fips": 36041,
+    "county_name": "Hamilton",
+    "county_weights": "{\"36041\": 56.48, \"36035\": 43.52}",
+    "county_names_all": "Hamilton|Fulton",
+    "county_fips_all": "36041|36035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

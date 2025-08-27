@@ -1,0 +1,20 @@
+{
+    "zip": 99146,
+    "lat": 48.95766,
+    "lng": -118.29768,
+    "city": "Laurier",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38.0,
+    "density": 0.3,
+    "county_fips": 53019,
+    "county_name": "Ferry",
+    "county_weights": "{\"53019\": 100}",
+    "county_names_all": "Ferry",
+    "county_fips_all": "53019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

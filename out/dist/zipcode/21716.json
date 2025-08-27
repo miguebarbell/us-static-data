@@ -1,0 +1,20 @@
+{
+    "zip": 21716,
+    "lat": 39.31798,
+    "lng": -77.6262,
+    "city": "Brunswick",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6757.0,
+    "density": 955.4,
+    "county_fips": 24021,
+    "county_name": "Frederick",
+    "county_weights": "{\"24021\": 100}",
+    "county_names_all": "Frederick",
+    "county_fips_all": "24021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

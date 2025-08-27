@@ -1,0 +1,20 @@
+{
+    "zip": 83243,
+    "lat": 42.24444,
+    "lng": -112.67292,
+    "city": "Holbrook",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19.0,
+    "density": 0.0,
+    "county_fips": 16071,
+    "county_name": "Oneida",
+    "county_weights": "{\"16071\": 100}",
+    "county_names_all": "Oneida",
+    "county_fips_all": "16071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

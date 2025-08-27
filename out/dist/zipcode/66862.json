@@ -1,0 +1,20 @@
+{
+    "zip": 66862,
+    "lat": 38.15532,
+    "lng": -96.55403,
+    "city": "Matfield Green",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 93.0,
+    "density": 0.4,
+    "county_fips": 20017,
+    "county_name": "Chase",
+    "county_weights": "{\"20017\": 100}",
+    "county_names_all": "Chase",
+    "county_fips_all": "20017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

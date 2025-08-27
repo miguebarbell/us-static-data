@@ -1,0 +1,20 @@
+{
+    "zip": 12121,
+    "lat": 42.84368,
+    "lng": -73.60398,
+    "city": "Melrose",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2325.0,
+    "density": 46.5,
+    "county_fips": 36083,
+    "county_name": "Rensselaer",
+    "county_weights": "{\"36083\": 100}",
+    "county_names_all": "Rensselaer",
+    "county_fips_all": "36083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

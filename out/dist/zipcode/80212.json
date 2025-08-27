@@ -1,0 +1,20 @@
+{
+    "zip": 80212,
+    "lat": 39.77174,
+    "lng": -105.04819,
+    "city": "Denver",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20426.0,
+    "density": 2213.4,
+    "county_fips": 8031,
+    "county_name": "Denver",
+    "county_weights": "{\"08031\": 74.66, \"08059\": 18.07, \"08001\": 7.27}",
+    "county_names_all": "Denver|Jefferson|Adams",
+    "county_fips_all": "08031|08059|08001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

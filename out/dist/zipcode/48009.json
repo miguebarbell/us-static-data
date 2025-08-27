@@ -1,0 +1,20 @@
+{
+    "zip": 48009,
+    "lat": 42.54381,
+    "lng": -83.21765,
+    "city": "Birmingham",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21623.0,
+    "density": 1681.7,
+    "county_fips": 26125,
+    "county_name": "Oakland",
+    "county_weights": "{\"26125\": 100}",
+    "county_names_all": "Oakland",
+    "county_fips_all": "26125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

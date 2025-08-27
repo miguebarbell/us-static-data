@@ -1,0 +1,20 @@
+{
+    "zip": 94303,
+    "lat": 37.45064,
+    "lng": -122.11928,
+    "city": "Palo Alto",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 47123.0,
+    "density": 2156.0,
+    "county_fips": 6085,
+    "county_name": "Santa Clara",
+    "county_weights": "{\"06085\": 67.45, \"06081\": 32.55}",
+    "county_names_all": "Santa Clara|San Mateo",
+    "county_fips_all": "06085|06081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

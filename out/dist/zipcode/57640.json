@@ -1,0 +1,20 @@
+{
+    "zip": 57640,
+    "lat": 45.7656,
+    "lng": -102.70435,
+    "city": "Lodgepole",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 50.0,
+    "density": 0.1,
+    "county_fips": 46105,
+    "county_name": "Perkins",
+    "county_weights": "{\"46105\": 100}",
+    "county_names_all": "Perkins",
+    "county_fips_all": "46105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

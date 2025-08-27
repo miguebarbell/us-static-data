@@ -1,0 +1,20 @@
+{
+    "zip": 21774,
+    "lat": 39.4088,
+    "lng": -77.27844,
+    "city": "New Market",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16515.0,
+    "density": 450.3,
+    "county_fips": 24021,
+    "county_name": "Frederick",
+    "county_weights": "{\"24021\": 100}",
+    "county_names_all": "Frederick",
+    "county_fips_all": "24021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

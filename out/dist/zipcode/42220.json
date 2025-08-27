@@ -1,0 +1,20 @@
+{
+    "zip": 42220,
+    "lat": 36.90129,
+    "lng": -87.18395,
+    "city": "Elkton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5795.0,
+    "density": 13.3,
+    "county_fips": 21219,
+    "county_name": "Todd",
+    "county_weights": "{\"21219\": 98.59, \"21047\": 1.14, \"21177\": 0.27}",
+    "county_names_all": "Todd|Christian|Muhlenberg",
+    "county_fips_all": "21219|21047|21177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

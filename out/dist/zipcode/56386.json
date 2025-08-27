@@ -1,0 +1,20 @@
+{
+    "zip": 56386,
+    "lat": 46.11402,
+    "lng": -93.52176,
+    "city": "Wahkon",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 641.0,
+    "density": 13.9,
+    "county_fips": 27095,
+    "county_name": "Mille Lacs",
+    "county_weights": "{\"27095\": 100}",
+    "county_names_all": "Mille Lacs",
+    "county_fips_all": "27095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

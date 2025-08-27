@@ -1,0 +1,20 @@
+{
+    "zip": 72721,
+    "lat": 35.78383,
+    "lng": -93.78402,
+    "city": "Combs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 888.0,
+    "density": 5.4,
+    "county_fips": 5087,
+    "county_name": "Madison",
+    "county_weights": "{\"05087\": 51.66, \"05047\": 48.34}",
+    "county_names_all": "Madison|Franklin",
+    "county_fips_all": "05087|05047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

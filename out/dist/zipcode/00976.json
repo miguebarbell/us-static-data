@@ -1,0 +1,20 @@
+{
+    "zip": 976,
+    "lat": 18.33903,
+    "lng": -65.99286,
+    "city": "Trujillo Alto",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 61306.0,
+    "density": 1357.6,
+    "county_fips": 72139,
+    "county_name": "Trujillo Alto",
+    "county_weights": "{\"72139\": 94.65, \"72031\": 2.57, \"72127\": 2.08, \"72063\": 0.7}",
+    "county_names_all": "Trujillo Alto|Carolina|San Juan|Gurabo",
+    "county_fips_all": "72139|72031|72127|72063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

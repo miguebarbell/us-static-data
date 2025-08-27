@@ -1,0 +1,20 @@
+{
+    "zip": 49073,
+    "lat": 42.57971,
+    "lng": -85.11717,
+    "city": "Nashville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4853.0,
+    "density": 26.6,
+    "county_fips": 26015,
+    "county_name": "Barry",
+    "county_weights": "{\"26015\": 84.75, \"26045\": 15.25}",
+    "county_names_all": "Barry|Eaton",
+    "county_fips_all": "26015|26045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

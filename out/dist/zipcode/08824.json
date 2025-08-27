@@ -1,0 +1,20 @@
+{
+    "zip": 8824,
+    "lat": 40.42058,
+    "lng": -74.5538,
+    "city": "Kendall Park",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13866.0,
+    "density": 1234.8,
+    "county_fips": 34023,
+    "county_name": "Middlesex",
+    "county_weights": "{\"34023\": 100}",
+    "county_names_all": "Middlesex",
+    "county_fips_all": "34023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

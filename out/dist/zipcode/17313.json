@@ -1,0 +1,20 @@
+{
+    "zip": 17313,
+    "lat": 39.88472,
+    "lng": -76.65719,
+    "city": "Dallastown",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11263.0,
+    "density": 445.0,
+    "county_fips": 42133,
+    "county_name": "York",
+    "county_weights": "{\"42133\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "42133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

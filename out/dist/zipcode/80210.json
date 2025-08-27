@@ -1,0 +1,20 @@
+{
+    "zip": 80210,
+    "lat": 39.6781,
+    "lng": -104.96275,
+    "city": "Denver",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39155.0,
+    "density": 2482.9,
+    "county_fips": 8031,
+    "county_name": "Denver",
+    "county_weights": "{\"08031\": 100}",
+    "county_names_all": "Denver",
+    "county_fips_all": "08031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

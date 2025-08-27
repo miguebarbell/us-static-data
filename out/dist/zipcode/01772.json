@@ -1,0 +1,20 @@
+{
+    "zip": 1772,
+    "lat": 42.30144,
+    "lng": -71.5304,
+    "city": "Southborough",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9781.0,
+    "density": 277.4,
+    "county_fips": 25027,
+    "county_name": "Worcester",
+    "county_weights": "{\"25027\": 100}",
+    "county_names_all": "Worcester",
+    "county_fips_all": "25027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

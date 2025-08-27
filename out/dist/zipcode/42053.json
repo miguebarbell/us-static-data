@@ -1,0 +1,20 @@
+{
+    "zip": 42053,
+    "lat": 37.1033,
+    "lng": -88.87606,
+    "city": "Kevil",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4882.0,
+    "density": 15.7,
+    "county_fips": 21007,
+    "county_name": "Ballard",
+    "county_weights": "{\"21007\": 50.84, \"21145\": 49.16}",
+    "county_names_all": "Ballard|McCracken",
+    "county_fips_all": "21007|21145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

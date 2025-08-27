@@ -1,0 +1,20 @@
+{
+    "zip": 38138,
+    "lat": 35.08477,
+    "lng": -89.7993,
+    "city": "Germantown",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25368.0,
+    "density": 826.0,
+    "county_fips": 47157,
+    "county_name": "Shelby",
+    "county_weights": "{\"47157\": 100}",
+    "county_names_all": "Shelby",
+    "county_fips_all": "47157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 54562,
+    "lat": 45.81081,
+    "lng": -89.0813,
+    "city": "Three Lakes",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1867.0,
+    "density": 5.0,
+    "county_fips": 55085,
+    "county_name": "Oneida",
+    "county_weights": "{\"55085\": 65.02, \"55041\": 34.98}",
+    "county_names_all": "Oneida|Forest",
+    "county_fips_all": "55085|55041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

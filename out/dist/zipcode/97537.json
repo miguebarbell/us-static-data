@@ -1,0 +1,20 @@
+{
+    "zip": 97537,
+    "lat": 42.55041,
+    "lng": -123.13357,
+    "city": "Rogue River",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6656.0,
+    "density": 20.7,
+    "county_fips": 41029,
+    "county_name": "Jackson",
+    "county_weights": "{\"41029\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "41029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 78613,
+    "lat": 30.50683,
+    "lng": -97.81939,
+    "city": "Cedar Park",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 89162.0,
+    "density": 1243.1,
+    "county_fips": 48491,
+    "county_name": "Williamson",
+    "county_weights": "{\"48491\": 88.67, \"48453\": 11.33}",
+    "county_names_all": "Williamson|Travis",
+    "county_fips_all": "48491|48453",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 24504,
+    "lat": 37.36673,
+    "lng": -79.04953,
+    "city": "Lynchburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9471.0,
+    "density": 97.5,
+    "county_fips": 51031,
+    "county_name": "Campbell",
+    "county_weights": "{\"51031\": 78.12, \"51680\": 12.6, \"51011\": 9.28}",
+    "county_names_all": "Campbell|Lynchburg|Appomattox",
+    "county_fips_all": "51031|51680|51011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

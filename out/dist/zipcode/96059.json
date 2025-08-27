@@ -1,0 +1,20 @@
+{
+    "zip": 96059,
+    "lat": 40.42947,
+    "lng": -121.83465,
+    "city": "Manton",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 731.0,
+    "density": 4.4,
+    "county_fips": 6103,
+    "county_name": "Tehama",
+    "county_weights": "{\"06103\": 51.8, \"06089\": 48.2}",
+    "county_names_all": "Tehama|Shasta",
+    "county_fips_all": "06103|06089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

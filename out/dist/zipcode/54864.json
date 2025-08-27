@@ -1,0 +1,20 @@
+{
+    "zip": 54864,
+    "lat": 46.60431,
+    "lng": -91.79443,
+    "city": "Poplar",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1534.0,
+    "density": 11.5,
+    "county_fips": 55031,
+    "county_name": "Douglas",
+    "county_weights": "{\"55031\": 100}",
+    "county_names_all": "Douglas",
+    "county_fips_all": "55031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

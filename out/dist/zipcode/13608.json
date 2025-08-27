@@ -1,0 +1,20 @@
+{
+    "zip": 13608,
+    "lat": 44.23879,
+    "lng": -75.62508,
+    "city": "Antwerp",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1845.0,
+    "density": 17.5,
+    "county_fips": 36045,
+    "county_name": "Jefferson",
+    "county_weights": "{\"36045\": 88.34, \"36089\": 11.66}",
+    "county_names_all": "Jefferson|St. Lawrence",
+    "county_fips_all": "36045|36089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

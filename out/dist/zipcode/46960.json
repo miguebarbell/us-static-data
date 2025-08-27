@@ -1,0 +1,20 @@
+{
+    "zip": 46960,
+    "lat": 41.15735,
+    "lng": -86.52397,
+    "city": "Monterey",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1123.0,
+    "density": 10.6,
+    "county_fips": 18131,
+    "county_name": "Pulaski",
+    "county_weights": "{\"18131\": 60.57, \"18149\": 35.9, \"18049\": 3.53}",
+    "county_names_all": "Pulaski|Starke|Fulton",
+    "county_fips_all": "18131|18149|18049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Winamac"
+}

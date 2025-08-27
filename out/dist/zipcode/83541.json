@@ -1,0 +1,20 @@
+{
+    "zip": 83541,
+    "lat": 46.49297,
+    "lng": -116.50156,
+    "city": "Lenore",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1059.0,
+    "density": 4.0,
+    "county_fips": 16069,
+    "county_name": "Nez Perce",
+    "county_weights": "{\"16069\": 74.73, \"16035\": 25.27}",
+    "county_names_all": "Nez Perce|Clearwater",
+    "county_fips_all": "16069|16035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

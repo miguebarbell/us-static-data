@@ -1,0 +1,20 @@
+{
+    "zip": 5840,
+    "lat": 44.61297,
+    "lng": -71.73129,
+    "city": "Granby",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28.0,
+    "density": 0.4,
+    "county_fips": 50009,
+    "county_name": "Essex",
+    "county_weights": "{\"50009\": 100}",
+    "county_names_all": "Essex",
+    "county_fips_all": "50009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 64476,
+    "lat": 40.45115,
+    "lng": -94.83034,
+    "city": "Pickering",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 268.0,
+    "density": 3.0,
+    "county_fips": 29147,
+    "county_name": "Nodaway",
+    "county_weights": "{\"29147\": 100}",
+    "county_names_all": "Nodaway",
+    "county_fips_all": "29147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

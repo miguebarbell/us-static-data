@@ -1,0 +1,20 @@
+{
+    "zip": 54667,
+    "lat": 43.66703,
+    "lng": -90.86166,
+    "city": "Westby",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5013.0,
+    "density": 21.7,
+    "county_fips": 55123,
+    "county_name": "Vernon",
+    "county_weights": "{\"55123\": 96.66, \"55063\": 3.34}",
+    "county_names_all": "Vernon|La Crosse",
+    "county_fips_all": "55123|55063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

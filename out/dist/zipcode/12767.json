@@ -1,0 +1,20 @@
+{
+    "zip": 12767,
+    "lat": 41.83504,
+    "lng": -75.00284,
+    "city": "Obernburg",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 180.0,
+    "density": 34.1,
+    "county_fips": 36105,
+    "county_name": "Sullivan",
+    "county_weights": "{\"36105\": 100}",
+    "county_names_all": "Sullivan",
+    "county_fips_all": "36105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

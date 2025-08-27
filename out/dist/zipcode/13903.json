@@ -1,0 +1,20 @@
+{
+    "zip": 13903,
+    "lat": 42.04749,
+    "lng": -75.89573,
+    "city": "Binghamton",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17528.0,
+    "density": 171.5,
+    "county_fips": 36007,
+    "county_name": "Broome",
+    "county_weights": "{\"36007\": 100}",
+    "county_names_all": "Broome",
+    "county_fips_all": "36007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 28393,
+    "lat": 34.98205,
+    "lng": -78.18895,
+    "city": "Turkey",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1918.0,
+    "density": 15.8,
+    "county_fips": 37163,
+    "county_name": "Sampson",
+    "county_weights": "{\"37163\": 99.36, \"37061\": 0.64}",
+    "county_names_all": "Sampson|Duplin",
+    "county_fips_all": "37163|37061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

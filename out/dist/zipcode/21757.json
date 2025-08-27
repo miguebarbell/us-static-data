@@ -1,0 +1,20 @@
+{
+    "zip": 21757,
+    "lat": 39.59902,
+    "lng": -77.25906,
+    "city": "Keymar",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2810.0,
+    "density": 30.8,
+    "county_fips": 24013,
+    "county_name": "Carroll",
+    "county_weights": "{\"24013\": 52.42, \"24021\": 47.58}",
+    "county_names_all": "Carroll|Frederick",
+    "county_fips_all": "24013|24021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

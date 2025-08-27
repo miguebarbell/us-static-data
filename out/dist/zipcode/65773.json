@@ -1,0 +1,20 @@
+{
+    "zip": 65773,
+    "lat": 36.75551,
+    "lng": -92.51332,
+    "city": "Wasola",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 257.0,
+    "density": 1.5,
+    "county_fips": 29153,
+    "county_name": "Ozark",
+    "county_weights": "{\"29153\": 100}",
+    "county_names_all": "Ozark",
+    "county_fips_all": "29153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

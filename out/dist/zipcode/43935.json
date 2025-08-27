@@ -1,0 +1,20 @@
+{
+    "zip": 43935,
+    "lat": 40.1247,
+    "lng": -80.75225,
+    "city": "Martins Ferry",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7918.0,
+    "density": 158.3,
+    "county_fips": 39013,
+    "county_name": "Belmont",
+    "county_weights": "{\"39013\": 100}",
+    "county_names_all": "Belmont",
+    "county_fips_all": "39013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

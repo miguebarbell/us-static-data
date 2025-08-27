@@ -1,0 +1,20 @@
+{
+    "zip": 87301,
+    "lat": 35.52153,
+    "lng": -108.76524,
+    "city": "Gallup",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21981.0,
+    "density": 215.0,
+    "county_fips": 35031,
+    "county_name": "McKinley",
+    "county_weights": "{\"35031\": 100}",
+    "county_names_all": "McKinley",
+    "county_fips_all": "35031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

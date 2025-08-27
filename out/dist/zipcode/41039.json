@@ -1,0 +1,20 @@
+{
+    "zip": 41039,
+    "lat": 38.41381,
+    "lng": -83.88074,
+    "city": "Ewing",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3122.0,
+    "density": 15.2,
+    "county_fips": 21069,
+    "county_name": "Fleming",
+    "county_weights": "{\"21069\": 84.67, \"21181\": 10.73, \"21161\": 2.43, \"21201\": 2.17}",
+    "county_names_all": "Fleming|Nicholas|Mason|Robertson",
+    "county_fips_all": "21069|21181|21161|21201",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

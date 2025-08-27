@@ -1,0 +1,20 @@
+{
+    "zip": 42027,
+    "lat": 36.91585,
+    "lng": -88.63018,
+    "city": "Boaz",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1979.0,
+    "density": 16.6,
+    "county_fips": 21083,
+    "county_name": "Graves",
+    "county_weights": "{\"21083\": 85.7, \"21145\": 14.3}",
+    "county_names_all": "Graves|McCracken",
+    "county_fips_all": "21083|21145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

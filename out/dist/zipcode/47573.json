@@ -1,0 +1,20 @@
+{
+    "zip": 47573,
+    "lat": 38.74418,
+    "lng": -87.322,
+    "city": "Ragsdale",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18.0,
+    "density": 210.3,
+    "county_fips": 18083,
+    "county_name": "Knox",
+    "county_weights": "{\"18083\": 100}",
+    "county_names_all": "Knox",
+    "county_fips_all": "18083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Vincennes"
+}

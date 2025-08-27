@@ -1,0 +1,20 @@
+{
+    "zip": 3832,
+    "lat": 43.90249,
+    "lng": -71.04859,
+    "city": "Eaton Center",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 423.0,
+    "density": 6.7,
+    "county_fips": 33003,
+    "county_name": "Carroll",
+    "county_weights": "{\"33003\": 100}",
+    "county_names_all": "Carroll",
+    "county_fips_all": "33003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

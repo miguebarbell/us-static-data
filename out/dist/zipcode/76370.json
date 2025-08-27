@@ -1,0 +1,20 @@
+{
+    "zip": 76370,
+    "lat": 33.45624,
+    "lng": -98.89407,
+    "city": "Megargel",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 464.0,
+    "density": 4.4,
+    "county_fips": 48009,
+    "county_name": "Archer",
+    "county_weights": "{\"48009\": 100}",
+    "county_names_all": "Archer",
+    "county_fips_all": "48009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

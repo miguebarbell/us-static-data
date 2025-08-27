@@ -1,0 +1,20 @@
+{
+    "zip": 33621,
+    "lat": 27.8436,
+    "lng": -82.50089,
+    "city": "Tampa",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2308.0,
+    "density": 107.4,
+    "county_fips": 12057,
+    "county_name": "Hillsborough",
+    "county_weights": "{\"12057\": 100}",
+    "county_names_all": "Hillsborough",
+    "county_fips_all": "12057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

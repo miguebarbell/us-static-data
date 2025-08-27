@@ -1,0 +1,20 @@
+{
+    "zip": 56232,
+    "lat": 44.92836,
+    "lng": -96.03968,
+    "city": "Dawson",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2365.0,
+    "density": 6.4,
+    "county_fips": 27073,
+    "county_name": "Lac qui Parle",
+    "county_weights": "{\"27073\": 100}",
+    "county_names_all": "Lac qui Parle",
+    "county_fips_all": "27073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

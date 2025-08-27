@@ -1,0 +1,20 @@
+{
+    "zip": 28127,
+    "lat": 35.44978,
+    "lng": -80.16552,
+    "city": "New London",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7684.0,
+    "density": 39.8,
+    "county_fips": 37167,
+    "county_name": "Stanly",
+    "county_weights": "{\"37167\": 60.29, \"37123\": 33.76, \"37057\": 4.99, \"37159\": 0.95}",
+    "county_names_all": "Stanly|Montgomery|Davidson|Rowan",
+    "county_fips_all": "37167|37123|37057|37159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

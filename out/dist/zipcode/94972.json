@@ -1,0 +1,20 @@
+{
+    "zip": 94972,
+    "lat": 38.33665,
+    "lng": -122.93934,
+    "city": "Valley Ford",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 153.0,
+    "density": 13.0,
+    "county_fips": 6097,
+    "county_name": "Sonoma",
+    "county_weights": "{\"06097\": 100}",
+    "county_names_all": "Sonoma",
+    "county_fips_all": "06097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

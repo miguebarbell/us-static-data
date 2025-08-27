@@ -1,0 +1,20 @@
+{
+    "zip": 13325,
+    "lat": 43.58398,
+    "lng": -75.54091,
+    "city": "Constableville",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 882.0,
+    "density": 3.3,
+    "county_fips": 36049,
+    "county_name": "Lewis",
+    "county_weights": "{\"36049\": 100}",
+    "county_names_all": "Lewis",
+    "county_fips_all": "36049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

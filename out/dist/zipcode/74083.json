@@ -1,0 +1,20 @@
+{
+    "zip": 74083,
+    "lat": 36.91504,
+    "lng": -95.77093,
+    "city": "Wann",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 773.0,
+    "density": 2.8,
+    "county_fips": 40105,
+    "county_name": "Nowata",
+    "county_weights": "{\"40105\": 69.73, \"40147\": 30.27}",
+    "county_names_all": "Nowata|Washington",
+    "county_fips_all": "40105|40147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

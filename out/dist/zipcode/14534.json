@@ -1,0 +1,20 @@
+{
+    "zip": 14534,
+    "lat": 43.0564,
+    "lng": -77.52083,
+    "city": "Pittsford",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33361.0,
+    "density": 398.2,
+    "county_fips": 36055,
+    "county_name": "Monroe",
+    "county_weights": "{\"36055\": 96.35, \"36069\": 3.65}",
+    "county_names_all": "Monroe|Ontario",
+    "county_fips_all": "36055|36069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

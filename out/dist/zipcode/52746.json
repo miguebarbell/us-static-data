@@ -1,0 +1,20 @@
+{
+    "zip": 52746,
+    "lat": 41.71945,
+    "lng": -90.67172,
+    "city": "Donahue",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1198.0,
+    "density": 17.5,
+    "county_fips": 19163,
+    "county_name": "Scott",
+    "county_weights": "{\"19163\": 100}",
+    "county_names_all": "Scott",
+    "county_fips_all": "19163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 99336,
+    "lat": 46.21302,
+    "lng": -119.17954,
+    "city": "Kennewick",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 51180.0,
+    "density": 1475.2,
+    "county_fips": 53005,
+    "county_name": "Benton",
+    "county_weights": "{\"53005\": 100}",
+    "county_names_all": "Benton",
+    "county_fips_all": "53005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

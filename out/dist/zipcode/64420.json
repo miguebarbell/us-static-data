@@ -1,0 +1,20 @@
+{
+    "zip": 64420,
+    "lat": 40.48645,
+    "lng": -94.2892,
+    "city": "Allendale",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37.0,
+    "density": 32.5,
+    "county_fips": 29227,
+    "county_name": "Worth",
+    "county_weights": "{\"29227\": 100}",
+    "county_names_all": "Worth",
+    "county_fips_all": "29227",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

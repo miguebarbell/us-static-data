@@ -1,0 +1,20 @@
+{
+    "zip": 68878,
+    "lat": 40.98623,
+    "lng": -99.50567,
+    "city": "Sumner",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 542.0,
+    "density": 1.7,
+    "county_fips": 31047,
+    "county_name": "Dawson",
+    "county_weights": "{\"31047\": 78.36, \"31041\": 21.64}",
+    "county_names_all": "Dawson|Custer",
+    "county_fips_all": "31047|31041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

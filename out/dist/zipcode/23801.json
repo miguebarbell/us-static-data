@@ -1,0 +1,20 @@
+{
+    "zip": 23801,
+    "lat": 37.23618,
+    "lng": -77.33582,
+    "city": "Fort Gregg Adams",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8318.0,
+    "density": 484.2,
+    "county_fips": 51149,
+    "county_name": "Prince George",
+    "county_weights": "{\"51149\": 100}",
+    "county_names_all": "Prince George",
+    "county_fips_all": "51149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 45302,
+    "lat": 40.40068,
+    "lng": -84.20756,
+    "city": "Anna",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4369.0,
+    "density": 32.3,
+    "county_fips": 39149,
+    "county_name": "Shelby",
+    "county_weights": "{\"39149\": 100}",
+    "county_names_all": "Shelby",
+    "county_fips_all": "39149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

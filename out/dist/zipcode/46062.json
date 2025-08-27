@@ -1,0 +1,20 @@
+{
+    "zip": 46062,
+    "lat": 40.06146,
+    "lng": -86.05523,
+    "city": "Noblesville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39348.0,
+    "density": 453.4,
+    "county_fips": 18057,
+    "county_name": "Hamilton",
+    "county_weights": "{\"18057\": 100}",
+    "county_names_all": "Hamilton",
+    "county_fips_all": "18057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 97750,
+    "lat": 44.67037,
+    "lng": -120.12704,
+    "city": "Mitchell",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 458.0,
+    "density": 0.3,
+    "county_fips": 41069,
+    "county_name": "Wheeler",
+    "county_weights": "{\"41069\": 100}",
+    "county_names_all": "Wheeler",
+    "county_fips_all": "41069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

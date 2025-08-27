@@ -1,0 +1,20 @@
+{
+    "zip": 77990,
+    "lat": 28.48098,
+    "lng": -96.93438,
+    "city": "Tivoli",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 783.0,
+    "density": 2.3,
+    "county_fips": 48391,
+    "county_name": "Refugio",
+    "county_weights": "{\"48391\": 72.18, \"48057\": 27.82}",
+    "county_names_all": "Refugio|Calhoun",
+    "county_fips_all": "48391|48057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

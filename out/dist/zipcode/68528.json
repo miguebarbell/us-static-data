@@ -1,0 +1,20 @@
+{
+    "zip": 68528,
+    "lat": 40.82244,
+    "lng": -96.81762,
+    "city": "Lincoln",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6955.0,
+    "density": 163.2,
+    "county_fips": 31109,
+    "county_name": "Lancaster",
+    "county_weights": "{\"31109\": 99.06, \"31159\": 0.94}",
+    "county_names_all": "Lancaster|Seward",
+    "county_fips_all": "31109|31159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

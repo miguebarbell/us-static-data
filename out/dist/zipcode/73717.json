@@ -1,0 +1,20 @@
+{
+    "zip": 73717,
+    "lat": 36.84161,
+    "lng": -98.77807,
+    "city": "Alva",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6800.0,
+    "density": 3.9,
+    "county_fips": 40151,
+    "county_name": "Woods",
+    "county_weights": "{\"40151\": 94.51, \"40003\": 5.49}",
+    "county_names_all": "Woods|Alfalfa",
+    "county_fips_all": "40151|40003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

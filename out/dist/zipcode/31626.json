@@ -1,0 +1,20 @@
+{
+    "zip": 31626,
+    "lat": 30.77609,
+    "lng": -83.80208,
+    "city": "Boston",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3085.0,
+    "density": 8.4,
+    "county_fips": 13275,
+    "county_name": "Thomas",
+    "county_weights": "{\"13275\": 92.11, \"13027\": 7.89}",
+    "county_names_all": "Thomas|Brooks",
+    "county_fips_all": "13275|13027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

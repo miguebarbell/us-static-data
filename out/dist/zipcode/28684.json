@@ -1,0 +1,20 @@
+{
+    "zip": 28684,
+    "lat": 36.33541,
+    "lng": -81.6163,
+    "city": "Todd",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1835.0,
+    "density": 14.1,
+    "county_fips": 37009,
+    "county_name": "Ashe",
+    "county_weights": "{\"37009\": 55.96, \"37189\": 44.04}",
+    "county_names_all": "Ashe|Watauga",
+    "county_fips_all": "37009|37189",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

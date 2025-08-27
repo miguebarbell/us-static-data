@@ -1,0 +1,20 @@
+{
+    "zip": 58274,
+    "lat": 47.49158,
+    "lng": -97.48989,
+    "city": "Portland",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 895.0,
+    "density": 2.6,
+    "county_fips": 38091,
+    "county_name": "Steele",
+    "county_weights": "{\"38091\": 54.45, \"38097\": 45.55}",
+    "county_names_all": "Steele|Traill",
+    "county_fips_all": "38091|38097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

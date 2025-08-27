@@ -1,0 +1,20 @@
+{
+    "zip": 16416,
+    "lat": 41.82606,
+    "lng": -79.47311,
+    "city": "Garland",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 142.0,
+    "density": 14.3,
+    "county_fips": 42123,
+    "county_name": "Warren",
+    "county_weights": "{\"42123\": 100}",
+    "county_names_all": "Warren",
+    "county_fips_all": "42123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

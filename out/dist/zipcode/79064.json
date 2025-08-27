@@ -1,0 +1,20 @@
+{
+    "zip": 79064,
+    "lat": 34.17738,
+    "lng": -102.12699,
+    "city": "Olton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2191.0,
+    "density": 5.8,
+    "county_fips": 48279,
+    "county_name": "Lamb",
+    "county_weights": "{\"48279\": 73.57, \"48189\": 26.43}",
+    "county_names_all": "Lamb|Hale",
+    "county_fips_all": "48279|48189",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

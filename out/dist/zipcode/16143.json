@@ -1,0 +1,20 @@
+{
+    "zip": 16143,
+    "lat": 41.10528,
+    "lng": -80.45434,
+    "city": "Pulaski",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1995.0,
+    "density": 31.4,
+    "county_fips": 42073,
+    "county_name": "Lawrence",
+    "county_weights": "{\"42073\": 70.7, \"42085\": 29.3}",
+    "county_names_all": "Lawrence|Mercer",
+    "county_fips_all": "42073|42085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 23083,
+    "lat": 37.31899,
+    "lng": -78.11111,
+    "city": "Jetersville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2384.0,
+    "density": 14.8,
+    "county_fips": 51007,
+    "county_name": "Amelia",
+    "county_weights": "{\"51007\": 98.34, \"51135\": 1.66}",
+    "county_names_all": "Amelia|Nottoway",
+    "county_fips_all": "51007|51135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

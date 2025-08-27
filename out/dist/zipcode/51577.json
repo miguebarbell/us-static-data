@@ -1,0 +1,20 @@
+{
+    "zip": 51577,
+    "lat": 41.4644,
+    "lng": -95.20296,
+    "city": "Walnut",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1637.0,
+    "density": 7.6,
+    "county_fips": 19155,
+    "county_name": "Pottawattamie",
+    "county_weights": "{\"19155\": 66.46, \"19165\": 31.23, \"19029\": 2.31}",
+    "county_names_all": "Pottawattamie|Shelby|Cass",
+    "county_fips_all": "19155|19165|19029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 79508,
+    "lat": 32.26999,
+    "lng": -99.83032,
+    "city": "Buffalo Gap",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 982.0,
+    "density": 39.4,
+    "county_fips": 48441,
+    "county_name": "Taylor",
+    "county_weights": "{\"48441\": 100}",
+    "county_names_all": "Taylor",
+    "county_fips_all": "48441",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

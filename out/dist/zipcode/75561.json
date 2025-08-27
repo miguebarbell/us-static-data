@@ -1,0 +1,20 @@
+{
+    "zip": 75561,
+    "lat": 33.517,
+    "lng": -94.27855,
+    "city": "Hooks",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4954.0,
+    "density": 41.2,
+    "county_fips": 48037,
+    "county_name": "Bowie",
+    "county_weights": "{\"48037\": 100}",
+    "county_names_all": "Bowie",
+    "county_fips_all": "48037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

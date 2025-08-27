@@ -1,0 +1,20 @@
+{
+    "zip": 83839,
+    "lat": 47.61647,
+    "lng": -116.17949,
+    "city": "Kingston",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1248.0,
+    "density": 5.1,
+    "county_fips": 16079,
+    "county_name": "Shoshone",
+    "county_weights": "{\"16079\": 100}",
+    "county_names_all": "Shoshone",
+    "county_fips_all": "16079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

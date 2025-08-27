@@ -1,0 +1,20 @@
+{
+    "zip": 16650,
+    "lat": 40.11592,
+    "lng": -78.29237,
+    "city": "Hopewell",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1797.0,
+    "density": 14.9,
+    "county_fips": 42009,
+    "county_name": "Bedford",
+    "county_weights": "{\"42009\": 100}",
+    "county_names_all": "Bedford",
+    "county_fips_all": "42009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

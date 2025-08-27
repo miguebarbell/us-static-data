@@ -1,0 +1,20 @@
+{
+    "zip": 75478,
+    "lat": 33.17276,
+    "lng": -95.35226,
+    "city": "Saltillo",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 855.0,
+    "density": 5.8,
+    "county_fips": 48223,
+    "county_name": "Hopkins",
+    "county_weights": "{\"48223\": 91.57, \"48159\": 8.43}",
+    "county_names_all": "Hopkins|Franklin",
+    "county_fips_all": "48223|48159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

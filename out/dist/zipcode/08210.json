@@ -1,0 +1,20 @@
+{
+    "zip": 8210,
+    "lat": 39.11974,
+    "lng": -74.82248,
+    "city": "Cape May Court House",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17278.0,
+    "density": 97.3,
+    "county_fips": 34009,
+    "county_name": "Cape May",
+    "county_weights": "{\"34009\": 100}",
+    "county_names_all": "Cape May",
+    "county_fips_all": "34009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

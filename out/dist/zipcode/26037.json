@@ -1,0 +1,20 @@
+{
+    "zip": 26037,
+    "lat": 40.3344,
+    "lng": -80.58494,
+    "city": "Follansbee",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5727.0,
+    "density": 324.8,
+    "county_fips": 54009,
+    "county_name": "Brooke",
+    "county_weights": "{\"54009\": 100}",
+    "county_names_all": "Brooke",
+    "county_fips_all": "54009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43443,
+    "lat": 41.46099,
+    "lng": -83.46906,
+    "city": "Luckey",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1538.0,
+    "density": 48.0,
+    "county_fips": 39173,
+    "county_name": "Wood",
+    "county_weights": "{\"39173\": 100}",
+    "county_names_all": "Wood",
+    "county_fips_all": "39173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

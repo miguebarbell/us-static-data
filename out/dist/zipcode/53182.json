@@ -1,0 +1,20 @@
+{
+    "zip": 53182,
+    "lat": 42.69815,
+    "lng": -88.04096,
+    "city": "Union Grove",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9592.0,
+    "density": 67.0,
+    "county_fips": 55101,
+    "county_name": "Racine",
+    "county_weights": "{\"55101\": 67.35, \"55059\": 32.65}",
+    "county_names_all": "Racine|Kenosha",
+    "county_fips_all": "55101|55059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

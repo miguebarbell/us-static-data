@@ -1,0 +1,20 @@
+{
+    "zip": 53090,
+    "lat": 43.45685,
+    "lng": -88.17985,
+    "city": "West Bend",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21889.0,
+    "density": 146.1,
+    "county_fips": 55131,
+    "county_name": "Washington",
+    "county_weights": "{\"55131\": 96.9, \"55089\": 3.1}",
+    "county_names_all": "Washington|Ozaukee",
+    "county_fips_all": "55131|55089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

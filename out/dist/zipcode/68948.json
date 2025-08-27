@@ -1,0 +1,20 @@
+{
+    "zip": 68948,
+    "lat": 40.34151,
+    "lng": -100.02639,
+    "city": "Holbrook",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 353.0,
+    "density": 1.2,
+    "county_fips": 31065,
+    "county_name": "Furnas",
+    "county_weights": "{\"31065\": 48.64, \"31073\": 30.84, \"31063\": 20.52}",
+    "county_names_all": "Furnas|Gosper|Frontier",
+    "county_fips_all": "31065|31073|31063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 67625,
+    "lat": 39.39145,
+    "lng": -99.68293,
+    "city": "Bogue",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 162.0,
+    "density": 0.6,
+    "county_fips": 20065,
+    "county_name": "Graham",
+    "county_weights": "{\"20065\": 100}",
+    "county_names_all": "Graham",
+    "county_fips_all": "20065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

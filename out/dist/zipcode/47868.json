@@ -1,0 +1,20 @@
+{
+    "zip": 47868,
+    "lat": 39.40892,
+    "lng": -86.89822,
+    "city": "Poland",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2870.0,
+    "density": 19.1,
+    "county_fips": 18119,
+    "county_name": "Owen",
+    "county_weights": "{\"18119\": 81.25, \"18021\": 13.9, \"18133\": 4.85}",
+    "county_names_all": "Owen|Clay|Putnam",
+    "county_fips_all": "18119|18021|18133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 66540,
+    "lat": 39.48484,
+    "lng": -95.97332,
+    "city": "Soldier",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 668.0,
+    "density": 2.9,
+    "county_fips": 20085,
+    "county_name": "Jackson",
+    "county_weights": "{\"20085\": 86.8, \"20131\": 12.64, \"20149\": 0.56}",
+    "county_names_all": "Jackson|Nemaha|Pottawatomie",
+    "county_fips_all": "20085|20131|20149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

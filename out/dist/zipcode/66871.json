@@ -1,0 +1,20 @@
+{
+    "zip": 66871,
+    "lat": 38.35941,
+    "lng": -95.61815,
+    "city": "Waverly",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1257.0,
+    "density": 3.6,
+    "county_fips": 20031,
+    "county_name": "Coffey",
+    "county_weights": "{\"20031\": 94.84, \"20139\": 5.16}",
+    "county_names_all": "Coffey|Osage",
+    "county_fips_all": "20031|20139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

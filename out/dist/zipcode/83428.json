@@ -1,0 +1,20 @@
+{
+    "zip": 83428,
+    "lat": 43.3833,
+    "lng": -111.16093,
+    "city": "Irwin",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 589.0,
+    "density": 0.9,
+    "county_fips": 16019,
+    "county_name": "Bonneville",
+    "county_weights": "{\"16019\": 100}",
+    "county_names_all": "Bonneville",
+    "county_fips_all": "16019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 75007,
+    "lat": 33.00498,
+    "lng": -96.8959,
+    "city": "Carrollton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 55050.0,
+    "density": 1785.2,
+    "county_fips": 48121,
+    "county_name": "Denton",
+    "county_weights": "{\"48121\": 90.42, \"48113\": 8.52, \"48085\": 1.06}",
+    "county_names_all": "Denton|Dallas|Collin",
+    "county_fips_all": "48121|48113|48085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

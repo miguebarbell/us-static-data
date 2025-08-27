@@ -1,0 +1,20 @@
+{
+    "zip": 64077,
+    "lat": 39.2224,
+    "lng": -94.13887,
+    "city": "Orrick",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1643.0,
+    "density": 9.3,
+    "county_fips": 29177,
+    "county_name": "Ray",
+    "county_weights": "{\"29177\": 89.64, \"29047\": 10.36}",
+    "county_names_all": "Ray|Clay",
+    "county_fips_all": "29177|29047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

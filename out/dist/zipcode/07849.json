@@ -1,0 +1,20 @@
+{
+    "zip": 7849,
+    "lat": 40.96861,
+    "lng": -74.61066,
+    "city": "Lake Hopatcong",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8475.0,
+    "density": 488.7,
+    "county_fips": 34027,
+    "county_name": "Morris",
+    "county_weights": "{\"34027\": 99.16, \"34037\": 0.84}",
+    "county_names_all": "Morris|Sussex",
+    "county_fips_all": "34027|34037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

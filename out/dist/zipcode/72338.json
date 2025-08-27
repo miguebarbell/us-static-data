@@ -1,0 +1,20 @@
+{
+    "zip": 72338,
+    "lat": 35.43657,
+    "lng": -90.13863,
+    "city": "Frenchmans Bayou",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8.0,
+    "density": 0.1,
+    "county_fips": 47167,
+    "county_name": "Tipton",
+    "county_weights": "{\"47167\": 66.75, \"05093\": 33.25}",
+    "county_names_all": "Tipton|Mississippi",
+    "county_fips_all": "47167|05093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

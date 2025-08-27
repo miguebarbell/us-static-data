@@ -1,0 +1,20 @@
+{
+    "zip": 53525,
+    "lat": 42.54579,
+    "lng": -88.84907,
+    "city": "Clinton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4083.0,
+    "density": 27.7,
+    "county_fips": 55105,
+    "county_name": "Rock",
+    "county_weights": "{\"55105\": 94.6, \"55127\": 5.4}",
+    "county_names_all": "Rock|Walworth",
+    "county_fips_all": "55105|55127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

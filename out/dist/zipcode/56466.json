@@ -1,0 +1,20 @@
+{
+    "zip": 56466,
+    "lat": 46.41522,
+    "lng": -94.63137,
+    "city": "Motley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3126.0,
+    "density": 6.2,
+    "county_fips": 27021,
+    "county_name": "Cass",
+    "county_weights": "{\"27021\": 69.91, \"27097\": 19.43, \"27153\": 10.66}",
+    "county_names_all": "Cass|Morrison|Todd",
+    "county_fips_all": "27021|27097|27153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

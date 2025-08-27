@@ -1,0 +1,20 @@
+{
+    "zip": 76689,
+    "lat": 31.66624,
+    "lng": -97.50471,
+    "city": "Valley Mills",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4421.0,
+    "density": 7.6,
+    "county_fips": 48035,
+    "county_name": "Bosque",
+    "county_weights": "{\"48035\": 58.75, \"48309\": 27.89, \"48099\": 13.36}",
+    "county_names_all": "Bosque|McLennan|Coryell",
+    "county_fips_all": "48035|48309|48099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

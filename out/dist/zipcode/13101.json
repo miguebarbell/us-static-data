@@ -1,0 +1,20 @@
+{
+    "zip": 13101,
+    "lat": 42.60211,
+    "lng": -76.06665,
+    "city": "McGraw",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2221.0,
+    "density": 22.3,
+    "county_fips": 36023,
+    "county_name": "Cortland",
+    "county_weights": "{\"36023\": 100}",
+    "county_names_all": "Cortland",
+    "county_fips_all": "36023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

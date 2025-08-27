@@ -1,0 +1,20 @@
+{
+    "zip": 17262,
+    "lat": 40.14489,
+    "lng": -77.74174,
+    "city": "Spring Run",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 921.0,
+    "density": 18.7,
+    "county_fips": 42055,
+    "county_name": "Franklin",
+    "county_weights": "{\"42055\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "42055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 63629,
+    "lat": 37.39847,
+    "lng": -91.23861,
+    "city": "Bunker",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 976.0,
+    "density": 1.3,
+    "county_fips": 29203,
+    "county_name": "Shannon",
+    "county_weights": "{\"29203\": 47.8, \"29179\": 32.9, \"29065\": 19.3}",
+    "county_names_all": "Shannon|Reynolds|Dent",
+    "county_fips_all": "29203|29179|29065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

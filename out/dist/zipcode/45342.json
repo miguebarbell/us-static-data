@@ -1,0 +1,20 @@
+{
+    "zip": 45342,
+    "lat": 39.62943,
+    "lng": -84.27545,
+    "city": "Miamisburg",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36675.0,
+    "density": 412.7,
+    "county_fips": 39113,
+    "county_name": "Montgomery",
+    "county_weights": "{\"39113\": 98.45, \"39165\": 1.55}",
+    "county_names_all": "Montgomery|Warren",
+    "county_fips_all": "39113|39165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

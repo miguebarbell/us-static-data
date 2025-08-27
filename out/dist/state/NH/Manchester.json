@@ -1,0 +1,15 @@
+{
+    "zip": [
+        "03101",
+        "03102",
+        "03103",
+        "03104",
+        "03109"
+    ],
+    "city": "Manchester",
+    "state": "NH",
+    "lat": 42.87056,
+    "lng": -71.60683,
+    "state_name": "New Hampshire",
+    "timezone": "America/New_York"
+}

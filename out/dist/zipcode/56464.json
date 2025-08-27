@@ -1,0 +1,20 @@
+{
+    "zip": 56464,
+    "lat": 46.76538,
+    "lng": -95.10382,
+    "city": "Menahga",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5091.0,
+    "density": 7.7,
+    "county_fips": 27159,
+    "county_name": "Wadena",
+    "county_weights": "{\"27159\": 46.93, \"27005\": 33.56, \"27057\": 14.42, \"27111\": 4.23, \"27021\": 0.86}",
+    "county_names_all": "Wadena|Becker|Hubbard|Otter Tail|Cass",
+    "county_fips_all": "27159|27005|27057|27111|27021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

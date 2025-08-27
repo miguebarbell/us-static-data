@@ -1,0 +1,20 @@
+{
+    "zip": 98644,
+    "lat": 46.32861,
+    "lng": -124.04009,
+    "city": "Seaview",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 686.0,
+    "density": 84.7,
+    "county_fips": 53049,
+    "county_name": "Pacific",
+    "county_weights": "{\"53049\": 100}",
+    "county_names_all": "Pacific",
+    "county_fips_all": "53049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 31783,
+    "lat": 31.76416,
+    "lng": -83.4738,
+    "city": "Rebecca",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1547.0,
+    "density": 6.1,
+    "county_fips": 13287,
+    "county_name": "Turner",
+    "county_weights": "{\"13287\": 52.33, \"13155\": 28.25, \"13017\": 19.42}",
+    "county_names_all": "Turner|Irwin|Ben Hill",
+    "county_fips_all": "13287|13155|13017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

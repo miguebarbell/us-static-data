@@ -1,0 +1,20 @@
+{
+    "zip": 28109,
+    "lat": 35.48609,
+    "lng": -80.28628,
+    "city": "Misenheimer",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 620.0,
+    "density": 415.5,
+    "county_fips": 37167,
+    "county_name": "Stanly",
+    "county_weights": "{\"37167\": 100}",
+    "county_names_all": "Stanly",
+    "county_fips_all": "37167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

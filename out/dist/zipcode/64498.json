@@ -1,0 +1,20 @@
+{
+    "zip": 64498,
+    "lat": 40.54023,
+    "lng": -95.31255,
+    "city": "Westboro",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 267.0,
+    "density": 1.5,
+    "county_fips": 29005,
+    "county_name": "Atchison",
+    "county_weights": "{\"29005\": 100}",
+    "county_names_all": "Atchison",
+    "county_fips_all": "29005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

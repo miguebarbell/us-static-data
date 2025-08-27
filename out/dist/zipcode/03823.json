@@ -1,0 +1,20 @@
+{
+    "zip": 3823,
+    "lat": 43.17488,
+    "lng": -70.94089,
+    "city": "Madbury",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2121.0,
+    "density": 70.3,
+    "county_fips": 33017,
+    "county_name": "Strafford",
+    "county_weights": "{\"33017\": 100}",
+    "county_names_all": "Strafford",
+    "county_fips_all": "33017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

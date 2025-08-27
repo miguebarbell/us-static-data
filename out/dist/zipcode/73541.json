@@ -1,0 +1,20 @@
+{
+    "zip": 73541,
+    "lat": 34.78716,
+    "lng": -98.1788,
+    "city": "Fletcher",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3624.0,
+    "density": 16.3,
+    "county_fips": 40031,
+    "county_name": "Comanche",
+    "county_weights": "{\"40031\": 100}",
+    "county_names_all": "Comanche",
+    "county_fips_all": "40031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

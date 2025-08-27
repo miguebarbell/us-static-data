@@ -1,0 +1,20 @@
+{
+    "zip": 61748,
+    "lat": 40.61483,
+    "lng": -88.98898,
+    "city": "Hudson",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2612.0,
+    "density": 23.2,
+    "county_fips": 17113,
+    "county_name": "McLean",
+    "county_weights": "{\"17113\": 96.08, \"17203\": 3.92}",
+    "county_names_all": "McLean|Woodford",
+    "county_fips_all": "17113|17203",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

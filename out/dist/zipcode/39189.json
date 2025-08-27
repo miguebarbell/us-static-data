@@ -1,0 +1,20 @@
+{
+    "zip": 39189,
+    "lat": 32.60412,
+    "lng": -89.4003,
+    "city": "Walnut Grove",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3696.0,
+    "density": 18.6,
+    "county_fips": 28079,
+    "county_name": "Leake",
+    "county_weights": "{\"28079\": 74.36, \"28123\": 25.64}",
+    "county_names_all": "Leake|Scott",
+    "county_fips_all": "28079|28123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

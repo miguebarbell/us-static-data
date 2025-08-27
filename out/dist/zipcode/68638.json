@@ -1,0 +1,20 @@
+{
+    "zip": 68638,
+    "lat": 41.36848,
+    "lng": -97.98977,
+    "city": "Fullerton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1810.0,
+    "density": 4.6,
+    "county_fips": 31125,
+    "county_name": "Nance",
+    "county_weights": "{\"31125\": 97.93, \"31121\": 2.07}",
+    "county_names_all": "Nance|Merrick",
+    "county_fips_all": "31125|31121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

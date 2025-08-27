@@ -1,0 +1,20 @@
+{
+    "zip": 17529,
+    "lat": 40.04036,
+    "lng": -76.10008,
+    "city": "Gordonville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4924.0,
+    "density": 129.6,
+    "county_fips": 42071,
+    "county_name": "Lancaster",
+    "county_weights": "{\"42071\": 100}",
+    "county_names_all": "Lancaster",
+    "county_fips_all": "42071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

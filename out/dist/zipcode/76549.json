@@ -1,0 +1,20 @@
+{
+    "zip": 76549,
+    "lat": 31.01583,
+    "lng": -97.82546,
+    "city": "Killeen",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 56083.0,
+    "density": 230.1,
+    "county_fips": 48027,
+    "county_name": "Bell",
+    "county_weights": "{\"48027\": 88.61, \"48053\": 11.39}",
+    "county_names_all": "Bell|Burnet",
+    "county_fips_all": "48027|48053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 87023,
+    "lat": 34.59583,
+    "lng": -106.7633,
+    "city": "Jarales",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 222.0,
+    "density": 33.0,
+    "county_fips": 35061,
+    "county_name": "Valencia",
+    "county_weights": "{\"35061\": 100}",
+    "county_names_all": "Valencia",
+    "county_fips_all": "35061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

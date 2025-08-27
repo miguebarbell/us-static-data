@@ -1,0 +1,20 @@
+{
+    "zip": 80860,
+    "lat": 38.69307,
+    "lng": -105.09876,
+    "city": "Victor",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 589.0,
+    "density": 3.3,
+    "county_fips": 8119,
+    "county_name": "Teller",
+    "county_weights": "{\"08119\": 100}",
+    "county_names_all": "Teller",
+    "county_fips_all": "08119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

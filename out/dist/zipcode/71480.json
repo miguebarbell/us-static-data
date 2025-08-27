@@ -1,0 +1,20 @@
+{
+    "zip": 71480,
+    "lat": 31.86661,
+    "lng": -92.28415,
+    "city": "Urania",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1186.0,
+    "density": 116.4,
+    "county_fips": 22059,
+    "county_name": "LaSalle",
+    "county_weights": "{\"22059\": 100}",
+    "county_names_all": "LaSalle",
+    "county_fips_all": "22059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

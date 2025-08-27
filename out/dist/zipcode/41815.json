@@ -1,0 +1,20 @@
+{
+    "zip": 41815,
+    "lat": 37.15821,
+    "lng": -82.79799,
+    "city": "Ermine",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 722.0,
+    "density": 38.8,
+    "county_fips": 21133,
+    "county_name": "Letcher",
+    "county_weights": "{\"21133\": 100}",
+    "county_names_all": "Letcher",
+    "county_fips_all": "21133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

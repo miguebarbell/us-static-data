@@ -1,0 +1,20 @@
+{
+    "zip": 40118,
+    "lat": 38.09805,
+    "lng": -85.75572,
+    "city": "Fairdale",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9903.0,
+    "density": 254.5,
+    "county_fips": 21111,
+    "county_name": "Jefferson",
+    "county_weights": "{\"21111\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "21111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

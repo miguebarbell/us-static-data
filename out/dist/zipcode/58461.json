@@ -1,0 +1,20 @@
+{
+    "zip": 58461,
+    "lat": 46.64958,
+    "lng": -98.19248,
+    "city": "Litchville",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 458.0,
+    "density": 0.9,
+    "county_fips": 38003,
+    "county_name": "Barnes",
+    "county_weights": "{\"38003\": 55.75, \"38045\": 44.25}",
+    "county_names_all": "Barnes|LaMoure",
+    "county_fips_all": "38003|38045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

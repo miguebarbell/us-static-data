@@ -1,0 +1,20 @@
+{
+    "zip": 5050,
+    "lat": 44.26442,
+    "lng": -72.06414,
+    "city": "McIndoe Falls",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 159.0,
+    "density": 184.7,
+    "county_fips": 50005,
+    "county_name": "Caledonia",
+    "county_weights": "{\"50005\": 100}",
+    "county_names_all": "Caledonia",
+    "county_fips_all": "50005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

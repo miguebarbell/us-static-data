@@ -1,0 +1,20 @@
+{
+    "zip": 50660,
+    "lat": 42.58099,
+    "lng": -92.63752,
+    "city": "New Hartford",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1092.0,
+    "density": 12.1,
+    "county_fips": 19023,
+    "county_name": "Butler",
+    "county_weights": "{\"19023\": 78.92, \"19075\": 21.08}",
+    "county_names_all": "Butler|Grundy",
+    "county_fips_all": "19023|19075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

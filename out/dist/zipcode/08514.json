@@ -1,0 +1,20 @@
+{
+    "zip": 8514,
+    "lat": 40.13269,
+    "lng": -74.49811,
+    "city": "Cream Ridge",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5270.0,
+    "density": 74.4,
+    "county_fips": 34025,
+    "county_name": "Monmouth",
+    "county_weights": "{\"34025\": 75.37, \"34029\": 24.63}",
+    "county_names_all": "Monmouth|Ocean",
+    "county_fips_all": "34025|34029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

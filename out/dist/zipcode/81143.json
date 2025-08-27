@@ -1,0 +1,20 @@
+{
+    "zip": 81143,
+    "lat": 38.14477,
+    "lng": -105.87112,
+    "city": "Moffat",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 737.0,
+    "density": 0.7,
+    "county_fips": 8109,
+    "county_name": "Saguache",
+    "county_weights": "{\"08109\": 100}",
+    "county_names_all": "Saguache",
+    "county_fips_all": "08109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

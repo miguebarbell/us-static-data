@@ -1,0 +1,20 @@
+{
+    "zip": 68667,
+    "lat": 41.11231,
+    "lng": -97.30278,
+    "city": "Surprise",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 136.0,
+    "density": 3.4,
+    "county_fips": 31023,
+    "county_name": "Butler",
+    "county_weights": "{\"31023\": 100}",
+    "county_names_all": "Butler",
+    "county_fips_all": "31023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

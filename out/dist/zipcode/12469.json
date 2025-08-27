@@ -1,0 +1,20 @@
+{
+    "zip": 12469,
+    "lat": 42.44521,
+    "lng": -74.2421,
+    "city": "Preston Hollow",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 842.0,
+    "density": 9.9,
+    "county_fips": 36001,
+    "county_name": "Albany",
+    "county_weights": "{\"36001\": 59.7, \"36095\": 35.38, \"36039\": 4.92}",
+    "county_names_all": "Albany|Schoharie|Greene",
+    "county_fips_all": "36001|36095|36039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

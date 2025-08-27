@@ -1,0 +1,20 @@
+{
+    "zip": 39117,
+    "lat": 32.31096,
+    "lng": -89.66413,
+    "city": "Morton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9638.0,
+    "density": 14.8,
+    "county_fips": 28123,
+    "county_name": "Scott",
+    "county_weights": "{\"28123\": 70.35, \"28129\": 25.82, \"28121\": 3.83}",
+    "county_names_all": "Scott|Smith|Rankin",
+    "county_fips_all": "28123|28129|28121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

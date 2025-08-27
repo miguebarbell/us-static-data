@@ -1,0 +1,20 @@
+{
+    "zip": 27343,
+    "lat": 36.50229,
+    "lng": -79.08892,
+    "city": "Semora",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1606.0,
+    "density": 13.3,
+    "county_fips": 37145,
+    "county_name": "Person",
+    "county_weights": "{\"37145\": 77.45, \"37033\": 22.55}",
+    "county_names_all": "Person|Caswell",
+    "county_fips_all": "37145|37033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

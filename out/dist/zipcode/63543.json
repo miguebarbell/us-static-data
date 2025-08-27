@@ -1,0 +1,20 @@
+{
+    "zip": 63543,
+    "lat": 40.35765,
+    "lng": -92.00976,
+    "city": "Gorin",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 319.0,
+    "density": 3.3,
+    "county_fips": 29199,
+    "county_name": "Scotland",
+    "county_weights": "{\"29199\": 100}",
+    "county_names_all": "Scotland",
+    "county_fips_all": "29199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

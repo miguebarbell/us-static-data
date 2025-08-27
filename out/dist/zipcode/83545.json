@@ -1,0 +1,20 @@
+{
+    "zip": 83545,
+    "lat": 46.42664,
+    "lng": -116.4213,
+    "city": "Peck",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 440.0,
+    "density": 3.9,
+    "county_fips": 16069,
+    "county_name": "Nez Perce",
+    "county_weights": "{\"16069\": 100}",
+    "county_names_all": "Nez Perce",
+    "county_fips_all": "16069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

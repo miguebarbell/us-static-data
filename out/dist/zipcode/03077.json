@@ -1,0 +1,20 @@
+{
+    "zip": 3077,
+    "lat": 43.03219,
+    "lng": -71.19945,
+    "city": "Raymond",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10837.0,
+    "density": 145.2,
+    "county_fips": 33015,
+    "county_name": "Rockingham",
+    "county_weights": "{\"33015\": 100}",
+    "county_names_all": "Rockingham",
+    "county_fips_all": "33015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

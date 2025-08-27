@@ -1,0 +1,20 @@
+{
+    "zip": 15829,
+    "lat": 41.17337,
+    "lng": -79.19324,
+    "city": "Corsica",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1313.0,
+    "density": 15.9,
+    "county_fips": 42065,
+    "county_name": "Jefferson",
+    "county_weights": "{\"42065\": 68.97, \"42031\": 31.03}",
+    "county_names_all": "Jefferson|Clarion",
+    "county_fips_all": "42065|42031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

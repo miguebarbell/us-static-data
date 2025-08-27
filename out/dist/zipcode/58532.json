@@ -1,0 +1,20 @@
+{
+    "zip": 58532,
+    "lat": 46.84571,
+    "lng": -100.10631,
+    "city": "Driscoll",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 271.0,
+    "density": 0.5,
+    "county_fips": 38015,
+    "county_name": "Burleigh",
+    "county_weights": "{\"38015\": 61.44, \"38043\": 38.56}",
+    "county_names_all": "Burleigh|Kidder",
+    "county_fips_all": "38015|38043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

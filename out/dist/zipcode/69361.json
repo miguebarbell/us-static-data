@@ -1,0 +1,20 @@
+{
+    "zip": 69361,
+    "lat": 42.01254,
+    "lng": -103.56802,
+    "city": "Scottsbluff",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16965.0,
+    "density": 27.6,
+    "county_fips": 31165,
+    "county_name": "Sioux",
+    "county_weights": "{\"31165\": 56.59, \"31157\": 43.41}",
+    "county_names_all": "Sioux|Scotts Bluff",
+    "county_fips_all": "31165|31157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

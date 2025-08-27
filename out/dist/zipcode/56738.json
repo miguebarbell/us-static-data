@@ -1,0 +1,20 @@
+{
+    "zip": 56738,
+    "lat": 48.34448,
+    "lng": -96.33456,
+    "city": "Newfolden",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1407.0,
+    "density": 3.0,
+    "county_fips": 27089,
+    "county_name": "Marshall",
+    "county_weights": "{\"27089\": 100}",
+    "county_names_all": "Marshall",
+    "county_fips_all": "27089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

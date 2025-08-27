@@ -1,0 +1,20 @@
+{
+    "zip": 77406,
+    "lat": 29.64571,
+    "lng": -95.79184,
+    "city": "Richmond",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 65716.0,
+    "density": 440.6,
+    "county_fips": 48157,
+    "county_name": "Fort Bend",
+    "county_weights": "{\"48157\": 100}",
+    "county_names_all": "Fort Bend",
+    "county_fips_all": "48157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

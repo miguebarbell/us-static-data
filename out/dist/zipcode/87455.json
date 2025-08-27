@@ -1,0 +1,20 @@
+{
+    "zip": 87455,
+    "lat": 36.27109,
+    "lng": -108.71936,
+    "city": "Newcomb",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1522.0,
+    "density": 1.4,
+    "county_fips": 35045,
+    "county_name": "San Juan",
+    "county_weights": "{\"35045\": 100}",
+    "county_names_all": "San Juan",
+    "county_fips_all": "35045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

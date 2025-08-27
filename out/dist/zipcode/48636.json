@@ -1,0 +1,20 @@
+{
+    "zip": 48636,
+    "lat": 44.58871,
+    "lng": -84.28569,
+    "city": "Luzerne",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 891.0,
+    "density": 4.4,
+    "county_fips": 26135,
+    "county_name": "Oscoda",
+    "county_weights": "{\"26135\": 100}",
+    "county_names_all": "Oscoda",
+    "county_fips_all": "26135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

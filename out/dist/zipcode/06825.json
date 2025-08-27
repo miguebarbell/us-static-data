@@ -1,0 +1,20 @@
+{
+    "zip": 6825,
+    "lat": 41.19685,
+    "lng": -73.24221,
+    "city": "Fairfield",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20992.0,
+    "density": 1192.7,
+    "county_fips": 9120,
+    "county_name": "Greater Bridgeport",
+    "county_weights": "{\"09120\": 100}",
+    "county_names_all": "Greater Bridgeport",
+    "county_fips_all": "09120",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

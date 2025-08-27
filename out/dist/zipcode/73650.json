@@ -1,0 +1,20 @@
+{
+    "zip": 73650,
+    "lat": 35.64173,
+    "lng": -99.41729,
+    "city": "Hammon",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 983.0,
+    "density": 1.8,
+    "county_fips": 40129,
+    "county_name": "Roger Mills",
+    "county_weights": "{\"40129\": 69.36, \"40039\": 30.64}",
+    "county_names_all": "Roger Mills|Custer",
+    "county_fips_all": "40129|40039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

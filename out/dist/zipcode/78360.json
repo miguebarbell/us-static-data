@@ -1,0 +1,20 @@
+{
+    "zip": 78360,
+    "lat": 26.8605,
+    "lng": -98.83204,
+    "city": "Guerra",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33.0,
+    "density": 0.1,
+    "county_fips": 48247,
+    "county_name": "Jim Hogg",
+    "county_weights": "{\"48247\": 100}",
+    "county_names_all": "Jim Hogg",
+    "county_fips_all": "48247",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

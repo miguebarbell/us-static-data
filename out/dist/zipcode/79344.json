@@ -1,0 +1,20 @@
+{
+    "zip": 79344,
+    "lat": 33.85677,
+    "lng": -103.0143,
+    "city": "Maple",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 48017,
+    "county_name": "Bailey",
+    "county_weights": "{\"48017\": 100}",
+    "county_names_all": "Bailey",
+    "county_fips_all": "48017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

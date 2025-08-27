@@ -1,0 +1,20 @@
+{
+    "zip": 63345,
+    "lat": 39.27599,
+    "lng": -91.57311,
+    "city": "Farber",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 372.0,
+    "density": 7.5,
+    "county_fips": 29007,
+    "county_name": "Audrain",
+    "county_weights": "{\"29007\": 100}",
+    "county_names_all": "Audrain",
+    "county_fips_all": "29007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

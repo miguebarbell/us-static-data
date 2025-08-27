@@ -1,0 +1,20 @@
+{
+    "zip": 81073,
+    "lat": 37.42414,
+    "lng": -102.71496,
+    "city": "Springfield",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1880.0,
+    "density": 1.1,
+    "county_fips": 8009,
+    "county_name": "Baca",
+    "county_weights": "{\"08009\": 100}",
+    "county_names_all": "Baca",
+    "county_fips_all": "08009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 93626,
+    "lat": 37.03278,
+    "lng": -119.68601,
+    "city": "Friant",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3039.0,
+    "density": 11.8,
+    "county_fips": 6039,
+    "county_name": "Madera",
+    "county_weights": "{\"06039\": 72.18, \"06019\": 27.82}",
+    "county_names_all": "Madera|Fresno",
+    "county_fips_all": "06039|06019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

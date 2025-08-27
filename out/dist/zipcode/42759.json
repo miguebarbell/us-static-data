@@ -1,0 +1,20 @@
+{
+    "zip": 42759,
+    "lat": 36.82909,
+    "lng": -85.51334,
+    "city": "Marrowbone",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 21057,
+    "county_name": "Cumberland",
+    "county_weights": "{\"21057\": 100}",
+    "county_names_all": "Cumberland",
+    "county_fips_all": "21057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

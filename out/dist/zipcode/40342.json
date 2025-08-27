@@ -1,0 +1,20 @@
+{
+    "zip": 40342,
+    "lat": 38.0036,
+    "lng": -84.9837,
+    "city": "Lawrenceburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23739.0,
+    "density": 49.5,
+    "county_fips": 21005,
+    "county_name": "Anderson",
+    "county_weights": "{\"21005\": 99.14, \"21167\": 0.45, \"21211\": 0.41}",
+    "county_names_all": "Anderson|Mercer|Shelby",
+    "county_fips_all": "21005|21167|21211",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

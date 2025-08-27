@@ -1,0 +1,20 @@
+{
+    "zip": 77334,
+    "lat": 30.77996,
+    "lng": -95.36465,
+    "city": "Dodge",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 211.0,
+    "density": 5.7,
+    "county_fips": 48471,
+    "county_name": "Walker",
+    "county_weights": "{\"48471\": 100}",
+    "county_names_all": "Walker",
+    "county_fips_all": "48471",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

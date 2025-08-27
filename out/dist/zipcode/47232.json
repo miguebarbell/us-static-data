@@ -1,0 +1,20 @@
+{
+    "zip": 47232,
+    "lat": 39.11297,
+    "lng": -85.79428,
+    "city": "Elizabethtown",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2329.0,
+    "density": 28.0,
+    "county_fips": 18005,
+    "county_name": "Bartholomew",
+    "county_weights": "{\"18005\": 70.26, \"18079\": 29.74}",
+    "county_names_all": "Bartholomew|Jennings",
+    "county_fips_all": "18005|18079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

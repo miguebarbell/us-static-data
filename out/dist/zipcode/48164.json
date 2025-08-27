@@ -1,0 +1,20 @@
+{
+    "zip": 48164,
+    "lat": 42.1264,
+    "lng": -83.39391,
+    "city": "New Boston",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9577.0,
+    "density": 122.1,
+    "county_fips": 26163,
+    "county_name": "Wayne",
+    "county_weights": "{\"26163\": 96.28, \"26115\": 3.72}",
+    "county_names_all": "Wayne|Monroe",
+    "county_fips_all": "26163|26115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

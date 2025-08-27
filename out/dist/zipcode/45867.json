@@ -1,0 +1,20 @@
+{
+    "zip": 45867,
+    "lat": 40.89795,
+    "lng": -83.53825,
+    "city": "Mount Blanchard",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 975.0,
+    "density": 15.3,
+    "county_fips": 39063,
+    "county_name": "Hancock",
+    "county_weights": "{\"39063\": 96.96, \"39175\": 3.04}",
+    "county_names_all": "Hancock|Wyandot",
+    "county_fips_all": "39063|39175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

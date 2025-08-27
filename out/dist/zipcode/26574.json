@@ -1,0 +1,20 @@
+{
+    "zip": 26574,
+    "lat": 39.55926,
+    "lng": -80.17741,
+    "city": "Grant Town",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 405.0,
+    "density": 318.3,
+    "county_fips": 54049,
+    "county_name": "Marion",
+    "county_weights": "{\"54049\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "54049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

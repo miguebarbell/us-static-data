@@ -1,0 +1,20 @@
+{
+    "zip": 73859,
+    "lat": 36.13309,
+    "lng": -99.2797,
+    "city": "Vici",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1574.0,
+    "density": 3.9,
+    "county_fips": 40043,
+    "county_name": "Dewey",
+    "county_weights": "{\"40043\": 64.09, \"40153\": 24.4, \"40045\": 11.51}",
+    "county_names_all": "Dewey|Woodward|Ellis",
+    "county_fips_all": "40043|40153|40045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

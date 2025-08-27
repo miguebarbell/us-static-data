@@ -1,0 +1,20 @@
+{
+    "zip": 57442,
+    "lat": 45.05721,
+    "lng": -100.14997,
+    "city": "Gettysburg",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1963.0,
+    "density": 1.3,
+    "county_fips": 46107,
+    "county_name": "Potter",
+    "county_weights": "{\"46107\": 82.85, \"46041\": 15.18, \"46119\": 1.97}",
+    "county_names_all": "Potter|Dewey|Sully",
+    "county_fips_all": "46107|46041|46119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 62933,
+    "lat": 37.77363,
+    "lng": -89.02003,
+    "city": "Energy",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1188.0,
+    "density": 190.2,
+    "county_fips": 17199,
+    "county_name": "Williamson",
+    "county_weights": "{\"17199\": 100}",
+    "county_names_all": "Williamson",
+    "county_fips_all": "17199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

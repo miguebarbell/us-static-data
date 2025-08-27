@@ -1,0 +1,20 @@
+{
+    "zip": 55718,
+    "lat": 46.6249,
+    "lng": -92.48505,
+    "city": "Carlton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3068.0,
+    "density": 19.6,
+    "county_fips": 27017,
+    "county_name": "Carlton",
+    "county_weights": "{\"27017\": 100}",
+    "county_names_all": "Carlton",
+    "county_fips_all": "27017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

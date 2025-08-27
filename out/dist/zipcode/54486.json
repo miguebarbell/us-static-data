@@ -1,0 +1,20 @@
+{
+    "zip": 54486,
+    "lat": 44.72595,
+    "lng": -89.05124,
+    "city": "Tigerton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2112.0,
+    "density": 6.6,
+    "county_fips": 55115,
+    "county_name": "Shawano",
+    "county_weights": "{\"55115\": 81.22, \"55135\": 18.78}",
+    "county_names_all": "Shawano|Waupaca",
+    "county_fips_all": "55115|55135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

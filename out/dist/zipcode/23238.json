@@ -1,0 +1,20 @@
+{
+    "zip": 23238,
+    "lat": 37.59595,
+    "lng": -77.64138,
+    "city": "Henrico",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25893.0,
+    "density": 471.9,
+    "county_fips": 51075,
+    "county_name": "Goochland",
+    "county_weights": "{\"51075\": 56.78, \"51087\": 43.22}",
+    "county_names_all": "Goochland|Henrico",
+    "county_fips_all": "51075|51087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

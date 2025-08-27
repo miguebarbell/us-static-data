@@ -1,0 +1,20 @@
+{
+    "zip": 76673,
+    "lat": 31.75371,
+    "lng": -96.89105,
+    "city": "Mount Calm",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1178.0,
+    "density": 5.1,
+    "county_fips": 48217,
+    "county_name": "Hill",
+    "county_weights": "{\"48217\": 61.59, \"48293\": 37.5, \"48309\": 0.91}",
+    "county_names_all": "Hill|Limestone|McLennan",
+    "county_fips_all": "48217|48293|48309",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

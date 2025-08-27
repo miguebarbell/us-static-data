@@ -1,0 +1,20 @@
+{
+    "zip": 23413,
+    "lat": 37.4653,
+    "lng": -75.85356,
+    "city": "Nassawadox",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 868.0,
+    "density": 45.1,
+    "county_fips": 51131,
+    "county_name": "Northampton",
+    "county_weights": "{\"51131\": 100}",
+    "county_names_all": "Northampton",
+    "county_fips_all": "51131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

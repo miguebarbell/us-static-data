@@ -1,0 +1,20 @@
+{
+    "zip": 37888,
+    "lat": 36.31063,
+    "lng": -83.61266,
+    "city": "Washburn",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3385.0,
+    "density": 23.4,
+    "county_fips": 47057,
+    "county_name": "Grainger",
+    "county_weights": "{\"47057\": 90.99, \"47173\": 9.01}",
+    "county_names_all": "Grainger|Union",
+    "county_fips_all": "47057|47173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

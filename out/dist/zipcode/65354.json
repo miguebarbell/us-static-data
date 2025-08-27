@@ -1,0 +1,20 @@
+{
+    "zip": 65354,
+    "lat": 38.64841,
+    "lng": -92.88786,
+    "city": "Syracuse",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 648.0,
+    "density": 10.1,
+    "county_fips": 29141,
+    "county_name": "Morgan",
+    "county_weights": "{\"29141\": 85.89, \"29053\": 14.11}",
+    "county_names_all": "Morgan|Cooper",
+    "county_fips_all": "29141|29053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 17093,
+    "lat": 40.30998,
+    "lng": -76.92817,
+    "city": "Summerdale",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 752.0,
+    "density": 579.8,
+    "county_fips": 42041,
+    "county_name": "Cumberland",
+    "county_weights": "{\"42041\": 100}",
+    "county_names_all": "Cumberland",
+    "county_fips_all": "42041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

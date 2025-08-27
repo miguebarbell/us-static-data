@@ -1,0 +1,20 @@
+{
+    "zip": 37051,
+    "lat": 36.30426,
+    "lng": -87.41405,
+    "city": "Cumberland Furnace",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3712.0,
+    "density": 17.8,
+    "county_fips": 47043,
+    "county_name": "Dickson",
+    "county_weights": "{\"47043\": 72.33, \"47125\": 23.77, \"47083\": 3.9}",
+    "county_names_all": "Dickson|Montgomery|Houston",
+    "county_fips_all": "47043|47125|47083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

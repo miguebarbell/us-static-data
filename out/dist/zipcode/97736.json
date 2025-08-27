@@ -1,0 +1,20 @@
+{
+    "zip": 97736,
+    "lat": 42.66655,
+    "lng": -118.92058,
+    "city": "Frenchglen",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 86.0,
+    "density": 0.0,
+    "county_fips": 41025,
+    "county_name": "Harney",
+    "county_weights": "{\"41025\": 100}",
+    "county_names_all": "Harney",
+    "county_fips_all": "41025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

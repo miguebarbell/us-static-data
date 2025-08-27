@@ -1,0 +1,20 @@
+{
+    "zip": 80540,
+    "lat": 40.23186,
+    "lng": -105.39341,
+    "city": "Lyons",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4620.0,
+    "density": 11.7,
+    "county_fips": 8013,
+    "county_name": "Boulder",
+    "county_weights": "{\"08013\": 65.41, \"08069\": 34.59}",
+    "county_names_all": "Boulder|Larimer",
+    "county_fips_all": "08013|08069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 45039,
+    "lat": 39.32655,
+    "lng": -84.23586,
+    "city": "Maineville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28958.0,
+    "density": 718.8,
+    "county_fips": 39165,
+    "county_name": "Warren",
+    "county_weights": "{\"39165\": 100}",
+    "county_names_all": "Warren",
+    "county_fips_all": "39165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

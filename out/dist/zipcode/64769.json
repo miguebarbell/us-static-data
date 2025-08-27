@@ -1,0 +1,20 @@
+{
+    "zip": 64769,
+    "lat": 37.48028,
+    "lng": -94.56688,
+    "city": "Mindenmines",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 555.0,
+    "density": 5.3,
+    "county_fips": 29011,
+    "county_name": "Barton",
+    "county_weights": "{\"29011\": 100}",
+    "county_names_all": "Barton",
+    "county_fips_all": "29011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

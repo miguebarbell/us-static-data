@@ -1,0 +1,20 @@
+{
+    "zip": 68321,
+    "lat": 40.39491,
+    "lng": -95.69371,
+    "city": "Brownville",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 404.0,
+    "density": 5.9,
+    "county_fips": 31127,
+    "county_name": "Nemaha",
+    "county_weights": "{\"31127\": 100}",
+    "county_names_all": "Nemaha",
+    "county_fips_all": "31127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

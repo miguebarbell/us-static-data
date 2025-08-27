@@ -1,0 +1,20 @@
+{
+    "zip": 89301,
+    "lat": 39.52872,
+    "lng": -114.76615,
+    "city": "Ely",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6795.0,
+    "density": 1.2,
+    "county_fips": 32033,
+    "county_name": "White Pine",
+    "county_weights": "{\"32033\": 100}",
+    "county_names_all": "White Pine",
+    "county_fips_all": "32033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

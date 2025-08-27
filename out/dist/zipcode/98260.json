@@ -1,0 +1,20 @@
+{
+    "zip": 98260,
+    "lat": 48.03074,
+    "lng": -122.45106,
+    "city": "Langley",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5480.0,
+    "density": 80.6,
+    "county_fips": 53029,
+    "county_name": "Island",
+    "county_weights": "{\"53029\": 100}",
+    "county_names_all": "Island",
+    "county_fips_all": "53029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

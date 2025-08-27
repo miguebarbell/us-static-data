@@ -1,0 +1,20 @@
+{
+    "zip": 83833,
+    "lat": 47.51484,
+    "lng": -116.73284,
+    "city": "Harrison",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1414.0,
+    "density": 5.2,
+    "county_fips": 16055,
+    "county_name": "Kootenai",
+    "county_weights": "{\"16055\": 99.9, \"16009\": 0.1}",
+    "county_names_all": "Kootenai|Benewah",
+    "county_fips_all": "16055|16009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

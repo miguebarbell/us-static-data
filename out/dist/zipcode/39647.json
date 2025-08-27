@@ -1,0 +1,20 @@
+{
+    "zip": 39647,
+    "lat": 31.51498,
+    "lng": -90.7143,
+    "city": "McCall Creek",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 666.0,
+    "density": 3.5,
+    "county_fips": 28037,
+    "county_name": "Franklin",
+    "county_weights": "{\"28037\": 95.44, \"28085\": 4.56}",
+    "county_names_all": "Franklin|Lincoln",
+    "county_fips_all": "28037|28085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

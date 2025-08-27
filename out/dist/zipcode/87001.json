@@ -1,0 +1,20 @@
+{
+    "zip": 87001,
+    "lat": 35.41231,
+    "lng": -106.37944,
+    "city": "Algodones",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3551.0,
+    "density": 13.8,
+    "county_fips": 35043,
+    "county_name": "Sandoval",
+    "county_weights": "{\"35043\": 100}",
+    "county_names_all": "Sandoval",
+    "county_fips_all": "35043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 26384,
+    "lat": 38.97467,
+    "lng": -80.7178,
+    "city": "Linn",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 330.0,
+    "density": 4.4,
+    "county_fips": 54021,
+    "county_name": "Gilmer",
+    "county_weights": "{\"54021\": 84.89, \"54041\": 15.11}",
+    "county_names_all": "Gilmer|Lewis",
+    "county_fips_all": "54021|54041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

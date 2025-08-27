@@ -1,0 +1,20 @@
+{
+    "zip": 71455,
+    "lat": 31.40125,
+    "lng": -92.98074,
+    "city": "Mora",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 214.0,
+    "density": 1.5,
+    "county_fips": 22069,
+    "county_name": "Natchitoches",
+    "county_weights": "{\"22069\": 85.05, \"22079\": 14.95}",
+    "county_names_all": "Natchitoches|Rapides",
+    "county_fips_all": "22069|22079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 53540,
+    "lat": 43.22173,
+    "lng": -90.29356,
+    "city": "Gotham",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 129.0,
+    "density": 659.1,
+    "county_fips": 55103,
+    "county_name": "Richland",
+    "county_weights": "{\"55103\": 100}",
+    "county_names_all": "Richland",
+    "county_fips_all": "55103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

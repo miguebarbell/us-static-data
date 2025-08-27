@@ -1,0 +1,20 @@
+{
+    "zip": 26208,
+    "lat": 38.34781,
+    "lng": -80.57314,
+    "city": "Camden On Gauley",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 853.0,
+    "density": 8.3,
+    "county_fips": 54101,
+    "county_name": "Webster",
+    "county_weights": "{\"54101\": 64.88, \"54067\": 35.12}",
+    "county_names_all": "Webster|Nicholas",
+    "county_fips_all": "54101|54067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 75956,
+    "lat": 30.6721,
+    "lng": -93.96706,
+    "city": "Kirbyville",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7085.0,
+    "density": 11.2,
+    "county_fips": 48241,
+    "county_name": "Jasper",
+    "county_weights": "{\"48241\": 88.21, \"48351\": 11.79}",
+    "county_names_all": "Jasper|Newton",
+    "county_fips_all": "48241|48351",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

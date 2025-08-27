@@ -1,0 +1,20 @@
+{
+    "zip": 74647,
+    "lat": 36.91601,
+    "lng": -97.00272,
+    "city": "Newkirk",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3405.0,
+    "density": 4.7,
+    "county_fips": 40071,
+    "county_name": "Kay",
+    "county_weights": "{\"40071\": 100}",
+    "county_names_all": "Kay",
+    "county_fips_all": "40071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

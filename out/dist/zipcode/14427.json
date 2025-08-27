@@ -1,0 +1,20 @@
+{
+    "zip": 14427,
+    "lat": 42.61828,
+    "lng": -78.05442,
+    "city": "Castile",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1875.0,
+    "density": 21.5,
+    "county_fips": 36121,
+    "county_name": "Wyoming",
+    "county_weights": "{\"36121\": 99.71, \"36051\": 0.29}",
+    "county_names_all": "Wyoming|Livingston",
+    "county_fips_all": "36121|36051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

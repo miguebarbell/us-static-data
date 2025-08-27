@@ -1,0 +1,20 @@
+{
+    "zip": 49748,
+    "lat": 46.37491,
+    "lng": -85.18039,
+    "city": "Hulbert",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 228.0,
+    "density": 0.8,
+    "county_fips": 26033,
+    "county_name": "Chippewa",
+    "county_weights": "{\"26033\": 91.7, \"26095\": 8.3}",
+    "county_names_all": "Chippewa|Luce",
+    "county_fips_all": "26033|26095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

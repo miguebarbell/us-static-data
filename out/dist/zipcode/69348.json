@@ -1,0 +1,20 @@
+{
+    "zip": 69348,
+    "lat": 42.3299,
+    "lng": -103.18777,
+    "city": "Hemingford",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1355.0,
+    "density": 0.9,
+    "county_fips": 31013,
+    "county_name": "Box Butte",
+    "county_weights": "{\"31013\": 70.05, \"31045\": 15.96, \"31165\": 13.99}",
+    "county_names_all": "Box Butte|Dawes|Sioux",
+    "county_fips_all": "31013|31045|31165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

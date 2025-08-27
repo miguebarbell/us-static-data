@@ -1,0 +1,20 @@
+{
+    "zip": 86404,
+    "lat": 34.61156,
+    "lng": -114.29452,
+    "city": "Lake Havasu City",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18866.0,
+    "density": 45.0,
+    "county_fips": 4015,
+    "county_name": "Mohave",
+    "county_weights": "{\"04015\": 100}",
+    "county_names_all": "Mohave",
+    "county_fips_all": "04015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

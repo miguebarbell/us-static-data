@@ -1,0 +1,20 @@
+{
+    "zip": 80815,
+    "lat": 39.40174,
+    "lng": -103.08191,
+    "city": "Flagler",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 895.0,
+    "density": 0.7,
+    "county_fips": 8063,
+    "county_name": "Kit Carson",
+    "county_weights": "{\"08063\": 73.08, \"08121\": 26.92}",
+    "county_names_all": "Kit Carson|Washington",
+    "county_fips_all": "08063|08121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

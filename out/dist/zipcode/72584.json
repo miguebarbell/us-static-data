@@ -1,0 +1,20 @@
+{
+    "zip": 72584,
+    "lat": 36.14421,
+    "lng": -91.84427,
+    "city": "Violet Hill",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 424.0,
+    "density": 4.3,
+    "county_fips": 5065,
+    "county_name": "Izard",
+    "county_weights": "{\"05065\": 100}",
+    "county_names_all": "Izard",
+    "county_fips_all": "05065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

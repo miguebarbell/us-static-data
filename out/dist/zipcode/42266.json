@@ -1,0 +1,20 @@
+{
+    "zip": 42266,
+    "lat": 36.76562,
+    "lng": -87.3601,
+    "city": "Pembroke",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3203.0,
+    "density": 17.0,
+    "county_fips": 21047,
+    "county_name": "Christian",
+    "county_weights": "{\"21047\": 87.96, \"21219\": 12.04}",
+    "county_names_all": "Christian|Todd",
+    "county_fips_all": "21047|21219",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

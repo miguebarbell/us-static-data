@@ -1,0 +1,20 @@
+{
+    "zip": 37327,
+    "lat": 35.42251,
+    "lng": -85.39993,
+    "city": "Dunlap",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12424.0,
+    "density": 25.1,
+    "county_fips": 47153,
+    "county_name": "Sequatchie",
+    "county_weights": "{\"47153\": 82.17, \"47007\": 16.21, \"47175\": 1.62}",
+    "county_names_all": "Sequatchie|Bledsoe|Van Buren",
+    "county_fips_all": "47153|47007|47175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

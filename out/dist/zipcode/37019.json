@@ -1,0 +1,20 @@
+{
+    "zip": 37019,
+    "lat": 35.39094,
+    "lng": -86.70943,
+    "city": "Belfast",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 618.0,
+    "density": 13.5,
+    "county_fips": 47117,
+    "county_name": "Marshall",
+    "county_weights": "{\"47117\": 100}",
+    "county_names_all": "Marshall",
+    "county_fips_all": "47117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

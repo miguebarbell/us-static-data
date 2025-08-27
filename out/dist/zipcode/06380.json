@@ -1,0 +1,20 @@
+{
+    "zip": 6380,
+    "lat": 41.56533,
+    "lng": -72.05308,
+    "city": "Taftville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2427.0,
+    "density": 972.5,
+    "county_fips": 9180,
+    "county_name": "Southeastern Connecticut",
+    "county_weights": "{\"09180\": 100}",
+    "county_names_all": "Southeastern Connecticut",
+    "county_fips_all": "09180",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

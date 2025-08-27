@@ -1,0 +1,20 @@
+{
+    "zip": 48381,
+    "lat": 42.5628,
+    "lng": -83.59336,
+    "city": "Milford",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13737.0,
+    "density": 272.0,
+    "county_fips": 26125,
+    "county_name": "Oakland",
+    "county_weights": "{\"26125\": 100}",
+    "county_names_all": "Oakland",
+    "county_fips_all": "26125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

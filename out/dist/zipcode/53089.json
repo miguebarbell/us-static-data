@@ -1,0 +1,20 @@
+{
+    "zip": 53089,
+    "lat": 43.14646,
+    "lng": -88.23594,
+    "city": "Sussex",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20202.0,
+    "density": 290.4,
+    "county_fips": 55133,
+    "county_name": "Waukesha",
+    "county_weights": "{\"55133\": 100}",
+    "county_names_all": "Waukesha",
+    "county_fips_all": "55133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

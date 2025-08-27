@@ -1,0 +1,20 @@
+{
+    "zip": 17812,
+    "lat": 40.73626,
+    "lng": -77.23641,
+    "city": "Beaver Springs",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1497.0,
+    "density": 22.2,
+    "county_fips": 42109,
+    "county_name": "Snyder",
+    "county_weights": "{\"42109\": 100}",
+    "county_names_all": "Snyder",
+    "county_fips_all": "42109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

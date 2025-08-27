@@ -1,0 +1,20 @@
+{
+    "zip": 92308,
+    "lat": 34.42005,
+    "lng": -117.15558,
+    "city": "Apple Valley",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42402.0,
+    "density": 158.6,
+    "county_fips": 6071,
+    "county_name": "San Bernardino",
+    "county_weights": "{\"06071\": 100}",
+    "county_names_all": "San Bernardino",
+    "county_fips_all": "06071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

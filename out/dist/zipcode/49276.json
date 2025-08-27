@@ -1,0 +1,20 @@
+{
+    "zip": 49276,
+    "lat": 41.79733,
+    "lng": -83.7843,
+    "city": "Riga",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 809.0,
+    "density": 13.7,
+    "county_fips": 26091,
+    "county_name": "Lenawee",
+    "county_weights": "{\"26091\": 68.77, \"26115\": 31.23}",
+    "county_names_all": "Lenawee|Monroe",
+    "county_fips_all": "26091|26115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

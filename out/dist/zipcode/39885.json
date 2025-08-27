@@ -1,0 +1,20 @@
+{
+    "zip": 39885,
+    "lat": 31.72189,
+    "lng": -84.34304,
+    "city": "Sasser",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25.0,
+    "density": 63.8,
+    "county_fips": 13273,
+    "county_name": "Terrell",
+    "county_weights": "{\"13273\": 100}",
+    "county_names_all": "Terrell",
+    "county_fips_all": "13273",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

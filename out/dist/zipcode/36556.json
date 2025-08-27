@@ -1,0 +1,20 @@
+{
+    "zip": 36556,
+    "lat": 31.20649,
+    "lng": -87.97127,
+    "city": "Malcolm",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 1129,
+    "county_name": "Washington",
+    "county_weights": "{\"01129\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "01129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

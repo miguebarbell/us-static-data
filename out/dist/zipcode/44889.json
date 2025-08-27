@@ -1,0 +1,20 @@
+{
+    "zip": 44889,
+    "lat": 41.24661,
+    "lng": -82.38195,
+    "city": "Wakeman",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7251.0,
+    "density": 36.5,
+    "county_fips": 39077,
+    "county_name": "Huron",
+    "county_weights": "{\"39077\": 63.9, \"39043\": 23.08, \"39093\": 13.02}",
+    "county_names_all": "Huron|Erie|Lorain",
+    "county_fips_all": "39077|39043|39093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

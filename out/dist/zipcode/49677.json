@@ -1,0 +1,20 @@
+{
+    "zip": 49677,
+    "lat": 43.89533,
+    "lng": -85.54254,
+    "city": "Reed City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7286.0,
+    "density": 22.2,
+    "county_fips": 26133,
+    "county_name": "Osceola",
+    "county_weights": "{\"26133\": 58.05, \"26085\": 30.13, \"26123\": 11.82}",
+    "county_names_all": "Osceola|Lake|Newaygo",
+    "county_fips_all": "26133|26085|26123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

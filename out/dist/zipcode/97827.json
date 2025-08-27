@@ -1,0 +1,20 @@
+{
+    "zip": 97827,
+    "lat": 45.60854,
+    "lng": -117.85886,
+    "city": "Elgin",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2557.0,
+    "density": 4.8,
+    "county_fips": 41061,
+    "county_name": "Union",
+    "county_weights": "{\"41061\": 100}",
+    "county_names_all": "Union",
+    "county_fips_all": "41061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

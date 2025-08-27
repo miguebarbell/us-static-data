@@ -1,0 +1,20 @@
+{
+    "zip": 98433,
+    "lat": 47.09121,
+    "lng": -122.60772,
+    "city": "Tacoma",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20888.0,
+    "density": 240.7,
+    "county_fips": 53053,
+    "county_name": "Pierce",
+    "county_weights": "{\"53053\": 100}",
+    "county_names_all": "Pierce",
+    "county_fips_all": "53053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

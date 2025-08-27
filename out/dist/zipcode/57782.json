@@ -1,0 +1,20 @@
+{
+    "zip": 57782,
+    "lat": 43.25182,
+    "lng": -103.1844,
+    "city": "Smithwick",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 51.0,
+    "density": 0.4,
+    "county_fips": 46047,
+    "county_name": "Fall River",
+    "county_weights": "{\"46047\": 100}",
+    "county_names_all": "Fall River",
+    "county_fips_all": "46047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

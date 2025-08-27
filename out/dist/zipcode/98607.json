@@ -1,0 +1,20 @@
+{
+    "zip": 98607,
+    "lat": 45.64395,
+    "lng": -122.38242,
+    "city": "Camas",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35661.0,
+    "density": 289.1,
+    "county_fips": 53011,
+    "county_name": "Clark",
+    "county_weights": "{\"53011\": 100}",
+    "county_names_all": "Clark",
+    "county_fips_all": "53011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

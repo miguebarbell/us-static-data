@@ -1,0 +1,20 @@
+{
+    "zip": 83301,
+    "lat": 42.39472,
+    "lng": -114.52203,
+    "city": "Twin Falls",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 61968.0,
+    "density": 80.9,
+    "county_fips": 16083,
+    "county_name": "Twin Falls",
+    "county_weights": "{\"16083\": 99.26, \"16053\": 0.74}",
+    "county_names_all": "Twin Falls|Jerome",
+    "county_fips_all": "16083|16053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

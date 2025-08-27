@@ -1,0 +1,20 @@
+{
+    "zip": 79839,
+    "lat": 31.36476,
+    "lng": -105.68693,
+    "city": "Fort Hancock",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1163.0,
+    "density": 1.4,
+    "county_fips": 48229,
+    "county_name": "Hudspeth",
+    "county_weights": "{\"48229\": 100}",
+    "county_names_all": "Hudspeth",
+    "county_fips_all": "48229",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

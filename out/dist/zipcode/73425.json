@@ -1,0 +1,20 @@
+{
+    "zip": 73425,
+    "lat": 34.45838,
+    "lng": -97.56239,
+    "city": "Countyline",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 119.0,
+    "density": 9.7,
+    "county_fips": 40137,
+    "county_name": "Stephens",
+    "county_weights": "{\"40137\": 52.76, \"40019\": 47.24}",
+    "county_names_all": "Stephens|Carter",
+    "county_fips_all": "40137|40019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

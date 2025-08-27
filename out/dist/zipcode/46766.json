@@ -1,0 +1,20 @@
+{
+    "zip": 46766,
+    "lat": 40.70984,
+    "lng": -85.29424,
+    "city": "Liberty Center",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 614.0,
+    "density": 16.5,
+    "county_fips": 18179,
+    "county_name": "Wells",
+    "county_weights": "{\"18179\": 100}",
+    "county_names_all": "Wells",
+    "county_fips_all": "18179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

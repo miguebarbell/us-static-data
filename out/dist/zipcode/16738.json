@@ -1,0 +1,20 @@
+{
+    "zip": 16738,
+    "lat": 41.80511,
+    "lng": -78.73929,
+    "city": "Lewis Run",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2018.0,
+    "density": 10.9,
+    "county_fips": 42083,
+    "county_name": "McKean",
+    "county_weights": "{\"42083\": 100}",
+    "county_names_all": "McKean",
+    "county_fips_all": "42083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

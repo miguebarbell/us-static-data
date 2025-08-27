@@ -1,0 +1,20 @@
+{
+    "zip": 54537,
+    "lat": 45.53136,
+    "lng": -90.60213,
+    "city": "Kennan",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 613.0,
+    "density": 2.8,
+    "county_fips": 55099,
+    "county_name": "Price",
+    "county_weights": "{\"55099\": 100}",
+    "county_names_all": "Price",
+    "county_fips_all": "55099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

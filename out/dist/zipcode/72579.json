@@ -1,0 +1,20 @@
+{
+    "zip": 72579,
+    "lat": 35.84458,
+    "lng": -91.44428,
+    "city": "Sulphur Rock",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1351.0,
+    "density": 11.9,
+    "county_fips": 5063,
+    "county_name": "Independence",
+    "county_weights": "{\"05063\": 78.63, \"05135\": 21.37}",
+    "county_names_all": "Independence|Sharp",
+    "county_fips_all": "05063|05135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 42003,
+    "lat": 37.00653,
+    "lng": -88.58472,
+    "city": "Paducah",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29384.0,
+    "density": 164.3,
+    "county_fips": 21145,
+    "county_name": "McCracken",
+    "county_weights": "{\"21145\": 99.18, \"21083\": 0.82}",
+    "county_names_all": "McCracken|Graves",
+    "county_fips_all": "21145|21083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

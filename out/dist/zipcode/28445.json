@@ -1,0 +1,20 @@
+{
+    "zip": 28445,
+    "lat": 34.54199,
+    "lng": -77.54019,
+    "city": "Holly Ridge",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9784.0,
+    "density": 36.4,
+    "county_fips": 37133,
+    "county_name": "Onslow",
+    "county_weights": "{\"37133\": 88.15, \"37141\": 11.85}",
+    "county_names_all": "Onslow|Pender",
+    "county_fips_all": "37133|37141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

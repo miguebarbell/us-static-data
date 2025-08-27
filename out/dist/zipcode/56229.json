@@ -1,0 +1,20 @@
+{
+    "zip": 56229,
+    "lat": 44.59385,
+    "lng": -95.72398,
+    "city": "Cottonwood",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1729.0,
+    "density": 6.5,
+    "county_fips": 27083,
+    "county_name": "Lyon",
+    "county_weights": "{\"27083\": 78.33, \"27173\": 21.67}",
+    "county_names_all": "Lyon|Yellow Medicine",
+    "county_fips_all": "27083|27173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

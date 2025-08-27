@@ -1,0 +1,20 @@
+{
+    "zip": 63011,
+    "lat": 38.60337,
+    "lng": -90.55847,
+    "city": "Ballwin",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36274.0,
+    "density": 981.7,
+    "county_fips": 29189,
+    "county_name": "St. Louis",
+    "county_weights": "{\"29189\": 100}",
+    "county_names_all": "St. Louis",
+    "county_fips_all": "29189",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

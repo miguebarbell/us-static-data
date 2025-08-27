@@ -1,0 +1,20 @@
+{
+    "zip": 33438,
+    "lat": 26.95443,
+    "lng": -80.56524,
+    "city": "Canal Point",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 439.0,
+    "density": 4.3,
+    "county_fips": 12085,
+    "county_name": "Martin",
+    "county_weights": "{\"12085\": 64.74, \"12099\": 35.26}",
+    "county_names_all": "Martin|Palm Beach",
+    "county_fips_all": "12085|12099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

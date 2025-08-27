@@ -1,0 +1,20 @@
+{
+    "zip": 76950,
+    "lat": 30.43439,
+    "lng": -100.56564,
+    "city": "Sonora",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3490.0,
+    "density": 0.8,
+    "county_fips": 48435,
+    "county_name": "Sutton",
+    "county_weights": "{\"48435\": 79.31, \"48137\": 13.26, \"48465\": 7.43}",
+    "county_names_all": "Sutton|Edwards|Val Verde",
+    "county_fips_all": "48435|48137|48465",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

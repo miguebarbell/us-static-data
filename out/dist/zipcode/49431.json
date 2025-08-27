@@ -1,0 +1,20 @@
+{
+    "zip": 49431,
+    "lat": 43.97251,
+    "lng": -86.39792,
+    "city": "Ludington",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17027.0,
+    "density": 68.4,
+    "county_fips": 26105,
+    "county_name": "Mason",
+    "county_weights": "{\"26105\": 100}",
+    "county_names_all": "Mason",
+    "county_fips_all": "26105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

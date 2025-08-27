@@ -1,0 +1,20 @@
+{
+    "zip": 77560,
+    "lat": 29.86399,
+    "lng": -94.59643,
+    "city": "Hankamer",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1095.0,
+    "density": 15.7,
+    "county_fips": 48071,
+    "county_name": "Chambers",
+    "county_weights": "{\"48071\": 100}",
+    "county_names_all": "Chambers",
+    "county_fips_all": "48071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

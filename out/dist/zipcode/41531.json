@@ -1,0 +1,20 @@
+{
+    "zip": 41531,
+    "lat": 37.59509,
+    "lng": -82.23131,
+    "city": "Hardy",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1070.0,
+    "density": 40.4,
+    "county_fips": 21195,
+    "county_name": "Pike",
+    "county_weights": "{\"21195\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "21195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

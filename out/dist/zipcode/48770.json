@@ -1,0 +1,20 @@
+{
+    "zip": 48770,
+    "lat": 44.24978,
+    "lng": -83.82037,
+    "city": "Whittemore",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1908.0,
+    "density": 10.6,
+    "county_fips": 26069,
+    "county_name": "Iosco",
+    "county_weights": "{\"26069\": 99.4, \"26129\": 0.6}",
+    "county_names_all": "Iosco|Ogemaw",
+    "county_fips_all": "26069|26129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

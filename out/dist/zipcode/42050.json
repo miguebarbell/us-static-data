@@ -1,0 +1,20 @@
+{
+    "zip": 42050,
+    "lat": 36.54675,
+    "lng": -89.20347,
+    "city": "Hickman",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3129.0,
+    "density": 11.0,
+    "county_fips": 21075,
+    "county_name": "Fulton",
+    "county_weights": "{\"21075\": 100}",
+    "county_names_all": "Fulton",
+    "county_fips_all": "21075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

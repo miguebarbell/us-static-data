@@ -1,0 +1,20 @@
+{
+    "zip": 5661,
+    "lat": 44.53743,
+    "lng": -72.61724,
+    "city": "Morrisville",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6114.0,
+    "density": 36.2,
+    "county_fips": 50015,
+    "county_name": "Lamoille",
+    "county_weights": "{\"50015\": 100}",
+    "county_names_all": "Lamoille",
+    "county_fips_all": "50015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

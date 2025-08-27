@@ -1,0 +1,20 @@
+{
+    "zip": 71230,
+    "lat": 32.2403,
+    "lng": -91.59269,
+    "city": "Crowville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 22041,
+    "county_name": "Franklin",
+    "county_weights": "{\"22041\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "22041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

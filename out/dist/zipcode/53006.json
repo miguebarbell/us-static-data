@@ -1,0 +1,20 @@
+{
+    "zip": 53006,
+    "lat": 43.62103,
+    "lng": -88.53534,
+    "city": "Brownsville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1974.0,
+    "density": 19.0,
+    "county_fips": 55027,
+    "county_name": "Dodge",
+    "county_weights": "{\"55027\": 73.94, \"55039\": 26.06}",
+    "county_names_all": "Dodge|Fond du Lac",
+    "county_fips_all": "55027|55039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

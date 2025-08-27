@@ -1,0 +1,20 @@
+{
+    "zip": 50427,
+    "lat": 42.83557,
+    "lng": -93.22116,
+    "city": "Chapin",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 146.0,
+    "density": 834.3,
+    "county_fips": 19069,
+    "county_name": "Franklin",
+    "county_weights": "{\"19069\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "19069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 73550,
+    "lat": 34.7101,
+    "lng": -99.89631,
+    "city": "Hollis",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2139.0,
+    "density": 3.6,
+    "county_fips": 40057,
+    "county_name": "Harmon",
+    "county_weights": "{\"40057\": 100}",
+    "county_names_all": "Harmon",
+    "county_fips_all": "40057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

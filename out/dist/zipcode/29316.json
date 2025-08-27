@@ -1,0 +1,20 @@
+{
+    "zip": 29316,
+    "lat": 35.04179,
+    "lng": -81.9766,
+    "city": "Boiling Springs",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31874.0,
+    "density": 564.0,
+    "county_fips": 45083,
+    "county_name": "Spartanburg",
+    "county_weights": "{\"45083\": 100}",
+    "county_names_all": "Spartanburg",
+    "county_fips_all": "45083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

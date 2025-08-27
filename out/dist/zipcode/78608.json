@@ -1,0 +1,20 @@
+{
+    "zip": 78608,
+    "lat": 30.9341,
+    "lng": -97.93255,
+    "city": "Briggs",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 454.0,
+    "density": 3.9,
+    "county_fips": 48053,
+    "county_name": "Burnet",
+    "county_weights": "{\"48053\": 100}",
+    "county_names_all": "Burnet",
+    "county_fips_all": "48053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

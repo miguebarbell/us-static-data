@@ -1,0 +1,20 @@
+{
+    "zip": 610,
+    "lat": 18.2911,
+    "lng": -67.12243,
+    "city": "Anasco",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25413.0,
+    "density": 264.4,
+    "county_fips": 72011,
+    "county_name": "A\u00f1asco",
+    "county_weights": "{\"72011\": 96.8, \"72099\": 2.83, \"72083\": 0.37}",
+    "county_names_all": "A\u00f1asco|Moca|Las Mar\u00edas",
+    "county_fips_all": "72011|72099|72083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

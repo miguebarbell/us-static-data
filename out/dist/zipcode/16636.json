@@ -1,0 +1,20 @@
+{
+    "zip": 16636,
+    "lat": 40.60214,
+    "lng": -78.50161,
+    "city": "Dysart",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1006.0,
+    "density": 13.8,
+    "county_fips": 42021,
+    "county_name": "Cambria",
+    "county_weights": "{\"42021\": 95.03, \"42013\": 4.97}",
+    "county_names_all": "Cambria|Blair",
+    "county_fips_all": "42021|42013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

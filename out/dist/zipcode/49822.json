@@ -1,0 +1,20 @@
+{
+    "zip": 49822,
+    "lat": 46.45095,
+    "lng": -87.02812,
+    "city": "Deerton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 336.0,
+    "density": 2.2,
+    "county_fips": 26003,
+    "county_name": "Alger",
+    "county_weights": "{\"26003\": 97.46, \"26103\": 2.54}",
+    "county_names_all": "Alger|Marquette",
+    "county_fips_all": "26003|26103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

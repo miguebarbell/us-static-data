@@ -1,0 +1,20 @@
+{
+    "zip": 65049,
+    "lat": 38.20127,
+    "lng": -92.67067,
+    "city": "Lake Ozark",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6931.0,
+    "density": 144.4,
+    "county_fips": 29029,
+    "county_name": "Camden",
+    "county_weights": "{\"29029\": 58.06, \"29131\": 41.94}",
+    "county_names_all": "Camden|Miller",
+    "county_fips_all": "29029|29131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

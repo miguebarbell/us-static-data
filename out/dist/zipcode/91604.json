@@ -1,0 +1,20 @@
+{
+    "zip": 91604,
+    "lat": 34.13985,
+    "lng": -118.39435,
+    "city": "Studio City",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32118.0,
+    "density": 2616.0,
+    "county_fips": 6037,
+    "county_name": "Los Angeles",
+    "county_weights": "{\"06037\": 100}",
+    "county_names_all": "Los Angeles",
+    "county_fips_all": "06037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

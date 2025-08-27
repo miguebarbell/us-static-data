@@ -1,0 +1,20 @@
+{
+    "zip": 70438,
+    "lat": 30.84139,
+    "lng": -90.11186,
+    "city": "Franklinton",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19935.0,
+    "density": 22.1,
+    "county_fips": 22117,
+    "county_name": "Washington",
+    "county_weights": "{\"22117\": 96.35, \"22103\": 2.83, \"22105\": 0.82}",
+    "county_names_all": "Washington|St. Tammany|Tangipahoa",
+    "county_fips_all": "22117|22103|22105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

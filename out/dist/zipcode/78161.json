@@ -1,0 +1,20 @@
+{
+    "zip": 78161,
+    "lat": 29.28741,
+    "lng": -98.05012,
+    "city": "Sutherland Springs",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 602.0,
+    "density": 21.6,
+    "county_fips": 48493,
+    "county_name": "Wilson",
+    "county_weights": "{\"48493\": 100}",
+    "county_names_all": "Wilson",
+    "county_fips_all": "48493",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

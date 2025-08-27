@@ -1,0 +1,20 @@
+{
+    "zip": 53097,
+    "lat": 43.24574,
+    "lng": -88.0069,
+    "city": "Mequon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7334.0,
+    "density": 104.8,
+    "county_fips": 55089,
+    "county_name": "Ozaukee",
+    "county_weights": "{\"55089\": 100}",
+    "county_names_all": "Ozaukee",
+    "county_fips_all": "55089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

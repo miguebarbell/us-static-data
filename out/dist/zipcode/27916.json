@@ -1,0 +1,20 @@
+{
+    "zip": 27916,
+    "lat": 36.32933,
+    "lng": -75.91996,
+    "city": "Aydlett",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1210.0,
+    "density": 55.0,
+    "county_fips": 37053,
+    "county_name": "Currituck",
+    "county_weights": "{\"37053\": 100}",
+    "county_names_all": "Currituck",
+    "county_fips_all": "37053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

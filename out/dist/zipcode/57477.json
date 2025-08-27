@@ -1,0 +1,20 @@
+{
+    "zip": 57477,
+    "lat": 45.03363,
+    "lng": -98.15024,
+    "city": "Turton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 101.0,
+    "density": 0.4,
+    "county_fips": 46115,
+    "county_name": "Spink",
+    "county_weights": "{\"46115\": 100}",
+    "county_names_all": "Spink",
+    "county_fips_all": "46115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

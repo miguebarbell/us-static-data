@@ -1,0 +1,20 @@
+{
+    "zip": 47006,
+    "lat": 39.29141,
+    "lng": -85.21365,
+    "city": "Batesville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12607.0,
+    "density": 45.9,
+    "county_fips": 18137,
+    "county_name": "Ripley",
+    "county_weights": "{\"18137\": 54.04, \"18047\": 45.25, \"18031\": 0.71}",
+    "county_names_all": "Ripley|Franklin|Decatur",
+    "county_fips_all": "18137|18047|18031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

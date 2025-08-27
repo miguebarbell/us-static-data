@@ -1,0 +1,20 @@
+{
+    "zip": 56641,
+    "lat": 47.19848,
+    "lng": -94.25804,
+    "city": "Federal Dam",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 359.0,
+    "density": 4.4,
+    "county_fips": 27021,
+    "county_name": "Cass",
+    "county_weights": "{\"27021\": 100}",
+    "county_names_all": "Cass",
+    "county_fips_all": "27021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

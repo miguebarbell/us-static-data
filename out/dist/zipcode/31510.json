@@ -1,0 +1,20 @@
+{
+    "zip": 31510,
+    "lat": 31.54729,
+    "lng": -82.43992,
+    "city": "Alma",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9592.0,
+    "density": 16.7,
+    "county_fips": 13005,
+    "county_name": "Bacon",
+    "county_weights": "{\"13005\": 89.89, \"13229\": 10.11}",
+    "county_names_all": "Bacon|Pierce",
+    "county_fips_all": "13005|13229",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

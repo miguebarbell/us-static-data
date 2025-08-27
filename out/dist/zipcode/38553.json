@@ -1,0 +1,20 @@
+{
+    "zip": 38553,
+    "lat": 36.20322,
+    "lng": -85.00442,
+    "city": "Clarkrange",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2541.0,
+    "density": 20.4,
+    "county_fips": 47049,
+    "county_name": "Fentress",
+    "county_weights": "{\"47049\": 100}",
+    "county_names_all": "Fentress",
+    "county_fips_all": "47049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

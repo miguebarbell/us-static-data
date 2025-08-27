@@ -1,0 +1,20 @@
+{
+    "zip": 58243,
+    "lat": 48.51423,
+    "lng": -97.67956,
+    "city": "Hoople",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 563.0,
+    "density": 2.5,
+    "county_fips": 38099,
+    "county_name": "Walsh",
+    "county_weights": "{\"38099\": 79.48, \"38067\": 20.52}",
+    "county_names_all": "Walsh|Pembina",
+    "county_fips_all": "38099|38067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

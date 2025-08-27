@@ -1,0 +1,20 @@
+{
+    "zip": 57066,
+    "lat": 42.98874,
+    "lng": -97.86703,
+    "city": "Tyndall",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1401.0,
+    "density": 4.7,
+    "county_fips": 46009,
+    "county_name": "Bon Homme",
+    "county_weights": "{\"46009\": 100}",
+    "county_names_all": "Bon Homme",
+    "county_fips_all": "46009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

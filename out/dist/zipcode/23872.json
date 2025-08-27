@@ -1,0 +1,20 @@
+{
+    "zip": 23872,
+    "lat": 36.98351,
+    "lng": -77.72629,
+    "city": "McKenney",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2511.0,
+    "density": 9.7,
+    "county_fips": 51053,
+    "county_name": "Dinwiddie",
+    "county_weights": "{\"51053\": 100}",
+    "county_names_all": "Dinwiddie",
+    "county_fips_all": "51053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

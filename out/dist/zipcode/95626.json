@@ -1,0 +1,20 @@
+{
+    "zip": 95626,
+    "lat": 38.73378,
+    "lng": -121.48898,
+    "city": "Elverta",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4974.0,
+    "density": 50.9,
+    "county_fips": 6067,
+    "county_name": "Sacramento",
+    "county_weights": "{\"06067\": 57.51, \"06061\": 25.62, \"06101\": 16.87}",
+    "county_names_all": "Sacramento|Placer|Sutter",
+    "county_fips_all": "06067|06061|06101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 18615,
+    "lat": 41.45968,
+    "lng": -75.85752,
+    "city": "Falls",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1713.0,
+    "density": 37.4,
+    "county_fips": 42131,
+    "county_name": "Wyoming",
+    "county_weights": "{\"42131\": 92.65, \"42079\": 7.35}",
+    "county_names_all": "Wyoming|Luzerne",
+    "county_fips_all": "42131|42079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

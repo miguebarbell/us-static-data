@@ -1,0 +1,20 @@
+{
+    "zip": 42166,
+    "lat": 36.87768,
+    "lng": -85.71503,
+    "city": "Summer Shade",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2192.0,
+    "density": 12.0,
+    "county_fips": 21169,
+    "county_name": "Metcalfe",
+    "county_weights": "{\"21169\": 61.13, \"21009\": 24.4, \"21171\": 14.47}",
+    "county_names_all": "Metcalfe|Barren|Monroe",
+    "county_fips_all": "21169|21009|21171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

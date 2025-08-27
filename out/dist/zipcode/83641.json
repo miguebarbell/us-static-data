@@ -1,0 +1,20 @@
+{
+    "zip": 83641,
+    "lat": 43.35079,
+    "lng": -116.6357,
+    "city": "Melba",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3991.0,
+    "density": 6.8,
+    "county_fips": 16073,
+    "county_name": "Owyhee",
+    "county_weights": "{\"16073\": 61.0, \"16027\": 24.77, \"16001\": 14.23}",
+    "county_names_all": "Owyhee|Canyon|Ada",
+    "county_fips_all": "16073|16027|16001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49837,
+    "lat": 45.87129,
+    "lng": -87.09781,
+    "city": "Gladstone",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10007.0,
+    "density": 56.0,
+    "county_fips": 26041,
+    "county_name": "Delta",
+    "county_weights": "{\"26041\": 100}",
+    "county_names_all": "Delta",
+    "county_fips_all": "26041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 45335,
+    "lat": 39.63079,
+    "lng": -83.73353,
+    "city": "Jamestown",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7285.0,
+    "density": 34.2,
+    "county_fips": 39057,
+    "county_name": "Greene",
+    "county_weights": "{\"39057\": 92.96, \"39047\": 4.14, \"39027\": 2.9}",
+    "county_names_all": "Greene|Fayette|Clinton",
+    "county_fips_all": "39057|39047|39027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

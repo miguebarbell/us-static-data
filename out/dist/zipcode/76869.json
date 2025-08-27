@@ -1,0 +1,20 @@
+{
+    "zip": 76869,
+    "lat": 30.90951,
+    "lng": -98.97464,
+    "city": "Pontotoc",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11.0,
+    "density": 0.1,
+    "county_fips": 48411,
+    "county_name": "San Saba",
+    "county_weights": "{\"48411\": 39.1, \"48319\": 37.99, \"48299\": 22.91}",
+    "county_names_all": "San Saba|Mason|Llano",
+    "county_fips_all": "48411|48319|48299",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

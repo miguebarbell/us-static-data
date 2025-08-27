@@ -1,0 +1,20 @@
+{
+    "zip": 65047,
+    "lat": 38.15483,
+    "lng": -92.57774,
+    "city": "Kaiser",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1285.0,
+    "density": 16.1,
+    "county_fips": 29131,
+    "county_name": "Miller",
+    "county_weights": "{\"29131\": 76.44, \"29029\": 23.56}",
+    "county_names_all": "Miller|Camden",
+    "county_fips_all": "29131|29029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

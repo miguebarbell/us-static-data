@@ -1,0 +1,20 @@
+{
+    "zip": 79223,
+    "lat": 34.2317,
+    "lng": -100.48085,
+    "city": "Cee Vee",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 119.0,
+    "density": 2.7,
+    "county_fips": 48101,
+    "county_name": "Cottle",
+    "county_weights": "{\"48101\": 100}",
+    "county_names_all": "Cottle",
+    "county_fips_all": "48101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

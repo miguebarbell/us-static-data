@@ -1,0 +1,20 @@
+{
+    "zip": 68940,
+    "lat": 40.53815,
+    "lng": -99.25086,
+    "city": "Funk",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 476.0,
+    "density": 2.5,
+    "county_fips": 31137,
+    "county_name": "Phelps",
+    "county_weights": "{\"31137\": 100}",
+    "county_names_all": "Phelps",
+    "county_fips_all": "31137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

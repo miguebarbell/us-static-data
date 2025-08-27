@@ -1,0 +1,20 @@
+{
+    "zip": 55710,
+    "lat": 47.64542,
+    "lng": -92.69457,
+    "city": "Britt",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1391.0,
+    "density": 6.2,
+    "county_fips": 27137,
+    "county_name": "St. Louis",
+    "county_weights": "{\"27137\": 100}",
+    "county_names_all": "St. Louis",
+    "county_fips_all": "27137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

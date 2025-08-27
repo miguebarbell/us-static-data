@@ -1,0 +1,20 @@
+{
+    "zip": 79358,
+    "lat": 33.4321,
+    "lng": -102.20017,
+    "city": "Ropesville",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1458.0,
+    "density": 4.5,
+    "county_fips": 48219,
+    "county_name": "Hockley",
+    "county_weights": "{\"48219\": 86.46, \"48303\": 8.49, \"48445\": 5.05}",
+    "county_names_all": "Hockley|Lubbock|Terry",
+    "county_fips_all": "48219|48303|48445",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

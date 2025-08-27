@@ -1,0 +1,20 @@
+{
+    "zip": 25111,
+    "lat": 38.34841,
+    "lng": -81.12591,
+    "city": "Indore",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 211.0,
+    "density": 2.9,
+    "county_fips": 54015,
+    "county_name": "Clay",
+    "county_weights": "{\"54015\": 55.87, \"54067\": 44.13}",
+    "county_names_all": "Clay|Nicholas",
+    "county_fips_all": "54015|54067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

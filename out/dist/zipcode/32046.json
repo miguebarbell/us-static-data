@@ -1,0 +1,20 @@
+{
+    "zip": 32046,
+    "lat": 30.70253,
+    "lng": -81.91718,
+    "city": "Hilliard",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11259.0,
+    "density": 22.1,
+    "county_fips": 12089,
+    "county_name": "Nassau",
+    "county_weights": "{\"12089\": 100}",
+    "county_names_all": "Nassau",
+    "county_fips_all": "12089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

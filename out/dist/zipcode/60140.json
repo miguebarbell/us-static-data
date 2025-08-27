@@ -1,0 +1,20 @@
+{
+    "zip": 60140,
+    "lat": 42.08003,
+    "lng": -88.5086,
+    "city": "Hampshire",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21844.0,
+    "density": 104.1,
+    "county_fips": 17089,
+    "county_name": "Kane",
+    "county_weights": "{\"17089\": 94.55, \"17037\": 4.19, \"17111\": 1.26}",
+    "county_names_all": "Kane|DeKalb|McHenry",
+    "county_fips_all": "17089|17037|17111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

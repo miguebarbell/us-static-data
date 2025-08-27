@@ -1,0 +1,20 @@
+{
+    "zip": 53020,
+    "lat": 43.86231,
+    "lng": -88.01364,
+    "city": "Elkhart Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3553.0,
+    "density": 21.9,
+    "county_fips": 55117,
+    "county_name": "Sheboygan",
+    "county_weights": "{\"55117\": 95.29, \"55071\": 2.97, \"55015\": 1.74}",
+    "county_names_all": "Sheboygan|Manitowoc|Calumet",
+    "county_fips_all": "55117|55071|55015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

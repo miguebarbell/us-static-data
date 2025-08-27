@@ -1,0 +1,20 @@
+{
+    "zip": 37369,
+    "lat": 35.19908,
+    "lng": -84.47707,
+    "city": "Reliance",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 489.0,
+    "density": 1.7,
+    "county_fips": 47139,
+    "county_name": "Polk",
+    "county_weights": "{\"47139\": 90.47, \"47123\": 9.53}",
+    "county_names_all": "Polk|Monroe",
+    "county_fips_all": "47139|47123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

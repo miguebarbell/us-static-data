@@ -1,0 +1,20 @@
+{
+    "zip": 87528,
+    "lat": 36.79432,
+    "lng": -106.87989,
+    "city": "Dulce",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3236.0,
+    "density": 2.9,
+    "county_fips": 35039,
+    "county_name": "Rio Arriba",
+    "county_weights": "{\"35039\": 100}",
+    "county_names_all": "Rio Arriba",
+    "county_fips_all": "35039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

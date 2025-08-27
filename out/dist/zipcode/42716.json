@@ -1,0 +1,20 @@
+{
+    "zip": 42716,
+    "lat": 37.47495,
+    "lng": -85.61925,
+    "city": "Buffalo",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1640.0,
+    "density": 20.2,
+    "county_fips": 21123,
+    "county_name": "Larue",
+    "county_weights": "{\"21123\": 74.84, \"21087\": 14.82, \"21217\": 10.34}",
+    "county_names_all": "Larue|Green|Taylor",
+    "county_fips_all": "21123|21087|21217",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 16248,
+    "lat": 41.03412,
+    "lng": -79.50348,
+    "city": "Rimersburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3177.0,
+    "density": 21.7,
+    "county_fips": 42031,
+    "county_name": "Clarion",
+    "county_weights": "{\"42031\": 100}",
+    "county_names_all": "Clarion",
+    "county_fips_all": "42031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

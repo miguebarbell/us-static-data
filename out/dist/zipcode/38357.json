@@ -1,0 +1,20 @@
+{
+    "zip": 38357,
+    "lat": 35.04888,
+    "lng": -88.4112,
+    "city": "Michie",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3382.0,
+    "density": 19.9,
+    "county_fips": 47109,
+    "county_name": "McNairy",
+    "county_weights": "{\"47109\": 75.18, \"47071\": 24.82}",
+    "county_names_all": "McNairy|Hardin",
+    "county_fips_all": "47109|47071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

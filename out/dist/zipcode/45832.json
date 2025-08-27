@@ -1,0 +1,20 @@
+{
+    "zip": 45832,
+    "lat": 40.92779,
+    "lng": -84.7336,
+    "city": "Convoy",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3098.0,
+    "density": 17.4,
+    "county_fips": 39161,
+    "county_name": "Van Wert",
+    "county_weights": "{\"39161\": 96.67, \"39125\": 3.33}",
+    "county_names_all": "Van Wert|Paulding",
+    "county_fips_all": "39161|39125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 60421,
+    "lat": 41.40851,
+    "lng": -88.08936,
+    "city": "Elwood",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3786.0,
+    "density": 24.4,
+    "county_fips": 17197,
+    "county_name": "Will",
+    "county_weights": "{\"17197\": 100}",
+    "county_names_all": "Will",
+    "county_fips_all": "17197",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

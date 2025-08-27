@@ -1,0 +1,20 @@
+{
+    "zip": 56649,
+    "lat": 48.53122,
+    "lng": -93.13224,
+    "city": "International Falls",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8895.0,
+    "density": 12.0,
+    "county_fips": 27071,
+    "county_name": "Koochiching",
+    "county_weights": "{\"27071\": 54.86, \"27137\": 45.14}",
+    "county_names_all": "Koochiching|St. Louis",
+    "county_fips_all": "27071|27137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

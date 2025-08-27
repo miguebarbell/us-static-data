@@ -1,0 +1,20 @@
+{
+    "zip": 26681,
+    "lat": 38.22983,
+    "lng": -80.71905,
+    "city": "Nettie",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1098.0,
+    "density": 11.3,
+    "county_fips": 54067,
+    "county_name": "Nicholas",
+    "county_weights": "{\"54067\": 100}",
+    "county_names_all": "Nicholas",
+    "county_fips_all": "54067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

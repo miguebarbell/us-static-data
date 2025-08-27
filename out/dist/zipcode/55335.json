@@ -1,0 +1,20 @@
+{
+    "zip": 55335,
+    "lat": 44.52969,
+    "lng": -94.54621,
+    "city": "Gibbon",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1633.0,
+    "density": 5.7,
+    "county_fips": 27143,
+    "county_name": "Sibley",
+    "county_weights": "{\"27143\": 83.71, \"27103\": 16.29}",
+    "county_names_all": "Sibley|Nicollet",
+    "county_fips_all": "27143|27103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

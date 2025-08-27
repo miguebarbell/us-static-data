@@ -1,0 +1,20 @@
+{
+    "zip": 78015,
+    "lat": 29.7439,
+    "lng": -98.64785,
+    "city": "Boerne",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23548.0,
+    "density": 350.9,
+    "county_fips": 48259,
+    "county_name": "Kendall",
+    "county_weights": "{\"48259\": 46.81, \"48029\": 42.81, \"48091\": 10.38}",
+    "county_names_all": "Kendall|Bexar|Comal",
+    "county_fips_all": "48259|48029|48091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

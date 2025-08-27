@@ -1,0 +1,20 @@
+{
+    "zip": 59486,
+    "lat": 48.33709,
+    "lng": -112.35552,
+    "city": "Valier",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1196.0,
+    "density": 0.9,
+    "county_fips": 30073,
+    "county_name": "Pondera",
+    "county_weights": "{\"30073\": 100}",
+    "county_names_all": "Pondera",
+    "county_fips_all": "30073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 87122,
+    "lat": 35.18685,
+    "lng": -106.48827,
+    "city": "Albuquerque",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18776.0,
+    "density": 334.2,
+    "county_fips": 35001,
+    "county_name": "Bernalillo",
+    "county_weights": "{\"35001\": 97.27, \"35043\": 2.73}",
+    "county_names_all": "Bernalillo|Sandoval",
+    "county_fips_all": "35001|35043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

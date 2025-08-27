@@ -1,0 +1,20 @@
+{
+    "zip": 23850,
+    "lat": 37.16276,
+    "lng": -77.7434,
+    "city": "Ford",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 984.0,
+    "density": 8.3,
+    "county_fips": 51053,
+    "county_name": "Dinwiddie",
+    "county_weights": "{\"51053\": 70.45, \"51007\": 29.55}",
+    "county_names_all": "Dinwiddie|Amelia",
+    "county_fips_all": "51053|51007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72140,
+    "lat": 34.36052,
+    "lng": -91.1549,
+    "city": "Saint Charles",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 325.0,
+    "density": 8.8,
+    "county_fips": 5001,
+    "county_name": "Arkansas",
+    "county_weights": "{\"05001\": 100}",
+    "county_names_all": "Arkansas",
+    "county_fips_all": "05001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

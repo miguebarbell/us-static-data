@@ -1,0 +1,20 @@
+{
+    "zip": 43110,
+    "lat": 39.82825,
+    "lng": -82.80143,
+    "city": "Canal Winchester",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40896.0,
+    "density": 338.3,
+    "county_fips": 39045,
+    "county_name": "Fairfield",
+    "county_weights": "{\"39045\": 59.07, \"39049\": 39.01, \"39129\": 1.92}",
+    "county_names_all": "Fairfield|Franklin|Pickaway",
+    "county_fips_all": "39045|39049|39129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

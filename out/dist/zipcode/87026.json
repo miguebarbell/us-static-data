@@ -1,0 +1,20 @@
+{
+    "zip": 87026,
+    "lat": 34.97119,
+    "lng": -107.17556,
+    "city": "Laguna",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3465.0,
+    "density": 3.4,
+    "county_fips": 35006,
+    "county_name": "Cibola",
+    "county_weights": "{\"35006\": 49.49, \"35061\": 28.43, \"35001\": 22.08}",
+    "county_names_all": "Cibola|Valencia|Bernalillo",
+    "county_fips_all": "35006|35061|35001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 59070,
+    "lat": 45.36289,
+    "lng": -109.17961,
+    "city": "Roberts",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1472.0,
+    "density": 3.2,
+    "county_fips": 30009,
+    "county_name": "Carbon",
+    "county_weights": "{\"30009\": 100}",
+    "county_names_all": "Carbon",
+    "county_fips_all": "30009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

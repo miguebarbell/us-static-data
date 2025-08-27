@@ -1,0 +1,20 @@
+{
+    "zip": 15012,
+    "lat": 40.15871,
+    "lng": -79.81188,
+    "city": "Belle Vernon",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15294.0,
+    "density": 173.1,
+    "county_fips": 42129,
+    "county_name": "Westmoreland",
+    "county_weights": "{\"42129\": 84.62, \"42051\": 14.87, \"42125\": 0.51}",
+    "county_names_all": "Westmoreland|Fayette|Washington",
+    "county_fips_all": "42129|42051|42125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

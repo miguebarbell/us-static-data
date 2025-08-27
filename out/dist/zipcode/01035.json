@@ -1,0 +1,20 @@
+{
+    "zip": 1035,
+    "lat": 42.35563,
+    "lng": -72.5692,
+    "city": "Hadley",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5299.0,
+    "density": 88.6,
+    "county_fips": 25015,
+    "county_name": "Hampshire",
+    "county_weights": "{\"25015\": 100}",
+    "county_names_all": "Hampshire",
+    "county_fips_all": "25015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

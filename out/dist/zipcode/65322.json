@@ -1,0 +1,20 @@
+{
+    "zip": 65322,
+    "lat": 38.9729,
+    "lng": -92.95535,
+    "city": "Blackwater",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 704.0,
+    "density": 4.5,
+    "county_fips": 29053,
+    "county_name": "Cooper",
+    "county_weights": "{\"29053\": 100}",
+    "county_names_all": "Cooper",
+    "county_fips_all": "29053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 53051,
+    "lat": 43.14905,
+    "lng": -88.12348,
+    "city": "Menomonee Falls",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39000.0,
+    "density": 452.4,
+    "county_fips": 55133,
+    "county_name": "Waukesha",
+    "county_weights": "{\"55133\": 100}",
+    "county_names_all": "Waukesha",
+    "county_fips_all": "55133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

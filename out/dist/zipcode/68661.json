@@ -1,0 +1,20 @@
+{
+    "zip": 68661,
+    "lat": 41.49559,
+    "lng": -97.08347,
+    "city": "Schuyler",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7368.0,
+    "density": 19.6,
+    "county_fips": 31037,
+    "county_name": "Colfax",
+    "county_weights": "{\"31037\": 100}",
+    "county_names_all": "Colfax",
+    "county_fips_all": "31037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

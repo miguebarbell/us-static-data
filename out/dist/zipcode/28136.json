@@ -1,0 +1,20 @@
+{
+    "zip": 28136,
+    "lat": 35.4206,
+    "lng": -81.64241,
+    "city": "Polkville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 92.0,
+    "density": 454.4,
+    "county_fips": 37045,
+    "county_name": "Cleveland",
+    "county_weights": "{\"37045\": 100}",
+    "county_names_all": "Cleveland",
+    "county_fips_all": "37045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

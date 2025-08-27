@@ -1,0 +1,20 @@
+{
+    "zip": 29322,
+    "lat": 35.12254,
+    "lng": -82.13157,
+    "city": "Campobello",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10573.0,
+    "density": 70.5,
+    "county_fips": 45083,
+    "county_name": "Spartanburg",
+    "county_weights": "{\"45083\": 97.74, \"45045\": 2.26}",
+    "county_names_all": "Spartanburg|Greenville",
+    "county_fips_all": "45083|45045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

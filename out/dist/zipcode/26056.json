@@ -1,0 +1,20 @@
+{
+    "zip": 26056,
+    "lat": 40.5211,
+    "lng": -80.57022,
+    "city": "New Manchester",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 258.0,
+    "density": 44.2,
+    "county_fips": 54029,
+    "county_name": "Hancock",
+    "county_weights": "{\"54029\": 100}",
+    "county_names_all": "Hancock",
+    "county_fips_all": "54029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

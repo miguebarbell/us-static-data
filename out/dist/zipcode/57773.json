@@ -1,0 +1,20 @@
+{
+    "zip": 57773,
+    "lat": 43.59443,
+    "lng": -103.59246,
+    "city": "Pringle",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 198.0,
+    "density": 12.8,
+    "county_fips": 46033,
+    "county_name": "Custer",
+    "county_weights": "{\"46033\": 100}",
+    "county_names_all": "Custer",
+    "county_fips_all": "46033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

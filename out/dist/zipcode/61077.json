@@ -1,0 +1,20 @@
+{
+    "zip": 61077,
+    "lat": 42.24012,
+    "lng": -89.34806,
+    "city": "Seward",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 101.0,
+    "density": 49.1,
+    "county_fips": 17201,
+    "county_name": "Winnebago",
+    "county_weights": "{\"17201\": 100}",
+    "county_names_all": "Winnebago",
+    "county_fips_all": "17201",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

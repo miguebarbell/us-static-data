@@ -1,0 +1,20 @@
+{
+    "zip": 37865,
+    "lat": 35.84609,
+    "lng": -83.73974,
+    "city": "Seymour",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25113.0,
+    "density": 132.2,
+    "county_fips": 47155,
+    "county_name": "Sevier",
+    "county_weights": "{\"47155\": 69.3, \"47009\": 30.7}",
+    "county_names_all": "Sevier|Blount",
+    "county_fips_all": "47155|47009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 95640,
+    "lat": 38.33922,
+    "lng": -120.94024,
+    "city": "Ione",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12811.0,
+    "density": 37.6,
+    "county_fips": 6005,
+    "county_name": "Amador",
+    "county_weights": "{\"06005\": 99.69, \"06067\": 0.31}",
+    "county_names_all": "Amador|Sacramento",
+    "county_fips_all": "06005|06067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

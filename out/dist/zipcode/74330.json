@@ -1,0 +1,20 @@
+{
+    "zip": 74330,
+    "lat": 36.4404,
+    "lng": -95.26851,
+    "city": "Adair",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2471.0,
+    "density": 9.9,
+    "county_fips": 40097,
+    "county_name": "Mayes",
+    "county_weights": "{\"40097\": 94.89, \"40035\": 5.11}",
+    "county_names_all": "Mayes|Craig",
+    "county_fips_all": "40097|40035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

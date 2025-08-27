@@ -1,0 +1,20 @@
+{
+    "zip": 72210,
+    "lat": 34.71506,
+    "lng": -92.50378,
+    "city": "Little Rock",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14544.0,
+    "density": 113.5,
+    "county_fips": 5119,
+    "county_name": "Pulaski",
+    "county_weights": "{\"05119\": 72.84, \"05125\": 27.16}",
+    "county_names_all": "Pulaski|Saline",
+    "county_fips_all": "05119|05125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

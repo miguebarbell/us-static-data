@@ -1,0 +1,20 @@
+{
+    "zip": 28773,
+    "lat": 35.25246,
+    "lng": -82.31166,
+    "city": "Saluda",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3198.0,
+    "density": 25.6,
+    "county_fips": 37149,
+    "county_name": "Polk",
+    "county_weights": "{\"37149\": 73.43, \"37089\": 26.57}",
+    "county_names_all": "Polk|Henderson",
+    "county_fips_all": "37149|37089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

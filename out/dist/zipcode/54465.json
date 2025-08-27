@@ -1,0 +1,20 @@
+{
+    "zip": 54465,
+    "lat": 45.39327,
+    "lng": -88.88334,
+    "city": "Pickerel",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 720.0,
+    "density": 7.4,
+    "county_fips": 55041,
+    "county_name": "Forest",
+    "county_weights": "{\"55041\": 63.71, \"55067\": 36.29}",
+    "county_names_all": "Forest|Langlade",
+    "county_fips_all": "55041|55067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

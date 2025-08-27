@@ -1,0 +1,20 @@
+{
+    "zip": 77880,
+    "lat": 30.28283,
+    "lng": -96.1863,
+    "city": "Washington",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2954.0,
+    "density": 11.8,
+    "county_fips": 48477,
+    "county_name": "Washington",
+    "county_weights": "{\"48477\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "48477",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 44805,
+    "lat": 40.87335,
+    "lng": -82.32096,
+    "city": "Ashland",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31024.0,
+    "density": 79.3,
+    "county_fips": 39005,
+    "county_name": "Ashland",
+    "county_weights": "{\"39005\": 94.9, \"39139\": 5.1}",
+    "county_names_all": "Ashland|Richland",
+    "county_fips_all": "39005|39139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

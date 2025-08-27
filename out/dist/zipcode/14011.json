@@ -1,0 +1,20 @@
+{
+    "zip": 14011,
+    "lat": 42.83158,
+    "lng": -78.29784,
+    "city": "Attica",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7382.0,
+    "density": 41.8,
+    "county_fips": 36121,
+    "county_name": "Wyoming",
+    "county_weights": "{\"36121\": 89.85, \"36037\": 10.15}",
+    "county_names_all": "Wyoming|Genesee",
+    "county_fips_all": "36121|36037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

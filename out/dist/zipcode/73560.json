@@ -1,0 +1,20 @@
+{
+    "zip": 73560,
+    "lat": 34.54307,
+    "lng": -99.45024,
+    "city": "Olustee",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 738.0,
+    "density": 2.1,
+    "county_fips": 40065,
+    "county_name": "Jackson",
+    "county_weights": "{\"40065\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "40065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

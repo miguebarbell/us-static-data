@@ -1,0 +1,20 @@
+{
+    "zip": 85554,
+    "lat": 33.99679,
+    "lng": -110.97834,
+    "city": "Young",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 361.0,
+    "density": 0.2,
+    "county_fips": 4007,
+    "county_name": "Gila",
+    "county_weights": "{\"04007\": 100}",
+    "county_names_all": "Gila",
+    "county_fips_all": "04007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

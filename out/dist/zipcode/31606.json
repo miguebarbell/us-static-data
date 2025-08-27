@@ -1,0 +1,20 @@
+{
+    "zip": 31606,
+    "lat": 30.7963,
+    "lng": -83.18647,
+    "city": "Valdosta",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3391.0,
+    "density": 29.4,
+    "county_fips": 13185,
+    "county_name": "Lowndes",
+    "county_weights": "{\"13185\": 93.9, \"13101\": 6.1}",
+    "county_names_all": "Lowndes|Echols",
+    "county_fips_all": "13185|13101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

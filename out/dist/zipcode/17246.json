@@ -1,0 +1,20 @@
+{
+    "zip": 17246,
+    "lat": 40.0629,
+    "lng": -77.68255,
+    "city": "Pleasant Hall",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 598.0,
+    "density": 105.9,
+    "county_fips": 42055,
+    "county_name": "Franklin",
+    "county_weights": "{\"42055\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "42055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

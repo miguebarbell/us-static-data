@@ -1,0 +1,20 @@
+{
+    "zip": 45133,
+    "lat": 39.15695,
+    "lng": -83.57282,
+    "city": "Hillsboro",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23604.0,
+    "density": 29.0,
+    "county_fips": 39071,
+    "county_name": "Highland",
+    "county_weights": "{\"39071\": 96.66, \"39131\": 3.24, \"39015\": 0.1}",
+    "county_names_all": "Highland|Pike|Brown",
+    "county_fips_all": "39071|39131|39015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

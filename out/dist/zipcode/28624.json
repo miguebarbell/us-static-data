@@ -1,0 +1,20 @@
+{
+    "zip": 28624,
+    "lat": 36.11971,
+    "lng": -81.41327,
+    "city": "Ferguson",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1368.0,
+    "density": 9.0,
+    "county_fips": 37193,
+    "county_name": "Wilkes",
+    "county_weights": "{\"37193\": 99.63, \"37027\": 0.37}",
+    "county_names_all": "Wilkes|Caldwell",
+    "county_fips_all": "37193|37027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

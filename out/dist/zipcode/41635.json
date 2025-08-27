@@ -1,0 +1,20 @@
+{
+    "zip": 41635,
+    "lat": 37.48009,
+    "lng": -82.62831,
+    "city": "Harold",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3314.0,
+    "density": 58.8,
+    "county_fips": 21071,
+    "county_name": "Floyd",
+    "county_weights": "{\"21071\": 100}",
+    "county_names_all": "Floyd",
+    "county_fips_all": "21071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

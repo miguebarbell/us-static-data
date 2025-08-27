@@ -1,0 +1,20 @@
+{
+    "zip": 44510,
+    "lat": 41.12246,
+    "lng": -80.67424,
+    "city": "Youngstown",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2091.0,
+    "density": 421.2,
+    "county_fips": 39099,
+    "county_name": "Mahoning",
+    "county_weights": "{\"39099\": 100}",
+    "county_names_all": "Mahoning",
+    "county_fips_all": "39099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

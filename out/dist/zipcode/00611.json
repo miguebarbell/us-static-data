@@ -1,0 +1,20 @@
+{
+    "zip": 611,
+    "lat": 18.27698,
+    "lng": -66.80688,
+    "city": "Angeles",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1522.0,
+    "density": 55.2,
+    "county_fips": 72141,
+    "county_name": "Utuado",
+    "county_weights": "{\"72141\": 100}",
+    "county_names_all": "Utuado",
+    "county_fips_all": "72141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

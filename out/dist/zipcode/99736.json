@@ -1,0 +1,20 @@
+{
+    "zip": 99736,
+    "lat": 66.07222,
+    "lng": -162.74349,
+    "city": "Deering",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 205.0,
+    "density": 15.8,
+    "county_fips": 2188,
+    "county_name": "Northwest Arctic",
+    "county_weights": "{\"02188\": 100}",
+    "county_names_all": "Northwest Arctic",
+    "county_fips_all": "02188",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Nome"
+}

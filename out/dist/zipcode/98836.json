@@ -1,0 +1,20 @@
+{
+    "zip": 98836,
+    "lat": 47.47615,
+    "lng": -120.42909,
+    "city": "Monitor",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 789.0,
+    "density": 42.6,
+    "county_fips": 53007,
+    "county_name": "Chelan",
+    "county_weights": "{\"53007\": 100}",
+    "county_names_all": "Chelan",
+    "county_fips_all": "53007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

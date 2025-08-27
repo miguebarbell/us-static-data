@@ -1,0 +1,20 @@
+{
+    "zip": 2832,
+    "lat": 41.50469,
+    "lng": -71.72807,
+    "city": "Hope Valley",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4950.0,
+    "density": 77.1,
+    "county_fips": 44009,
+    "county_name": "Washington",
+    "county_weights": "{\"44009\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "44009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

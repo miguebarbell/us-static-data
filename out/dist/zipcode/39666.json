@@ -1,0 +1,20 @@
+{
+    "zip": 39666,
+    "lat": 31.2853,
+    "lng": -90.48857,
+    "city": "Summit",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11985.0,
+    "density": 28.3,
+    "county_fips": 28113,
+    "county_name": "Pike",
+    "county_weights": "{\"28113\": 59.51, \"28005\": 30.1, \"28085\": 10.39}",
+    "county_names_all": "Pike|Amite|Lincoln",
+    "county_fips_all": "28113|28005|28085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

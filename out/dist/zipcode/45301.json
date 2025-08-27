@@ -1,0 +1,20 @@
+{
+    "zip": 45301,
+    "lat": 39.71098,
+    "lng": -84.02301,
+    "city": "Alpha",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 201.0,
+    "density": 699.9,
+    "county_fips": 39057,
+    "county_name": "Greene",
+    "county_weights": "{\"39057\": 100}",
+    "county_names_all": "Greene",
+    "county_fips_all": "39057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

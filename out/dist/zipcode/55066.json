@@ -1,0 +1,20 @@
+{
+    "zip": 55066,
+    "lat": 44.51581,
+    "lng": -92.5441,
+    "city": "Red Wing",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19125.0,
+    "density": 61.1,
+    "county_fips": 27049,
+    "county_name": "Goodhue",
+    "county_weights": "{\"27049\": 100}",
+    "county_names_all": "Goodhue",
+    "county_fips_all": "27049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

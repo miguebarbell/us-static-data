@@ -1,0 +1,20 @@
+{
+    "zip": 67451,
+    "lat": 38.70094,
+    "lng": -97.13157,
+    "city": "Hope",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 915.0,
+    "density": 2.5,
+    "county_fips": 20041,
+    "county_name": "Dickinson",
+    "county_weights": "{\"20041\": 98.79, \"20115\": 1.21}",
+    "county_names_all": "Dickinson|Marion",
+    "county_fips_all": "20041|20115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

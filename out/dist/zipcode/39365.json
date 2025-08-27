@@ -1,0 +1,20 @@
+{
+    "zip": 39365,
+    "lat": 32.60486,
+    "lng": -89.12225,
+    "city": "Union",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7976.0,
+    "density": 16.0,
+    "county_fips": 28099,
+    "county_name": "Neshoba",
+    "county_weights": "{\"28099\": 71.03, \"28101\": 28.26, \"28079\": 0.55, \"28069\": 0.16}",
+    "county_names_all": "Neshoba|Newton|Leake|Kemper",
+    "county_fips_all": "28099|28101|28079|28069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

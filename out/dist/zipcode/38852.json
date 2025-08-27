@@ -1,0 +1,20 @@
+{
+    "zip": 38852,
+    "lat": 34.84484,
+    "lng": -88.21598,
+    "city": "Iuka",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8719.0,
+    "density": 17.0,
+    "county_fips": 28141,
+    "county_name": "Tishomingo",
+    "county_weights": "{\"28141\": 99.7, \"01033\": 0.3}",
+    "county_names_all": "Tishomingo|Colbert",
+    "county_fips_all": "28141|01033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

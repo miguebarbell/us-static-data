@@ -1,0 +1,20 @@
+{
+    "zip": 18602,
+    "lat": 41.18749,
+    "lng": -75.75526,
+    "city": "Bear Creek",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 356.0,
+    "density": 72.5,
+    "county_fips": 42079,
+    "county_name": "Luzerne",
+    "county_weights": "{\"42079\": 100}",
+    "county_names_all": "Luzerne",
+    "county_fips_all": "42079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

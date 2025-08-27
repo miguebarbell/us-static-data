@@ -1,0 +1,20 @@
+{
+    "zip": 47433,
+    "lat": 39.35569,
+    "lng": -86.655,
+    "city": "Gosport",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3722.0,
+    "density": 18.2,
+    "county_fips": 18119,
+    "county_name": "Owen",
+    "county_weights": "{\"18119\": 55.19, \"18105\": 30.24, \"18109\": 14.57}",
+    "county_names_all": "Owen|Monroe|Morgan",
+    "county_fips_all": "18119|18105|18109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 63459,
+    "lat": 39.58392,
+    "lng": -91.3795,
+    "city": "New London",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4736.0,
+    "density": 13.1,
+    "county_fips": 29173,
+    "county_name": "Ralls",
+    "county_weights": "{\"29173\": 91.45, \"29163\": 8.55}",
+    "county_names_all": "Ralls|Pike",
+    "county_fips_all": "29173|29163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

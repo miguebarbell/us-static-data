@@ -1,0 +1,20 @@
+{
+    "zip": 41527,
+    "lat": 37.63187,
+    "lng": -82.29378,
+    "city": "Forest Hills",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 594.0,
+    "density": 58.3,
+    "county_fips": 21195,
+    "county_name": "Pike",
+    "county_weights": "{\"21195\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "21195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

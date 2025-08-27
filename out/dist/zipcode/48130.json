@@ -1,0 +1,20 @@
+{
+    "zip": 48130,
+    "lat": 42.3547,
+    "lng": -83.90272,
+    "city": "Dexter",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16849.0,
+    "density": 101.6,
+    "county_fips": 26161,
+    "county_name": "Washtenaw",
+    "county_weights": "{\"26161\": 100}",
+    "county_names_all": "Washtenaw",
+    "county_fips_all": "26161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

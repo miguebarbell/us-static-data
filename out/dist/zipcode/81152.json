@@ -1,0 +1,20 @@
+{
+    "zip": 81152,
+    "lat": 37.12609,
+    "lng": -105.39411,
+    "city": "San Luis",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1203.0,
+    "density": 1.0,
+    "county_fips": 8023,
+    "county_name": "Costilla",
+    "county_weights": "{\"08023\": 100}",
+    "county_names_all": "Costilla",
+    "county_fips_all": "08023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

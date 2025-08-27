@@ -1,0 +1,20 @@
+{
+    "zip": 29650,
+    "lat": 34.89805,
+    "lng": -82.25826,
+    "city": "Greer",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41272.0,
+    "density": 886.7,
+    "county_fips": 45045,
+    "county_name": "Greenville",
+    "county_weights": "{\"45045\": 98.74, \"45083\": 1.26}",
+    "county_names_all": "Greenville|Spartanburg",
+    "county_fips_all": "45045|45083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

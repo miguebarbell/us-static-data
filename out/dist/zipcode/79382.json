@@ -1,0 +1,20 @@
+{
+    "zip": 79382,
+    "lat": 33.46578,
+    "lng": -102.02282,
+    "city": "Wolfforth",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10300.0,
+    "density": 77.8,
+    "county_fips": 48303,
+    "county_name": "Lubbock",
+    "county_weights": "{\"48303\": 94.39, \"48219\": 5.61}",
+    "county_names_all": "Lubbock|Hockley",
+    "county_fips_all": "48303|48219",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

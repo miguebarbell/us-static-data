@@ -1,0 +1,20 @@
+{
+    "zip": 58647,
+    "lat": 46.51695,
+    "lng": -102.93466,
+    "city": "New England",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1120.0,
+    "density": 0.9,
+    "county_fips": 38087,
+    "county_name": "Slope",
+    "county_weights": "{\"38087\": 47.37, \"38041\": 44.44, \"38089\": 8.19}",
+    "county_names_all": "Slope|Hettinger|Stark",
+    "county_fips_all": "38087|38041|38089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

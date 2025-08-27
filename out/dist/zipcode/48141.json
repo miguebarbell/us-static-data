@@ -1,0 +1,20 @@
+{
+    "zip": 48141,
+    "lat": 42.29349,
+    "lng": -83.31483,
+    "city": "Inkster",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25602.0,
+    "density": 1580.9,
+    "county_fips": 26163,
+    "county_name": "Wayne",
+    "county_weights": "{\"26163\": 100}",
+    "county_names_all": "Wayne",
+    "county_fips_all": "26163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

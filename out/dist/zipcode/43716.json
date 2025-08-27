@@ -1,0 +1,20 @@
+{
+    "zip": 43716,
+    "lat": 39.83683,
+    "lng": -81.00752,
+    "city": "Beallsville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1970.0,
+    "density": 11.7,
+    "county_fips": 39111,
+    "county_name": "Monroe",
+    "county_weights": "{\"39111\": 72.36, \"39013\": 27.64}",
+    "county_names_all": "Monroe|Belmont",
+    "county_fips_all": "39111|39013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

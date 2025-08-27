@@ -1,0 +1,20 @@
+{
+    "zip": 84113,
+    "lat": 40.76248,
+    "lng": -111.83291,
+    "city": "Salt Lake City",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 256.0,
+    "density": 513.0,
+    "county_fips": 49035,
+    "county_name": "Salt Lake",
+    "county_weights": "{\"49035\": 100}",
+    "county_names_all": "Salt Lake",
+    "county_fips_all": "49035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

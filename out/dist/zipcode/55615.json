@@ -1,0 +1,20 @@
+{
+    "zip": 55615,
+    "lat": 47.74561,
+    "lng": -90.87695,
+    "city": "Tofte",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 405.0,
+    "density": 0.8,
+    "county_fips": 27031,
+    "county_name": "Cook",
+    "county_weights": "{\"27031\": 100}",
+    "county_names_all": "Cook",
+    "county_fips_all": "27031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

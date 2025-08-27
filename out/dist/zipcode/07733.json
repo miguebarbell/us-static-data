@@ -1,0 +1,20 @@
+{
+    "zip": 7733,
+    "lat": 40.37683,
+    "lng": -74.17259,
+    "city": "Holmdel",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17113.0,
+    "density": 371.8,
+    "county_fips": 34025,
+    "county_name": "Monmouth",
+    "county_weights": "{\"34025\": 100}",
+    "county_names_all": "Monmouth",
+    "county_fips_all": "34025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

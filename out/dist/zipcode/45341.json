@@ -1,0 +1,20 @@
+{
+    "zip": 45341,
+    "lat": 39.87589,
+    "lng": -84.02045,
+    "city": "Medway",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3702.0,
+    "density": 223.2,
+    "county_fips": 39023,
+    "county_name": "Clark",
+    "county_weights": "{\"39023\": 99.89, \"39057\": 0.11}",
+    "county_names_all": "Clark|Greene",
+    "county_fips_all": "39023|39057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

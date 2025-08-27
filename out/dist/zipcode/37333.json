@@ -1,0 +1,20 @@
+{
+    "zip": 37333,
+    "lat": 35.14844,
+    "lng": -84.35981,
+    "city": "Farner",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 531.0,
+    "density": 10.2,
+    "county_fips": 47139,
+    "county_name": "Polk",
+    "county_weights": "{\"47139\": 100}",
+    "county_names_all": "Polk",
+    "county_fips_all": "47139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

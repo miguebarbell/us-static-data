@@ -1,0 +1,20 @@
+{
+    "zip": 56720,
+    "lat": 48.56788,
+    "lng": -96.90632,
+    "city": "Donaldson",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7.0,
+    "density": 0.3,
+    "county_fips": 27069,
+    "county_name": "Kittson",
+    "county_weights": "{\"27069\": 100}",
+    "county_names_all": "Kittson",
+    "county_fips_all": "27069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

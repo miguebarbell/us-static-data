@@ -1,0 +1,20 @@
+{
+    "zip": 74454,
+    "lat": 35.85464,
+    "lng": -95.51253,
+    "city": "Porter",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3013.0,
+    "density": 11.0,
+    "county_fips": 40145,
+    "county_name": "Wagoner",
+    "county_weights": "{\"40145\": 100}",
+    "county_names_all": "Wagoner",
+    "county_fips_all": "40145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

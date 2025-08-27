@@ -1,0 +1,20 @@
+{
+    "zip": 27043,
+    "lat": 36.33709,
+    "lng": -80.44917,
+    "city": "Pinnacle",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6885.0,
+    "density": 38.9,
+    "county_fips": 37169,
+    "county_name": "Stokes",
+    "county_weights": "{\"37169\": 52.27, \"37171\": 47.09, \"37067\": 0.64}",
+    "county_names_all": "Stokes|Surry|Forsyth",
+    "county_fips_all": "37169|37171|37067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

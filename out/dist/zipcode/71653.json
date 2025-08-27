@@ -1,0 +1,20 @@
+{
+    "zip": 71653,
+    "lat": 33.36919,
+    "lng": -91.27676,
+    "city": "Lake Village",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4765.0,
+    "density": 7.1,
+    "county_fips": 5017,
+    "county_name": "Chicot",
+    "county_weights": "{\"05017\": 100}",
+    "county_names_all": "Chicot",
+    "county_fips_all": "05017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

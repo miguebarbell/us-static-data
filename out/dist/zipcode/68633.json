@@ -1,0 +1,20 @@
+{
+    "zip": 68633,
+    "lat": 41.70585,
+    "lng": -96.89668,
+    "city": "Dodge",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1005.0,
+    "density": 4.0,
+    "county_fips": 31053,
+    "county_name": "Dodge",
+    "county_weights": "{\"31053\": 48.01, \"31039\": 32.22, \"31037\": 19.78}",
+    "county_names_all": "Dodge|Cuming|Colfax",
+    "county_fips_all": "31053|31039|31037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

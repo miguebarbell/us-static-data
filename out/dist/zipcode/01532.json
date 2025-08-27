@@ -1,0 +1,20 @@
+{
+    "zip": 1532,
+    "lat": 42.32314,
+    "lng": -71.64621,
+    "city": "Northborough",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15694.0,
+    "density": 328.0,
+    "county_fips": 25027,
+    "county_name": "Worcester",
+    "county_weights": "{\"25027\": 100}",
+    "county_names_all": "Worcester",
+    "county_fips_all": "25027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

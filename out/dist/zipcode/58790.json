@@ -1,0 +1,20 @@
+{
+    "zip": 58790,
+    "lat": 48.03071,
+    "lng": -100.93952,
+    "city": "Velva",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1500.0,
+    "density": 3.1,
+    "county_fips": 38049,
+    "county_name": "McHenry",
+    "county_weights": "{\"38049\": 78.72, \"38101\": 21.28}",
+    "county_names_all": "McHenry|Ward",
+    "county_fips_all": "38049|38101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

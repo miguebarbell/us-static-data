@@ -1,0 +1,20 @@
+{
+    "zip": 8721,
+    "lat": 39.9071,
+    "lng": -74.1846,
+    "city": "Bayville",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22464.0,
+    "density": 365.2,
+    "county_fips": 34029,
+    "county_name": "Ocean",
+    "county_weights": "{\"34029\": 100}",
+    "county_names_all": "Ocean",
+    "county_fips_all": "34029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

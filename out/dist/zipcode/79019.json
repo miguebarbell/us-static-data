@@ -1,0 +1,20 @@
+{
+    "zip": 79019,
+    "lat": 34.98099,
+    "lng": -101.39288,
+    "city": "Claude",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1745.0,
+    "density": 1.2,
+    "county_fips": 48011,
+    "county_name": "Armstrong",
+    "county_weights": "{\"48011\": 97.05, \"48381\": 2.95}",
+    "county_names_all": "Armstrong|Randall",
+    "county_fips_all": "48011|48381",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

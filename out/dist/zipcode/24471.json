@@ -1,0 +1,20 @@
+{
+    "zip": 24471,
+    "lat": 38.30837,
+    "lng": -78.79645,
+    "city": "Port Republic",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1795.0,
+    "density": 42.1,
+    "county_fips": 51165,
+    "county_name": "Rockingham",
+    "county_weights": "{\"51165\": 100}",
+    "county_names_all": "Rockingham",
+    "county_fips_all": "51165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 61818,
+    "lat": 39.88455,
+    "lng": -88.71798,
+    "city": "Cerro Gordo",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1608.0,
+    "density": 15.9,
+    "county_fips": 17147,
+    "county_name": "Piatt",
+    "county_weights": "{\"17147\": 85.57, \"17115\": 14.43}",
+    "county_names_all": "Piatt|Macon",
+    "county_fips_all": "17147|17115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

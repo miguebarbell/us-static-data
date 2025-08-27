@@ -1,0 +1,20 @@
+{
+    "zip": 41149,
+    "lat": 38.06008,
+    "lng": -83.05438,
+    "city": "Isonville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 485.0,
+    "density": 6.7,
+    "county_fips": 21063,
+    "county_name": "Elliott",
+    "county_weights": "{\"21063\": 100}",
+    "county_names_all": "Elliott",
+    "county_fips_all": "21063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

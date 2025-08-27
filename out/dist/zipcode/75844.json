@@ -1,0 +1,20 @@
+{
+    "zip": 75844,
+    "lat": 31.51921,
+    "lng": -95.43481,
+    "city": "Grapeland",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5004.0,
+    "density": 5.5,
+    "county_fips": 48225,
+    "county_name": "Houston",
+    "county_weights": "{\"48225\": 82.23, \"48001\": 17.77}",
+    "county_names_all": "Houston|Anderson",
+    "county_fips_all": "48225|48001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

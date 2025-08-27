@@ -1,0 +1,20 @@
+{
+    "zip": 6073,
+    "lat": 41.65753,
+    "lng": -72.56742,
+    "city": "South Glastonbury",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5825.0,
+    "density": 154.9,
+    "county_fips": 9110,
+    "county_name": "Capitol",
+    "county_weights": "{\"09110\": 100}",
+    "county_names_all": "Capitol",
+    "county_fips_all": "09110",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

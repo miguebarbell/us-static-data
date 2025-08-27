@@ -1,0 +1,20 @@
+{
+    "zip": 30708,
+    "lat": 34.93985,
+    "lng": -84.66754,
+    "city": "Cisco",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 284.0,
+    "density": 3.1,
+    "county_fips": 13213,
+    "county_name": "Murray",
+    "county_weights": "{\"13213\": 100}",
+    "county_names_all": "Murray",
+    "county_fips_all": "13213",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

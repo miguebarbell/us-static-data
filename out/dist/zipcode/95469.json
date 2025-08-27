@@ -1,0 +1,20 @@
+{
+    "zip": 95469,
+    "lat": 39.38853,
+    "lng": -123.05972,
+    "city": "Potter Valley",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1503.0,
+    "density": 3.1,
+    "county_fips": 6045,
+    "county_name": "Mendocino",
+    "county_weights": "{\"06045\": 62.1, \"06033\": 37.9}",
+    "county_names_all": "Mendocino|Lake",
+    "county_fips_all": "06045|06033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

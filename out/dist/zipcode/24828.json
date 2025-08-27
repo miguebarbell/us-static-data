@@ -1,0 +1,20 @@
+{
+    "zip": 24828,
+    "lat": 37.49975,
+    "lng": -81.6553,
+    "city": "Davy",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 642.0,
+    "density": 16.5,
+    "county_fips": 54047,
+    "county_name": "McDowell",
+    "county_weights": "{\"54047\": 86.15, \"54109\": 13.85}",
+    "county_names_all": "McDowell|Wyoming",
+    "county_fips_all": "54047|54109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

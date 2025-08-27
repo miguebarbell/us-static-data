@@ -1,0 +1,20 @@
+{
+    "zip": 29356,
+    "lat": 35.14411,
+    "lng": -82.26187,
+    "city": "Landrum",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8782.0,
+    "density": 41.3,
+    "county_fips": 45045,
+    "county_name": "Greenville",
+    "county_weights": "{\"45045\": 75.99, \"45083\": 24.01}",
+    "county_names_all": "Greenville|Spartanburg",
+    "county_fips_all": "45045|45083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

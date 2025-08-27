@@ -1,0 +1,17 @@
+{
+    "zip": [
+        "70601",
+        "70605",
+        "70607",
+        "70609",
+        "70611",
+        "70615",
+        "70629"
+    ],
+    "city": "Lake Charles",
+    "state": "LA",
+    "lat": 29.98272,
+    "lng": -90.16881,
+    "state_name": "Louisiana",
+    "timezone": "America/Chicago"
+}

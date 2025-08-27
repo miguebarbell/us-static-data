@@ -1,0 +1,20 @@
+{
+    "zip": 54217,
+    "lat": 44.54694,
+    "lng": -87.71748,
+    "city": "Luxemburg",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7736.0,
+    "density": 26.7,
+    "county_fips": 55061,
+    "county_name": "Kewaunee",
+    "county_weights": "{\"55061\": 80.25, \"55009\": 11.81, \"55029\": 7.94}",
+    "county_names_all": "Kewaunee|Brown|Door",
+    "county_fips_all": "55061|55009|55029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

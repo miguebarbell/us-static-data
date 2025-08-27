@@ -1,0 +1,20 @@
+{
+    "zip": 63539,
+    "lat": 39.9279,
+    "lng": -92.76781,
+    "city": "Ethel",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 195.0,
+    "density": 1.3,
+    "county_fips": 29121,
+    "county_name": "Macon",
+    "county_weights": "{\"29121\": 100}",
+    "county_names_all": "Macon",
+    "county_fips_all": "29121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 50230,
+    "lat": 42.30655,
+    "lng": -93.44718,
+    "city": "Radcliffe",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1083.0,
+    "density": 4.7,
+    "county_fips": 19083,
+    "county_name": "Hardin",
+    "county_weights": "{\"19083\": 61.02, \"19079\": 38.43, \"19169\": 0.55}",
+    "county_names_all": "Hardin|Hamilton|Story",
+    "county_fips_all": "19083|19079|19169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

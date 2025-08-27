@@ -1,0 +1,20 @@
+{
+    "zip": 40601,
+    "lat": 38.23294,
+    "lng": -84.88327,
+    "city": "Frankfort",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 51627.0,
+    "density": 91.6,
+    "county_fips": 21073,
+    "county_name": "Franklin",
+    "county_weights": "{\"21073\": 88.89, \"21239\": 5.8, \"21211\": 4.38, \"21103\": 0.93}",
+    "county_names_all": "Franklin|Woodford|Shelby|Henry",
+    "county_fips_all": "21073|21239|21211|21103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 99026,
+    "lat": 47.80375,
+    "lng": -117.625,
+    "city": "Nine Mile Falls",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9206.0,
+    "density": 56.3,
+    "county_fips": 53063,
+    "county_name": "Spokane",
+    "county_weights": "{\"53063\": 75.63, \"53065\": 24.37}",
+    "county_names_all": "Spokane|Stevens",
+    "county_fips_all": "53063|53065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

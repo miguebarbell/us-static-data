@@ -1,0 +1,20 @@
+{
+    "zip": 76873,
+    "lat": 31.50459,
+    "lng": -99.3696,
+    "city": "Rockwood",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 89.0,
+    "density": 0.7,
+    "county_fips": 48083,
+    "county_name": "Coleman",
+    "county_weights": "{\"48083\": 100}",
+    "county_names_all": "Coleman",
+    "county_fips_all": "48083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

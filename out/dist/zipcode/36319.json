@@ -1,0 +1,20 @@
+{
+    "zip": 36319,
+    "lat": 31.32367,
+    "lng": -85.14931,
+    "city": "Columbia",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2406.0,
+    "density": 8.9,
+    "county_fips": 1067,
+    "county_name": "Henry",
+    "county_weights": "{\"01067\": 60.45, \"01069\": 39.55}",
+    "county_names_all": "Henry|Houston",
+    "county_fips_all": "01067|01069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

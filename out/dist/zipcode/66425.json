@@ -1,0 +1,20 @@
+{
+    "zip": 66425,
+    "lat": 39.81099,
+    "lng": -95.72225,
+    "city": "Fairview",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 391.0,
+    "density": 3.5,
+    "county_fips": 20013,
+    "county_name": "Brown",
+    "county_weights": "{\"20013\": 100}",
+    "county_names_all": "Brown",
+    "county_fips_all": "20013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

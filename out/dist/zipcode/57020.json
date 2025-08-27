@@ -1,0 +1,20 @@
+{
+    "zip": 57020,
+    "lat": 43.67796,
+    "lng": -96.82665,
+    "city": "Crooks",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1553.0,
+    "density": 33.6,
+    "county_fips": 46099,
+    "county_name": "Minnehaha",
+    "county_weights": "{\"46099\": 100}",
+    "county_names_all": "Minnehaha",
+    "county_fips_all": "46099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

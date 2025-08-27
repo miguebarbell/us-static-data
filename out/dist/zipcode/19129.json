@@ -1,0 +1,20 @@
+{
+    "zip": 19129,
+    "lat": 40.01338,
+    "lng": -75.18454,
+    "city": "Philadelphia",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11812.0,
+    "density": 2223.3,
+    "county_fips": 42101,
+    "county_name": "Philadelphia",
+    "county_weights": "{\"42101\": 100}",
+    "county_names_all": "Philadelphia",
+    "county_fips_all": "42101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

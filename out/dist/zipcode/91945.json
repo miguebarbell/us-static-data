@@ -1,0 +1,20 @@
+{
+    "zip": 91945,
+    "lat": 32.73315,
+    "lng": -117.03402,
+    "city": "Lemon Grove",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27531.0,
+    "density": 2689.1,
+    "county_fips": 6073,
+    "county_name": "San Diego",
+    "county_weights": "{\"06073\": 100}",
+    "county_names_all": "San Diego",
+    "county_fips_all": "06073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

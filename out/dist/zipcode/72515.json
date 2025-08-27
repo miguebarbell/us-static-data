@@ -1,0 +1,20 @@
+{
+    "zip": 72515,
+    "lat": 36.27634,
+    "lng": -92.05644,
+    "city": "Bexar",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 5049,
+    "county_name": "Fulton",
+    "county_weights": "{\"05049\": 99.8, \"05065\": 0.2}",
+    "county_names_all": "Fulton|Izard",
+    "county_fips_all": "05049|05065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 63870,
+    "lat": 36.61942,
+    "lng": -89.84471,
+    "city": "Parma",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1058.0,
+    "density": 4.9,
+    "county_fips": 29143,
+    "county_name": "New Madrid",
+    "county_weights": "{\"29143\": 64.17, \"29207\": 35.83}",
+    "county_names_all": "New Madrid|Stoddard",
+    "county_fips_all": "29143|29207",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

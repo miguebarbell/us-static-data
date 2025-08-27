@@ -1,0 +1,20 @@
+{
+    "zip": 676,
+    "lat": 18.37897,
+    "lng": -67.08098,
+    "city": "Moca",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36836.0,
+    "density": 291.1,
+    "county_fips": 72099,
+    "county_name": "Moca",
+    "county_weights": "{\"72099\": 99.19, \"72003\": 0.81}",
+    "county_names_all": "Moca|Aguada",
+    "county_fips_all": "72099|72003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

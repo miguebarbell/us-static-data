@@ -1,0 +1,20 @@
+{
+    "zip": 88025,
+    "lat": 33.10087,
+    "lng": -108.71984,
+    "city": "Buckhorn",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 98.0,
+    "density": 0.3,
+    "county_fips": 35017,
+    "county_name": "Grant",
+    "county_weights": "{\"35017\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "35017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

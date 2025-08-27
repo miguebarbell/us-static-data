@@ -1,0 +1,20 @@
+{
+    "zip": 50577,
+    "lat": 42.85774,
+    "lng": -93.97902,
+    "city": "Renwick",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 361.0,
+    "density": 3.6,
+    "county_fips": 19091,
+    "county_name": "Humboldt",
+    "county_weights": "{\"19091\": 57.19, \"19197\": 42.81}",
+    "county_names_all": "Humboldt|Wright",
+    "county_fips_all": "19091|19197",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

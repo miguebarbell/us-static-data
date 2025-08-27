@@ -1,0 +1,20 @@
+{
+    "zip": 68861,
+    "lat": 40.69892,
+    "lng": -99.2639,
+    "city": "Odessa",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 116.0,
+    "density": 51.0,
+    "county_fips": 31019,
+    "county_name": "Buffalo",
+    "county_weights": "{\"31019\": 100}",
+    "county_names_all": "Buffalo",
+    "county_fips_all": "31019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

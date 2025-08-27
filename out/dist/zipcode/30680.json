@@ -1,0 +1,20 @@
+{
+    "zip": 30680,
+    "lat": 33.99725,
+    "lng": -83.69743,
+    "city": "Winder",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 47433.0,
+    "density": 192.9,
+    "county_fips": 13013,
+    "county_name": "Barrow",
+    "county_weights": "{\"13013\": 94.56, \"13157\": 3.18, \"13219\": 2.26}",
+    "county_names_all": "Barrow|Jackson|Oconee",
+    "county_fips_all": "13013|13157|13219",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 63034,
+    "lat": 38.84795,
+    "lng": -90.28692,
+    "city": "Florissant",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19557.0,
+    "density": 403.2,
+    "county_fips": 29189,
+    "county_name": "St. Louis",
+    "county_weights": "{\"29189\": 100}",
+    "county_names_all": "St. Louis",
+    "county_fips_all": "29189",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

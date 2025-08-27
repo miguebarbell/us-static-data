@@ -1,0 +1,20 @@
+{
+    "zip": 38645,
+    "lat": 34.2469,
+    "lng": -90.47663,
+    "city": "Lyon",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 831.0,
+    "density": 5.1,
+    "county_fips": 28027,
+    "county_name": "Coahoma",
+    "county_weights": "{\"28027\": 82.62, \"28119\": 17.38}",
+    "county_names_all": "Coahoma|Quitman",
+    "county_fips_all": "28027|28119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 13073,
+    "lat": 42.58514,
+    "lng": -76.39832,
+    "city": "Groton",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6246.0,
+    "density": 43.8,
+    "county_fips": 36109,
+    "county_name": "Tompkins",
+    "county_weights": "{\"36109\": 97.58, \"36011\": 2.42}",
+    "county_names_all": "Tompkins|Cayuga",
+    "county_fips_all": "36109|36011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

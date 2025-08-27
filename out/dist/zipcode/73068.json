@@ -1,0 +1,20 @@
+{
+    "zip": 73068,
+    "lat": 35.1384,
+    "lng": -97.28264,
+    "city": "Noble",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12003.0,
+    "density": 71.8,
+    "county_fips": 40027,
+    "county_name": "Cleveland",
+    "county_weights": "{\"40027\": 100}",
+    "county_names_all": "Cleveland",
+    "county_fips_all": "40027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

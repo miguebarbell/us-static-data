@@ -1,0 +1,20 @@
+{
+    "zip": 62838,
+    "lat": 38.86855,
+    "lng": -88.74889,
+    "city": "Farina",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1555.0,
+    "density": 6.5,
+    "county_fips": 17051,
+    "county_name": "Fayette",
+    "county_weights": "{\"17051\": 61.48, \"17025\": 29.16, \"17121\": 7.91, \"17049\": 1.45}",
+    "county_names_all": "Fayette|Clay|Marion|Effingham",
+    "county_fips_all": "17051|17025|17121|17049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

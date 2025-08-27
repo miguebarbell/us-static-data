@@ -1,0 +1,20 @@
+{
+    "zip": 42349,
+    "lat": 37.42695,
+    "lng": -86.67425,
+    "city": "Horse Branch",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1921.0,
+    "density": 13.2,
+    "county_fips": 21183,
+    "county_name": "Ohio",
+    "county_weights": "{\"21183\": 89.73, \"21085\": 10.27}",
+    "county_names_all": "Ohio|Grayson",
+    "county_fips_all": "21183|21085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

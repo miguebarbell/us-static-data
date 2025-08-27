@@ -1,0 +1,20 @@
+{
+    "zip": 43553,
+    "lat": 41.53096,
+    "lng": -84.22382,
+    "city": "Pettisville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 430.0,
+    "density": 550.5,
+    "county_fips": 39051,
+    "county_name": "Fulton",
+    "county_weights": "{\"39051\": 100}",
+    "county_names_all": "Fulton",
+    "county_fips_all": "39051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

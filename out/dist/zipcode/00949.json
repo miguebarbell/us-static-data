@@ -1,0 +1,20 @@
+{
+    "zip": 949,
+    "lat": 18.43166,
+    "lng": -66.21349,
+    "city": "Toa Baja",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 66714.0,
+    "density": 1251.6,
+    "county_fips": 72137,
+    "county_name": "Toa Baja",
+    "county_weights": "{\"72137\": 96.11, \"72033\": 2.93, \"72135\": 0.96}",
+    "county_names_all": "Toa Baja|Cata\u00f1o|Toa Alta",
+    "county_fips_all": "72137|72033|72135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

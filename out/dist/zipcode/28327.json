@@ -1,0 +1,20 @@
+{
+    "zip": 28327,
+    "lat": 35.35759,
+    "lng": -79.42333,
+    "city": "Carthage",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18984.0,
+    "density": 39.3,
+    "county_fips": 37125,
+    "county_name": "Moore",
+    "county_weights": "{\"37125\": 100}",
+    "county_names_all": "Moore",
+    "county_fips_all": "37125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

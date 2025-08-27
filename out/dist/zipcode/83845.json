@@ -1,0 +1,20 @@
+{
+    "zip": 83845,
+    "lat": 48.74854,
+    "lng": -116.11302,
+    "city": "Moyie Springs",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2223.0,
+    "density": 13.0,
+    "county_fips": 16021,
+    "county_name": "Boundary",
+    "county_weights": "{\"16021\": 100}",
+    "county_names_all": "Boundary",
+    "county_fips_all": "16021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

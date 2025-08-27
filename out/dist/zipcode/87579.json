@@ -1,0 +1,20 @@
+{
+    "zip": 87579,
+    "lat": 36.12885,
+    "lng": -105.56729,
+    "city": "Vadito",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1328.0,
+    "density": 4.0,
+    "county_fips": 35055,
+    "county_name": "Taos",
+    "county_weights": "{\"35055\": 100}",
+    "county_names_all": "Taos",
+    "county_fips_all": "35055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

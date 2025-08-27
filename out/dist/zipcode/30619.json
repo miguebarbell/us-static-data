@@ -1,0 +1,20 @@
+{
+    "zip": 30619,
+    "lat": 33.85752,
+    "lng": -83.2403,
+    "city": "Arnoldsville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1585.0,
+    "density": 23.3,
+    "county_fips": 13221,
+    "county_name": "Oglethorpe",
+    "county_weights": "{\"13221\": 96.5, \"13219\": 3.5}",
+    "county_names_all": "Oglethorpe|Oconee",
+    "county_fips_all": "13221|13219",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

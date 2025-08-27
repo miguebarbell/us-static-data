@@ -1,0 +1,20 @@
+{
+    "zip": 96006,
+    "lat": 41.15575,
+    "lng": -120.83952,
+    "city": "Adin",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 513.0,
+    "density": 1.0,
+    "county_fips": 6035,
+    "county_name": "Lassen",
+    "county_weights": "{\"06035\": 63.88, \"06049\": 36.12}",
+    "county_names_all": "Lassen|Modoc",
+    "county_fips_all": "06035|06049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

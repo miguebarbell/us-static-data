@@ -1,0 +1,20 @@
+{
+    "zip": 37062,
+    "lat": 35.98833,
+    "lng": -87.13483,
+    "city": "Fairview",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13165.0,
+    "density": 73.5,
+    "county_fips": 47187,
+    "county_name": "Williamson",
+    "county_weights": "{\"47187\": 93.19, \"47043\": 6.81}",
+    "county_names_all": "Williamson|Dickson",
+    "county_fips_all": "47187|47043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

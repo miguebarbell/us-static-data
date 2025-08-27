@@ -1,0 +1,20 @@
+{
+    "zip": 29726,
+    "lat": 34.85738,
+    "lng": -81.23223,
+    "city": "McConnells",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2086.0,
+    "density": 20.0,
+    "county_fips": 45091,
+    "county_name": "York",
+    "county_weights": "{\"45091\": 99.85, \"45023\": 0.15}",
+    "county_names_all": "York|Chester",
+    "county_fips_all": "45091|45023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

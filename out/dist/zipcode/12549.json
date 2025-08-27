@@ -1,0 +1,20 @@
+{
+    "zip": 12549,
+    "lat": 41.52957,
+    "lng": -74.25843,
+    "city": "Montgomery",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10896.0,
+    "density": 108.6,
+    "county_fips": 36071,
+    "county_name": "Orange",
+    "county_weights": "{\"36071\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "36071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

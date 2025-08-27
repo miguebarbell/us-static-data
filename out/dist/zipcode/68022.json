@@ -1,0 +1,20 @@
+{
+    "zip": 68022,
+    "lat": 41.27744,
+    "lng": -96.24558,
+    "city": "Elkhorn",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33702.0,
+    "density": 342.8,
+    "county_fips": 31055,
+    "county_name": "Douglas",
+    "county_weights": "{\"31055\": 100}",
+    "county_names_all": "Douglas",
+    "county_fips_all": "31055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

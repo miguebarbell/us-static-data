@@ -1,0 +1,20 @@
+{
+    "zip": 70353,
+    "lat": 29.36598,
+    "lng": -90.70554,
+    "city": "Dulac",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 522.0,
+    "density": 10.4,
+    "county_fips": 22109,
+    "county_name": "Terrebonne",
+    "county_weights": "{\"22109\": 100}",
+    "county_names_all": "Terrebonne",
+    "county_fips_all": "22109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

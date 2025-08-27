@@ -1,0 +1,20 @@
+{
+    "zip": 15108,
+    "lat": 40.50006,
+    "lng": -80.20031,
+    "city": "Coraopolis",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42782.0,
+    "density": 417.9,
+    "county_fips": 42003,
+    "county_name": "Allegheny",
+    "county_weights": "{\"42003\": 100}",
+    "county_names_all": "Allegheny",
+    "county_fips_all": "42003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

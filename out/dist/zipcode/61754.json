@@ -1,0 +1,20 @@
+{
+    "zip": 61754,
+    "lat": 40.3287,
+    "lng": -89.15744,
+    "city": "McLean",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1158.0,
+    "density": 5.7,
+    "county_fips": 17113,
+    "county_name": "McLean",
+    "county_weights": "{\"17113\": 87.32, \"17039\": 7.82, \"17107\": 4.86}",
+    "county_names_all": "McLean|De Witt|Logan",
+    "county_fips_all": "17113|17039|17107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

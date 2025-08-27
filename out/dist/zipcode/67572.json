@@ -1,0 +1,20 @@
+{
+    "zip": 67572,
+    "lat": 38.68663,
+    "lng": -99.90825,
+    "city": "Ransom",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 403.0,
+    "density": 0.7,
+    "county_fips": 20135,
+    "county_name": "Ness",
+    "county_weights": "{\"20135\": 51.86, \"20195\": 48.14}",
+    "county_names_all": "Ness|Trego",
+    "county_fips_all": "20135|20195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 56091,
+    "lat": 43.91813,
+    "lng": -93.68831,
+    "city": "Waldorf",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 267.0,
+    "density": 5.7,
+    "county_fips": 27161,
+    "county_name": "Waseca",
+    "county_weights": "{\"27161\": 100}",
+    "county_names_all": "Waseca",
+    "county_fips_all": "27161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

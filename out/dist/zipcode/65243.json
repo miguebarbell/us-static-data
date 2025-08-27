@@ -1,0 +1,20 @@
+{
+    "zip": 65243,
+    "lat": 39.27654,
+    "lng": -92.35207,
+    "city": "Clark",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3085.0,
+    "density": 12.2,
+    "county_fips": 29175,
+    "county_name": "Randolph",
+    "county_weights": "{\"29175\": 41.58, \"29019\": 25.9, \"29007\": 24.26, \"29089\": 5.43, \"29137\": 2.83}",
+    "county_names_all": "Randolph|Boone|Audrain|Howard|Monroe",
+    "county_fips_all": "29175|29019|29007|29089|29137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

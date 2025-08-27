@@ -1,0 +1,20 @@
+{
+    "zip": 98365,
+    "lat": 47.89545,
+    "lng": -122.70271,
+    "city": "Port Ludlow",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5178.0,
+    "density": 53.8,
+    "county_fips": 53031,
+    "county_name": "Jefferson",
+    "county_weights": "{\"53031\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "53031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

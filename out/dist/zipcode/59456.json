@@ -1,0 +1,20 @@
+{
+    "zip": 59456,
+    "lat": 48.27221,
+    "lng": -111.35432,
+    "city": "Ledger",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 323.0,
+    "density": 0.3,
+    "county_fips": 30051,
+    "county_name": "Liberty",
+    "county_weights": "{\"30051\": 52.28, \"30101\": 38.35, \"30073\": 9.37}",
+    "county_names_all": "Liberty|Toole|Pondera",
+    "county_fips_all": "30051|30101|30073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

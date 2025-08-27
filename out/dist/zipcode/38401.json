@@ -1,0 +1,20 @@
+{
+    "zip": 38401,
+    "lat": 35.62955,
+    "lng": -87.02097,
+    "city": "Columbia",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 66696.0,
+    "density": 86.8,
+    "county_fips": 47119,
+    "county_name": "Maury",
+    "county_weights": "{\"47119\": 96.07, \"47187\": 2.1, \"47117\": 1.83}",
+    "county_names_all": "Maury|Williamson|Marshall",
+    "county_fips_all": "47119|47187|47117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

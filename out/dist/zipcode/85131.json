@@ -1,0 +1,20 @@
+{
+    "zip": 85131,
+    "lat": 32.65542,
+    "lng": -111.57649,
+    "city": "Eloy",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18156.0,
+    "density": 22.9,
+    "county_fips": 4021,
+    "county_name": "Pinal",
+    "county_weights": "{\"04021\": 100}",
+    "county_names_all": "Pinal",
+    "county_fips_all": "04021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

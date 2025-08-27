@@ -1,0 +1,20 @@
+{
+    "zip": 77345,
+    "lat": 30.05392,
+    "lng": -95.15884,
+    "city": "Kingwood",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27574.0,
+    "density": 1269.9,
+    "county_fips": 48201,
+    "county_name": "Harris",
+    "county_weights": "{\"48201\": 100}",
+    "county_names_all": "Harris",
+    "county_fips_all": "48201",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

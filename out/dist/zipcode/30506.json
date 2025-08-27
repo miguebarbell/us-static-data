@@ -1,0 +1,20 @@
+{
+    "zip": 30506,
+    "lat": 34.34918,
+    "lng": -83.89486,
+    "city": "Gainesville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44964.0,
+    "density": 172.8,
+    "county_fips": 13139,
+    "county_name": "Hall",
+    "county_weights": "{\"13139\": 72.93, \"13117\": 27.07}",
+    "county_names_all": "Hall|Forsyth",
+    "county_fips_all": "13139|13117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

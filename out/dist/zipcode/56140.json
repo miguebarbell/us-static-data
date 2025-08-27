@@ -1,0 +1,20 @@
+{
+    "zip": 56140,
+    "lat": 43.90959,
+    "lng": -96.36703,
+    "city": "Ihlen",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 54.0,
+    "density": 220.1,
+    "county_fips": 27117,
+    "county_name": "Pipestone",
+    "county_weights": "{\"27117\": 100}",
+    "county_names_all": "Pipestone",
+    "county_fips_all": "27117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

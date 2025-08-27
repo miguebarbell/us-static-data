@@ -1,0 +1,20 @@
+{
+    "zip": 58251,
+    "lat": 47.94945,
+    "lng": -97.6906,
+    "city": "Larimore",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1955.0,
+    "density": 4.1,
+    "county_fips": 38035,
+    "county_name": "Grand Forks",
+    "county_weights": "{\"38035\": 100}",
+    "county_names_all": "Grand Forks",
+    "county_fips_all": "38035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

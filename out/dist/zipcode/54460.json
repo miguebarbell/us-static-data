@@ -1,0 +1,20 @@
+{
+    "zip": 54460,
+    "lat": 44.94703,
+    "lng": -90.53728,
+    "city": "Owen",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2636.0,
+    "density": 12.2,
+    "county_fips": 55019,
+    "county_name": "Clark",
+    "county_weights": "{\"55019\": 81.79, \"55119\": 18.21}",
+    "county_names_all": "Clark|Taylor",
+    "county_fips_all": "55019|55119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

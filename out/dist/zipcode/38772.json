@@ -1,0 +1,20 @@
+{
+    "zip": 38772,
+    "lat": 33.56254,
+    "lng": -91.08769,
+    "city": "Scott",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 111.0,
+    "density": 2.6,
+    "county_fips": 28011,
+    "county_name": "Bolivar",
+    "county_weights": "{\"28011\": 99.84, \"28151\": 0.16}",
+    "county_names_all": "Bolivar|Washington",
+    "county_fips_all": "28011|28151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

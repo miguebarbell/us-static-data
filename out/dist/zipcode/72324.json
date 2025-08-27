@@ -1,0 +1,20 @@
+{
+    "zip": 72324,
+    "lat": 35.38872,
+    "lng": -90.78116,
+    "city": "Cherry Valley",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1951.0,
+    "density": 5.8,
+    "county_fips": 5037,
+    "county_name": "Cross",
+    "county_weights": "{\"05037\": 96.48, \"05111\": 3.52}",
+    "county_names_all": "Cross|Poinsett",
+    "county_fips_all": "05037|05111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

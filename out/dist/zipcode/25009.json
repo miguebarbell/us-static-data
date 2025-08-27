@@ -1,0 +1,20 @@
+{
+    "zip": 25009,
+    "lat": 38.19237,
+    "lng": -81.71301,
+    "city": "Ashford",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 740.0,
+    "density": 10.1,
+    "county_fips": 54005,
+    "county_name": "Boone",
+    "county_weights": "{\"54005\": 100}",
+    "county_names_all": "Boone",
+    "county_fips_all": "54005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

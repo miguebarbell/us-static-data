@@ -1,0 +1,20 @@
+{
+    "zip": 70049,
+    "lat": 30.03062,
+    "lng": -90.55911,
+    "city": "Edgard",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1521.0,
+    "density": 35.9,
+    "county_fips": 22095,
+    "county_name": "St. John the Baptist",
+    "county_weights": "{\"22095\": 100}",
+    "county_names_all": "St. John the Baptist",
+    "county_fips_all": "22095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 54837,
+    "lat": 45.6746,
+    "lng": -92.35754,
+    "city": "Frederic",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3689.0,
+    "density": 8.4,
+    "county_fips": 55095,
+    "county_name": "Polk",
+    "county_weights": "{\"55095\": 81.74, \"55013\": 18.26}",
+    "county_names_all": "Polk|Burnett",
+    "county_fips_all": "55095|55013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

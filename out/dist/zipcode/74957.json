@@ -1,0 +1,20 @@
+{
+    "zip": 74957,
+    "lat": 34.52522,
+    "lng": -94.65558,
+    "city": "Smithville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 905.0,
+    "density": 1.5,
+    "county_fips": 40079,
+    "county_name": "Le Flore",
+    "county_weights": "{\"40079\": 68.04, \"40089\": 31.96}",
+    "county_names_all": "Le Flore|McCurtain",
+    "county_fips_all": "40079|40089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

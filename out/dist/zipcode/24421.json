@@ -1,0 +1,20 @@
+{
+    "zip": 24421,
+    "lat": 38.26389,
+    "lng": -79.20019,
+    "city": "Churchville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3718.0,
+    "density": 19.3,
+    "county_fips": 51015,
+    "county_name": "Augusta",
+    "county_weights": "{\"51015\": 100}",
+    "county_names_all": "Augusta",
+    "county_fips_all": "51015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

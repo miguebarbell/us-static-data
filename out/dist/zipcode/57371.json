@@ -1,0 +1,20 @@
+{
+    "zip": 57371,
+    "lat": 44.43146,
+    "lng": -99.23104,
+    "city": "Ree Heights",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 191.0,
+    "density": 0.3,
+    "county_fips": 46059,
+    "county_name": "Hand",
+    "county_weights": "{\"46059\": 97.48, \"46069\": 2.52}",
+    "county_names_all": "Hand|Hyde",
+    "county_fips_all": "46059|46069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

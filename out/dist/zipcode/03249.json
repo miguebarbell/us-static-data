@@ -1,0 +1,20 @@
+{
+    "zip": 3249,
+    "lat": 43.55806,
+    "lng": -71.38505,
+    "city": "Gilford",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7785.0,
+    "density": 77.5,
+    "county_fips": 33001,
+    "county_name": "Belknap",
+    "county_weights": "{\"33001\": 100}",
+    "county_names_all": "Belknap",
+    "county_fips_all": "33001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

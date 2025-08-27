@@ -1,0 +1,20 @@
+{
+    "zip": 20120,
+    "lat": 38.85576,
+    "lng": -77.47987,
+    "city": "Centreville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42917.0,
+    "density": 921.6,
+    "county_fips": 51059,
+    "county_name": "Fairfax",
+    "county_weights": "{\"51059\": 89.89, \"51107\": 10.11}",
+    "county_names_all": "Fairfax|Loudoun",
+    "county_fips_all": "51059|51107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

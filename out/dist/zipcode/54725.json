@@ -1,0 +1,20 @@
+{
+    "zip": 54725,
+    "lat": 45.07103,
+    "lng": -92.01062,
+    "city": "Boyceville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3041.0,
+    "density": 12.0,
+    "county_fips": 55033,
+    "county_name": "Dunn",
+    "county_weights": "{\"55033\": 100}",
+    "county_names_all": "Dunn",
+    "county_fips_all": "55033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

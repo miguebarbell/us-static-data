@@ -1,0 +1,20 @@
+{
+    "zip": 34484,
+    "lat": 28.93417,
+    "lng": -82.08867,
+    "city": "Oxford",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5409.0,
+    "density": 65.0,
+    "county_fips": 12119,
+    "county_name": "Sumter",
+    "county_weights": "{\"12119\": 100}",
+    "county_names_all": "Sumter",
+    "county_fips_all": "12119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

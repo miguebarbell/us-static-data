@@ -1,0 +1,20 @@
+{
+    "zip": 42020,
+    "lat": 36.68913,
+    "lng": -88.29145,
+    "city": "Almo",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2215.0,
+    "density": 35.3,
+    "county_fips": 21035,
+    "county_name": "Calloway",
+    "county_weights": "{\"21035\": 100}",
+    "county_names_all": "Calloway",
+    "county_fips_all": "21035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

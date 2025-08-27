@@ -1,0 +1,20 @@
+{
+    "zip": 85192,
+    "lat": 32.96134,
+    "lng": -110.66501,
+    "city": "Winkelman",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1831.0,
+    "density": 2.2,
+    "county_fips": 4021,
+    "county_name": "Pinal",
+    "county_weights": "{\"04021\": 67.65, \"04007\": 32.35}",
+    "county_names_all": "Pinal|Gila",
+    "county_fips_all": "04021|04007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

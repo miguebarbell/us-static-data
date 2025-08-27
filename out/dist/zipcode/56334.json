@@ -1,0 +1,20 @@
+{
+    "zip": 56334,
+    "lat": 45.58402,
+    "lng": -95.34765,
+    "city": "Glenwood",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5791.0,
+    "density": 10.9,
+    "county_fips": 27121,
+    "county_name": "Pope",
+    "county_weights": "{\"27121\": 98.76, \"27041\": 1.24}",
+    "county_names_all": "Pope|Douglas",
+    "county_fips_all": "27121|27041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

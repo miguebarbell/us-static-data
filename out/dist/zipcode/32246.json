@@ -1,0 +1,20 @@
+{
+    "zip": 32246,
+    "lat": 30.29422,
+    "lng": -81.51782,
+    "city": "Jacksonville",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 60443.0,
+    "density": 1221.8,
+    "county_fips": 12031,
+    "county_name": "Duval",
+    "county_weights": "{\"12031\": 100}",
+    "county_names_all": "Duval",
+    "county_fips_all": "12031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 59006,
+    "lat": 45.90755,
+    "lng": -108.08535,
+    "city": "Ballantine",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1218.0,
+    "density": 7.6,
+    "county_fips": 30111,
+    "county_name": "Yellowstone",
+    "county_weights": "{\"30111\": 100}",
+    "county_names_all": "Yellowstone",
+    "county_fips_all": "30111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

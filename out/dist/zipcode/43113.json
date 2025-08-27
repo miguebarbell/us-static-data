@@ -1,0 +1,20 @@
+{
+    "zip": 43113,
+    "lat": 39.59114,
+    "lng": -82.96192,
+    "city": "Circleville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24314.0,
+    "density": 57.9,
+    "county_fips": 39129,
+    "county_name": "Pickaway",
+    "county_weights": "{\"39129\": 99.59, \"39045\": 0.41}",
+    "county_names_all": "Pickaway|Fairfield",
+    "county_fips_all": "39129|39045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

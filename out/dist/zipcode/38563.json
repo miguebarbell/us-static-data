@@ -1,0 +1,20 @@
+{
+    "zip": 38563,
+    "lat": 36.19658,
+    "lng": -86.0147,
+    "city": "Gordonsville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2271.0,
+    "density": 26.4,
+    "county_fips": 47159,
+    "county_name": "Smith",
+    "county_weights": "{\"47159\": 100}",
+    "county_names_all": "Smith",
+    "county_fips_all": "47159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 78121,
+    "lat": 29.35118,
+    "lng": -98.10241,
+    "city": "La Vernia",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15001.0,
+    "density": 56.4,
+    "county_fips": 48493,
+    "county_name": "Wilson",
+    "county_weights": "{\"48493\": 75.23, \"48187\": 24.77}",
+    "county_names_all": "Wilson|Guadalupe",
+    "county_fips_all": "48493|48187",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

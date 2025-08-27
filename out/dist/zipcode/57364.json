@@ -1,0 +1,20 @@
+{
+    "zip": 57364,
+    "lat": 43.43442,
+    "lng": -98.61786,
+    "city": "New Holland",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4.0,
+    "density": 1.4,
+    "county_fips": 46043,
+    "county_name": "Douglas",
+    "county_weights": "{\"46043\": 100}",
+    "county_names_all": "Douglas",
+    "county_fips_all": "46043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 25857,
+    "lat": 37.61443,
+    "lng": -81.23288,
+    "city": "Josephine",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25.0,
+    "density": 0.9,
+    "county_fips": 54081,
+    "county_name": "Raleigh",
+    "county_weights": "{\"54081\": 100}",
+    "county_names_all": "Raleigh",
+    "county_fips_all": "54081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

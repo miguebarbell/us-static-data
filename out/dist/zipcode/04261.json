@@ -1,0 +1,20 @@
+{
+    "zip": 4261,
+    "lat": 44.5631,
+    "lng": -70.91907,
+    "city": "Newry",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 300.0,
+    "density": 0.6,
+    "county_fips": 23017,
+    "county_name": "Oxford",
+    "county_weights": "{\"23017\": 100}",
+    "county_names_all": "Oxford",
+    "county_fips_all": "23017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

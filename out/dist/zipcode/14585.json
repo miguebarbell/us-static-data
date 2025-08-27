@@ -1,0 +1,20 @@
+{
+    "zip": 14585,
+    "lat": 42.90587,
+    "lng": -77.55301,
+    "city": "West Bloomfield",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 167.0,
+    "density": 588.0,
+    "county_fips": 36069,
+    "county_name": "Ontario",
+    "county_weights": "{\"36069\": 100}",
+    "county_names_all": "Ontario",
+    "county_fips_all": "36069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

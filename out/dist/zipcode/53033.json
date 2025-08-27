@@ -1,0 +1,20 @@
+{
+    "zip": 53033,
+    "lat": 43.23716,
+    "lng": -88.25634,
+    "city": "Hubertus",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6161.0,
+    "density": 149.0,
+    "county_fips": 55131,
+    "county_name": "Washington",
+    "county_weights": "{\"55131\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "55131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

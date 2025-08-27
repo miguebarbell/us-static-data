@@ -1,0 +1,20 @@
+{
+    "zip": 39746,
+    "lat": 33.74697,
+    "lng": -88.41544,
+    "city": "Hamilton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2731.0,
+    "density": 12.0,
+    "county_fips": 28095,
+    "county_name": "Monroe",
+    "county_weights": "{\"28095\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "28095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

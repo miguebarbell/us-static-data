@@ -1,0 +1,20 @@
+{
+    "zip": 80804,
+    "lat": 39.35644,
+    "lng": -103.26331,
+    "city": "Arriba",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 376.0,
+    "density": 0.4,
+    "county_fips": 8073,
+    "county_name": "Lincoln",
+    "county_weights": "{\"08073\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "08073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

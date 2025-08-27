@@ -1,0 +1,20 @@
+{
+    "zip": 61940,
+    "lat": 39.80395,
+    "lng": -87.81249,
+    "city": "Metcalf",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 275.0,
+    "density": 3.3,
+    "county_fips": 17045,
+    "county_name": "Edgar",
+    "county_weights": "{\"17045\": 100}",
+    "county_names_all": "Edgar",
+    "county_fips_all": "17045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

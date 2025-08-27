@@ -1,0 +1,20 @@
+{
+    "zip": 38621,
+    "lat": 34.4528,
+    "lng": -90.1731,
+    "city": "Crenshaw",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1610.0,
+    "density": 10.1,
+    "county_fips": 28107,
+    "county_name": "Panola",
+    "county_weights": "{\"28107\": 80.0, \"28119\": 20.0}",
+    "county_names_all": "Panola|Quitman",
+    "county_fips_all": "28107|28119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

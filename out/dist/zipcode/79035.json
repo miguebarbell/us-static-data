@@ -1,0 +1,20 @@
+{
+    "zip": 79035,
+    "lat": 34.68301,
+    "lng": -102.78573,
+    "city": "Friona",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5356.0,
+    "density": 3.1,
+    "county_fips": 48369,
+    "county_name": "Parmer",
+    "county_weights": "{\"48369\": 69.92, \"48117\": 30.08}",
+    "county_names_all": "Parmer|Deaf Smith",
+    "county_fips_all": "48369|48117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

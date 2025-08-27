@@ -1,0 +1,20 @@
+{
+    "zip": 30629,
+    "lat": 34.07779,
+    "lng": -83.11625,
+    "city": "Comer",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5008.0,
+    "density": 26.0,
+    "county_fips": 13195,
+    "county_name": "Madison",
+    "county_weights": "{\"13195\": 71.31, \"13221\": 28.69}",
+    "county_names_all": "Madison|Oglethorpe",
+    "county_fips_all": "13195|13221",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

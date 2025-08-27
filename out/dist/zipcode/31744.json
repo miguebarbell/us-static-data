@@ -1,0 +1,20 @@
+{
+    "zip": 31744,
+    "lat": 31.33709,
+    "lng": -83.90646,
+    "city": "Doerun",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2742.0,
+    "density": 8.8,
+    "county_fips": 13321,
+    "county_name": "Worth",
+    "county_weights": "{\"13321\": 54.04, \"13071\": 42.8, \"13205\": 3.16}",
+    "county_names_all": "Worth|Colquitt|Mitchell",
+    "county_fips_all": "13321|13071|13205",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

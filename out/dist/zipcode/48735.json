@@ -1,0 +1,20 @@
+{
+    "zip": 48735,
+    "lat": 43.66861,
+    "lng": -83.27294,
+    "city": "Gagetown",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 965.0,
+    "density": 10.3,
+    "county_fips": 26157,
+    "county_name": "Tuscola",
+    "county_weights": "{\"26157\": 53.43, \"26063\": 46.57}",
+    "county_names_all": "Tuscola|Huron",
+    "county_fips_all": "26157|26063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

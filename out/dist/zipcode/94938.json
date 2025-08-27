@@ -1,0 +1,20 @@
+{
+    "zip": 94938,
+    "lat": 38.03024,
+    "lng": -122.72953,
+    "city": "Lagunitas",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 540.0,
+    "density": 22.0,
+    "county_fips": 6041,
+    "county_name": "Marin",
+    "county_weights": "{\"06041\": 100}",
+    "county_names_all": "Marin",
+    "county_fips_all": "06041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 69038,
+    "lat": 40.60932,
+    "lng": -100.73703,
+    "city": "Maywood",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 399.0,
+    "density": 0.8,
+    "county_fips": 31063,
+    "county_name": "Frontier",
+    "county_weights": "{\"31063\": 64.32, \"31085\": 35.68}",
+    "county_names_all": "Frontier|Hayes",
+    "county_fips_all": "31063|31085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

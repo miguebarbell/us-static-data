@@ -1,0 +1,20 @@
+{
+    "zip": 47840,
+    "lat": 39.40863,
+    "lng": -87.05937,
+    "city": "Centerpoint",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1903.0,
+    "density": 14.7,
+    "county_fips": 18021,
+    "county_name": "Clay",
+    "county_weights": "{\"18021\": 95.35, \"18133\": 4.65}",
+    "county_names_all": "Clay|Putnam",
+    "county_fips_all": "18021|18133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

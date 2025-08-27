@@ -1,0 +1,20 @@
+{
+    "zip": 32448,
+    "lat": 30.66663,
+    "lng": -85.21616,
+    "city": "Marianna",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8041.0,
+    "density": 17.2,
+    "county_fips": 12063,
+    "county_name": "Jackson",
+    "county_weights": "{\"12063\": 99.3, \"12013\": 0.7}",
+    "county_names_all": "Jackson|Calhoun",
+    "county_fips_all": "12063|12013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

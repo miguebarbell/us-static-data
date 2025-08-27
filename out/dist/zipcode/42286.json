@@ -1,0 +1,20 @@
+{
+    "zip": 42286,
+    "lat": 36.72749,
+    "lng": -87.26959,
+    "city": "Trenton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2143.0,
+    "density": 12.0,
+    "county_fips": 21219,
+    "county_name": "Todd",
+    "county_weights": "{\"21219\": 94.31, \"21047\": 5.69}",
+    "county_names_all": "Todd|Christian",
+    "county_fips_all": "21219|21047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

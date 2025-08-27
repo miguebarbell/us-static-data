@@ -1,0 +1,20 @@
+{
+    "zip": 47862,
+    "lat": 39.77184,
+    "lng": -87.34527,
+    "city": "Montezuma",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1262.0,
+    "density": 12.3,
+    "county_fips": 18121,
+    "county_name": "Parke",
+    "county_weights": "{\"18121\": 100}",
+    "county_names_all": "Parke",
+    "county_fips_all": "18121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

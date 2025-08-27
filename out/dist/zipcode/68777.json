@@ -1,0 +1,20 @@
+{
+    "zip": 68777,
+    "lat": 42.86088,
+    "lng": -98.68504,
+    "city": "Spencer",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 549.0,
+    "density": 1.2,
+    "county_fips": 31015,
+    "county_name": "Boyd",
+    "county_weights": "{\"31015\": 71.99, \"31089\": 28.01}",
+    "county_names_all": "Boyd|Holt",
+    "county_fips_all": "31015|31089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 53178,
+    "lat": 43.02335,
+    "lng": -88.59894,
+    "city": "Sullivan",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2741.0,
+    "density": 33.2,
+    "county_fips": 55055,
+    "county_name": "Jefferson",
+    "county_weights": "{\"55055\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "55055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

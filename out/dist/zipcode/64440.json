@@ -1,0 +1,20 @@
+{
+    "zip": 64440,
+    "lat": 39.57849,
+    "lng": -94.91841,
+    "city": "De Kalb",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 876.0,
+    "density": 9.3,
+    "county_fips": 29021,
+    "county_name": "Buchanan",
+    "county_weights": "{\"29021\": 90.66, \"29165\": 9.34}",
+    "county_names_all": "Buchanan|Platte",
+    "county_fips_all": "29021|29165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

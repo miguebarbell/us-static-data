@@ -1,0 +1,20 @@
+{
+    "zip": 25630,
+    "lat": 37.79821,
+    "lng": -81.6816,
+    "city": "Lorado",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 423.0,
+    "density": 8.2,
+    "county_fips": 54045,
+    "county_name": "Logan",
+    "county_weights": "{\"54045\": 100}",
+    "county_names_all": "Logan",
+    "county_fips_all": "54045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

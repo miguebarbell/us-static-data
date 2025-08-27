@@ -1,0 +1,20 @@
+{
+    "zip": 49627,
+    "lat": 45.11261,
+    "lng": -85.35677,
+    "city": "Eastport",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 274.0,
+    "density": 64.4,
+    "county_fips": 26009,
+    "county_name": "Antrim",
+    "county_weights": "{\"26009\": 100}",
+    "county_names_all": "Antrim",
+    "county_fips_all": "26009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

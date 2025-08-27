@@ -1,0 +1,20 @@
+{
+    "zip": 31814,
+    "lat": 32.20531,
+    "lng": -84.8614,
+    "city": "Louvale",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9.0,
+    "density": 0.2,
+    "county_fips": 13259,
+    "county_name": "Stewart",
+    "county_weights": "{\"13259\": 100}",
+    "county_names_all": "Stewart",
+    "county_fips_all": "13259",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

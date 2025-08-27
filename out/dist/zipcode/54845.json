@@ -1,0 +1,20 @@
+{
+    "zip": 54845,
+    "lat": 45.80724,
+    "lng": -92.13786,
+    "city": "Hertel",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 122.0,
+    "density": 9.0,
+    "county_fips": 55013,
+    "county_name": "Burnett",
+    "county_weights": "{\"55013\": 100}",
+    "county_names_all": "Burnett",
+    "county_fips_all": "55013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

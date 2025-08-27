@@ -1,0 +1,20 @@
+{
+    "zip": 29031,
+    "lat": 34.60624,
+    "lng": -81.42665,
+    "city": "Carlisle",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1747.0,
+    "density": 5.2,
+    "county_fips": 45023,
+    "county_name": "Chester",
+    "county_weights": "{\"45023\": 50.21, \"45087\": 44.09, \"45039\": 5.7}",
+    "county_names_all": "Chester|Union|Fairfield",
+    "county_fips_all": "45023|45087|45039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

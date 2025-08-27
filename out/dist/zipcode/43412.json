@@ -1,0 +1,20 @@
+{
+    "zip": 43412,
+    "lat": 41.62933,
+    "lng": -83.31961,
+    "city": "Curtice",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4109.0,
+    "density": 57.4,
+    "county_fips": 39095,
+    "county_name": "Lucas",
+    "county_weights": "{\"39095\": 61.64, \"39123\": 38.36}",
+    "county_names_all": "Lucas|Ottawa",
+    "county_fips_all": "39095|39123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

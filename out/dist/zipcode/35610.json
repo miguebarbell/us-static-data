@@ -1,0 +1,20 @@
+{
+    "zip": 35610,
+    "lat": 34.95361,
+    "lng": -87.23714,
+    "city": "Anderson",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1635.0,
+    "density": 14.8,
+    "county_fips": 1077,
+    "county_name": "Lauderdale",
+    "county_weights": "{\"01077\": 70.36, \"01083\": 29.64}",
+    "county_names_all": "Lauderdale|Limestone",
+    "county_fips_all": "01077|01083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

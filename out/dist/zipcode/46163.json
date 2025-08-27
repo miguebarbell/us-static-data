@@ -1,0 +1,20 @@
+{
+    "zip": 46163,
+    "lat": 39.7287,
+    "lng": -85.90435,
+    "city": "New Palestine",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14318.0,
+    "density": 186.4,
+    "county_fips": 18059,
+    "county_name": "Hancock",
+    "county_weights": "{\"18059\": 85.94, \"18145\": 13.07, \"18097\": 0.99}",
+    "county_names_all": "Hancock|Shelby|Marion",
+    "county_fips_all": "18059|18145|18097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

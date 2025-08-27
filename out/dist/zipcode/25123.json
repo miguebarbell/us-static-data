@@ -1,0 +1,20 @@
+{
+    "zip": 25123,
+    "lat": 38.73172,
+    "lng": -81.90214,
+    "city": "Leon",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2827.0,
+    "density": 9.3,
+    "county_fips": 54053,
+    "county_name": "Mason",
+    "county_weights": "{\"54053\": 80.93, \"54079\": 19.07}",
+    "county_names_all": "Mason|Putnam",
+    "county_fips_all": "54053|54079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

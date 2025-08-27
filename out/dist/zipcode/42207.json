@@ -1,0 +1,20 @@
+{
+    "zip": 42207,
+    "lat": 37.30357,
+    "lng": -86.27858,
+    "city": "Bee Spring",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1099.0,
+    "density": 22.1,
+    "county_fips": 21061,
+    "county_name": "Edmonson",
+    "county_weights": "{\"21061\": 97.54, \"21085\": 2.46}",
+    "county_names_all": "Edmonson|Grayson",
+    "county_fips_all": "21061|21085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

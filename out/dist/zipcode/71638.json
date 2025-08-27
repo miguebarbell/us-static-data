@@ -1,0 +1,20 @@
+{
+    "zip": 71638,
+    "lat": 33.52008,
+    "lng": -91.47927,
+    "city": "Dermott",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3313.0,
+    "density": 5.2,
+    "county_fips": 5043,
+    "county_name": "Drew",
+    "county_weights": "{\"05043\": 66.04, \"05017\": 25.43, \"05041\": 8.53}",
+    "county_names_all": "Drew|Chicot|Desha",
+    "county_fips_all": "05043|05017|05041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

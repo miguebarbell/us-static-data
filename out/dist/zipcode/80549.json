@@ -1,0 +1,20 @@
+{
+    "zip": 80549,
+    "lat": 40.84341,
+    "lng": -105.05499,
+    "city": "Wellington",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14132.0,
+    "density": 29.2,
+    "county_fips": 8069,
+    "county_name": "Larimer",
+    "county_weights": "{\"08069\": 94.93, \"08123\": 5.07}",
+    "county_names_all": "Larimer|Weld",
+    "county_fips_all": "08069|08123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

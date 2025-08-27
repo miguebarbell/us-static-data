@@ -1,0 +1,20 @@
+{
+    "zip": 55927,
+    "lat": 44.0335,
+    "lng": -92.87291,
+    "city": "Dodge Center",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4272.0,
+    "density": 20.6,
+    "county_fips": 27039,
+    "county_name": "Dodge",
+    "county_weights": "{\"27039\": 100}",
+    "county_names_all": "Dodge",
+    "county_fips_all": "27039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

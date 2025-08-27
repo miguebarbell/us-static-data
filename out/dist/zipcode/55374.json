@@ -1,0 +1,20 @@
+{
+    "zip": 55374,
+    "lat": 45.17715,
+    "lng": -93.58035,
+    "city": "Rogers",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15812.0,
+    "density": 178.4,
+    "county_fips": 27053,
+    "county_name": "Hennepin",
+    "county_weights": "{\"27053\": 95.36, \"27171\": 4.64}",
+    "county_names_all": "Hennepin|Wright",
+    "county_fips_all": "27053|27171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

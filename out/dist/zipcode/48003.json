@@ -1,0 +1,20 @@
+{
+    "zip": 48003,
+    "lat": 42.93228,
+    "lng": -83.04088,
+    "city": "Almont",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6045.0,
+    "density": 70.2,
+    "county_fips": 26087,
+    "county_name": "Lapeer",
+    "county_weights": "{\"26087\": 100}",
+    "county_names_all": "Lapeer",
+    "county_fips_all": "26087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

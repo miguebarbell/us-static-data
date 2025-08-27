@@ -1,0 +1,20 @@
+{
+    "zip": 45846,
+    "lat": 40.40986,
+    "lng": -84.74644,
+    "city": "Fort Recovery",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4763.0,
+    "density": 24.2,
+    "county_fips": 39107,
+    "county_name": "Mercer",
+    "county_weights": "{\"39107\": 85.73, \"39037\": 14.04, \"18075\": 0.23}",
+    "county_names_all": "Mercer|Darke|Jay",
+    "county_fips_all": "39107|39037|18075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

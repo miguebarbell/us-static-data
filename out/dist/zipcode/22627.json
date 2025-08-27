@@ -1,0 +1,20 @@
+{
+    "zip": 22627,
+    "lat": 38.76554,
+    "lng": -78.11371,
+    "city": "Flint Hill",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 902.0,
+    "density": 10.9,
+    "county_fips": 51157,
+    "county_name": "Rappahannock",
+    "county_weights": "{\"51157\": 100}",
+    "county_names_all": "Rappahannock",
+    "county_fips_all": "51157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

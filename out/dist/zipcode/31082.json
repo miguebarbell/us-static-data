@@ -1,0 +1,20 @@
+{
+    "zip": 31082,
+    "lat": 32.992,
+    "lng": -82.89815,
+    "city": "Sandersville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10479.0,
+    "density": 17.8,
+    "county_fips": 13303,
+    "county_name": "Washington",
+    "county_weights": "{\"13303\": 97.13, \"13009\": 2.87}",
+    "county_names_all": "Washington|Baldwin",
+    "county_fips_all": "13303|13009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 95443,
+    "lat": 39.05013,
+    "lng": -122.73962,
+    "city": "Glenhaven",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 70.0,
+    "density": 6.5,
+    "county_fips": 6033,
+    "county_name": "Lake",
+    "county_weights": "{\"06033\": 100}",
+    "county_names_all": "Lake",
+    "county_fips_all": "06033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

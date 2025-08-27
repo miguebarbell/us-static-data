@@ -1,0 +1,20 @@
+{
+    "zip": 18042,
+    "lat": 40.6497,
+    "lng": -75.22376,
+    "city": "Easton",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44797.0,
+    "density": 782.2,
+    "county_fips": 42095,
+    "county_name": "Northampton",
+    "county_weights": "{\"42095\": 99.3, \"42017\": 0.7}",
+    "county_names_all": "Northampton|Bucks",
+    "county_fips_all": "42095|42017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

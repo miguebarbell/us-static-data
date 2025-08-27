@@ -1,0 +1,20 @@
+{
+    "zip": 61250,
+    "lat": 41.65884,
+    "lng": -90.10081,
+    "city": "Erie",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2843.0,
+    "density": 12.6,
+    "county_fips": 17195,
+    "county_name": "Whiteside",
+    "county_weights": "{\"17195\": 94.25, \"17073\": 5.75}",
+    "county_names_all": "Whiteside|Henry",
+    "county_fips_all": "17195|17073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 74872,
+    "lat": 34.77989,
+    "lng": -96.97913,
+    "city": "Stratford",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3102.0,
+    "density": 8.1,
+    "county_fips": 40049,
+    "county_name": "Garvin",
+    "county_weights": "{\"40049\": 73.64, \"40123\": 23.71, \"40087\": 2.65}",
+    "county_names_all": "Garvin|Pontotoc|McClain",
+    "county_fips_all": "40049|40123|40087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

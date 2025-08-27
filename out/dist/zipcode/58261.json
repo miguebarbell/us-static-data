@@ -1,0 +1,20 @@
+{
+    "zip": 58261,
+    "lat": 48.22385,
+    "lng": -97.31663,
+    "city": "Minto",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1284.0,
+    "density": 3.0,
+    "county_fips": 38099,
+    "county_name": "Walsh",
+    "county_weights": "{\"38099\": 63.94, \"38035\": 36.06}",
+    "county_names_all": "Walsh|Grand Forks",
+    "county_fips_all": "38099|38035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

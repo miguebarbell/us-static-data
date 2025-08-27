@@ -1,0 +1,20 @@
+{
+    "zip": 25969,
+    "lat": 37.61657,
+    "lng": -81.00903,
+    "city": "Jumping Branch",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1635.0,
+    "density": 16.8,
+    "county_fips": 54089,
+    "county_name": "Summers",
+    "county_weights": "{\"54089\": 99.69, \"54081\": 0.31}",
+    "county_names_all": "Summers|Raleigh",
+    "county_fips_all": "54089|54081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

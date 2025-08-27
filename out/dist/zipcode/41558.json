@@ -1,0 +1,20 @@
+{
+    "zip": 41558,
+    "lat": 37.53953,
+    "lng": -82.20819,
+    "city": "Ransom",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 892.0,
+    "density": 22.7,
+    "county_fips": 21195,
+    "county_name": "Pike",
+    "county_weights": "{\"21195\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "21195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 28080,
+    "lat": 35.45269,
+    "lng": -81.10995,
+    "city": "Iron Station",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8075.0,
+    "density": 77.4,
+    "county_fips": 37109,
+    "county_name": "Lincoln",
+    "county_weights": "{\"37109\": 99.56, \"37071\": 0.44}",
+    "county_names_all": "Lincoln|Gaston",
+    "county_fips_all": "37109|37071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

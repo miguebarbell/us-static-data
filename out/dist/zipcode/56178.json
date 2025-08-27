@@ -1,0 +1,20 @@
+{
+    "zip": 56178,
+    "lat": 44.28593,
+    "lng": -96.12997,
+    "city": "Tyler",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1669.0,
+    "density": 7.7,
+    "county_fips": 27081,
+    "county_name": "Lincoln",
+    "county_weights": "{\"27081\": 85.62, \"27083\": 14.38}",
+    "county_names_all": "Lincoln|Lyon",
+    "county_fips_all": "27081|27083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

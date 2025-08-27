@@ -1,0 +1,20 @@
+{
+    "zip": 30124,
+    "lat": 34.12872,
+    "lng": -85.35589,
+    "city": "Cave Spring",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2944.0,
+    "density": 18.9,
+    "county_fips": 13115,
+    "county_name": "Floyd",
+    "county_weights": "{\"13115\": 98.94, \"13233\": 1.06}",
+    "county_names_all": "Floyd|Polk",
+    "county_fips_all": "13115|13233",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 42519,
+    "lat": 36.93932,
+    "lng": -84.53573,
+    "city": "Burnside",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2800.0,
+    "density": 21.9,
+    "county_fips": 21199,
+    "county_name": "Pulaski",
+    "county_weights": "{\"21199\": 100}",
+    "county_names_all": "Pulaski",
+    "county_fips_all": "21199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

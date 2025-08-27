@@ -1,0 +1,20 @@
+{
+    "zip": 35173,
+    "lat": 33.65284,
+    "lng": -86.56337,
+    "city": "Trussville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32125.0,
+    "density": 192.2,
+    "county_fips": 1073,
+    "county_name": "Jefferson",
+    "county_weights": "{\"01073\": 76.14, \"01115\": 23.86}",
+    "county_names_all": "Jefferson|St. Clair",
+    "county_fips_all": "01073|01115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

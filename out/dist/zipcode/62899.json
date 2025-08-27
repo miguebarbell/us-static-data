@@ -1,0 +1,20 @@
+{
+    "zip": 62899,
+    "lat": 38.63032,
+    "lng": -88.64367,
+    "city": "Xenia",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1782.0,
+    "density": 6.3,
+    "county_fips": 17025,
+    "county_name": "Clay",
+    "county_weights": "{\"17025\": 59.17, \"17191\": 40.83}",
+    "county_names_all": "Clay|Wayne",
+    "county_fips_all": "17025|17191",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

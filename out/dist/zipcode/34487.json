@@ -1,0 +1,20 @@
+{
+    "zip": 34487,
+    "lat": 28.78148,
+    "lng": -82.61272,
+    "city": "Homosassa",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 12017,
+    "county_name": "Citrus",
+    "county_weights": "{\"12017\": 100}",
+    "county_names_all": "Citrus",
+    "county_fips_all": "12017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

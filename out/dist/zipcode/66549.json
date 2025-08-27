@@ -1,0 +1,20 @@
+{
+    "zip": 66549,
+    "lat": 39.42978,
+    "lng": -96.43045,
+    "city": "Westmoreland",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1311.0,
+    "density": 2.8,
+    "county_fips": 20149,
+    "county_name": "Pottawatomie",
+    "county_weights": "{\"20149\": 100}",
+    "county_names_all": "Pottawatomie",
+    "county_fips_all": "20149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

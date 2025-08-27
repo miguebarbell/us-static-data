@@ -1,0 +1,20 @@
+{
+    "zip": 44509,
+    "lat": 41.10986,
+    "lng": -80.69655,
+    "city": "Youngstown",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10775.0,
+    "density": 738.4,
+    "county_fips": 39099,
+    "county_name": "Mahoning",
+    "county_weights": "{\"39099\": 93.91, \"39155\": 6.09}",
+    "county_names_all": "Mahoning|Trumbull",
+    "county_fips_all": "39099|39155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

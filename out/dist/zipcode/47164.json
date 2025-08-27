@@ -1,0 +1,20 @@
+{
+    "zip": 47164,
+    "lat": 38.40462,
+    "lng": -86.09079,
+    "city": "Palmyra",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3319.0,
+    "density": 35.0,
+    "county_fips": 18061,
+    "county_name": "Harrison",
+    "county_weights": "{\"18061\": 66.75, \"18175\": 31.62, \"18043\": 1.63}",
+    "county_names_all": "Harrison|Washington|Floyd",
+    "county_fips_all": "18061|18175|18043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Kentucky/Louisville"
+}

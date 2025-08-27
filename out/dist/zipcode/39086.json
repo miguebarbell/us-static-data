@@ -1,0 +1,20 @@
+{
+    "zip": 39086,
+    "lat": 31.96275,
+    "lng": -90.75964,
+    "city": "Hermanville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1736.0,
+    "density": 3.7,
+    "county_fips": 28021,
+    "county_name": "Claiborne",
+    "county_weights": "{\"28021\": 65.61, \"28029\": 34.39}",
+    "county_names_all": "Claiborne|Copiah",
+    "county_fips_all": "28021|28029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

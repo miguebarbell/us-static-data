@@ -1,0 +1,20 @@
+{
+    "zip": 29671,
+    "lat": 34.94071,
+    "lng": -82.72057,
+    "city": "Pickens",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19210.0,
+    "density": 56.1,
+    "county_fips": 45077,
+    "county_name": "Pickens",
+    "county_weights": "{\"45077\": 100}",
+    "county_names_all": "Pickens",
+    "county_fips_all": "45077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

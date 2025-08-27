@@ -1,0 +1,20 @@
+{
+    "zip": 75127,
+    "lat": 32.6926,
+    "lng": -95.79262,
+    "city": "Fruitvale",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1753.0,
+    "density": 25.3,
+    "county_fips": 48467,
+    "county_name": "Van Zandt",
+    "county_weights": "{\"48467\": 100}",
+    "county_names_all": "Van Zandt",
+    "county_fips_all": "48467",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

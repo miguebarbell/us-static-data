@@ -1,0 +1,20 @@
+{
+    "zip": 60919,
+    "lat": 40.98753,
+    "lng": -88.24012,
+    "city": "Cabery",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 455.0,
+    "density": 5.0,
+    "county_fips": 17053,
+    "county_name": "Ford",
+    "county_weights": "{\"17053\": 44.21, \"17105\": 41.54, \"17091\": 14.25}",
+    "county_names_all": "Ford|Livingston|Kankakee",
+    "county_fips_all": "17053|17105|17091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

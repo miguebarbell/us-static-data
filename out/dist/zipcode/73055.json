@@ -1,0 +1,20 @@
+{
+    "zip": 73055,
+    "lat": 34.64301,
+    "lng": -97.91624,
+    "city": "Marlow",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9639.0,
+    "density": 14.5,
+    "county_fips": 40137,
+    "county_name": "Stephens",
+    "county_weights": "{\"40137\": 75.26, \"40051\": 23.13, \"40031\": 1.61}",
+    "county_names_all": "Stephens|Grady|Comanche",
+    "county_fips_all": "40137|40051|40031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

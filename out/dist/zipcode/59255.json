@@ -1,0 +1,20 @@
+{
+    "zip": 59255,
+    "lat": 48.23115,
+    "lng": -105.16825,
+    "city": "Poplar",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2994.0,
+    "density": 1.7,
+    "county_fips": 30085,
+    "county_name": "Roosevelt",
+    "county_weights": "{\"30085\": 77.55, \"30083\": 19.44, \"30055\": 3.01}",
+    "county_names_all": "Roosevelt|Richland|McCone",
+    "county_fips_all": "30085|30083|30055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

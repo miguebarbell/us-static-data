@@ -1,0 +1,20 @@
+{
+    "zip": 22936,
+    "lat": 38.1671,
+    "lng": -78.49974,
+    "city": "Earlysville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6478.0,
+    "density": 67.0,
+    "county_fips": 51003,
+    "county_name": "Albemarle",
+    "county_weights": "{\"51003\": 100}",
+    "county_names_all": "Albemarle",
+    "county_fips_all": "51003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

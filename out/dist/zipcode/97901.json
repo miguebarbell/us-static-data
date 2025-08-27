@@ -1,0 +1,20 @@
+{
+    "zip": 97901,
+    "lat": 43.5996,
+    "lng": -117.09602,
+    "city": "Adrian",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 762.0,
+    "density": 2.1,
+    "county_fips": 41045,
+    "county_name": "Malheur",
+    "county_weights": "{\"41045\": 100}",
+    "county_names_all": "Malheur",
+    "county_fips_all": "41045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

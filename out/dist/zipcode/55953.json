@@ -1,0 +1,20 @@
+{
+    "zip": 55953,
+    "lat": 43.52772,
+    "lng": -92.96521,
+    "city": "Lyle",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 918.0,
+    "density": 10.0,
+    "county_fips": 27099,
+    "county_name": "Mower",
+    "county_weights": "{\"27099\": 93.24, \"27047\": 6.76}",
+    "county_names_all": "Mower|Freeborn",
+    "county_fips_all": "27099|27047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

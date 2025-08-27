@@ -1,0 +1,20 @@
+{
+    "zip": 37058,
+    "lat": 36.47872,
+    "lng": -87.8807,
+    "city": "Dover",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7369.0,
+    "density": 15.5,
+    "county_fips": 47161,
+    "county_name": "Stewart",
+    "county_weights": "{\"47161\": 100}",
+    "county_names_all": "Stewart",
+    "county_fips_all": "47161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

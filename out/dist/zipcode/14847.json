@@ -1,0 +1,20 @@
+{
+    "zip": 14847,
+    "lat": 42.6031,
+    "lng": -76.74047,
+    "city": "Interlaken",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2385.0,
+    "density": 22.8,
+    "county_fips": 36099,
+    "county_name": "Seneca",
+    "county_weights": "{\"36099\": 97.05, \"36097\": 2.95}",
+    "county_names_all": "Seneca|Schuyler",
+    "county_fips_all": "36099|36097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

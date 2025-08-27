@@ -1,0 +1,20 @@
+{
+    "zip": 43070,
+    "lat": 40.22056,
+    "lng": -83.95651,
+    "city": "Rosewood",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 170.0,
+    "density": 160.2,
+    "county_fips": 39021,
+    "county_name": "Champaign",
+    "county_weights": "{\"39021\": 100}",
+    "county_names_all": "Champaign",
+    "county_fips_all": "39021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

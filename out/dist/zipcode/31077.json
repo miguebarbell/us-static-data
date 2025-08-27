@@ -1,0 +1,20 @@
+{
+    "zip": 31077,
+    "lat": 31.93489,
+    "lng": -83.17727,
+    "city": "Rhine",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 871.0,
+    "density": 3.3,
+    "county_fips": 13091,
+    "county_name": "Dodge",
+    "county_weights": "{\"13091\": 53.2, \"13271\": 46.8}",
+    "county_names_all": "Dodge|Telfair",
+    "county_fips_all": "13091|13271",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

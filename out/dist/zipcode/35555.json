@@ -1,0 +1,20 @@
+{
+    "zip": 35555,
+    "lat": 33.66829,
+    "lng": -87.82309,
+    "city": "Fayette",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9689.0,
+    "density": 11.4,
+    "county_fips": 1057,
+    "county_name": "Fayette",
+    "county_weights": "{\"01057\": 87.82, \"01125\": 7.12, \"01075\": 3.96, \"01107\": 1.1}",
+    "county_names_all": "Fayette|Tuscaloosa|Lamar|Pickens",
+    "county_fips_all": "01057|01125|01075|01107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

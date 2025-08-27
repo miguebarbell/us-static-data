@@ -1,0 +1,20 @@
+{
+    "zip": 4781,
+    "lat": 47.14634,
+    "lng": -68.61883,
+    "city": "Wallagrass",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 573.0,
+    "density": 4.8,
+    "county_fips": 23003,
+    "county_name": "Aroostook",
+    "county_weights": "{\"23003\": 100}",
+    "county_names_all": "Aroostook",
+    "county_fips_all": "23003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

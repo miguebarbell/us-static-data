@@ -1,0 +1,20 @@
+{
+    "zip": 55609,
+    "lat": 46.9636,
+    "lng": -91.78554,
+    "city": "Knife River",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 118.0,
+    "density": 18.3,
+    "county_fips": 27075,
+    "county_name": "Lake",
+    "county_weights": "{\"27075\": 99.63, \"27137\": 0.37}",
+    "county_names_all": "Lake|St. Louis",
+    "county_fips_all": "27075|27137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

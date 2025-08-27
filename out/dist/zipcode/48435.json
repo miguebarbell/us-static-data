@@ -1,0 +1,20 @@
+{
+    "zip": 48435,
+    "lat": 43.24863,
+    "lng": -83.3598,
+    "city": "Fostoria",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2592.0,
+    "density": 38.4,
+    "county_fips": 26087,
+    "county_name": "Lapeer",
+    "county_weights": "{\"26087\": 50.12, \"26157\": 49.88}",
+    "county_names_all": "Lapeer|Tuscola",
+    "county_fips_all": "26087|26157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 60449,
+    "lat": 41.41392,
+    "lng": -87.76978,
+    "city": "Monee",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9607.0,
+    "density": 75.3,
+    "county_fips": 17197,
+    "county_name": "Will",
+    "county_weights": "{\"17197\": 98.74, \"17031\": 1.26}",
+    "county_names_all": "Will|Cook",
+    "county_fips_all": "17197|17031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

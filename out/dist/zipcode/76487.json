@@ -1,0 +1,20 @@
+{
+    "zip": 76487,
+    "lat": 32.97912,
+    "lng": -97.88346,
+    "city": "Poolville",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3799.0,
+    "density": 16.5,
+    "county_fips": 48367,
+    "county_name": "Parker",
+    "county_weights": "{\"48367\": 66.13, \"48497\": 23.48, \"48237\": 10.39}",
+    "county_names_all": "Parker|Wise|Jack",
+    "county_fips_all": "48367|48497|48237",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

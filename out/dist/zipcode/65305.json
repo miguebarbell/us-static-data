@@ -1,0 +1,20 @@
+{
+    "zip": 65305,
+    "lat": 38.72944,
+    "lng": -93.55446,
+    "city": "Whiteman Air Force Base",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3660.0,
+    "density": 246.7,
+    "county_fips": 29101,
+    "county_name": "Johnson",
+    "county_weights": "{\"29101\": 100}",
+    "county_names_all": "Johnson",
+    "county_fips_all": "29101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

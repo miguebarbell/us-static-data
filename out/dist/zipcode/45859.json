@@ -1,0 +1,20 @@
+{
+    "zip": 45859,
+    "lat": 40.69305,
+    "lng": -83.78574,
+    "city": "McGuffey",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 378.0,
+    "density": 418.6,
+    "county_fips": 39065,
+    "county_name": "Hardin",
+    "county_weights": "{\"39065\": 100}",
+    "county_names_all": "Hardin",
+    "county_fips_all": "39065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

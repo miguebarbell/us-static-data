@@ -1,0 +1,20 @@
+{
+    "zip": 24343,
+    "lat": 36.76612,
+    "lng": -80.70045,
+    "city": "Hillsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8942.0,
+    "density": 27.4,
+    "county_fips": 51035,
+    "county_name": "Carroll",
+    "county_weights": "{\"51035\": 95.06, \"51141\": 2.58, \"51197\": 2.36}",
+    "county_names_all": "Carroll|Patrick|Wythe",
+    "county_fips_all": "51035|51141|51197",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

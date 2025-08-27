@@ -1,0 +1,20 @@
+{
+    "zip": 25405,
+    "lat": 39.40892,
+    "lng": -77.96235,
+    "city": "Martinsburg",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14993.0,
+    "density": 267.1,
+    "county_fips": 54003,
+    "county_name": "Berkeley",
+    "county_weights": "{\"54003\": 100}",
+    "county_names_all": "Berkeley",
+    "county_fips_all": "54003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 63390,
+    "lat": 38.80499,
+    "lng": -91.0413,
+    "city": "Wright City",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10856.0,
+    "density": 53.6,
+    "county_fips": 29219,
+    "county_name": "Warren",
+    "county_weights": "{\"29219\": 87.99, \"29113\": 12.01}",
+    "county_names_all": "Warren|Lincoln",
+    "county_fips_all": "29219|29113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72923,
+    "lat": 35.30904,
+    "lng": -94.28954,
+    "city": "Barling",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4971.0,
+    "density": 117.2,
+    "county_fips": 5131,
+    "county_name": "Sebastian",
+    "county_weights": "{\"05131\": 100}",
+    "county_names_all": "Sebastian",
+    "county_fips_all": "05131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

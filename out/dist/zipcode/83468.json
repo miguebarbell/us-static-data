@@ -1,0 +1,20 @@
+{
+    "zip": 83468,
+    "lat": 44.92444,
+    "lng": -113.61293,
+    "city": "Tendoy",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 191.0,
+    "density": 0.5,
+    "county_fips": 16059,
+    "county_name": "Lemhi",
+    "county_weights": "{\"16059\": 100}",
+    "county_names_all": "Lemhi",
+    "county_fips_all": "16059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

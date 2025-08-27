@@ -1,0 +1,20 @@
+{
+    "zip": 22193,
+    "lat": 38.64233,
+    "lng": -77.34881,
+    "city": "Woodbridge",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 83798.0,
+    "density": 1769.8,
+    "county_fips": 51153,
+    "county_name": "Prince William",
+    "county_weights": "{\"51153\": 100}",
+    "county_names_all": "Prince William",
+    "county_fips_all": "51153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

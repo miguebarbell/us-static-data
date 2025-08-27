@@ -1,0 +1,20 @@
+{
+    "zip": 32356,
+    "lat": 29.85387,
+    "lng": -83.40018,
+    "city": "Salem",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 65.0,
+    "density": 0.6,
+    "county_fips": 12123,
+    "county_name": "Taylor",
+    "county_weights": "{\"12123\": 100}",
+    "county_names_all": "Taylor",
+    "county_fips_all": "12123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

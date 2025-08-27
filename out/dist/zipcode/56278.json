@@ -1,0 +1,20 @@
+{
+    "zip": 56278,
+    "lat": 45.345,
+    "lng": -96.37718,
+    "city": "Ortonville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2685.0,
+    "density": 7.7,
+    "county_fips": 27011,
+    "county_name": "Big Stone",
+    "county_weights": "{\"27011\": 90.19, \"27073\": 9.81}",
+    "county_names_all": "Big Stone|Lac qui Parle",
+    "county_fips_all": "27011|27073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 80514,
+    "lat": 40.07152,
+    "lng": -104.95401,
+    "city": "Dacono",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6419.0,
+    "density": 268.9,
+    "county_fips": 8123,
+    "county_name": "Weld",
+    "county_weights": "{\"08123\": 100}",
+    "county_names_all": "Weld",
+    "county_fips_all": "08123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 20119,
+    "lat": 38.62159,
+    "lng": -77.62819,
+    "city": "Catlett",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3543.0,
+    "density": 21.1,
+    "county_fips": 51061,
+    "county_name": "Fauquier",
+    "county_weights": "{\"51061\": 99.02, \"51153\": 0.98}",
+    "county_names_all": "Fauquier|Prince William",
+    "county_fips_all": "51061|51153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

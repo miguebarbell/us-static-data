@@ -1,0 +1,20 @@
+{
+    "zip": 22841,
+    "lat": 38.33887,
+    "lng": -78.89417,
+    "city": "Mount Crawford",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3001.0,
+    "density": 38.5,
+    "county_fips": 51165,
+    "county_name": "Rockingham",
+    "county_weights": "{\"51165\": 98.12, \"51015\": 1.88}",
+    "county_names_all": "Rockingham|Augusta",
+    "county_fips_all": "51165|51015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

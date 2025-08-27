@@ -1,0 +1,20 @@
+{
+    "zip": 98557,
+    "lat": 47.04332,
+    "lng": -123.2681,
+    "city": "Mccleary",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3949.0,
+    "density": 42.9,
+    "county_fips": 53027,
+    "county_name": "Grays Harbor",
+    "county_weights": "{\"53027\": 97.89, \"53045\": 2.11}",
+    "county_names_all": "Grays Harbor|Mason",
+    "county_fips_all": "53027|53045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

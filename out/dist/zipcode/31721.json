@@ -1,0 +1,20 @@
+{
+    "zip": 31721,
+    "lat": 31.5087,
+    "lng": -84.30331,
+    "city": "Albany",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19655.0,
+    "density": 34.4,
+    "county_fips": 13095,
+    "county_name": "Dougherty",
+    "county_weights": "{\"13095\": 82.76, \"13007\": 15.95, \"13177\": 0.67, \"13273\": 0.62}",
+    "county_names_all": "Dougherty|Baker|Lee|Terrell",
+    "county_fips_all": "13095|13007|13177|13273",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 24432,
+    "lat": 38.17639,
+    "lng": -79.43845,
+    "city": "Deerfield",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 498.0,
+    "density": 4.6,
+    "county_fips": 51015,
+    "county_name": "Augusta",
+    "county_weights": "{\"51015\": 89.02, \"51017\": 10.98}",
+    "county_names_all": "Augusta|Bath",
+    "county_fips_all": "51015|51017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

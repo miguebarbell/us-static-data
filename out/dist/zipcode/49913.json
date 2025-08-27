@@ -1,0 +1,20 @@
+{
+    "zip": 49913,
+    "lat": 47.23746,
+    "lng": -88.44994,
+    "city": "Calumet",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7483.0,
+    "density": 38.3,
+    "county_fips": 26061,
+    "county_name": "Houghton",
+    "county_weights": "{\"26061\": 92.77, \"26083\": 7.23}",
+    "county_names_all": "Houghton|Keweenaw",
+    "county_fips_all": "26061|26083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

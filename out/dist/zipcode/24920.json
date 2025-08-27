@@ -1,0 +1,20 @@
+{
+    "zip": 24920,
+    "lat": 38.58918,
+    "lng": -79.71723,
+    "city": "Bartow",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 461.0,
+    "density": 1.9,
+    "county_fips": 54075,
+    "county_name": "Pocahontas",
+    "county_weights": "{\"54075\": 100}",
+    "county_names_all": "Pocahontas",
+    "county_fips_all": "54075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

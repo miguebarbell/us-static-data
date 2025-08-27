@@ -1,0 +1,20 @@
+{
+    "zip": 3907,
+    "lat": 43.25474,
+    "lng": -70.611,
+    "city": "Ogunquit",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1264.0,
+    "density": 119.5,
+    "county_fips": 23031,
+    "county_name": "York",
+    "county_weights": "{\"23031\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "23031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

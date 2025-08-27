@@ -1,0 +1,20 @@
+{
+    "zip": 31049,
+    "lat": 32.68281,
+    "lng": -82.52634,
+    "city": "Kite",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1661.0,
+    "density": 7.0,
+    "county_fips": 13167,
+    "county_name": "Johnson",
+    "county_weights": "{\"13167\": 80.15, \"13107\": 19.85}",
+    "county_names_all": "Johnson|Emanuel",
+    "county_fips_all": "13167|13107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

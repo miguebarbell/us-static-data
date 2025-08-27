@@ -1,0 +1,20 @@
+{
+    "zip": 76624,
+    "lat": 31.66671,
+    "lng": -96.95099,
+    "city": "Axtell",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2679.0,
+    "density": 16.3,
+    "county_fips": 48309,
+    "county_name": "McLennan",
+    "county_weights": "{\"48309\": 87.55, \"48293\": 12.45}",
+    "county_names_all": "McLennan|Limestone",
+    "county_fips_all": "48309|48293",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

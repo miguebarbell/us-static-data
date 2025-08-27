@@ -1,0 +1,20 @@
+{
+    "zip": 26743,
+    "lat": 39.28873,
+    "lng": -79.07998,
+    "city": "New Creek",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2126.0,
+    "density": 11.4,
+    "county_fips": 54057,
+    "county_name": "Mineral",
+    "county_weights": "{\"54057\": 50.66, \"54023\": 49.34}",
+    "county_names_all": "Mineral|Grant",
+    "county_fips_all": "54057|54023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

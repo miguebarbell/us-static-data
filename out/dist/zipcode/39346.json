@@ -1,0 +1,20 @@
+{
+    "zip": 39346,
+    "lat": 32.96171,
+    "lng": -89.089,
+    "city": "Noxapater",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1830.0,
+    "density": 9.0,
+    "county_fips": 28159,
+    "county_name": "Winston",
+    "county_weights": "{\"28159\": 85.82, \"28099\": 14.18}",
+    "county_names_all": "Winston|Neshoba",
+    "county_fips_all": "28159|28099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

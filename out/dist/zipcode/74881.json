@@ -1,0 +1,20 @@
+{
+    "zip": 74881,
+    "lat": 35.72136,
+    "lng": -97.08264,
+    "city": "Wellston",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5273.0,
+    "density": 12.6,
+    "county_fips": 40081,
+    "county_name": "Lincoln",
+    "county_weights": "{\"40081\": 87.56, \"40083\": 12.44}",
+    "county_names_all": "Lincoln|Logan",
+    "county_fips_all": "40081|40083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

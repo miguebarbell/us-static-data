@@ -1,0 +1,20 @@
+{
+    "zip": 36049,
+    "lat": 31.76612,
+    "lng": -86.28092,
+    "city": "Luverne",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5314.0,
+    "density": 12.7,
+    "county_fips": 1041,
+    "county_name": "Crenshaw",
+    "county_weights": "{\"01041\": 95.81, \"01109\": 4.19}",
+    "county_names_all": "Crenshaw|Pike",
+    "county_fips_all": "01041|01109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

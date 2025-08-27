@@ -1,0 +1,20 @@
+{
+    "zip": 63630,
+    "lat": 38.01874,
+    "lng": -90.72727,
+    "city": "Cadet",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3765.0,
+    "density": 21.5,
+    "county_fips": 29221,
+    "county_name": "Washington",
+    "county_weights": "{\"29221\": 93.32, \"29187\": 6.68}",
+    "county_names_all": "Washington|St. Francois",
+    "county_fips_all": "29221|29187",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

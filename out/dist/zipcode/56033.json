@@ -1,0 +1,20 @@
+{
+    "zip": 56033,
+    "lat": 43.55926,
+    "lng": -93.93118,
+    "city": "Frost",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 429.0,
+    "density": 4.8,
+    "county_fips": 27043,
+    "county_name": "Faribault",
+    "county_weights": "{\"27043\": 100}",
+    "county_names_all": "Faribault",
+    "county_fips_all": "27043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

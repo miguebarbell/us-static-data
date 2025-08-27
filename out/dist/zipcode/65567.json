@@ -1,0 +1,20 @@
+{
+    "zip": 65567,
+    "lat": 37.85594,
+    "lng": -92.53699,
+    "city": "Stoutland",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1586.0,
+    "density": 9.5,
+    "county_fips": 29029,
+    "county_name": "Camden",
+    "county_weights": "{\"29029\": 79.47, \"29105\": 20.53}",
+    "county_names_all": "Camden|Laclede",
+    "county_fips_all": "29029|29105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

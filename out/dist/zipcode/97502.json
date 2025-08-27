@@ -1,0 +1,20 @@
+{
+    "zip": 97502,
+    "lat": 42.40927,
+    "lng": -122.94718,
+    "city": "Central Point",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29583.0,
+    "density": 139.2,
+    "county_fips": 41029,
+    "county_name": "Jackson",
+    "county_weights": "{\"41029\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "41029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49887,
+    "lat": 45.43104,
+    "lng": -87.56773,
+    "city": "Stephenson",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2735.0,
+    "density": 5.1,
+    "county_fips": 26109,
+    "county_name": "Menominee",
+    "county_weights": "{\"26109\": 100}",
+    "county_names_all": "Menominee",
+    "county_fips_all": "26109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Menominee"
+}

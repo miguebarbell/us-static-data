@@ -1,0 +1,20 @@
+{
+    "zip": 93604,
+    "lat": 37.3717,
+    "lng": -119.52215,
+    "city": "Bass Lake",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 518.0,
+    "density": 4.5,
+    "county_fips": 6039,
+    "county_name": "Madera",
+    "county_weights": "{\"06039\": 100}",
+    "county_names_all": "Madera",
+    "county_fips_all": "06039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

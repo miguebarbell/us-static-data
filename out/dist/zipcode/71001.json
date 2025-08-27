@@ -1,0 +1,20 @@
+{
+    "zip": 71001,
+    "lat": 32.59188,
+    "lng": -92.90028,
+    "city": "Arcadia",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4209.0,
+    "density": 12.3,
+    "county_fips": 22013,
+    "county_name": "Bienville",
+    "county_weights": "{\"22013\": 44.98, \"22027\": 30.66, \"22061\": 24.36}",
+    "county_names_all": "Bienville|Claiborne|Lincoln",
+    "county_fips_all": "22013|22027|22061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

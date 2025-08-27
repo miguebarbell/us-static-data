@@ -1,0 +1,20 @@
+{
+    "zip": 37779,
+    "lat": 36.21093,
+    "lng": -83.75793,
+    "city": "Luttrell",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3443.0,
+    "density": 38.5,
+    "county_fips": 47173,
+    "county_name": "Union",
+    "county_weights": "{\"47173\": 95.74, \"47093\": 4.05, \"47057\": 0.21}",
+    "county_names_all": "Union|Knox|Grainger",
+    "county_fips_all": "47173|47093|47057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

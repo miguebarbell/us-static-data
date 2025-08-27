@@ -1,0 +1,20 @@
+{
+    "zip": 59261,
+    "lat": 48.53327,
+    "lng": -107.3599,
+    "city": "Saco",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 496.0,
+    "density": 0.3,
+    "county_fips": 30071,
+    "county_name": "Phillips",
+    "county_weights": "{\"30071\": 79.05, \"30105\": 20.95}",
+    "county_names_all": "Phillips|Valley",
+    "county_fips_all": "30071|30105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

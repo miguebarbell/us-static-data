@@ -1,0 +1,20 @@
+{
+    "zip": 75954,
+    "lat": 31.92169,
+    "lng": -94.05523,
+    "city": "Joaquin",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2976.0,
+    "density": 10.7,
+    "county_fips": 48419,
+    "county_name": "Shelby",
+    "county_weights": "{\"48419\": 88.79, \"48365\": 11.21}",
+    "county_names_all": "Shelby|Panola",
+    "county_fips_all": "48419|48365",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

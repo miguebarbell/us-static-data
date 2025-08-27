@@ -1,0 +1,20 @@
+{
+    "zip": 26237,
+    "lat": 38.84769,
+    "lng": -80.15145,
+    "city": "Tallmansville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 556.0,
+    "density": 6.1,
+    "county_fips": 54097,
+    "county_name": "Upshur",
+    "county_weights": "{\"54097\": 100}",
+    "county_names_all": "Upshur",
+    "county_fips_all": "54097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

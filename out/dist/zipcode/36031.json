@@ -1,0 +1,20 @@
+{
+    "zip": 36031,
+    "lat": 32.24944,
+    "lng": -85.75157,
+    "city": "Fort Davis",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 96.0,
+    "density": 3.8,
+    "county_fips": 1087,
+    "county_name": "Macon",
+    "county_weights": "{\"01087\": 99.9, \"01011\": 0.1}",
+    "county_names_all": "Macon|Bullock",
+    "county_fips_all": "01087|01011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

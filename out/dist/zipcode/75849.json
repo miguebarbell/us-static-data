@@ -1,0 +1,20 @@
+{
+    "zip": 75849,
+    "lat": 31.39624,
+    "lng": -95.47618,
+    "city": "Latexo",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 76.0,
+    "density": 83.5,
+    "county_fips": 48225,
+    "county_name": "Houston",
+    "county_weights": "{\"48225\": 100}",
+    "county_names_all": "Houston",
+    "county_fips_all": "48225",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

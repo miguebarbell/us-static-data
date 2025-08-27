@@ -1,0 +1,20 @@
+{
+    "zip": 37861,
+    "lat": 36.24516,
+    "lng": -83.51421,
+    "city": "Rutledge",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8578.0,
+    "density": 33.6,
+    "county_fips": 47057,
+    "county_name": "Grainger",
+    "county_weights": "{\"47057\": 100}",
+    "county_names_all": "Grainger",
+    "county_fips_all": "47057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

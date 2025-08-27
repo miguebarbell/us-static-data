@@ -1,0 +1,20 @@
+{
+    "zip": 87144,
+    "lat": 35.33074,
+    "lng": -106.71248,
+    "city": "Rio Rancho",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 49976.0,
+    "density": 192.2,
+    "county_fips": 35043,
+    "county_name": "Sandoval",
+    "county_weights": "{\"35043\": 100}",
+    "county_names_all": "Sandoval",
+    "county_fips_all": "35043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 71275,
+    "lat": 32.51276,
+    "lng": -92.81991,
+    "city": "Simsboro",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2565.0,
+    "density": 10.2,
+    "county_fips": 22061,
+    "county_name": "Lincoln",
+    "county_weights": "{\"22061\": 76.95, \"22013\": 23.05}",
+    "county_names_all": "Lincoln|Bienville",
+    "county_fips_all": "22061|22013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

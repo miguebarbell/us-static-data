@@ -1,0 +1,20 @@
+{
+    "zip": 58476,
+    "lat": 47.19398,
+    "lng": -99.00263,
+    "city": "Pingree",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 516.0,
+    "density": 0.9,
+    "county_fips": 38093,
+    "county_name": "Stutsman",
+    "county_weights": "{\"38093\": 100}",
+    "county_names_all": "Stutsman",
+    "county_fips_all": "38093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

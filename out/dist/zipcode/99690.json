@@ -1,0 +1,20 @@
+{
+    "zip": 99690,
+    "lat": 60.48738,
+    "lng": -164.81953,
+    "city": "Nightmute",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 67.0,
+    "density": 0.3,
+    "county_fips": 2050,
+    "county_name": "Bethel",
+    "county_weights": "{\"02050\": 100}",
+    "county_names_all": "Bethel",
+    "county_fips_all": "02050",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Nome"
+}

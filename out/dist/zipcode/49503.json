@@ -1,0 +1,20 @@
+{
+    "zip": 49503,
+    "lat": 42.96282,
+    "lng": -85.65872,
+    "city": "Grand Rapids",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37874.0,
+    "density": 2014.4,
+    "county_fips": 26081,
+    "county_name": "Kent",
+    "county_weights": "{\"26081\": 100}",
+    "county_names_all": "Kent",
+    "county_fips_all": "26081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

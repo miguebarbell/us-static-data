@@ -1,0 +1,20 @@
+{
+    "zip": 35989,
+    "lat": 34.60858,
+    "lng": -85.63162,
+    "city": "Valley Head",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3793.0,
+    "density": 25.6,
+    "county_fips": 1049,
+    "county_name": "DeKalb",
+    "county_weights": "{\"01049\": 100}",
+    "county_names_all": "DeKalb",
+    "county_fips_all": "01049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

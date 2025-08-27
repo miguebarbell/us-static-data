@@ -1,0 +1,20 @@
+{
+    "zip": 64092,
+    "lat": 39.22248,
+    "lng": -94.8088,
+    "city": "Waldron",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 29165,
+    "county_name": "Platte",
+    "county_weights": "{\"29165\": 100}",
+    "county_names_all": "Platte",
+    "county_fips_all": "29165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

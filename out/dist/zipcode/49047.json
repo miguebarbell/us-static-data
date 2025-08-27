@@ -1,0 +1,20 @@
+{
+    "zip": 49047,
+    "lat": 42.00437,
+    "lng": -86.12138,
+    "city": "Dowagiac",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14506.0,
+    "density": 47.0,
+    "county_fips": 26027,
+    "county_name": "Cass",
+    "county_weights": "{\"26027\": 90.33, \"26159\": 7.84, \"26021\": 1.83}",
+    "county_names_all": "Cass|Van Buren|Berrien",
+    "county_fips_all": "26027|26159|26021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

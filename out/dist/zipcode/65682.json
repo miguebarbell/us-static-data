@@ -1,0 +1,20 @@
+{
+    "zip": 65682,
+    "lat": 37.41722,
+    "lng": -93.97293,
+    "city": "Lockwood",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2079.0,
+    "density": 5.5,
+    "county_fips": 29057,
+    "county_name": "Dade",
+    "county_weights": "{\"29057\": 94.57, \"29109\": 5.43}",
+    "county_names_all": "Dade|Lawrence",
+    "county_fips_all": "29057|29109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

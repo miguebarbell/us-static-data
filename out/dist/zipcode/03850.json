@@ -1,0 +1,20 @@
+{
+    "zip": 3850,
+    "lat": 43.69739,
+    "lng": -71.29983,
+    "city": "Melvin Village",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 320.0,
+    "density": 42.9,
+    "county_fips": 33003,
+    "county_name": "Carroll",
+    "county_weights": "{\"33003\": 100}",
+    "county_names_all": "Carroll",
+    "county_fips_all": "33003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

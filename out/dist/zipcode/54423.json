@@ -1,0 +1,20 @@
+{
+    "zip": 54423,
+    "lat": 44.58049,
+    "lng": -89.41642,
+    "city": "Custer",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2235.0,
+    "density": 17.9,
+    "county_fips": 55097,
+    "county_name": "Portage",
+    "county_weights": "{\"55097\": 100}",
+    "county_names_all": "Portage",
+    "county_fips_all": "55097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

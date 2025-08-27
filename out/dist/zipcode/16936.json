@@ -1,0 +1,20 @@
+{
+    "zip": 16936,
+    "lat": 41.94318,
+    "lng": -76.95837,
+    "city": "Millerton",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2072.0,
+    "density": 16.8,
+    "county_fips": 42117,
+    "county_name": "Tioga",
+    "county_weights": "{\"42117\": 82.91, \"42015\": 17.09}",
+    "county_names_all": "Tioga|Bradford",
+    "county_fips_all": "42117|42015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

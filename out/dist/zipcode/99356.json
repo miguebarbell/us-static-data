@@ -1,0 +1,20 @@
+{
+    "zip": 99356,
+    "lat": 45.83459,
+    "lng": -120.36258,
+    "city": "Roosevelt",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 329.0,
+    "density": 0.5,
+    "county_fips": 53039,
+    "county_name": "Klickitat",
+    "county_weights": "{\"53039\": 100}",
+    "county_names_all": "Klickitat",
+    "county_fips_all": "53039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

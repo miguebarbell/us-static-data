@@ -1,0 +1,20 @@
+{
+    "zip": 22407,
+    "lat": 38.28581,
+    "lng": -77.58055,
+    "city": "Fredericksburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 64273.0,
+    "density": 406.8,
+    "county_fips": 51177,
+    "county_name": "Spotsylvania",
+    "county_weights": "{\"51177\": 97.26, \"51047\": 2.63, \"51630\": 0.11}",
+    "county_names_all": "Spotsylvania|Culpeper|Fredericksburg",
+    "county_fips_all": "51177|51047|51630",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49101,
+    "lat": 41.94462,
+    "lng": -86.48429,
+    "city": "Baroda",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2939.0,
+    "density": 55.0,
+    "county_fips": 26021,
+    "county_name": "Berrien",
+    "county_weights": "{\"26021\": 100}",
+    "county_names_all": "Berrien",
+    "county_fips_all": "26021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

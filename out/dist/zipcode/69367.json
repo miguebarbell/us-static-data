@@ -1,0 +1,20 @@
+{
+    "zip": 69367,
+    "lat": 42.81651,
+    "lng": -103.32332,
+    "city": "Whitney",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 122.0,
+    "density": 0.2,
+    "county_fips": 31045,
+    "county_name": "Dawes",
+    "county_weights": "{\"31045\": 100}",
+    "county_names_all": "Dawes",
+    "county_fips_all": "31045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

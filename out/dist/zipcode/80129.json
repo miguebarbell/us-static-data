@@ -1,0 +1,20 @@
+{
+    "zip": 80129,
+    "lat": 39.54521,
+    "lng": -105.01203,
+    "city": "Littleton",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29495.0,
+    "density": 1617.5,
+    "county_fips": 8035,
+    "county_name": "Douglas",
+    "county_weights": "{\"08035\": 99.49, \"08005\": 0.51}",
+    "county_names_all": "Douglas|Arapahoe",
+    "county_fips_all": "08035|08005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

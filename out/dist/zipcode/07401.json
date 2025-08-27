@@ -1,0 +1,20 @@
+{
+    "zip": 7401,
+    "lat": 41.03321,
+    "lng": -74.13328,
+    "city": "Allendale",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6820.0,
+    "density": 851.8,
+    "county_fips": 34003,
+    "county_name": "Bergen",
+    "county_weights": "{\"34003\": 100}",
+    "county_names_all": "Bergen",
+    "county_fips_all": "34003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

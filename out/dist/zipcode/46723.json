@@ -1,0 +1,20 @@
+{
+    "zip": 46723,
+    "lat": 41.23828,
+    "lng": -85.32441,
+    "city": "Churubusco",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7575.0,
+    "density": 50.2,
+    "county_fips": 18183,
+    "county_name": "Whitley",
+    "county_weights": "{\"18183\": 40.4, \"18003\": 36.76, \"18113\": 22.83}",
+    "county_names_all": "Whitley|Allen|Noble",
+    "county_fips_all": "18183|18003|18113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

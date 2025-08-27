@@ -1,0 +1,20 @@
+{
+    "zip": 12920,
+    "lat": 44.89332,
+    "lng": -74.06016,
+    "city": "Chateaugay",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2509.0,
+    "density": 12.1,
+    "county_fips": 36033,
+    "county_name": "Franklin",
+    "county_weights": "{\"36033\": 92.69, \"36019\": 7.31}",
+    "county_names_all": "Franklin|Clinton",
+    "county_fips_all": "36033|36019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

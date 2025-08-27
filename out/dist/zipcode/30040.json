@@ -1,0 +1,20 @@
+{
+    "zip": 30040,
+    "lat": 34.21622,
+    "lng": -84.17978,
+    "city": "Cumming",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 79580.0,
+    "density": 532.8,
+    "county_fips": 13117,
+    "county_name": "Forsyth",
+    "county_weights": "{\"13117\": 97.84, \"13057\": 2.16}",
+    "county_names_all": "Forsyth|Cherokee",
+    "county_fips_all": "13117|13057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

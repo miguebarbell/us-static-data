@@ -1,0 +1,20 @@
+{
+    "zip": 12542,
+    "lat": 41.60772,
+    "lng": -73.99666,
+    "city": "Marlboro",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5859.0,
+    "density": 157.2,
+    "county_fips": 36111,
+    "county_name": "Ulster",
+    "county_weights": "{\"36111\": 91.03, \"36071\": 8.97}",
+    "county_names_all": "Ulster|Orange",
+    "county_fips_all": "36111|36071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

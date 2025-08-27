@@ -1,0 +1,20 @@
+{
+    "zip": 25504,
+    "lat": 38.37297,
+    "lng": -82.26674,
+    "city": "Barboursville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12197.0,
+    "density": 90.1,
+    "county_fips": 54011,
+    "county_name": "Cabell",
+    "county_weights": "{\"54011\": 90.24, \"54099\": 9.76}",
+    "county_names_all": "Cabell|Wayne",
+    "county_fips_all": "54011|54099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

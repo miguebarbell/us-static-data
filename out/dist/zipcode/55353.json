@@ -1,0 +1,20 @@
+{
+    "zip": 55353,
+    "lat": 45.32034,
+    "lng": -94.31607,
+    "city": "Kimball",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3273.0,
+    "density": 15.6,
+    "county_fips": 27145,
+    "county_name": "Stearns",
+    "county_weights": "{\"27145\": 67.05, \"27093\": 32.95}",
+    "county_names_all": "Stearns|Meeker",
+    "county_fips_all": "27145|27093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

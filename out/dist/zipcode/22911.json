@@ -1,0 +1,20 @@
+{
+    "zip": 22911,
+    "lat": 38.09522,
+    "lng": -78.4078,
+    "city": "Charlottesville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18985.0,
+    "density": 142.6,
+    "county_fips": 51003,
+    "county_name": "Albemarle",
+    "county_weights": "{\"51003\": 100}",
+    "county_names_all": "Albemarle",
+    "county_fips_all": "51003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

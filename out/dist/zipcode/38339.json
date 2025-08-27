@@ -1,0 +1,20 @@
+{
+    "zip": 38339,
+    "lat": 35.0524,
+    "lng": -88.5147,
+    "city": "Guys",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 464.0,
+    "density": 9.0,
+    "county_fips": 47109,
+    "county_name": "McNairy",
+    "county_weights": "{\"47109\": 100}",
+    "county_names_all": "McNairy",
+    "county_fips_all": "47109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

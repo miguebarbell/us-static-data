@@ -1,0 +1,20 @@
+{
+    "zip": 43331,
+    "lat": 40.51794,
+    "lng": -83.9191,
+    "city": "Lakeview",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4012.0,
+    "density": 50.2,
+    "county_fips": 39091,
+    "county_name": "Logan",
+    "county_weights": "{\"39091\": 69.8, \"39011\": 25.08, \"39065\": 5.12}",
+    "county_names_all": "Logan|Auglaize|Hardin",
+    "county_fips_all": "39091|39011|39065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43973,
+    "lat": 40.19111,
+    "lng": -81.27688,
+    "city": "Freeport",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2341.0,
+    "density": 10.4,
+    "county_fips": 39067,
+    "county_name": "Harrison",
+    "county_weights": "{\"39067\": 52.15, \"39059\": 47.21, \"39157\": 0.64}",
+    "county_names_all": "Harrison|Guernsey|Tuscarawas",
+    "county_fips_all": "39067|39059|39157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

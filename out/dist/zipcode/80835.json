@@ -1,0 +1,20 @@
+{
+    "zip": 80835,
+    "lat": 39.20933,
+    "lng": -104.07223,
+    "city": "Simla",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 791.0,
+    "density": 2.2,
+    "county_fips": 8039,
+    "county_name": "Elbert",
+    "county_weights": "{\"08039\": 94.13, \"08041\": 5.87}",
+    "county_names_all": "Elbert|El Paso",
+    "county_fips_all": "08039|08041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

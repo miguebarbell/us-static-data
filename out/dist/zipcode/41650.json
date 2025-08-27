@@ -1,0 +1,20 @@
+{
+    "zip": 41650,
+    "lat": 37.34722,
+    "lng": -82.68166,
+    "city": "Melvin",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 549.0,
+    "density": 38.5,
+    "county_fips": 21071,
+    "county_name": "Floyd",
+    "county_weights": "{\"21071\": 100}",
+    "county_names_all": "Floyd",
+    "county_fips_all": "21071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

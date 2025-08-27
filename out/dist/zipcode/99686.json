@@ -1,0 +1,20 @@
+{
+    "zip": 99686,
+    "lat": 61.04886,
+    "lng": -146.19038,
+    "city": "Valdez",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3935.0,
+    "density": 1.1,
+    "county_fips": 2063,
+    "county_name": "Chugach",
+    "county_weights": "{\"02063\": 99.86, \"02066\": 0.14}",
+    "county_names_all": "Chugach|Copper River",
+    "county_fips_all": "02063|02066",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

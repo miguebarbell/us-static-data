@@ -1,0 +1,20 @@
+{
+    "zip": 73444,
+    "lat": 34.4875,
+    "lng": -97.38256,
+    "city": "Hennepin",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 135.0,
+    "density": 3.3,
+    "county_fips": 40019,
+    "county_name": "Carter",
+    "county_weights": "{\"40019\": 86.23, \"40099\": 12.76, \"40049\": 1.01}",
+    "county_names_all": "Carter|Murray|Garvin",
+    "county_fips_all": "40019|40099|40049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

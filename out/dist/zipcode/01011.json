@@ -1,0 +1,20 @@
+{
+    "zip": 1011,
+    "lat": 42.30233,
+    "lng": -72.96448,
+    "city": "Chester",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1205.0,
+    "density": 14.2,
+    "county_fips": 25013,
+    "county_name": "Hampden",
+    "county_weights": "{\"25013\": 77.54, \"25015\": 22.46}",
+    "county_names_all": "Hampden|Hampshire",
+    "county_fips_all": "25013|25015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

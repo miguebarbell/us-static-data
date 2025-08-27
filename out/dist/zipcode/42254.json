@@ -1,0 +1,20 @@
+{
+    "zip": 42254,
+    "lat": 36.66435,
+    "lng": -87.63852,
+    "city": "La Fayette",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 176.0,
+    "density": 7.2,
+    "county_fips": 21047,
+    "county_name": "Christian",
+    "county_weights": "{\"21047\": 100}",
+    "county_names_all": "Christian",
+    "county_fips_all": "21047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

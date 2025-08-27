@@ -1,0 +1,20 @@
+{
+    "zip": 32033,
+    "lat": 29.78851,
+    "lng": -81.44263,
+    "city": "Elkton",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4555.0,
+    "density": 22.4,
+    "county_fips": 12109,
+    "county_name": "St. Johns",
+    "county_weights": "{\"12109\": 100}",
+    "county_names_all": "St. Johns",
+    "county_fips_all": "12109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

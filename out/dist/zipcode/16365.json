@@ -1,0 +1,20 @@
+{
+    "zip": 16365,
+    "lat": 41.83943,
+    "lng": -79.15324,
+    "city": "Warren",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17303.0,
+    "density": 48.0,
+    "county_fips": 42123,
+    "county_name": "Warren",
+    "county_weights": "{\"42123\": 100}",
+    "county_names_all": "Warren",
+    "county_fips_all": "42123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

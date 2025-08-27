@@ -1,0 +1,20 @@
+{
+    "zip": 65725,
+    "lat": 37.42986,
+    "lng": -93.27424,
+    "city": "Pleasant Hope",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2692.0,
+    "density": 33.2,
+    "county_fips": 29167,
+    "county_name": "Polk",
+    "county_weights": "{\"29167\": 61.95, \"29077\": 38.05}",
+    "county_names_all": "Polk|Greene",
+    "county_fips_all": "29167|29077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

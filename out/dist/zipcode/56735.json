@@ -1,0 +1,20 @@
+{
+    "zip": 56735,
+    "lat": 48.91328,
+    "lng": -96.63659,
+    "city": "Lancaster",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 658.0,
+    "density": 0.7,
+    "county_fips": 27069,
+    "county_name": "Kittson",
+    "county_weights": "{\"27069\": 81.23, \"27135\": 18.77}",
+    "county_names_all": "Kittson|Roseau",
+    "county_fips_all": "27069|27135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

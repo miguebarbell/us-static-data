@@ -1,0 +1,20 @@
+{
+    "zip": 22952,
+    "lat": 37.95836,
+    "lng": -78.97136,
+    "city": "Lyndhurst",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1500.0,
+    "density": 12.6,
+    "county_fips": 51015,
+    "county_name": "Augusta",
+    "county_weights": "{\"51015\": 98.83, \"51125\": 1.17}",
+    "county_names_all": "Augusta|Nelson",
+    "county_fips_all": "51015|51125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

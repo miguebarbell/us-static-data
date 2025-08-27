@@ -1,0 +1,20 @@
+{
+    "zip": 638,
+    "lat": 18.28462,
+    "lng": -66.5137,
+    "city": "Ciales",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17410.0,
+    "density": 94.1,
+    "county_fips": 72039,
+    "county_name": "Ciales",
+    "county_weights": "{\"72039\": 91.88, \"72107\": 7.48, \"72091\": 0.64}",
+    "county_names_all": "Ciales|Orocovis|Manat\u00ed",
+    "county_fips_all": "72039|72107|72091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

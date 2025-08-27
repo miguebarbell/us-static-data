@@ -1,0 +1,20 @@
+{
+    "zip": 77359,
+    "lat": 30.76262,
+    "lng": -95.30441,
+    "city": "Oakhurst",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 727.0,
+    "density": 6.6,
+    "county_fips": 48407,
+    "county_name": "San Jacinto",
+    "county_weights": "{\"48407\": 100}",
+    "county_names_all": "San Jacinto",
+    "county_fips_all": "48407",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

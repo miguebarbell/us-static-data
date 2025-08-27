@@ -1,0 +1,20 @@
+{
+    "zip": 29929,
+    "lat": 32.93805,
+    "lng": -80.9434,
+    "city": "Islandton",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1301.0,
+    "density": 6.4,
+    "county_fips": 45029,
+    "county_name": "Colleton",
+    "county_weights": "{\"45029\": 100}",
+    "county_names_all": "Colleton",
+    "county_fips_all": "45029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

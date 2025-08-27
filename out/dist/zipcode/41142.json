@@ -1,0 +1,20 @@
+{
+    "zip": 41142,
+    "lat": 38.27774,
+    "lng": -83.07308,
+    "city": "Grahn",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 95.0,
+    "density": 69.6,
+    "county_fips": 21043,
+    "county_name": "Carter",
+    "county_weights": "{\"21043\": 100}",
+    "county_names_all": "Carter",
+    "county_fips_all": "21043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49969,
+    "lat": 46.24608,
+    "lng": -89.21431,
+    "city": "Watersmeet",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1054.0,
+    "density": 1.6,
+    "county_fips": 26053,
+    "county_name": "Gogebic",
+    "county_weights": "{\"26053\": 100}",
+    "county_names_all": "Gogebic",
+    "county_fips_all": "26053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Menominee"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 95546,
+    "lat": 41.18777,
+    "lng": -123.74535,
+    "city": "Hoopa",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2436.0,
+    "density": 10.8,
+    "county_fips": 6023,
+    "county_name": "Humboldt",
+    "county_weights": "{\"06023\": 100}",
+    "county_names_all": "Humboldt",
+    "county_fips_all": "06023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

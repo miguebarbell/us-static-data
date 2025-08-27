@@ -1,0 +1,20 @@
+{
+    "zip": 56011,
+    "lat": 44.60344,
+    "lng": -93.777,
+    "city": "Belle Plaine",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9672.0,
+    "density": 36.5,
+    "county_fips": 27139,
+    "county_name": "Scott",
+    "county_weights": "{\"27139\": 67.13, \"27143\": 16.87, \"27019\": 9.4, \"27079\": 6.6}",
+    "county_names_all": "Scott|Sibley|Carver|Le Sueur",
+    "county_fips_all": "27139|27143|27019|27079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

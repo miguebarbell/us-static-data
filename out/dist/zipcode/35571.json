@@ -1,0 +1,20 @@
+{
+    "zip": 35571,
+    "lat": 34.35153,
+    "lng": -87.94672,
+    "city": "Hodges",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 741.0,
+    "density": 4.6,
+    "county_fips": 1059,
+    "county_name": "Franklin",
+    "county_weights": "{\"01059\": 78.43, \"01093\": 21.57}",
+    "county_names_all": "Franklin|Marion",
+    "county_fips_all": "01059|01093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

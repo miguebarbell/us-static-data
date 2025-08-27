@@ -1,0 +1,20 @@
+{
+    "zip": 70653,
+    "lat": 30.66744,
+    "lng": -93.55994,
+    "city": "Merryville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3297.0,
+    "density": 4.8,
+    "county_fips": 22011,
+    "county_name": "Beauregard",
+    "county_weights": "{\"22011\": 100}",
+    "county_names_all": "Beauregard",
+    "county_fips_all": "22011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

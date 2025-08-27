@@ -1,0 +1,20 @@
+{
+    "zip": 53228,
+    "lat": 42.96678,
+    "lng": -88.04333,
+    "city": "Milwaukee",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15084.0,
+    "density": 1109.6,
+    "county_fips": 55079,
+    "county_name": "Milwaukee",
+    "county_weights": "{\"55079\": 100}",
+    "county_names_all": "Milwaukee",
+    "county_fips_all": "55079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

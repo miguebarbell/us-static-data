@@ -1,0 +1,20 @@
+{
+    "zip": 65529,
+    "lat": 37.92912,
+    "lng": -91.98926,
+    "city": "Jerome",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 167.0,
+    "density": 46.8,
+    "county_fips": 29161,
+    "county_name": "Phelps",
+    "county_weights": "{\"29161\": 100}",
+    "county_names_all": "Phelps",
+    "county_fips_all": "29161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

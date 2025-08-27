@@ -1,0 +1,20 @@
+{
+    "zip": 3835,
+    "lat": 43.36319,
+    "lng": -71.07605,
+    "city": "Farmington",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6800.0,
+    "density": 71.4,
+    "county_fips": 33017,
+    "county_name": "Strafford",
+    "county_weights": "{\"33017\": 100}",
+    "county_names_all": "Strafford",
+    "county_fips_all": "33017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

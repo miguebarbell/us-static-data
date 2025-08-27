@@ -1,0 +1,20 @@
+{
+    "zip": 15425,
+    "lat": 40.02702,
+    "lng": -79.55411,
+    "city": "Connellsville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17752.0,
+    "density": 118.7,
+    "county_fips": 42051,
+    "county_name": "Fayette",
+    "county_weights": "{\"42051\": 100}",
+    "county_names_all": "Fayette",
+    "county_fips_all": "42051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

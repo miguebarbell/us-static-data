@@ -1,0 +1,20 @@
+{
+    "zip": 42740,
+    "lat": 37.59174,
+    "lng": -85.94358,
+    "city": "Glendale",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1938.0,
+    "density": 24.1,
+    "county_fips": 21093,
+    "county_name": "Hardin",
+    "county_weights": "{\"21093\": 100}",
+    "county_names_all": "Hardin",
+    "county_fips_all": "21093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

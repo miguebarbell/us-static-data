@@ -1,0 +1,20 @@
+{
+    "zip": 68862,
+    "lat": 41.60362,
+    "lng": -98.93841,
+    "city": "Ord",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2940.0,
+    "density": 3.8,
+    "county_fips": 31175,
+    "county_name": "Valley",
+    "county_weights": "{\"31175\": 94.94, \"31071\": 5.06}",
+    "county_names_all": "Valley|Garfield",
+    "county_fips_all": "31175|31071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

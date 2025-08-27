@@ -1,0 +1,20 @@
+{
+    "zip": 22845,
+    "lat": 38.77991,
+    "lng": -78.8375,
+    "city": "Orkney Springs",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 54.0,
+    "density": 3.1,
+    "county_fips": 51171,
+    "county_name": "Shenandoah",
+    "county_weights": "{\"51171\": 99.65, \"51165\": 0.35}",
+    "county_names_all": "Shenandoah|Rockingham",
+    "county_fips_all": "51171|51165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 29923,
+    "lat": 32.84821,
+    "lng": -81.23856,
+    "city": "Gifford",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 200.0,
+    "density": 12.5,
+    "county_fips": 45049,
+    "county_name": "Hampton",
+    "county_weights": "{\"45049\": 100}",
+    "county_names_all": "Hampton",
+    "county_fips_all": "45049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

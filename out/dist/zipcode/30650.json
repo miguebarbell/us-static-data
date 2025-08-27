@@ -1,0 +1,20 @@
+{
+    "zip": 30650,
+    "lat": 33.5907,
+    "lng": -83.46693,
+    "city": "Madison",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13398.0,
+    "density": 22.5,
+    "county_fips": 13211,
+    "county_name": "Morgan",
+    "county_weights": "{\"13211\": 89.86, \"13133\": 8.21, \"13297\": 1.23, \"13237\": 0.69}",
+    "county_names_all": "Morgan|Greene|Walton|Putnam",
+    "county_fips_all": "13211|13133|13297|13237",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 55030,
+    "lat": 45.83911,
+    "lng": -93.11493,
+    "city": "Grasston",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1425.0,
+    "density": 14.0,
+    "county_fips": 27115,
+    "county_name": "Pine",
+    "county_weights": "{\"27115\": 79.91, \"27065\": 20.09}",
+    "county_names_all": "Pine|Kanabec",
+    "county_fips_all": "27115|27065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

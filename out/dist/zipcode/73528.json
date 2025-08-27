@@ -1,0 +1,20 @@
+{
+    "zip": 73528,
+    "lat": 34.4033,
+    "lng": -98.6452,
+    "city": "Chattanooga",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 605.0,
+    "density": 2.3,
+    "county_fips": 40033,
+    "county_name": "Cotton",
+    "county_weights": "{\"40033\": 47.37, \"40141\": 39.74, \"40031\": 12.89}",
+    "county_names_all": "Cotton|Tillman|Comanche",
+    "county_fips_all": "40033|40141|40031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

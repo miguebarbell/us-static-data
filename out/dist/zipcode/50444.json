@@ -1,0 +1,20 @@
+{
+    "zip": 50444,
+    "lat": 43.29258,
+    "lng": -93.38601,
+    "city": "Hanlontown",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 366.0,
+    "density": 6.7,
+    "county_fips": 19195,
+    "county_name": "Worth",
+    "county_weights": "{\"19195\": 94.29, \"19033\": 5.71}",
+    "county_names_all": "Worth|Cerro Gordo",
+    "county_fips_all": "19195|19033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

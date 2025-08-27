@@ -1,0 +1,20 @@
+{
+    "zip": 81505,
+    "lat": 39.18593,
+    "lng": -108.59997,
+    "city": "Grand Junction",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11959.0,
+    "density": 64.1,
+    "county_fips": 8077,
+    "county_name": "Mesa",
+    "county_weights": "{\"08077\": 100}",
+    "county_names_all": "Mesa",
+    "county_fips_all": "08077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

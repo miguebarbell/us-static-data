@@ -1,0 +1,20 @@
+{
+    "zip": 59074,
+    "lat": 46.36062,
+    "lng": -109.30181,
+    "city": "Ryegate",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 396.0,
+    "density": 0.2,
+    "county_fips": 30037,
+    "county_name": "Golden Valley",
+    "county_weights": "{\"30037\": 91.48, \"30095\": 6.76, \"30107\": 1.76}",
+    "county_names_all": "Golden Valley|Stillwater|Wheatland",
+    "county_fips_all": "30037|30095|30107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

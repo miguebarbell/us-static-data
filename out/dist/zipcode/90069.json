@@ -1,0 +1,20 @@
+{
+    "zip": 90069,
+    "lat": 34.09401,
+    "lng": -118.38154,
+    "city": "West Hollywood",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20318.0,
+    "density": 3645.7,
+    "county_fips": 6037,
+    "county_name": "Los Angeles",
+    "county_weights": "{\"06037\": 100}",
+    "county_names_all": "Los Angeles",
+    "county_fips_all": "06037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 76524,
+    "lat": 31.27445,
+    "lng": -97.20736,
+    "city": "Eddy",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3855.0,
+    "density": 24.4,
+    "county_fips": 48145,
+    "county_name": "Falls",
+    "county_weights": "{\"48145\": 80.36, \"48309\": 19.64}",
+    "county_names_all": "Falls|McLennan",
+    "county_fips_all": "48145|48309",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

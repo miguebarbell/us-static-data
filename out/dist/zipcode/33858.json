@@ -1,0 +1,20 @@
+{
+    "zip": 33858,
+    "lat": 28.24506,
+    "lng": -81.55832,
+    "city": "Loughman",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 578.0,
+    "density": 562.4,
+    "county_fips": 12105,
+    "county_name": "Polk",
+    "county_weights": "{\"12105\": 99.87, \"12097\": 0.13}",
+    "county_names_all": "Polk|Osceola",
+    "county_fips_all": "12105|12097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

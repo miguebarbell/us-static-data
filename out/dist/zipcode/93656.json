@@ -1,0 +1,20 @@
+{
+    "zip": 93656,
+    "lat": 36.45173,
+    "lng": -119.93615,
+    "city": "Riverdale",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6224.0,
+    "density": 21.2,
+    "county_fips": 6019,
+    "county_name": "Fresno",
+    "county_weights": "{\"06019\": 90.74, \"06031\": 9.26}",
+    "county_names_all": "Fresno|Kings",
+    "county_fips_all": "06019|06031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

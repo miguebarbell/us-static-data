@@ -1,0 +1,20 @@
+{
+    "zip": 65059,
+    "lat": 38.70365,
+    "lng": -91.88447,
+    "city": "Mokane",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1008.0,
+    "density": 11.0,
+    "county_fips": 29027,
+    "county_name": "Callaway",
+    "county_weights": "{\"29027\": 100}",
+    "county_names_all": "Callaway",
+    "county_fips_all": "29027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

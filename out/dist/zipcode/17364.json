@@ -1,0 +1,20 @@
+{
+    "zip": 17364,
+    "lat": 39.92985,
+    "lng": -76.90049,
+    "city": "Thomasville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3963.0,
+    "density": 88.1,
+    "county_fips": 42133,
+    "county_name": "York",
+    "county_weights": "{\"42133\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "42133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

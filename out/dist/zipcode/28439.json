@@ -1,0 +1,20 @@
+{
+    "zip": 28439,
+    "lat": 34.29411,
+    "lng": -79.00947,
+    "city": "Fair Bluff",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1171.0,
+    "density": 18.5,
+    "county_fips": 37047,
+    "county_name": "Columbus",
+    "county_weights": "{\"37047\": 100}",
+    "county_names_all": "Columbus",
+    "county_fips_all": "37047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

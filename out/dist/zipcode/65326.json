@@ -1,0 +1,20 @@
+{
+    "zip": 65326,
+    "lat": 38.16271,
+    "lng": -93.1458,
+    "city": "Edwards",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1722.0,
+    "density": 4.4,
+    "county_fips": 29015,
+    "county_name": "Benton",
+    "county_weights": "{\"29015\": 81.19, \"29029\": 16.83, \"29085\": 1.98}",
+    "county_names_all": "Benton|Camden|Hickory",
+    "county_fips_all": "29015|29029|29085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

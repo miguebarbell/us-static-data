@@ -1,0 +1,20 @@
+{
+    "zip": 79601,
+    "lat": 32.57226,
+    "lng": -99.64921,
+    "city": "Abilene",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26917.0,
+    "density": 39.5,
+    "county_fips": 48253,
+    "county_name": "Jones",
+    "county_weights": "{\"48253\": 47.64, \"48417\": 23.16, \"48441\": 17.31, \"48059\": 11.89}",
+    "county_names_all": "Jones|Shackelford|Taylor|Callahan",
+    "county_fips_all": "48253|48417|48441|48059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

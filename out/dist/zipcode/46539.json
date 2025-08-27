@@ -1,0 +1,20 @@
+{
+    "zip": 46539,
+    "lat": 41.16579,
+    "lng": -86.02545,
+    "city": "Mentone",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2570.0,
+    "density": 28.5,
+    "county_fips": 18085,
+    "county_name": "Kosciusko",
+    "county_weights": "{\"18085\": 86.1, \"18049\": 8.2, \"18099\": 5.7}",
+    "county_names_all": "Kosciusko|Fulton|Marshall",
+    "county_fips_all": "18085|18049|18099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 57035,
+    "lat": 43.64651,
+    "lng": -97.07627,
+    "city": "Humboldt",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1527.0,
+    "density": 6.9,
+    "county_fips": 46099,
+    "county_name": "Minnehaha",
+    "county_weights": "{\"46099\": 92.3, \"46087\": 7.7}",
+    "county_names_all": "Minnehaha|McCook",
+    "county_fips_all": "46099|46087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

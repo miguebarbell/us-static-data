@@ -1,0 +1,20 @@
+{
+    "zip": 57461,
+    "lat": 45.16085,
+    "lng": -98.43327,
+    "city": "Mellette",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 286.0,
+    "density": 1.0,
+    "county_fips": 46115,
+    "county_name": "Spink",
+    "county_weights": "{\"46115\": 98.16, \"46013\": 1.84}",
+    "county_names_all": "Spink|Brown",
+    "county_fips_all": "46115|46013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

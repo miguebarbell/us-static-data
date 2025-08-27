@@ -1,0 +1,20 @@
+{
+    "zip": 65470,
+    "lat": 37.54872,
+    "lng": -92.40287,
+    "city": "Falcon",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 792.0,
+    "density": 2.8,
+    "county_fips": 29105,
+    "county_name": "Laclede",
+    "county_weights": "{\"29105\": 88.02, \"29229\": 11.98}",
+    "county_names_all": "Laclede|Wright",
+    "county_fips_all": "29105|29229",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

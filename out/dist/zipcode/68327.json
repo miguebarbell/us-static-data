@@ -1,0 +1,20 @@
+{
+    "zip": 68327,
+    "lat": 40.01079,
+    "lng": -97.62113,
+    "city": "Chester",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 356.0,
+    "density": 2.9,
+    "county_fips": 31169,
+    "county_name": "Thayer",
+    "county_weights": "{\"31169\": 66.07, \"20157\": 33.93}",
+    "county_names_all": "Thayer|Republic",
+    "county_fips_all": "31169|20157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

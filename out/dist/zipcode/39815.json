@@ -1,0 +1,20 @@
+{
+    "zip": 39815,
+    "lat": 30.74138,
+    "lng": -84.4935,
+    "city": "Attapulgus",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1715.0,
+    "density": 12.1,
+    "county_fips": 13087,
+    "county_name": "Decatur",
+    "county_weights": "{\"13087\": 100}",
+    "county_names_all": "Decatur",
+    "county_fips_all": "13087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

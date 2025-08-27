@@ -1,0 +1,20 @@
+{
+    "zip": 656,
+    "lat": 18.04186,
+    "lng": -66.79123,
+    "city": "Guayanilla",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17815.0,
+    "density": 163.2,
+    "county_fips": 72059,
+    "county_name": "Guayanilla",
+    "county_weights": "{\"72059\": 96.77, \"72153\": 3.1, \"72111\": 0.12}",
+    "county_names_all": "Guayanilla|Yauco|Pe\u00f1uelas",
+    "county_fips_all": "72059|72153|72111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

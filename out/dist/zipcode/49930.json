@@ -1,0 +1,20 @@
+{
+    "zip": 49930,
+    "lat": 47.15577,
+    "lng": -88.53542,
+    "city": "Hancock",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7199.0,
+    "density": 56.2,
+    "county_fips": 26061,
+    "county_name": "Houghton",
+    "county_weights": "{\"26061\": 100}",
+    "county_names_all": "Houghton",
+    "county_fips_all": "26061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

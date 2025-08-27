@@ -1,0 +1,20 @@
+{
+    "zip": 16055,
+    "lat": 40.7157,
+    "lng": -79.74753,
+    "city": "Sarver",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8856.0,
+    "density": 88.8,
+    "county_fips": 42019,
+    "county_name": "Butler",
+    "county_weights": "{\"42019\": 88.42, \"42005\": 11.58}",
+    "county_names_all": "Butler|Armstrong",
+    "county_fips_all": "42019|42005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

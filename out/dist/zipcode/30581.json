@@ -1,0 +1,20 @@
+{
+    "zip": 30581,
+    "lat": 34.80195,
+    "lng": -83.42405,
+    "city": "Wiley",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 109.0,
+    "density": 148.7,
+    "county_fips": 13241,
+    "county_name": "Rabun",
+    "county_weights": "{\"13241\": 100}",
+    "county_names_all": "Rabun",
+    "county_fips_all": "13241",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

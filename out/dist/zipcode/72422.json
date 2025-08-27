@@ -1,0 +1,20 @@
+{
+    "zip": 72422,
+    "lat": 36.41893,
+    "lng": -90.54385,
+    "city": "Corning",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4302.0,
+    "density": 10.0,
+    "county_fips": 5021,
+    "county_name": "Clay",
+    "county_weights": "{\"05021\": 100}",
+    "county_names_all": "Clay",
+    "county_fips_all": "05021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

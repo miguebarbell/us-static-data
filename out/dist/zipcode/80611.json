@@ -1,0 +1,20 @@
+{
+    "zip": 80611,
+    "lat": 40.62015,
+    "lng": -104.24964,
+    "city": "Briggsdale",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 586.0,
+    "density": 0.6,
+    "county_fips": 8123,
+    "county_name": "Weld",
+    "county_weights": "{\"08123\": 100}",
+    "county_names_all": "Weld",
+    "county_fips_all": "08123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 7631,
+    "lat": 40.89161,
+    "lng": -73.97368,
+    "city": "Englewood",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29342.0,
+    "density": 2290.4,
+    "county_fips": 34003,
+    "county_name": "Bergen",
+    "county_weights": "{\"34003\": 100}",
+    "county_names_all": "Bergen",
+    "county_fips_all": "34003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

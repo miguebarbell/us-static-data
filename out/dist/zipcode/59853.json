@@ -1,0 +1,20 @@
+{
+    "zip": 59853,
+    "lat": 48.0571,
+    "lng": -115.81522,
+    "city": "Noxon",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 918.0,
+    "density": 1.2,
+    "county_fips": 30089,
+    "county_name": "Sanders",
+    "county_weights": "{\"30089\": 100}",
+    "county_names_all": "Sanders",
+    "county_fips_all": "30089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65638,
+    "lat": 36.84319,
+    "lng": -92.32418,
+    "city": "Drury",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 641.0,
+    "density": 4.7,
+    "county_fips": 29067,
+    "county_name": "Douglas",
+    "county_weights": "{\"29067\": 80.64, \"29153\": 19.36}",
+    "county_names_all": "Douglas|Ozark",
+    "county_fips_all": "29067|29153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 80833,
+    "lat": 38.73874,
+    "lng": -103.93699,
+    "city": "Rush",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1107.0,
+    "density": 0.9,
+    "county_fips": 8073,
+    "county_name": "Lincoln",
+    "county_weights": "{\"08073\": 77.5, \"08041\": 19.95, \"08039\": 2.55}",
+    "county_names_all": "Lincoln|El Paso|Elbert",
+    "county_fips_all": "08073|08041|08039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

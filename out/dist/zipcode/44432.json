@@ -1,0 +1,20 @@
+{
+    "zip": 44432,
+    "lat": 40.74974,
+    "lng": -80.75149,
+    "city": "Lisbon",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12029.0,
+    "density": 43.9,
+    "county_fips": 39029,
+    "county_name": "Columbiana",
+    "county_weights": "{\"39029\": 100}",
+    "county_names_all": "Columbiana",
+    "county_fips_all": "39029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

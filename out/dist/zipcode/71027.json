@@ -1,0 +1,20 @@
+{
+    "zip": 71027,
+    "lat": 32.24953,
+    "lng": -93.68698,
+    "city": "Frierson",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 986.0,
+    "density": 6.4,
+    "county_fips": 22031,
+    "county_name": "De Soto",
+    "county_weights": "{\"22031\": 100}",
+    "county_names_all": "De Soto",
+    "county_fips_all": "22031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

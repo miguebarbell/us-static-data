@@ -1,0 +1,20 @@
+{
+    "zip": 56729,
+    "lat": 48.66558,
+    "lng": -96.59438,
+    "city": "Halma",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 123.0,
+    "density": 1.1,
+    "county_fips": 27069,
+    "county_name": "Kittson",
+    "county_weights": "{\"27069\": 100}",
+    "county_names_all": "Kittson",
+    "county_fips_all": "27069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

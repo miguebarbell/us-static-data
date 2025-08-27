@@ -1,0 +1,20 @@
+{
+    "zip": 61037,
+    "lat": 41.7882,
+    "lng": -89.75978,
+    "city": "Galt",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 100.0,
+    "density": 284.2,
+    "county_fips": 17195,
+    "county_name": "Whiteside",
+    "county_weights": "{\"17195\": 100}",
+    "county_names_all": "Whiteside",
+    "county_fips_all": "17195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

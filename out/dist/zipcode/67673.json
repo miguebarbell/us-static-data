@@ -1,0 +1,20 @@
+{
+    "zip": 67673,
+    "lat": 39.14708,
+    "lng": -98.80714,
+    "city": "Waldo",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41.0,
+    "density": 0.2,
+    "county_fips": 20141,
+    "county_name": "Osborne",
+    "county_weights": "{\"20141\": 58.5, \"20167\": 41.5}",
+    "county_names_all": "Osborne|Russell",
+    "county_fips_all": "20141|20167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

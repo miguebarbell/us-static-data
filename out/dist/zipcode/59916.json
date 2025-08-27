@@ -1,0 +1,20 @@
+{
+    "zip": 59916,
+    "lat": 48.31716,
+    "lng": -113.65779,
+    "city": "Essex",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 168.0,
+    "density": 0.5,
+    "county_fips": 30029,
+    "county_name": "Flathead",
+    "county_weights": "{\"30029\": 100}",
+    "county_names_all": "Flathead",
+    "county_fips_all": "30029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

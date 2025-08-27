@@ -1,0 +1,20 @@
+{
+    "zip": 68354,
+    "lat": 40.63935,
+    "lng": -97.58032,
+    "city": "Fairmont",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 803.0,
+    "density": 2.9,
+    "county_fips": 31059,
+    "county_name": "Fillmore",
+    "county_weights": "{\"31059\": 86.86, \"31185\": 13.14}",
+    "county_names_all": "Fillmore|York",
+    "county_fips_all": "31059|31185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

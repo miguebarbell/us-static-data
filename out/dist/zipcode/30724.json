@@ -1,0 +1,20 @@
+{
+    "zip": 30724,
+    "lat": 34.8253,
+    "lng": -84.75795,
+    "city": "Eton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13.0,
+    "density": 79.9,
+    "county_fips": 13213,
+    "county_name": "Murray",
+    "county_weights": "{\"13213\": 100}",
+    "county_names_all": "Murray",
+    "county_fips_all": "13213",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

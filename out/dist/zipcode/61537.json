@@ -1,0 +1,20 @@
+{
+    "zip": 61537,
+    "lat": 41.11607,
+    "lng": -89.47035,
+    "city": "Henry",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2742.0,
+    "density": 18.5,
+    "county_fips": 17123,
+    "county_name": "Marshall",
+    "county_weights": "{\"17123\": 94.82, \"17011\": 5.18}",
+    "county_names_all": "Marshall|Bureau",
+    "county_fips_all": "17123|17011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

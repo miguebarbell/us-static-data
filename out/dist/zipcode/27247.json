@@ -1,0 +1,20 @@
+{
+    "zip": 27247,
+    "lat": 35.46096,
+    "lng": -79.78784,
+    "city": "Ether",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 117.0,
+    "density": 21.8,
+    "county_fips": 37123,
+    "county_name": "Montgomery",
+    "county_weights": "{\"37123\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "37123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 4732,
+    "lat": 46.56679,
+    "lng": -68.49326,
+    "city": "Ashland",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1535.0,
+    "density": 2.2,
+    "county_fips": 23003,
+    "county_name": "Aroostook",
+    "county_weights": "{\"23003\": 91.43, \"23021\": 8.57}",
+    "county_names_all": "Aroostook|Piscataquis",
+    "county_fips_all": "23003|23021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 62262,
+    "lat": 38.9371,
+    "lng": -89.26916,
+    "city": "Mulberry Grove",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1887.0,
+    "density": 10.9,
+    "county_fips": 17005,
+    "county_name": "Bond",
+    "county_weights": "{\"17005\": 60.62, \"17051\": 39.38}",
+    "county_names_all": "Bond|Fayette",
+    "county_fips_all": "17005|17051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

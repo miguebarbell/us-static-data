@@ -1,0 +1,20 @@
+{
+    "zip": 57201,
+    "lat": 44.93412,
+    "lng": -97.09424,
+    "city": "Watertown",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26375.0,
+    "density": 31.9,
+    "county_fips": 46029,
+    "county_name": "Codington",
+    "county_weights": "{\"46029\": 99.1, \"46057\": 0.9}",
+    "county_names_all": "Codington|Hamlin",
+    "county_fips_all": "46029|46057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

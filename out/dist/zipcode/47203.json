@@ -1,0 +1,20 @@
+{
+    "zip": 47203,
+    "lat": 39.23189,
+    "lng": -85.83281,
+    "city": "Columbus",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25106.0,
+    "density": 125.8,
+    "county_fips": 18005,
+    "county_name": "Bartholomew",
+    "county_weights": "{\"18005\": 100}",
+    "county_names_all": "Bartholomew",
+    "county_fips_all": "18005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

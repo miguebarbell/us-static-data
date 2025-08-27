@@ -1,0 +1,20 @@
+{
+    "zip": 22207,
+    "lat": 38.90665,
+    "lng": -77.12384,
+    "city": "Arlington",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35186.0,
+    "density": 2105.2,
+    "county_fips": 51013,
+    "county_name": "Arlington",
+    "county_weights": "{\"51013\": 99.37, \"51059\": 0.63}",
+    "county_names_all": "Arlington|Fairfax",
+    "county_fips_all": "51013|51059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

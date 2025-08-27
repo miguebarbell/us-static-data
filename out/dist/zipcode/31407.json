@@ -1,0 +1,20 @@
+{
+    "zip": 31407,
+    "lat": 32.18232,
+    "lng": -81.19942,
+    "city": "Port Wentworth",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22743.0,
+    "density": 259.2,
+    "county_fips": 13051,
+    "county_name": "Chatham",
+    "county_weights": "{\"13051\": 100}",
+    "county_names_all": "Chatham",
+    "county_fips_all": "13051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

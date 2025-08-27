@@ -1,0 +1,20 @@
+{
+    "zip": 33578,
+    "lat": 27.86187,
+    "lng": -82.34775,
+    "city": "Riverview",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 58474.0,
+    "density": 1108.1,
+    "county_fips": 12057,
+    "county_name": "Hillsborough",
+    "county_weights": "{\"12057\": 100}",
+    "county_names_all": "Hillsborough",
+    "county_fips_all": "12057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

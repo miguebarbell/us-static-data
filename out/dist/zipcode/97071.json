@@ -1,0 +1,20 @@
+{
+    "zip": 97071,
+    "lat": 45.13588,
+    "lng": -122.82344,
+    "city": "Woodburn",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31847.0,
+    "density": 238.0,
+    "county_fips": 41047,
+    "county_name": "Marion",
+    "county_weights": "{\"41047\": 74.03, \"41005\": 25.97}",
+    "county_names_all": "Marion|Clackamas",
+    "county_fips_all": "41047|41005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

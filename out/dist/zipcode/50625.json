@@ -1,0 +1,20 @@
+{
+    "zip": 50625,
+    "lat": 42.75071,
+    "lng": -92.98691,
+    "city": "Dumont",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1002.0,
+    "density": 6.3,
+    "county_fips": 19023,
+    "county_name": "Butler",
+    "county_weights": "{\"19023\": 82.78, \"19069\": 17.22}",
+    "county_names_all": "Butler|Franklin",
+    "county_fips_all": "19023|19069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 77426,
+    "lat": 30.11633,
+    "lng": -96.24721,
+    "city": "Chappell Hill",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2193.0,
+    "density": 9.4,
+    "county_fips": 48477,
+    "county_name": "Washington",
+    "county_weights": "{\"48477\": 78.74, \"48015\": 21.26}",
+    "county_names_all": "Washington|Austin",
+    "county_fips_all": "48477|48015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

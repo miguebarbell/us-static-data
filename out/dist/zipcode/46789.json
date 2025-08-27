@@ -1,0 +1,20 @@
+{
+    "zip": 46789,
+    "lat": 41.58274,
+    "lng": -85.19742,
+    "city": "Stroh",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 149.0,
+    "density": 480.3,
+    "county_fips": 18087,
+    "county_name": "LaGrange",
+    "county_weights": "{\"18087\": 99.4, \"18151\": 0.6}",
+    "county_names_all": "LaGrange|Steuben",
+    "county_fips_all": "18087|18151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

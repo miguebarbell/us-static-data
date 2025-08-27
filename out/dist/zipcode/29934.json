@@ -1,0 +1,20 @@
+{
+    "zip": 29934,
+    "lat": 32.59651,
+    "lng": -81.11245,
+    "city": "Pineland",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 560.0,
+    "density": 2.8,
+    "county_fips": 45053,
+    "county_name": "Jasper",
+    "county_weights": "{\"45053\": 87.42, \"45049\": 12.58}",
+    "county_names_all": "Jasper|Hampton",
+    "county_fips_all": "45053|45049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

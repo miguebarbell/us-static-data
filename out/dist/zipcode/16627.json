@@ -1,0 +1,20 @@
+{
+    "zip": 16627,
+    "lat": 40.75272,
+    "lng": -78.50036,
+    "city": "Coalport",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2026.0,
+    "density": 24.2,
+    "county_fips": 42033,
+    "county_name": "Clearfield",
+    "county_weights": "{\"42033\": 87.38, \"42021\": 12.62}",
+    "county_names_all": "Clearfield|Cambria",
+    "county_fips_all": "42033|42021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 5031,
+    "lat": 43.72361,
+    "lng": -72.5872,
+    "city": "Barnard",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44.0,
+    "density": 6.8,
+    "county_fips": 50027,
+    "county_name": "Windsor",
+    "county_weights": "{\"50027\": 100}",
+    "county_names_all": "Windsor",
+    "county_fips_all": "50027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

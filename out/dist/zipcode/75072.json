@@ -1,0 +1,20 @@
+{
+    "zip": 75072,
+    "lat": 33.1875,
+    "lng": -96.70099,
+    "city": "Mckinney",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 55997.0,
+    "density": 1792.9,
+    "county_fips": 48085,
+    "county_name": "Collin",
+    "county_weights": "{\"48085\": 100}",
+    "county_names_all": "Collin",
+    "county_fips_all": "48085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

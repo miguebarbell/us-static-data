@@ -1,0 +1,20 @@
+{
+    "zip": 71441,
+    "lat": 31.94706,
+    "lng": -92.13805,
+    "city": "Kelly",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 812.0,
+    "density": 6.1,
+    "county_fips": 22021,
+    "county_name": "Caldwell",
+    "county_weights": "{\"22021\": 69.07, \"22059\": 30.93}",
+    "county_names_all": "Caldwell|LaSalle",
+    "county_fips_all": "22021|22059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 37618,
+    "lat": 36.46555,
+    "lng": -82.20833,
+    "city": "Bluff City",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13208.0,
+    "density": 73.6,
+    "county_fips": 47163,
+    "county_name": "Sullivan",
+    "county_weights": "{\"47163\": 100}",
+    "county_names_all": "Sullivan",
+    "county_fips_all": "47163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

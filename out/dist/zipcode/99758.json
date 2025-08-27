@@ -1,0 +1,20 @@
+{
+    "zip": 99758,
+    "lat": 65.15175,
+    "lng": -149.3724,
+    "city": "Minto",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 190.0,
+    "density": 24.3,
+    "county_fips": 2290,
+    "county_name": "Yukon-Koyukuk",
+    "county_weights": "{\"02290\": 100}",
+    "county_names_all": "Yukon-Koyukuk",
+    "county_fips_all": "02290",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

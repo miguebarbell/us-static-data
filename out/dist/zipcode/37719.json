@@ -1,0 +1,20 @@
+{
+    "zip": 37719,
+    "lat": 36.02196,
+    "lng": -84.42815,
+    "city": "Coalfield",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32.0,
+    "density": 18.9,
+    "county_fips": 47129,
+    "county_name": "Morgan",
+    "county_weights": "{\"47129\": 100}",
+    "county_names_all": "Morgan",
+    "county_fips_all": "47129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

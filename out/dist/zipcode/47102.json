@@ -1,0 +1,20 @@
+{
+    "zip": 47102,
+    "lat": 38.75745,
+    "lng": -85.7951,
+    "city": "Austin",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6647.0,
+    "density": 61.0,
+    "county_fips": 18143,
+    "county_name": "Scott",
+    "county_weights": "{\"18143\": 80.72, \"18071\": 19.28}",
+    "county_names_all": "Scott|Jackson",
+    "county_fips_all": "18143|18071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

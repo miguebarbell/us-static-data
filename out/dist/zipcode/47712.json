@@ -1,0 +1,20 @@
+{
+    "zip": 47712,
+    "lat": 37.92869,
+    "lng": -87.65951,
+    "city": "Evansville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24999.0,
+    "density": 154.0,
+    "county_fips": 18163,
+    "county_name": "Vanderburgh",
+    "county_weights": "{\"18163\": 81.22, \"18129\": 18.78}",
+    "county_names_all": "Vanderburgh|Posey",
+    "county_fips_all": "18163|18129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

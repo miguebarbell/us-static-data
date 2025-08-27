@@ -1,0 +1,20 @@
+{
+    "zip": 62664,
+    "lat": 40.21106,
+    "lng": -89.72629,
+    "city": "Mason City",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2848.0,
+    "density": 10.3,
+    "county_fips": 17125,
+    "county_name": "Mason",
+    "county_weights": "{\"17125\": 100}",
+    "county_names_all": "Mason",
+    "county_fips_all": "17125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

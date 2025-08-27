@@ -1,0 +1,20 @@
+{
+    "zip": 97875,
+    "lat": 45.81481,
+    "lng": -119.14898,
+    "city": "Stanfield",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2522.0,
+    "density": 16.7,
+    "county_fips": 41059,
+    "county_name": "Umatilla",
+    "county_weights": "{\"41059\": 100}",
+    "county_names_all": "Umatilla",
+    "county_fips_all": "41059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

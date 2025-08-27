@@ -1,0 +1,20 @@
+{
+    "zip": 77369,
+    "lat": 30.44296,
+    "lng": -94.75084,
+    "city": "Rye",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 607.0,
+    "density": 9.5,
+    "county_fips": 48291,
+    "county_name": "Liberty",
+    "county_weights": "{\"48291\": 97.37, \"48199\": 2.63}",
+    "county_names_all": "Liberty|Hardin",
+    "county_fips_all": "48291|48199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

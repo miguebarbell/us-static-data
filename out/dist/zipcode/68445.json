@@ -1,0 +1,20 @@
+{
+    "zip": 68445,
+    "lat": 40.40146,
+    "lng": -97.08662,
+    "city": "Swanton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 172.0,
+    "density": 3.1,
+    "county_fips": 31151,
+    "county_name": "Saline",
+    "county_weights": "{\"31151\": 100}",
+    "county_names_all": "Saline",
+    "county_fips_all": "31151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

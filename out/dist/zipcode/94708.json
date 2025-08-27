@@ -1,0 +1,20 @@
+{
+    "zip": 94708,
+    "lat": 37.90276,
+    "lng": -122.26202,
+    "city": "Berkeley",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11967.0,
+    "density": 1387.5,
+    "county_fips": 6013,
+    "county_name": "Contra Costa",
+    "county_weights": "{\"06013\": 58.54, \"06001\": 41.46}",
+    "county_names_all": "Contra Costa|Alameda",
+    "county_fips_all": "06013|06001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

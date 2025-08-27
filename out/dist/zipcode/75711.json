@@ -1,0 +1,20 @@
+{
+    "zip": 75711,
+    "lat": 32.33698,
+    "lng": -95.28382,
+    "city": "Tyler",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 159.0,
+    "density": 3405.1,
+    "county_fips": 48423,
+    "county_name": "Smith",
+    "county_weights": "{\"48423\": 100}",
+    "county_names_all": "Smith",
+    "county_fips_all": "48423",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 26411,
+    "lat": 39.18078,
+    "lng": -80.70723,
+    "city": "New Milton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 619.0,
+    "density": 3.0,
+    "county_fips": 54017,
+    "county_name": "Doddridge",
+    "county_weights": "{\"54017\": 97.93, \"54021\": 2.07}",
+    "county_names_all": "Doddridge|Gilmer",
+    "county_fips_all": "54017|54021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

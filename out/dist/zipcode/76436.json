@@ -1,0 +1,20 @@
+{
+    "zip": 76436,
+    "lat": 31.87404,
+    "lng": -98.22271,
+    "city": "Carlton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 87.0,
+    "density": 0.7,
+    "county_fips": 48093,
+    "county_name": "Comanche",
+    "county_weights": "{\"48093\": 85.62, \"48193\": 11.22, \"48143\": 3.16}",
+    "county_names_all": "Comanche|Hamilton|Erath",
+    "county_fips_all": "48093|48193|48143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

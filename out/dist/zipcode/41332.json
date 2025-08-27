@@ -1,0 +1,20 @@
+{
+    "zip": 41332,
+    "lat": 37.80029,
+    "lng": -83.37575,
+    "city": "Hazel Green",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 955.0,
+    "density": 9.3,
+    "county_fips": 21175,
+    "county_name": "Morgan",
+    "county_weights": "{\"21175\": 61.2, \"21237\": 38.8}",
+    "county_names_all": "Morgan|Wolfe",
+    "county_fips_all": "21175|21237",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

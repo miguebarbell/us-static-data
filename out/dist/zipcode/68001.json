@@ -1,0 +1,20 @@
+{
+    "zip": 68001,
+    "lat": 41.33369,
+    "lng": -96.95489,
+    "city": "Abie",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 61.0,
+    "density": 15.4,
+    "county_fips": 31023,
+    "county_name": "Butler",
+    "county_weights": "{\"31023\": 100}",
+    "county_names_all": "Butler",
+    "county_fips_all": "31023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

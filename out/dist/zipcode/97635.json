@@ -1,0 +1,20 @@
+{
+    "zip": 97635,
+    "lat": 41.93173,
+    "lng": -120.29974,
+    "city": "New Pine Creek",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 323.0,
+    "density": 2.4,
+    "county_fips": 6049,
+    "county_name": "Modoc",
+    "county_weights": "{\"06049\": 92.79, \"41037\": 7.21}",
+    "county_names_all": "Modoc|Lake",
+    "county_fips_all": "06049|41037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

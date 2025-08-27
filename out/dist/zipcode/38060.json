@@ -1,0 +1,20 @@
+{
+    "zip": 38060,
+    "lat": 35.21214,
+    "lng": -89.50468,
+    "city": "Oakland",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12360.0,
+    "density": 106.3,
+    "county_fips": 47047,
+    "county_name": "Fayette",
+    "county_weights": "{\"47047\": 100}",
+    "county_names_all": "Fayette",
+    "county_fips_all": "47047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

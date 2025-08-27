@@ -1,0 +1,20 @@
+{
+    "zip": 54645,
+    "lat": 43.32084,
+    "lng": -90.92901,
+    "city": "Mount Sterling",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 114.0,
+    "density": 63.4,
+    "county_fips": 55023,
+    "county_name": "Crawford",
+    "county_weights": "{\"55023\": 100}",
+    "county_names_all": "Crawford",
+    "county_fips_all": "55023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

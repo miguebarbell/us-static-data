@@ -1,0 +1,20 @@
+{
+    "zip": 97147,
+    "lat": 45.6871,
+    "lng": -123.8873,
+    "city": "Wheeler",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 469.0,
+    "density": 352.9,
+    "county_fips": 41057,
+    "county_name": "Tillamook",
+    "county_weights": "{\"41057\": 100}",
+    "county_names_all": "Tillamook",
+    "county_fips_all": "41057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

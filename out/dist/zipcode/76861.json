@@ -1,0 +1,20 @@
+{
+    "zip": 76861,
+    "lat": 31.59216,
+    "lng": -100.19637,
+    "city": "Miles",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2145.0,
+    "density": 4.8,
+    "county_fips": 48451,
+    "county_name": "Tom Green",
+    "county_weights": "{\"48451\": 59.98, \"48399\": 40.02}",
+    "county_names_all": "Tom Green|Runnels",
+    "county_fips_all": "48451|48399",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

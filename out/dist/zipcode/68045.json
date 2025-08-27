@@ -1,0 +1,20 @@
+{
+    "zip": 68045,
+    "lat": 41.8273,
+    "lng": -96.49523,
+    "city": "Oakland",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2191.0,
+    "density": 8.6,
+    "county_fips": 31021,
+    "county_name": "Burt",
+    "county_weights": "{\"31021\": 79.06, \"31039\": 19.87, \"31053\": 1.07}",
+    "county_names_all": "Burt|Cuming|Dodge",
+    "county_fips_all": "31021|31039|31053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

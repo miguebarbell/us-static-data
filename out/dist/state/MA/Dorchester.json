@@ -1,0 +1,13 @@
+{
+    "zip": [
+        "02121",
+        "02122",
+        "02125"
+    ],
+    "city": "Dorchester",
+    "state": "MA",
+    "lat": 42.06262,
+    "lng": -72.62521,
+    "state_name": "Massachusetts",
+    "timezone": "America/New_York"
+}

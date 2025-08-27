@@ -1,0 +1,20 @@
+{
+    "zip": 95974,
+    "lat": 39.4973,
+    "lng": -121.75569,
+    "city": "Richvale",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 93.0,
+    "density": 86.1,
+    "county_fips": 6007,
+    "county_name": "Butte",
+    "county_weights": "{\"06007\": 100}",
+    "county_names_all": "Butte",
+    "county_fips_all": "06007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

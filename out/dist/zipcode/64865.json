@@ -1,0 +1,20 @@
+{
+    "zip": 64865,
+    "lat": 36.84253,
+    "lng": -94.57797,
+    "city": "Seneca",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5260.0,
+    "density": 27.1,
+    "county_fips": 29145,
+    "county_name": "Newton",
+    "county_weights": "{\"29145\": 84.32, \"29119\": 15.68}",
+    "county_names_all": "Newton|McDonald",
+    "county_fips_all": "29145|29119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

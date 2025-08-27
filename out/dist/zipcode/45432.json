@@ -1,0 +1,20 @@
+{
+    "zip": 45432,
+    "lat": 39.73934,
+    "lng": -84.08627,
+    "city": "Dayton",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14988.0,
+    "density": 811.3,
+    "county_fips": 39057,
+    "county_name": "Greene",
+    "county_weights": "{\"39057\": 66.53, \"39113\": 33.47}",
+    "county_names_all": "Greene|Montgomery",
+    "county_fips_all": "39057|39113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

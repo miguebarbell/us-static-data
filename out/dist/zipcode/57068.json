@@ -1,0 +1,20 @@
+{
+    "zip": 57068,
+    "lat": 43.57435,
+    "lng": -96.49361,
+    "city": "Valley Springs",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1699.0,
+    "density": 14.2,
+    "county_fips": 46099,
+    "county_name": "Minnehaha",
+    "county_weights": "{\"46099\": 93.22, \"27133\": 6.78}",
+    "county_names_all": "Minnehaha|Rock",
+    "county_fips_all": "46099|27133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 96825,
+    "lat": 21.29575,
+    "lng": -157.69234,
+    "city": "Honolulu",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30904.0,
+    "density": 1095.8,
+    "county_fips": 15003,
+    "county_name": "Honolulu",
+    "county_weights": "{\"15003\": 100}",
+    "county_names_all": "Honolulu",
+    "county_fips_all": "15003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "Pacific/Honolulu"
+}

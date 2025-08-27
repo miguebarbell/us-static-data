@@ -1,0 +1,20 @@
+{
+    "zip": 37404,
+    "lat": 35.02827,
+    "lng": -85.27331,
+    "city": "Chattanooga",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13883.0,
+    "density": 1034.5,
+    "county_fips": 47065,
+    "county_name": "Hamilton",
+    "county_weights": "{\"47065\": 100}",
+    "county_names_all": "Hamilton",
+    "county_fips_all": "47065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

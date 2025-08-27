@@ -1,0 +1,20 @@
+{
+    "zip": 49434,
+    "lat": 42.76975,
+    "lng": -86.20774,
+    "city": "Macatawa",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 96.0,
+    "density": 424.5,
+    "county_fips": 26139,
+    "county_name": "Ottawa",
+    "county_weights": "{\"26139\": 88.77, \"26005\": 11.23}",
+    "county_names_all": "Ottawa|Allegan",
+    "county_fips_all": "26139|26005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

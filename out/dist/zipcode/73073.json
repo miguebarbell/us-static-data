@@ -1,0 +1,20 @@
+{
+    "zip": 73073,
+    "lat": 36.16302,
+    "lng": -97.39614,
+    "city": "Orlando",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 616.0,
+    "density": 2.0,
+    "county_fips": 40103,
+    "county_name": "Noble",
+    "county_weights": "{\"40103\": 30.67, \"40119\": 25.89, \"40083\": 25.79, \"40047\": 17.65}",
+    "county_names_all": "Noble|Payne|Logan|Garfield",
+    "county_fips_all": "40103|40119|40083|40047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

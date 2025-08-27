@@ -1,0 +1,20 @@
+{
+    "zip": 31512,
+    "lat": 31.54535,
+    "lng": -83.01255,
+    "city": "Ambrose",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2394.0,
+    "density": 11.3,
+    "county_fips": 13069,
+    "county_name": "Coffee",
+    "county_weights": "{\"13069\": 100}",
+    "county_names_all": "Coffee",
+    "county_fips_all": "13069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

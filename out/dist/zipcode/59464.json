@@ -1,0 +1,20 @@
+{
+    "zip": 59464,
+    "lat": 46.87409,
+    "lng": -109.60589,
+    "city": "Moore",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 542.0,
+    "density": 0.9,
+    "county_fips": 30027,
+    "county_name": "Fergus",
+    "county_weights": "{\"30027\": 94.58, \"30045\": 5.42}",
+    "county_names_all": "Fergus|Judith Basin",
+    "county_fips_all": "30027|30045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 55939,
+    "lat": 43.54682,
+    "lng": -92.08144,
+    "city": "Harmony",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1986.0,
+    "density": 8.3,
+    "county_fips": 27045,
+    "county_name": "Fillmore",
+    "county_weights": "{\"27045\": 100}",
+    "county_names_all": "Fillmore",
+    "county_fips_all": "27045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 13802,
+    "lat": 42.25164,
+    "lng": -76.04207,
+    "city": "Maine",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1206.0,
+    "density": 43.4,
+    "county_fips": 36007,
+    "county_name": "Broome",
+    "county_weights": "{\"36007\": 100}",
+    "county_names_all": "Broome",
+    "county_fips_all": "36007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

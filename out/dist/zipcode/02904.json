@@ -1,0 +1,20 @@
+{
+    "zip": 2904,
+    "lat": 41.86058,
+    "lng": -71.43539,
+    "city": "Providence",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32462.0,
+    "density": 2421.3,
+    "county_fips": 44007,
+    "county_name": "Providence",
+    "county_weights": "{\"44007\": 100}",
+    "county_names_all": "Providence",
+    "county_fips_all": "44007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 29645,
+    "lat": 34.59453,
+    "lng": -82.12375,
+    "city": "Gray Court",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11212.0,
+    "density": 40.6,
+    "county_fips": 45059,
+    "county_name": "Laurens",
+    "county_weights": "{\"45059\": 99.88, \"45045\": 0.12}",
+    "county_names_all": "Laurens|Greenville",
+    "county_fips_all": "45059|45045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 73526,
+    "lat": 34.79244,
+    "lng": -99.26704,
+    "city": "Blair",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1939.0,
+    "density": 9.3,
+    "county_fips": 40065,
+    "county_name": "Jackson",
+    "county_weights": "{\"40065\": 85.21, \"40055\": 14.79}",
+    "county_names_all": "Jackson|Greer",
+    "county_fips_all": "40065|40055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

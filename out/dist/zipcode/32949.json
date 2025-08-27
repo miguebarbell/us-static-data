@@ -1,0 +1,20 @@
+{
+    "zip": 32949,
+    "lat": 27.92005,
+    "lng": -80.55203,
+    "city": "Grant",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2821.0,
+    "density": 64.8,
+    "county_fips": 12009,
+    "county_name": "Brevard",
+    "county_weights": "{\"12009\": 100}",
+    "county_names_all": "Brevard",
+    "county_fips_all": "12009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

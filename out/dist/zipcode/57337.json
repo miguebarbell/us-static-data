@@ -1,0 +1,20 @@
+{
+    "zip": 57337,
+    "lat": 44.00108,
+    "lng": -97.79048,
+    "city": "Fedora",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 72.0,
+    "density": 0.3,
+    "county_fips": 46097,
+    "county_name": "Miner",
+    "county_weights": "{\"46097\": 94.49, \"46111\": 5.51}",
+    "county_names_all": "Miner|Sanborn",
+    "county_fips_all": "46097|46111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

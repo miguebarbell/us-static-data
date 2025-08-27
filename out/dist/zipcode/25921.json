@@ -1,0 +1,20 @@
+{
+    "zip": 25921,
+    "lat": 37.69181,
+    "lng": -81.25882,
+    "city": "Sophia",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2820.0,
+    "density": 84.8,
+    "county_fips": 54081,
+    "county_name": "Raleigh",
+    "county_weights": "{\"54081\": 100}",
+    "county_names_all": "Raleigh",
+    "county_fips_all": "54081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

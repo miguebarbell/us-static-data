@@ -1,0 +1,20 @@
+{
+    "zip": 13690,
+    "lat": 44.12612,
+    "lng": -75.02319,
+    "city": "Star Lake",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 651.0,
+    "density": 4.6,
+    "county_fips": 36089,
+    "county_name": "St. Lawrence",
+    "county_weights": "{\"36089\": 100}",
+    "county_names_all": "St. Lawrence",
+    "county_fips_all": "36089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

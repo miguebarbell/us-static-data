@@ -1,0 +1,20 @@
+{
+    "zip": 66083,
+    "lat": 38.73518,
+    "lng": -94.83397,
+    "city": "Spring Hill",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12832.0,
+    "density": 79.9,
+    "county_fips": 20121,
+    "county_name": "Miami",
+    "county_weights": "{\"20121\": 57.64, \"20091\": 42.36}",
+    "county_names_all": "Miami|Johnson",
+    "county_fips_all": "20121|20091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

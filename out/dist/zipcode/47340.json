@@ -1,0 +1,20 @@
+{
+    "zip": 47340,
+    "lat": 40.181,
+    "lng": -85.1318,
+    "city": "Farmland",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3267.0,
+    "density": 23.6,
+    "county_fips": 18135,
+    "county_name": "Randolph",
+    "county_weights": "{\"18135\": 100}",
+    "county_names_all": "Randolph",
+    "county_fips_all": "18135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

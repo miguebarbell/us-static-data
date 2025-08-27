@@ -1,0 +1,20 @@
+{
+    "zip": 27871,
+    "lat": 35.81355,
+    "lng": -77.26306,
+    "city": "Robersonville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3559.0,
+    "density": 14.3,
+    "county_fips": 37117,
+    "county_name": "Martin",
+    "county_weights": "{\"37117\": 72.5, \"37147\": 26.86, \"37013\": 0.64}",
+    "county_names_all": "Martin|Pitt|Beaufort",
+    "county_fips_all": "37117|37147|37013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

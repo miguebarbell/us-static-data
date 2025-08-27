@@ -1,0 +1,20 @@
+{
+    "zip": 31035,
+    "lat": 32.84601,
+    "lng": -82.7062,
+    "city": "Harrison",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1150.0,
+    "density": 9.2,
+    "county_fips": 13303,
+    "county_name": "Washington",
+    "county_weights": "{\"13303\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "13303",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 80731,
+    "lat": 40.58734,
+    "lng": -102.60558,
+    "city": "Haxtun",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1484.0,
+    "density": 1.5,
+    "county_fips": 8095,
+    "county_name": "Phillips",
+    "county_weights": "{\"08095\": 59.86, \"08075\": 28.3, \"08125\": 9.47, \"08115\": 2.37}",
+    "county_names_all": "Phillips|Logan|Yuma|Sedgwick",
+    "county_fips_all": "08095|08075|08125|08115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

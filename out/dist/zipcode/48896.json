@@ -1,0 +1,20 @@
+{
+    "zip": 48896,
+    "lat": 43.52127,
+    "lng": -84.90101,
+    "city": "Winn",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 218.0,
+    "density": 311.0,
+    "county_fips": 26073,
+    "county_name": "Isabella",
+    "county_weights": "{\"26073\": 100}",
+    "county_names_all": "Isabella",
+    "county_fips_all": "26073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

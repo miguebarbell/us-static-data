@@ -1,0 +1,20 @@
+{
+    "zip": 76009,
+    "lat": 32.41635,
+    "lng": -97.20115,
+    "city": "Alvarado",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21130.0,
+    "density": 83.2,
+    "county_fips": 48251,
+    "county_name": "Johnson",
+    "county_weights": "{\"48251\": 100}",
+    "county_names_all": "Johnson",
+    "county_fips_all": "48251",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

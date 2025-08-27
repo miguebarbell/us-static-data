@@ -1,0 +1,20 @@
+{
+    "zip": 18927,
+    "lat": 40.31952,
+    "lng": -75.24514,
+    "city": "Hilltown",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 311.0,
+    "density": 302.3,
+    "county_fips": 42017,
+    "county_name": "Bucks",
+    "county_weights": "{\"42017\": 100}",
+    "county_names_all": "Bucks",
+    "county_fips_all": "42017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 25202,
+    "lat": 38.31593,
+    "lng": -81.85372,
+    "city": "Tornado",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1408.0,
+    "density": 41.5,
+    "county_fips": 54039,
+    "county_name": "Kanawha",
+    "county_weights": "{\"54039\": 52.42, \"54043\": 47.58}",
+    "county_names_all": "Kanawha|Lincoln",
+    "county_fips_all": "54039|54043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

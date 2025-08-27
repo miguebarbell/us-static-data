@@ -1,0 +1,20 @@
+{
+    "zip": 20623,
+    "lat": 38.7423,
+    "lng": -76.83747,
+    "city": "Cheltenham",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2846.0,
+    "density": 572.7,
+    "county_fips": 24033,
+    "county_name": "Prince George's",
+    "county_weights": "{\"24033\": 100}",
+    "county_names_all": "Prince George's",
+    "county_fips_all": "24033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

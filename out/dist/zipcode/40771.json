@@ -1,0 +1,20 @@
+{
+    "zip": 40771,
+    "lat": 36.85942,
+    "lng": -84.03459,
+    "city": "Woodbine",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1702.0,
+    "density": 63.7,
+    "county_fips": 21121,
+    "county_name": "Knox",
+    "county_weights": "{\"21121\": 86.48, \"21235\": 13.52}",
+    "county_names_all": "Knox|Whitley",
+    "county_fips_all": "21121|21235",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

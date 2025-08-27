@@ -1,0 +1,20 @@
+{
+    "zip": 55017,
+    "lat": 45.67291,
+    "lng": -93.4314,
+    "city": "Dalbo",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 971.0,
+    "density": 14.5,
+    "county_fips": 27059,
+    "county_name": "Isanti",
+    "county_weights": "{\"27059\": 100}",
+    "county_names_all": "Isanti",
+    "county_fips_all": "27059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

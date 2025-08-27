@@ -1,0 +1,20 @@
+{
+    "zip": 64740,
+    "lat": 38.22349,
+    "lng": -93.71204,
+    "city": "Deepwater",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1568.0,
+    "density": 5.8,
+    "county_fips": 29083,
+    "county_name": "Henry",
+    "county_weights": "{\"29083\": 70.06, \"29185\": 29.94}",
+    "county_names_all": "Henry|St. Clair",
+    "county_fips_all": "29083|29185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

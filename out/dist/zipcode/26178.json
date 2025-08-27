@@ -1,0 +1,20 @@
+{
+    "zip": 26178,
+    "lat": 39.06001,
+    "lng": -81.02888,
+    "city": "Smithville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 272.0,
+    "density": 2.8,
+    "county_fips": 54085,
+    "county_name": "Ritchie",
+    "county_weights": "{\"54085\": 100}",
+    "county_names_all": "Ritchie",
+    "county_fips_all": "54085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

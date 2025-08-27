@@ -1,0 +1,20 @@
+{
+    "zip": 62253,
+    "lat": 38.77554,
+    "lng": -89.29738,
+    "city": "Keyesport",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 923.0,
+    "density": 11.4,
+    "county_fips": 17005,
+    "county_name": "Bond",
+    "county_weights": "{\"17005\": 80.1, \"17051\": 12.94, \"17027\": 6.96}",
+    "county_names_all": "Bond|Fayette|Clinton",
+    "county_fips_all": "17005|17051|17027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

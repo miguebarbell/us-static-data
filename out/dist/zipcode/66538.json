@@ -1,0 +1,20 @@
+{
+    "zip": 66538,
+    "lat": 39.84942,
+    "lng": -96.04591,
+    "city": "Seneca",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3577.0,
+    "density": 10.1,
+    "county_fips": 20131,
+    "county_name": "Nemaha",
+    "county_weights": "{\"20131\": 100}",
+    "county_names_all": "Nemaha",
+    "county_fips_all": "20131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

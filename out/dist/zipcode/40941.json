@@ -1,0 +1,20 @@
+{
+    "zip": 40941,
+    "lat": 37.12981,
+    "lng": -83.74585,
+    "city": "Garrard",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 129.0,
+    "density": 353.9,
+    "county_fips": 21051,
+    "county_name": "Clay",
+    "county_weights": "{\"21051\": 100}",
+    "county_names_all": "Clay",
+    "county_fips_all": "21051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

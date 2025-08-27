@@ -1,0 +1,20 @@
+{
+    "zip": 36025,
+    "lat": 32.54664,
+    "lng": -86.33941,
+    "city": "Elmore",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7083.0,
+    "density": 213.4,
+    "county_fips": 1051,
+    "county_name": "Elmore",
+    "county_weights": "{\"01051\": 100}",
+    "county_names_all": "Elmore",
+    "county_fips_all": "01051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

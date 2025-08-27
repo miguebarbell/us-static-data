@@ -1,0 +1,20 @@
+{
+    "zip": 75845,
+    "lat": 31.09488,
+    "lng": -95.08707,
+    "city": "Groveton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2287.0,
+    "density": 2.8,
+    "county_fips": 48455,
+    "county_name": "Trinity",
+    "county_weights": "{\"48455\": 100}",
+    "county_names_all": "Trinity",
+    "county_fips_all": "48455",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

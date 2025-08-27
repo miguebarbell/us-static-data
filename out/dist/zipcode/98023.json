@@ -1,0 +1,20 @@
+{
+    "zip": 98023,
+    "lat": 47.30881,
+    "lng": -122.36198,
+    "city": "Federal Way",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 49593.0,
+    "density": 1865.4,
+    "county_fips": 53033,
+    "county_name": "King",
+    "county_weights": "{\"53033\": 99.85, \"53053\": 0.15}",
+    "county_names_all": "King|Pierce",
+    "county_fips_all": "53033|53053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

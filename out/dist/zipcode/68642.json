@@ -1,0 +1,20 @@
+{
+    "zip": 68642,
+    "lat": 41.68717,
+    "lng": -97.51232,
+    "city": "Humphrey",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1704.0,
+    "density": 5.1,
+    "county_fips": 31141,
+    "county_name": "Platte",
+    "county_weights": "{\"31141\": 83.46, \"31119\": 16.54}",
+    "county_names_all": "Platte|Madison",
+    "county_fips_all": "31141|31119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

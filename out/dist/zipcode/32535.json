@@ -1,0 +1,20 @@
+{
+    "zip": 32535,
+    "lat": 30.96515,
+    "lng": -87.34673,
+    "city": "Century",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5880.0,
+    "density": 32.2,
+    "county_fips": 12033,
+    "county_name": "Escambia",
+    "county_weights": "{\"12033\": 100}",
+    "county_names_all": "Escambia",
+    "county_fips_all": "12033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

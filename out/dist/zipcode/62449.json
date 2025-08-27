@@ -1,0 +1,20 @@
+{
+    "zip": 62449,
+    "lat": 39.00419,
+    "lng": -87.91069,
+    "city": "Oblong",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2883.0,
+    "density": 9.3,
+    "county_fips": 17033,
+    "county_name": "Crawford",
+    "county_weights": "{\"17033\": 81.46, \"17079\": 17.54, \"17023\": 1.0}",
+    "county_names_all": "Crawford|Jasper|Clark",
+    "county_fips_all": "17033|17079|17023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

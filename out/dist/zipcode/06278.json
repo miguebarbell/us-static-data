@@ -1,0 +1,20 @@
+{
+    "zip": 6278,
+    "lat": 41.89126,
+    "lng": -72.17003,
+    "city": "Ashford",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4345.0,
+    "density": 42.4,
+    "county_fips": 9150,
+    "county_name": "Northeastern Connecticut",
+    "county_weights": "{\"09150\": 100}",
+    "county_names_all": "Northeastern Connecticut",
+    "county_fips_all": "09150",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

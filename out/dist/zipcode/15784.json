@@ -1,0 +1,20 @@
+{
+    "zip": 15784,
+    "lat": 41.02449,
+    "lng": -79.13937,
+    "city": "Worthville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 49.0,
+    "density": 110.4,
+    "county_fips": 42065,
+    "county_name": "Jefferson",
+    "county_weights": "{\"42065\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "42065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

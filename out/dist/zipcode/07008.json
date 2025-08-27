@@ -1,0 +1,20 @@
+{
+    "zip": 7008,
+    "lat": 40.58489,
+    "lng": -74.2284,
+    "city": "Carteret",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25220.0,
+    "density": 2214.5,
+    "county_fips": 34023,
+    "county_name": "Middlesex",
+    "county_weights": "{\"34023\": 99.86, \"34039\": 0.14}",
+    "county_names_all": "Middlesex|Union",
+    "county_fips_all": "34023|34039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 69131,
+    "lat": 41.4216,
+    "lng": -103.00047,
+    "city": "Dalton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 805.0,
+    "density": 1.2,
+    "county_fips": 31033,
+    "county_name": "Cheyenne",
+    "county_weights": "{\"31033\": 63.03, \"31123\": 36.97}",
+    "county_names_all": "Cheyenne|Morrill",
+    "county_fips_all": "31033|31123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

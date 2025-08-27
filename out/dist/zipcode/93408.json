@@ -1,0 +1,20 @@
+{
+    "zip": 93408,
+    "lat": 35.32117,
+    "lng": -120.71889,
+    "city": "San Luis Obispo",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8.0,
+    "density": 143.4,
+    "county_fips": 6079,
+    "county_name": "San Luis Obispo",
+    "county_weights": "{\"06079\": 100}",
+    "county_names_all": "San Luis Obispo",
+    "county_fips_all": "06079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

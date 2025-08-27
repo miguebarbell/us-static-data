@@ -1,0 +1,20 @@
+{
+    "zip": 7044,
+    "lat": 40.83228,
+    "lng": -74.24308,
+    "city": "Verona",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14441.0,
+    "density": 1995.4,
+    "county_fips": 34013,
+    "county_name": "Essex",
+    "county_weights": "{\"34013\": 100}",
+    "county_names_all": "Essex",
+    "county_fips_all": "34013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 76491,
+    "lat": 33.05754,
+    "lng": -99.03834,
+    "city": "Woodson",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 861.0,
+    "density": 2.2,
+    "county_fips": 48447,
+    "county_name": "Throckmorton",
+    "county_weights": "{\"48447\": 98.59, \"48429\": 1.41}",
+    "county_names_all": "Throckmorton|Stephens",
+    "county_fips_all": "48447|48429",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

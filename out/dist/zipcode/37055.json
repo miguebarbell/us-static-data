@@ -1,0 +1,20 @@
+{
+    "zip": 37055,
+    "lat": 36.07921,
+    "lng": -87.44238,
+    "city": "Dickson",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28567.0,
+    "density": 54.7,
+    "county_fips": 47043,
+    "county_name": "Dickson",
+    "county_weights": "{\"47043\": 91.59, \"47081\": 8.41}",
+    "county_names_all": "Dickson|Hickman",
+    "county_fips_all": "47043|47081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

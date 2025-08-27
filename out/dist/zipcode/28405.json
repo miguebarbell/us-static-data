@@ -1,0 +1,20 @@
+{
+    "zip": 28405,
+    "lat": 34.26388,
+    "lng": -77.86743,
+    "city": "Wilmington",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35159.0,
+    "density": 576.6,
+    "county_fips": 37129,
+    "county_name": "New Hanover",
+    "county_weights": "{\"37129\": 100}",
+    "county_names_all": "New Hanover",
+    "county_fips_all": "37129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

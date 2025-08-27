@@ -1,0 +1,20 @@
+{
+    "zip": 50702,
+    "lat": 42.45745,
+    "lng": -92.31283,
+    "city": "Waterloo",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21197.0,
+    "density": 837.2,
+    "county_fips": 19013,
+    "county_name": "Black Hawk",
+    "county_weights": "{\"19013\": 100}",
+    "county_names_all": "Black Hawk",
+    "county_fips_all": "19013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

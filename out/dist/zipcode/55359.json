@@ -1,0 +1,20 @@
+{
+    "zip": 55359,
+    "lat": 45.00464,
+    "lng": -93.70112,
+    "city": "Maple Plain",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7068.0,
+    "density": 63.9,
+    "county_fips": 27053,
+    "county_name": "Hennepin",
+    "county_weights": "{\"27053\": 100}",
+    "county_names_all": "Hennepin",
+    "county_fips_all": "27053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

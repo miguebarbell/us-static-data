@@ -1,0 +1,20 @@
+{
+    "zip": 46058,
+    "lat": 40.35981,
+    "lng": -86.64777,
+    "city": "Mulberry",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2127.0,
+    "density": 31.0,
+    "county_fips": 18023,
+    "county_name": "Clinton",
+    "county_weights": "{\"18023\": 99.32, \"18157\": 0.68}",
+    "county_names_all": "Clinton|Tippecanoe",
+    "county_fips_all": "18023|18157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

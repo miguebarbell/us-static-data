@@ -1,0 +1,20 @@
+{
+    "zip": 31623,
+    "lat": 31.07137,
+    "lng": -82.644,
+    "city": "Argyle",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 533.0,
+    "density": 326.4,
+    "county_fips": 13065,
+    "county_name": "Clinch",
+    "county_weights": "{\"13065\": 100}",
+    "county_names_all": "Clinch",
+    "county_fips_all": "13065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

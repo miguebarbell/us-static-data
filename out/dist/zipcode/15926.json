@@ -1,0 +1,20 @@
+{
+    "zip": 15926,
+    "lat": 40.04783,
+    "lng": -78.81934,
+    "city": "Central City",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2474.0,
+    "density": 30.1,
+    "county_fips": 42111,
+    "county_name": "Somerset",
+    "county_weights": "{\"42111\": 100}",
+    "county_names_all": "Somerset",
+    "county_fips_all": "42111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 81154,
+    "lat": 37.63473,
+    "lng": -106.67179,
+    "city": "South Fork",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1259.0,
+    "density": 1.3,
+    "county_fips": 8105,
+    "county_name": "Rio Grande",
+    "county_weights": "{\"08105\": 65.39, \"08079\": 34.61}",
+    "county_names_all": "Rio Grande|Mineral",
+    "county_fips_all": "08105|08079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

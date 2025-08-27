@@ -1,0 +1,20 @@
+{
+    "zip": 73840,
+    "lat": 36.39436,
+    "lng": -99.64581,
+    "city": "Fargo",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 464.0,
+    "density": 1.3,
+    "county_fips": 40045,
+    "county_name": "Ellis",
+    "county_weights": "{\"40045\": 74.37, \"40153\": 25.63}",
+    "county_names_all": "Ellis|Woodward",
+    "county_fips_all": "40045|40153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

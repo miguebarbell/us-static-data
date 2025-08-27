@@ -1,0 +1,20 @@
+{
+    "zip": 61469,
+    "lat": 40.96262,
+    "lng": -90.91066,
+    "city": "Oquawka",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1857.0,
+    "density": 17.4,
+    "county_fips": 17071,
+    "county_name": "Henderson",
+    "county_weights": "{\"17071\": 100}",
+    "county_names_all": "Henderson",
+    "county_fips_all": "17071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

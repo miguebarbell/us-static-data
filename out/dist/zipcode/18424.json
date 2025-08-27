@@ -1,0 +1,20 @@
+{
+    "zip": 18424,
+    "lat": 41.24267,
+    "lng": -75.52234,
+    "city": "Gouldsboro",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5076.0,
+    "density": 24.1,
+    "county_fips": 42069,
+    "county_name": "Lackawanna",
+    "county_weights": "{\"42069\": 68.5, \"42127\": 19.75, \"42089\": 10.02, \"42079\": 1.73}",
+    "county_names_all": "Lackawanna|Wayne|Monroe|Luzerne",
+    "county_fips_all": "42069|42127|42089|42079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

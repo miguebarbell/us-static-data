@@ -1,0 +1,20 @@
+{
+    "zip": 80830,
+    "lat": 39.11313,
+    "lng": -103.91139,
+    "city": "Matheson",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 154.0,
+    "density": 0.4,
+    "county_fips": 8039,
+    "county_name": "Elbert",
+    "county_weights": "{\"08039\": 100}",
+    "county_names_all": "Elbert",
+    "county_fips_all": "08039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

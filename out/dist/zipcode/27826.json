@@ -1,0 +1,20 @@
+{
+    "zip": 27826,
+    "lat": 35.58988,
+    "lng": -76.2521,
+    "city": "Fairfield",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1039.0,
+    "density": 2.5,
+    "county_fips": 37095,
+    "county_name": "Hyde",
+    "county_weights": "{\"37095\": 73.93, \"37177\": 26.07}",
+    "county_names_all": "Hyde|Tyrrell",
+    "county_fips_all": "37095|37177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

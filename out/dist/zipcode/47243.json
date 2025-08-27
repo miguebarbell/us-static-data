@@ -1,0 +1,20 @@
+{
+    "zip": 47243,
+    "lat": 38.67214,
+    "lng": -85.48177,
+    "city": "Hanover",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6235.0,
+    "density": 72.8,
+    "county_fips": 18077,
+    "county_name": "Jefferson",
+    "county_weights": "{\"18077\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "18077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

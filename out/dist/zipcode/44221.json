@@ -1,0 +1,20 @@
+{
+    "zip": 44221,
+    "lat": 41.13898,
+    "lng": -81.47624,
+    "city": "Cuyahoga Falls",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29342.0,
+    "density": 1772.3,
+    "county_fips": 39153,
+    "county_name": "Summit",
+    "county_weights": "{\"39153\": 100}",
+    "county_names_all": "Summit",
+    "county_fips_all": "39153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

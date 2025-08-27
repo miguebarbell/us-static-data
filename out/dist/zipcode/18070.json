@@ -1,0 +1,20 @@
+{
+    "zip": 18070,
+    "lat": 40.4317,
+    "lng": -75.53884,
+    "city": "Palm",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 286.0,
+    "density": 34.9,
+    "county_fips": 42091,
+    "county_name": "Montgomery",
+    "county_weights": "{\"42091\": 60.85, \"42011\": 39.15}",
+    "county_names_all": "Montgomery|Berks",
+    "county_fips_all": "42091|42011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

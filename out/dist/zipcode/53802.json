@@ -1,0 +1,20 @@
+{
+    "zip": 53802,
+    "lat": 42.80538,
+    "lng": -90.89358,
+    "city": "Beetown",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 142.0,
+    "density": 32.5,
+    "county_fips": 55043,
+    "county_name": "Grant",
+    "county_weights": "{\"55043\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "55043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

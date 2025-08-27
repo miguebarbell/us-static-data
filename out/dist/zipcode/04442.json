@@ -1,0 +1,20 @@
+{
+    "zip": 4442,
+    "lat": 45.47446,
+    "lng": -69.69538,
+    "city": "Greenville Junction",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 132.0,
+    "density": 0.7,
+    "county_fips": 23021,
+    "county_name": "Piscataquis",
+    "county_weights": "{\"23021\": 100}",
+    "county_names_all": "Piscataquis",
+    "county_fips_all": "23021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 75492,
+    "lat": 33.59139,
+    "lng": -96.0004,
+    "city": "Windom",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 348.0,
+    "density": 2.8,
+    "county_fips": 48147,
+    "county_name": "Fannin",
+    "county_weights": "{\"48147\": 100}",
+    "county_names_all": "Fannin",
+    "county_fips_all": "48147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

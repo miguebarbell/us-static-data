@@ -1,0 +1,20 @@
+{
+    "zip": 68424,
+    "lat": 40.30111,
+    "lng": -97.01818,
+    "city": "Plymouth",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 747.0,
+    "density": 4.5,
+    "county_fips": 31095,
+    "county_name": "Jefferson",
+    "county_weights": "{\"31095\": 98.57, \"31067\": 1.43}",
+    "county_names_all": "Jefferson|Gage",
+    "county_fips_all": "31095|31067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

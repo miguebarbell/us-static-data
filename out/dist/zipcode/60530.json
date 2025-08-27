@@ -1,0 +1,20 @@
+{
+    "zip": 60530,
+    "lat": 41.79613,
+    "lng": -88.95988,
+    "city": "Lee",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1022.0,
+    "density": 14.1,
+    "county_fips": 17103,
+    "county_name": "Lee",
+    "county_weights": "{\"17103\": 68.29, \"17037\": 31.71}",
+    "county_names_all": "Lee|DeKalb",
+    "county_fips_all": "17103|17037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

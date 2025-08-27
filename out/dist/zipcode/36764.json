@@ -1,0 +1,20 @@
+{
+    "zip": 36764,
+    "lat": 32.11518,
+    "lng": -87.98526,
+    "city": "Nanafalia",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 1091,
+    "county_name": "Marengo",
+    "county_weights": "{\"01091\": 100}",
+    "county_names_all": "Marengo",
+    "county_fips_all": "01091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

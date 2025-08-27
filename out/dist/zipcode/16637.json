@@ -1,0 +1,20 @@
+{
+    "zip": 16637,
+    "lat": 40.34214,
+    "lng": -78.47079,
+    "city": "East Freedom",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2236.0,
+    "density": 44.0,
+    "county_fips": 42013,
+    "county_name": "Blair",
+    "county_weights": "{\"42013\": 100}",
+    "county_names_all": "Blair",
+    "county_fips_all": "42013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

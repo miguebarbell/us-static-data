@@ -1,0 +1,20 @@
+{
+    "zip": 61560,
+    "lat": 41.18581,
+    "lng": -89.40077,
+    "city": "Putnam",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 586.0,
+    "density": 6.5,
+    "county_fips": 17155,
+    "county_name": "Putnam",
+    "county_weights": "{\"17155\": 92.84, \"17123\": 4.07, \"17011\": 3.09}",
+    "county_names_all": "Putnam|Marshall|Bureau",
+    "county_fips_all": "17155|17123|17011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

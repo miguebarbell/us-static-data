@@ -1,0 +1,20 @@
+{
+    "zip": 47388,
+    "lat": 40.0056,
+    "lng": -85.44352,
+    "city": "Sulphur Springs",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 413.0,
+    "density": 799.8,
+    "county_fips": 18065,
+    "county_name": "Henry",
+    "county_weights": "{\"18065\": 100}",
+    "county_names_all": "Henry",
+    "county_fips_all": "18065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

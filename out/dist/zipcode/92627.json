@@ -1,0 +1,20 @@
+{
+    "zip": 92627,
+    "lat": 33.64786,
+    "lng": -117.9205,
+    "city": "Costa Mesa",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 60751.0,
+    "density": 3666.0,
+    "county_fips": 6059,
+    "county_name": "Orange",
+    "county_weights": "{\"06059\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "06059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

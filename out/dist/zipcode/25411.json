@@ -1,0 +1,20 @@
+{
+    "zip": 25411,
+    "lat": 39.55497,
+    "lng": -78.22004,
+    "city": "Berkeley Springs",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11929.0,
+    "density": 33.0,
+    "county_fips": 54065,
+    "county_name": "Morgan",
+    "county_weights": "{\"54065\": 100}",
+    "county_names_all": "Morgan",
+    "county_fips_all": "54065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

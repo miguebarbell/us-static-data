@@ -1,0 +1,20 @@
+{
+    "zip": 84401,
+    "lat": 41.21962,
+    "lng": -112.03352,
+    "city": "Ogden",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 46784.0,
+    "density": 589.0,
+    "county_fips": 49057,
+    "county_name": "Weber",
+    "county_weights": "{\"49057\": 100}",
+    "county_names_all": "Weber",
+    "county_fips_all": "49057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

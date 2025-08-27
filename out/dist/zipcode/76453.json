@@ -1,0 +1,20 @@
+{
+    "zip": 76453,
+    "lat": 32.57202,
+    "lng": -98.33908,
+    "city": "Gordon",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1474.0,
+    "density": 4.6,
+    "county_fips": 48363,
+    "county_name": "Palo Pinto",
+    "county_weights": "{\"48363\": 80.83, \"48143\": 19.17}",
+    "county_names_all": "Palo Pinto|Erath",
+    "county_fips_all": "48363|48143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

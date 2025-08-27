@@ -1,0 +1,20 @@
+{
+    "zip": 36255,
+    "lat": 33.18094,
+    "lng": -85.73933,
+    "city": "Cragford",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1043.0,
+    "density": 6.6,
+    "county_fips": 1027,
+    "county_name": "Clay",
+    "county_weights": "{\"01027\": 97.74, \"01123\": 2.26}",
+    "county_names_all": "Clay|Tallapoosa",
+    "county_fips_all": "01027|01123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

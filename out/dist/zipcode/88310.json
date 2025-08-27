@@ -1,0 +1,20 @@
+{
+    "zip": 88310,
+    "lat": 32.71809,
+    "lng": -106.07231,
+    "city": "Alamogordo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36737.0,
+    "density": 22.9,
+    "county_fips": 35035,
+    "county_name": "Otero",
+    "county_weights": "{\"35035\": 100}",
+    "county_names_all": "Otero",
+    "county_fips_all": "35035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

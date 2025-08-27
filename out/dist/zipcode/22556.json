@@ -1,0 +1,20 @@
+{
+    "zip": 22556,
+    "lat": 38.48624,
+    "lng": -77.513,
+    "city": "Stafford",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31783.0,
+    "density": 264.8,
+    "county_fips": 51179,
+    "county_name": "Stafford",
+    "county_weights": "{\"51179\": 99.18, \"51061\": 0.82}",
+    "county_names_all": "Stafford|Fauquier",
+    "county_fips_all": "51179|51061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

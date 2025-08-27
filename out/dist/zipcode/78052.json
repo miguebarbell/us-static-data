@@ -1,0 +1,20 @@
+{
+    "zip": 78052,
+    "lat": 29.20582,
+    "lng": -98.77427,
+    "city": "Lytle",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6221.0,
+    "density": 62.5,
+    "county_fips": 48013,
+    "county_name": "Atascosa",
+    "county_weights": "{\"48013\": 76.37, \"48325\": 16.06, \"48029\": 7.57}",
+    "county_names_all": "Atascosa|Medina|Bexar",
+    "county_fips_all": "48013|48325|48029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

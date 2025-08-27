@@ -1,0 +1,20 @@
+{
+    "zip": 98812,
+    "lat": 48.13119,
+    "lng": -119.80687,
+    "city": "Brewster",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5188.0,
+    "density": 10.3,
+    "county_fips": 53047,
+    "county_name": "Okanogan",
+    "county_weights": "{\"53047\": 74.94, \"53017\": 25.06}",
+    "county_names_all": "Okanogan|Douglas",
+    "county_fips_all": "53047|53017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

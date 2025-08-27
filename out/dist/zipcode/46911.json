@@ -1,0 +1,20 @@
+{
+    "zip": 46911,
+    "lat": 40.62859,
+    "lng": -85.94673,
+    "city": "Amboy",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1742.0,
+    "density": 17.5,
+    "county_fips": 18103,
+    "county_name": "Miami",
+    "county_weights": "{\"18103\": 79.19, \"18169\": 20.81}",
+    "county_names_all": "Miami|Wabash",
+    "county_fips_all": "18103|18169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 31217,
+    "lat": 32.84506,
+    "lng": -83.50568,
+    "city": "Macon",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16923.0,
+    "density": 60.6,
+    "county_fips": 13169,
+    "county_name": "Jones",
+    "county_weights": "{\"13169\": 39.78, \"13021\": 30.49, \"13289\": 29.73}",
+    "county_names_all": "Jones|Bibb|Twiggs",
+    "county_fips_all": "13169|13021|13289",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

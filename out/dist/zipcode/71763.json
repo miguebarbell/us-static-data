@@ -1,0 +1,20 @@
+{
+    "zip": 71763,
+    "lat": 33.90885,
+    "lng": -92.80648,
+    "city": "Sparkman",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1543.0,
+    "density": 2.5,
+    "county_fips": 5039,
+    "county_name": "Dallas",
+    "county_weights": "{\"05039\": 85.21, \"05103\": 11.03, \"05019\": 3.76}",
+    "county_names_all": "Dallas|Ouachita|Clark",
+    "county_fips_all": "05039|05103|05019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 57644,
+    "lat": 45.45155,
+    "lng": -102.08224,
+    "city": "Meadow",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 265.0,
+    "density": 0.1,
+    "county_fips": 46105,
+    "county_name": "Perkins",
+    "county_weights": "{\"46105\": 63.31, \"46031\": 20.74, \"46137\": 15.95}",
+    "county_names_all": "Perkins|Corson|Ziebach",
+    "county_fips_all": "46105|46031|46137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

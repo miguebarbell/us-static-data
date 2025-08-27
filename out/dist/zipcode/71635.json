@@ -1,0 +1,20 @@
+{
+    "zip": 71635,
+    "lat": 33.1369,
+    "lng": -92.00133,
+    "city": "Crossett",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10368.0,
+    "density": 18.1,
+    "county_fips": 5003,
+    "county_name": "Ashley",
+    "county_weights": "{\"05003\": 99.84, \"05011\": 0.16}",
+    "county_names_all": "Ashley|Bradley",
+    "county_fips_all": "05003|05011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

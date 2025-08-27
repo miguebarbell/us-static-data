@@ -1,0 +1,20 @@
+{
+    "zip": 22853,
+    "lat": 38.65156,
+    "lng": -78.76406,
+    "city": "Timberville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4876.0,
+    "density": 48.3,
+    "county_fips": 51165,
+    "county_name": "Rockingham",
+    "county_weights": "{\"51165\": 91.5, \"51171\": 8.5}",
+    "county_names_all": "Rockingham|Shenandoah",
+    "county_fips_all": "51165|51171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

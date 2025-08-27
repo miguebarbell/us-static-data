@@ -1,0 +1,20 @@
+{
+    "zip": 53571,
+    "lat": 43.27793,
+    "lng": -89.35358,
+    "city": "Morrisonville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 227.0,
+    "density": 204.1,
+    "county_fips": 55025,
+    "county_name": "Dane",
+    "county_weights": "{\"55025\": 100}",
+    "county_names_all": "Dane",
+    "county_fips_all": "55025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

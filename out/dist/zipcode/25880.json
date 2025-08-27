@@ -1,0 +1,20 @@
+{
+    "zip": 25880,
+    "lat": 37.87672,
+    "lng": -81.20095,
+    "city": "Mount Hope",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5552.0,
+    "density": 73.3,
+    "county_fips": 54081,
+    "county_name": "Raleigh",
+    "county_weights": "{\"54081\": 68.27, \"54019\": 31.73}",
+    "county_names_all": "Raleigh|Fayette",
+    "county_fips_all": "54081|54019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

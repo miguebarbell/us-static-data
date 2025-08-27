@@ -1,0 +1,20 @@
+{
+    "zip": 58224,
+    "lat": 48.16777,
+    "lng": -97.94307,
+    "city": "Dahlen",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 52.0,
+    "density": 1.4,
+    "county_fips": 38063,
+    "county_name": "Nelson",
+    "county_weights": "{\"38063\": 100}",
+    "county_names_all": "Nelson",
+    "county_fips_all": "38063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

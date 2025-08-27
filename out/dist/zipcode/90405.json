@@ -1,0 +1,20 @@
+{
+    "zip": 90405,
+    "lat": 34.01208,
+    "lng": -118.4679,
+    "city": "Santa Monica",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26809.0,
+    "density": 3720.8,
+    "county_fips": 6037,
+    "county_name": "Los Angeles",
+    "county_weights": "{\"06037\": 100}",
+    "county_names_all": "Los Angeles",
+    "county_fips_all": "06037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

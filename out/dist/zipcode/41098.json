@@ -1,0 +1,20 @@
+{
+    "zip": 41098,
+    "lat": 38.59553,
+    "lng": -84.99513,
+    "city": "Worthville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1138.0,
+    "density": 8.9,
+    "county_fips": 21187,
+    "county_name": "Owen",
+    "county_weights": "{\"21187\": 83.44, \"21041\": 16.56}",
+    "county_names_all": "Owen|Carroll",
+    "county_fips_all": "21187|21041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

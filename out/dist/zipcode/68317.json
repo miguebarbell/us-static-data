@@ -1,0 +1,20 @@
+{
+    "zip": 68317,
+    "lat": 40.67325,
+    "lng": -96.50451,
+    "city": "Bennet",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1963.0,
+    "density": 16.5,
+    "county_fips": 31109,
+    "county_name": "Lancaster",
+    "county_weights": "{\"31109\": 87.74, \"31131\": 12.26}",
+    "county_names_all": "Lancaster|Otoe",
+    "county_fips_all": "31109|31131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

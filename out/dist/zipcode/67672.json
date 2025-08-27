@@ -1,0 +1,20 @@
+{
+    "zip": 67672,
+    "lat": 38.99882,
+    "lng": -99.90746,
+    "city": "Wakeeney",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2111.0,
+    "density": 2.6,
+    "county_fips": 20195,
+    "county_name": "Trego",
+    "county_weights": "{\"20195\": 84.32, \"20065\": 15.68}",
+    "county_names_all": "Trego|Graham",
+    "county_fips_all": "20195|20065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

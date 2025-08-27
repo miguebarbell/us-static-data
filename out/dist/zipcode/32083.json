@@ -1,0 +1,20 @@
+{
+    "zip": 32083,
+    "lat": 30.09074,
+    "lng": -82.23222,
+    "city": "Raiford",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2627.0,
+    "density": 25.7,
+    "county_fips": 12125,
+    "county_name": "Union",
+    "county_weights": "{\"12125\": 98.05, \"12007\": 1.95}",
+    "county_names_all": "Union|Bradford",
+    "county_fips_all": "12125|12007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

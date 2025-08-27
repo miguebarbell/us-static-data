@@ -1,0 +1,20 @@
+{
+    "zip": 52344,
+    "lat": 42.29202,
+    "lng": -91.68325,
+    "city": "Troy Mills",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 70.0,
+    "density": 2862.0,
+    "county_fips": 19113,
+    "county_name": "Linn",
+    "county_weights": "{\"19113\": 100}",
+    "county_names_all": "Linn",
+    "county_fips_all": "19113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

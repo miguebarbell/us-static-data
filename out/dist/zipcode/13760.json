@@ -1,0 +1,20 @@
+{
+    "zip": 13760,
+    "lat": 42.13425,
+    "lng": -76.08354,
+    "city": "Endicott",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42880.0,
+    "density": 335.8,
+    "county_fips": 36007,
+    "county_name": "Broome",
+    "county_weights": "{\"36007\": 71.75, \"36107\": 28.25}",
+    "county_names_all": "Broome|Tioga",
+    "county_fips_all": "36007|36107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

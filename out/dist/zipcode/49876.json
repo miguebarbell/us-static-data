@@ -1,0 +1,20 @@
+{
+    "zip": 49876,
+    "lat": 45.80211,
+    "lng": -87.97729,
+    "city": "Quinnesec",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1171.0,
+    "density": 108.6,
+    "county_fips": 26043,
+    "county_name": "Dickinson",
+    "county_weights": "{\"26043\": 100}",
+    "county_names_all": "Dickinson",
+    "county_fips_all": "26043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Menominee"
+}

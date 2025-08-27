@@ -1,0 +1,20 @@
+{
+    "zip": 56623,
+    "lat": 48.59722,
+    "lng": -94.56913,
+    "city": "Baudette",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2684.0,
+    "density": 2.3,
+    "county_fips": 27077,
+    "county_name": "Lake of the Woods",
+    "county_weights": "{\"27077\": 82.75, \"27071\": 17.25}",
+    "county_names_all": "Lake of the Woods|Koochiching",
+    "county_fips_all": "27077|27071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 31324,
+    "lat": 31.85707,
+    "lng": -81.26951,
+    "city": "Richmond Hill",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35668.0,
+    "density": 106.1,
+    "county_fips": 13029,
+    "county_name": "Bryan",
+    "county_weights": "{\"13029\": 100}",
+    "county_names_all": "Bryan",
+    "county_fips_all": "13029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

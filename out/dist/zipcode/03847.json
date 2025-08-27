@@ -1,0 +1,20 @@
+{
+    "zip": 3847,
+    "lat": 44.06875,
+    "lng": -71.12162,
+    "city": "Kearsarge",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 198.0,
+    "density": 93.1,
+    "county_fips": 33003,
+    "county_name": "Carroll",
+    "county_weights": "{\"33003\": 100}",
+    "county_names_all": "Carroll",
+    "county_fips_all": "33003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

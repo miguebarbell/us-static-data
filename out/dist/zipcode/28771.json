@@ -1,0 +1,20 @@
+{
+    "zip": 28771,
+    "lat": 35.34245,
+    "lng": -83.8567,
+    "city": "Robbinsville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7637.0,
+    "density": 11.4,
+    "county_fips": 37075,
+    "county_name": "Graham",
+    "county_weights": "{\"37075\": 98.91, \"37173\": 1.09}",
+    "county_names_all": "Graham|Swain",
+    "county_fips_all": "37075|37173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72601,
+    "lat": 36.23669,
+    "lng": -93.09181,
+    "city": "Harrison",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30180.0,
+    "density": 31.9,
+    "county_fips": 5009,
+    "county_name": "Boone",
+    "county_weights": "{\"05009\": 91.52, \"05101\": 5.75, \"05089\": 2.73}",
+    "county_names_all": "Boone|Newton|Marion",
+    "county_fips_all": "05009|05101|05089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

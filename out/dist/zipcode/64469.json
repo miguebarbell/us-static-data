@@ -1,0 +1,20 @@
+{
+    "zip": 64469,
+    "lat": 39.93085,
+    "lng": -94.35762,
+    "city": "Maysville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2218.0,
+    "density": 7.1,
+    "county_fips": 29063,
+    "county_name": "DeKalb",
+    "county_weights": "{\"29063\": 98.33, \"29075\": 1.67}",
+    "county_names_all": "DeKalb|Gentry",
+    "county_fips_all": "29063|29075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 20770,
+    "lat": 38.99981,
+    "lng": -76.88567,
+    "city": "Greenbelt",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28181.0,
+    "density": 1489.6,
+    "county_fips": 24033,
+    "county_name": "Prince George's",
+    "county_weights": "{\"24033\": 100}",
+    "county_names_all": "Prince George's",
+    "county_fips_all": "24033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

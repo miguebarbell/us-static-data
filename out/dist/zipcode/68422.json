@@ -1,0 +1,20 @@
+{
+    "zip": 68422,
+    "lat": 40.38863,
+    "lng": -96.69755,
+    "city": "Pickrell",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 797.0,
+    "density": 5.9,
+    "county_fips": 31067,
+    "county_name": "Gage",
+    "county_weights": "{\"31067\": 100}",
+    "county_names_all": "Gage",
+    "county_fips_all": "31067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

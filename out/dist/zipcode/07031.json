@@ -1,0 +1,20 @@
+{
+    "zip": 7031,
+    "lat": 40.78745,
+    "lng": -74.12731,
+    "city": "North Arlington",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16368.0,
+    "density": 2543.8,
+    "county_fips": 34003,
+    "county_name": "Bergen",
+    "county_weights": "{\"34003\": 99.83, \"34013\": 0.17}",
+    "county_names_all": "Bergen|Essex",
+    "county_fips_all": "34003|34013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

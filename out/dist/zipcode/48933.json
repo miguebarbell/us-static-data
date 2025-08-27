@@ -1,0 +1,20 @@
+{
+    "zip": 48933,
+    "lat": 42.72956,
+    "lng": -84.55595,
+    "city": "Lansing",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3349.0,
+    "density": 1237.8,
+    "county_fips": 26065,
+    "county_name": "Ingham",
+    "county_weights": "{\"26065\": 100}",
+    "county_names_all": "Ingham",
+    "county_fips_all": "26065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

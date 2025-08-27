@@ -1,0 +1,20 @@
+{
+    "zip": 64726,
+    "lat": 38.52921,
+    "lng": -93.92492,
+    "city": "Blairstown",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 356.0,
+    "density": 3.0,
+    "county_fips": 29083,
+    "county_name": "Henry",
+    "county_weights": "{\"29083\": 92.13, \"29101\": 7.87}",
+    "county_names_all": "Henry|Johnson",
+    "county_fips_all": "29083|29101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

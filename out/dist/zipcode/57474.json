@@ -1,0 +1,20 @@
+{
+    "zip": 57474,
+    "lat": 45.28577,
+    "lng": -98.27526,
+    "city": "Stratford",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 184.0,
+    "density": 0.9,
+    "county_fips": 46013,
+    "county_name": "Brown",
+    "county_weights": "{\"46013\": 82.15, \"46115\": 17.85}",
+    "county_names_all": "Brown|Spink",
+    "county_fips_all": "46013|46115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

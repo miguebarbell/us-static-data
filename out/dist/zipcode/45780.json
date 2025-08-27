@@ -1,0 +1,20 @@
+{
+    "zip": 45780,
+    "lat": 39.36972,
+    "lng": -82.13112,
+    "city": "The Plains",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2653.0,
+    "density": 350.9,
+    "county_fips": 39009,
+    "county_name": "Athens",
+    "county_weights": "{\"39009\": 100}",
+    "county_names_all": "Athens",
+    "county_fips_all": "39009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

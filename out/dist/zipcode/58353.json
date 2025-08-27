@@ -1,0 +1,20 @@
+{
+    "zip": 58353,
+    "lat": 48.64005,
+    "lng": -99.59928,
+    "city": "Mylo",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 119.0,
+    "density": 0.7,
+    "county_fips": 38079,
+    "county_name": "Rolette",
+    "county_weights": "{\"38079\": 100}",
+    "county_names_all": "Rolette",
+    "county_fips_all": "38079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 94965,
+    "lat": 37.85263,
+    "lng": -122.52699,
+    "city": "Sausalito",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12160.0,
+    "density": 322.1,
+    "county_fips": 6041,
+    "county_name": "Marin",
+    "county_weights": "{\"06041\": 100}",
+    "county_names_all": "Marin",
+    "county_fips_all": "06041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

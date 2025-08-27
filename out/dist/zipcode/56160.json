@@ -1,0 +1,20 @@
+{
+    "zip": 56160,
+    "lat": 43.83311,
+    "lng": -94.81041,
+    "city": "Odin",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 225.0,
+    "density": 4.2,
+    "county_fips": 27091,
+    "county_name": "Martin",
+    "county_weights": "{\"27091\": 50.77, \"27063\": 29.33, \"27165\": 19.9}",
+    "county_names_all": "Martin|Jackson|Watonwan",
+    "county_fips_all": "27091|27063|27165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

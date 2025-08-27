@@ -1,0 +1,20 @@
+{
+    "zip": 76654,
+    "lat": 31.72708,
+    "lng": -97.01346,
+    "city": "Leroy",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 168.0,
+    "density": 72.2,
+    "county_fips": 48309,
+    "county_name": "McLennan",
+    "county_weights": "{\"48309\": 100}",
+    "county_names_all": "McLennan",
+    "county_fips_all": "48309",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

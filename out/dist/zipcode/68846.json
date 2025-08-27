@@ -1,0 +1,20 @@
+{
+    "zip": 68846,
+    "lat": 41.06499,
+    "lng": -97.88533,
+    "city": "Hordville",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 315.0,
+    "density": 4.0,
+    "county_fips": 31081,
+    "county_name": "Hamilton",
+    "county_weights": "{\"31081\": 100}",
+    "county_names_all": "Hamilton",
+    "county_fips_all": "31081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

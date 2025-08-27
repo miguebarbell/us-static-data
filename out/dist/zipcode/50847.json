@@ -1,0 +1,20 @@
+{
+    "zip": 50847,
+    "lat": 41.14168,
+    "lng": -94.98405,
+    "city": "Grant",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40.0,
+    "density": 67.8,
+    "county_fips": 19137,
+    "county_name": "Montgomery",
+    "county_weights": "{\"19137\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "19137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

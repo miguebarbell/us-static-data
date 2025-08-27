@@ -1,0 +1,20 @@
+{
+    "zip": 80734,
+    "lat": 40.52472,
+    "lng": -102.29259,
+    "city": "Holyoke",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2976.0,
+    "density": 2.4,
+    "county_fips": 8095,
+    "county_name": "Phillips",
+    "county_weights": "{\"08095\": 77.07, \"08125\": 22.93}",
+    "county_names_all": "Phillips|Yuma",
+    "county_fips_all": "08095|08125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

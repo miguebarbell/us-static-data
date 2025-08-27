@@ -1,0 +1,20 @@
+{
+    "zip": 94952,
+    "lat": 38.23007,
+    "lng": -122.76338,
+    "city": "Petaluma",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33339.0,
+    "density": 64.8,
+    "county_fips": 6041,
+    "county_name": "Marin",
+    "county_weights": "{\"06041\": 51.34, \"06097\": 48.66}",
+    "county_names_all": "Marin|Sonoma",
+    "county_fips_all": "06041|06097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

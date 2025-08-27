@@ -1,0 +1,20 @@
+{
+    "zip": 77478,
+    "lat": 29.61896,
+    "lng": -95.6077,
+    "city": "Sugar Land",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22699.0,
+    "density": 874.6,
+    "county_fips": 48157,
+    "county_name": "Fort Bend",
+    "county_weights": "{\"48157\": 100}",
+    "county_names_all": "Fort Bend",
+    "county_fips_all": "48157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

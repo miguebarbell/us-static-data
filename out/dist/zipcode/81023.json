@@ -1,0 +1,20 @@
+{
+    "zip": 81023,
+    "lat": 38.06352,
+    "lng": -104.92966,
+    "city": "Beulah",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1568.0,
+    "density": 3.9,
+    "county_fips": 8101,
+    "county_name": "Pueblo",
+    "county_weights": "{\"08101\": 100}",
+    "county_names_all": "Pueblo",
+    "county_fips_all": "08101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 46508,
+    "lat": 41.15499,
+    "lng": -85.96904,
+    "city": "Burket",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 184.0,
+    "density": 885.2,
+    "county_fips": 18085,
+    "county_name": "Kosciusko",
+    "county_weights": "{\"18085\": 100}",
+    "county_names_all": "Kosciusko",
+    "county_fips_all": "18085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

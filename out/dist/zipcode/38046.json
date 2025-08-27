@@ -1,0 +1,20 @@
+{
+    "zip": 38046,
+    "lat": 35.04598,
+    "lng": -89.24408,
+    "city": "La Grange",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9.0,
+    "density": 39.5,
+    "county_fips": 47047,
+    "county_name": "Fayette",
+    "county_weights": "{\"47047\": 100}",
+    "county_names_all": "Fayette",
+    "county_fips_all": "47047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

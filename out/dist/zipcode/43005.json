@@ -1,0 +1,20 @@
+{
+    "zip": 43005,
+    "lat": 40.28241,
+    "lng": -82.26728,
+    "city": "Bladensburg",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 308.0,
+    "density": 61.0,
+    "county_fips": 39083,
+    "county_name": "Knox",
+    "county_weights": "{\"39083\": 100}",
+    "county_names_all": "Knox",
+    "county_fips_all": "39083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

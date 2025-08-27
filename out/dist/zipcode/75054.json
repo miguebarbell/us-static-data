@@ -1,0 +1,20 @@
+{
+    "zip": 75054,
+    "lat": 32.60036,
+    "lng": -97.03409,
+    "city": "Grand Prairie",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17517.0,
+    "density": 1143.0,
+    "county_fips": 48113,
+    "county_name": "Dallas",
+    "county_weights": "{\"48113\": 53.41, \"48439\": 46.59}",
+    "county_names_all": "Dallas|Tarrant",
+    "county_fips_all": "48113|48439",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

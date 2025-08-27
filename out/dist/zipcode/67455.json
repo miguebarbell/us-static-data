@@ -1,0 +1,20 @@
+{
+    "zip": 67455,
+    "lat": 39.02765,
+    "lng": -98.16478,
+    "city": "Lincoln",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1609.0,
+    "density": 2.1,
+    "county_fips": 20105,
+    "county_name": "Lincoln",
+    "county_weights": "{\"20105\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "20105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 34762,
+    "lat": 28.75772,
+    "lng": -81.9152,
+    "city": "The Villages",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 580.0,
+    "density": 26.7,
+    "county_fips": 12069,
+    "county_name": "Lake",
+    "county_weights": "{\"12069\": 100}",
+    "county_names_all": "Lake",
+    "county_fips_all": "12069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

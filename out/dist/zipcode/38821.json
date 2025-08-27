@@ -1,0 +1,20 @@
+{
+    "zip": 38821,
+    "lat": 33.97503,
+    "lng": -88.43918,
+    "city": "Amory",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12417.0,
+    "density": 34.6,
+    "county_fips": 28095,
+    "county_name": "Monroe",
+    "county_weights": "{\"28095\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "28095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

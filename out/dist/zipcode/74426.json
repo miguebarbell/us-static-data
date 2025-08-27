@@ -1,0 +1,20 @@
+{
+    "zip": 74426,
+    "lat": 35.44553,
+    "lng": -95.52759,
+    "city": "Checotah",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9482.0,
+    "density": 16.6,
+    "county_fips": 40091,
+    "county_name": "McIntosh",
+    "county_weights": "{\"40091\": 99.84, \"40101\": 0.16}",
+    "county_names_all": "McIntosh|Muskogee",
+    "county_fips_all": "40091|40101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

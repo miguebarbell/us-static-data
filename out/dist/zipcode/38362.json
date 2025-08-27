@@ -1,0 +1,20 @@
+{
+    "zip": 38362,
+    "lat": 35.72696,
+    "lng": -88.78508,
+    "city": "Oakfield",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 991.0,
+    "density": 44.3,
+    "county_fips": 47113,
+    "county_name": "Madison",
+    "county_weights": "{\"47113\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "47113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

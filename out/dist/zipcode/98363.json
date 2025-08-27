@@ -1,0 +1,20 @@
+{
+    "zip": 98363,
+    "lat": 48.03477,
+    "lng": -123.76952,
+    "city": "Port Angeles",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14644.0,
+    "density": 11.8,
+    "county_fips": 53009,
+    "county_name": "Clallam",
+    "county_weights": "{\"53009\": 100}",
+    "county_names_all": "Clallam",
+    "county_fips_all": "53009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

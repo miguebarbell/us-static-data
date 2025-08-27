@@ -1,0 +1,20 @@
+{
+    "zip": 63654,
+    "lat": 37.45941,
+    "lng": -90.85156,
+    "city": "Lesterville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 697.0,
+    "density": 3.8,
+    "county_fips": 29179,
+    "county_name": "Reynolds",
+    "county_weights": "{\"29179\": 98.79, \"29093\": 1.21}",
+    "county_names_all": "Reynolds|Iron",
+    "county_fips_all": "29179|29093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

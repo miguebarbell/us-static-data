@@ -1,0 +1,20 @@
+{
+    "zip": 70528,
+    "lat": 29.89766,
+    "lng": -91.96692,
+    "city": "Delcambre",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2692.0,
+    "density": 65.1,
+    "county_fips": 22045,
+    "county_name": "Iberia",
+    "county_weights": "{\"22045\": 89.69, \"22113\": 10.31}",
+    "county_names_all": "Iberia|Vermilion",
+    "county_fips_all": "22045|22113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 62571,
+    "lat": 39.38155,
+    "lng": -88.95998,
+    "city": "Tower Hill",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1325.0,
+    "density": 7.3,
+    "county_fips": 17173,
+    "county_name": "Shelby",
+    "county_weights": "{\"17173\": 100}",
+    "county_names_all": "Shelby",
+    "county_fips_all": "17173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49301,
+    "lat": 42.97716,
+    "lng": -85.47671,
+    "city": "Ada",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20492.0,
+    "density": 139.2,
+    "county_fips": 26081,
+    "county_name": "Kent",
+    "county_weights": "{\"26081\": 100}",
+    "county_names_all": "Kent",
+    "county_fips_all": "26081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

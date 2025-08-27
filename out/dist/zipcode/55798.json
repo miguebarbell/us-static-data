@@ -1,0 +1,20 @@
+{
+    "zip": 55798,
+    "lat": 46.72138,
+    "lng": -92.97907,
+    "city": "Wright",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 611.0,
+    "density": 2.3,
+    "county_fips": 27017,
+    "county_name": "Carlton",
+    "county_weights": "{\"27017\": 72.16, \"27137\": 18.02, \"27001\": 9.82}",
+    "county_names_all": "Carlton|St. Louis|Aitkin",
+    "county_fips_all": "27017|27137|27001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

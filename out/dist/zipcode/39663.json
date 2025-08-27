@@ -1,0 +1,20 @@
+{
+    "zip": 39663,
+    "lat": 31.58615,
+    "lng": -90.02955,
+    "city": "Silver Creek",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2405.0,
+    "density": 7.4,
+    "county_fips": 28077,
+    "county_name": "Lawrence",
+    "county_weights": "{\"28077\": 93.25, \"28065\": 6.75}",
+    "county_names_all": "Lawrence|Jefferson Davis",
+    "county_fips_all": "28077|28065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 68731,
+    "lat": 42.40993,
+    "lng": -96.48341,
+    "city": "Dakota City",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3691.0,
+    "density": 39.1,
+    "county_fips": 31043,
+    "county_name": "Dakota",
+    "county_weights": "{\"31043\": 100}",
+    "county_names_all": "Dakota",
+    "county_fips_all": "31043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

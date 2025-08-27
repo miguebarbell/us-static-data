@@ -1,0 +1,20 @@
+{
+    "zip": 49411,
+    "lat": 44.11006,
+    "lng": -86.25385,
+    "city": "Free Soil",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1672.0,
+    "density": 5.9,
+    "county_fips": 26105,
+    "county_name": "Mason",
+    "county_weights": "{\"26105\": 95.07, \"26101\": 4.93}",
+    "county_names_all": "Mason|Manistee",
+    "county_fips_all": "26105|26101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

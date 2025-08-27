@@ -1,0 +1,20 @@
+{
+    "zip": 80808,
+    "lat": 39.00043,
+    "lng": -104.30638,
+    "city": "Calhan",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6670.0,
+    "density": 6.6,
+    "county_fips": 8041,
+    "county_name": "El Paso",
+    "county_weights": "{\"08041\": 83.69, \"08039\": 16.31}",
+    "county_names_all": "El Paso|Elbert",
+    "county_fips_all": "08041|08039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 1370,
+    "lat": 42.59607,
+    "lng": -72.72915,
+    "city": "Shelburne Falls",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3641.0,
+    "density": 29.2,
+    "county_fips": 25011,
+    "county_name": "Franklin",
+    "county_weights": "{\"25011\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "25011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

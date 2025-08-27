@@ -1,0 +1,20 @@
+{
+    "zip": 80640,
+    "lat": 39.88536,
+    "lng": -104.88202,
+    "city": "Henderson",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14073.0,
+    "density": 417.7,
+    "county_fips": 8001,
+    "county_name": "Adams",
+    "county_weights": "{\"08001\": 100}",
+    "county_names_all": "Adams",
+    "county_fips_all": "08001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

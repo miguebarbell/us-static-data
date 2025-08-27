@@ -1,0 +1,20 @@
+{
+    "zip": 25045,
+    "lat": 38.45603,
+    "lng": -81.32474,
+    "city": "Clendenin",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4230.0,
+    "density": 12.5,
+    "county_fips": 54039,
+    "county_name": "Kanawha",
+    "county_weights": "{\"54039\": 78.19, \"54087\": 13.88, \"54015\": 7.93}",
+    "county_names_all": "Kanawha|Roane|Clay",
+    "county_fips_all": "54039|54087|54015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

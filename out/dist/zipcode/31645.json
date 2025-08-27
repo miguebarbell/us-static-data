@@ -1,0 +1,20 @@
+{
+    "zip": 31645,
+    "lat": 31.06245,
+    "lng": -83.21846,
+    "city": "Ray City",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4971.0,
+    "density": 39.3,
+    "county_fips": 13019,
+    "county_name": "Berrien",
+    "county_weights": "{\"13019\": 69.49, \"13173\": 18.53, \"13185\": 11.98}",
+    "county_names_all": "Berrien|Lanier|Lowndes",
+    "county_fips_all": "13019|13173|13185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

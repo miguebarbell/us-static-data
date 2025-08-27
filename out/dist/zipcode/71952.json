@@ -1,0 +1,20 @@
+{
+    "zip": 71952,
+    "lat": 34.31067,
+    "lng": -93.84992,
+    "city": "Langley",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 45.0,
+    "density": 1.0,
+    "county_fips": 5109,
+    "county_name": "Pike",
+    "county_weights": "{\"05109\": 99.88, \"05097\": 0.12}",
+    "county_names_all": "Pike|Montgomery",
+    "county_fips_all": "05109|05097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 52567,
+    "lat": 40.93174,
+    "lng": -92.07224,
+    "city": "Libertyville",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 542.0,
+    "density": 8.2,
+    "county_fips": 19101,
+    "county_name": "Jefferson",
+    "county_weights": "{\"19101\": 89.28, \"19177\": 10.72}",
+    "county_names_all": "Jefferson|Van Buren",
+    "county_fips_all": "19101|19177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 74344,
+    "lat": 36.59604,
+    "lng": -94.73845,
+    "city": "Grove",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14386.0,
+    "density": 62.0,
+    "county_fips": 40041,
+    "county_name": "Delaware",
+    "county_weights": "{\"40041\": 97.77, \"40115\": 2.23}",
+    "county_names_all": "Delaware|Ottawa",
+    "county_fips_all": "40041|40115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 62634,
+    "lat": 40.0166,
+    "lng": -89.45107,
+    "city": "Elkhart",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1141.0,
+    "density": 8.3,
+    "county_fips": 17107,
+    "county_name": "Logan",
+    "county_weights": "{\"17107\": 100}",
+    "county_names_all": "Logan",
+    "county_fips_all": "17107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

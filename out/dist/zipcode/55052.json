@@ -1,0 +1,20 @@
+{
+    "zip": 55052,
+    "lat": 44.23369,
+    "lng": -93.4398,
+    "city": "Morristown",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1894.0,
+    "density": 16.3,
+    "county_fips": 27131,
+    "county_name": "Rice",
+    "county_weights": "{\"27131\": 84.91, \"27161\": 9.59, \"27147\": 5.5}",
+    "county_names_all": "Rice|Waseca|Steele",
+    "county_fips_all": "27131|27161|27147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 71909,
+    "lat": 34.64106,
+    "lng": -92.99608,
+    "city": "Hot Springs Village",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18427.0,
+    "density": 89.7,
+    "county_fips": 5051,
+    "county_name": "Garland",
+    "county_weights": "{\"05051\": 72.3, \"05125\": 27.7}",
+    "county_names_all": "Garland|Saline",
+    "county_fips_all": "05051|05125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

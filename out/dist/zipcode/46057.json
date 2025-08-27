@@ -1,0 +1,20 @@
+{
+    "zip": 46057,
+    "lat": 40.33796,
+    "lng": -86.37801,
+    "city": "Michigantown",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1061.0,
+    "density": 16.1,
+    "county_fips": 18023,
+    "county_name": "Clinton",
+    "county_weights": "{\"18023\": 100}",
+    "county_names_all": "Clinton",
+    "county_fips_all": "18023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

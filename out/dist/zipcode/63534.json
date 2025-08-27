@@ -1,0 +1,20 @@
+{
+    "zip": 63534,
+    "lat": 39.74061,
+    "lng": -92.64838,
+    "city": "Callao",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 775.0,
+    "density": 4.0,
+    "county_fips": 29121,
+    "county_name": "Macon",
+    "county_weights": "{\"29121\": 98.1, \"29175\": 1.9}",
+    "county_names_all": "Macon|Randolph",
+    "county_fips_all": "29121|29175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

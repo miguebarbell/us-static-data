@@ -1,0 +1,20 @@
+{
+    "zip": 75436,
+    "lat": 33.73507,
+    "lng": -95.24904,
+    "city": "Detroit",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2387.0,
+    "density": 4.9,
+    "county_fips": 48387,
+    "county_name": "Red River",
+    "county_weights": "{\"48387\": 93.63, \"48277\": 6.37}",
+    "county_names_all": "Red River|Lamar",
+    "county_fips_all": "48387|48277",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

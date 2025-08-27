@@ -1,0 +1,20 @@
+{
+    "zip": 57722,
+    "lat": 43.45722,
+    "lng": -102.98149,
+    "city": "Buffalo Gap",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 172.0,
+    "density": 0.1,
+    "county_fips": 46102,
+    "county_name": "Oglala Lakota",
+    "county_weights": "{\"46102\": 54.46, \"46033\": 31.26, \"46047\": 14.28}",
+    "county_names_all": "Oglala Lakota|Custer|Fall River",
+    "county_fips_all": "46102|46033|46047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

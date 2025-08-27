@@ -1,0 +1,20 @@
+{
+    "zip": 44625,
+    "lat": 40.7623,
+    "lng": -80.99919,
+    "city": "East Rochester",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 945.0,
+    "density": 19.0,
+    "county_fips": 39029,
+    "county_name": "Columbiana",
+    "county_weights": "{\"39029\": 77.99, \"39019\": 22.01}",
+    "county_names_all": "Columbiana|Carroll",
+    "county_fips_all": "39029|39019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

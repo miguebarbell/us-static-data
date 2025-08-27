@@ -1,0 +1,20 @@
+{
+    "zip": 35750,
+    "lat": 34.95407,
+    "lng": -86.5951,
+    "city": "Hazel Green",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13563.0,
+    "density": 85.7,
+    "county_fips": 1089,
+    "county_name": "Madison",
+    "county_weights": "{\"01089\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "01089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

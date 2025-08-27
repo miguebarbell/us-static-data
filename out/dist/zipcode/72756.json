@@ -1,0 +1,20 @@
+{
+    "zip": 72756,
+    "lat": 36.32214,
+    "lng": -93.9922,
+    "city": "Rogers",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41278.0,
+    "density": 122.7,
+    "county_fips": 5007,
+    "county_name": "Benton",
+    "county_weights": "{\"05007\": 90.28, \"05087\": 9.72}",
+    "county_names_all": "Benton|Madison",
+    "county_fips_all": "05007|05087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

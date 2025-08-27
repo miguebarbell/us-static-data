@@ -1,0 +1,20 @@
+{
+    "zip": 62601,
+    "lat": 39.75032,
+    "lng": -90.03904,
+    "city": "Alexander",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 337.0,
+    "density": 3.0,
+    "county_fips": 17137,
+    "county_name": "Morgan",
+    "county_weights": "{\"17137\": 100}",
+    "county_names_all": "Morgan",
+    "county_fips_all": "17137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

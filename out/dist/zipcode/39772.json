@@ -1,0 +1,20 @@
+{
+    "zip": 39772,
+    "lat": 33.30509,
+    "lng": -89.29893,
+    "city": "Weir",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2001.0,
+    "density": 9.5,
+    "county_fips": 28019,
+    "county_name": "Choctaw",
+    "county_weights": "{\"28019\": 92.31, \"28007\": 5.06, \"28159\": 2.63}",
+    "county_names_all": "Choctaw|Attala|Winston",
+    "county_fips_all": "28019|28007|28159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

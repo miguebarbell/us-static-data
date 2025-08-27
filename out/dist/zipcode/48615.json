@@ -1,0 +1,20 @@
+{
+    "zip": 48615,
+    "lat": 43.42671,
+    "lng": -84.47326,
+    "city": "Breckenridge",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2812.0,
+    "density": 19.7,
+    "county_fips": 26057,
+    "county_name": "Gratiot",
+    "county_weights": "{\"26057\": 67.67, \"26111\": 32.33}",
+    "county_names_all": "Gratiot|Midland",
+    "county_fips_all": "26057|26111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

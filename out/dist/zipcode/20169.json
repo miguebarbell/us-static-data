@@ -1,0 +1,20 @@
+{
+    "zip": 20169,
+    "lat": 38.87172,
+    "lng": -77.64627,
+    "city": "Haymarket",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28696.0,
+    "density": 296.0,
+    "county_fips": 51153,
+    "county_name": "Prince William",
+    "county_weights": "{\"51153\": 96.98, \"51061\": 3.02}",
+    "county_names_all": "Prince William|Fauquier",
+    "county_fips_all": "51153|51061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

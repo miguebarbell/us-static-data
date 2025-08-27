@@ -1,0 +1,20 @@
+{
+    "zip": 28785,
+    "lat": 35.64632,
+    "lng": -83.08952,
+    "city": "Waynesville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8619.0,
+    "density": 19.8,
+    "county_fips": 37087,
+    "county_name": "Haywood",
+    "county_weights": "{\"37087\": 100}",
+    "county_names_all": "Haywood",
+    "county_fips_all": "37087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

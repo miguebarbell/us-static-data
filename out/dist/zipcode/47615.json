@@ -1,0 +1,20 @@
+{
+    "zip": 47615,
+    "lat": 37.97214,
+    "lng": -86.95643,
+    "city": "Grandview",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1683.0,
+    "density": 17.0,
+    "county_fips": 18147,
+    "county_name": "Spencer",
+    "county_weights": "{\"18147\": 100}",
+    "county_names_all": "Spencer",
+    "county_fips_all": "18147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

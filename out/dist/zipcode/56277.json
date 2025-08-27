@@ -1,0 +1,20 @@
+{
+    "zip": 56277,
+    "lat": 44.76742,
+    "lng": -94.99036,
+    "city": "Olivia",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2962.0,
+    "density": 10.3,
+    "county_fips": 27129,
+    "county_name": "Renville",
+    "county_weights": "{\"27129\": 100}",
+    "county_names_all": "Renville",
+    "county_fips_all": "27129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 25936,
+    "lat": 37.92917,
+    "lng": -81.03105,
+    "city": "Thurmond",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5.0,
+    "density": 0.2,
+    "county_fips": 54019,
+    "county_name": "Fayette",
+    "county_weights": "{\"54019\": 100}",
+    "county_names_all": "Fayette",
+    "county_fips_all": "54019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

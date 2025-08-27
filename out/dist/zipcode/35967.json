@@ -1,0 +1,20 @@
+{
+    "zip": 35967,
+    "lat": 34.3981,
+    "lng": -85.69698,
+    "city": "Fort Payne",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17342.0,
+    "density": 52.7,
+    "county_fips": 1049,
+    "county_name": "DeKalb",
+    "county_weights": "{\"01049\": 92.34, \"01019\": 7.66}",
+    "county_names_all": "DeKalb|Cherokee",
+    "county_fips_all": "01049|01019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

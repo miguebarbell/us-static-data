@@ -1,0 +1,20 @@
+{
+    "zip": 966,
+    "lat": 18.39784,
+    "lng": -66.11394,
+    "city": "Guaynabo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17715.0,
+    "density": 2714.1,
+    "county_fips": 72061,
+    "county_name": "Guaynabo",
+    "county_weights": "{\"72061\": 85.34, \"72127\": 8.07, \"72021\": 6.59}",
+    "county_names_all": "Guaynabo|San Juan|Bayam\u00f3n",
+    "county_fips_all": "72061|72127|72021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

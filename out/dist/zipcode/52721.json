@@ -1,0 +1,20 @@
+{
+    "zip": 52721,
+    "lat": 41.75588,
+    "lng": -90.9633,
+    "city": "Bennett",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 874.0,
+    "density": 8.3,
+    "county_fips": 19031,
+    "county_name": "Cedar",
+    "county_weights": "{\"19031\": 100}",
+    "county_names_all": "Cedar",
+    "county_fips_all": "19031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

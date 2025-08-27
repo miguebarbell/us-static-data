@@ -1,0 +1,20 @@
+{
+    "zip": 78802,
+    "lat": 29.14481,
+    "lng": -99.91983,
+    "city": "Uvalde",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 48463,
+    "county_name": "Uvalde",
+    "county_weights": "{\"48463\": 100}",
+    "county_names_all": "Uvalde",
+    "county_fips_all": "48463",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

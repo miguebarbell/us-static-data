@@ -1,0 +1,20 @@
+{
+    "zip": 54517,
+    "lat": 46.11899,
+    "lng": -90.93035,
+    "city": "Clam Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 187.0,
+    "density": 0.8,
+    "county_fips": 55003,
+    "county_name": "Ashland",
+    "county_weights": "{\"55003\": 56.22, \"55113\": 30.95, \"55007\": 12.83}",
+    "county_names_all": "Ashland|Sawyer|Bayfield",
+    "county_fips_all": "55003|55113|55007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

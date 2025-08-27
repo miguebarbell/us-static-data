@@ -1,0 +1,20 @@
+{
+    "zip": 86556,
+    "lat": 36.24093,
+    "lng": -109.21631,
+    "city": "Tsaile",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2894.0,
+    "density": 5.2,
+    "county_fips": 4001,
+    "county_name": "Apache",
+    "county_weights": "{\"04001\": 100}",
+    "county_names_all": "Apache",
+    "county_fips_all": "04001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

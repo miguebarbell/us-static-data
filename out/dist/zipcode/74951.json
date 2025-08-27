@@ -1,0 +1,20 @@
+{
+    "zip": 74951,
+    "lat": 35.17099,
+    "lng": -94.66482,
+    "city": "Panama",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1559.0,
+    "density": 134.3,
+    "county_fips": 40079,
+    "county_name": "Le Flore",
+    "county_weights": "{\"40079\": 100}",
+    "county_names_all": "Le Flore",
+    "county_fips_all": "40079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

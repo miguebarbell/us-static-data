@@ -1,0 +1,20 @@
+{
+    "zip": 56541,
+    "lat": 47.16606,
+    "lng": -96.13081,
+    "city": "Flom",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29.0,
+    "density": 2.8,
+    "county_fips": 27107,
+    "county_name": "Norman",
+    "county_weights": "{\"27107\": 100}",
+    "county_names_all": "Norman",
+    "county_fips_all": "27107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

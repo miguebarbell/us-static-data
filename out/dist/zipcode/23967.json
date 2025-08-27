@@ -1,0 +1,20 @@
+{
+    "zip": 23967,
+    "lat": 36.91813,
+    "lng": -78.62857,
+    "city": "Saxe",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1392.0,
+    "density": 13.0,
+    "county_fips": 51037,
+    "county_name": "Charlotte",
+    "county_weights": "{\"51037\": 100}",
+    "county_names_all": "Charlotte",
+    "county_fips_all": "51037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

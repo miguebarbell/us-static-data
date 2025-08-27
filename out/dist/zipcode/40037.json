@@ -1,0 +1,20 @@
+{
+    "zip": 40037,
+    "lat": 37.65409,
+    "lng": -85.41196,
+    "city": "Loretto",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2922.0,
+    "density": 22.5,
+    "county_fips": 21155,
+    "county_name": "Marion",
+    "county_weights": "{\"21155\": 87.97, \"21179\": 11.47, \"21229\": 0.56}",
+    "county_names_all": "Marion|Nelson|Washington",
+    "county_fips_all": "21155|21179|21229",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

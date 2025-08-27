@@ -1,0 +1,20 @@
+{
+    "zip": 61020,
+    "lat": 42.11035,
+    "lng": -89.09807,
+    "city": "Davis Junction",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3197.0,
+    "density": 39.2,
+    "county_fips": 17141,
+    "county_name": "Ogle",
+    "county_weights": "{\"17141\": 90.55, \"17201\": 9.45}",
+    "county_names_all": "Ogle|Winnebago",
+    "county_fips_all": "17141|17201",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49253,
+    "lat": 41.96443,
+    "lng": -84.2697,
+    "city": "Manitou Beach",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2923.0,
+    "density": 47.8,
+    "county_fips": 26091,
+    "county_name": "Lenawee",
+    "county_weights": "{\"26091\": 100}",
+    "county_names_all": "Lenawee",
+    "county_fips_all": "26091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

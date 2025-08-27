@@ -1,0 +1,20 @@
+{
+    "zip": 95437,
+    "lat": 39.44535,
+    "lng": -123.69402,
+    "city": "Fort Bragg",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15106.0,
+    "density": 32.9,
+    "county_fips": 6045,
+    "county_name": "Mendocino",
+    "county_weights": "{\"06045\": 100}",
+    "county_names_all": "Mendocino",
+    "county_fips_all": "06045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

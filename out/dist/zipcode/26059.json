@@ -1,0 +1,20 @@
+{
+    "zip": 26059,
+    "lat": 40.07156,
+    "lng": -80.59379,
+    "city": "Triadelphia",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2863.0,
+    "density": 47.4,
+    "county_fips": 54069,
+    "county_name": "Ohio",
+    "county_weights": "{\"54069\": 100}",
+    "county_names_all": "Ohio",
+    "county_fips_all": "54069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 23103,
+    "lat": 37.6506,
+    "lng": -77.72754,
+    "city": "Manakin Sabot",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6657.0,
+    "density": 66.9,
+    "county_fips": 51075,
+    "county_name": "Goochland",
+    "county_weights": "{\"51075\": 100}",
+    "county_names_all": "Goochland",
+    "county_fips_all": "51075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 95140,
+    "lat": 37.3483,
+    "lng": -121.64085,
+    "city": "Mount Hamilton",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41.0,
+    "density": 0.2,
+    "county_fips": 6085,
+    "county_name": "Santa Clara",
+    "county_weights": "{\"06085\": 100}",
+    "county_names_all": "Santa Clara",
+    "county_fips_all": "06085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

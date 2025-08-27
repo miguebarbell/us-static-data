@@ -1,0 +1,20 @@
+{
+    "zip": 56663,
+    "lat": 47.49997,
+    "lng": -94.45431,
+    "city": "Pennington",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 262.0,
+    "density": 2.5,
+    "county_fips": 27007,
+    "county_name": "Beltrami",
+    "county_weights": "{\"27007\": 100}",
+    "county_names_all": "Beltrami",
+    "county_fips_all": "27007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

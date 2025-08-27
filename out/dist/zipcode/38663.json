@@ -1,0 +1,20 @@
+{
+    "zip": 38663,
+    "lat": 34.74111,
+    "lng": -88.89718,
+    "city": "Ripley",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11468.0,
+    "density": 23.4,
+    "county_fips": 28139,
+    "county_name": "Tippah",
+    "county_weights": "{\"28139\": 99.18, \"28009\": 0.82}",
+    "county_names_all": "Tippah|Benton",
+    "county_fips_all": "28139|28009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

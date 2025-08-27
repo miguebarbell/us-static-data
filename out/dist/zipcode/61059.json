@@ -1,0 +1,20 @@
+{
+    "zip": 61059,
+    "lat": 42.45465,
+    "lng": -89.94084,
+    "city": "Nora",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 176.0,
+    "density": 59.5,
+    "county_fips": 17085,
+    "county_name": "Jo Daviess",
+    "county_weights": "{\"17085\": 99.73, \"17177\": 0.27}",
+    "county_names_all": "Jo Daviess|Stephenson",
+    "county_fips_all": "17085|17177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

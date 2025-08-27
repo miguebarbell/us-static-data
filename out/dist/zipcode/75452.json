@@ -1,0 +1,20 @@
+{
+    "zip": 75452,
+    "lat": 33.39284,
+    "lng": -96.24469,
+    "city": "Leonard",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4949.0,
+    "density": 24.9,
+    "county_fips": 48147,
+    "county_name": "Fannin",
+    "county_weights": "{\"48147\": 79.65, \"48231\": 15.24, \"48085\": 5.11}",
+    "county_names_all": "Fannin|Hunt|Collin",
+    "county_fips_all": "48147|48231|48085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

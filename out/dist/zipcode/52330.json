@@ -1,0 +1,20 @@
+{
+    "zip": 52330,
+    "lat": 42.35261,
+    "lng": -91.50076,
+    "city": "Ryan",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1186.0,
+    "density": 9.7,
+    "county_fips": 19055,
+    "county_name": "Delaware",
+    "county_weights": "{\"19055\": 100}",
+    "county_names_all": "Delaware",
+    "county_fips_all": "19055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

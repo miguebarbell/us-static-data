@@ -1,0 +1,20 @@
+{
+    "zip": 50430,
+    "lat": 42.97734,
+    "lng": -93.95653,
+    "city": "Corwith",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 524.0,
+    "density": 3.2,
+    "county_fips": 19081,
+    "county_name": "Hancock",
+    "county_weights": "{\"19081\": 60.44, \"19109\": 36.55, \"19197\": 1.84, \"19091\": 1.17}",
+    "county_names_all": "Hancock|Kossuth|Wright|Humboldt",
+    "county_fips_all": "19081|19109|19197|19091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72554,
+    "lat": 36.43902,
+    "lng": -91.55668,
+    "city": "Mammoth Spring",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2749.0,
+    "density": 6.7,
+    "county_fips": 5049,
+    "county_name": "Fulton",
+    "county_weights": "{\"05049\": 82.02, \"05135\": 17.98}",
+    "county_names_all": "Fulton|Sharp",
+    "county_fips_all": "05049|05135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

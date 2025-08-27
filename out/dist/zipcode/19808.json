@@ -1,0 +1,20 @@
+{
+    "zip": 19808,
+    "lat": 39.73777,
+    "lng": -75.66596,
+    "city": "Wilmington",
+    "state_id": "DE",
+    "state_name": "Delaware",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38334.0,
+    "density": 1076.4,
+    "county_fips": 10003,
+    "county_name": "New Castle",
+    "county_weights": "{\"10003\": 100}",
+    "county_names_all": "New Castle",
+    "county_fips_all": "10003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

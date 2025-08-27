@@ -1,0 +1,20 @@
+{
+    "zip": 67512,
+    "lat": 38.23289,
+    "lng": -98.32645,
+    "city": "Alden",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 174.0,
+    "density": 2.1,
+    "county_fips": 20159,
+    "county_name": "Rice",
+    "county_weights": "{\"20159\": 96.02, \"20155\": 3.98}",
+    "county_names_all": "Rice|Reno",
+    "county_fips_all": "20159|20155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

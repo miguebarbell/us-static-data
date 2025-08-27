@@ -1,0 +1,20 @@
+{
+    "zip": 62245,
+    "lat": 38.54783,
+    "lng": -89.57446,
+    "city": "Germantown",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1760.0,
+    "density": 37.0,
+    "county_fips": 17027,
+    "county_name": "Clinton",
+    "county_weights": "{\"17027\": 100}",
+    "county_names_all": "Clinton",
+    "county_fips_all": "17027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

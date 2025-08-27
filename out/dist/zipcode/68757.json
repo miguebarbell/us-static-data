@@ -1,0 +1,20 @@
+{
+    "zip": 68757,
+    "lat": 42.65247,
+    "lng": -96.92554,
+    "city": "Newcastle",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 779.0,
+    "density": 2.4,
+    "county_fips": 31051,
+    "county_name": "Dixon",
+    "county_weights": "{\"31051\": 91.91, \"31027\": 8.09}",
+    "county_names_all": "Dixon|Cedar",
+    "county_fips_all": "31051|31027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

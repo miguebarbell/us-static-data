@@ -1,0 +1,20 @@
+{
+    "zip": 56041,
+    "lat": 44.15514,
+    "lng": -94.52238,
+    "city": "Hanska",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1046.0,
+    "density": 5.6,
+    "county_fips": 27015,
+    "county_name": "Brown",
+    "county_weights": "{\"27015\": 99.01, \"27013\": 0.99}",
+    "county_names_all": "Brown|Blue Earth",
+    "county_fips_all": "27015|27013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

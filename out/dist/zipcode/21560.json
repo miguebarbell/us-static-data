@@ -1,0 +1,20 @@
+{
+    "zip": 21560,
+    "lat": 39.56508,
+    "lng": -78.70632,
+    "city": "Spring Gap",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 24001,
+    "county_name": "Allegany",
+    "county_weights": "{\"24001\": 100}",
+    "county_names_all": "Allegany",
+    "county_fips_all": "24001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

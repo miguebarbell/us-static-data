@@ -1,0 +1,20 @@
+{
+    "zip": 73662,
+    "lat": 35.31533,
+    "lng": -99.66273,
+    "city": "Sayre",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7031.0,
+    "density": 8.1,
+    "county_fips": 40009,
+    "county_name": "Beckham",
+    "county_weights": "{\"40009\": 90.22, \"40129\": 9.78}",
+    "county_names_all": "Beckham|Roger Mills",
+    "county_fips_all": "40009|40129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

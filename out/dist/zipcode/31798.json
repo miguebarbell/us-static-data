@@ -1,0 +1,20 @@
+{
+    "zip": 31798,
+    "lat": 31.64117,
+    "lng": -83.04333,
+    "city": "Wray",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 928.0,
+    "density": 3.9,
+    "county_fips": 13155,
+    "county_name": "Irwin",
+    "county_weights": "{\"13155\": 53.3, \"13069\": 34.23, \"13017\": 12.47}",
+    "county_names_all": "Irwin|Coffee|Ben Hill",
+    "county_fips_all": "13155|13069|13017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

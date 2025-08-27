@@ -1,0 +1,20 @@
+{
+    "zip": 56510,
+    "lat": 47.35811,
+    "lng": -96.52316,
+    "city": "Ada",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2300.0,
+    "density": 3.9,
+    "county_fips": 27107,
+    "county_name": "Norman",
+    "county_weights": "{\"27107\": 100}",
+    "county_names_all": "Norman",
+    "county_fips_all": "27107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

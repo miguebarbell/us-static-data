@@ -1,0 +1,20 @@
+{
+    "zip": 49676,
+    "lat": 44.84147,
+    "lng": -85.29028,
+    "city": "Rapid City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3689.0,
+    "density": 34.8,
+    "county_fips": 26079,
+    "county_name": "Kalkaska",
+    "county_weights": "{\"26079\": 52.71, \"26009\": 47.29}",
+    "county_names_all": "Kalkaska|Antrim",
+    "county_fips_all": "26079|26009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

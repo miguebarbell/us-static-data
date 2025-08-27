@@ -1,0 +1,20 @@
+{
+    "zip": 73011,
+    "lat": 34.84378,
+    "lng": -97.74498,
+    "city": "Bradley",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 562.0,
+    "density": 3.4,
+    "county_fips": 40051,
+    "county_name": "Grady",
+    "county_weights": "{\"40051\": 100}",
+    "county_names_all": "Grady",
+    "county_fips_all": "40051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

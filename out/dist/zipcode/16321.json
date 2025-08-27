@@ -1,0 +1,20 @@
+{
+    "zip": 16321,
+    "lat": 41.56835,
+    "lng": -79.40084,
+    "city": "East Hickory",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10.0,
+    "density": 3.8,
+    "county_fips": 42053,
+    "county_name": "Forest",
+    "county_weights": "{\"42053\": 100}",
+    "county_names_all": "Forest",
+    "county_fips_all": "42053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

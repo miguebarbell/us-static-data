@@ -1,0 +1,20 @@
+{
+    "zip": 32322,
+    "lat": 29.89948,
+    "lng": -84.62327,
+    "city": "Carrabelle",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4348.0,
+    "density": 22.3,
+    "county_fips": 12037,
+    "county_name": "Franklin",
+    "county_weights": "{\"12037\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "12037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 64623,
+    "lat": 39.47,
+    "lng": -93.33344,
+    "city": "Bosworth",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 437.0,
+    "density": 2.4,
+    "county_fips": 29033,
+    "county_name": "Carroll",
+    "county_weights": "{\"29033\": 100}",
+    "county_names_all": "Carroll",
+    "county_fips_all": "29033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

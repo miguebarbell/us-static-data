@@ -1,0 +1,20 @@
+{
+    "zip": 28904,
+    "lat": 35.06185,
+    "lng": -83.73041,
+    "city": "Hayesville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10614.0,
+    "density": 22.0,
+    "county_fips": 37043,
+    "county_name": "Clay",
+    "county_weights": "{\"37043\": 100}",
+    "county_names_all": "Clay",
+    "county_fips_all": "37043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 28654,
+    "lat": 36.06338,
+    "lng": -81.15003,
+    "city": "Moravian Falls",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3287.0,
+    "density": 20.7,
+    "county_fips": 37193,
+    "county_name": "Wilkes",
+    "county_weights": "{\"37193\": 92.48, \"37003\": 7.52}",
+    "county_names_all": "Wilkes|Alexander",
+    "county_fips_all": "37193|37003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

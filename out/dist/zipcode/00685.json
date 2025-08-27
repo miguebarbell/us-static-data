@@ -1,0 +1,20 @@
+{
+    "zip": 685,
+    "lat": 18.33656,
+    "lng": -66.97518,
+    "city": "San Sebastian",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40323.0,
+    "density": 197.8,
+    "county_fips": 72131,
+    "county_name": "San Sebasti\u00e1n",
+    "county_weights": "{\"72131\": 87.74, \"72071\": 11.31, \"72099\": 0.95}",
+    "county_names_all": "San Sebasti\u00e1n|Isabela|Moca",
+    "county_fips_all": "72131|72071|72099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

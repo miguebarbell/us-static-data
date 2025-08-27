@@ -1,0 +1,20 @@
+{
+    "zip": 68760,
+    "lat": 42.76616,
+    "lng": -98.03831,
+    "city": "Niobrara",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1141.0,
+    "density": 2.2,
+    "county_fips": 31107,
+    "county_name": "Knox",
+    "county_weights": "{\"31107\": 100}",
+    "county_names_all": "Knox",
+    "county_fips_all": "31107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

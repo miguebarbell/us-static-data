@@ -1,0 +1,20 @@
+{
+    "zip": 56328,
+    "lat": 45.9519,
+    "lng": -94.52147,
+    "city": "Flensburg",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 161.0,
+    "density": 30.0,
+    "county_fips": 27097,
+    "county_name": "Morrison",
+    "county_weights": "{\"27097\": 100}",
+    "county_names_all": "Morrison",
+    "county_fips_all": "27097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

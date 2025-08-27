@@ -1,0 +1,20 @@
+{
+    "zip": 39097,
+    "lat": 32.99105,
+    "lng": -90.59478,
+    "city": "Louise",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 501.0,
+    "density": 3.3,
+    "county_fips": 28053,
+    "county_name": "Humphreys",
+    "county_weights": "{\"28053\": 100}",
+    "county_names_all": "Humphreys",
+    "county_fips_all": "28053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

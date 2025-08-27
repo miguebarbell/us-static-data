@@ -1,0 +1,20 @@
+{
+    "zip": 97637,
+    "lat": 42.46142,
+    "lng": -119.92486,
+    "city": "Plush",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 82.0,
+    "density": 0.2,
+    "county_fips": 41037,
+    "county_name": "Lake",
+    "county_weights": "{\"41037\": 100}",
+    "county_names_all": "Lake",
+    "county_fips_all": "41037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

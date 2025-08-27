@@ -1,0 +1,20 @@
+{
+    "zip": 62067,
+    "lat": 38.92961,
+    "lng": -89.98837,
+    "city": "Moro",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1960.0,
+    "density": 43.5,
+    "county_fips": 17119,
+    "county_name": "Madison",
+    "county_weights": "{\"17119\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "17119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

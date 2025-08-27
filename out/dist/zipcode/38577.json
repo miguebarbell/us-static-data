@@ -1,0 +1,20 @@
+{
+    "zip": 38577,
+    "lat": 36.56453,
+    "lng": -84.94651,
+    "city": "Pall Mall",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1315.0,
+    "density": 5.8,
+    "county_fips": 47137,
+    "county_name": "Pickett",
+    "county_weights": "{\"47137\": 56.95, \"47049\": 43.05}",
+    "county_names_all": "Pickett|Fentress",
+    "county_fips_all": "47137|47049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 68735,
+    "lat": 42.14911,
+    "lng": -98.45402,
+    "city": "Ewing",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 843.0,
+    "density": 0.9,
+    "county_fips": 31089,
+    "county_name": "Holt",
+    "county_weights": "{\"31089\": 64.83, \"31183\": 30.34, \"31003\": 4.83}",
+    "county_names_all": "Holt|Wheeler|Antelope",
+    "county_fips_all": "31089|31183|31003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

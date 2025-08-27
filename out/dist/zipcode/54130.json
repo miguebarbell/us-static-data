@@ -1,0 +1,20 @@
+{
+    "zip": 54130,
+    "lat": 44.31194,
+    "lng": -88.24301,
+    "city": "Kaukauna",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28030.0,
+    "density": 138.7,
+    "county_fips": 55087,
+    "county_name": "Outagamie",
+    "county_weights": "{\"55087\": 79.08, \"55015\": 10.69, \"55009\": 10.23}",
+    "county_names_all": "Outagamie|Calumet|Brown",
+    "county_fips_all": "55087|55015|55009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

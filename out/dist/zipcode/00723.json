@@ -1,0 +1,20 @@
+{
+    "zip": 723,
+    "lat": 18.03139,
+    "lng": -66.01122,
+    "city": "Patillas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15835.0,
+    "density": 132.9,
+    "county_fips": 72109,
+    "county_name": "Patillas",
+    "county_weights": "{\"72109\": 99.5, \"72095\": 0.5}",
+    "county_names_all": "Patillas|Maunabo",
+    "county_fips_all": "72109|72095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 64847,
+    "lat": 36.59217,
+    "lng": -94.43863,
+    "city": "Lanagan",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 342.0,
+    "density": 37.2,
+    "county_fips": 29119,
+    "county_name": "McDonald",
+    "county_weights": "{\"29119\": 100}",
+    "county_names_all": "McDonald",
+    "county_fips_all": "29119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

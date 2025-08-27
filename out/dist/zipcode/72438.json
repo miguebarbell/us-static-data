@@ -1,0 +1,20 @@
+{
+    "zip": 72438,
+    "lat": 35.94375,
+    "lng": -90.22787,
+    "city": "Leachville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2118.0,
+    "density": 13.6,
+    "county_fips": 5093,
+    "county_name": "Mississippi",
+    "county_weights": "{\"05093\": 92.95, \"05031\": 7.05}",
+    "county_names_all": "Mississippi|Craighead",
+    "county_fips_all": "05093|05031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

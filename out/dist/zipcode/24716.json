@@ -1,0 +1,20 @@
+{
+    "zip": 24716,
+    "lat": 37.53331,
+    "lng": -81.37337,
+    "city": "Bud",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 160.0,
+    "density": 21.0,
+    "county_fips": 54109,
+    "county_name": "Wyoming",
+    "county_weights": "{\"54109\": 100}",
+    "county_names_all": "Wyoming",
+    "county_fips_all": "54109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

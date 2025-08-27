@@ -1,0 +1,20 @@
+{
+    "zip": 59064,
+    "lat": 45.88011,
+    "lng": -107.87245,
+    "city": "Pompeys Pillar",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 233.0,
+    "density": 0.4,
+    "county_fips": 30003,
+    "county_name": "Big Horn",
+    "county_weights": "{\"30003\": 71.23, \"30111\": 28.77}",
+    "county_names_all": "Big Horn|Yellowstone",
+    "county_fips_all": "30003|30111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

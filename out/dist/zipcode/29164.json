@@ -1,0 +1,20 @@
+{
+    "zip": 29164,
+    "lat": 33.65699,
+    "lng": -81.42586,
+    "city": "Wagener",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4961.0,
+    "density": 17.9,
+    "county_fips": 45003,
+    "county_name": "Aiken",
+    "county_weights": "{\"45003\": 100}",
+    "county_names_all": "Aiken",
+    "county_fips_all": "45003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

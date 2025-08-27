@@ -1,0 +1,20 @@
+{
+    "zip": 74079,
+    "lat": 35.74368,
+    "lng": -96.65592,
+    "city": "Stroud",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4592.0,
+    "density": 9.5,
+    "county_fips": 40081,
+    "county_name": "Lincoln",
+    "county_weights": "{\"40081\": 69.74, \"40037\": 29.12, \"40107\": 1.14}",
+    "county_names_all": "Lincoln|Creek|Okfuskee",
+    "county_fips_all": "40081|40037|40107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

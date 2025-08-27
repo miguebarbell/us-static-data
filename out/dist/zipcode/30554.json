@@ -1,0 +1,20 @@
+{
+    "zip": 30554,
+    "lat": 34.40093,
+    "lng": -83.65926,
+    "city": "Lula",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9167.0,
+    "density": 49.5,
+    "county_fips": 13139,
+    "county_name": "Hall",
+    "county_weights": "{\"13139\": 60.5, \"13011\": 39.5}",
+    "county_names_all": "Hall|Banks",
+    "county_fips_all": "13139|13011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

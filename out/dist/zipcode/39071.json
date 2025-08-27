@@ -1,0 +1,20 @@
+{
+    "zip": 39071,
+    "lat": 32.54887,
+    "lng": -90.3185,
+    "city": "Flora",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6319.0,
+    "density": 22.3,
+    "county_fips": 28089,
+    "county_name": "Madison",
+    "county_weights": "{\"28089\": 99.07, \"28049\": 0.93}",
+    "county_names_all": "Madison|Hinds",
+    "county_fips_all": "28089|28049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

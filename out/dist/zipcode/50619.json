@@ -1,0 +1,20 @@
+{
+    "zip": 50619,
+    "lat": 42.79725,
+    "lng": -92.66266,
+    "city": "Clarksville",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2123.0,
+    "density": 9.7,
+    "county_fips": 19023,
+    "county_name": "Butler",
+    "county_weights": "{\"19023\": 100}",
+    "county_names_all": "Butler",
+    "county_fips_all": "19023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

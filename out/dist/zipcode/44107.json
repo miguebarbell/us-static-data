@@ -1,0 +1,20 @@
+{
+    "zip": 44107,
+    "lat": 41.48263,
+    "lng": -81.80025,
+    "city": "Lakewood",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 50384.0,
+    "density": 3616.0,
+    "county_fips": 39035,
+    "county_name": "Cuyahoga",
+    "county_weights": "{\"39035\": 100}",
+    "county_names_all": "Cuyahoga",
+    "county_fips_all": "39035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

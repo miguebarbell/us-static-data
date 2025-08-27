@@ -1,0 +1,20 @@
+{
+    "zip": 56128,
+    "lat": 43.88199,
+    "lng": -96.11579,
+    "city": "Edgerton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1948.0,
+    "density": 6.5,
+    "county_fips": 27117,
+    "county_name": "Pipestone",
+    "county_weights": "{\"27117\": 58.81, \"27133\": 19.67, \"27101\": 12.34, \"27105\": 9.18}",
+    "county_names_all": "Pipestone|Rock|Murray|Nobles",
+    "county_fips_all": "27117|27133|27101|27105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

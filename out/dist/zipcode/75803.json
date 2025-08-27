@@ -1,0 +1,20 @@
+{
+    "zip": 75803,
+    "lat": 31.87513,
+    "lng": -95.66704,
+    "city": "Palestine",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21390.0,
+    "density": 25.4,
+    "county_fips": 48001,
+    "county_name": "Anderson",
+    "county_weights": "{\"48001\": 99.65, \"48213\": 0.35}",
+    "county_names_all": "Anderson|Henderson",
+    "county_fips_all": "48001|48213",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

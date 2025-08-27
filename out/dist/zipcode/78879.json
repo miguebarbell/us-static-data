@@ -1,0 +1,20 @@
+{
+    "zip": 78879,
+    "lat": 29.6435,
+    "lng": -99.71733,
+    "city": "Rio Frio",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 171.0,
+    "density": 3.0,
+    "county_fips": 48385,
+    "county_name": "Real",
+    "county_weights": "{\"48385\": 76.73, \"48463\": 23.27}",
+    "county_names_all": "Real|Uvalde",
+    "county_fips_all": "48385|48463",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

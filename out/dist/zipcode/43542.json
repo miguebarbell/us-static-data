@@ -1,0 +1,20 @@
+{
+    "zip": 43542,
+    "lat": 41.56642,
+    "lng": -83.76531,
+    "city": "Monclova",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4485.0,
+    "density": 116.2,
+    "county_fips": 39095,
+    "county_name": "Lucas",
+    "county_weights": "{\"39095\": 100}",
+    "county_names_all": "Lucas",
+    "county_fips_all": "39095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

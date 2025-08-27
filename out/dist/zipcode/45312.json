@@ -1,0 +1,20 @@
+{
+    "zip": 45312,
+    "lat": 40.06028,
+    "lng": -84.07976,
+    "city": "Casstown",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1109.0,
+    "density": 15.7,
+    "county_fips": 39109,
+    "county_name": "Miami",
+    "county_weights": "{\"39109\": 98.0, \"39021\": 2.0}",
+    "county_names_all": "Miami|Champaign",
+    "county_fips_all": "39109|39021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

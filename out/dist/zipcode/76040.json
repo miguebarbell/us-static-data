@@ -1,0 +1,20 @@
+{
+    "zip": 76040,
+    "lat": 32.82133,
+    "lng": -97.10488,
+    "city": "Euless",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31172.0,
+    "density": 1534.8,
+    "county_fips": 48439,
+    "county_name": "Tarrant",
+    "county_weights": "{\"48439\": 100}",
+    "county_names_all": "Tarrant",
+    "county_fips_all": "48439",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

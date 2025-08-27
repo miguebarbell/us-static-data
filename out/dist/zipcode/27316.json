@@ -1,0 +1,20 @@
+{
+    "zip": 27316,
+    "lat": 35.68996,
+    "lng": -79.62366,
+    "city": "Ramseur",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7229.0,
+    "density": 41.2,
+    "county_fips": 37151,
+    "county_name": "Randolph",
+    "county_weights": "{\"37151\": 100}",
+    "county_names_all": "Randolph",
+    "county_fips_all": "37151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

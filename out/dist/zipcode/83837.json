@@ -1,0 +1,20 @@
+{
+    "zip": 83837,
+    "lat": 47.52835,
+    "lng": -116.09103,
+    "city": "Kellogg",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3258.0,
+    "density": 20.9,
+    "county_fips": 16079,
+    "county_name": "Shoshone",
+    "county_weights": "{\"16079\": 100}",
+    "county_names_all": "Shoshone",
+    "county_fips_all": "16079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

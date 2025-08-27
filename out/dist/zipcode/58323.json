@@ -1,0 +1,20 @@
+{
+    "zip": 58323,
+    "lat": 48.84252,
+    "lng": -98.91923,
+    "city": "Calvin",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 74.0,
+    "density": 0.4,
+    "county_fips": 38019,
+    "county_name": "Cavalier",
+    "county_weights": "{\"38019\": 81.58, \"38095\": 18.42}",
+    "county_names_all": "Cavalier|Towner",
+    "county_fips_all": "38019|38095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

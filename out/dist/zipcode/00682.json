@@ -1,0 +1,20 @@
+{
+    "zip": 682,
+    "lat": 18.22415,
+    "lng": -67.15309,
+    "city": "Mayaguez",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29939.0,
+    "density": 708.7,
+    "county_fips": 72097,
+    "county_name": "Mayag\u00fcez",
+    "county_weights": "{\"72097\": 99.83, \"72067\": 0.17}",
+    "county_names_all": "Mayag\u00fcez|Hormigueros",
+    "county_fips_all": "72097|72067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43119,
+    "lat": 39.93487,
+    "lng": -83.20059,
+    "city": "Galloway",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29423.0,
+    "density": 353.9,
+    "county_fips": 39049,
+    "county_name": "Franklin",
+    "county_weights": "{\"39049\": 88.73, \"39097\": 11.27}",
+    "county_names_all": "Franklin|Madison",
+    "county_fips_all": "39049|39097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

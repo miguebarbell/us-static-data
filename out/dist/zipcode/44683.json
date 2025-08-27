@@ -1,0 +1,20 @@
+{
+    "zip": 44683,
+    "lat": 40.35505,
+    "lng": -81.3218,
+    "city": "Uhrichsville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7888.0,
+    "density": 45.5,
+    "county_fips": 39157,
+    "county_name": "Tuscarawas",
+    "county_weights": "{\"39157\": 74.89, \"39067\": 25.11}",
+    "county_names_all": "Tuscarawas|Harrison",
+    "county_fips_all": "39157|39067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

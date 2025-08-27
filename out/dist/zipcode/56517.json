@@ -1,0 +1,20 @@
+{
+    "zip": 56517,
+    "lat": 47.55474,
+    "lng": -96.53825,
+    "city": "Beltrami",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 256.0,
+    "density": 1.0,
+    "county_fips": 27119,
+    "county_name": "Polk",
+    "county_weights": "{\"27119\": 95.63, \"27107\": 4.37}",
+    "county_names_all": "Polk|Norman",
+    "county_fips_all": "27119|27107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

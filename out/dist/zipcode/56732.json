@@ -1,0 +1,20 @@
+{
+    "zip": 56732,
+    "lat": 48.5863,
+    "lng": -96.49276,
+    "city": "Karlstad",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 978.0,
+    "density": 2.3,
+    "county_fips": 27069,
+    "county_name": "Kittson",
+    "county_weights": "{\"27069\": 70.59, \"27089\": 18.09, \"27135\": 11.32}",
+    "county_names_all": "Kittson|Marshall|Roseau",
+    "county_fips_all": "27069|27089|27135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

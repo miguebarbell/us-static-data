@@ -1,0 +1,20 @@
+{
+    "zip": 87032,
+    "lat": 34.86786,
+    "lng": -106.04201,
+    "city": "Mcintosh",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 119.0,
+    "density": 1.8,
+    "county_fips": 35057,
+    "county_name": "Torrance",
+    "county_weights": "{\"35057\": 100}",
+    "county_names_all": "Torrance",
+    "county_fips_all": "35057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

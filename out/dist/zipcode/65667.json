@@ -1,0 +1,20 @@
+{
+    "zip": 65667,
+    "lat": 37.30574,
+    "lng": -92.51435,
+    "city": "Hartville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3318.0,
+    "density": 7.0,
+    "county_fips": 29229,
+    "county_name": "Wright",
+    "county_weights": "{\"29229\": 100}",
+    "county_names_all": "Wright",
+    "county_fips_all": "29229",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

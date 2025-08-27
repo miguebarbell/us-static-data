@@ -1,0 +1,20 @@
+{
+    "zip": 74849,
+    "lat": 34.9846,
+    "lng": -96.73597,
+    "city": "Konawa",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2775.0,
+    "density": 8.5,
+    "county_fips": 40133,
+    "county_name": "Seminole",
+    "county_weights": "{\"40133\": 71.72, \"40125\": 28.28}",
+    "county_names_all": "Seminole|Pottawatomie",
+    "county_fips_all": "40133|40125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

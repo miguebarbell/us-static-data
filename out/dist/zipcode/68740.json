@@ -1,0 +1,20 @@
+{
+    "zip": 68740,
+    "lat": 42.14561,
+    "lng": -97.29245,
+    "city": "Hoskins",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 981.0,
+    "density": 5.7,
+    "county_fips": 31179,
+    "county_name": "Wayne",
+    "county_weights": "{\"31179\": 93.46, \"31167\": 6.54}",
+    "county_names_all": "Wayne|Stanton",
+    "county_fips_all": "31179|31167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

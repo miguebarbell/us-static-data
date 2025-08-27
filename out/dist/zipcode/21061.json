@@ -1,0 +1,20 @@
+{
+    "zip": 21061,
+    "lat": 39.16116,
+    "lng": -76.63226,
+    "city": "Glen Burnie",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 56453.0,
+    "density": 1788.0,
+    "county_fips": 24003,
+    "county_name": "Anne Arundel",
+    "county_weights": "{\"24003\": 100}",
+    "county_names_all": "Anne Arundel",
+    "county_fips_all": "24003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 7676,
+    "lat": 40.98843,
+    "lng": -74.06359,
+    "city": "Township Of Washington",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9276.0,
+    "density": 1212.7,
+    "county_fips": 34003,
+    "county_name": "Bergen",
+    "county_weights": "{\"34003\": 100}",
+    "county_names_all": "Bergen",
+    "county_fips_all": "34003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

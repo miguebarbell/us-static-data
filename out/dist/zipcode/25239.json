@@ -1,0 +1,20 @@
+{
+    "zip": 25239,
+    "lat": 38.84616,
+    "lng": -81.83941,
+    "city": "Cottageville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1605.0,
+    "density": 21.5,
+    "county_fips": 54035,
+    "county_name": "Jackson",
+    "county_weights": "{\"54035\": 83.97, \"54053\": 16.03}",
+    "county_names_all": "Jackson|Mason",
+    "county_fips_all": "54035|54053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

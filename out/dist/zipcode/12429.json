@@ -1,0 +1,20 @@
+{
+    "zip": 12429,
+    "lat": 41.83323,
+    "lng": -73.961,
+    "city": "Esopus",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 168.0,
+    "density": 92.9,
+    "county_fips": 36111,
+    "county_name": "Ulster",
+    "county_weights": "{\"36111\": 100}",
+    "county_names_all": "Ulster",
+    "county_fips_all": "36111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

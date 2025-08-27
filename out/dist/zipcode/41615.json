@@ -1,0 +1,20 @@
+{
+    "zip": 41615,
+    "lat": 37.54211,
+    "lng": -82.68337,
+    "city": "Dana",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 547.0,
+    "density": 38.4,
+    "county_fips": 21071,
+    "county_name": "Floyd",
+    "county_weights": "{\"21071\": 100}",
+    "county_names_all": "Floyd",
+    "county_fips_all": "21071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 26366,
+    "lat": 39.38266,
+    "lng": -80.33474,
+    "city": "Haywood",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12.0,
+    "density": 15.3,
+    "county_fips": 54033,
+    "county_name": "Harrison",
+    "county_weights": "{\"54033\": 100}",
+    "county_names_all": "Harrison",
+    "county_fips_all": "54033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

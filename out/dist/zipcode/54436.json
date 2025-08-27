@@ -1,0 +1,20 @@
+{
+    "zip": 54436,
+    "lat": 44.54149,
+    "lng": -90.43101,
+    "city": "Granton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2139.0,
+    "density": 8.0,
+    "county_fips": 55019,
+    "county_name": "Clark",
+    "county_weights": "{\"55019\": 100}",
+    "county_names_all": "Clark",
+    "county_fips_all": "55019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

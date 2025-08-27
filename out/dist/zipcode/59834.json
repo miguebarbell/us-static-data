@@ -1,0 +1,20 @@
+{
+    "zip": 59834,
+    "lat": 47.06979,
+    "lng": -114.2221,
+    "city": "Frenchtown",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2449.0,
+    "density": 14.1,
+    "county_fips": 30063,
+    "county_name": "Missoula",
+    "county_weights": "{\"30063\": 100}",
+    "county_names_all": "Missoula",
+    "county_fips_all": "30063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

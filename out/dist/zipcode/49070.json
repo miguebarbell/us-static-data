@@ -1,0 +1,20 @@
+{
+    "zip": 49070,
+    "lat": 42.54023,
+    "lng": -85.62879,
+    "city": "Martin",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2192.0,
+    "density": 32.4,
+    "county_fips": 26005,
+    "county_name": "Allegan",
+    "county_weights": "{\"26005\": 100}",
+    "county_names_all": "Allegan",
+    "county_fips_all": "26005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

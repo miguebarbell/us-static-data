@@ -1,0 +1,20 @@
+{
+    "zip": 49757,
+    "lat": 45.85933,
+    "lng": -84.62533,
+    "city": "Mackinac Island",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 663.0,
+    "density": 58.8,
+    "county_fips": 26097,
+    "county_name": "Mackinac",
+    "county_weights": "{\"26097\": 100}",
+    "county_names_all": "Mackinac",
+    "county_fips_all": "26097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

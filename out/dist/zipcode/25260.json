@@ -1,0 +1,20 @@
+{
+    "zip": 25260,
+    "lat": 39.01653,
+    "lng": -82.02465,
+    "city": "Mason",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1494.0,
+    "density": 267.1,
+    "county_fips": 54053,
+    "county_name": "Mason",
+    "county_weights": "{\"54053\": 99.24, \"39105\": 0.76}",
+    "county_names_all": "Mason|Meigs",
+    "county_fips_all": "54053|39105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

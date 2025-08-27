@@ -1,0 +1,20 @@
+{
+    "zip": 22821,
+    "lat": 38.46349,
+    "lng": -79.0743,
+    "city": "Dayton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6074.0,
+    "density": 32.3,
+    "county_fips": 51165,
+    "county_name": "Rockingham",
+    "county_weights": "{\"51165\": 100}",
+    "county_names_all": "Rockingham",
+    "county_fips_all": "51165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

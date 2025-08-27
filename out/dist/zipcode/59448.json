@@ -1,0 +1,20 @@
+{
+    "zip": 59448,
+    "lat": 48.25789,
+    "lng": -112.86703,
+    "city": "Heart Butte",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 647.0,
+    "density": 3.2,
+    "county_fips": 30073,
+    "county_name": "Pondera",
+    "county_weights": "{\"30073\": 99.14, \"30035\": 0.86}",
+    "county_names_all": "Pondera|Glacier",
+    "county_fips_all": "30073|30035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 37643,
+    "lat": 36.37513,
+    "lng": -82.13729,
+    "city": "Elizabethton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33690.0,
+    "density": 99.2,
+    "county_fips": 47019,
+    "county_name": "Carter",
+    "county_weights": "{\"47019\": 98.8, \"47171\": 1.2}",
+    "county_names_all": "Carter|Unicoi",
+    "county_fips_all": "47019|47171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

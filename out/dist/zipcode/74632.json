@@ -1,0 +1,20 @@
+{
+    "zip": 74632,
+    "lat": 36.93958,
+    "lng": -97.34144,
+    "city": "Braman",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 469.0,
+    "density": 1.7,
+    "county_fips": 40071,
+    "county_name": "Kay",
+    "county_weights": "{\"40071\": 100}",
+    "county_names_all": "Kay",
+    "county_fips_all": "40071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

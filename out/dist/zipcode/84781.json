@@ -1,0 +1,20 @@
+{
+    "zip": 84781,
+    "lat": 37.41197,
+    "lng": -113.47217,
+    "city": "Pine Valley",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 372.0,
+    "density": 1.9,
+    "county_fips": 49053,
+    "county_name": "Washington",
+    "county_weights": "{\"49053\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "49053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

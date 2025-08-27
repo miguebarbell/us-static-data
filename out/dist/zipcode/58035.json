@@ -1,0 +1,20 @@
+{
+    "zip": 58035,
+    "lat": 47.25599,
+    "lng": -97.41589,
+    "city": "Galesburg",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 226.0,
+    "density": 1.0,
+    "county_fips": 38097,
+    "county_name": "Traill",
+    "county_weights": "{\"38097\": 42.33, \"38017\": 33.66, \"38091\": 24.01}",
+    "county_names_all": "Traill|Cass|Steele",
+    "county_fips_all": "38097|38017|38091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

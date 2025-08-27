@@ -1,0 +1,20 @@
+{
+    "zip": 24250,
+    "lat": 36.75752,
+    "lng": -82.58705,
+    "city": "Fort Blackmore",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1167.0,
+    "density": 7.8,
+    "county_fips": 51169,
+    "county_name": "Scott",
+    "county_weights": "{\"51169\": 100}",
+    "county_names_all": "Scott",
+    "county_fips_all": "51169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

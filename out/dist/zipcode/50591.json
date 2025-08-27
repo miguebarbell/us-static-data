@@ -1,0 +1,20 @@
+{
+    "zip": 50591,
+    "lat": 42.67683,
+    "lng": -94.05478,
+    "city": "Thor",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 366.0,
+    "density": 4.8,
+    "county_fips": 19091,
+    "county_name": "Humboldt",
+    "county_weights": "{\"19091\": 88.11, \"19187\": 11.89}",
+    "county_names_all": "Humboldt|Webster",
+    "county_fips_all": "19091|19187",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

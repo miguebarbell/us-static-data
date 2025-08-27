@@ -1,0 +1,20 @@
+{
+    "zip": 11704,
+    "lat": 40.71623,
+    "lng": -73.35908,
+    "city": "West Babylon",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40285.0,
+    "density": 1971.3,
+    "county_fips": 36103,
+    "county_name": "Suffolk",
+    "county_weights": "{\"36103\": 100}",
+    "county_names_all": "Suffolk",
+    "county_fips_all": "36103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

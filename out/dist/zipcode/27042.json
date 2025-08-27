@@ -1,0 +1,20 @@
+{
+    "zip": 27042,
+    "lat": 36.34177,
+    "lng": -80.05434,
+    "city": "Pine Hall",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 178.0,
+    "density": 9.5,
+    "county_fips": 37169,
+    "county_name": "Stokes",
+    "county_weights": "{\"37169\": 100}",
+    "county_names_all": "Stokes",
+    "county_fips_all": "37169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

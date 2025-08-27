@@ -1,0 +1,20 @@
+{
+    "zip": 51111,
+    "lat": 42.41129,
+    "lng": -96.38606,
+    "city": "Sioux City",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 48.0,
+    "density": 3.1,
+    "county_fips": 19193,
+    "county_name": "Woodbury",
+    "county_weights": "{\"19193\": 100}",
+    "county_names_all": "Woodbury",
+    "county_fips_all": "19193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

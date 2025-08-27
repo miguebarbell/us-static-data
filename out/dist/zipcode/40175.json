@@ -1,0 +1,20 @@
+{
+    "zip": 40175,
+    "lat": 37.81907,
+    "lng": -86.08635,
+    "city": "Vine Grove",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16283.0,
+    "density": 77.9,
+    "county_fips": 21163,
+    "county_name": "Meade",
+    "county_weights": "{\"21163\": 45.95, \"21093\": 34.65, \"21027\": 19.4}",
+    "county_names_all": "Meade|Hardin|Breckinridge",
+    "county_fips_all": "21163|21093|21027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

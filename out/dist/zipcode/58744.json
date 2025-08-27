@@ -1,0 +1,20 @@
+{
+    "zip": 58744,
+    "lat": 48.12073,
+    "lng": -100.58774,
+    "city": "Karlsruhe",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 90.0,
+    "density": 0.4,
+    "county_fips": 38049,
+    "county_name": "McHenry",
+    "county_weights": "{\"38049\": 100}",
+    "county_names_all": "McHenry",
+    "county_fips_all": "38049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

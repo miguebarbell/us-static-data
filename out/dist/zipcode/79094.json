@@ -1,0 +1,20 @@
+{
+    "zip": 79094,
+    "lat": 34.84546,
+    "lng": -101.52493,
+    "city": "Wayside",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9.0,
+    "density": 0.0,
+    "county_fips": 48011,
+    "county_name": "Armstrong",
+    "county_weights": "{\"48011\": 100}",
+    "county_names_all": "Armstrong",
+    "county_fips_all": "48011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

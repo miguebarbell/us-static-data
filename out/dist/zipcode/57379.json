@@ -1,0 +1,20 @@
+{
+    "zip": 57379,
+    "lat": 44.26428,
+    "lng": -98.53795,
+    "city": "Virgil",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 108.0,
+    "density": 0.8,
+    "county_fips": 46005,
+    "county_name": "Beadle",
+    "county_weights": "{\"46005\": 100}",
+    "county_names_all": "Beadle",
+    "county_fips_all": "46005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

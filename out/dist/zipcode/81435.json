@@ -1,0 +1,20 @@
+{
+    "zip": 81435,
+    "lat": 37.90014,
+    "lng": -107.92397,
+    "city": "Telluride",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5626.0,
+    "density": 11.4,
+    "county_fips": 8113,
+    "county_name": "San Miguel",
+    "county_weights": "{\"08113\": 100}",
+    "county_names_all": "San Miguel",
+    "county_fips_all": "08113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

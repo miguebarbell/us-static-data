@@ -1,0 +1,20 @@
+{
+    "zip": 42441,
+    "lat": 37.36768,
+    "lng": -87.65962,
+    "city": "Nebo",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1640.0,
+    "density": 11.8,
+    "county_fips": 21107,
+    "county_name": "Hopkins",
+    "county_weights": "{\"21107\": 93.03, \"21233\": 6.97}",
+    "county_names_all": "Hopkins|Webster",
+    "county_fips_all": "21107|21233",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

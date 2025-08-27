@@ -1,0 +1,20 @@
+{
+    "zip": 49891,
+    "lat": 46.23206,
+    "lng": -87.02828,
+    "city": "Trenary",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 605.0,
+    "density": 3.2,
+    "county_fips": 26003,
+    "county_name": "Alger",
+    "county_weights": "{\"26003\": 100}",
+    "county_names_all": "Alger",
+    "county_fips_all": "26003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

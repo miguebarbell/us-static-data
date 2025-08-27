@@ -1,0 +1,20 @@
+{
+    "zip": 16881,
+    "lat": 41.02743,
+    "lng": -78.31119,
+    "city": "Woodland",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2349.0,
+    "density": 31.8,
+    "county_fips": 42033,
+    "county_name": "Clearfield",
+    "county_weights": "{\"42033\": 100}",
+    "county_names_all": "Clearfield",
+    "county_fips_all": "42033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

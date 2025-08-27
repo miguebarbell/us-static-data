@@ -1,0 +1,20 @@
+{
+    "zip": 40385,
+    "lat": 37.73866,
+    "lng": -84.13085,
+    "city": "Waco",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2378.0,
+    "density": 20.1,
+    "county_fips": 21151,
+    "county_name": "Madison",
+    "county_weights": "{\"21151\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "21151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

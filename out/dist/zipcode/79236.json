@@ -1,0 +1,20 @@
+{
+    "zip": 79236,
+    "lat": 33.5992,
+    "lng": -100.28095,
+    "city": "Guthrie",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 179.0,
+    "density": 0.3,
+    "county_fips": 48269,
+    "county_name": "King",
+    "county_weights": "{\"48269\": 99.78, \"48125\": 0.22}",
+    "county_names_all": "King|Dickens",
+    "county_fips_all": "48269|48125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

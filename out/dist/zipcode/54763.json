@@ -1,0 +1,20 @@
+{
+    "zip": 54763,
+    "lat": 45.179,
+    "lng": -91.87683,
+    "city": "Ridgeland",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1011.0,
+    "density": 6.4,
+    "county_fips": 55033,
+    "county_name": "Dunn",
+    "county_weights": "{\"55033\": 83.46, \"55005\": 16.54}",
+    "county_names_all": "Dunn|Barron",
+    "county_fips_all": "55033|55005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

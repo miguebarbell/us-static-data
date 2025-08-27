@@ -1,0 +1,20 @@
+{
+    "zip": 79045,
+    "lat": 34.89831,
+    "lng": -102.51228,
+    "city": "Hereford",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18441.0,
+    "density": 6.3,
+    "county_fips": 48117,
+    "county_name": "Deaf Smith",
+    "county_weights": "{\"48117\": 83.75, \"48069\": 16.25}",
+    "county_names_all": "Deaf Smith|Castro",
+    "county_fips_all": "48117|48069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

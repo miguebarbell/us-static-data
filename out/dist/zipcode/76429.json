@@ -1,0 +1,20 @@
+{
+    "zip": 76429,
+    "lat": 32.74742,
+    "lng": -98.67428,
+    "city": "Caddo",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 157.0,
+    "density": 0.7,
+    "county_fips": 48429,
+    "county_name": "Stephens",
+    "county_weights": "{\"48429\": 88.8, \"48363\": 11.2}",
+    "county_names_all": "Stephens|Palo Pinto",
+    "county_fips_all": "48429|48363",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

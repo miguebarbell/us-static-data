@@ -1,0 +1,20 @@
+{
+    "zip": 43074,
+    "lat": 40.28008,
+    "lng": -82.84899,
+    "city": "Sunbury",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15948.0,
+    "density": 72.3,
+    "county_fips": 39041,
+    "county_name": "Delaware",
+    "county_weights": "{\"39041\": 97.92, \"39089\": 2.08}",
+    "county_names_all": "Delaware|Licking",
+    "county_fips_all": "39041|39089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 21204,
+    "lat": 39.40353,
+    "lng": -76.63024,
+    "city": "Towson",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19605.0,
+    "density": 1208.8,
+    "county_fips": 24005,
+    "county_name": "Baltimore",
+    "county_weights": "{\"24005\": 100}",
+    "county_names_all": "Baltimore",
+    "county_fips_all": "24005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

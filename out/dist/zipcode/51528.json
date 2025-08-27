@@ -1,0 +1,20 @@
+{
+    "zip": 51528,
+    "lat": 41.92724,
+    "lng": -95.50185,
+    "city": "Dow City",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 604.0,
+    "density": 3.3,
+    "county_fips": 19047,
+    "county_name": "Crawford",
+    "county_weights": "{\"19047\": 100}",
+    "county_names_all": "Crawford",
+    "county_fips_all": "19047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

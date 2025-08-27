@@ -1,0 +1,20 @@
+{
+    "zip": 34141,
+    "lat": 25.91774,
+    "lng": -81.07706,
+    "city": "Ochopee",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 177.0,
+    "density": 0.1,
+    "county_fips": 12021,
+    "county_name": "Collier",
+    "county_weights": "{\"12021\": 75.03, \"12087\": 20.3, \"12086\": 4.67}",
+    "county_names_all": "Collier|Monroe|Miami-Dade",
+    "county_fips_all": "12021|12087|12086",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

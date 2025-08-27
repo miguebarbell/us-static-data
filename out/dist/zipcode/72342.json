@@ -1,0 +1,20 @@
+{
+    "zip": 72342,
+    "lat": 34.44492,
+    "lng": -90.67733,
+    "city": "Helena",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3971.0,
+    "density": 14.1,
+    "county_fips": 5107,
+    "county_name": "Phillips",
+    "county_weights": "{\"05107\": 100}",
+    "county_names_all": "Phillips",
+    "county_fips_all": "05107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

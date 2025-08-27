@@ -1,0 +1,20 @@
+{
+    "zip": 99574,
+    "lat": 60.73927,
+    "lng": -146.4061,
+    "city": "Cordova",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2517.0,
+    "density": 0.3,
+    "county_fips": 2063,
+    "county_name": "Chugach",
+    "county_weights": "{\"02063\": 100}",
+    "county_names_all": "Chugach",
+    "county_fips_all": "02063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

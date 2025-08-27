@@ -1,0 +1,20 @@
+{
+    "zip": 59436,
+    "lat": 47.6135,
+    "lng": -112.0907,
+    "city": "Fairfield",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2093.0,
+    "density": 3.3,
+    "county_fips": 30099,
+    "county_name": "Teton",
+    "county_weights": "{\"30099\": 99.6, \"30013\": 0.4}",
+    "county_names_all": "Teton|Cascade",
+    "county_fips_all": "30099|30013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

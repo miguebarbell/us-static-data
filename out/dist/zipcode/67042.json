@@ -1,0 +1,20 @@
+{
+    "zip": 67042,
+    "lat": 37.84868,
+    "lng": -96.79809,
+    "city": "El Dorado",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17486.0,
+    "density": 26.2,
+    "county_fips": 20015,
+    "county_name": "Butler",
+    "county_weights": "{\"20015\": 100}",
+    "county_names_all": "Butler",
+    "county_fips_all": "20015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

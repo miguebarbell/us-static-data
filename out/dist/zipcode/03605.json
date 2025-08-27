@@ -1,0 +1,20 @@
+{
+    "zip": 3605,
+    "lat": 43.22815,
+    "lng": -72.18032,
+    "city": "Lempster",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 863.0,
+    "density": 10.6,
+    "county_fips": 33019,
+    "county_name": "Sullivan",
+    "county_weights": "{\"33019\": 100}",
+    "county_names_all": "Sullivan",
+    "county_fips_all": "33019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

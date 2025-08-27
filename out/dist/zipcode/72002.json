@@ -1,0 +1,20 @@
+{
+    "zip": 72002,
+    "lat": 34.6646,
+    "lng": -92.5362,
+    "city": "Alexander",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21386.0,
+    "density": 125.4,
+    "county_fips": 5125,
+    "county_name": "Saline",
+    "county_weights": "{\"05125\": 92.72, \"05119\": 7.28}",
+    "county_names_all": "Saline|Pulaski",
+    "county_fips_all": "05125|05119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

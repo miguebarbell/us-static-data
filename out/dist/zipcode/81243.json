@@ -1,0 +1,20 @@
+{
+    "zip": 81243,
+    "lat": 38.26041,
+    "lng": -107.17654,
+    "city": "Powderhorn",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 137.0,
+    "density": 0.2,
+    "county_fips": 8051,
+    "county_name": "Gunnison",
+    "county_weights": "{\"08051\": 100}",
+    "county_names_all": "Gunnison",
+    "county_fips_all": "08051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

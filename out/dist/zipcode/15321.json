@@ -1,0 +1,20 @@
+{
+    "zip": 15321,
+    "lat": 40.32167,
+    "lng": -80.18716,
+    "city": "Cecil",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1859.0,
+    "density": 376.2,
+    "county_fips": 42125,
+    "county_name": "Washington",
+    "county_weights": "{\"42125\": 86.12, \"42003\": 13.88}",
+    "county_names_all": "Washington|Allegheny",
+    "county_fips_all": "42125|42003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

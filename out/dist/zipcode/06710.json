@@ -1,0 +1,20 @@
+{
+    "zip": 6710,
+    "lat": 41.56958,
+    "lng": -73.04598,
+    "city": "Waterbury",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9669.0,
+    "density": 3852.8,
+    "county_fips": 9140,
+    "county_name": "Naugatuck Valley",
+    "county_weights": "{\"09140\": 100}",
+    "county_names_all": "Naugatuck Valley",
+    "county_fips_all": "09140",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

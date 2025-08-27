@@ -1,0 +1,20 @@
+{
+    "zip": 25108,
+    "lat": 37.9655,
+    "lng": -81.87289,
+    "city": "Hewett",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 607.0,
+    "density": 37.9,
+    "county_fips": 54005,
+    "county_name": "Boone",
+    "county_weights": "{\"54005\": 99.8, \"54045\": 0.2}",
+    "county_names_all": "Boone|Logan",
+    "county_fips_all": "54005|54045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

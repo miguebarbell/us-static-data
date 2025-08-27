@@ -1,0 +1,20 @@
+{
+    "zip": 58421,
+    "lat": 47.43974,
+    "lng": -99.06968,
+    "city": "Carrington",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3043.0,
+    "density": 2.9,
+    "county_fips": 38031,
+    "county_name": "Foster",
+    "county_weights": "{\"38031\": 82.9, \"38093\": 8.08, \"38103\": 5.63, \"38027\": 3.39}",
+    "county_names_all": "Foster|Stutsman|Wells|Eddy",
+    "county_fips_all": "38031|38093|38103|38027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

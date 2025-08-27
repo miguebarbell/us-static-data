@@ -1,0 +1,20 @@
+{
+    "zip": 74042,
+    "lat": 36.88381,
+    "lng": -95.55223,
+    "city": "Lenapah",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 376.0,
+    "density": 2.7,
+    "county_fips": 40105,
+    "county_name": "Nowata",
+    "county_weights": "{\"40105\": 100}",
+    "county_names_all": "Nowata",
+    "county_fips_all": "40105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

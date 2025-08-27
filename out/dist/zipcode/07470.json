@@ -1,0 +1,20 @@
+{
+    "zip": 7470,
+    "lat": 40.94805,
+    "lng": -74.24504,
+    "city": "Wayne",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 54131.0,
+    "density": 875.4,
+    "county_fips": 34031,
+    "county_name": "Passaic",
+    "county_weights": "{\"34031\": 100}",
+    "county_names_all": "Passaic",
+    "county_fips_all": "34031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

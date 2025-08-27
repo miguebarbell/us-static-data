@@ -1,0 +1,20 @@
+{
+    "zip": 56056,
+    "lat": 44.07278,
+    "lng": -94.57945,
+    "city": "La Salle",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 60.0,
+    "density": 22.7,
+    "county_fips": 27165,
+    "county_name": "Watonwan",
+    "county_weights": "{\"27165\": 100}",
+    "county_names_all": "Watonwan",
+    "county_fips_all": "27165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

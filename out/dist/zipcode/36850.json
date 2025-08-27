@@ -1,0 +1,20 @@
+{
+    "zip": 36850,
+    "lat": 32.78857,
+    "lng": -85.65336,
+    "city": "Camp Hill",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2550.0,
+    "density": 6.4,
+    "county_fips": 1123,
+    "county_name": "Tallapoosa",
+    "county_weights": "{\"01123\": 72.36, \"01017\": 17.6, \"01081\": 10.04}",
+    "county_names_all": "Tallapoosa|Chambers|Lee",
+    "county_fips_all": "01123|01017|01081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 37806,
+    "lat": 36.08645,
+    "lng": -83.72368,
+    "city": "Mascot",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3011.0,
+    "density": 64.0,
+    "county_fips": 47093,
+    "county_name": "Knox",
+    "county_weights": "{\"47093\": 88.42, \"47057\": 11.58}",
+    "county_names_all": "Knox|Grainger",
+    "county_fips_all": "47093|47057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

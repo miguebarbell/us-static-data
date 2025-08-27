@@ -1,0 +1,20 @@
+{
+    "zip": 43037,
+    "lat": 40.28062,
+    "lng": -82.31654,
+    "city": "Martinsburg",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 265.0,
+    "density": 31.6,
+    "county_fips": 39083,
+    "county_name": "Knox",
+    "county_weights": "{\"39083\": 100}",
+    "county_names_all": "Knox",
+    "county_fips_all": "39083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

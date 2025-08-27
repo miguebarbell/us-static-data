@@ -1,0 +1,20 @@
+{
+    "zip": 88045,
+    "lat": 32.3298,
+    "lng": -108.71057,
+    "city": "Lordsburg",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3320.0,
+    "density": 0.9,
+    "county_fips": 35023,
+    "county_name": "Hidalgo",
+    "county_weights": "{\"35023\": 77.33, \"35017\": 22.67}",
+    "county_names_all": "Hidalgo|Grant",
+    "county_fips_all": "35023|35017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

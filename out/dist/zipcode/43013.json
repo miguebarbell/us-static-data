@@ -1,0 +1,20 @@
+{
+    "zip": 43013,
+    "lat": 40.23101,
+    "lng": -82.6895,
+    "city": "Croton",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1680.0,
+    "density": 32.3,
+    "county_fips": 39089,
+    "county_name": "Licking",
+    "county_weights": "{\"39089\": 99.05, \"39041\": 0.95}",
+    "county_names_all": "Licking|Delaware",
+    "county_fips_all": "39089|39041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

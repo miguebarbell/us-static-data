@@ -1,0 +1,20 @@
+{
+    "zip": 96046,
+    "lat": 40.61118,
+    "lng": -123.43151,
+    "city": "Hyampom",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 410.0,
+    "density": 1.1,
+    "county_fips": 6105,
+    "county_name": "Trinity",
+    "county_weights": "{\"06105\": 100}",
+    "county_names_all": "Trinity",
+    "county_fips_all": "06105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 45710,
+    "lat": 39.19763,
+    "lng": -82.22574,
+    "city": "Albany",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5361.0,
+    "density": 21.3,
+    "county_fips": 39105,
+    "county_name": "Meigs",
+    "county_weights": "{\"39105\": 45.79, \"39009\": 35.81, \"39163\": 18.4}",
+    "county_names_all": "Meigs|Athens|Vinton",
+    "county_fips_all": "39105|39009|39163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

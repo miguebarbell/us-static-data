@@ -1,0 +1,20 @@
+{
+    "zip": 46776,
+    "lat": 41.72793,
+    "lng": -85.16878,
+    "city": "Orland",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1607.0,
+    "density": 24.8,
+    "county_fips": 18151,
+    "county_name": "Steuben",
+    "county_weights": "{\"18151\": 79.36, \"18087\": 20.64}",
+    "county_names_all": "Steuben|LaGrange",
+    "county_fips_all": "18151|18087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

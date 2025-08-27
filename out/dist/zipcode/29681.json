@@ -1,0 +1,20 @@
+{
+    "zip": 29681,
+    "lat": 34.76988,
+    "lng": -82.22218,
+    "city": "Simpsonville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 67657.0,
+    "density": 597.9,
+    "county_fips": 45045,
+    "county_name": "Greenville",
+    "county_weights": "{\"45045\": 97.43, \"45059\": 2.57}",
+    "county_names_all": "Greenville|Laurens",
+    "county_fips_all": "45045|45059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

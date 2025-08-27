@@ -1,0 +1,20 @@
+{
+    "zip": 42170,
+    "lat": 36.84678,
+    "lng": -86.57459,
+    "city": "Woodburn",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1506.0,
+    "density": 18.9,
+    "county_fips": 21227,
+    "county_name": "Warren",
+    "county_weights": "{\"21227\": 50.88, \"21213\": 49.12}",
+    "county_names_all": "Warren|Simpson",
+    "county_fips_all": "21227|21213",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

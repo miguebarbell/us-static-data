@@ -1,0 +1,20 @@
+{
+    "zip": 40051,
+    "lat": 37.65293,
+    "lng": -85.57949,
+    "city": "New Haven",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4523.0,
+    "density": 19.3,
+    "county_fips": 21179,
+    "county_name": "Nelson",
+    "county_weights": "{\"21179\": 68.22, \"21123\": 28.55, \"21093\": 3.23}",
+    "county_names_all": "Nelson|Larue|Hardin",
+    "county_fips_all": "21179|21123|21093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

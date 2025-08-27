@@ -1,0 +1,20 @@
+{
+    "zip": 72036,
+    "lat": 35.00673,
+    "lng": -91.27205,
+    "city": "Cotton Plant",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 538.0,
+    "density": 1.8,
+    "county_fips": 5147,
+    "county_name": "Woodruff",
+    "county_weights": "{\"05147\": 80.65, \"05095\": 19.35}",
+    "county_names_all": "Woodruff|Monroe",
+    "county_fips_all": "05147|05095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 46183,
+    "lat": 39.65397,
+    "lng": -86.28121,
+    "city": "West Newton",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41.0,
+    "density": 225.8,
+    "county_fips": 18097,
+    "county_name": "Marion",
+    "county_weights": "{\"18097\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "18097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

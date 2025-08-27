@@ -1,0 +1,20 @@
+{
+    "zip": 73553,
+    "lat": 34.33066,
+    "lng": -98.70295,
+    "city": "Loveland",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12.0,
+    "density": 0.1,
+    "county_fips": 40141,
+    "county_name": "Tillman",
+    "county_weights": "{\"40141\": 100}",
+    "county_names_all": "Tillman",
+    "county_fips_all": "40141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

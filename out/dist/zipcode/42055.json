@@ -1,0 +1,20 @@
+{
+    "zip": 42055,
+    "lat": 37.06959,
+    "lng": -88.16765,
+    "city": "Kuttawa",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2496.0,
+    "density": 21.5,
+    "county_fips": 21143,
+    "county_name": "Lyon",
+    "county_weights": "{\"21143\": 100}",
+    "county_names_all": "Lyon",
+    "county_fips_all": "21143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

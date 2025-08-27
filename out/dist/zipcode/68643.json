@@ -1,0 +1,20 @@
+{
+    "zip": 68643,
+    "lat": 41.70231,
+    "lng": -97.25918,
+    "city": "Leigh",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1055.0,
+    "density": 4.1,
+    "county_fips": 31141,
+    "county_name": "Platte",
+    "county_weights": "{\"31141\": 34.54, \"31167\": 34.03, \"31037\": 31.43}",
+    "county_names_all": "Platte|Stanton|Colfax",
+    "county_fips_all": "31141|31167|31037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

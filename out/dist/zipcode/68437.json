@@ -1,0 +1,20 @@
+{
+    "zip": 68437,
+    "lat": 40.2513,
+    "lng": -95.63534,
+    "city": "Shubert",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 222.0,
+    "density": 1.9,
+    "county_fips": 31147,
+    "county_name": "Richardson",
+    "county_weights": "{\"31147\": 61.45, \"31127\": 38.55}",
+    "county_names_all": "Richardson|Nemaha",
+    "county_fips_all": "31147|31127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

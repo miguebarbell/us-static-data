@@ -1,0 +1,20 @@
+{
+    "zip": 43505,
+    "lat": 41.52429,
+    "lng": -84.73101,
+    "city": "Blakeslee",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 143.0,
+    "density": 628.1,
+    "county_fips": 39171,
+    "county_name": "Williams",
+    "county_weights": "{\"39171\": 100}",
+    "county_names_all": "Williams",
+    "county_fips_all": "39171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

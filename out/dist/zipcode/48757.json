@@ -1,0 +1,20 @@
+{
+    "zip": 48757,
+    "lat": 43.46748,
+    "lng": -83.679,
+    "city": "Reese",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3680.0,
+    "density": 25.7,
+    "county_fips": 26157,
+    "county_name": "Tuscola",
+    "county_weights": "{\"26157\": 66.47, \"26145\": 26.12, \"26017\": 7.41}",
+    "county_names_all": "Tuscola|Saginaw|Bay",
+    "county_fips_all": "26157|26145|26017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

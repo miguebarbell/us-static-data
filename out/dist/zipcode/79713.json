@@ -1,0 +1,20 @@
+{
+    "zip": 79713,
+    "lat": 32.49861,
+    "lng": -101.74554,
+    "city": "Ackerly",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 962.0,
+    "density": 1.9,
+    "county_fips": 48317,
+    "county_name": "Martin",
+    "county_weights": "{\"48317\": 46.11, \"48115\": 22.01, \"48227\": 21.76, \"48033\": 10.11}",
+    "county_names_all": "Martin|Dawson|Howard|Borden",
+    "county_fips_all": "48317|48115|48227|48033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

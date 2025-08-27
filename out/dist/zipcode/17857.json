@@ -1,0 +1,20 @@
+{
+    "zip": 17857,
+    "lat": 40.92789,
+    "lng": -76.76712,
+    "city": "Northumberland",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7682.0,
+    "density": 111.2,
+    "county_fips": 42097,
+    "county_name": "Northumberland",
+    "county_weights": "{\"42097\": 100}",
+    "county_names_all": "Northumberland",
+    "county_fips_all": "42097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

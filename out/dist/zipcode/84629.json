@@ -1,0 +1,20 @@
+{
+    "zip": 84629,
+    "lat": 39.76574,
+    "lng": -111.44752,
+    "city": "Fairview",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3243.0,
+    "density": 5.2,
+    "county_fips": 49039,
+    "county_name": "Sanpete",
+    "county_weights": "{\"49039\": 67.22, \"49049\": 32.78}",
+    "county_names_all": "Sanpete|Utah",
+    "county_fips_all": "49039|49049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

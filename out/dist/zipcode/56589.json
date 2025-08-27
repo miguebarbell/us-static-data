@@ -1,0 +1,20 @@
+{
+    "zip": 56589,
+    "lat": 47.17959,
+    "lng": -95.71984,
+    "city": "Waubun",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1939.0,
+    "density": 3.1,
+    "county_fips": 27087,
+    "county_name": "Mahnomen",
+    "county_weights": "{\"27087\": 59.89, \"27005\": 26.2, \"27029\": 13.91}",
+    "county_names_all": "Mahnomen|Becker|Clearwater",
+    "county_fips_all": "27087|27005|27029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

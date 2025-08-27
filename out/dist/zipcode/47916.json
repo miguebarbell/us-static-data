@@ -1,0 +1,20 @@
+{
+    "zip": 47916,
+    "lat": 39.98343,
+    "lng": -87.05524,
+    "city": "Alamo",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40.0,
+    "density": 248.0,
+    "county_fips": 18107,
+    "county_name": "Montgomery",
+    "county_weights": "{\"18107\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "18107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

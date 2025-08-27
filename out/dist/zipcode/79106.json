@@ -1,0 +1,20 @@
+{
+    "zip": 79106,
+    "lat": 35.20369,
+    "lng": -101.89178,
+    "city": "Amarillo",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27900.0,
+    "density": 1254.0,
+    "county_fips": 48375,
+    "county_name": "Potter",
+    "county_weights": "{\"48375\": 90.3, \"48381\": 9.7}",
+    "county_names_all": "Potter|Randall",
+    "county_fips_all": "48375|48381",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

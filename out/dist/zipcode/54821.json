@@ -1,0 +1,20 @@
+{
+    "zip": 54821,
+    "lat": 46.22428,
+    "lng": -91.16508,
+    "city": "Cable",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1512.0,
+    "density": 3.1,
+    "county_fips": 55007,
+    "county_name": "Bayfield",
+    "county_weights": "{\"55007\": 97.89, \"55113\": 2.11}",
+    "county_names_all": "Bayfield|Sawyer",
+    "county_fips_all": "55007|55113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

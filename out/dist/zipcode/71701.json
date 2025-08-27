@@ -1,0 +1,20 @@
+{
+    "zip": 71701,
+    "lat": 33.57837,
+    "lng": -92.81309,
+    "city": "Camden",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17883.0,
+    "density": 24.0,
+    "county_fips": 5103,
+    "county_name": "Ouachita",
+    "county_weights": "{\"05103\": 81.16, \"05013\": 18.84}",
+    "county_names_all": "Ouachita|Calhoun",
+    "county_fips_all": "05103|05013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

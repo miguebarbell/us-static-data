@@ -1,0 +1,20 @@
+{
+    "zip": 54721,
+    "lat": 44.6304,
+    "lng": -92.07098,
+    "city": "Arkansaw",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1345.0,
+    "density": 7.9,
+    "county_fips": 55091,
+    "county_name": "Pepin",
+    "county_weights": "{\"55091\": 85.88, \"55033\": 11.88, \"55093\": 2.24}",
+    "county_names_all": "Pepin|Dunn|Pierce",
+    "county_fips_all": "55091|55033|55093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65752,
+    "lat": 37.32742,
+    "lng": -93.83842,
+    "city": "South Greenfield",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 339.0,
+    "density": 2.8,
+    "county_fips": 29057,
+    "county_name": "Dade",
+    "county_weights": "{\"29057\": 92.13, \"29109\": 7.87}",
+    "county_names_all": "Dade|Lawrence",
+    "county_fips_all": "29057|29109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

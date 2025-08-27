@@ -1,0 +1,20 @@
+{
+    "zip": 80733,
+    "lat": 40.35695,
+    "lng": -103.47989,
+    "city": "Hillrose",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 545.0,
+    "density": 8.9,
+    "county_fips": 8087,
+    "county_name": "Morgan",
+    "county_weights": "{\"08087\": 60.28, \"08121\": 39.72}",
+    "county_names_all": "Morgan|Washington",
+    "county_fips_all": "08087|08121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 76249,
+    "lat": 33.27993,
+    "lng": -97.3026,
+    "city": "Krum",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10069.0,
+    "density": 54.7,
+    "county_fips": 48121,
+    "county_name": "Denton",
+    "county_weights": "{\"48121\": 95.5, \"48497\": 4.5}",
+    "county_names_all": "Denton|Wise",
+    "county_fips_all": "48121|48497",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

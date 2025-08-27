@@ -1,0 +1,20 @@
+{
+    "zip": 54425,
+    "lat": 45.0086,
+    "lng": -90.34249,
+    "city": "Dorchester",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1844.0,
+    "density": 17.1,
+    "county_fips": 55019,
+    "county_name": "Clark",
+    "county_weights": "{\"55019\": 57.6, \"55073\": 31.26, \"55119\": 11.14}",
+    "county_names_all": "Clark|Marathon|Taylor",
+    "county_fips_all": "55019|55073|55119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

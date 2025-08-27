@@ -1,0 +1,20 @@
+{
+    "zip": 28560,
+    "lat": 35.13354,
+    "lng": -76.97575,
+    "city": "New Bern",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27981.0,
+    "density": 88.1,
+    "county_fips": 37049,
+    "county_name": "Craven",
+    "county_weights": "{\"37049\": 63.55, \"37137\": 36.45}",
+    "county_names_all": "Craven|Pamlico",
+    "county_fips_all": "37049|37137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

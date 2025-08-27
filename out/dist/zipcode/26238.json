@@ -1,0 +1,20 @@
+{
+    "zip": 26238,
+    "lat": 39.10178,
+    "lng": -80.1584,
+    "city": "Volga",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1049.0,
+    "density": 19.4,
+    "county_fips": 54001,
+    "county_name": "Barbour",
+    "county_weights": "{\"54001\": 89.21, \"54097\": 10.79}",
+    "county_names_all": "Barbour|Upshur",
+    "county_fips_all": "54001|54097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

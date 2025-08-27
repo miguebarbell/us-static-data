@@ -1,0 +1,20 @@
+{
+    "zip": 37391,
+    "lat": 35.09049,
+    "lng": -84.35327,
+    "city": "Turtletown",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1699.0,
+    "density": 25.6,
+    "county_fips": 47139,
+    "county_name": "Polk",
+    "county_weights": "{\"47139\": 100}",
+    "county_names_all": "Polk",
+    "county_fips_all": "47139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

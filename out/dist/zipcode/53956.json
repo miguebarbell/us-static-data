@@ -1,0 +1,20 @@
+{
+    "zip": 53956,
+    "lat": 43.54166,
+    "lng": -89.01849,
+    "city": "Randolph",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3238.0,
+    "density": 16.0,
+    "county_fips": 55021,
+    "county_name": "Columbia",
+    "county_weights": "{\"55021\": 55.27, \"55027\": 40.09, \"55047\": 4.64}",
+    "county_names_all": "Columbia|Dodge|Green Lake",
+    "county_fips_all": "55021|55027|55047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

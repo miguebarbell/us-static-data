@@ -1,0 +1,20 @@
+{
+    "zip": 33135,
+    "lat": 25.76657,
+    "lng": -80.23495,
+    "city": "Miami",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35053.0,
+    "density": 6363.8,
+    "county_fips": 12086,
+    "county_name": "Miami-Dade",
+    "county_weights": "{\"12086\": 100}",
+    "county_names_all": "Miami-Dade",
+    "county_fips_all": "12086",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 26720,
+    "lat": 39.27761,
+    "lng": -79.33126,
+    "city": "Gormania",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 52.0,
+    "density": 2.9,
+    "county_fips": 54023,
+    "county_name": "Grant",
+    "county_weights": "{\"54023\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "54023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 70589,
+    "lat": 30.68584,
+    "lng": -92.04098,
+    "city": "Washington",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3138.0,
+    "density": 10.2,
+    "county_fips": 22097,
+    "county_name": "St. Landry",
+    "county_weights": "{\"22097\": 97.01, \"22039\": 2.99}",
+    "county_names_all": "St. Landry|Evangeline",
+    "county_fips_all": "22097|22039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

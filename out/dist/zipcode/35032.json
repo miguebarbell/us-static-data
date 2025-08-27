@@ -1,0 +1,20 @@
+{
+    "zip": 35032,
+    "lat": 33.26321,
+    "lng": -86.33408,
+    "city": "Bon Air",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 78.0,
+    "density": 537.5,
+    "county_fips": 1121,
+    "county_name": "Talladega",
+    "county_weights": "{\"01121\": 100}",
+    "county_names_all": "Talladega",
+    "county_fips_all": "01121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

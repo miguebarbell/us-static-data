@@ -1,0 +1,20 @@
+{
+    "zip": 55330,
+    "lat": 45.33359,
+    "lng": -93.5679,
+    "city": "Elk River",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 45080.0,
+    "density": 163.2,
+    "county_fips": 27141,
+    "county_name": "Sherburne",
+    "county_weights": "{\"27141\": 61.97, \"27003\": 21.21, \"27171\": 16.82}",
+    "county_names_all": "Sherburne|Anoka|Wright",
+    "county_fips_all": "27141|27003|27171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

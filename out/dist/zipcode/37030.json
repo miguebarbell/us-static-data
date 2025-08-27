@@ -1,0 +1,20 @@
+{
+    "zip": 37030,
+    "lat": 36.27374,
+    "lng": -85.95035,
+    "city": "Carthage",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7889.0,
+    "density": 46.8,
+    "county_fips": 47159,
+    "county_name": "Smith",
+    "county_weights": "{\"47159\": 99.79, \"47087\": 0.21}",
+    "county_names_all": "Smith|Jackson",
+    "county_fips_all": "47159|47087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

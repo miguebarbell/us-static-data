@@ -1,0 +1,20 @@
+{
+    "zip": 55307,
+    "lat": 44.59871,
+    "lng": -94.10475,
+    "city": "Arlington",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3236.0,
+    "density": 16.9,
+    "county_fips": 27143,
+    "county_name": "Sibley",
+    "county_weights": "{\"27143\": 100}",
+    "county_names_all": "Sibley",
+    "county_fips_all": "27143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

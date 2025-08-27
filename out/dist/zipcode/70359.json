@@ -1,0 +1,20 @@
+{
+    "zip": 70359,
+    "lat": 29.68649,
+    "lng": -90.77859,
+    "city": "Gray",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9472.0,
+    "density": 254.0,
+    "county_fips": 22109,
+    "county_name": "Terrebonne",
+    "county_weights": "{\"22109\": 80.44, \"22057\": 19.56}",
+    "county_names_all": "Terrebonne|Lafourche",
+    "county_fips_all": "22109|22057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

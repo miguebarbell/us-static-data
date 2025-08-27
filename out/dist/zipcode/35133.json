@@ -1,0 +1,20 @@
+{
+    "zip": 35133,
+    "lat": 33.81969,
+    "lng": -86.59878,
+    "city": "Remlap",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2793.0,
+    "density": 22.2,
+    "county_fips": 1009,
+    "county_name": "Blount",
+    "county_weights": "{\"01009\": 92.32, \"01115\": 7.68}",
+    "county_names_all": "Blount|St. Clair",
+    "county_fips_all": "01009|01115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

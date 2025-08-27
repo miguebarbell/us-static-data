@@ -1,0 +1,20 @@
+{
+    "zip": 43047,
+    "lat": 40.20795,
+    "lng": -83.63797,
+    "city": "Mingo",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 39021,
+    "county_name": "Champaign",
+    "county_weights": "{\"39021\": 100}",
+    "county_names_all": "Champaign",
+    "county_fips_all": "39021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

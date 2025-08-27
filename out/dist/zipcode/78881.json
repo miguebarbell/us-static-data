@@ -1,0 +1,20 @@
+{
+    "zip": 78881,
+    "lat": 29.39333,
+    "lng": -99.50972,
+    "city": "Sabinal",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1288.0,
+    "density": 1.9,
+    "county_fips": 48463,
+    "county_name": "Uvalde",
+    "county_weights": "{\"48463\": 100}",
+    "county_names_all": "Uvalde",
+    "county_fips_all": "48463",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

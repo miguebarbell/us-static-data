@@ -1,0 +1,20 @@
+{
+    "zip": 53951,
+    "lat": 43.39087,
+    "lng": -89.86633,
+    "city": "North Freedom",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2571.0,
+    "density": 13.6,
+    "county_fips": 55111,
+    "county_name": "Sauk",
+    "county_weights": "{\"55111\": 100}",
+    "county_names_all": "Sauk",
+    "county_fips_all": "55111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

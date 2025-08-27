@@ -1,0 +1,20 @@
+{
+    "zip": 64506,
+    "lat": 39.79048,
+    "lng": -94.80277,
+    "city": "Saint Joseph",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22107.0,
+    "density": 851.3,
+    "county_fips": 29021,
+    "county_name": "Buchanan",
+    "county_weights": "{\"29021\": 95.96, \"29003\": 4.04}",
+    "county_names_all": "Buchanan|Andrew",
+    "county_fips_all": "29021|29003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

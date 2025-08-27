@@ -1,0 +1,20 @@
+{
+    "zip": 47260,
+    "lat": 38.83596,
+    "lng": -86.19909,
+    "city": "Medora",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1909.0,
+    "density": 13.2,
+    "county_fips": 18071,
+    "county_name": "Jackson",
+    "county_weights": "{\"18071\": 99.39, \"18093\": 0.61}",
+    "county_names_all": "Jackson|Lawrence",
+    "county_fips_all": "18071|18093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

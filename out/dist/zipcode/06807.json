@@ -1,0 +1,20 @@
+{
+    "zip": 6807,
+    "lat": 41.0611,
+    "lng": -73.59215,
+    "city": "Cos Cob",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7667.0,
+    "density": 904.0,
+    "county_fips": 9190,
+    "county_name": "Western Connecticut",
+    "county_weights": "{\"09190\": 100}",
+    "county_names_all": "Western Connecticut",
+    "county_fips_all": "09190",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

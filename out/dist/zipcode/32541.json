@@ -1,0 +1,20 @@
+{
+    "zip": 32541,
+    "lat": 30.39666,
+    "lng": -86.47486,
+    "city": "Destin",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18632.0,
+    "density": 572.6,
+    "county_fips": 12091,
+    "county_name": "Okaloosa",
+    "county_weights": "{\"12091\": 100}",
+    "county_names_all": "Okaloosa",
+    "county_fips_all": "12091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

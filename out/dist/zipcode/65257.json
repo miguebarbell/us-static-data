@@ -1,0 +1,20 @@
+{
+    "zip": 65257,
+    "lat": 39.28404,
+    "lng": -92.53112,
+    "city": "Higbee",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1703.0,
+    "density": 7.6,
+    "county_fips": 29175,
+    "county_name": "Randolph",
+    "county_weights": "{\"29175\": 60.47, \"29089\": 39.53}",
+    "county_names_all": "Randolph|Howard",
+    "county_fips_all": "29175|29089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

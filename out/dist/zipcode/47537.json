@@ -1,0 +1,20 @@
+{
+    "zip": 47537,
+    "lat": 38.10971,
+    "lng": -87.06888,
+    "city": "Gentryville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 606.0,
+    "density": 11.5,
+    "county_fips": 18147,
+    "county_name": "Spencer",
+    "county_weights": "{\"18147\": 54.59, \"18173\": 45.41}",
+    "county_names_all": "Spencer|Warrick",
+    "county_fips_all": "18147|18173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

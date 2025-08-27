@@ -1,0 +1,20 @@
+{
+    "zip": 47579,
+    "lat": 38.11149,
+    "lng": -86.91322,
+    "city": "Santa Claus",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2881.0,
+    "density": 96.9,
+    "county_fips": 18147,
+    "county_name": "Spencer",
+    "county_weights": "{\"18147\": 100}",
+    "county_names_all": "Spencer",
+    "county_fips_all": "18147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

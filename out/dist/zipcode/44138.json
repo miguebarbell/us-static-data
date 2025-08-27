@@ -1,0 +1,20 @@
+{
+    "zip": 44138,
+    "lat": 41.37363,
+    "lng": -81.92302,
+    "city": "Olmsted Falls",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23129.0,
+    "density": 646.8,
+    "county_fips": 39035,
+    "county_name": "Cuyahoga",
+    "county_weights": "{\"39035\": 100}",
+    "county_names_all": "Cuyahoga",
+    "county_fips_all": "39035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

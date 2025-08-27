@@ -1,0 +1,20 @@
+{
+    "zip": 72460,
+    "lat": 36.35792,
+    "lng": -91.15967,
+    "city": "Ravenden Springs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 794.0,
+    "density": 5.3,
+    "county_fips": 5121,
+    "county_name": "Randolph",
+    "county_weights": "{\"05121\": 100}",
+    "county_names_all": "Randolph",
+    "county_fips_all": "05121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

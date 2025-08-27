@@ -1,0 +1,20 @@
+{
+    "zip": 47546,
+    "lat": 38.42071,
+    "lng": -86.93469,
+    "city": "Jasper",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22376.0,
+    "density": 71.1,
+    "county_fips": 18037,
+    "county_name": "Dubois",
+    "county_weights": "{\"18037\": 100}",
+    "county_names_all": "Dubois",
+    "county_fips_all": "18037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Vincennes"
+}

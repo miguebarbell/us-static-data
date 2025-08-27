@@ -1,0 +1,20 @@
+{
+    "zip": 78374,
+    "lat": 27.88849,
+    "lng": -97.29366,
+    "city": "Portland",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20152.0,
+    "density": 419.2,
+    "county_fips": 48409,
+    "county_name": "San Patricio",
+    "county_weights": "{\"48409\": 100}",
+    "county_names_all": "San Patricio",
+    "county_fips_all": "48409",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

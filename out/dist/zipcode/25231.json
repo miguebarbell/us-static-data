@@ -1,0 +1,20 @@
+{
+    "zip": 25231,
+    "lat": 38.60464,
+    "lng": -81.591,
+    "city": "Advent",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 54035,
+    "county_name": "Jackson",
+    "county_weights": "{\"54035\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "54035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

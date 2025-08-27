@@ -1,0 +1,20 @@
+{
+    "zip": 30213,
+    "lat": 33.59113,
+    "lng": -84.6333,
+    "city": "Fairburn",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 48541.0,
+    "density": 301.6,
+    "county_fips": 13121,
+    "county_name": "Fulton",
+    "county_weights": "{\"13121\": 99.61, \"13113\": 0.39}",
+    "county_names_all": "Fulton|Fayette",
+    "county_fips_all": "13121|13113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

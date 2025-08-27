@@ -1,0 +1,20 @@
+{
+    "zip": 55309,
+    "lat": 45.37758,
+    "lng": -93.74107,
+    "city": "Big Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21406.0,
+    "density": 132.6,
+    "county_fips": 27141,
+    "county_name": "Sherburne",
+    "county_weights": "{\"27141\": 100}",
+    "county_names_all": "Sherburne",
+    "county_fips_all": "27141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

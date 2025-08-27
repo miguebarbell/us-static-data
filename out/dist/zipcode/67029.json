@@ -1,0 +1,20 @@
+{
+    "zip": 67029,
+    "lat": 37.16925,
+    "lng": -99.28026,
+    "city": "Coldwater",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 954.0,
+    "density": 0.9,
+    "county_fips": 20033,
+    "county_name": "Comanche",
+    "county_weights": "{\"20033\": 97.88, \"20097\": 2.12}",
+    "county_names_all": "Comanche|Kiowa",
+    "county_fips_all": "20033|20097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

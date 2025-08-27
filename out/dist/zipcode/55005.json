@@ -1,0 +1,20 @@
+{
+    "zip": 55005,
+    "lat": 45.39281,
+    "lng": -93.21725,
+    "city": "Bethel",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4756.0,
+    "density": 96.9,
+    "county_fips": 27003,
+    "county_name": "Anoka",
+    "county_weights": "{\"27003\": 100}",
+    "county_names_all": "Anoka",
+    "county_fips_all": "27003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

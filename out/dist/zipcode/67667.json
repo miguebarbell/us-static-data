@@ -1,0 +1,20 @@
+{
+    "zip": 67667,
+    "lat": 38.71304,
+    "lng": -99.33249,
+    "city": "Schoenchen",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 228.0,
+    "density": 708.0,
+    "county_fips": 20051,
+    "county_name": "Ellis",
+    "county_weights": "{\"20051\": 100}",
+    "county_names_all": "Ellis",
+    "county_fips_all": "20051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

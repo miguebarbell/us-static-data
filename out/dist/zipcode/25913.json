@@ -1,0 +1,20 @@
+{
+    "zip": 25913,
+    "lat": 37.70781,
+    "lng": -81.47301,
+    "city": "Ravencliff",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 132.0,
+    "density": 25.6,
+    "county_fips": 54109,
+    "county_name": "Wyoming",
+    "county_weights": "{\"54109\": 100}",
+    "county_names_all": "Wyoming",
+    "county_fips_all": "54109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 67514,
+    "lat": 37.86278,
+    "lng": -98.19714,
+    "city": "Arlington",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 639.0,
+    "density": 3.1,
+    "county_fips": 20155,
+    "county_name": "Reno",
+    "county_weights": "{\"20155\": 100}",
+    "county_names_all": "Reno",
+    "county_fips_all": "20155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

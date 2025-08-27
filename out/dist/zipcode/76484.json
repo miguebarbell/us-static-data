@@ -1,0 +1,20 @@
+{
+    "zip": 76484,
+    "lat": 32.73147,
+    "lng": -98.30551,
+    "city": "Palo Pinto",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1000.0,
+    "density": 3.9,
+    "county_fips": 48363,
+    "county_name": "Palo Pinto",
+    "county_weights": "{\"48363\": 100}",
+    "county_names_all": "Palo Pinto",
+    "county_fips_all": "48363",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

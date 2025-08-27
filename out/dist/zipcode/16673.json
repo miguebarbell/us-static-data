@@ -1,0 +1,20 @@
+{
+    "zip": 16673,
+    "lat": 40.30671,
+    "lng": -78.39026,
+    "city": "Roaring Spring",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5066.0,
+    "density": 56.9,
+    "county_fips": 42013,
+    "county_name": "Blair",
+    "county_weights": "{\"42013\": 62.14, \"42009\": 37.86}",
+    "county_names_all": "Blair|Bedford",
+    "county_fips_all": "42013|42009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

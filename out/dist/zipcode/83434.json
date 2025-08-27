@@ -1,0 +1,20 @@
+{
+    "zip": 83434,
+    "lat": 43.75636,
+    "lng": -112.00758,
+    "city": "Menan",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1754.0,
+    "density": 15.6,
+    "county_fips": 16051,
+    "county_name": "Jefferson",
+    "county_weights": "{\"16051\": 72.28, \"16065\": 27.72}",
+    "county_names_all": "Jefferson|Madison",
+    "county_fips_all": "16051|16065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

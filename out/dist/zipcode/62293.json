@@ -1,0 +1,20 @@
+{
+    "zip": 62293,
+    "lat": 38.61838,
+    "lng": -89.69748,
+    "city": "Trenton",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4572.0,
+    "density": 33.9,
+    "county_fips": 17027,
+    "county_name": "Clinton",
+    "county_weights": "{\"17027\": 46.37, \"17163\": 37.14, \"17119\": 16.5}",
+    "county_names_all": "Clinton|St. Clair|Madison",
+    "county_fips_all": "17027|17163|17119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 27048,
+    "lat": 36.47611,
+    "lng": -79.91295,
+    "city": "Stoneville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8409.0,
+    "density": 39.0,
+    "county_fips": 37157,
+    "county_name": "Rockingham",
+    "county_weights": "{\"37157\": 98.59, \"51089\": 1.41}",
+    "county_names_all": "Rockingham|Henry",
+    "county_fips_all": "37157|51089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

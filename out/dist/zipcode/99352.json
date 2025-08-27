@@ -1,0 +1,20 @@
+{
+    "zip": 99352,
+    "lat": 46.24199,
+    "lng": -119.29067,
+    "city": "Richland",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36641.0,
+    "density": 589.6,
+    "county_fips": 53005,
+    "county_name": "Benton",
+    "county_weights": "{\"53005\": 100}",
+    "county_names_all": "Benton",
+    "county_fips_all": "53005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

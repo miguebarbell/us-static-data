@@ -1,0 +1,20 @@
+{
+    "zip": 47396,
+    "lat": 40.18661,
+    "lng": -85.51632,
+    "city": "Yorktown",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7808.0,
+    "density": 88.0,
+    "county_fips": 18035,
+    "county_name": "Delaware",
+    "county_weights": "{\"18035\": 100}",
+    "county_names_all": "Delaware",
+    "county_fips_all": "18035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

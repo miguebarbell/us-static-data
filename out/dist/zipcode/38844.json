@@ -1,0 +1,20 @@
+{
+    "zip": 38844,
+    "lat": 33.839,
+    "lng": -88.25593,
+    "city": "Gattman",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 190.0,
+    "density": 5.6,
+    "county_fips": 28095,
+    "county_name": "Monroe",
+    "county_weights": "{\"28095\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "28095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

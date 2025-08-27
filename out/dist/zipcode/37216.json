@@ -1,0 +1,20 @@
+{
+    "zip": 37216,
+    "lat": 36.21589,
+    "lng": -86.72676,
+    "city": "Nashville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18933.0,
+    "density": 1086.3,
+    "county_fips": 47037,
+    "county_name": "Davidson",
+    "county_weights": "{\"47037\": 100}",
+    "county_names_all": "Davidson",
+    "county_fips_all": "47037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

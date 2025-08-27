@@ -1,0 +1,20 @@
+{
+    "zip": 49910,
+    "lat": 46.61815,
+    "lng": -89.54308,
+    "city": "Bergland",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 254.0,
+    "density": 2.3,
+    "county_fips": 26131,
+    "county_name": "Ontonagon",
+    "county_weights": "{\"26131\": 100}",
+    "county_names_all": "Ontonagon",
+    "county_fips_all": "26131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 27265,
+    "lat": 36.00947,
+    "lng": -80.03272,
+    "city": "High Point",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 50123.0,
+    "density": 466.3,
+    "county_fips": 37081,
+    "county_name": "Guilford",
+    "county_weights": "{\"37081\": 59.39, \"37057\": 37.66, \"37067\": 2.95}",
+    "county_names_all": "Guilford|Davidson|Forsyth",
+    "county_fips_all": "37081|37057|37067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

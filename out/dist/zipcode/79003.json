@@ -1,0 +1,20 @@
+{
+    "zip": 79003,
+    "lat": 35.63873,
+    "lng": -100.0881,
+    "city": "Allison",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 118.0,
+    "density": 1.0,
+    "county_fips": 48211,
+    "county_name": "Hemphill",
+    "county_weights": "{\"48211\": 74.6, \"48483\": 25.4}",
+    "county_names_all": "Hemphill|Wheeler",
+    "county_fips_all": "48211|48483",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

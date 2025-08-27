@@ -1,0 +1,20 @@
+{
+    "zip": 23081,
+    "lat": 37.20758,
+    "lng": -76.7617,
+    "city": "Jamestown",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 51095,
+    "county_name": "James City",
+    "county_weights": "{\"51095\": 100}",
+    "county_names_all": "James City",
+    "county_fips_all": "51095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

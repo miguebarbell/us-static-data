@@ -1,0 +1,20 @@
+{
+    "zip": 88113,
+    "lat": 33.81968,
+    "lng": -103.08894,
+    "city": "Causey",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 166.0,
+    "density": 1.9,
+    "county_fips": 35041,
+    "county_name": "Roosevelt",
+    "county_weights": "{\"35041\": 100}",
+    "county_names_all": "Roosevelt",
+    "county_fips_all": "35041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

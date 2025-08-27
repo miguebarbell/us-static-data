@@ -1,0 +1,20 @@
+{
+    "zip": 57532,
+    "lat": 44.36129,
+    "lng": -100.56405,
+    "city": "Fort Pierre",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2911.0,
+    "density": 0.9,
+    "county_fips": 46117,
+    "county_name": "Stanley",
+    "county_weights": "{\"46117\": 85.3, \"46085\": 14.7}",
+    "county_names_all": "Stanley|Lyman",
+    "county_fips_all": "46117|46085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

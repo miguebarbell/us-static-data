@@ -1,0 +1,20 @@
+{
+    "zip": 18088,
+    "lat": 40.76578,
+    "lng": -75.5576,
+    "city": "Walnutport",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8162.0,
+    "density": 165.4,
+    "county_fips": 42095,
+    "county_name": "Northampton",
+    "county_weights": "{\"42095\": 100}",
+    "county_names_all": "Northampton",
+    "county_fips_all": "42095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

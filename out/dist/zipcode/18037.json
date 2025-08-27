@@ -1,0 +1,20 @@
+{
+    "zip": 18037,
+    "lat": 40.68203,
+    "lng": -75.54638,
+    "city": "Coplay",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7459.0,
+    "density": 378.4,
+    "county_fips": 42077,
+    "county_name": "Lehigh",
+    "county_weights": "{\"42077\": 100}",
+    "county_names_all": "Lehigh",
+    "county_fips_all": "42077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

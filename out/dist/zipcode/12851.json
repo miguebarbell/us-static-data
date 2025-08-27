@@ -1,0 +1,20 @@
+{
+    "zip": 12851,
+    "lat": 43.85171,
+    "lng": -74.06211,
+    "city": "Minerva",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 304.0,
+    "density": 1.4,
+    "county_fips": 36031,
+    "county_name": "Essex",
+    "county_weights": "{\"36031\": 100}",
+    "county_names_all": "Essex",
+    "county_fips_all": "36031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

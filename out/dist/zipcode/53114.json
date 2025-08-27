@@ -1,0 +1,20 @@
+{
+    "zip": 53114,
+    "lat": 42.60721,
+    "lng": -88.75089,
+    "city": "Darien",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2153.0,
+    "density": 27.7,
+    "county_fips": 55127,
+    "county_name": "Walworth",
+    "county_weights": "{\"55127\": 75.35, \"55105\": 24.65}",
+    "county_names_all": "Walworth|Rock",
+    "county_fips_all": "55127|55105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

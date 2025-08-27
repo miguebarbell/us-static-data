@@ -1,0 +1,20 @@
+{
+    "zip": 46075,
+    "lat": 40.02637,
+    "lng": -86.3346,
+    "city": "Whitestown",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9084.0,
+    "density": 112.5,
+    "county_fips": 18011,
+    "county_name": "Boone",
+    "county_weights": "{\"18011\": 100}",
+    "county_names_all": "Boone",
+    "county_fips_all": "18011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

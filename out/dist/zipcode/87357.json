@@ -1,0 +1,20 @@
+{
+    "zip": 87357,
+    "lat": 34.82644,
+    "lng": -108.41435,
+    "city": "Pinehill",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1162.0,
+    "density": 1.5,
+    "county_fips": 35006,
+    "county_name": "Cibola",
+    "county_weights": "{\"35006\": 100}",
+    "county_names_all": "Cibola",
+    "county_fips_all": "35006",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

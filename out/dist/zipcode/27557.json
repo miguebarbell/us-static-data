@@ -1,0 +1,20 @@
+{
+    "zip": 27557,
+    "lat": 35.77941,
+    "lng": -78.2,
+    "city": "Middlesex",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8407.0,
+    "density": 48.3,
+    "county_fips": 37127,
+    "county_name": "Nash",
+    "county_weights": "{\"37127\": 64.63, \"37101\": 32.3, \"37195\": 2.82, \"37069\": 0.25}",
+    "county_names_all": "Nash|Johnston|Wilson|Franklin",
+    "county_fips_all": "37127|37101|37195|37069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

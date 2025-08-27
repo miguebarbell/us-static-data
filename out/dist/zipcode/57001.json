@@ -1,0 +1,20 @@
+{
+    "zip": 57001,
+    "lat": 42.9981,
+    "lng": -96.65492,
+    "city": "Alcester",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1550.0,
+    "density": 6.0,
+    "county_fips": 46127,
+    "county_name": "Union",
+    "county_weights": "{\"46127\": 93.43, \"46083\": 6.57}",
+    "county_names_all": "Union|Lincoln",
+    "county_fips_all": "46127|46083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

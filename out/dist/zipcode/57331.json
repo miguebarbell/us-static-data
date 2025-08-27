@@ -1,0 +1,20 @@
+{
+    "zip": 57331,
+    "lat": 43.47337,
+    "lng": -98.04619,
+    "city": "Dimock",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 301.0,
+    "density": 1.7,
+    "county_fips": 46067,
+    "county_name": "Hutchinson",
+    "county_weights": "{\"46067\": 65.81, \"46043\": 23.26, \"46035\": 10.93}",
+    "county_names_all": "Hutchinson|Douglas|Davison",
+    "county_fips_all": "46067|46043|46035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

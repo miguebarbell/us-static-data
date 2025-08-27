@@ -1,0 +1,20 @@
+{
+    "zip": 69032,
+    "lat": 40.56766,
+    "lng": -101.0471,
+    "city": "Hayes Center",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 455.0,
+    "density": 0.6,
+    "county_fips": 31085,
+    "county_name": "Hayes",
+    "county_weights": "{\"31085\": 100}",
+    "county_names_all": "Hayes",
+    "county_fips_all": "31085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

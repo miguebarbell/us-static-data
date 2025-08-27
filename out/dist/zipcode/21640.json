@@ -1,0 +1,20 @@
+{
+    "zip": 21640,
+    "lat": 39.07036,
+    "lng": -75.82533,
+    "city": "Henderson",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1251.0,
+    "density": 18.8,
+    "county_fips": 24011,
+    "county_name": "Caroline",
+    "county_weights": "{\"24011\": 80.18, \"24035\": 19.82}",
+    "county_names_all": "Caroline|Queen Anne's",
+    "county_fips_all": "24011|24035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

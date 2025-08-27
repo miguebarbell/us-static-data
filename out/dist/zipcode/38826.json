@@ -1,0 +1,20 @@
+{
+    "zip": 38826,
+    "lat": 34.30164,
+    "lng": -88.84655,
+    "city": "Belden",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5711.0,
+    "density": 71.8,
+    "county_fips": 28115,
+    "county_name": "Pontotoc",
+    "county_weights": "{\"28115\": 71.77, \"28081\": 28.23}",
+    "county_names_all": "Pontotoc|Lee",
+    "county_fips_all": "28115|28081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

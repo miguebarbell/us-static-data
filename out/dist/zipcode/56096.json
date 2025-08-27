@@ -1,0 +1,20 @@
+{
+    "zip": 56096,
+    "lat": 44.24393,
+    "lng": -93.60097,
+    "city": "Waterville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2874.0,
+    "density": 19.9,
+    "county_fips": 27079,
+    "county_name": "Le Sueur",
+    "county_weights": "{\"27079\": 79.56, \"27131\": 11.55, \"27161\": 8.89}",
+    "county_names_all": "Le Sueur|Rice|Waseca",
+    "county_fips_all": "27079|27131|27161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

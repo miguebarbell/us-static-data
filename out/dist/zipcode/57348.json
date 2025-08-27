@@ -1,0 +1,20 @@
+{
+    "zip": 57348,
+    "lat": 44.62147,
+    "lng": -98.36483,
+    "city": "Hitchcock",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 733.0,
+    "density": 1.0,
+    "county_fips": 46005,
+    "county_name": "Beadle",
+    "county_weights": "{\"46005\": 58.29, \"46115\": 41.71}",
+    "county_names_all": "Beadle|Spink",
+    "county_fips_all": "46005|46115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

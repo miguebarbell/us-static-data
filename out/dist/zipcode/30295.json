@@ -1,0 +1,20 @@
+{
+    "zip": 30295,
+    "lat": 33.09319,
+    "lng": -84.31819,
+    "city": "Zebulon",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5424.0,
+    "density": 44.1,
+    "county_fips": 13231,
+    "county_name": "Pike",
+    "county_weights": "{\"13231\": 97.37, \"13171\": 2.63}",
+    "county_names_all": "Pike|Lamar",
+    "county_fips_all": "13231|13171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

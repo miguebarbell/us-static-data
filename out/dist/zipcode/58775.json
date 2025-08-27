@@ -1,0 +1,20 @@
+{
+    "zip": 58775,
+    "lat": 47.71424,
+    "lng": -101.85203,
+    "city": "Roseglen",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 166.0,
+    "density": 0.8,
+    "county_fips": 38055,
+    "county_name": "McLean",
+    "county_weights": "{\"38055\": 100}",
+    "county_names_all": "McLean",
+    "county_fips_all": "38055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

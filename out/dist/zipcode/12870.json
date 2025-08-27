@@ -1,0 +1,20 @@
+{
+    "zip": 12870,
+    "lat": 43.83931,
+    "lng": -73.7625,
+    "city": "Schroon Lake",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1770.0,
+    "density": 6.9,
+    "county_fips": 36031,
+    "county_name": "Essex",
+    "county_weights": "{\"36031\": 98.11, \"36113\": 1.89}",
+    "county_names_all": "Essex|Warren",
+    "county_fips_all": "36031|36113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

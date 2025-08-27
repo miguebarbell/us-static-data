@@ -1,0 +1,20 @@
+{
+    "zip": 28509,
+    "lat": 35.14524,
+    "lng": -76.80662,
+    "city": "Alliance",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 37137,
+    "county_name": "Pamlico",
+    "county_weights": "{\"37137\": 100}",
+    "county_names_all": "Pamlico",
+    "county_fips_all": "37137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

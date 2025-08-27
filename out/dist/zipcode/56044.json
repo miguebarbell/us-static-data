@@ -1,0 +1,20 @@
+{
+    "zip": 56044,
+    "lat": 44.56173,
+    "lng": -93.93539,
+    "city": "Henderson",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2192.0,
+    "density": 10.2,
+    "county_fips": 27143,
+    "county_name": "Sibley",
+    "county_weights": "{\"27143\": 83.41, \"27079\": 16.59}",
+    "county_names_all": "Sibley|Le Sueur",
+    "county_fips_all": "27143|27079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

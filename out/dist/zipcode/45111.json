@@ -1,0 +1,20 @@
+{
+    "zip": 45111,
+    "lat": 39.20033,
+    "lng": -84.28746,
+    "city": "Camp Dennison",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 238.0,
+    "density": 81.3,
+    "county_fips": 39061,
+    "county_name": "Hamilton",
+    "county_weights": "{\"39061\": 99.89, \"39025\": 0.11}",
+    "county_names_all": "Hamilton|Clermont",
+    "county_fips_all": "39061|39025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

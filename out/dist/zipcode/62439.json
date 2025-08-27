@@ -1,0 +1,20 @@
+{
+    "zip": 62439,
+    "lat": 38.74668,
+    "lng": -87.63754,
+    "city": "Lawrenceville",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7097.0,
+    "density": 18.5,
+    "county_fips": 17101,
+    "county_name": "Lawrence",
+    "county_weights": "{\"17101\": 100}",
+    "county_names_all": "Lawrence",
+    "county_fips_all": "17101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

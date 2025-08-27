@@ -1,0 +1,20 @@
+{
+    "zip": 75142,
+    "lat": 32.57004,
+    "lng": -96.24637,
+    "city": "Kaufman",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23301.0,
+    "density": 49.6,
+    "county_fips": 48257,
+    "county_name": "Kaufman",
+    "county_weights": "{\"48257\": 100}",
+    "county_names_all": "Kaufman",
+    "county_fips_all": "48257",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

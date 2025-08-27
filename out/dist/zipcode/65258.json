@@ -1,0 +1,20 @@
+{
+    "zip": 65258,
+    "lat": 39.52339,
+    "lng": -92.13706,
+    "city": "Holliday",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 460.0,
+    "density": 3.5,
+    "county_fips": 29137,
+    "county_name": "Monroe",
+    "county_weights": "{\"29137\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "29137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

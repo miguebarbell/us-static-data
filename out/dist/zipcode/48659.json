@@ -1,0 +1,20 @@
+{
+    "zip": 48659,
+    "lat": 44.06792,
+    "lng": -84.05154,
+    "city": "Sterling",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2740.0,
+    "density": 13.9,
+    "county_fips": 26011,
+    "county_name": "Arenac",
+    "county_weights": "{\"26011\": 97.93, \"26017\": 2.07}",
+    "county_names_all": "Arenac|Bay",
+    "county_fips_all": "26011|26017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

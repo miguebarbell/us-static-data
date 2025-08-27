@@ -1,0 +1,20 @@
+{
+    "zip": 29446,
+    "lat": 32.6281,
+    "lng": -80.54028,
+    "city": "Green Pond",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1257.0,
+    "density": 2.8,
+    "county_fips": 45029,
+    "county_name": "Colleton",
+    "county_weights": "{\"45029\": 99.76, \"45019\": 0.24}",
+    "county_names_all": "Colleton|Charleston",
+    "county_fips_all": "45029|45019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

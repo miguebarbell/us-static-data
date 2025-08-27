@@ -1,0 +1,20 @@
+{
+    "zip": 48834,
+    "lat": 43.12981,
+    "lng": -85.03108,
+    "city": "Fenwick",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2296.0,
+    "density": 18.4,
+    "county_fips": 26117,
+    "county_name": "Montcalm",
+    "county_weights": "{\"26117\": 66.94, \"26067\": 33.06}",
+    "county_names_all": "Montcalm|Ionia",
+    "county_fips_all": "26117|26067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

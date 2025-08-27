@@ -1,0 +1,20 @@
+{
+    "zip": 95944,
+    "lat": 39.53482,
+    "lng": -120.86159,
+    "city": "Goodyears Bar",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 91.0,
+    "density": 3.7,
+    "county_fips": 6091,
+    "county_name": "Sierra",
+    "county_weights": "{\"06091\": 100}",
+    "county_names_all": "Sierra",
+    "county_fips_all": "06091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

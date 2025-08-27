@@ -1,0 +1,20 @@
+{
+    "zip": 78641,
+    "lat": 30.55851,
+    "lng": -97.91473,
+    "city": "Leander",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 93399.0,
+    "density": 290.0,
+    "county_fips": 48453,
+    "county_name": "Travis",
+    "county_weights": "{\"48453\": 63.17, \"48491\": 36.83}",
+    "county_names_all": "Travis|Williamson",
+    "county_fips_all": "48453|48491",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

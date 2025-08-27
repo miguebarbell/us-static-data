@@ -1,0 +1,20 @@
+{
+    "zip": 87820,
+    "lat": 33.90448,
+    "lng": -108.55837,
+    "city": "Aragon",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 238.0,
+    "density": 0.6,
+    "county_fips": 35003,
+    "county_name": "Catron",
+    "county_weights": "{\"35003\": 100}",
+    "county_names_all": "Catron",
+    "county_fips_all": "35003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 57467,
+    "lat": 44.82754,
+    "lng": -99.14221,
+    "city": "Orient",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 349.0,
+    "density": 0.7,
+    "county_fips": 46059,
+    "county_name": "Hand",
+    "county_weights": "{\"46059\": 90.05, \"46049\": 9.95}",
+    "county_names_all": "Hand|Faulk",
+    "county_fips_all": "46059|46049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

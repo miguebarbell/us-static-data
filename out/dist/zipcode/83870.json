@@ -1,0 +1,20 @@
+{
+    "zip": 83870,
+    "lat": 47.13862,
+    "lng": -116.85372,
+    "city": "Tensed",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 340.0,
+    "density": 2.1,
+    "county_fips": 16009,
+    "county_name": "Benewah",
+    "county_weights": "{\"16009\": 100}",
+    "county_names_all": "Benewah",
+    "county_fips_all": "16009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

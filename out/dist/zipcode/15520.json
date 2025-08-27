@@ -1,0 +1,20 @@
+{
+    "zip": 15520,
+    "lat": 40.10626,
+    "lng": -79.06017,
+    "city": "Acosta",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 225.0,
+    "density": 131.6,
+    "county_fips": 42111,
+    "county_name": "Somerset",
+    "county_weights": "{\"42111\": 100}",
+    "county_names_all": "Somerset",
+    "county_fips_all": "42111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

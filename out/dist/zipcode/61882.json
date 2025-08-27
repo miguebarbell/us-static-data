@@ -1,0 +1,20 @@
+{
+    "zip": 61882,
+    "lat": 40.11203,
+    "lng": -88.75969,
+    "city": "Weldon",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 714.0,
+    "density": 7.2,
+    "county_fips": 17039,
+    "county_name": "De Witt",
+    "county_weights": "{\"17039\": 90.43, \"17147\": 7.08, \"17115\": 2.49}",
+    "county_names_all": "De Witt|Piatt|Macon",
+    "county_fips_all": "17039|17147|17115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

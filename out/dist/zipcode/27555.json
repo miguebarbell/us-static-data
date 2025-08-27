@@ -1,0 +1,20 @@
+{
+    "zip": 27555,
+    "lat": 35.56242,
+    "lng": -78.20353,
+    "city": "Micro",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 788.0,
+    "density": 725.6,
+    "county_fips": 37101,
+    "county_name": "Johnston",
+    "county_weights": "{\"37101\": 100}",
+    "county_names_all": "Johnston",
+    "county_fips_all": "37101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

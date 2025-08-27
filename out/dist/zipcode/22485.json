@@ -1,0 +1,20 @@
+{
+    "zip": 22485,
+    "lat": 38.2717,
+    "lng": -77.15996,
+    "city": "King George",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26810.0,
+    "density": 58.9,
+    "county_fips": 51099,
+    "county_name": "King George",
+    "county_weights": "{\"51099\": 99.77, \"51193\": 0.23}",
+    "county_names_all": "King George|Westmoreland",
+    "county_fips_all": "51099|51193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

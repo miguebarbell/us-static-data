@@ -1,0 +1,20 @@
+{
+    "zip": 30257,
+    "lat": 33.14218,
+    "lng": -84.18606,
+    "city": "Milner",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3800.0,
+    "density": 34.9,
+    "county_fips": 13171,
+    "county_name": "Lamar",
+    "county_weights": "{\"13171\": 90.92, \"13231\": 9.08}",
+    "county_names_all": "Lamar|Pike",
+    "county_fips_all": "13171|13231",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

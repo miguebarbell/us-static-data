@@ -1,0 +1,20 @@
+{
+    "zip": 56731,
+    "lat": 48.90771,
+    "lng": -97.07475,
+    "city": "Humboldt",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 126.0,
+    "density": 1.3,
+    "county_fips": 27069,
+    "county_name": "Kittson",
+    "county_weights": "{\"27069\": 100}",
+    "county_names_all": "Kittson",
+    "county_fips_all": "27069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

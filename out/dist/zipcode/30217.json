@@ -1,0 +1,20 @@
+{
+    "zip": 30217,
+    "lat": 33.28671,
+    "lng": -85.13309,
+    "city": "Franklin",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9702.0,
+    "density": 14.8,
+    "county_fips": 13149,
+    "county_name": "Heard",
+    "county_weights": "{\"13149\": 96.73, \"13285\": 3.27}",
+    "county_names_all": "Heard|Troup",
+    "county_fips_all": "13149|13285",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 53069,
+    "lat": 43.1131,
+    "lng": -88.43094,
+    "city": "Okauchee",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 819.0,
+    "density": 814.7,
+    "county_fips": 55133,
+    "county_name": "Waukesha",
+    "county_weights": "{\"55133\": 100}",
+    "county_names_all": "Waukesha",
+    "county_fips_all": "55133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

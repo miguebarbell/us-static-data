@@ -1,0 +1,20 @@
+{
+    "zip": 87832,
+    "lat": 33.83949,
+    "lng": -106.83284,
+    "city": "San Antonio",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 166.0,
+    "density": 0.1,
+    "county_fips": 35053,
+    "county_name": "Socorro",
+    "county_weights": "{\"35053\": 100}",
+    "county_names_all": "Socorro",
+    "county_fips_all": "35053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

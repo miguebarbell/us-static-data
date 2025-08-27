@@ -1,0 +1,20 @@
+{
+    "zip": 8083,
+    "lat": 39.84138,
+    "lng": -75.02867,
+    "city": "Somerdale",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9626.0,
+    "density": 1482.6,
+    "county_fips": 34007,
+    "county_name": "Camden",
+    "county_weights": "{\"34007\": 100}",
+    "county_names_all": "Camden",
+    "county_fips_all": "34007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 19063,
+    "lat": 39.92248,
+    "lng": -75.41419,
+    "city": "Media",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38206.0,
+    "density": 587.7,
+    "county_fips": 42045,
+    "county_name": "Delaware",
+    "county_weights": "{\"42045\": 100}",
+    "county_names_all": "Delaware",
+    "county_fips_all": "42045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

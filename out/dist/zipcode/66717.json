@@ -1,0 +1,20 @@
+{
+    "zip": 66717,
+    "lat": 37.69671,
+    "lng": -95.68672,
+    "city": "Buffalo",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 534.0,
+    "density": 4.7,
+    "county_fips": 20205,
+    "county_name": "Wilson",
+    "county_weights": "{\"20205\": 99.39, \"20207\": 0.61}",
+    "county_names_all": "Wilson|Woodson",
+    "county_fips_all": "20205|20207",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

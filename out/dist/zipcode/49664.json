@@ -1,0 +1,20 @@
+{
+    "zip": 49664,
+    "lat": 44.87457,
+    "lng": -85.89058,
+    "city": "Maple City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2252.0,
+    "density": 14.6,
+    "county_fips": 26089,
+    "county_name": "Leelanau",
+    "county_weights": "{\"26089\": 100}",
+    "county_names_all": "Leelanau",
+    "county_fips_all": "26089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

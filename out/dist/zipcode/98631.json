@@ -1,0 +1,20 @@
+{
+    "zip": 98631,
+    "lat": 46.37988,
+    "lng": -124.02241,
+    "city": "Long Beach",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3468.0,
+    "density": 58.9,
+    "county_fips": 53049,
+    "county_name": "Pacific",
+    "county_weights": "{\"53049\": 100}",
+    "county_names_all": "Pacific",
+    "county_fips_all": "53049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

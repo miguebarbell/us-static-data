@@ -1,0 +1,20 @@
+{
+    "zip": 88419,
+    "lat": 36.91839,
+    "lng": -103.54734,
+    "city": "Folsom",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 106.0,
+    "density": 0.1,
+    "county_fips": 35059,
+    "county_name": "Union",
+    "county_weights": "{\"35059\": 100}",
+    "county_names_all": "Union",
+    "county_fips_all": "35059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

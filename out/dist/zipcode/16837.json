@@ -1,0 +1,20 @@
+{
+    "zip": 16837,
+    "lat": 40.94576,
+    "lng": -78.47494,
+    "city": "Glen Richey",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 104.0,
+    "density": 47.5,
+    "county_fips": 42033,
+    "county_name": "Clearfield",
+    "county_weights": "{\"42033\": 100}",
+    "county_names_all": "Clearfield",
+    "county_fips_all": "42033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 17350,
+    "lat": 39.88918,
+    "lng": -77.07896,
+    "city": "New Oxford",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13219.0,
+    "density": 115.3,
+    "county_fips": 42001,
+    "county_name": "Adams",
+    "county_weights": "{\"42001\": 100}",
+    "county_names_all": "Adams",
+    "county_fips_all": "42001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 30726,
+    "lat": 34.97579,
+    "lng": -85.13959,
+    "city": "Graysville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 13047,
+    "county_name": "Catoosa",
+    "county_weights": "{\"13047\": 100}",
+    "county_names_all": "Catoosa",
+    "county_fips_all": "13047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

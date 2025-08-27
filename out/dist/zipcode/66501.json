@@ -1,0 +1,20 @@
+{
+    "zip": 66501,
+    "lat": 39.05279,
+    "lng": -96.23688,
+    "city": "McFarland",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 356.0,
+    "density": 394.7,
+    "county_fips": 20197,
+    "county_name": "Wabaunsee",
+    "county_weights": "{\"20197\": 100}",
+    "county_names_all": "Wabaunsee",
+    "county_fips_all": "20197",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

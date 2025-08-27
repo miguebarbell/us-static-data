@@ -1,0 +1,20 @@
+{
+    "zip": 46069,
+    "lat": 40.13829,
+    "lng": -86.23144,
+    "city": "Sheridan",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6924.0,
+    "density": 30.3,
+    "county_fips": 18057,
+    "county_name": "Hamilton",
+    "county_weights": "{\"18057\": 57.04, \"18011\": 35.9, \"18023\": 7.06}",
+    "county_names_all": "Hamilton|Boone|Clinton",
+    "county_fips_all": "18057|18011|18023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

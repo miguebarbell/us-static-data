@@ -1,0 +1,20 @@
+{
+    "zip": 74429,
+    "lat": 35.94872,
+    "lng": -95.63065,
+    "city": "Coweta",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16351.0,
+    "density": 74.9,
+    "county_fips": 40145,
+    "county_name": "Wagoner",
+    "county_weights": "{\"40145\": 100}",
+    "county_names_all": "Wagoner",
+    "county_fips_all": "40145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

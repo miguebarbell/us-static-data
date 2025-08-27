@@ -1,0 +1,20 @@
+{
+    "zip": 83810,
+    "lat": 47.54326,
+    "lng": -116.45525,
+    "city": "Cataldo",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1369.0,
+    "density": 3.4,
+    "county_fips": 16055,
+    "county_name": "Kootenai",
+    "county_weights": "{\"16055\": 97.47, \"16079\": 2.53}",
+    "county_names_all": "Kootenai|Shoshone",
+    "county_fips_all": "16055|16079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65051,
+    "lat": 38.46519,
+    "lng": -91.79758,
+    "city": "Linn",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4612.0,
+    "density": 14.0,
+    "county_fips": 29151,
+    "county_name": "Osage",
+    "county_weights": "{\"29151\": 99.43, \"29073\": 0.57}",
+    "county_names_all": "Osage|Gasconade",
+    "county_fips_all": "29151|29073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

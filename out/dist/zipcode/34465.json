@@ -1,0 +1,20 @@
+{
+    "zip": 34465,
+    "lat": 28.92869,
+    "lng": -82.49092,
+    "city": "Beverly Hills",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18514.0,
+    "density": 294.0,
+    "county_fips": 12017,
+    "county_name": "Citrus",
+    "county_weights": "{\"12017\": 100}",
+    "county_names_all": "Citrus",
+    "county_fips_all": "12017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

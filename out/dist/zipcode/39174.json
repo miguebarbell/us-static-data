@@ -1,0 +1,20 @@
+{
+    "zip": 39174,
+    "lat": 32.4009,
+    "lng": -90.16018,
+    "city": "Tougaloo",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 525.0,
+    "density": 826.8,
+    "county_fips": 28089,
+    "county_name": "Madison",
+    "county_weights": "{\"28089\": 60.47, \"28049\": 39.53}",
+    "county_names_all": "Madison|Hinds",
+    "county_fips_all": "28089|28049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

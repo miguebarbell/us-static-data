@@ -1,0 +1,20 @@
+{
+    "zip": 98381,
+    "lat": 48.28863,
+    "lng": -124.45681,
+    "city": "Sekiu",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 213.0,
+    "density": 2.0,
+    "county_fips": 53009,
+    "county_name": "Clallam",
+    "county_weights": "{\"53009\": 100}",
+    "county_names_all": "Clallam",
+    "county_fips_all": "53009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

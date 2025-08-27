@@ -1,0 +1,20 @@
+{
+    "zip": 42356,
+    "lat": 37.69364,
+    "lng": -87.32289,
+    "city": "Maple Mount",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 181.0,
+    "density": 1556.9,
+    "county_fips": 21059,
+    "county_name": "Daviess",
+    "county_weights": "{\"21059\": 100}",
+    "county_names_all": "Daviess",
+    "county_fips_all": "21059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

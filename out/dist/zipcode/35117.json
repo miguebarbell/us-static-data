@@ -1,0 +1,20 @@
+{
+    "zip": 35117,
+    "lat": 33.67085,
+    "lng": -86.89678,
+    "city": "Mount Olive",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5091.0,
+    "density": 67.4,
+    "county_fips": 1073,
+    "county_name": "Jefferson",
+    "county_weights": "{\"01073\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "01073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

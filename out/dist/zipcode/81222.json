@@ -1,0 +1,20 @@
+{
+    "zip": 81222,
+    "lat": 38.35492,
+    "lng": -105.81612,
+    "city": "Coaldale",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 276.0,
+    "density": 3.3,
+    "county_fips": 8043,
+    "county_name": "Fremont",
+    "county_weights": "{\"08043\": 100}",
+    "county_names_all": "Fremont",
+    "county_fips_all": "08043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

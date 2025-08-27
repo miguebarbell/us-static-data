@@ -1,0 +1,20 @@
+{
+    "zip": 69339,
+    "lat": 42.60649,
+    "lng": -103.42939,
+    "city": "Crawford",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1509.0,
+    "density": 1.4,
+    "county_fips": 31045,
+    "county_name": "Dawes",
+    "county_weights": "{\"31045\": 67.38, \"31165\": 32.62}",
+    "county_names_all": "Dawes|Sioux",
+    "county_fips_all": "31045|31165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

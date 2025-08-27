@@ -1,0 +1,20 @@
+{
+    "zip": 65013,
+    "lat": 38.26868,
+    "lng": -91.75493,
+    "city": "Belle",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2973.0,
+    "density": 8.8,
+    "county_fips": 29125,
+    "county_name": "Maries",
+    "county_weights": "{\"29125\": 61.28, \"29151\": 38.72}",
+    "county_names_all": "Maries|Osage",
+    "county_fips_all": "29125|29151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

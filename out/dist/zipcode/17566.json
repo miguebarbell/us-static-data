@@ -1,0 +1,20 @@
+{
+    "zip": 17566,
+    "lat": 39.86924,
+    "lng": -76.1476,
+    "city": "Quarryville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12276.0,
+    "density": 79.5,
+    "county_fips": 42071,
+    "county_name": "Lancaster",
+    "county_weights": "{\"42071\": 100}",
+    "county_names_all": "Lancaster",
+    "county_fips_all": "42071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

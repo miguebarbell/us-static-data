@@ -1,0 +1,20 @@
+{
+    "zip": 75672,
+    "lat": 32.47076,
+    "lng": -94.29353,
+    "city": "Marshall",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16636.0,
+    "density": 27.7,
+    "county_fips": 48203,
+    "county_name": "Harrison",
+    "county_weights": "{\"48203\": 99.74, \"48365\": 0.26}",
+    "county_names_all": "Harrison|Panola",
+    "county_fips_all": "48203|48365",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

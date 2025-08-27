@@ -1,0 +1,20 @@
+{
+    "zip": 53928,
+    "lat": 43.42051,
+    "lng": -89.1547,
+    "city": "Doylestown",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 86.0,
+    "density": 33.9,
+    "county_fips": 55021,
+    "county_name": "Columbia",
+    "county_weights": "{\"55021\": 100}",
+    "county_names_all": "Columbia",
+    "county_fips_all": "55021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

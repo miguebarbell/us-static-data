@@ -1,0 +1,20 @@
+{
+    "zip": 4457,
+    "lat": 45.43432,
+    "lng": -68.52821,
+    "city": "Lincoln",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5755.0,
+    "density": 8.6,
+    "county_fips": 23019,
+    "county_name": "Penobscot",
+    "county_weights": "{\"23019\": 100}",
+    "county_names_all": "Penobscot",
+    "county_fips_all": "23019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

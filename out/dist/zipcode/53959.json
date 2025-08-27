@@ -1,0 +1,20 @@
+{
+    "zip": 53959,
+    "lat": 43.53407,
+    "lng": -89.99702,
+    "city": "Reedsburg",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14391.0,
+    "density": 49.8,
+    "county_fips": 55111,
+    "county_name": "Sauk",
+    "county_weights": "{\"55111\": 100}",
+    "county_names_all": "Sauk",
+    "county_fips_all": "55111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

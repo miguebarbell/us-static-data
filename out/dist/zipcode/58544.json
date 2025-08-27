@@ -1,0 +1,20 @@
+{
+    "zip": 58544,
+    "lat": 46.49833,
+    "lng": -100.37062,
+    "city": "Hazelton",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 526.0,
+    "density": 0.7,
+    "county_fips": 38029,
+    "county_name": "Emmons",
+    "county_weights": "{\"38029\": 100}",
+    "county_names_all": "Emmons",
+    "county_fips_all": "38029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

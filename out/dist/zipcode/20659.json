@@ -1,0 +1,20 @@
+{
+    "zip": 20659,
+    "lat": 38.41886,
+    "lng": -76.73238,
+    "city": "Mechanicsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23918.0,
+    "density": 95.2,
+    "county_fips": 24037,
+    "county_name": "St. Mary's",
+    "county_weights": "{\"24037\": 96.01, \"24017\": 3.99}",
+    "county_names_all": "St. Mary's|Charles",
+    "county_fips_all": "24037|24017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

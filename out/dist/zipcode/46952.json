@@ -1,0 +1,20 @@
+{
+    "zip": 46952,
+    "lat": 40.59882,
+    "lng": -85.63249,
+    "city": "Marion",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17825.0,
+    "density": 65.2,
+    "county_fips": 18053,
+    "county_name": "Grant",
+    "county_weights": "{\"18053\": 89.57, \"18179\": 4.63, \"18069\": 3.09, \"18009\": 2.71}",
+    "county_names_all": "Grant|Wells|Huntington|Blackford",
+    "county_fips_all": "18053|18179|18069|18009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 64658,
+    "lat": 39.66124,
+    "lng": -92.92181,
+    "city": "Marceline",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3112.0,
+    "density": 12.8,
+    "county_fips": 29041,
+    "county_name": "Chariton",
+    "county_weights": "{\"29041\": 75.06, \"29115\": 22.27, \"29121\": 2.67}",
+    "county_names_all": "Chariton|Linn|Macon",
+    "county_fips_all": "29041|29115|29121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

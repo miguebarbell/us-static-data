@@ -1,0 +1,20 @@
+{
+    "zip": 63044,
+    "lat": 38.77455,
+    "lng": -90.42825,
+    "city": "Bridgeton",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10510.0,
+    "density": 243.0,
+    "county_fips": 29189,
+    "county_name": "St. Louis",
+    "county_weights": "{\"29189\": 100}",
+    "county_names_all": "St. Louis",
+    "county_fips_all": "29189",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

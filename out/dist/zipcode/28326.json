@@ -1,0 +1,20 @@
+{
+    "zip": 28326,
+    "lat": 35.27938,
+    "lng": -79.16989,
+    "city": "Cameron",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25981.0,
+    "density": 85.2,
+    "county_fips": 37085,
+    "county_name": "Harnett",
+    "county_weights": "{\"37085\": 56.43, \"37125\": 36.04, \"37105\": 7.53}",
+    "county_names_all": "Harnett|Moore|Lee",
+    "county_fips_all": "37085|37125|37105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

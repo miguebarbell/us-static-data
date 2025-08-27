@@ -1,0 +1,20 @@
+{
+    "zip": 56257,
+    "lat": 44.9684,
+    "lng": -96.40275,
+    "city": "Marietta",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 418.0,
+    "density": 1.8,
+    "county_fips": 27073,
+    "county_name": "Lac qui Parle",
+    "county_weights": "{\"27073\": 95.08, \"46039\": 4.92}",
+    "county_names_all": "Lac qui Parle|Deuel",
+    "county_fips_all": "27073|46039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

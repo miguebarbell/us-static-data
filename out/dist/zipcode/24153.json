@@ -1,0 +1,20 @@
+{
+    "zip": 24153,
+    "lat": 37.29674,
+    "lng": -80.11609,
+    "city": "Salem",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38249.0,
+    "density": 145.9,
+    "county_fips": 51161,
+    "county_name": "Roanoke",
+    "county_weights": "{\"51161\": 84.73, \"51775\": 14.37, \"51023\": 0.9}",
+    "county_names_all": "Roanoke|Salem|Botetourt",
+    "county_fips_all": "51161|51775|51023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

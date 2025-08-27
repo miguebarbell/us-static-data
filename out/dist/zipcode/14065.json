@@ -1,0 +1,20 @@
+{
+    "zip": 14065,
+    "lat": 42.48741,
+    "lng": -78.31158,
+    "city": "Freedom",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1769.0,
+    "density": 18.7,
+    "county_fips": 36009,
+    "county_name": "Cattaraugus",
+    "county_weights": "{\"36009\": 57.01, \"36003\": 42.99}",
+    "county_names_all": "Cattaraugus|Allegany",
+    "county_fips_all": "36009|36003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

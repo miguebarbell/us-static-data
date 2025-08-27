@@ -1,0 +1,20 @@
+{
+    "zip": 50645,
+    "lat": 43.02174,
+    "lng": -92.44952,
+    "city": "Ionia",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1301.0,
+    "density": 5.9,
+    "county_fips": 19037,
+    "county_name": "Chickasaw",
+    "county_weights": "{\"19037\": 90.25, \"19017\": 6.81, \"19067\": 2.94}",
+    "county_names_all": "Chickasaw|Bremer|Floyd",
+    "county_fips_all": "19037|19017|19067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

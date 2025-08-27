@@ -1,0 +1,20 @@
+{
+    "zip": 60539,
+    "lat": 41.825,
+    "lng": -88.33529,
+    "city": "Mooseheart",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 277.0,
+    "density": 123.2,
+    "county_fips": 17089,
+    "county_name": "Kane",
+    "county_weights": "{\"17089\": 100}",
+    "county_names_all": "Kane",
+    "county_fips_all": "17089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 616,
+    "lat": 18.41878,
+    "lng": -66.6679,
+    "city": "Bajadero",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9836.0,
+    "density": 348.9,
+    "county_fips": 72013,
+    "county_name": "Arecibo",
+    "county_weights": "{\"72013\": 100}",
+    "county_names_all": "Arecibo",
+    "county_fips_all": "72013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 14626,
+    "lat": 43.21348,
+    "lng": -77.71272,
+    "city": "Rochester",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29210.0,
+    "density": 843.2,
+    "county_fips": 36055,
+    "county_name": "Monroe",
+    "county_weights": "{\"36055\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "36055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

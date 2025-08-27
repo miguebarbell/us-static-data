@@ -1,0 +1,20 @@
+{
+    "zip": 65662,
+    "lat": 37.43421,
+    "lng": -92.5698,
+    "city": "Grovespring",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1167.0,
+    "density": 5.9,
+    "county_fips": 29229,
+    "county_name": "Wright",
+    "county_weights": "{\"29229\": 77.36, \"29105\": 22.64}",
+    "county_names_all": "Wright|Laclede",
+    "county_fips_all": "29229|29105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

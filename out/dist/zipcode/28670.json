@@ -1,0 +1,20 @@
+{
+    "zip": 28670,
+    "lat": 36.19508,
+    "lng": -80.92282,
+    "city": "Ronda",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2173.0,
+    "density": 22.1,
+    "county_fips": 37193,
+    "county_name": "Wilkes",
+    "county_weights": "{\"37193\": 100}",
+    "county_names_all": "Wilkes",
+    "county_fips_all": "37193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

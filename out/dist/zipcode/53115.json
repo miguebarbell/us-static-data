@@ -1,0 +1,20 @@
+{
+    "zip": 53115,
+    "lat": 42.65443,
+    "lng": -88.6713,
+    "city": "Delavan",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16056.0,
+    "density": 86.2,
+    "county_fips": 55127,
+    "county_name": "Walworth",
+    "county_weights": "{\"55127\": 100}",
+    "county_names_all": "Walworth",
+    "county_fips_all": "55127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

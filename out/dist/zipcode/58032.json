@@ -1,0 +1,20 @@
+{
+    "zip": 58032,
+    "lat": 46.07071,
+    "lng": -97.64413,
+    "city": "Forman",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 765.0,
+    "density": 2.7,
+    "county_fips": 38081,
+    "county_name": "Sargent",
+    "county_weights": "{\"38081\": 100}",
+    "county_names_all": "Sargent",
+    "county_fips_all": "38081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

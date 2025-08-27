@@ -1,0 +1,20 @@
+{
+    "zip": 31733,
+    "lat": 31.59293,
+    "lng": -83.48599,
+    "city": "Chula",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1188.0,
+    "density": 8.5,
+    "county_fips": 13155,
+    "county_name": "Irwin",
+    "county_weights": "{\"13155\": 61.44, \"13277\": 38.56}",
+    "county_names_all": "Irwin|Tift",
+    "county_fips_all": "13155|13277",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

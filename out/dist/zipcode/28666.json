@@ -1,0 +1,20 @@
+{
+    "zip": 28666,
+    "lat": 35.71864,
+    "lng": -81.47057,
+    "city": "Icard",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 301.0,
+    "density": 1286.4,
+    "county_fips": 37023,
+    "county_name": "Burke",
+    "county_weights": "{\"37023\": 100}",
+    "county_names_all": "Burke",
+    "county_fips_all": "37023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

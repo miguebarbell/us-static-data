@@ -1,0 +1,20 @@
+{
+    "zip": 52172,
+    "lat": 43.27117,
+    "lng": -91.48382,
+    "city": "Waukon",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5986.0,
+    "density": 14.5,
+    "county_fips": 19005,
+    "county_name": "Allamakee",
+    "county_weights": "{\"19005\": 95.5, \"19191\": 4.5}",
+    "county_names_all": "Allamakee|Winneshiek",
+    "county_fips_all": "19005|19191",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

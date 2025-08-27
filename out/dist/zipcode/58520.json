@@ -1,0 +1,20 @@
+{
+    "zip": 58520,
+    "lat": 46.6758,
+    "lng": -101.5409,
+    "city": "Almont",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 284.0,
+    "density": 0.5,
+    "county_fips": 38059,
+    "county_name": "Morton",
+    "county_weights": "{\"38059\": 68.85, \"38037\": 31.15}",
+    "county_names_all": "Morton|Grant",
+    "county_fips_all": "38059|38037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/North_Dakota/New_Salem"
+}

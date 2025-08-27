@@ -1,0 +1,20 @@
+{
+    "zip": 66770,
+    "lat": 37.08014,
+    "lng": -94.71601,
+    "city": "Riverton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 860.0,
+    "density": 46.9,
+    "county_fips": 20021,
+    "county_name": "Cherokee",
+    "county_weights": "{\"20021\": 100}",
+    "county_names_all": "Cherokee",
+    "county_fips_all": "20021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

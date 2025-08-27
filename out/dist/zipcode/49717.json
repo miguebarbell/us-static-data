@@ -1,0 +1,20 @@
+{
+    "zip": 49717,
+    "lat": 45.43671,
+    "lng": -84.69796,
+    "city": "Burt Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36.0,
+    "density": 11.0,
+    "county_fips": 26031,
+    "county_name": "Cheboygan",
+    "county_weights": "{\"26031\": 100}",
+    "county_names_all": "Cheboygan",
+    "county_fips_all": "26031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

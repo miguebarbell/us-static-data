@@ -1,0 +1,20 @@
+{
+    "zip": 94930,
+    "lat": 37.97048,
+    "lng": -122.61108,
+    "city": "Fairfax",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8564.0,
+    "density": 232.2,
+    "county_fips": 6041,
+    "county_name": "Marin",
+    "county_weights": "{\"06041\": 100}",
+    "county_names_all": "Marin",
+    "county_fips_all": "06041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

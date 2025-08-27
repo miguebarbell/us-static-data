@@ -1,0 +1,20 @@
+{
+    "zip": 90743,
+    "lat": 33.72963,
+    "lng": -118.08594,
+    "city": "Surfside",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 478.0,
+    "density": 1382.5,
+    "county_fips": 6059,
+    "county_name": "Orange",
+    "county_weights": "{\"06059\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "06059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

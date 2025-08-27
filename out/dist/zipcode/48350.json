@@ -1,0 +1,20 @@
+{
+    "zip": 48350,
+    "lat": 42.74082,
+    "lng": -83.53374,
+    "city": "Davisburg",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7866.0,
+    "density": 127.4,
+    "county_fips": 26125,
+    "county_name": "Oakland",
+    "county_weights": "{\"26125\": 100}",
+    "county_names_all": "Oakland",
+    "county_fips_all": "26125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

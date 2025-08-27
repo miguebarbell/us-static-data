@@ -1,0 +1,20 @@
+{
+    "zip": 18340,
+    "lat": 41.42027,
+    "lng": -74.77503,
+    "city": "Millrift",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 160.0,
+    "density": 14.3,
+    "county_fips": 42103,
+    "county_name": "Pike",
+    "county_weights": "{\"42103\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "42103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

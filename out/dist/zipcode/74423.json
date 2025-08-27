@@ -1,0 +1,20 @@
+{
+    "zip": 74423,
+    "lat": 35.64251,
+    "lng": -95.22339,
+    "city": "Braggs",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 824.0,
+    "density": 13.6,
+    "county_fips": 40101,
+    "county_name": "Muskogee",
+    "county_weights": "{\"40101\": 100}",
+    "county_names_all": "Muskogee",
+    "county_fips_all": "40101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

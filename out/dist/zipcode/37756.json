@@ -1,0 +1,20 @@
+{
+    "zip": 37756,
+    "lat": 36.30165,
+    "lng": -84.40704,
+    "city": "Huntsville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2980.0,
+    "density": 9.7,
+    "county_fips": 47151,
+    "county_name": "Scott",
+    "county_weights": "{\"47151\": 87.44, \"47013\": 12.56}",
+    "county_names_all": "Scott|Campbell",
+    "county_fips_all": "47151|47013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 46919,
+    "lat": 40.58826,
+    "lng": -85.8706,
+    "city": "Converse",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1792.0,
+    "density": 16.2,
+    "county_fips": 18053,
+    "county_name": "Grant",
+    "county_weights": "{\"18053\": 49.6, \"18103\": 36.43, \"18067\": 13.96}",
+    "county_names_all": "Grant|Miami|Howard",
+    "county_fips_all": "18053|18103|18067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

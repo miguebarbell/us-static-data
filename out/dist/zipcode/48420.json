@@ -1,0 +1,20 @@
+{
+    "zip": 48420,
+    "lat": 43.17968,
+    "lng": -83.71176,
+    "city": "Clio",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21213.0,
+    "density": 123.3,
+    "county_fips": 26049,
+    "county_name": "Genesee",
+    "county_weights": "{\"26049\": 96.24, \"26157\": 3.27, \"26145\": 0.49}",
+    "county_names_all": "Genesee|Tuscola|Saginaw",
+    "county_fips_all": "26049|26157|26145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

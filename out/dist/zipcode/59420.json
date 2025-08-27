@@ -1,0 +1,20 @@
+{
+    "zip": 59420,
+    "lat": 47.89688,
+    "lng": -111.04034,
+    "city": "Carter",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 214.0,
+    "density": 0.3,
+    "county_fips": 30015,
+    "county_name": "Chouteau",
+    "county_weights": "{\"30015\": 100}",
+    "county_names_all": "Chouteau",
+    "county_fips_all": "30015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

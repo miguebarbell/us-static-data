@@ -1,0 +1,20 @@
+{
+    "zip": 27242,
+    "lat": 35.33645,
+    "lng": -79.63761,
+    "city": "Eagle Springs",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1666.0,
+    "density": 12.7,
+    "county_fips": 37125,
+    "county_name": "Moore",
+    "county_weights": "{\"37125\": 100}",
+    "county_names_all": "Moore",
+    "county_fips_all": "37125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

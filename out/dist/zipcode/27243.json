@@ -1,0 +1,20 @@
+{
+    "zip": 27243,
+    "lat": 36.07821,
+    "lng": -79.1945,
+    "city": "Efland",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5506.0,
+    "density": 52.8,
+    "county_fips": 37135,
+    "county_name": "Orange",
+    "county_weights": "{\"37135\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "37135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

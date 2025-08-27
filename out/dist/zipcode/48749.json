@@ -1,0 +1,20 @@
+{
+    "zip": 48749,
+    "lat": 44.05512,
+    "lng": -83.89183,
+    "city": "Omer",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1214.0,
+    "density": 12.1,
+    "county_fips": 26011,
+    "county_name": "Arenac",
+    "county_weights": "{\"26011\": 100}",
+    "county_names_all": "Arenac",
+    "county_fips_all": "26011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 59038,
+    "lat": 46.18917,
+    "lng": -107.23069,
+    "city": "Hysham",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 683.0,
+    "density": 0.3,
+    "county_fips": 30103,
+    "county_name": "Treasure",
+    "county_weights": "{\"30103\": 87.24, \"30003\": 12.76}",
+    "county_names_all": "Treasure|Big Horn",
+    "county_fips_all": "30103|30003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 79240,
+    "lat": 34.8836,
+    "lng": -100.76797,
+    "city": "Lelia Lake",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 86.0,
+    "density": 3.9,
+    "county_fips": 48129,
+    "county_name": "Donley",
+    "county_weights": "{\"48129\": 100}",
+    "county_names_all": "Donley",
+    "county_fips_all": "48129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

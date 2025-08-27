@@ -1,0 +1,20 @@
+{
+    "zip": 1830,
+    "lat": 42.7959,
+    "lng": -71.05323,
+    "city": "Haverhill",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26685.0,
+    "density": 742.9,
+    "county_fips": 25009,
+    "county_name": "Essex",
+    "county_weights": "{\"25009\": 100}",
+    "county_names_all": "Essex",
+    "county_fips_all": "25009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

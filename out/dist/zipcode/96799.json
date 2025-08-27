@@ -1,0 +1,20 @@
+{
+    "zip": 96799,
+    "lat": -14.21984,
+    "lng": -170.37005,
+    "city": "Pago Pago",
+    "state_id": "AS",
+    "state_name": "American Samoa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": NaN,
+    "density": NaN,
+    "county_fips": 60050,
+    "county_name": "Western",
+    "county_weights": "{\"60050\": 36.49, \"60010\": 32.58, \"60020\": 29.15, \"60040\": 1.78}",
+    "county_names_all": "Western|Eastern|Manu'a|Swains Island",
+    "county_fips_all": "60050|60010|60020|60040",
+    "imprecise": false,
+    "military": false,
+    "timezone": "Pacific/Pago_Pago"
+}

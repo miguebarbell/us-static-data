@@ -1,0 +1,20 @@
+{
+    "zip": 27842,
+    "lat": 36.52458,
+    "lng": -77.85593,
+    "city": "Henrico",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1439.0,
+    "density": 52.8,
+    "county_fips": 37131,
+    "county_name": "Northampton",
+    "county_weights": "{\"37131\": 92.12, \"37185\": 7.88}",
+    "county_names_all": "Northampton|Warren",
+    "county_fips_all": "37131|37185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

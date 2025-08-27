@@ -1,0 +1,20 @@
+{
+    "zip": 18801,
+    "lat": 41.82861,
+    "lng": -75.9437,
+    "city": "Montrose",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7838.0,
+    "density": 16.8,
+    "county_fips": 42115,
+    "county_name": "Susquehanna",
+    "county_weights": "{\"42115\": 100}",
+    "county_names_all": "Susquehanna",
+    "county_fips_all": "42115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

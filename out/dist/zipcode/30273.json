@@ -1,0 +1,20 @@
+{
+    "zip": 30273,
+    "lat": 33.58365,
+    "lng": -84.27208,
+    "city": "Rex",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19111.0,
+    "density": 1033.0,
+    "county_fips": 13063,
+    "county_name": "Clayton",
+    "county_weights": "{\"13063\": 85.7, \"13151\": 14.3}",
+    "county_names_all": "Clayton|Henry",
+    "county_fips_all": "13063|13151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

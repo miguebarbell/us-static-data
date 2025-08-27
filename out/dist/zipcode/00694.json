@@ -1,0 +1,20 @@
+{
+    "zip": 694,
+    "lat": 18.48327,
+    "lng": -66.39269,
+    "city": "Vega Baja",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 125.0,
+    "density": 60.4,
+    "county_fips": 72145,
+    "county_name": "Vega Baja",
+    "county_weights": "{\"72145\": 100}",
+    "county_names_all": "Vega Baja",
+    "county_fips_all": "72145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

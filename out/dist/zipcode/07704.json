@@ -1,0 +1,20 @@
+{
+    "zip": 7704,
+    "lat": 40.36176,
+    "lng": -74.03926,
+    "city": "Fair Haven",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6182.0,
+    "density": 1487.8,
+    "county_fips": 34025,
+    "county_name": "Monmouth",
+    "county_weights": "{\"34025\": 100}",
+    "county_names_all": "Monmouth",
+    "county_fips_all": "34025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

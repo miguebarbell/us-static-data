@@ -1,0 +1,20 @@
+{
+    "zip": 78619,
+    "lat": 30.11215,
+    "lng": -98.03101,
+    "city": "Driftwood",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6896.0,
+    "density": 66.7,
+    "county_fips": 48209,
+    "county_name": "Hays",
+    "county_weights": "{\"48209\": 100}",
+    "county_names_all": "Hays",
+    "county_fips_all": "48209",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

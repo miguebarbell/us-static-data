@@ -1,0 +1,20 @@
+{
+    "zip": 59351,
+    "lat": 45.7633,
+    "lng": -105.70844,
+    "city": "Volborg",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 171.0,
+    "density": 0.1,
+    "county_fips": 30075,
+    "county_name": "Powder River",
+    "county_weights": "{\"30075\": 60.37, \"30017\": 39.63}",
+    "county_names_all": "Powder River|Custer",
+    "county_fips_all": "30075|30017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

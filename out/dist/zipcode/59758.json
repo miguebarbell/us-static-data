@@ -1,0 +1,20 @@
+{
+    "zip": 59758,
+    "lat": 44.78962,
+    "lng": -111.19348,
+    "city": "West Yellowstone",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2097.0,
+    "density": 2.0,
+    "county_fips": 30031,
+    "county_name": "Gallatin",
+    "county_weights": "{\"30031\": 100}",
+    "county_names_all": "Gallatin",
+    "county_fips_all": "30031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

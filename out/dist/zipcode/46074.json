@@ -1,0 +1,20 @@
+{
+    "zip": 46074,
+    "lat": 40.03651,
+    "lng": -86.17289,
+    "city": "Westfield",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 46042.0,
+    "density": 488.7,
+    "county_fips": 18057,
+    "county_name": "Hamilton",
+    "county_weights": "{\"18057\": 100}",
+    "county_names_all": "Hamilton",
+    "county_fips_all": "18057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 56223,
+    "lat": 44.76259,
+    "lng": -95.81691,
+    "city": "Clarkfield",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1403.0,
+    "density": 4.6,
+    "county_fips": 27173,
+    "county_name": "Yellow Medicine",
+    "county_weights": "{\"27173\": 100}",
+    "county_names_all": "Yellow Medicine",
+    "county_fips_all": "27173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

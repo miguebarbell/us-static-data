@@ -1,0 +1,20 @@
+{
+    "zip": 68779,
+    "lat": 41.9516,
+    "lng": -97.21175,
+    "city": "Stanton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2416.0,
+    "density": 5.4,
+    "county_fips": 31167,
+    "county_name": "Stanton",
+    "county_weights": "{\"31167\": 100}",
+    "county_names_all": "Stanton",
+    "county_fips_all": "31167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

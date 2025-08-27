@@ -1,0 +1,20 @@
+{
+    "zip": 42328,
+    "lat": 37.41898,
+    "lng": -87.0429,
+    "city": "Centertown",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1176.0,
+    "density": 7.1,
+    "county_fips": 21183,
+    "county_name": "Ohio",
+    "county_weights": "{\"21183\": 100}",
+    "county_names_all": "Ohio",
+    "county_fips_all": "21183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

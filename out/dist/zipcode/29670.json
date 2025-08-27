@@ -1,0 +1,20 @@
+{
+    "zip": 29670,
+    "lat": 34.64191,
+    "lng": -82.72455,
+    "city": "Pendleton",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11310.0,
+    "density": 77.9,
+    "county_fips": 45007,
+    "county_name": "Anderson",
+    "county_weights": "{\"45007\": 95.25, \"45077\": 4.75}",
+    "county_names_all": "Anderson|Pickens",
+    "county_fips_all": "45007|45077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

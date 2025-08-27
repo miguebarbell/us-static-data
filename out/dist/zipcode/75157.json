@@ -1,0 +1,20 @@
+{
+    "zip": 75157,
+    "lat": 32.46168,
+    "lng": -96.44914,
+    "city": "Rosser",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 161.0,
+    "density": 46.3,
+    "county_fips": 48257,
+    "county_name": "Kaufman",
+    "county_weights": "{\"48257\": 100}",
+    "county_names_all": "Kaufman",
+    "county_fips_all": "48257",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

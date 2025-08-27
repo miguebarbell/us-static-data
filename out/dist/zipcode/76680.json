@@ -1,0 +1,20 @@
+{
+    "zip": 76680,
+    "lat": 31.18798,
+    "lng": -96.80383,
+    "city": "Reagan",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 194.0,
+    "density": 1.7,
+    "county_fips": 48145,
+    "county_name": "Falls",
+    "county_weights": "{\"48145\": 100}",
+    "county_names_all": "Falls",
+    "county_fips_all": "48145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

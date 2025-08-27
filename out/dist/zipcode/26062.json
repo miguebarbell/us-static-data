@@ -1,0 +1,20 @@
+{
+    "zip": 26062,
+    "lat": 40.42189,
+    "lng": -80.56123,
+    "city": "Weirton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20721.0,
+    "density": 288.6,
+    "county_fips": 54029,
+    "county_name": "Hancock",
+    "county_weights": "{\"54029\": 76.26, \"54009\": 23.74}",
+    "county_names_all": "Hancock|Brooke",
+    "county_fips_all": "54029|54009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

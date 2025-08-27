@@ -1,0 +1,20 @@
+{
+    "zip": 88056,
+    "lat": 31.84062,
+    "lng": -109.00295,
+    "city": "Rodeo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 172.0,
+    "density": 0.6,
+    "county_fips": 35023,
+    "county_name": "Hidalgo",
+    "county_weights": "{\"35023\": 100}",
+    "county_names_all": "Hidalgo",
+    "county_fips_all": "35023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

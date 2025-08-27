@@ -1,0 +1,20 @@
+{
+    "zip": 30412,
+    "lat": 32.07973,
+    "lng": -82.48643,
+    "city": "Alston",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 81.0,
+    "density": 11.1,
+    "county_fips": 13209,
+    "county_name": "Montgomery",
+    "county_weights": "{\"13209\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "13209",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

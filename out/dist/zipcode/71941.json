@@ -1,0 +1,20 @@
+{
+    "zip": 71941,
+    "lat": 34.2487,
+    "lng": -92.95312,
+    "city": "Donaldson",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2240.0,
+    "density": 12.3,
+    "county_fips": 5059,
+    "county_name": "Hot Spring",
+    "county_weights": "{\"05059\": 100}",
+    "county_names_all": "Hot Spring",
+    "county_fips_all": "05059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 54741,
+    "lat": 44.61237,
+    "lng": -90.98121,
+    "city": "Fairchild",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1960.0,
+    "density": 7.8,
+    "county_fips": 55035,
+    "county_name": "Eau Claire",
+    "county_weights": "{\"55035\": 47.93, \"55053\": 39.22, \"55019\": 12.85}",
+    "county_names_all": "Eau Claire|Jackson|Clark",
+    "county_fips_all": "55035|55053|55019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

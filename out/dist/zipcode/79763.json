@@ -1,0 +1,20 @@
+{
+    "zip": 79763,
+    "lat": 31.80766,
+    "lng": -102.46744,
+    "city": "Odessa",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 34878.0,
+    "density": 267.1,
+    "county_fips": 48135,
+    "county_name": "Ector",
+    "county_weights": "{\"48135\": 100}",
+    "county_names_all": "Ector",
+    "county_fips_all": "48135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

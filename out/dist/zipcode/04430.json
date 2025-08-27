@@ -1,0 +1,20 @@
+{
+    "zip": 4430,
+    "lat": 45.64662,
+    "lng": -68.58646,
+    "city": "East Millinocket",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1545.0,
+    "density": 84.4,
+    "county_fips": 23019,
+    "county_name": "Penobscot",
+    "county_weights": "{\"23019\": 100}",
+    "county_names_all": "Penobscot",
+    "county_fips_all": "23019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

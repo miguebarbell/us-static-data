@@ -1,0 +1,20 @@
+{
+    "zip": 19113,
+    "lat": 39.86679,
+    "lng": -75.27911,
+    "city": "Philadelphia",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 42045,
+    "county_name": "Delaware",
+    "county_weights": "{\"42045\": 100}",
+    "county_names_all": "Delaware",
+    "county_fips_all": "42045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

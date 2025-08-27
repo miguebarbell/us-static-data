@@ -1,0 +1,20 @@
+{
+    "zip": 59740,
+    "lat": 45.49871,
+    "lng": -111.81159,
+    "city": "McAllister",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 467.0,
+    "density": 1.2,
+    "county_fips": 30057,
+    "county_name": "Madison",
+    "county_weights": "{\"30057\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "30057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 62469,
+    "lat": 39.34843,
+    "lng": -88.33911,
+    "city": "Trilla",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 428.0,
+    "density": 8.0,
+    "county_fips": 17035,
+    "county_name": "Cumberland",
+    "county_weights": "{\"17035\": 84.96, \"17029\": 15.04}",
+    "county_names_all": "Cumberland|Coles",
+    "county_fips_all": "17035|17029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

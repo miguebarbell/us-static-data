@@ -1,0 +1,20 @@
+{
+    "zip": 40202,
+    "lat": 38.25288,
+    "lng": -85.75205,
+    "city": "Louisville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7109.0,
+    "density": 1699.9,
+    "county_fips": 21111,
+    "county_name": "Jefferson",
+    "county_weights": "{\"21111\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "21111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Kentucky/Louisville"
+}

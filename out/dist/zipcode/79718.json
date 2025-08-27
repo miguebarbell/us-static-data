@@ -1,0 +1,20 @@
+{
+    "zip": 79718,
+    "lat": 30.99474,
+    "lng": -103.73293,
+    "city": "Balmorhea",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 589.0,
+    "density": 0.6,
+    "county_fips": 48389,
+    "county_name": "Reeves",
+    "county_weights": "{\"48389\": 100}",
+    "county_names_all": "Reeves",
+    "county_fips_all": "48389",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 50134,
+    "lat": 41.93992,
+    "lng": -93.67429,
+    "city": "Kelley",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 783.0,
+    "density": 15.5,
+    "county_fips": 19169,
+    "county_name": "Story",
+    "county_weights": "{\"19169\": 73.23, \"19015\": 26.77}",
+    "county_names_all": "Story|Boone",
+    "county_fips_all": "19169|19015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 22960,
+    "lat": 38.21992,
+    "lng": -78.06624,
+    "city": "Orange",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10877.0,
+    "density": 34.5,
+    "county_fips": 51137,
+    "county_name": "Orange",
+    "county_weights": "{\"51137\": 79.84, \"51113\": 16.22, \"51177\": 3.94}",
+    "county_names_all": "Orange|Madison|Spotsylvania",
+    "county_fips_all": "51137|51113|51177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

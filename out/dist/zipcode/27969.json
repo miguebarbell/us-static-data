@@ -1,0 +1,20 @@
+{
+    "zip": 27969,
+    "lat": 36.4633,
+    "lng": -76.80259,
+    "city": "Roduco",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 177.0,
+    "density": 26.3,
+    "county_fips": 37073,
+    "county_name": "Gates",
+    "county_weights": "{\"37073\": 100}",
+    "county_names_all": "Gates",
+    "county_fips_all": "37073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

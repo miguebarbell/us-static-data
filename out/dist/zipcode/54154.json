@@ -1,0 +1,20 @@
+{
+    "zip": 54154,
+    "lat": 44.86702,
+    "lng": -88.19058,
+    "city": "Oconto Falls",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5813.0,
+    "density": 28.0,
+    "county_fips": 55083,
+    "county_name": "Oconto",
+    "county_weights": "{\"55083\": 89.64, \"55115\": 10.36}",
+    "county_names_all": "Oconto|Shawano",
+    "county_fips_all": "55083|55115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

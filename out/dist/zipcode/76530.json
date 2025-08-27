@@ -1,0 +1,20 @@
+{
+    "zip": 76530,
+    "lat": 30.71357,
+    "lng": -97.42434,
+    "city": "Granger",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2704.0,
+    "density": 11.3,
+    "county_fips": 48491,
+    "county_name": "Williamson",
+    "county_weights": "{\"48491\": 100}",
+    "county_names_all": "Williamson",
+    "county_fips_all": "48491",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

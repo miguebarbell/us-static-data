@@ -1,0 +1,20 @@
+{
+    "zip": 36861,
+    "lat": 32.88585,
+    "lng": -85.83232,
+    "city": "Jacksons Gap",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2805.0,
+    "density": 21.6,
+    "county_fips": 1123,
+    "county_name": "Tallapoosa",
+    "county_weights": "{\"01123\": 100}",
+    "county_names_all": "Tallapoosa",
+    "county_fips_all": "01123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

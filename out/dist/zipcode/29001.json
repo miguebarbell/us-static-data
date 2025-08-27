@@ -1,0 +1,20 @@
+{
+    "zip": 29001,
+    "lat": 33.78528,
+    "lng": -80.17338,
+    "city": "Alcolu",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2244.0,
+    "density": 12.3,
+    "county_fips": 45027,
+    "county_name": "Clarendon",
+    "county_weights": "{\"45027\": 89.1, \"45085\": 10.9}",
+    "county_names_all": "Clarendon|Sumter",
+    "county_fips_all": "45027|45085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

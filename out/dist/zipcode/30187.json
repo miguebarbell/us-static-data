@@ -1,0 +1,20 @@
+{
+    "zip": 30187,
+    "lat": 33.65736,
+    "lng": -84.85454,
+    "city": "Winston",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8130.0,
+    "density": 99.8,
+    "county_fips": 13097,
+    "county_name": "Douglas",
+    "county_weights": "{\"13097\": 98.51, \"13045\": 1.49}",
+    "county_names_all": "Douglas|Carroll",
+    "county_fips_all": "13097|13045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

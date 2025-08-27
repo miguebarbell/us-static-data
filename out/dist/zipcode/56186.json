@@ -1,0 +1,20 @@
+{
+    "zip": 56186,
+    "lat": 44.02823,
+    "lng": -96.08131,
+    "city": "Woodstock",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 450.0,
+    "density": 2.8,
+    "county_fips": 27117,
+    "county_name": "Pipestone",
+    "county_weights": "{\"27117\": 60.56, \"27101\": 39.44}",
+    "county_names_all": "Pipestone|Murray",
+    "county_fips_all": "27117|27101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 46394,
+    "lat": 41.67733,
+    "lng": -87.50279,
+    "city": "Whiting",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12141.0,
+    "density": 988.5,
+    "county_fips": 18089,
+    "county_name": "Lake",
+    "county_weights": "{\"18089\": 100}",
+    "county_names_all": "Lake",
+    "county_fips_all": "18089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

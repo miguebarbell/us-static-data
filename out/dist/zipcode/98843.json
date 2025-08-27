@@ -1,0 +1,20 @@
+{
+    "zip": 98843,
+    "lat": 47.73688,
+    "lng": -120.08618,
+    "city": "Orondo",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2492.0,
+    "density": 14.3,
+    "county_fips": 53017,
+    "county_name": "Douglas",
+    "county_weights": "{\"53017\": 100}",
+    "county_names_all": "Douglas",
+    "county_fips_all": "53017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

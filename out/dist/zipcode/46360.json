@@ -1,0 +1,20 @@
+{
+    "zip": 46360,
+    "lat": 41.68739,
+    "lng": -86.86464,
+    "city": "Michigan City",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43997.0,
+    "density": 221.8,
+    "county_fips": 18091,
+    "county_name": "LaPorte",
+    "county_weights": "{\"18091\": 84.22, \"18127\": 15.78}",
+    "county_names_all": "LaPorte|Porter",
+    "county_fips_all": "18091|18127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

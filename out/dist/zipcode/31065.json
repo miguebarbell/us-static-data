@@ -1,0 +1,20 @@
+{
+    "zip": 31065,
+    "lat": 32.56301,
+    "lng": -83.16642,
+    "city": "Montrose",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1714.0,
+    "density": 9.7,
+    "county_fips": 13175,
+    "county_name": "Laurens",
+    "county_weights": "{\"13175\": 66.24, \"13023\": 26.56, \"13319\": 7.2}",
+    "county_names_all": "Laurens|Bleckley|Wilkinson",
+    "county_fips_all": "13175|13023|13319",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

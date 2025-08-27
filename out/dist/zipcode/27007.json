@@ -1,0 +1,20 @@
+{
+    "zip": 27007,
+    "lat": 36.38799,
+    "lng": -80.59144,
+    "city": "Ararat",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2294.0,
+    "density": 43.0,
+    "county_fips": 37171,
+    "county_name": "Surry",
+    "county_weights": "{\"37171\": 100}",
+    "county_names_all": "Surry",
+    "county_fips_all": "37171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

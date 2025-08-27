@@ -1,0 +1,20 @@
+{
+    "zip": 37656,
+    "lat": 36.39997,
+    "lng": -82.63075,
+    "city": "Fall Branch",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3566.0,
+    "density": 47.3,
+    "county_fips": 47179,
+    "county_name": "Washington",
+    "county_weights": "{\"47179\": 62.88, \"47059\": 28.82, \"47163\": 8.3}",
+    "county_names_all": "Washington|Greene|Sullivan",
+    "county_fips_all": "47179|47059|47163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

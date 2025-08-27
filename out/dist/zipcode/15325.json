@@ -1,0 +1,20 @@
+{
+    "zip": 15325,
+    "lat": 39.94893,
+    "lng": -79.96331,
+    "city": "Crucible",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 445.0,
+    "density": 662.1,
+    "county_fips": 42059,
+    "county_name": "Greene",
+    "county_weights": "{\"42059\": 100}",
+    "county_names_all": "Greene",
+    "county_fips_all": "42059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

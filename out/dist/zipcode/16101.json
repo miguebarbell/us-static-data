@@ -1,0 +1,20 @@
+{
+    "zip": 16101,
+    "lat": 40.98776,
+    "lng": -80.28814,
+    "city": "New Castle",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30960.0,
+    "density": 172.7,
+    "county_fips": 42073,
+    "county_name": "Lawrence",
+    "county_weights": "{\"42073\": 100}",
+    "county_names_all": "Lawrence",
+    "county_fips_all": "42073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

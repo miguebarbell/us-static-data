@@ -1,0 +1,20 @@
+{
+    "zip": 63450,
+    "lat": 39.66808,
+    "lng": -92.14857,
+    "city": "Lentner",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 144.0,
+    "density": 2.2,
+    "county_fips": 29205,
+    "county_name": "Shelby",
+    "county_weights": "{\"29205\": 56.4, \"29137\": 43.6}",
+    "county_names_all": "Shelby|Monroe",
+    "county_fips_all": "29205|29137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

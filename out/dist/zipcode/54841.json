@@ -1,0 +1,20 @@
+{
+    "zip": 54841,
+    "lat": 45.60776,
+    "lng": -91.77887,
+    "city": "Haugen",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 265.0,
+    "density": 205.0,
+    "county_fips": 55005,
+    "county_name": "Barron",
+    "county_weights": "{\"55005\": 100}",
+    "county_names_all": "Barron",
+    "county_fips_all": "55005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

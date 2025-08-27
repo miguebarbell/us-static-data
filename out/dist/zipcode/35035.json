@@ -1,0 +1,20 @@
+{
+    "zip": 35035,
+    "lat": 33.04423,
+    "lng": -86.97149,
+    "city": "Brierfield",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 933.0,
+    "density": 5.1,
+    "county_fips": 1007,
+    "county_name": "Bibb",
+    "county_weights": "{\"01007\": 94.43, \"01117\": 5.57}",
+    "county_names_all": "Bibb|Shelby",
+    "county_fips_all": "01007|01117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 26250,
+    "lat": 39.02757,
+    "lng": -79.96198,
+    "city": "Belington",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5743.0,
+    "density": 24.3,
+    "county_fips": 54001,
+    "county_name": "Barbour",
+    "county_weights": "{\"54001\": 90.79, \"54083\": 9.21}",
+    "county_names_all": "Barbour|Randolph",
+    "county_fips_all": "54001|54083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

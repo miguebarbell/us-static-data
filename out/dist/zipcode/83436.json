@@ -1,0 +1,20 @@
+{
+    "zip": 83436,
+    "lat": 43.8588,
+    "lng": -111.46665,
+    "city": "Newdale",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 839.0,
+    "density": 3.2,
+    "county_fips": 16065,
+    "county_name": "Madison",
+    "county_weights": "{\"16065\": 75.94, \"16081\": 17.53, \"16043\": 6.53}",
+    "county_names_all": "Madison|Teton|Fremont",
+    "county_fips_all": "16065|16081|16043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

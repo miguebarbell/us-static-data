@@ -1,0 +1,20 @@
+{
+    "zip": 77957,
+    "lat": 29.03022,
+    "lng": -96.70606,
+    "city": "Edna",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8919.0,
+    "density": 9.6,
+    "county_fips": 48239,
+    "county_name": "Jackson",
+    "county_weights": "{\"48239\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "48239",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

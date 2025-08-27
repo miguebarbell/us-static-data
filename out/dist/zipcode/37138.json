@@ -1,0 +1,20 @@
+{
+    "zip": 37138,
+    "lat": 36.24652,
+    "lng": -86.61938,
+    "city": "Old Hickory",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22539.0,
+    "density": 485.4,
+    "county_fips": 47037,
+    "county_name": "Davidson",
+    "county_weights": "{\"47037\": 68.59, \"47189\": 27.93, \"47165\": 3.48}",
+    "county_names_all": "Davidson|Wilson|Sumner",
+    "county_fips_all": "47037|47189|47165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 24878,
+    "lat": 37.4321,
+    "lng": -81.63086,
+    "city": "Premier",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 156.0,
+    "density": 6.0,
+    "county_fips": 54047,
+    "county_name": "McDowell",
+    "county_weights": "{\"54047\": 100}",
+    "county_names_all": "McDowell",
+    "county_fips_all": "54047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

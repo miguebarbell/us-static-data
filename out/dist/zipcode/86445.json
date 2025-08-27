@@ -1,0 +1,20 @@
+{
+    "zip": 86445,
+    "lat": 35.70747,
+    "lng": -114.53764,
+    "city": "Willow Beach",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 332.0,
+    "density": 0.3,
+    "county_fips": 4015,
+    "county_name": "Mohave",
+    "county_weights": "{\"04015\": 100}",
+    "county_names_all": "Mohave",
+    "county_fips_all": "04015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 19034,
+    "lat": 40.13353,
+    "lng": -75.20953,
+    "city": "Fort Washington",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7084.0,
+    "density": 384.1,
+    "county_fips": 42091,
+    "county_name": "Montgomery",
+    "county_weights": "{\"42091\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "42091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

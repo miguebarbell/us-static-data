@@ -1,0 +1,20 @@
+{
+    "zip": 56111,
+    "lat": 43.64155,
+    "lng": -94.8799,
+    "city": "Alpha",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 355.0,
+    "density": 2.6,
+    "county_fips": 27063,
+    "county_name": "Jackson",
+    "county_weights": "{\"27063\": 93.62, \"27091\": 6.38}",
+    "county_names_all": "Jackson|Martin",
+    "county_fips_all": "27063|27091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

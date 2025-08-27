@@ -1,0 +1,20 @@
+{
+    "zip": 96716,
+    "lat": 21.91167,
+    "lng": -159.60134,
+    "city": "Hanapepe",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2329.0,
+    "density": 231.8,
+    "county_fips": 15007,
+    "county_name": "Kauai",
+    "county_weights": "{\"15007\": 100}",
+    "county_names_all": "Kauai",
+    "county_fips_all": "15007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "Pacific/Honolulu"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 55606,
+    "lat": 47.96785,
+    "lng": -90.02818,
+    "city": "Hovland",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 204.0,
+    "density": 0.5,
+    "county_fips": 27031,
+    "county_name": "Cook",
+    "county_weights": "{\"27031\": 100}",
+    "county_names_all": "Cook",
+    "county_fips_all": "27031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 61087,
+    "lat": 42.48046,
+    "lng": -89.99351,
+    "city": "Warren",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1648.0,
+    "density": 23.4,
+    "county_fips": 17085,
+    "county_name": "Jo Daviess",
+    "county_weights": "{\"17085\": 93.06, \"17177\": 6.94}",
+    "county_names_all": "Jo Daviess|Stephenson",
+    "county_fips_all": "17085|17177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

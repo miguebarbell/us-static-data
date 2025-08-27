@@ -1,0 +1,20 @@
+{
+    "zip": 32259,
+    "lat": 30.07109,
+    "lng": -81.6029,
+    "city": "Saint Johns",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 69866.0,
+    "density": 477.0,
+    "county_fips": 12109,
+    "county_name": "St. Johns",
+    "county_weights": "{\"12109\": 98.86, \"12031\": 1.14}",
+    "county_names_all": "St. Johns|Duval",
+    "county_fips_all": "12109|12031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

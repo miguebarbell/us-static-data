@@ -1,0 +1,20 @@
+{
+    "zip": 56733,
+    "lat": 48.63342,
+    "lng": -96.89149,
+    "city": "Kennedy",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 381.0,
+    "density": 1.0,
+    "county_fips": 27069,
+    "county_name": "Kittson",
+    "county_weights": "{\"27069\": 100}",
+    "county_names_all": "Kittson",
+    "county_fips_all": "27069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

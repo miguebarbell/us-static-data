@@ -1,0 +1,20 @@
+{
+    "zip": 29860,
+    "lat": 33.60667,
+    "lng": -81.97776,
+    "city": "North Augusta",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17412.0,
+    "density": 123.7,
+    "county_fips": 45037,
+    "county_name": "Edgefield",
+    "county_weights": "{\"45037\": 85.51, \"45003\": 14.49}",
+    "county_names_all": "Edgefield|Aiken",
+    "county_fips_all": "45037|45003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

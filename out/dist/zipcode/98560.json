@@ -1,0 +1,20 @@
+{
+    "zip": 98560,
+    "lat": 47.30577,
+    "lng": -123.43948,
+    "city": "Matlock",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 132.0,
+    "density": 1.2,
+    "county_fips": 53045,
+    "county_name": "Mason",
+    "county_weights": "{\"53045\": 100}",
+    "county_names_all": "Mason",
+    "county_fips_all": "53045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

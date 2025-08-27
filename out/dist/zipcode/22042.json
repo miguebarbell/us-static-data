@@ -1,0 +1,20 @@
+{
+    "zip": 22042,
+    "lat": 38.86463,
+    "lng": -77.19406,
+    "city": "Falls Church",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 34631.0,
+    "density": 2082.3,
+    "county_fips": 51059,
+    "county_name": "Fairfax",
+    "county_weights": "{\"51059\": 99.14, \"51610\": 0.86}",
+    "county_names_all": "Fairfax|Falls Church",
+    "county_fips_all": "51059|51610",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

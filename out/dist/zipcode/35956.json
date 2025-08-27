@@ -1,0 +1,20 @@
+{
+    "zip": 35956,
+    "lat": 34.1433,
+    "lng": -86.14799,
+    "city": "Boaz",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8381.0,
+    "density": 43.6,
+    "county_fips": 1055,
+    "county_name": "Etowah",
+    "county_weights": "{\"01055\": 99.87, \"01049\": 0.13}",
+    "county_names_all": "Etowah|DeKalb",
+    "county_fips_all": "01055|01049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

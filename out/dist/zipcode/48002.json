@@ -1,0 +1,20 @@
+{
+    "zip": 48002,
+    "lat": 42.93916,
+    "lng": -82.92601,
+    "city": "Allenton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3129.0,
+    "density": 32.5,
+    "county_fips": 26147,
+    "county_name": "St. Clair",
+    "county_weights": "{\"26147\": 100}",
+    "county_names_all": "St. Clair",
+    "county_fips_all": "26147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

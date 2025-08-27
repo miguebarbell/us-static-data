@@ -1,0 +1,20 @@
+{
+    "zip": 8544,
+    "lat": 40.34641,
+    "lng": -74.65787,
+    "city": "Princeton",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4548.0,
+    "density": 10559.7,
+    "county_fips": 34021,
+    "county_name": "Mercer",
+    "county_weights": "{\"34021\": 100}",
+    "county_names_all": "Mercer",
+    "county_fips_all": "34021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

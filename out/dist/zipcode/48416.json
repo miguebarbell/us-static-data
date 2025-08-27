@@ -1,0 +1,20 @@
+{
+    "zip": 48416,
+    "lat": 43.21791,
+    "lng": -82.98476,
+    "city": "Brown City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5216.0,
+    "density": 17.7,
+    "county_fips": 26151,
+    "county_name": "Sanilac",
+    "county_weights": "{\"26151\": 53.72, \"26087\": 40.42, \"26147\": 5.86}",
+    "county_names_all": "Sanilac|Lapeer|St. Clair",
+    "county_fips_all": "26151|26087|26147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 21787,
+    "lat": 39.67169,
+    "lng": -77.17317,
+    "city": "Taneytown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11549.0,
+    "density": 73.0,
+    "county_fips": 24013,
+    "county_name": "Carroll",
+    "county_weights": "{\"24013\": 86.98, \"24021\": 13.02}",
+    "county_names_all": "Carroll|Frederick",
+    "county_fips_all": "24013|24021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

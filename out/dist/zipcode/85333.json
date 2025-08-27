@@ -1,0 +1,20 @@
+{
+    "zip": 85333,
+    "lat": 32.97896,
+    "lng": -113.30714,
+    "city": "Dateland",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 403.0,
+    "density": 0.2,
+    "county_fips": 4013,
+    "county_name": "Maricopa",
+    "county_weights": "{\"04013\": 55.51, \"04027\": 44.49}",
+    "county_names_all": "Maricopa|Yuma",
+    "county_fips_all": "04013|04027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

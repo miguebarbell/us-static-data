@@ -1,0 +1,20 @@
+{
+    "zip": 59525,
+    "lat": 48.6524,
+    "lng": -110.27405,
+    "city": "Gildford",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 307.0,
+    "density": 0.4,
+    "county_fips": 30041,
+    "county_name": "Hill",
+    "county_weights": "{\"30041\": 100}",
+    "county_names_all": "Hill",
+    "county_fips_all": "30041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 95665,
+    "lat": 38.39587,
+    "lng": -120.65238,
+    "city": "Pine Grove",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4903.0,
+    "density": 93.4,
+    "county_fips": 6005,
+    "county_name": "Amador",
+    "county_weights": "{\"06005\": 100}",
+    "county_names_all": "Amador",
+    "county_fips_all": "06005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

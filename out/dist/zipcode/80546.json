@@ -1,0 +1,20 @@
+{
+    "zip": 80546,
+    "lat": 40.52415,
+    "lng": -104.84986,
+    "city": "Severance",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 171.0,
+    "density": 590.5,
+    "county_fips": 8123,
+    "county_name": "Weld",
+    "county_weights": "{\"08123\": 100}",
+    "county_names_all": "Weld",
+    "county_fips_all": "08123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

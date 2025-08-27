@@ -1,0 +1,20 @@
+{
+    "zip": 68730,
+    "lat": 42.76688,
+    "lng": -97.53488,
+    "city": "Crofton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2112.0,
+    "density": 5.5,
+    "county_fips": 31107,
+    "county_name": "Knox",
+    "county_weights": "{\"31107\": 69.84, \"31027\": 30.16}",
+    "county_names_all": "Knox|Cedar",
+    "county_fips_all": "31107|31027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

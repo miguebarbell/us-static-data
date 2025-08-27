@@ -1,0 +1,20 @@
+{
+    "zip": 98849,
+    "lat": 48.54821,
+    "lng": -119.40789,
+    "city": "Riverside",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1123.0,
+    "density": 2.5,
+    "county_fips": 53047,
+    "county_name": "Okanogan",
+    "county_weights": "{\"53047\": 100}",
+    "county_names_all": "Okanogan",
+    "county_fips_all": "53047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

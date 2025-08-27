@@ -1,0 +1,20 @@
+{
+    "zip": 36830,
+    "lat": 32.5339,
+    "lng": -85.49449,
+    "city": "Auburn",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 48172.0,
+    "density": 169.8,
+    "county_fips": 1081,
+    "county_name": "Lee",
+    "county_weights": "{\"01081\": 56.02, \"01087\": 43.98}",
+    "county_names_all": "Lee|Macon",
+    "county_fips_all": "01081|01087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

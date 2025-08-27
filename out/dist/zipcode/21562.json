@@ -1,0 +1,20 @@
+{
+    "zip": 21562,
+    "lat": 39.50326,
+    "lng": -79.05046,
+    "city": "Westernport",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3192.0,
+    "density": 42.7,
+    "county_fips": 24001,
+    "county_name": "Allegany",
+    "county_weights": "{\"24001\": 50.01, \"24023\": 49.99}",
+    "county_names_all": "Allegany|Garrett",
+    "county_fips_all": "24001|24023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 38361,
+    "lat": 35.31897,
+    "lng": -88.29232,
+    "city": "Morris Chapel",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1158.0,
+    "density": 9.9,
+    "county_fips": 47071,
+    "county_name": "Hardin",
+    "county_weights": "{\"47071\": 91.92, \"47109\": 8.08}",
+    "county_names_all": "Hardin|McNairy",
+    "county_fips_all": "47071|47109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 60515,
+    "lat": 41.80991,
+    "lng": -88.0247,
+    "city": "Downers Grove",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29045.0,
+    "density": 949.0,
+    "county_fips": 17043,
+    "county_name": "DuPage",
+    "county_weights": "{\"17043\": 100}",
+    "county_names_all": "DuPage",
+    "county_fips_all": "17043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

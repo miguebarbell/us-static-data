@@ -1,0 +1,20 @@
+{
+    "zip": 17824,
+    "lat": 40.85652,
+    "lng": -76.49848,
+    "city": "Elysburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3840.0,
+    "density": 52.8,
+    "county_fips": 42037,
+    "county_name": "Columbia",
+    "county_weights": "{\"42037\": 54.74, \"42097\": 43.75, \"42093\": 1.51}",
+    "county_names_all": "Columbia|Northumberland|Montour",
+    "county_fips_all": "42037|42097|42093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

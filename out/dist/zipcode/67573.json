@@ -1,0 +1,20 @@
+{
+    "zip": 67573,
+    "lat": 38.26215,
+    "lng": -98.41518,
+    "city": "Raymond",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 187.0,
+    "density": 1.0,
+    "county_fips": 20159,
+    "county_name": "Rice",
+    "county_weights": "{\"20159\": 100}",
+    "county_names_all": "Rice",
+    "county_fips_all": "20159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

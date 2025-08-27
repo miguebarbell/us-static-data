@@ -1,0 +1,20 @@
+{
+    "zip": 47660,
+    "lat": 38.29712,
+    "lng": -87.33191,
+    "city": "Oakland City",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4819.0,
+    "density": 21.3,
+    "county_fips": 18051,
+    "county_name": "Gibson",
+    "county_weights": "{\"18051\": 63.62, \"18125\": 35.24, \"18173\": 1.14}",
+    "county_names_all": "Gibson|Pike|Warrick",
+    "county_fips_all": "18051|18125|18173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Petersburg"
+}

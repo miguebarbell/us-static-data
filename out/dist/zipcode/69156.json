@@ -1,0 +1,20 @@
+{
+    "zip": 69156,
+    "lat": 41.27689,
+    "lng": -103.34587,
+    "city": "Potter",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 622.0,
+    "density": 0.7,
+    "county_fips": 31033,
+    "county_name": "Cheyenne",
+    "county_weights": "{\"31033\": 62.25, \"31007\": 23.55, \"31105\": 14.2}",
+    "county_names_all": "Cheyenne|Banner|Kimball",
+    "county_fips_all": "31033|31007|31105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

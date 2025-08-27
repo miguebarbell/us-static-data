@@ -1,0 +1,20 @@
+{
+    "zip": 83325,
+    "lat": 42.58675,
+    "lng": -114.24282,
+    "city": "Eden",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 712.0,
+    "density": 7.5,
+    "county_fips": 16053,
+    "county_name": "Jerome",
+    "county_weights": "{\"16053\": 100}",
+    "county_names_all": "Jerome",
+    "county_fips_all": "16053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

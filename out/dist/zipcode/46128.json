@@ -1,0 +1,20 @@
+{
+    "zip": 46128,
+    "lat": 39.65634,
+    "lng": -86.74312,
+    "city": "Fillmore",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2319.0,
+    "density": 26.7,
+    "county_fips": 18133,
+    "county_name": "Putnam",
+    "county_weights": "{\"18133\": 100}",
+    "county_names_all": "Putnam",
+    "county_fips_all": "18133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

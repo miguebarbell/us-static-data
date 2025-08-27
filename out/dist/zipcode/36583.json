@@ -1,0 +1,20 @@
+{
+    "zip": 36583,
+    "lat": 31.36677,
+    "lng": -88.1869,
+    "city": "Tibbie",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 631.0,
+    "density": 3.5,
+    "county_fips": 1129,
+    "county_name": "Washington",
+    "county_weights": "{\"01129\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "01129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

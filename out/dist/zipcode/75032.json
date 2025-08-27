@@ -1,0 +1,20 @@
+{
+    "zip": 75032,
+    "lat": 32.85756,
+    "lng": -96.42858,
+    "city": "Rockwall",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37895.0,
+    "density": 304.0,
+    "county_fips": 48397,
+    "county_name": "Rockwall",
+    "county_weights": "{\"48397\": 100}",
+    "county_names_all": "Rockwall",
+    "county_fips_all": "48397",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

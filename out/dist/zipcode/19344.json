@@ -1,0 +1,20 @@
+{
+    "zip": 19344,
+    "lat": 40.08279,
+    "lng": -75.88338,
+    "city": "Honey Brook",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12910.0,
+    "density": 150.5,
+    "county_fips": 42029,
+    "county_name": "Chester",
+    "county_weights": "{\"42029\": 97.43, \"42071\": 2.57}",
+    "county_names_all": "Chester|Lancaster",
+    "county_fips_all": "42029|42071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

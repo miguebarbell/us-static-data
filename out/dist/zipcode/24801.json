@@ -1,0 +1,20 @@
+{
+    "zip": 24801,
+    "lat": 37.46841,
+    "lng": -81.55544,
+    "city": "Welch",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5107.0,
+    "density": 18.6,
+    "county_fips": 54109,
+    "county_name": "Wyoming",
+    "county_weights": "{\"54109\": 52.8, \"54047\": 47.2}",
+    "county_names_all": "Wyoming|McDowell",
+    "county_fips_all": "54109|54047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 55033,
+    "lat": 44.71139,
+    "lng": -92.8585,
+    "city": "Hastings",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29241.0,
+    "density": 78.3,
+    "county_fips": 27037,
+    "county_name": "Dakota",
+    "county_weights": "{\"27037\": 75.38, \"27163\": 21.47, \"27049\": 3.15}",
+    "county_names_all": "Dakota|Washington|Goodhue",
+    "county_fips_all": "27037|27163|27049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

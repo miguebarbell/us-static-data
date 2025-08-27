@@ -1,0 +1,20 @@
+{
+    "zip": 35543,
+    "lat": 34.21219,
+    "lng": -87.75197,
+    "city": "Bear Creek",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1086.0,
+    "density": 11.3,
+    "county_fips": 1093,
+    "county_name": "Marion",
+    "county_weights": "{\"01093\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "01093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

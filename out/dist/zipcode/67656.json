@@ -1,0 +1,20 @@
+{
+    "zip": 67656,
+    "lat": 38.98565,
+    "lng": -99.75549,
+    "city": "Ogallah",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 251.0,
+    "density": 0.8,
+    "county_fips": 20195,
+    "county_name": "Trego",
+    "county_weights": "{\"20195\": 88.78, \"20065\": 11.22}",
+    "county_names_all": "Trego|Graham",
+    "county_fips_all": "20195|20065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

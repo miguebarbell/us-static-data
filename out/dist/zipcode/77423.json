@@ -1,0 +1,20 @@
+{
+    "zip": 77423,
+    "lat": 29.83386,
+    "lng": -95.98219,
+    "city": "Brookshire",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16689.0,
+    "density": 43.4,
+    "county_fips": 48473,
+    "county_name": "Waller",
+    "county_weights": "{\"48473\": 91.93, \"48157\": 8.07}",
+    "county_names_all": "Waller|Fort Bend",
+    "county_fips_all": "48473|48157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

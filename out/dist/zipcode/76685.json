@@ -1,0 +1,20 @@
+{
+    "zip": 76685,
+    "lat": 31.34973,
+    "lng": -97.0101,
+    "city": "Satin",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 52.0,
+    "density": 1.3,
+    "county_fips": 48145,
+    "county_name": "Falls",
+    "county_weights": "{\"48145\": 100}",
+    "county_names_all": "Falls",
+    "county_fips_all": "48145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

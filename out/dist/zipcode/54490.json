@@ -1,0 +1,20 @@
+{
+    "zip": 54490,
+    "lat": 45.33622,
+    "lng": -90.41102,
+    "city": "Westboro",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 994.0,
+    "density": 3.0,
+    "county_fips": 55119,
+    "county_name": "Taylor",
+    "county_weights": "{\"55119\": 99.49, \"55099\": 0.51}",
+    "county_names_all": "Taylor|Price",
+    "county_fips_all": "55119|55099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 89449,
+    "lat": 38.96433,
+    "lng": -119.90688,
+    "city": "Stateline",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2785.0,
+    "density": 107.2,
+    "county_fips": 32005,
+    "county_name": "Douglas",
+    "county_weights": "{\"32005\": 100}",
+    "county_names_all": "Douglas",
+    "county_fips_all": "32005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

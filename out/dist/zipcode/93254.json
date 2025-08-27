@@ -1,0 +1,20 @@
+{
+    "zip": 93254,
+    "lat": 34.92498,
+    "lng": -119.74834,
+    "city": "New Cuyama",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 794.0,
+    "density": 1.5,
+    "county_fips": 6083,
+    "county_name": "Santa Barbara",
+    "county_weights": "{\"06083\": 91.23, \"06079\": 8.77}",
+    "county_names_all": "Santa Barbara|San Luis Obispo",
+    "county_fips_all": "06083|06079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

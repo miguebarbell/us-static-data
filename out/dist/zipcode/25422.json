@@ -1,0 +1,20 @@
+{
+    "zip": 25422,
+    "lat": 39.55812,
+    "lng": -78.35887,
+    "city": "Great Cacapon",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1720.0,
+    "density": 10.0,
+    "county_fips": 54065,
+    "county_name": "Morgan",
+    "county_weights": "{\"54065\": 95.09, \"54027\": 4.91}",
+    "county_names_all": "Morgan|Hampshire",
+    "county_fips_all": "54065|54027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

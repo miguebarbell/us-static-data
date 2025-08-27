@@ -1,0 +1,20 @@
+{
+    "zip": 42087,
+    "lat": 36.97328,
+    "lng": -89.00323,
+    "city": "Wickliffe",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2369.0,
+    "density": 13.4,
+    "county_fips": 21007,
+    "county_name": "Ballard",
+    "county_weights": "{\"21007\": 100}",
+    "county_names_all": "Ballard",
+    "county_fips_all": "21007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

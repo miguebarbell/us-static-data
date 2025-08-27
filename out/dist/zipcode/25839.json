@@ -1,0 +1,20 @@
+{
+    "zip": 25839,
+    "lat": 37.78091,
+    "lng": -81.38228,
+    "city": "Fairdale",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 453.0,
+    "density": 34.5,
+    "county_fips": 54081,
+    "county_name": "Raleigh",
+    "county_weights": "{\"54081\": 100}",
+    "county_names_all": "Raleigh",
+    "county_fips_all": "54081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 92886,
+    "lat": 33.89517,
+    "lng": -117.80154,
+    "city": "Yorba Linda",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 49919.0,
+    "density": 1486.8,
+    "county_fips": 6059,
+    "county_name": "Orange",
+    "county_weights": "{\"06059\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "06059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

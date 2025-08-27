@@ -1,0 +1,20 @@
+{
+    "zip": 59254,
+    "lat": 48.75753,
+    "lng": -104.61123,
+    "city": "Plentywood",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1845.0,
+    "density": 2.6,
+    "county_fips": 30091,
+    "county_name": "Sheridan",
+    "county_weights": "{\"30091\": 100}",
+    "county_names_all": "Sheridan",
+    "county_fips_all": "30091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 92337,
+    "lat": 34.04967,
+    "lng": -117.47145,
+    "city": "Fontana",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36944.0,
+    "density": 1041.3,
+    "county_fips": 6071,
+    "county_name": "San Bernardino",
+    "county_weights": "{\"06071\": 99.88, \"06065\": 0.12}",
+    "county_names_all": "San Bernardino|Riverside",
+    "county_fips_all": "06071|06065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 59636,
+    "lat": 46.61614,
+    "lng": -112.11399,
+    "city": "Fort Harrison",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29.0,
+    "density": 3.4,
+    "county_fips": 30049,
+    "county_name": "Lewis and Clark",
+    "county_weights": "{\"30049\": 100}",
+    "county_names_all": "Lewis and Clark",
+    "county_fips_all": "30049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

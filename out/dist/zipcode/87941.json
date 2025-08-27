@@ -1,0 +1,20 @@
+{
+    "zip": 87941,
+    "lat": 32.7055,
+    "lng": -107.21424,
+    "city": "Salem",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 899.0,
+    "density": 44.1,
+    "county_fips": 35013,
+    "county_name": "Do\u00f1a Ana",
+    "county_weights": "{\"35013\": 100}",
+    "county_names_all": "Do\u00f1a Ana",
+    "county_fips_all": "35013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

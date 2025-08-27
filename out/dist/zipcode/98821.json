@@ -1,0 +1,20 @@
+{
+    "zip": 98821,
+    "lat": 47.55199,
+    "lng": -120.56155,
+    "city": "Dryden",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 500.0,
+    "density": 146.2,
+    "county_fips": 53007,
+    "county_name": "Chelan",
+    "county_weights": "{\"53007\": 100}",
+    "county_names_all": "Chelan",
+    "county_fips_all": "53007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 99632,
+    "lat": 62.11232,
+    "lng": -163.66455,
+    "city": "Mountain Village",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 872.0,
+    "density": 13.4,
+    "county_fips": 2158,
+    "county_name": "Kusilvak",
+    "county_weights": "{\"02158\": 100}",
+    "county_names_all": "Kusilvak",
+    "county_fips_all": "02158",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Nome"
+}

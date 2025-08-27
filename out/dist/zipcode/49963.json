@@ -1,0 +1,20 @@
+{
+    "zip": 49963,
+    "lat": 47.04897,
+    "lng": -88.64002,
+    "city": "South Range",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 621.0,
+    "density": 54.5,
+    "county_fips": 26061,
+    "county_name": "Houghton",
+    "county_weights": "{\"26061\": 100}",
+    "county_names_all": "Houghton",
+    "county_fips_all": "26061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

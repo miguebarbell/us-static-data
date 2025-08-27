@@ -1,0 +1,20 @@
+{
+    "zip": 94590,
+    "lat": 38.09546,
+    "lng": -122.24986,
+    "city": "Vallejo",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37401.0,
+    "density": 2200.5,
+    "county_fips": 6095,
+    "county_name": "Solano",
+    "county_weights": "{\"06095\": 100}",
+    "county_names_all": "Solano",
+    "county_fips_all": "06095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

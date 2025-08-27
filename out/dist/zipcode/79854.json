@@ -1,0 +1,20 @@
+{
+    "zip": 79854,
+    "lat": 30.6109,
+    "lng": -104.62469,
+    "city": "Valentine",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 124.0,
+    "density": 0.1,
+    "county_fips": 48243,
+    "county_name": "Jeff Davis",
+    "county_weights": "{\"48243\": 68.65, \"48377\": 31.35}",
+    "county_names_all": "Jeff Davis|Presidio",
+    "county_fips_all": "48243|48377",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

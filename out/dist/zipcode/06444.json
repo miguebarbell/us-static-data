@@ -1,0 +1,20 @@
+{
+    "zip": 6444,
+    "lat": 41.5634,
+    "lng": -72.93038,
+    "city": "Marion",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 261.0,
+    "density": 99.0,
+    "county_fips": 9110,
+    "county_name": "Capitol",
+    "county_weights": "{\"09110\": 99.74, \"09140\": 0.26}",
+    "county_names_all": "Capitol|Naugatuck Valley",
+    "county_fips_all": "09110|09140",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

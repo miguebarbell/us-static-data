@@ -1,0 +1,20 @@
+{
+    "zip": 97756,
+    "lat": 44.28079,
+    "lng": -121.19335,
+    "city": "Redmond",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44287.0,
+    "density": 135.3,
+    "county_fips": 41017,
+    "county_name": "Deschutes",
+    "county_weights": "{\"41017\": 83.9, \"41013\": 16.1}",
+    "county_names_all": "Deschutes|Crook",
+    "county_fips_all": "41017|41013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

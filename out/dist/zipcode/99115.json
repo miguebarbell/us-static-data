@@ -1,0 +1,20 @@
+{
+    "zip": 99115,
+    "lat": 47.67326,
+    "lng": -119.38965,
+    "city": "Coulee City",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1306.0,
+    "density": 1.2,
+    "county_fips": 53017,
+    "county_name": "Douglas",
+    "county_weights": "{\"53017\": 65.51, \"53025\": 34.49}",
+    "county_names_all": "Douglas|Grant",
+    "county_fips_all": "53017|53025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

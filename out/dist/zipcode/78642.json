@@ -1,0 +1,20 @@
+{
+    "zip": 78642,
+    "lat": 30.6946,
+    "lng": -97.94087,
+    "city": "Liberty Hill",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24146.0,
+    "density": 83.9,
+    "county_fips": 48491,
+    "county_name": "Williamson",
+    "county_weights": "{\"48491\": 92.0, \"48053\": 8.0}",
+    "county_names_all": "Williamson|Burnet",
+    "county_fips_all": "48491|48053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

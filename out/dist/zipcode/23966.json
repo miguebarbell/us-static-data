@@ -1,0 +1,20 @@
+{
+    "zip": 23966,
+    "lat": 37.29177,
+    "lng": -78.27418,
+    "city": "Rice",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1877.0,
+    "density": 12.2,
+    "county_fips": 51147,
+    "county_name": "Prince Edward",
+    "county_weights": "{\"51147\": 80.02, \"51007\": 18.82, \"51135\": 1.16}",
+    "county_names_all": "Prince Edward|Amelia|Nottoway",
+    "county_fips_all": "51147|51007|51135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

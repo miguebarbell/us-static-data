@@ -1,0 +1,20 @@
+{
+    "zip": 83241,
+    "lat": 42.51527,
+    "lng": -111.76214,
+    "city": "Grace",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2385.0,
+    "density": 4.7,
+    "county_fips": 16029,
+    "county_name": "Caribou",
+    "county_weights": "{\"16029\": 99.9, \"16041\": 0.1}",
+    "county_names_all": "Caribou|Franklin",
+    "county_fips_all": "16029|16041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 46055,
+    "lat": 39.88627,
+    "lng": -85.90404,
+    "city": "Mccordsville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15027.0,
+    "density": 221.0,
+    "county_fips": 18059,
+    "county_name": "Hancock",
+    "county_weights": "{\"18059\": 92.25, \"18057\": 7.75}",
+    "county_names_all": "Hancock|Hamilton",
+    "county_fips_all": "18059|18057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

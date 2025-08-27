@@ -1,0 +1,20 @@
+{
+    "zip": 15946,
+    "lat": 40.37248,
+    "lng": -78.63573,
+    "city": "Portage",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6630.0,
+    "density": 52.4,
+    "county_fips": 42021,
+    "county_name": "Cambria",
+    "county_weights": "{\"42021\": 69.93, \"42013\": 20.64, \"42009\": 9.43}",
+    "county_names_all": "Cambria|Blair|Bedford",
+    "county_fips_all": "42021|42013|42009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43570,
+    "lat": 41.58616,
+    "lng": -84.44116,
+    "city": "West Unity",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2819.0,
+    "density": 24.3,
+    "county_fips": 39171,
+    "county_name": "Williams",
+    "county_weights": "{\"39171\": 93.09, \"39051\": 6.91}",
+    "county_names_all": "Williams|Fulton",
+    "county_fips_all": "39171|39051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

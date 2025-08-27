@@ -1,0 +1,20 @@
+{
+    "zip": 70646,
+    "lat": 30.10767,
+    "lng": -92.92938,
+    "city": "Hayes",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 304.0,
+    "density": 12.1,
+    "county_fips": 22019,
+    "county_name": "Calcasieu",
+    "county_weights": "{\"22019\": 100}",
+    "county_names_all": "Calcasieu",
+    "county_fips_all": "22019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

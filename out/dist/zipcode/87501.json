@@ -1,0 +1,20 @@
+{
+    "zip": 87501,
+    "lat": 35.71273,
+    "lng": -105.86523,
+    "city": "Santa Fe",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15409.0,
+    "density": 117.6,
+    "county_fips": 35049,
+    "county_name": "Santa Fe",
+    "county_weights": "{\"35049\": 100}",
+    "county_names_all": "Santa Fe",
+    "county_fips_all": "35049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

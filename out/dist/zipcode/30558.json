@@ -1,0 +1,20 @@
+{
+    "zip": 30558,
+    "lat": 34.2683,
+    "lng": -83.56787,
+    "city": "Maysville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5562.0,
+    "density": 35.0,
+    "county_fips": 13157,
+    "county_name": "Jackson",
+    "county_weights": "{\"13157\": 53.82, \"13011\": 46.18}",
+    "county_names_all": "Jackson|Banks",
+    "county_fips_all": "13157|13011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

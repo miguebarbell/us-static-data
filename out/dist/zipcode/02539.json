@@ -1,0 +1,20 @@
+{
+    "zip": 2539,
+    "lat": 41.37994,
+    "lng": -70.53227,
+    "city": "Edgartown",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5212.0,
+    "density": 75.1,
+    "county_fips": 25007,
+    "county_name": "Dukes",
+    "county_weights": "{\"25007\": 100}",
+    "county_names_all": "Dukes",
+    "county_fips_all": "25007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

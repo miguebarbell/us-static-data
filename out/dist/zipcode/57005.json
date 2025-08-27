@@ -1,0 +1,20 @@
+{
+    "zip": 57005,
+    "lat": 43.59281,
+    "lng": -96.58728,
+    "city": "Brandon",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12140.0,
+    "density": 95.8,
+    "county_fips": 46099,
+    "county_name": "Minnehaha",
+    "county_weights": "{\"46099\": 100}",
+    "county_names_all": "Minnehaha",
+    "county_fips_all": "46099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

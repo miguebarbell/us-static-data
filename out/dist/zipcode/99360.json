@@ -1,0 +1,20 @@
+{
+    "zip": 99360,
+    "lat": 46.09044,
+    "lng": -118.66745,
+    "city": "Touchet",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1299.0,
+    "density": 3.1,
+    "county_fips": 53071,
+    "county_name": "Walla Walla",
+    "county_weights": "{\"53071\": 100}",
+    "county_names_all": "Walla Walla",
+    "county_fips_all": "53071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

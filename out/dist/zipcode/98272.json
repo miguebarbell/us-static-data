@@ -1,0 +1,20 @@
+{
+    "zip": 98272,
+    "lat": 47.85834,
+    "lng": -121.88457,
+    "city": "Monroe",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32055.0,
+    "density": 116.4,
+    "county_fips": 53061,
+    "county_name": "Snohomish",
+    "county_weights": "{\"53061\": 100}",
+    "county_names_all": "Snohomish",
+    "county_fips_all": "53061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

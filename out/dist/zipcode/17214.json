@@ -1,0 +1,20 @@
+{
+    "zip": 17214,
+    "lat": 39.74811,
+    "lng": -77.47025,
+    "city": "Blue Ridge Summit",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1162.0,
+    "density": 117.7,
+    "county_fips": 42055,
+    "county_name": "Franklin",
+    "county_weights": "{\"42055\": 99.48, \"42001\": 0.52}",
+    "county_names_all": "Franklin|Adams",
+    "county_fips_all": "42055|42001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

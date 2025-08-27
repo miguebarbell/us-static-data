@@ -1,0 +1,20 @@
+{
+    "zip": 44401,
+    "lat": 41.02457,
+    "lng": -80.94658,
+    "city": "Berlin Center",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2565.0,
+    "density": 32.5,
+    "county_fips": 39099,
+    "county_name": "Mahoning",
+    "county_weights": "{\"39099\": 100}",
+    "county_names_all": "Mahoning",
+    "county_fips_all": "39099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

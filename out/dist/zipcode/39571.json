@@ -1,0 +1,20 @@
+{
+    "zip": 39571,
+    "lat": 30.41662,
+    "lng": -89.28125,
+    "city": "Pass Christian",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13942.0,
+    "density": 62.6,
+    "county_fips": 28047,
+    "county_name": "Harrison",
+    "county_weights": "{\"28047\": 95.71, \"28045\": 4.29}",
+    "county_names_all": "Harrison|Hancock",
+    "county_fips_all": "28047|28045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

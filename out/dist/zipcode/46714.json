@@ -1,0 +1,20 @@
+{
+    "zip": 46714,
+    "lat": 40.71774,
+    "lng": -85.17319,
+    "city": "Bluffton",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15257.0,
+    "density": 44.3,
+    "county_fips": 18179,
+    "county_name": "Wells",
+    "county_weights": "{\"18179\": 92.16, \"18001\": 7.84}",
+    "county_names_all": "Wells|Adams",
+    "county_fips_all": "18179|18001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

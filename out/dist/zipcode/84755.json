@@ -1,0 +1,20 @@
+{
+    "zip": 84755,
+    "lat": 37.22652,
+    "lng": -112.78532,
+    "city": "Mount Carmel",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28.0,
+    "density": 0.2,
+    "county_fips": 49025,
+    "county_name": "Kane",
+    "county_weights": "{\"49025\": 100}",
+    "county_names_all": "Kane",
+    "county_fips_all": "49025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

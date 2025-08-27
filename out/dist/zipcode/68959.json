@@ -1,0 +1,20 @@
+{
+    "zip": 68959,
+    "lat": 40.49009,
+    "lng": -98.91487,
+    "city": "Minden",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3966.0,
+    "density": 6.1,
+    "county_fips": 31099,
+    "county_name": "Kearney",
+    "county_weights": "{\"31099\": 100}",
+    "county_names_all": "Kearney",
+    "county_fips_all": "31099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

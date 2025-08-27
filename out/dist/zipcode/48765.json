@@ -1,0 +1,20 @@
+{
+    "zip": 48765,
+    "lat": 44.15367,
+    "lng": -83.71885,
+    "city": "Turner",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 571.0,
+    "density": 3.8,
+    "county_fips": 26011,
+    "county_name": "Arenac",
+    "county_weights": "{\"26011\": 60.38, \"26069\": 39.62}",
+    "county_names_all": "Arenac|Iosco",
+    "county_fips_all": "26011|26069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

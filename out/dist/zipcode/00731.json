@@ -1,0 +1,20 @@
+{
+    "zip": 731,
+    "lat": 18.09914,
+    "lng": -66.63279,
+    "city": "Ponce",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10221.0,
+    "density": 80.6,
+    "county_fips": 72113,
+    "county_name": "Ponce",
+    "county_weights": "{\"72113\": 97.11, \"72001\": 2.89}",
+    "county_names_all": "Ponce|Adjuntas",
+    "county_fips_all": "72113|72001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

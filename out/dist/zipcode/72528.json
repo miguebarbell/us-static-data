@@ -1,0 +1,20 @@
+{
+    "zip": 72528,
+    "lat": 36.23816,
+    "lng": -92.115,
+    "city": "Dolph",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 264.0,
+    "density": 6.6,
+    "county_fips": 5065,
+    "county_name": "Izard",
+    "county_weights": "{\"05065\": 99.9, \"05005\": 0.1}",
+    "county_names_all": "Izard|Baxter",
+    "county_fips_all": "05065|05005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

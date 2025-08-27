@@ -1,0 +1,20 @@
+{
+    "zip": 68644,
+    "lat": 41.7079,
+    "lng": -97.67579,
+    "city": "Lindsay",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 771.0,
+    "density": 3.2,
+    "county_fips": 31141,
+    "county_name": "Platte",
+    "county_weights": "{\"31141\": 71.19, \"31119\": 28.81}",
+    "county_names_all": "Platte|Madison",
+    "county_fips_all": "31141|31119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 23059,
+    "lat": 37.70424,
+    "lng": -77.56539,
+    "city": "Glen Allen",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41172.0,
+    "density": 346.9,
+    "county_fips": 51085,
+    "county_name": "Hanover",
+    "county_weights": "{\"51085\": 59.08, \"51087\": 39.08, \"51075\": 1.84}",
+    "county_names_all": "Hanover|Henrico|Goochland",
+    "county_fips_all": "51085|51087|51075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

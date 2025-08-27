@@ -1,0 +1,20 @@
+{
+    "zip": 35179,
+    "lat": 34.27004,
+    "lng": -86.96847,
+    "city": "Vinemont",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8957.0,
+    "density": 37.1,
+    "county_fips": 1043,
+    "county_name": "Cullman",
+    "county_weights": "{\"01043\": 91.05, \"01133\": 4.55, \"01103\": 4.4}",
+    "county_names_all": "Cullman|Winston|Morgan",
+    "county_fips_all": "01043|01133|01103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

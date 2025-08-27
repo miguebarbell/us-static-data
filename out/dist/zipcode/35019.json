@@ -1,0 +1,20 @@
+{
+    "zip": 35019,
+    "lat": 34.29828,
+    "lng": -86.63496,
+    "city": "Baileyton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2497.0,
+    "density": 34.1,
+    "county_fips": 1043,
+    "county_name": "Cullman",
+    "county_weights": "{\"01043\": 63.28, \"01103\": 36.72}",
+    "county_names_all": "Cullman|Morgan",
+    "county_fips_all": "01043|01103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

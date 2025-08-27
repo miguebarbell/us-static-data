@@ -1,0 +1,20 @@
+{
+    "zip": 64653,
+    "lat": 39.89403,
+    "lng": -93.20403,
+    "city": "Linneus",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 533.0,
+    "density": 2.6,
+    "county_fips": 29115,
+    "county_name": "Linn",
+    "county_weights": "{\"29115\": 100}",
+    "county_names_all": "Linn",
+    "county_fips_all": "29115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

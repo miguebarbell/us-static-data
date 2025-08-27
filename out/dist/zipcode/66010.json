@@ -1,0 +1,20 @@
+{
+    "zip": 66010,
+    "lat": 38.09231,
+    "lng": -94.98853,
+    "city": "Blue Mound",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 539.0,
+    "density": 2.3,
+    "county_fips": 20107,
+    "county_name": "Linn",
+    "county_weights": "{\"20107\": 93.66, \"20011\": 6.34}",
+    "county_names_all": "Linn|Bourbon",
+    "county_fips_all": "20107|20011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

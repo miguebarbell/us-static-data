@@ -1,0 +1,20 @@
+{
+    "zip": 44052,
+    "lat": 41.45519,
+    "lng": -82.16133,
+    "city": "Lorain",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28067.0,
+    "density": 1141.0,
+    "county_fips": 39093,
+    "county_name": "Lorain",
+    "county_weights": "{\"39093\": 100}",
+    "county_names_all": "Lorain",
+    "county_fips_all": "39093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

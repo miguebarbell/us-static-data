@@ -1,0 +1,20 @@
+{
+    "zip": 55367,
+    "lat": 44.89142,
+    "lng": -93.97499,
+    "city": "New Germany",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1086.0,
+    "density": 21.7,
+    "county_fips": 27019,
+    "county_name": "Carver",
+    "county_weights": "{\"27019\": 100}",
+    "county_names_all": "Carver",
+    "county_fips_all": "27019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

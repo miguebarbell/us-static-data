@@ -1,0 +1,20 @@
+{
+    "zip": 79255,
+    "lat": 34.36113,
+    "lng": -101.04924,
+    "city": "Quitaque",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 448.0,
+    "density": 1.0,
+    "county_fips": 48045,
+    "county_name": "Briscoe",
+    "county_weights": "{\"48045\": 72.06, \"48153\": 22.54, \"48345\": 5.4}",
+    "county_names_all": "Briscoe|Floyd|Motley",
+    "county_fips_all": "48045|48153|48345",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

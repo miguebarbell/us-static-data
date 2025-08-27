@@ -1,0 +1,20 @@
+{
+    "zip": 30436,
+    "lat": 32.1494,
+    "lng": -82.29026,
+    "city": "Lyons",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11547.0,
+    "density": 15.8,
+    "county_fips": 13279,
+    "county_name": "Toombs",
+    "county_weights": "{\"13279\": 80.88, \"13107\": 16.63, \"13267\": 2.1, \"13283\": 0.39}",
+    "county_names_all": "Toombs|Emanuel|Tattnall|Treutlen",
+    "county_fips_all": "13279|13107|13267|13283",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

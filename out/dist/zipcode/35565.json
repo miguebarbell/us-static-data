@@ -1,0 +1,20 @@
+{
+    "zip": 35565,
+    "lat": 34.23555,
+    "lng": -87.56309,
+    "city": "Haleyville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10815.0,
+    "density": 14.9,
+    "county_fips": 1133,
+    "county_name": "Winston",
+    "county_weights": "{\"01133\": 53.44, \"01093\": 23.12, \"01079\": 17.53, \"01059\": 5.91}",
+    "county_names_all": "Winston|Marion|Lawrence|Franklin",
+    "county_fips_all": "01133|01093|01079|01059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

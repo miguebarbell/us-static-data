@@ -1,0 +1,20 @@
+{
+    "zip": 57317,
+    "lat": 43.13153,
+    "lng": -98.97891,
+    "city": "Bonesteel",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 621.0,
+    "density": 1.5,
+    "county_fips": 46053,
+    "county_name": "Gregory",
+    "county_weights": "{\"46053\": 100}",
+    "county_names_all": "Gregory",
+    "county_fips_all": "46053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

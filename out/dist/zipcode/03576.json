@@ -1,0 +1,20 @@
+{
+    "zip": 3576,
+    "lat": 44.89839,
+    "lng": -71.37178,
+    "city": "Colebrook",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2740.0,
+    "density": 6.3,
+    "county_fips": 33007,
+    "county_name": "Coos",
+    "county_weights": "{\"33007\": 100}",
+    "county_names_all": "Coos",
+    "county_fips_all": "33007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

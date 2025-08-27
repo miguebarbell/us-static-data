@@ -1,0 +1,20 @@
+{
+    "zip": 42127,
+    "lat": 37.12167,
+    "lng": -85.92746,
+    "city": "Cave City",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6356.0,
+    "density": 27.3,
+    "county_fips": 21009,
+    "county_name": "Barren",
+    "county_weights": "{\"21009\": 85.18, \"21099\": 14.82}",
+    "county_names_all": "Barren|Hart",
+    "county_fips_all": "21009|21099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

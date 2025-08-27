@@ -1,0 +1,20 @@
+{
+    "zip": 55315,
+    "lat": 44.71731,
+    "lng": -93.68347,
+    "city": "Carver",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7034.0,
+    "density": 99.0,
+    "county_fips": 27019,
+    "county_name": "Carver",
+    "county_weights": "{\"27019\": 99.67, \"27139\": 0.33}",
+    "county_names_all": "Carver|Scott",
+    "county_fips_all": "27019|27139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

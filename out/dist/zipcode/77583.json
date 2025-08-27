@@ -1,0 +1,20 @@
+{
+    "zip": 77583,
+    "lat": 29.37763,
+    "lng": -95.4585,
+    "city": "Rosharon",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 47646.0,
+    "density": 105.6,
+    "county_fips": 48039,
+    "county_name": "Brazoria",
+    "county_weights": "{\"48039\": 91.49, \"48157\": 8.51}",
+    "county_names_all": "Brazoria|Fort Bend",
+    "county_fips_all": "48039|48157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

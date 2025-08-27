@@ -1,0 +1,20 @@
+{
+    "zip": 15761,
+    "lat": 40.63399,
+    "lng": -78.89019,
+    "city": "Mentcle",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 145.0,
+    "density": 147.4,
+    "county_fips": 42063,
+    "county_name": "Indiana",
+    "county_weights": "{\"42063\": 100}",
+    "county_names_all": "Indiana",
+    "county_fips_all": "42063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

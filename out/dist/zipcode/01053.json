@@ -1,0 +1,20 @@
+{
+    "zip": 1053,
+    "lat": 42.35205,
+    "lng": -72.71032,
+    "city": "Leeds",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2033.0,
+    "density": 136.5,
+    "county_fips": 25015,
+    "county_name": "Hampshire",
+    "county_weights": "{\"25015\": 100}",
+    "county_names_all": "Hampshire",
+    "county_fips_all": "25015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

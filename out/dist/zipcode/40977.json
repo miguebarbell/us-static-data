@@ -1,0 +1,20 @@
+{
+    "zip": 40977,
+    "lat": 36.72332,
+    "lng": -83.72867,
+    "city": "Pineville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8218.0,
+    "density": 23.7,
+    "county_fips": 21013,
+    "county_name": "Bell",
+    "county_weights": "{\"21013\": 100}",
+    "county_names_all": "Bell",
+    "county_fips_all": "21013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

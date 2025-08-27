@@ -1,0 +1,20 @@
+{
+    "zip": 45068,
+    "lat": 39.52813,
+    "lng": -84.05922,
+    "city": "Waynesville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11606.0,
+    "density": 63.5,
+    "county_fips": 39165,
+    "county_name": "Warren",
+    "county_weights": "{\"39165\": 88.62, \"39057\": 9.46, \"39027\": 1.92}",
+    "county_names_all": "Warren|Greene|Clinton",
+    "county_fips_all": "39165|39057|39027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,15 @@
+{
+    "zip": [
+        "77801",
+        "77802",
+        "77803",
+        "77807",
+        "77808"
+    ],
+    "city": "Bryan",
+    "state": "TX",
+    "lat": 36.49167,
+    "lng": -101.79265,
+    "state_name": "Texas",
+    "timezone": "America/Chicago"
+}

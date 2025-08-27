@@ -1,0 +1,20 @@
+{
+    "zip": 24228,
+    "lat": 37.17047,
+    "lng": -82.44963,
+    "city": "Clintwood",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6336.0,
+    "density": 26.5,
+    "county_fips": 51051,
+    "county_name": "Dickenson",
+    "county_weights": "{\"51051\": 100}",
+    "county_names_all": "Dickenson",
+    "county_fips_all": "51051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

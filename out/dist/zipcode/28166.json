@@ -1,0 +1,20 @@
+{
+    "zip": 28166,
+    "lat": 35.68025,
+    "lng": -80.87528,
+    "city": "Troutman",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11009.0,
+    "density": 146.6,
+    "county_fips": 37097,
+    "county_name": "Iredell",
+    "county_weights": "{\"37097\": 100}",
+    "county_names_all": "Iredell",
+    "county_fips_all": "37097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

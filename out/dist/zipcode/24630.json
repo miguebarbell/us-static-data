@@ -1,0 +1,20 @@
+{
+    "zip": 24630,
+    "lat": 37.17292,
+    "lng": -81.4782,
+    "city": "North Tazewell",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5920.0,
+    "density": 34.3,
+    "county_fips": 51185,
+    "county_name": "Tazewell",
+    "county_weights": "{\"51185\": 100}",
+    "county_names_all": "Tazewell",
+    "county_fips_all": "51185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

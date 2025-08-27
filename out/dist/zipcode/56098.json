@@ -1,0 +1,20 @@
+{
+    "zip": 56098,
+    "lat": 43.77565,
+    "lng": -94.18528,
+    "city": "Winnebago",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1946.0,
+    "density": 6.7,
+    "county_fips": 27043,
+    "county_name": "Faribault",
+    "county_weights": "{\"27043\": 80.87, \"27091\": 19.13}",
+    "county_names_all": "Faribault|Martin",
+    "county_fips_all": "27043|27091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 67485,
+    "lat": 39.31474,
+    "lng": -98.49492,
+    "city": "Tipton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 349.0,
+    "density": 1.2,
+    "county_fips": 20141,
+    "county_name": "Osborne",
+    "county_weights": "{\"20141\": 51.54, \"20123\": 48.46}",
+    "county_names_all": "Osborne|Mitchell",
+    "county_fips_all": "20141|20123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

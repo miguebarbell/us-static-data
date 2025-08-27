@@ -1,0 +1,20 @@
+{
+    "zip": 47467,
+    "lat": 38.76776,
+    "lng": -86.34463,
+    "city": "Tunnelton",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 18093,
+    "county_name": "Lawrence",
+    "county_weights": "{\"18093\": 100}",
+    "county_names_all": "Lawrence",
+    "county_fips_all": "18093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

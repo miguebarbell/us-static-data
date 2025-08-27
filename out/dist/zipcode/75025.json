@@ -1,0 +1,20 @@
+{
+    "zip": 75025,
+    "lat": 33.09057,
+    "lng": -96.74061,
+    "city": "Plano",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 53352.0,
+    "density": 2156.2,
+    "county_fips": 48085,
+    "county_name": "Collin",
+    "county_weights": "{\"48085\": 100}",
+    "county_names_all": "Collin",
+    "county_fips_all": "48085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

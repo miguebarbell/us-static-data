@@ -1,0 +1,20 @@
+{
+    "zip": 93013,
+    "lat": 34.42697,
+    "lng": -119.48032,
+    "city": "Carpinteria",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16348.0,
+    "density": 152.5,
+    "county_fips": 6083,
+    "county_name": "Santa Barbara",
+    "county_weights": "{\"06083\": 74.7, \"06111\": 25.3}",
+    "county_names_all": "Santa Barbara|Ventura",
+    "county_fips_all": "06083|06111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 42370,
+    "lat": 37.4497,
+    "lng": -86.74121,
+    "city": "Rosine",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40.0,
+    "density": 112.0,
+    "county_fips": 21183,
+    "county_name": "Ohio",
+    "county_weights": "{\"21183\": 100}",
+    "county_names_all": "Ohio",
+    "county_fips_all": "21183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

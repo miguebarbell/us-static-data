@@ -1,0 +1,20 @@
+{
+    "zip": 71033,
+    "lat": 32.44121,
+    "lng": -94.00364,
+    "city": "Greenwood",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3366.0,
+    "density": 43.9,
+    "county_fips": 22017,
+    "county_name": "Caddo",
+    "county_weights": "{\"22017\": 100}",
+    "county_names_all": "Caddo",
+    "county_fips_all": "22017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 57039,
+    "lat": 43.33659,
+    "lng": -96.86755,
+    "city": "Lennox",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3875.0,
+    "density": 16.3,
+    "county_fips": 46083,
+    "county_name": "Lincoln",
+    "county_weights": "{\"46083\": 92.11, \"46125\": 7.89}",
+    "county_names_all": "Lincoln|Turner",
+    "county_fips_all": "46083|46125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

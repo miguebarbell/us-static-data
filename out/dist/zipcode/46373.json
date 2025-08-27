@@ -1,0 +1,20 @@
+{
+    "zip": 46373,
+    "lat": 41.44578,
+    "lng": -87.46954,
+    "city": "Saint John",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18509.0,
+    "density": 656.7,
+    "county_fips": 18089,
+    "county_name": "Lake",
+    "county_weights": "{\"18089\": 100}",
+    "county_names_all": "Lake",
+    "county_fips_all": "18089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

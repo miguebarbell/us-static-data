@@ -1,0 +1,20 @@
+{
+    "zip": 33947,
+    "lat": 26.89015,
+    "lng": -82.27184,
+    "city": "Rotonda West",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10490.0,
+    "density": 304.6,
+    "county_fips": 12015,
+    "county_name": "Charlotte",
+    "county_weights": "{\"12015\": 100}",
+    "county_names_all": "Charlotte",
+    "county_fips_all": "12015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

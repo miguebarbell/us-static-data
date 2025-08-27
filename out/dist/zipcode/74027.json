@@ -1,0 +1,20 @@
+{
+    "zip": 74027,
+    "lat": 36.80285,
+    "lng": -95.58628,
+    "city": "Delaware",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 848.0,
+    "density": 3.4,
+    "county_fips": 40105,
+    "county_name": "Nowata",
+    "county_weights": "{\"40105\": 100}",
+    "county_names_all": "Nowata",
+    "county_fips_all": "40105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

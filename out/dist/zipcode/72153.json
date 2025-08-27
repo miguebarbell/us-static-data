@@ -1,0 +1,20 @@
+{
+    "zip": 72153,
+    "lat": 35.65651,
+    "lng": -92.31988,
+    "city": "Shirley",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3982.0,
+    "density": 15.3,
+    "county_fips": 5141,
+    "county_name": "Van Buren",
+    "county_weights": "{\"05141\": 78.65, \"05137\": 15.13, \"05023\": 6.22}",
+    "county_names_all": "Van Buren|Stone|Cleburne",
+    "county_fips_all": "05141|05137|05023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

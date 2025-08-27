@@ -1,0 +1,20 @@
+{
+    "zip": 83442,
+    "lat": 43.62931,
+    "lng": -111.82507,
+    "city": "Rigby",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24829.0,
+    "density": 74.1,
+    "county_fips": 16051,
+    "county_name": "Jefferson",
+    "county_weights": "{\"16051\": 71.59, \"16019\": 28.41}",
+    "county_names_all": "Jefferson|Bonneville",
+    "county_fips_all": "16051|16019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

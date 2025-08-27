@@ -1,0 +1,20 @@
+{
+    "zip": 24401,
+    "lat": 38.13257,
+    "lng": -79.08846,
+    "city": "Staunton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37720.0,
+    "density": 110.0,
+    "county_fips": 51015,
+    "county_name": "Augusta",
+    "county_weights": "{\"51015\": 85.0, \"51790\": 15.0}",
+    "county_names_all": "Augusta|Staunton",
+    "county_fips_all": "51015|51790",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

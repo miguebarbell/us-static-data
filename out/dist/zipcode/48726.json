@@ -1,0 +1,20 @@
+{
+    "zip": 48726,
+    "lat": 43.60776,
+    "lng": -83.16833,
+    "city": "Cass City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5715.0,
+    "density": 17.3,
+    "county_fips": 26157,
+    "county_name": "Tuscola",
+    "county_weights": "{\"26157\": 64.79, \"26151\": 26.26, \"26063\": 8.95}",
+    "county_names_all": "Tuscola|Sanilac|Huron",
+    "county_fips_all": "26157|26151|26063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

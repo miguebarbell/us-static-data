@@ -1,0 +1,20 @@
+{
+    "zip": 15049,
+    "lat": 40.55545,
+    "lng": -79.80366,
+    "city": "Harwick",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 919.0,
+    "density": 632.9,
+    "county_fips": 42003,
+    "county_name": "Allegheny",
+    "county_weights": "{\"42003\": 100}",
+    "county_names_all": "Allegheny",
+    "county_fips_all": "42003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

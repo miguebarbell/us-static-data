@@ -1,0 +1,20 @@
+{
+    "zip": 76937,
+    "lat": 31.39109,
+    "lng": -100.15025,
+    "city": "Eola",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 267.0,
+    "density": 5.4,
+    "county_fips": 48451,
+    "county_name": "Tom Green",
+    "county_weights": "{\"48451\": 80.39, \"48095\": 19.61}",
+    "county_names_all": "Tom Green|Concho",
+    "county_fips_all": "48451|48095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 64670,
+    "lat": 40.04986,
+    "lng": -94.13833,
+    "city": "Pattonsburg",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 995.0,
+    "density": 3.0,
+    "county_fips": 29061,
+    "county_name": "Daviess",
+    "county_weights": "{\"29061\": 78.04, \"29063\": 12.11, \"29075\": 5.16, \"29081\": 4.69}",
+    "county_names_all": "Daviess|DeKalb|Gentry|Harrison",
+    "county_fips_all": "29061|29063|29075|29081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

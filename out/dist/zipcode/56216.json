@@ -1,0 +1,20 @@
+{
+    "zip": 56216,
+    "lat": 44.93886,
+    "lng": -95.05532,
+    "city": "Blomkest",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 611.0,
+    "density": 6.2,
+    "county_fips": 27067,
+    "county_name": "Kandiyohi",
+    "county_weights": "{\"27067\": 100}",
+    "county_names_all": "Kandiyohi",
+    "county_fips_all": "27067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

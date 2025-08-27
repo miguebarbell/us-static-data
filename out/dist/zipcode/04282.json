@@ -1,0 +1,20 @@
+{
+    "zip": 4282,
+    "lat": 44.26709,
+    "lng": -70.24291,
+    "city": "Turner",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5852.0,
+    "density": 38.1,
+    "county_fips": 23001,
+    "county_name": "Androscoggin",
+    "county_weights": "{\"23001\": 100}",
+    "county_names_all": "Androscoggin",
+    "county_fips_all": "23001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

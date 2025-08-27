@@ -1,0 +1,20 @@
+{
+    "zip": 51033,
+    "lat": 42.91653,
+    "lng": -95.25324,
+    "city": "Linn Grove",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 396.0,
+    "density": 2.5,
+    "county_fips": 19041,
+    "county_name": "Clay",
+    "county_weights": "{\"19041\": 50.11, \"19021\": 49.89}",
+    "county_names_all": "Clay|Buena Vista",
+    "county_fips_all": "19041|19021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 32145,
+    "lat": 29.67899,
+    "lng": -81.41973,
+    "city": "Hastings",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5750.0,
+    "density": 24.8,
+    "county_fips": 12109,
+    "county_name": "St. Johns",
+    "county_weights": "{\"12109\": 99.35, \"12107\": 0.65}",
+    "county_names_all": "St. Johns|Putnam",
+    "county_fips_all": "12109|12107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

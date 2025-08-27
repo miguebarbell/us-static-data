@@ -1,0 +1,20 @@
+{
+    "zip": 56210,
+    "lat": 45.55739,
+    "lng": -96.55958,
+    "city": "Barry",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4.0,
+    "density": 8.6,
+    "county_fips": 27011,
+    "county_name": "Big Stone",
+    "county_weights": "{\"27011\": 100}",
+    "county_names_all": "Big Stone",
+    "county_fips_all": "27011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

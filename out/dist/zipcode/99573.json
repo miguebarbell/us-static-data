@@ -1,0 +1,20 @@
+{
+    "zip": 99573,
+    "lat": 61.60036,
+    "lng": -145.92446,
+    "city": "Copper Center",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 832.0,
+    "density": 0.1,
+    "county_fips": 2066,
+    "county_name": "Copper River",
+    "county_weights": "{\"02066\": 100}",
+    "county_names_all": "Copper River",
+    "county_fips_all": "02066",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

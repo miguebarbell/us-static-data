@@ -1,0 +1,20 @@
+{
+    "zip": 24976,
+    "lat": 37.66513,
+    "lng": -80.52273,
+    "city": "Sinks Grove",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 871.0,
+    "density": 9.0,
+    "county_fips": 54063,
+    "county_name": "Monroe",
+    "county_weights": "{\"54063\": 90.36, \"54025\": 9.64}",
+    "county_names_all": "Monroe|Greenbrier",
+    "county_fips_all": "54063|54025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

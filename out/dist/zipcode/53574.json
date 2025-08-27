@@ -1,0 +1,20 @@
+{
+    "zip": 53574,
+    "lat": 42.81851,
+    "lng": -89.65181,
+    "city": "New Glarus",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4120.0,
+    "density": 36.6,
+    "county_fips": 55045,
+    "county_name": "Green",
+    "county_weights": "{\"55045\": 97.41, \"55025\": 2.59}",
+    "county_names_all": "Green|Dane",
+    "county_fips_all": "55045|55025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 39470,
+    "lat": 30.81602,
+    "lng": -89.57581,
+    "city": "Poplarville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12872.0,
+    "density": 11.6,
+    "county_fips": 28109,
+    "county_name": "Pearl River",
+    "county_weights": "{\"28109\": 98.8, \"28045\": 1.08, \"28131\": 0.12}",
+    "county_names_all": "Pearl River|Hancock|Stone",
+    "county_fips_all": "28109|28045|28131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 14843,
+    "lat": 42.32819,
+    "lng": -77.64371,
+    "city": "Hornell",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12452.0,
+    "density": 50.2,
+    "county_fips": 36101,
+    "county_name": "Steuben",
+    "county_weights": "{\"36101\": 96.34, \"36003\": 3.66}",
+    "county_names_all": "Steuben|Allegany",
+    "county_fips_all": "36101|36003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 37879,
+    "lat": 36.48403,
+    "lng": -83.48705,
+    "city": "Tazewell",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11833.0,
+    "density": 26.1,
+    "county_fips": 47025,
+    "county_name": "Claiborne",
+    "county_weights": "{\"47025\": 80.38, \"47067\": 19.62}",
+    "county_names_all": "Claiborne|Hancock",
+    "county_fips_all": "47025|47067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

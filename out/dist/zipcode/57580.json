@@ -1,0 +1,20 @@
+{
+    "zip": 57580,
+    "lat": 43.28987,
+    "lng": -100.05772,
+    "city": "Winner",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4271.0,
+    "density": 1.6,
+    "county_fips": 46123,
+    "county_name": "Tripp",
+    "county_weights": "{\"46123\": 79.66, \"46121\": 17.1, \"46095\": 3.24}",
+    "county_names_all": "Tripp|Todd|Mellette",
+    "county_fips_all": "46123|46121|46095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

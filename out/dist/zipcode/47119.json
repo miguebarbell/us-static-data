@@ -1,0 +1,20 @@
+{
+    "zip": 47119,
+    "lat": 38.36699,
+    "lng": -85.88217,
+    "city": "Floyds Knobs",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11748.0,
+    "density": 108.7,
+    "county_fips": 18043,
+    "county_name": "Floyd",
+    "county_weights": "{\"18043\": 86.19, \"18019\": 13.81}",
+    "county_names_all": "Floyd|Clark",
+    "county_fips_all": "18043|18019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Kentucky/Louisville"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 67758,
+    "lat": 38.89658,
+    "lng": -101.7842,
+    "city": "Sharon Springs",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1059.0,
+    "density": 0.9,
+    "county_fips": 20199,
+    "county_name": "Wallace",
+    "county_weights": "{\"20199\": 100}",
+    "county_names_all": "Wallace",
+    "county_fips_all": "20199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 70395,
+    "lat": 29.69309,
+    "lng": -90.8513,
+    "city": "Schriever",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4266.0,
+    "density": 33.7,
+    "county_fips": 22109,
+    "county_name": "Terrebonne",
+    "county_weights": "{\"22109\": 100}",
+    "county_names_all": "Terrebonne",
+    "county_fips_all": "22109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

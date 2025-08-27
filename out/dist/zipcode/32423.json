@@ -1,0 +1,20 @@
+{
+    "zip": 32423,
+    "lat": 30.94496,
+    "lng": -85.06073,
+    "city": "Bascom",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 886.0,
+    "density": 5.1,
+    "county_fips": 12063,
+    "county_name": "Jackson",
+    "county_weights": "{\"12063\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "12063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

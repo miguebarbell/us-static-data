@@ -1,0 +1,20 @@
+{
+    "zip": 49428,
+    "lat": 42.92042,
+    "lng": -85.83712,
+    "city": "Jenison",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28090.0,
+    "density": 675.2,
+    "county_fips": 26139,
+    "county_name": "Ottawa",
+    "county_weights": "{\"26139\": 100}",
+    "county_names_all": "Ottawa",
+    "county_fips_all": "26139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

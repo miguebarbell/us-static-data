@@ -1,0 +1,20 @@
+{
+    "zip": 23086,
+    "lat": 37.66296,
+    "lng": -77.05394,
+    "city": "King William",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3560.0,
+    "density": 16.6,
+    "county_fips": 51101,
+    "county_name": "King William",
+    "county_weights": "{\"51101\": 100}",
+    "county_names_all": "King William",
+    "county_fips_all": "51101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

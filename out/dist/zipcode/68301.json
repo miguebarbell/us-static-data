@@ -1,0 +1,20 @@
+{
+    "zip": 68301,
+    "lat": 40.46847,
+    "lng": -96.52244,
+    "city": "Adams",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1388.0,
+    "density": 5.0,
+    "county_fips": 31067,
+    "county_name": "Gage",
+    "county_weights": "{\"31067\": 76.76, \"31109\": 17.11, \"31131\": 6.13}",
+    "county_names_all": "Gage|Lancaster|Otoe",
+    "county_fips_all": "31067|31109|31131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 50211,
+    "lat": 41.45614,
+    "lng": -93.6887,
+    "city": "Norwalk",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16222.0,
+    "density": 106.9,
+    "county_fips": 19181,
+    "county_name": "Warren",
+    "county_weights": "{\"19181\": 95.92, \"19121\": 4.08}",
+    "county_names_all": "Warren|Madison",
+    "county_fips_all": "19181|19121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

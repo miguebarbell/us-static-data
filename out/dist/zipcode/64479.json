@@ -1,0 +1,20 @@
+{
+    "zip": 64479,
+    "lat": 40.34853,
+    "lng": -94.66636,
+    "city": "Ravenwood",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1117.0,
+    "density": 6.6,
+    "county_fips": 29147,
+    "county_name": "Nodaway",
+    "county_weights": "{\"29147\": 84.26, \"29075\": 15.74}",
+    "county_names_all": "Nodaway|Gentry",
+    "county_fips_all": "29147|29075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 57063,
+    "lat": 42.92483,
+    "lng": -97.68668,
+    "city": "Tabor",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 814.0,
+    "density": 3.4,
+    "county_fips": 46009,
+    "county_name": "Bon Homme",
+    "county_weights": "{\"46009\": 79.93, \"46135\": 20.07}",
+    "county_names_all": "Bon Homme|Yankton",
+    "county_fips_all": "46009|46135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

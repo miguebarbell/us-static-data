@@ -1,0 +1,20 @@
+{
+    "zip": 646,
+    "lat": 18.43251,
+    "lng": -66.28429,
+    "city": "Dorado",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36099.0,
+    "density": 662.1,
+    "county_fips": 72051,
+    "county_name": "Dorado",
+    "county_weights": "{\"72051\": 97.18, \"72143\": 2.82}",
+    "county_names_all": "Dorado|Vega Alta",
+    "county_fips_all": "72051|72143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

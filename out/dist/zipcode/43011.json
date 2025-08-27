@@ -1,0 +1,20 @@
+{
+    "zip": 43011,
+    "lat": 40.30946,
+    "lng": -82.68456,
+    "city": "Centerburg",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6978.0,
+    "density": 33.7,
+    "county_fips": 39083,
+    "county_name": "Knox",
+    "county_weights": "{\"39083\": 51.72, \"39089\": 19.3, \"39117\": 15.37, \"39041\": 13.61}",
+    "county_names_all": "Knox|Licking|Morrow|Delaware",
+    "county_fips_all": "39083|39089|39117|39041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

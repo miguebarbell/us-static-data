@@ -1,0 +1,20 @@
+{
+    "zip": 21102,
+    "lat": 39.68732,
+    "lng": -76.84564,
+    "city": "Manchester",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12176.0,
+    "density": 115.7,
+    "county_fips": 24013,
+    "county_name": "Carroll",
+    "county_weights": "{\"24013\": 75.65, \"24005\": 24.35}",
+    "county_names_all": "Carroll|Baltimore",
+    "county_fips_all": "24013|24005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

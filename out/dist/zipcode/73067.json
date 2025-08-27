@@ -1,0 +1,20 @@
+{
+    "zip": 73067,
+    "lat": 34.90315,
+    "lng": -97.90612,
+    "city": "Ninnekah",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1778.0,
+    "density": 5.6,
+    "county_fips": 40051,
+    "county_name": "Grady",
+    "county_weights": "{\"40051\": 100}",
+    "county_names_all": "Grady",
+    "county_fips_all": "40051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

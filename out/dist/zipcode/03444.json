@@ -1,0 +1,20 @@
+{
+    "zip": 3444,
+    "lat": 42.89403,
+    "lng": -72.07178,
+    "city": "Dublin",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1614.0,
+    "density": 22.5,
+    "county_fips": 33005,
+    "county_name": "Cheshire",
+    "county_weights": "{\"33005\": 100}",
+    "county_names_all": "Cheshire",
+    "county_fips_all": "33005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

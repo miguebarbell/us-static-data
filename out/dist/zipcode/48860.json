@@ -1,0 +1,20 @@
+{
+    "zip": 48860,
+    "lat": 43.05089,
+    "lng": -84.90939,
+    "city": "Muir",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1395.0,
+    "density": 19.1,
+    "county_fips": 26067,
+    "county_name": "Ionia",
+    "county_weights": "{\"26067\": 100}",
+    "county_names_all": "Ionia",
+    "county_fips_all": "26067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

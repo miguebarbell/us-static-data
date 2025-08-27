@@ -1,0 +1,20 @@
+{
+    "zip": 91311,
+    "lat": 34.29011,
+    "lng": -118.60776,
+    "city": "Chatsworth",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40557.0,
+    "density": 480.9,
+    "county_fips": 6037,
+    "county_name": "Los Angeles",
+    "county_weights": "{\"06037\": 96.78, \"06111\": 3.22}",
+    "county_names_all": "Los Angeles|Ventura",
+    "county_fips_all": "06037|06111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

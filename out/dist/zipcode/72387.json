@@ -1,0 +1,20 @@
+{
+    "zip": 72387,
+    "lat": 35.31572,
+    "lng": -90.77274,
+    "city": "Vanndale",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 5037,
+    "county_name": "Cross",
+    "county_weights": "{\"05037\": 100}",
+    "county_names_all": "Cross",
+    "county_fips_all": "05037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

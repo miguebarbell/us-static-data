@@ -1,0 +1,20 @@
+{
+    "zip": 58009,
+    "lat": 47.32658,
+    "lng": -97.24435,
+    "city": "Blanchard",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24.0,
+    "density": 0.3,
+    "county_fips": 38097,
+    "county_name": "Traill",
+    "county_weights": "{\"38097\": 100}",
+    "county_names_all": "Traill",
+    "county_fips_all": "38097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 34685,
+    "lat": 28.09995,
+    "lng": -82.68851,
+    "city": "Palm Harbor",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17895.0,
+    "density": 688.4,
+    "county_fips": 12103,
+    "county_name": "Pinellas",
+    "county_weights": "{\"12103\": 100}",
+    "county_names_all": "Pinellas",
+    "county_fips_all": "12103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

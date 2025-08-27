@@ -1,0 +1,20 @@
+{
+    "zip": 75640,
+    "lat": 32.7152,
+    "lng": -94.68133,
+    "city": "Diana",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6338.0,
+    "density": 28.2,
+    "county_fips": 48203,
+    "county_name": "Harrison",
+    "county_weights": "{\"48203\": 57.64, \"48459\": 36.35, \"48315\": 6.01}",
+    "county_names_all": "Harrison|Upshur|Marion",
+    "county_fips_all": "48203|48459|48315",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 60016,
+    "lat": 42.05232,
+    "lng": -87.8899,
+    "city": "Des Plaines",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 60520.0,
+    "density": 1927.5,
+    "county_fips": 17031,
+    "county_name": "Cook",
+    "county_weights": "{\"17031\": 100}",
+    "county_names_all": "Cook",
+    "county_fips_all": "17031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

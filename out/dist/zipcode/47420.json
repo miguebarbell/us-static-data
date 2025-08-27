@@ -1,0 +1,20 @@
+{
+    "zip": 47420,
+    "lat": 38.91903,
+    "lng": -86.54933,
+    "city": "Avoca",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 77.0,
+    "density": 62.4,
+    "county_fips": 18093,
+    "county_name": "Lawrence",
+    "county_weights": "{\"18093\": 100}",
+    "county_names_all": "Lawrence",
+    "county_fips_all": "18093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 27572,
+    "lat": 36.24872,
+    "lng": -78.88045,
+    "city": "Rougemont",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6524.0,
+    "density": 23.7,
+    "county_fips": 37145,
+    "county_name": "Person",
+    "county_weights": "{\"37145\": 35.78, \"37063\": 24.48, \"37135\": 23.55, \"37077\": 16.19}",
+    "county_names_all": "Person|Durham|Orange|Granville",
+    "county_fips_all": "37145|37063|37135|37077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

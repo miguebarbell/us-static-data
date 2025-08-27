@@ -1,0 +1,20 @@
+{
+    "zip": 24977,
+    "lat": 37.90823,
+    "lng": -80.67527,
+    "city": "Smoot",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 341.0,
+    "density": 7.1,
+    "county_fips": 54025,
+    "county_name": "Greenbrier",
+    "county_weights": "{\"54025\": 100}",
+    "county_names_all": "Greenbrier",
+    "county_fips_all": "54025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

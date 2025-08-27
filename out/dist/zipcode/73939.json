@@ -1,0 +1,20 @@
+{
+    "zip": 73939,
+    "lat": 36.76824,
+    "lng": -101.78344,
+    "city": "Goodwell",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1621.0,
+    "density": 1.5,
+    "county_fips": 40139,
+    "county_name": "Texas",
+    "county_weights": "{\"40139\": 100}",
+    "county_names_all": "Texas",
+    "county_fips_all": "40139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 59052,
+    "lat": 45.43651,
+    "lng": -110.18676,
+    "city": "McLeod",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 182.0,
+    "density": 0.1,
+    "county_fips": 30097,
+    "county_name": "Sweet Grass",
+    "county_weights": "{\"30097\": 58.83, \"30067\": 41.17}",
+    "county_names_all": "Sweet Grass|Park",
+    "county_fips_all": "30097|30067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

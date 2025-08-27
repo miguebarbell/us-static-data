@@ -1,0 +1,20 @@
+{
+    "zip": 18067,
+    "lat": 40.71792,
+    "lng": -75.47937,
+    "city": "Northampton",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19490.0,
+    "density": 294.9,
+    "county_fips": 42095,
+    "county_name": "Northampton",
+    "county_weights": "{\"42095\": 100}",
+    "county_names_all": "Northampton",
+    "county_fips_all": "42095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

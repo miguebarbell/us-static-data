@@ -1,0 +1,20 @@
+{
+    "zip": 17538,
+    "lat": 40.08804,
+    "lng": -76.41528,
+    "city": "Landisville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7121.0,
+    "density": 665.4,
+    "county_fips": 42071,
+    "county_name": "Lancaster",
+    "county_weights": "{\"42071\": 100}",
+    "county_names_all": "Lancaster",
+    "county_fips_all": "42071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

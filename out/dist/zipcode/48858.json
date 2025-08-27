@@ -1,0 +1,20 @@
+{
+    "zip": 48858,
+    "lat": 43.61483,
+    "lng": -84.79576,
+    "city": "Mount Pleasant",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42732.0,
+    "density": 94.6,
+    "county_fips": 26073,
+    "county_name": "Isabella",
+    "county_weights": "{\"26073\": 98.61, \"26111\": 1.39}",
+    "county_names_all": "Isabella|Midland",
+    "county_fips_all": "26073|26111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

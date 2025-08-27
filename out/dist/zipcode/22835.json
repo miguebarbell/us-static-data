@@ -1,0 +1,20 @@
+{
+    "zip": 22835,
+    "lat": 38.67199,
+    "lng": -78.4548,
+    "city": "Luray",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11358.0,
+    "density": 29.3,
+    "county_fips": 51139,
+    "county_name": "Page",
+    "county_weights": "{\"51139\": 100}",
+    "county_names_all": "Page",
+    "county_fips_all": "51139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

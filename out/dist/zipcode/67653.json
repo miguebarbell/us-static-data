@@ -1,0 +1,20 @@
+{
+    "zip": 67653,
+    "lat": 39.90873,
+    "lng": -100.20554,
+    "city": "Norcatur",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 270.0,
+    "density": 0.6,
+    "county_fips": 20039,
+    "county_name": "Decatur",
+    "county_weights": "{\"20039\": 61.58, \"20137\": 38.42}",
+    "county_names_all": "Decatur|Norton",
+    "county_fips_all": "20039|20137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 59821,
+    "lat": 47.17603,
+    "lng": -114.00431,
+    "city": "Arlee",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2822.0,
+    "density": 3.4,
+    "county_fips": 30063,
+    "county_name": "Missoula",
+    "county_weights": "{\"30063\": 43.96, \"30047\": 37.18, \"30089\": 18.85}",
+    "county_names_all": "Missoula|Lake|Sanders",
+    "county_fips_all": "30063|30047|30089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

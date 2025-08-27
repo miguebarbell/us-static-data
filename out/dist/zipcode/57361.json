@@ -1,0 +1,20 @@
+{
+    "zip": 57361,
+    "lat": 42.99459,
+    "lng": -98.43463,
+    "city": "Marty",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 250.0,
+    "density": 38.9,
+    "county_fips": 46023,
+    "county_name": "Charles Mix",
+    "county_weights": "{\"46023\": 100}",
+    "county_names_all": "Charles Mix",
+    "county_fips_all": "46023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

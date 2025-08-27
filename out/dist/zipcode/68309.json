@@ -1,0 +1,20 @@
+{
+    "zip": 68309,
+    "lat": 40.04907,
+    "lng": -96.57285,
+    "city": "Barneston",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 107.0,
+    "density": 185.5,
+    "county_fips": 31067,
+    "county_name": "Gage",
+    "county_weights": "{\"31067\": 100}",
+    "county_names_all": "Gage",
+    "county_fips_all": "31067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

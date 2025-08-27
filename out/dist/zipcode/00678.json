@@ -1,0 +1,20 @@
+{
+    "zip": 678,
+    "lat": 18.42949,
+    "lng": -66.93016,
+    "city": "Quebradillas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24848.0,
+    "density": 329.2,
+    "county_fips": 72115,
+    "county_name": "Quebradillas",
+    "county_weights": "{\"72115\": 77.04, \"72071\": 17.18, \"72131\": 5.79}",
+    "county_names_all": "Quebradillas|Isabela|San Sebasti\u00e1n",
+    "county_fips_all": "72115|72071|72131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

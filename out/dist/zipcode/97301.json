@@ -1,0 +1,20 @@
+{
+    "zip": 97301,
+    "lat": 44.94948,
+    "lng": -123.00439,
+    "city": "Salem",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 56274.0,
+    "density": 1921.9,
+    "county_fips": 41047,
+    "county_name": "Marion",
+    "county_weights": "{\"41047\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "41047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

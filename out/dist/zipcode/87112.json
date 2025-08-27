@@ -1,0 +1,20 @@
+{
+    "zip": 87112,
+    "lat": 35.10093,
+    "lng": -106.51622,
+    "city": "Albuquerque",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42523.0,
+    "density": 2019.6,
+    "county_fips": 35001,
+    "county_name": "Bernalillo",
+    "county_weights": "{\"35001\": 100}",
+    "county_names_all": "Bernalillo",
+    "county_fips_all": "35001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

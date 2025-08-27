@@ -1,0 +1,20 @@
+{
+    "zip": 45734,
+    "lat": 39.63982,
+    "lng": -81.18816,
+    "city": "Graysville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 301.0,
+    "density": 3.8,
+    "county_fips": 39111,
+    "county_name": "Monroe",
+    "county_weights": "{\"39111\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "39111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

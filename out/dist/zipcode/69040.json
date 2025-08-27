@@ -1,0 +1,20 @@
+{
+    "zip": 69040,
+    "lat": 40.35565,
+    "lng": -101.12027,
+    "city": "Palisade",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 574.0,
+    "density": 1.1,
+    "county_fips": 31085,
+    "county_name": "Hayes",
+    "county_weights": "{\"31085\": 51.53, \"31087\": 48.47}",
+    "county_names_all": "Hayes|Hitchcock",
+    "county_fips_all": "31085|31087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

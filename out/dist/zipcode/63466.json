@@ -1,0 +1,20 @@
+{
+    "zip": 63466,
+    "lat": 40.26627,
+    "lng": -91.61751,
+    "city": "Saint Patrick",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 29045,
+    "county_name": "Clark",
+    "county_weights": "{\"29045\": 100}",
+    "county_names_all": "Clark",
+    "county_fips_all": "29045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

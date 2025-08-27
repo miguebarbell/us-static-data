@@ -1,0 +1,20 @@
+{
+    "zip": 68938,
+    "lat": 40.42093,
+    "lng": -98.12344,
+    "city": "Fairfield",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 455.0,
+    "density": 2.5,
+    "county_fips": 31035,
+    "county_name": "Clay",
+    "county_weights": "{\"31035\": 100}",
+    "county_names_all": "Clay",
+    "county_fips_all": "31035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 55992,
+    "lat": 44.30557,
+    "lng": -92.6827,
+    "city": "Zumbrota",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5547.0,
+    "density": 29.4,
+    "county_fips": 27049,
+    "county_name": "Goodhue",
+    "county_weights": "{\"27049\": 100}",
+    "county_names_all": "Goodhue",
+    "county_fips_all": "27049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 16172,
+    "lat": 41.1177,
+    "lng": -80.33105,
+    "city": "New Wilmington",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 899.0,
+    "density": 4161.4,
+    "county_fips": 42073,
+    "county_name": "Lawrence",
+    "county_weights": "{\"42073\": 100}",
+    "county_names_all": "Lawrence",
+    "county_fips_all": "42073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

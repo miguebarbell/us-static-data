@@ -1,0 +1,20 @@
+{
+    "zip": 70570,
+    "lat": 30.5315,
+    "lng": -92.10852,
+    "city": "Opelousas",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37188.0,
+    "density": 83.6,
+    "county_fips": 22097,
+    "county_name": "St. Landry",
+    "county_weights": "{\"22097\": 100}",
+    "county_names_all": "St. Landry",
+    "county_fips_all": "22097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

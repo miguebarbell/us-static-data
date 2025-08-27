@@ -1,0 +1,20 @@
+{
+    "zip": 65637,
+    "lat": 36.76964,
+    "lng": -92.20371,
+    "city": "Dora",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 942.0,
+    "density": 3.8,
+    "county_fips": 29153,
+    "county_name": "Ozark",
+    "county_weights": "{\"29153\": 61.95, \"29067\": 28.68, \"29091\": 9.37}",
+    "county_names_all": "Ozark|Douglas|Howell",
+    "county_fips_all": "29153|29067|29091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

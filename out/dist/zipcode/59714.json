@@ -1,0 +1,20 @@
+{
+    "zip": 59714,
+    "lat": 45.97538,
+    "lng": -111.13112,
+    "city": "Belgrade",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23897.0,
+    "density": 22.1,
+    "county_fips": 30031,
+    "county_name": "Gallatin",
+    "county_weights": "{\"30031\": 100}",
+    "county_names_all": "Gallatin",
+    "county_fips_all": "30031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

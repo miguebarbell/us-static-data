@@ -1,0 +1,20 @@
+{
+    "zip": 75757,
+    "lat": 32.11584,
+    "lng": -95.34933,
+    "city": "Bullard",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13977.0,
+    "density": 62.7,
+    "county_fips": 48073,
+    "county_name": "Cherokee",
+    "county_weights": "{\"48073\": 68.31, \"48423\": 31.69}",
+    "county_names_all": "Cherokee|Smith",
+    "county_fips_all": "48073|48423",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

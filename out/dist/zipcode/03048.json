@@ -1,0 +1,20 @@
+{
+    "zip": 3048,
+    "lat": 42.74668,
+    "lng": -71.76268,
+    "city": "Greenville",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3414.0,
+    "density": 46.5,
+    "county_fips": 33011,
+    "county_name": "Hillsborough",
+    "county_weights": "{\"33011\": 100}",
+    "county_names_all": "Hillsborough",
+    "county_fips_all": "33011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

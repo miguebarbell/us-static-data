@@ -1,0 +1,20 @@
+{
+    "zip": 74347,
+    "lat": 36.19573,
+    "lng": -94.78525,
+    "city": "Kansas",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2513.0,
+    "density": 18.5,
+    "county_fips": 40041,
+    "county_name": "Delaware",
+    "county_weights": "{\"40041\": 79.37, \"40001\": 12.79, \"40021\": 7.84}",
+    "county_names_all": "Delaware|Adair|Cherokee",
+    "county_fips_all": "40041|40001|40021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

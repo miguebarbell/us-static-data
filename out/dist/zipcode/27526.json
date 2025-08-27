@@ -1,0 +1,20 @@
+{
+    "zip": 27526,
+    "lat": 35.54179,
+    "lng": -78.8274,
+    "city": "Fuquay Varina",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 59306.0,
+    "density": 233.3,
+    "county_fips": 37085,
+    "county_name": "Harnett",
+    "county_weights": "{\"37085\": 59.64, \"37183\": 40.36}",
+    "county_names_all": "Harnett|Wake",
+    "county_fips_all": "37085|37183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

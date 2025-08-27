@@ -1,0 +1,20 @@
+{
+    "zip": 65020,
+    "lat": 38.00517,
+    "lng": -92.78193,
+    "city": "Camdenton",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14635.0,
+    "density": 45.7,
+    "county_fips": 29029,
+    "county_name": "Camden",
+    "county_weights": "{\"29029\": 99.51, \"29105\": 0.49}",
+    "county_names_all": "Camden|Laclede",
+    "county_fips_all": "29029|29105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43526,
+    "lat": 41.31339,
+    "lng": -84.73024,
+    "city": "Hicksville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6270.0,
+    "density": 31.8,
+    "county_fips": 39039,
+    "county_name": "Defiance",
+    "county_weights": "{\"39039\": 93.11, \"39125\": 6.89}",
+    "county_names_all": "Defiance|Paulding",
+    "county_fips_all": "39039|39125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

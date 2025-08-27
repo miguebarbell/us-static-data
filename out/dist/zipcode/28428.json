@@ -1,0 +1,20 @@
+{
+    "zip": 28428,
+    "lat": 34.03831,
+    "lng": -77.90682,
+    "city": "Carolina Beach",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7034.0,
+    "density": 526.2,
+    "county_fips": 37129,
+    "county_name": "New Hanover",
+    "county_weights": "{\"37129\": 100}",
+    "county_names_all": "New Hanover",
+    "county_fips_all": "37129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

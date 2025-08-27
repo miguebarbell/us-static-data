@@ -1,0 +1,20 @@
+{
+    "zip": 35115,
+    "lat": 33.12133,
+    "lng": -86.89605,
+    "city": "Montevallo",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16911.0,
+    "density": 52.9,
+    "county_fips": 1117,
+    "county_name": "Shelby",
+    "county_weights": "{\"01117\": 70.19, \"01021\": 18.04, \"01007\": 11.77}",
+    "county_names_all": "Shelby|Chilton|Bibb",
+    "county_fips_all": "01117|01021|01007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

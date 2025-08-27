@@ -1,0 +1,20 @@
+{
+    "zip": 68368,
+    "lat": 40.55598,
+    "lng": -96.81665,
+    "city": "Hallam",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 407.0,
+    "density": 4.2,
+    "county_fips": 31109,
+    "county_name": "Lancaster",
+    "county_weights": "{\"31109\": 89.67, \"31067\": 10.33}",
+    "county_names_all": "Lancaster|Gage",
+    "county_fips_all": "31109|31067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

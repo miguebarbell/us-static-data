@@ -1,0 +1,20 @@
+{
+    "zip": 60050,
+    "lat": 42.32915,
+    "lng": -88.29363,
+    "city": "Mchenry",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31870.0,
+    "density": 465.6,
+    "county_fips": 17111,
+    "county_name": "McHenry",
+    "county_weights": "{\"17111\": 99.49, \"17097\": 0.51}",
+    "county_names_all": "McHenry|Lake",
+    "county_fips_all": "17111|17097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

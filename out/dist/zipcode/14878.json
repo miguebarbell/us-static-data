@@ -1,0 +1,20 @@
+{
+    "zip": 14878,
+    "lat": 42.44946,
+    "lng": -76.94401,
+    "city": "Rock Stream",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 793.0,
+    "density": 19.1,
+    "county_fips": 36097,
+    "county_name": "Schuyler",
+    "county_weights": "{\"36097\": 75.15, \"36123\": 24.85}",
+    "county_names_all": "Schuyler|Yates",
+    "county_fips_all": "36097|36123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

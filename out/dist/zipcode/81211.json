@@ -1,0 +1,20 @@
+{
+    "zip": 81211,
+    "lat": 38.89548,
+    "lng": -106.24128,
+    "city": "Buena Vista",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8191.0,
+    "density": 6.6,
+    "county_fips": 8015,
+    "county_name": "Chaffee",
+    "county_weights": "{\"08015\": 100}",
+    "county_names_all": "Chaffee",
+    "county_fips_all": "08015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

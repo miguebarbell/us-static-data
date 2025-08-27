@@ -1,0 +1,20 @@
+{
+    "zip": 23119,
+    "lat": 37.45139,
+    "lng": -76.27978,
+    "city": "Moon",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 181.0,
+    "density": 31.2,
+    "county_fips": 51115,
+    "county_name": "Mathews",
+    "county_weights": "{\"51115\": 100}",
+    "county_names_all": "Mathews",
+    "county_fips_all": "51115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

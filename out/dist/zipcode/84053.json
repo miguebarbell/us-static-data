@@ -1,0 +1,20 @@
+{
+    "zip": 84053,
+    "lat": 40.43325,
+    "lng": -109.98941,
+    "city": "Neola",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 693.0,
+    "density": 8.6,
+    "county_fips": 49013,
+    "county_name": "Duchesne",
+    "county_weights": "{\"49013\": 67.26, \"49047\": 32.74}",
+    "county_names_all": "Duchesne|Uintah",
+    "county_fips_all": "49013|49047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 51001,
+    "lat": 42.83854,
+    "lng": -96.54551,
+    "city": "Akron",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2292.0,
+    "density": 5.4,
+    "county_fips": 19149,
+    "county_name": "Plymouth",
+    "county_weights": "{\"19149\": 60.2, \"46127\": 39.8}",
+    "county_names_all": "Plymouth|Union",
+    "county_fips_all": "19149|46127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

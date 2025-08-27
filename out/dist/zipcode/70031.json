@@ -1,0 +1,20 @@
+{
+    "zip": 70031,
+    "lat": 29.94401,
+    "lng": -90.29666,
+    "city": "Ama",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1473.0,
+    "density": 162.4,
+    "county_fips": 22089,
+    "county_name": "St. Charles",
+    "county_weights": "{\"22089\": 100}",
+    "county_names_all": "St. Charles",
+    "county_fips_all": "22089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

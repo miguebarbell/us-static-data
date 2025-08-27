@@ -1,0 +1,20 @@
+{
+    "zip": 76126,
+    "lat": 32.64374,
+    "lng": -97.51767,
+    "city": "Fort Worth",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25920.0,
+    "density": 145.7,
+    "county_fips": 48439,
+    "county_name": "Tarrant",
+    "county_weights": "{\"48439\": 74.83, \"48367\": 25.17}",
+    "county_names_all": "Tarrant|Parker",
+    "county_fips_all": "48439|48367",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 42038,
+    "lat": 37.04137,
+    "lng": -88.02364,
+    "city": "Eddyville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6045.0,
+    "density": 26.9,
+    "county_fips": 21143,
+    "county_name": "Lyon",
+    "county_weights": "{\"21143\": 98.65, \"21033\": 1.35}",
+    "county_names_all": "Lyon|Caldwell",
+    "county_fips_all": "21143|21033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

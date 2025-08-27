@@ -1,0 +1,20 @@
+{
+    "zip": 80737,
+    "lat": 40.88974,
+    "lng": -102.19267,
+    "city": "Julesburg",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1541.0,
+    "density": 2.4,
+    "county_fips": 8115,
+    "county_name": "Sedgwick",
+    "county_weights": "{\"08115\": 96.16, \"31049\": 3.84}",
+    "county_names_all": "Sedgwick|Deuel",
+    "county_fips_all": "08115|31049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

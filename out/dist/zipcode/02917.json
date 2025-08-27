@@ -1,0 +1,20 @@
+{
+    "zip": 2917,
+    "lat": 41.90615,
+    "lng": -71.52365,
+    "city": "Smithfield",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15068.0,
+    "density": 271.3,
+    "county_fips": 44007,
+    "county_name": "Providence",
+    "county_weights": "{\"44007\": 100}",
+    "county_names_all": "Providence",
+    "county_fips_all": "44007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

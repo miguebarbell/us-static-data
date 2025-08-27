@@ -1,0 +1,20 @@
+{
+    "zip": 18350,
+    "lat": 41.11339,
+    "lng": -75.45633,
+    "city": "Pocono Pines",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 595.0,
+    "density": 39.4,
+    "county_fips": 42089,
+    "county_name": "Monroe",
+    "county_weights": "{\"42089\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "42089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

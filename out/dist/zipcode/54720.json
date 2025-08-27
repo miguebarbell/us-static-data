@@ -1,0 +1,20 @@
+{
+    "zip": 54720,
+    "lat": 44.80511,
+    "lng": -91.43646,
+    "city": "Altoona",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9127.0,
+    "density": 742.2,
+    "county_fips": 55035,
+    "county_name": "Eau Claire",
+    "county_weights": "{\"55035\": 100}",
+    "county_names_all": "Eau Claire",
+    "county_fips_all": "55035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

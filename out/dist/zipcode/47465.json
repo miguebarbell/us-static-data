@@ -1,0 +1,20 @@
+{
+    "zip": 47465,
+    "lat": 39.05474,
+    "lng": -87.04338,
+    "city": "Switz City",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 528.0,
+    "density": 7.7,
+    "county_fips": 18055,
+    "county_name": "Greene",
+    "county_weights": "{\"18055\": 100}",
+    "county_names_all": "Greene",
+    "county_fips_all": "18055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

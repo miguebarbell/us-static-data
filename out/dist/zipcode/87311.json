@@ -1,0 +1,20 @@
+{
+    "zip": 87311,
+    "lat": 35.60501,
+    "lng": -108.50061,
+    "city": "Church Rock",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4941.0,
+    "density": 9.1,
+    "county_fips": 35031,
+    "county_name": "McKinley",
+    "county_weights": "{\"35031\": 100}",
+    "county_names_all": "McKinley",
+    "county_fips_all": "35031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

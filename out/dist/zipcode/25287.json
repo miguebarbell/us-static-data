@@ -1,0 +1,20 @@
+{
+    "zip": 25287,
+    "lat": 38.96158,
+    "lng": -82.04834,
+    "city": "West Columbia",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1104.0,
+    "density": 19.4,
+    "county_fips": 54053,
+    "county_name": "Mason",
+    "county_weights": "{\"54053\": 100}",
+    "county_names_all": "Mason",
+    "county_fips_all": "54053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

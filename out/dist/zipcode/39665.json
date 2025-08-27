@@ -1,0 +1,20 @@
+{
+    "zip": 39665,
+    "lat": 31.64125,
+    "lng": -90.21404,
+    "city": "Sontag",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1048.0,
+    "density": 6.8,
+    "county_fips": 28077,
+    "county_name": "Lawrence",
+    "county_weights": "{\"28077\": 75.08, \"28085\": 24.92}",
+    "county_names_all": "Lawrence|Lincoln",
+    "county_fips_all": "28077|28085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

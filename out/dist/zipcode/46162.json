@@ -1,0 +1,20 @@
+{
+    "zip": 46162,
+    "lat": 39.55021,
+    "lng": -85.95242,
+    "city": "Needham",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 276.0,
+    "density": 8.8,
+    "county_fips": 18081,
+    "county_name": "Johnson",
+    "county_weights": "{\"18081\": 53.76, \"18145\": 46.24}",
+    "county_names_all": "Johnson|Shelby",
+    "county_fips_all": "18081|18145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

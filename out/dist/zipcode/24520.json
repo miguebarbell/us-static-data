@@ -1,0 +1,20 @@
+{
+    "zip": 24520,
+    "lat": 36.58486,
+    "lng": -79.03752,
+    "city": "Alton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2225.0,
+    "density": 9.1,
+    "county_fips": 51083,
+    "county_name": "Halifax",
+    "county_weights": "{\"51083\": 100}",
+    "county_names_all": "Halifax",
+    "county_fips_all": "51083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

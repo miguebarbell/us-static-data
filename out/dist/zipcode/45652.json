@@ -1,0 +1,20 @@
+{
+    "zip": 45652,
+    "lat": 38.82911,
+    "lng": -83.08018,
+    "city": "McDermott",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3147.0,
+    "density": 34.7,
+    "county_fips": 39145,
+    "county_name": "Scioto",
+    "county_weights": "{\"39145\": 100}",
+    "county_names_all": "Scioto",
+    "county_fips_all": "39145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

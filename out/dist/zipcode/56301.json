@@ -1,0 +1,20 @@
+{
+    "zip": 56301,
+    "lat": 45.48718,
+    "lng": -94.24307,
+    "city": "Saint Cloud",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 34883.0,
+    "density": 175.9,
+    "county_fips": 27145,
+    "county_name": "Stearns",
+    "county_weights": "{\"27145\": 99.83, \"27141\": 0.17}",
+    "county_names_all": "Stearns|Sherburne",
+    "county_fips_all": "27145|27141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 16864,
+    "lat": 41.15428,
+    "lng": -77.79857,
+    "city": "Orviston",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 74.0,
+    "density": 4.3,
+    "county_fips": 42027,
+    "county_name": "Centre",
+    "county_weights": "{\"42027\": 87.05, \"42035\": 12.95}",
+    "county_names_all": "Centre|Clinton",
+    "county_fips_all": "42027|42035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 62501,
+    "lat": 39.92973,
+    "lng": -88.80528,
+    "city": "Argenta",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2113.0,
+    "density": 10.6,
+    "county_fips": 17115,
+    "county_name": "Macon",
+    "county_weights": "{\"17115\": 100}",
+    "county_names_all": "Macon",
+    "county_fips_all": "17115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

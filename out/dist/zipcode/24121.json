@@ -1,0 +1,20 @@
+{
+    "zip": 24121,
+    "lat": 37.1709,
+    "lng": -79.64141,
+    "city": "Moneta",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10782.0,
+    "density": 45.3,
+    "county_fips": 51019,
+    "county_name": "Bedford",
+    "county_weights": "{\"51019\": 73.07, \"51067\": 26.93}",
+    "county_names_all": "Bedford|Franklin",
+    "county_fips_all": "51019|51067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 79058,
+    "lat": 35.59509,
+    "lng": -101.94925,
+    "city": "Masterson",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 48375,
+    "county_name": "Potter",
+    "county_weights": "{\"48375\": 69.18, \"48341\": 30.82}",
+    "county_names_all": "Potter|Moore",
+    "county_fips_all": "48375|48341",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

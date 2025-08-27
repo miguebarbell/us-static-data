@@ -1,0 +1,20 @@
+{
+    "zip": 76228,
+    "lat": 33.61438,
+    "lng": -98.06305,
+    "city": "Bellevue",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1320.0,
+    "density": 2.5,
+    "county_fips": 48077,
+    "county_name": "Clay",
+    "county_weights": "{\"48077\": 89.74, \"48337\": 10.26}",
+    "county_names_all": "Clay|Montague",
+    "county_fips_all": "48077|48337",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

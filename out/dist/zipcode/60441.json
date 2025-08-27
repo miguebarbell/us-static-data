@@ -1,0 +1,20 @@
+{
+    "zip": 60441,
+    "lat": 41.59238,
+    "lng": -88.05106,
+    "city": "Lockport",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36841.0,
+    "density": 505.4,
+    "county_fips": 17197,
+    "county_name": "Will",
+    "county_weights": "{\"17197\": 100}",
+    "county_names_all": "Will",
+    "county_fips_all": "17197",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

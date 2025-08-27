@@ -1,0 +1,20 @@
+{
+    "zip": 46538,
+    "lat": 41.32829,
+    "lng": -85.82703,
+    "city": "Leesburg",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4369.0,
+    "density": 52.7,
+    "county_fips": 18085,
+    "county_name": "Kosciusko",
+    "county_weights": "{\"18085\": 100}",
+    "county_names_all": "Kosciusko",
+    "county_fips_all": "18085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

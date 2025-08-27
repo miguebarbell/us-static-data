@@ -1,0 +1,20 @@
+{
+    "zip": 73072,
+    "lat": 35.21106,
+    "lng": -97.50518,
+    "city": "Norman",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 50500.0,
+    "density": 373.5,
+    "county_fips": 40027,
+    "county_name": "Cleveland",
+    "county_weights": "{\"40027\": 66.34, \"40087\": 33.66}",
+    "county_names_all": "Cleveland|McClain",
+    "county_fips_all": "40027|40087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 30565,
+    "lat": 34.08802,
+    "lng": -83.41203,
+    "city": "Nicholson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4703.0,
+    "density": 53.9,
+    "county_fips": 13157,
+    "county_name": "Jackson",
+    "county_weights": "{\"13157\": 86.97, \"13195\": 13.03}",
+    "county_names_all": "Jackson|Madison",
+    "county_fips_all": "13157|13195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 44141,
+    "lat": 41.30139,
+    "lng": -81.61439,
+    "city": "Brecksville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13954.0,
+    "density": 222.7,
+    "county_fips": 39035,
+    "county_name": "Cuyahoga",
+    "county_weights": "{\"39035\": 82.15, \"39153\": 17.85}",
+    "county_names_all": "Cuyahoga|Summit",
+    "county_fips_all": "39035|39153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

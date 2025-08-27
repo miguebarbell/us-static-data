@@ -1,0 +1,20 @@
+{
+    "zip": 68956,
+    "lat": 40.63088,
+    "lng": -98.6891,
+    "city": "Kenesaw",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1108.0,
+    "density": 4.5,
+    "county_fips": 31001,
+    "county_name": "Adams",
+    "county_weights": "{\"31001\": 71.42, \"31099\": 20.24, \"31079\": 6.51, \"31019\": 1.83}",
+    "county_names_all": "Adams|Kearney|Hall|Buffalo",
+    "county_fips_all": "31001|31099|31079|31019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

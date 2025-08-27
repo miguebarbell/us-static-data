@@ -1,0 +1,20 @@
+{
+    "zip": 64034,
+    "lat": 38.85052,
+    "lng": -94.30203,
+    "city": "Greenwood",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8743.0,
+    "density": 148.1,
+    "county_fips": 29095,
+    "county_name": "Jackson",
+    "county_weights": "{\"29095\": 79.12, \"29037\": 20.88}",
+    "county_names_all": "Jackson|Cass",
+    "county_fips_all": "29095|29037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

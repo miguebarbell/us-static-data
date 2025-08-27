@@ -1,0 +1,20 @@
+{
+    "zip": 15861,
+    "lat": 41.3221,
+    "lng": -78.07246,
+    "city": "Sinnamahoning",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 107.0,
+    "density": 0.6,
+    "county_fips": 42023,
+    "county_name": "Cameron",
+    "county_weights": "{\"42023\": 100}",
+    "county_names_all": "Cameron",
+    "county_fips_all": "42023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

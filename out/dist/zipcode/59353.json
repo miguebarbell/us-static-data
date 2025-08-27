@@ -1,0 +1,20 @@
+{
+    "zip": 59353,
+    "lat": 46.96394,
+    "lng": -104.28218,
+    "city": "Wibaux",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1164.0,
+    "density": 0.4,
+    "county_fips": 30109,
+    "county_name": "Wibaux",
+    "county_weights": "{\"30109\": 83.91, \"30021\": 13.92, \"30025\": 2.17}",
+    "county_names_all": "Wibaux|Dawson|Fallon",
+    "county_fips_all": "30109|30021|30025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

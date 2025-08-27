@@ -1,0 +1,20 @@
+{
+    "zip": 28453,
+    "lat": 34.88283,
+    "lng": -78.06805,
+    "city": "Magnolia",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3065.0,
+    "density": 14.0,
+    "county_fips": 37061,
+    "county_name": "Duplin",
+    "county_weights": "{\"37061\": 75.38, \"37163\": 24.62}",
+    "county_names_all": "Duplin|Sampson",
+    "county_fips_all": "37061|37163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

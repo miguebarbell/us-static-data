@@ -1,0 +1,20 @@
+{
+    "zip": 56314,
+    "lat": 45.81139,
+    "lng": -94.43189,
+    "city": "Bowlus",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1355.0,
+    "density": 12.3,
+    "county_fips": 27097,
+    "county_name": "Morrison",
+    "county_weights": "{\"27097\": 90.31, \"27145\": 9.69}",
+    "county_names_all": "Morrison|Stearns",
+    "county_fips_all": "27097|27145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

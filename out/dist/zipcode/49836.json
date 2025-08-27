@@ -1,0 +1,20 @@
+{
+    "zip": 49836,
+    "lat": 46.1971,
+    "lng": -85.88725,
+    "city": "Germfask",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1046.0,
+    "density": 4.1,
+    "county_fips": 26153,
+    "county_name": "Schoolcraft",
+    "county_weights": "{\"26153\": 72.63, \"26097\": 27.26, \"26095\": 0.11}",
+    "county_names_all": "Schoolcraft|Mackinac|Luce",
+    "county_fips_all": "26153|26097|26095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 98850,
+    "lat": 47.40048,
+    "lng": -120.03459,
+    "city": "Rock Island",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1825.0,
+    "density": 9.2,
+    "county_fips": 53017,
+    "county_name": "Douglas",
+    "county_weights": "{\"53017\": 100}",
+    "county_names_all": "Douglas",
+    "county_fips_all": "53017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

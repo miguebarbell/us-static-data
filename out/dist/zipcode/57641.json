@@ -1,0 +1,20 @@
+{
+    "zip": 57641,
+    "lat": 45.89317,
+    "lng": -101.30624,
+    "city": "McIntosh",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 244.0,
+    "density": 0.2,
+    "county_fips": 46031,
+    "county_name": "Corson",
+    "county_weights": "{\"46031\": 62.47, \"38085\": 27.78, \"38037\": 9.75}",
+    "county_names_all": "Corson|Sioux|Grant",
+    "county_fips_all": "46031|38085|38037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

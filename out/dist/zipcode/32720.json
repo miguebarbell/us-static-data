@@ -1,0 +1,20 @@
+{
+    "zip": 32720,
+    "lat": 29.01775,
+    "lng": -81.37802,
+    "city": "Deland",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 34633.0,
+    "density": 201.7,
+    "county_fips": 12127,
+    "county_name": "Volusia",
+    "county_weights": "{\"12127\": 55.86, \"12069\": 44.14}",
+    "county_names_all": "Volusia|Lake",
+    "county_fips_all": "12127|12069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

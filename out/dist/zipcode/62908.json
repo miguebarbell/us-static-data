@@ -1,0 +1,20 @@
+{
+    "zip": 62908,
+    "lat": 37.30827,
+    "lng": -88.86603,
+    "city": "Belknap",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 365.0,
+    "density": 2.8,
+    "county_fips": 17127,
+    "county_name": "Massac",
+    "county_weights": "{\"17127\": 64.81, \"17087\": 35.19}",
+    "county_names_all": "Massac|Johnson",
+    "county_fips_all": "17127|17087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

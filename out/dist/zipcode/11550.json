@@ -1,0 +1,20 @@
+{
+    "zip": 11550,
+    "lat": 40.70158,
+    "lng": -73.62039,
+    "city": "Hempstead",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 60658.0,
+    "density": 5564.4,
+    "county_fips": 36059,
+    "county_name": "Nassau",
+    "county_weights": "{\"36059\": 100}",
+    "county_names_all": "Nassau",
+    "county_fips_all": "36059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

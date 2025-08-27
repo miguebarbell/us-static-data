@@ -1,0 +1,20 @@
+{
+    "zip": 45321,
+    "lat": 39.87134,
+    "lng": -84.67775,
+    "city": "Eldorado",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1254.0,
+    "density": 34.3,
+    "county_fips": 39135,
+    "county_name": "Preble",
+    "county_weights": "{\"39135\": 100}",
+    "county_names_all": "Preble",
+    "county_fips_all": "39135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

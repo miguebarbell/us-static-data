@@ -1,0 +1,20 @@
+{
+    "zip": 86413,
+    "lat": 35.16995,
+    "lng": -114.25695,
+    "city": "Golden Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12075.0,
+    "density": 10.9,
+    "county_fips": 4015,
+    "county_name": "Mohave",
+    "county_weights": "{\"04015\": 100}",
+    "county_names_all": "Mohave",
+    "county_fips_all": "04015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

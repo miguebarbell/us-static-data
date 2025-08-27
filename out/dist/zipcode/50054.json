@@ -1,0 +1,20 @@
+{
+    "zip": 50054,
+    "lat": 41.68729,
+    "lng": -93.23196,
+    "city": "Colfax",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3179.0,
+    "density": 20.1,
+    "county_fips": 19099,
+    "county_name": "Jasper",
+    "county_weights": "{\"19099\": 100}",
+    "county_names_all": "Jasper",
+    "county_fips_all": "19099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

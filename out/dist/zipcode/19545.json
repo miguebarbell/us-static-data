@@ -1,0 +1,20 @@
+{
+    "zip": 19545,
+    "lat": 40.3411,
+    "lng": -75.62977,
+    "city": "New Berlinville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1016.0,
+    "density": 17961.0,
+    "county_fips": 42011,
+    "county_name": "Berks",
+    "county_weights": "{\"42011\": 100}",
+    "county_names_all": "Berks",
+    "county_fips_all": "42011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

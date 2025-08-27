@@ -1,0 +1,20 @@
+{
+    "zip": 5072,
+    "lat": 43.88132,
+    "lng": -72.38545,
+    "city": "Strafford",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 722.0,
+    "density": 10.9,
+    "county_fips": 50017,
+    "county_name": "Orange",
+    "county_weights": "{\"50017\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "50017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 84315,
+    "lat": 41.16681,
+    "lng": -112.13672,
+    "city": "Hooper",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9694.0,
+    "density": 209.7,
+    "county_fips": 49057,
+    "county_name": "Weber",
+    "county_weights": "{\"49057\": 77.87, \"49011\": 22.13}",
+    "county_names_all": "Weber|Davis",
+    "county_fips_all": "49057|49011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

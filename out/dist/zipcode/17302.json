@@ -1,0 +1,20 @@
+{
+    "zip": 17302,
+    "lat": 39.81659,
+    "lng": -76.41069,
+    "city": "Airville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2641.0,
+    "density": 25.3,
+    "county_fips": 42133,
+    "county_name": "York",
+    "county_weights": "{\"42133\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "42133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

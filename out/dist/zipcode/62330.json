@@ -1,0 +1,20 @@
+{
+    "zip": 62330,
+    "lat": 40.57217,
+    "lng": -91.12187,
+    "city": "Dallas City",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1548.0,
+    "density": 6.9,
+    "county_fips": 17067,
+    "county_name": "Hancock",
+    "county_weights": "{\"17067\": 90.09, \"17071\": 9.91}",
+    "county_names_all": "Hancock|Henderson",
+    "county_fips_all": "17067|17071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

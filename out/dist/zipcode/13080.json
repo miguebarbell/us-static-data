@@ -1,0 +1,20 @@
+{
+    "zip": 13080,
+    "lat": 43.08338,
+    "lng": -76.47776,
+    "city": "Jordan",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3282.0,
+    "density": 45.0,
+    "county_fips": 36067,
+    "county_name": "Onondaga",
+    "county_weights": "{\"36067\": 59.74, \"36011\": 40.26}",
+    "county_names_all": "Onondaga|Cayuga",
+    "county_fips_all": "36067|36011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

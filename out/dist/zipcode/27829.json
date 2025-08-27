@@ -1,0 +1,20 @@
+{
+    "zip": 27829,
+    "lat": 35.69272,
+    "lng": -77.61215,
+    "city": "Fountain",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1525.0,
+    "density": 12.7,
+    "county_fips": 37147,
+    "county_name": "Pitt",
+    "county_weights": "{\"37147\": 63.4, \"37065\": 20.64, \"37195\": 15.96}",
+    "county_names_all": "Pitt|Edgecombe|Wilson",
+    "county_fips_all": "37147|37065|37195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

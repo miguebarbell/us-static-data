@@ -1,0 +1,20 @@
+{
+    "zip": 926,
+    "lat": 18.34691,
+    "lng": -66.05434,
+    "city": "San Juan",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 93308.0,
+    "density": 1552.0,
+    "county_fips": 72127,
+    "county_name": "San Juan",
+    "county_weights": "{\"72127\": 83.48, \"72139\": 15.69, \"72061\": 0.83}",
+    "county_names_all": "San Juan|Trujillo Alto|Guaynabo",
+    "county_fips_all": "72127|72139|72061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 63052,
+    "lat": 38.38983,
+    "lng": -90.4358,
+    "city": "Imperial",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28741.0,
+    "density": 335.3,
+    "county_fips": 29099,
+    "county_name": "Jefferson",
+    "county_weights": "{\"29099\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "29099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

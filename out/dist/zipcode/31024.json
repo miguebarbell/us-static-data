@@ -1,0 +1,20 @@
+{
+    "zip": 31024,
+    "lat": 33.32344,
+    "lng": -83.36987,
+    "city": "Eatonton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21638.0,
+    "density": 25.7,
+    "county_fips": 13237,
+    "county_name": "Putnam",
+    "county_weights": "{\"13237\": 100}",
+    "county_names_all": "Putnam",
+    "county_fips_all": "13237",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

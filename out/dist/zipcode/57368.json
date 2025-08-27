@@ -1,0 +1,20 @@
+{
+    "zip": 57368,
+    "lat": 43.75117,
+    "lng": -98.47593,
+    "city": "Plankinton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1090.0,
+    "density": 1.8,
+    "county_fips": 46003,
+    "county_name": "Aurora",
+    "county_weights": "{\"46003\": 100}",
+    "county_names_all": "Aurora",
+    "county_fips_all": "46003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

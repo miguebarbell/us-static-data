@@ -1,0 +1,20 @@
+{
+    "zip": 72639,
+    "lat": 36.01948,
+    "lng": -92.48937,
+    "city": "Harriet",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 659.0,
+    "density": 3.7,
+    "county_fips": 5129,
+    "county_name": "Searcy",
+    "county_weights": "{\"05129\": 90.61, \"05089\": 9.39}",
+    "county_names_all": "Searcy|Marion",
+    "county_fips_all": "05129|05089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

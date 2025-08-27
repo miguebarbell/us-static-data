@@ -1,0 +1,20 @@
+{
+    "zip": 8886,
+    "lat": 40.69302,
+    "lng": -75.10565,
+    "city": "Stewartsville",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6493.0,
+    "density": 162.2,
+    "county_fips": 34041,
+    "county_name": "Warren",
+    "county_weights": "{\"34041\": 100}",
+    "county_names_all": "Warren",
+    "county_fips_all": "34041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

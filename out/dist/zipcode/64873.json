@@ -1,0 +1,20 @@
+{
+    "zip": 64873,
+    "lat": 37.01565,
+    "lng": -94.05358,
+    "city": "Wentworth",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1080.0,
+    "density": 9.8,
+    "county_fips": 29109,
+    "county_name": "Lawrence",
+    "county_weights": "{\"29109\": 53.54, \"29145\": 46.46}",
+    "county_names_all": "Lawrence|Newton",
+    "county_fips_all": "29109|29145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

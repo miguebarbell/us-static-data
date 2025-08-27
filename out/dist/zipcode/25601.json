@@ -1,0 +1,20 @@
+{
+    "zip": 25601,
+    "lat": 37.86255,
+    "lng": -82.0026,
+    "city": "Logan",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5007.0,
+    "density": 92.7,
+    "county_fips": 54045,
+    "county_name": "Logan",
+    "county_weights": "{\"54045\": 100}",
+    "county_names_all": "Logan",
+    "county_fips_all": "54045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

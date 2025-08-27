@@ -1,0 +1,20 @@
+{
+    "zip": 70560,
+    "lat": 29.93965,
+    "lng": -91.8642,
+    "city": "New Iberia",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37589.0,
+    "density": 82.4,
+    "county_fips": 22045,
+    "county_name": "Iberia",
+    "county_weights": "{\"22045\": 98.13, \"22099\": 1.02, \"22113\": 0.7, \"22055\": 0.15}",
+    "county_names_all": "Iberia|St. Martin|Vermilion|Lafayette",
+    "county_fips_all": "22045|22099|22113|22055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

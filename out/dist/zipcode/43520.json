@@ -1,0 +1,20 @@
+{
+    "zip": 43520,
+    "lat": 41.38008,
+    "lng": -84.63565,
+    "city": "Farmer",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23.0,
+    "density": 7.6,
+    "county_fips": 39039,
+    "county_name": "Defiance",
+    "county_weights": "{\"39039\": 100}",
+    "county_names_all": "Defiance",
+    "county_fips_all": "39039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

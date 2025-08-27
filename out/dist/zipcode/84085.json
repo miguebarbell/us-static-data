@@ -1,0 +1,20 @@
+{
+    "zip": 84085,
+    "lat": 40.58609,
+    "lng": -109.92642,
+    "city": "Whiterocks",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 233.0,
+    "density": 0.9,
+    "county_fips": 49047,
+    "county_name": "Uintah",
+    "county_weights": "{\"49047\": 100}",
+    "county_names_all": "Uintah",
+    "county_fips_all": "49047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 84652,
+    "lat": 39.01706,
+    "lng": -111.8785,
+    "city": "Redmond",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 838.0,
+    "density": 21.7,
+    "county_fips": 49041,
+    "county_name": "Sevier",
+    "county_weights": "{\"49041\": 100}",
+    "county_names_all": "Sevier",
+    "county_fips_all": "49041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 23359,
+    "lat": 37.88643,
+    "lng": -75.60422,
+    "city": "Hallwood",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 920.0,
+    "density": 26.9,
+    "county_fips": 51001,
+    "county_name": "Accomack",
+    "county_weights": "{\"51001\": 100}",
+    "county_names_all": "Accomack",
+    "county_fips_all": "51001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 87061,
+    "lat": 34.705,
+    "lng": -106.38145,
+    "city": "Torreon",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 285.0,
+    "density": 1.2,
+    "county_fips": 35057,
+    "county_name": "Torrance",
+    "county_weights": "{\"35057\": 100}",
+    "county_names_all": "Torrance",
+    "county_fips_all": "35057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

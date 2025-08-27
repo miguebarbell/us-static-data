@@ -1,0 +1,20 @@
+{
+    "zip": 38583,
+    "lat": 35.94649,
+    "lng": -85.43781,
+    "city": "Sparta",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25739.0,
+    "density": 27.3,
+    "county_fips": 47185,
+    "county_name": "White",
+    "county_weights": "{\"47185\": 81.3, \"47041\": 5.87, \"47141\": 5.59, \"47035\": 4.88, \"47175\": 2.36}",
+    "county_names_all": "White|DeKalb|Putnam|Cumberland|Van Buren",
+    "county_fips_all": "47185|47041|47141|47035|47175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 57386,
+    "lat": 44.50908,
+    "lng": -97.99845,
+    "city": "Yale",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 326.0,
+    "density": 1.8,
+    "county_fips": 46005,
+    "county_name": "Beadle",
+    "county_weights": "{\"46005\": 100}",
+    "county_names_all": "Beadle",
+    "county_fips_all": "46005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

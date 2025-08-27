@@ -1,0 +1,20 @@
+{
+    "zip": 46798,
+    "lat": 40.94256,
+    "lng": -85.22113,
+    "city": "Yoder",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1008.0,
+    "density": 21.4,
+    "county_fips": 18003,
+    "county_name": "Allen",
+    "county_weights": "{\"18003\": 96.31, \"18179\": 3.69}",
+    "county_names_all": "Allen|Wells",
+    "county_fips_all": "18003|18179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

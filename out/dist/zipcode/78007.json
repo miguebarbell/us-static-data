@@ -1,0 +1,20 @@
+{
+    "zip": 78007,
+    "lat": 28.48212,
+    "lng": -98.40373,
+    "city": "Calliham",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 229.0,
+    "density": 3.1,
+    "county_fips": 48311,
+    "county_name": "McMullen",
+    "county_weights": "{\"48311\": 100}",
+    "county_names_all": "McMullen",
+    "county_fips_all": "48311",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

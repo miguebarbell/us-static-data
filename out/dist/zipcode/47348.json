@@ -1,0 +1,20 @@
+{
+    "zip": 47348,
+    "lat": 40.45725,
+    "lng": -85.34855,
+    "city": "Hartford City",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8986.0,
+    "density": 29.8,
+    "county_fips": 18009,
+    "county_name": "Blackford",
+    "county_weights": "{\"18009\": 98.26, \"18053\": 1.74}",
+    "county_names_all": "Blackford|Grant",
+    "county_fips_all": "18009|18053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

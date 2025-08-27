@@ -1,0 +1,20 @@
+{
+    "zip": 4462,
+    "lat": 45.86541,
+    "lng": -68.93072,
+    "city": "Millinocket",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4462.0,
+    "density": 2.5,
+    "county_fips": 23021,
+    "county_name": "Piscataquis",
+    "county_weights": "{\"23021\": 70.34, \"23019\": 29.66}",
+    "county_names_all": "Piscataquis|Penobscot",
+    "county_fips_all": "23021|23019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

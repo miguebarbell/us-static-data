@@ -1,0 +1,20 @@
+{
+    "zip": 70518,
+    "lat": 30.13503,
+    "lng": -91.92922,
+    "city": "Broussard",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16667.0,
+    "density": 154.2,
+    "county_fips": 22055,
+    "county_name": "Lafayette",
+    "county_weights": "{\"22055\": 51.37, \"22099\": 45.44, \"22045\": 3.19}",
+    "county_names_all": "Lafayette|St. Martin|Iberia",
+    "county_fips_all": "22055|22099|22045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

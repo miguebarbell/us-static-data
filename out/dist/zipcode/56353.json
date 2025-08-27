@@ -1,0 +1,20 @@
+{
+    "zip": 56353,
+    "lat": 45.79667,
+    "lng": -93.62587,
+    "city": "Milaca",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9489.0,
+    "density": 19.3,
+    "county_fips": 27095,
+    "county_name": "Mille Lacs",
+    "county_weights": "{\"27095\": 94.59, \"27059\": 2.69, \"27065\": 2.6, \"27097\": 0.12}",
+    "county_names_all": "Mille Lacs|Isanti|Kanabec|Morrison",
+    "county_fips_all": "27095|27059|27065|27097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65453,
+    "lat": 38.10706,
+    "lng": -91.42509,
+    "city": "Cuba",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8600.0,
+    "density": 23.2,
+    "county_fips": 29055,
+    "county_name": "Crawford",
+    "county_weights": "{\"29055\": 88.57, \"29073\": 11.43}",
+    "county_names_all": "Crawford|Gasconade",
+    "county_fips_all": "29055|29073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

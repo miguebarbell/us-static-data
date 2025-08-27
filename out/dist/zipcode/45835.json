@@ -1,0 +1,20 @@
+{
+    "zip": 45835,
+    "lat": 40.75898,
+    "lng": -83.70076,
+    "city": "Dola",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 521.0,
+    "density": 10.9,
+    "county_fips": 39065,
+    "county_name": "Hardin",
+    "county_weights": "{\"39065\": 100}",
+    "county_names_all": "Hardin",
+    "county_fips_all": "39065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

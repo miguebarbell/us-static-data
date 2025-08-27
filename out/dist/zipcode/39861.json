@@ -1,0 +1,20 @@
+{
+    "zip": 39861,
+    "lat": 31.13635,
+    "lng": -84.9884,
+    "city": "Jakin",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 927.0,
+    "density": 5.8,
+    "county_fips": 13099,
+    "county_name": "Early",
+    "county_weights": "{\"13099\": 97.96, \"13253\": 2.04}",
+    "county_names_all": "Early|Seminole",
+    "county_fips_all": "13099|13253",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

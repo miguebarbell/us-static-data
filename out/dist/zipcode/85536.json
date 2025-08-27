@@ -1,0 +1,20 @@
+{
+    "zip": 85536,
+    "lat": 33.14063,
+    "lng": -110.00331,
+    "city": "Fort Thomas",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 319.0,
+    "density": 0.9,
+    "county_fips": 4009,
+    "county_name": "Graham",
+    "county_weights": "{\"04009\": 100}",
+    "county_names_all": "Graham",
+    "county_fips_all": "04009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

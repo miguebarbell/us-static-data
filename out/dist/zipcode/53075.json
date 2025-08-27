@@ -1,0 +1,20 @@
+{
+    "zip": 53075,
+    "lat": 43.56318,
+    "lng": -87.99559,
+    "city": "Random Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3245.0,
+    "density": 34.3,
+    "county_fips": 55117,
+    "county_name": "Sheboygan",
+    "county_weights": "{\"55117\": 86.67, \"55089\": 10.1, \"55131\": 3.23}",
+    "county_names_all": "Sheboygan|Ozaukee|Washington",
+    "county_fips_all": "55117|55089|55131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

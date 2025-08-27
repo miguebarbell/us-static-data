@@ -1,0 +1,20 @@
+{
+    "zip": 21610,
+    "lat": 39.3652,
+    "lng": -76.06845,
+    "city": "Betterton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 358.0,
+    "density": 129.9,
+    "county_fips": 24029,
+    "county_name": "Kent",
+    "county_weights": "{\"24029\": 100}",
+    "county_names_all": "Kent",
+    "county_fips_all": "24029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

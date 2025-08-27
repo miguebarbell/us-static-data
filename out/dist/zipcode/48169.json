@@ -1,0 +1,20 @@
+{
+    "zip": 48169,
+    "lat": 42.46348,
+    "lng": -83.94955,
+    "city": "Pinckney",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21080.0,
+    "density": 141.1,
+    "county_fips": 26093,
+    "county_name": "Livingston",
+    "county_weights": "{\"26093\": 92.99, \"26161\": 7.01}",
+    "county_names_all": "Livingston|Washtenaw",
+    "county_fips_all": "26093|26161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

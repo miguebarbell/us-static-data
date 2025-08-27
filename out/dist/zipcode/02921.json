@@ -1,0 +1,20 @@
+{
+    "zip": 2921,
+    "lat": 41.76292,
+    "lng": -71.51571,
+    "city": "Cranston",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12673.0,
+    "density": 375.7,
+    "county_fips": 44007,
+    "county_name": "Providence",
+    "county_weights": "{\"44007\": 100}",
+    "county_names_all": "Providence",
+    "county_fips_all": "44007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

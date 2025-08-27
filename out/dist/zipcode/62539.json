@@ -1,0 +1,20 @@
+{
+    "zip": 62539,
+    "lat": 39.86681,
+    "lng": -89.24914,
+    "city": "Illiopolis",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1342.0,
+    "density": 11.2,
+    "county_fips": 17167,
+    "county_name": "Sangamon",
+    "county_weights": "{\"17167\": 76.85, \"17115\": 23.15}",
+    "county_names_all": "Sangamon|Macon",
+    "county_fips_all": "17167|17115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

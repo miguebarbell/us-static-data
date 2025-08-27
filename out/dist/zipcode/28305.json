@@ -1,0 +1,20 @@
+{
+    "zip": 28305,
+    "lat": 35.05321,
+    "lng": -78.90687,
+    "city": "Fayetteville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5993.0,
+    "density": 889.8,
+    "county_fips": 37051,
+    "county_name": "Cumberland",
+    "county_weights": "{\"37051\": 100}",
+    "county_names_all": "Cumberland",
+    "county_fips_all": "37051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

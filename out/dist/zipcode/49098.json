@@ -1,0 +1,20 @@
+{
+    "zip": 49098,
+    "lat": 42.16756,
+    "lng": -86.2425,
+    "city": "Watervliet",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5791.0,
+    "density": 68.7,
+    "county_fips": 26021,
+    "county_name": "Berrien",
+    "county_weights": "{\"26021\": 77.07, \"26159\": 22.93}",
+    "county_names_all": "Berrien|Van Buren",
+    "county_fips_all": "26021|26159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

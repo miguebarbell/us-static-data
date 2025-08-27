@@ -1,0 +1,20 @@
+{
+    "zip": 31567,
+    "lat": 31.63011,
+    "lng": -82.70705,
+    "city": "West Green",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1146.0,
+    "density": 10.5,
+    "county_fips": 13069,
+    "county_name": "Coffee",
+    "county_weights": "{\"13069\": 100}",
+    "county_names_all": "Coffee",
+    "county_fips_all": "13069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

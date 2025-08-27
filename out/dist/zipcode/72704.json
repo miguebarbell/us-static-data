@@ -1,0 +1,20 @@
+{
+    "zip": 72704,
+    "lat": 36.10475,
+    "lng": -94.29539,
+    "city": "Fayetteville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29475.0,
+    "density": 147.7,
+    "county_fips": 5143,
+    "county_name": "Washington",
+    "county_weights": "{\"05143\": 98.57, \"05007\": 1.43}",
+    "county_names_all": "Washington|Benton",
+    "county_fips_all": "05143|05007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

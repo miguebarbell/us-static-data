@@ -1,0 +1,20 @@
+{
+    "zip": 58229,
+    "lat": 48.5182,
+    "lng": -98.25087,
+    "city": "Fairdale",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 93.0,
+    "density": 0.4,
+    "county_fips": 38099,
+    "county_name": "Walsh",
+    "county_weights": "{\"38099\": 60.65, \"38019\": 32.92, \"38071\": 6.43}",
+    "county_names_all": "Walsh|Cavalier|Ramsey",
+    "county_fips_all": "38099|38019|38071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

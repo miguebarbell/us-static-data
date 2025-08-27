@@ -1,0 +1,20 @@
+{
+    "zip": 30813,
+    "lat": 33.47037,
+    "lng": -82.2193,
+    "city": "Grovetown",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 49986.0,
+    "density": 382.9,
+    "county_fips": 13073,
+    "county_name": "Columbia",
+    "county_weights": "{\"13073\": 95.34, \"13245\": 4.66}",
+    "county_names_all": "Columbia|Richmond",
+    "county_fips_all": "13073|13245",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

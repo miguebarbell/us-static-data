@@ -1,0 +1,20 @@
+{
+    "zip": 58758,
+    "lat": 47.76643,
+    "lng": -100.10424,
+    "city": "Martin",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 267.0,
+    "density": 0.8,
+    "county_fips": 38083,
+    "county_name": "Sheridan",
+    "county_weights": "{\"38083\": 67.53, \"38103\": 17.32, \"38069\": 15.15}",
+    "county_names_all": "Sheridan|Wells|Pierce",
+    "county_fips_all": "38083|38103|38069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

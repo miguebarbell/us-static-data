@@ -1,0 +1,20 @@
+{
+    "zip": 30738,
+    "lat": 34.79534,
+    "lng": -85.47846,
+    "city": "Rising Fawn",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3110.0,
+    "density": 13.5,
+    "county_fips": 13083,
+    "county_name": "Dade",
+    "county_weights": "{\"13083\": 68.3, \"13295\": 31.7}",
+    "county_names_all": "Dade|Walker",
+    "county_fips_all": "13083|13295",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

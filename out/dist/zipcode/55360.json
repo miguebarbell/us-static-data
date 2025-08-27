@@ -1,0 +1,20 @@
+{
+    "zip": 55360,
+    "lat": 44.91331,
+    "lng": -93.92065,
+    "city": "Mayer",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3328.0,
+    "density": 42.0,
+    "county_fips": 27019,
+    "county_name": "Carver",
+    "county_weights": "{\"27019\": 100}",
+    "county_names_all": "Carver",
+    "county_fips_all": "27019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 62340,
+    "lat": 39.7228,
+    "lng": -90.72588,
+    "city": "Griggsville",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1675.0,
+    "density": 7.1,
+    "county_fips": 17149,
+    "county_name": "Pike",
+    "county_weights": "{\"17149\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "17149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

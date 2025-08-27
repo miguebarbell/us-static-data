@@ -1,0 +1,20 @@
+{
+    "zip": 17361,
+    "lat": 39.76617,
+    "lng": -76.67702,
+    "city": "Shrewsbury",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6262.0,
+    "density": 793.0,
+    "county_fips": 42133,
+    "county_name": "York",
+    "county_weights": "{\"42133\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "42133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

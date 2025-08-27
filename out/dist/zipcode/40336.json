@@ -1,0 +1,20 @@
+{
+    "zip": 40336,
+    "lat": 37.68352,
+    "lng": -83.9832,
+    "city": "Irvine",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12650.0,
+    "density": 23.3,
+    "county_fips": 21065,
+    "county_name": "Estill",
+    "county_weights": "{\"21065\": 94.02, \"21129\": 4.25, \"21109\": 1.73}",
+    "county_names_all": "Estill|Lee|Jackson",
+    "county_fips_all": "21065|21129|21109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

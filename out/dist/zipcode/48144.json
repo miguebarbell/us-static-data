@@ -1,0 +1,20 @@
+{
+    "zip": 48144,
+    "lat": 41.75325,
+    "lng": -83.62803,
+    "city": "Lambertville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10275.0,
+    "density": 500.3,
+    "county_fips": 26115,
+    "county_name": "Monroe",
+    "county_weights": "{\"26115\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "26115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

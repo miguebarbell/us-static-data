@@ -1,0 +1,20 @@
+{
+    "zip": 43456,
+    "lat": 41.64934,
+    "lng": -82.82497,
+    "city": "Put In Bay",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 749.0,
+    "density": 114.3,
+    "county_fips": 39123,
+    "county_name": "Ottawa",
+    "county_weights": "{\"39123\": 100}",
+    "county_names_all": "Ottawa",
+    "county_fips_all": "39123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 45042,
+    "lat": 39.54867,
+    "lng": -84.43755,
+    "city": "Middletown",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28217.0,
+    "density": 221.5,
+    "county_fips": 39017,
+    "county_name": "Butler",
+    "county_weights": "{\"39017\": 91.96, \"39135\": 6.5, \"39113\": 0.85, \"39165\": 0.69}",
+    "county_names_all": "Butler|Preble|Montgomery|Warren",
+    "county_fips_all": "39017|39135|39113|39165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 38564,
+    "lat": 36.27144,
+    "lng": -85.75364,
+    "city": "Granville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 435.0,
+    "density": 5.8,
+    "county_fips": 47087,
+    "county_name": "Jackson",
+    "county_weights": "{\"47087\": 90.73, \"47141\": 9.27}",
+    "county_names_all": "Jackson|Putnam",
+    "county_fips_all": "47087|47141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

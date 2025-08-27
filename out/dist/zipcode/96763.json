@@ -1,0 +1,20 @@
+{
+    "zip": 96763,
+    "lat": 20.83512,
+    "lng": -156.92717,
+    "city": "Lanai City",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3333.0,
+    "density": 9.1,
+    "county_fips": 15009,
+    "county_name": "Maui",
+    "county_weights": "{\"15009\": 100}",
+    "county_names_all": "Maui",
+    "county_fips_all": "15009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "Pacific/Honolulu"
+}

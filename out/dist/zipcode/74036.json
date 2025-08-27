@@ -1,0 +1,20 @@
+{
+    "zip": 74036,
+    "lat": 36.15713,
+    "lng": -95.50497,
+    "city": "Inola",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7456.0,
+    "density": 22.4,
+    "county_fips": 40131,
+    "county_name": "Rogers",
+    "county_weights": "{\"40131\": 80.61, \"40097\": 10.55, \"40145\": 8.84}",
+    "county_names_all": "Rogers|Mayes|Wagoner",
+    "county_fips_all": "40131|40097|40145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

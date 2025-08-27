@@ -1,0 +1,20 @@
+{
+    "zip": 73641,
+    "lat": 35.26875,
+    "lng": -99.20252,
+    "city": "Dill City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 487.0,
+    "density": 2.8,
+    "county_fips": 40149,
+    "county_name": "Washita",
+    "county_weights": "{\"40149\": 100}",
+    "county_names_all": "Washita",
+    "county_fips_all": "40149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

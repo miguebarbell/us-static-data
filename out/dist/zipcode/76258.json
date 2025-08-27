@@ -1,0 +1,20 @@
+{
+    "zip": 76258,
+    "lat": 33.37202,
+    "lng": -96.9204,
+    "city": "Pilot Point",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8042.0,
+    "density": 34.4,
+    "county_fips": 48121,
+    "county_name": "Denton",
+    "county_weights": "{\"48121\": 83.25, \"48181\": 15.38, \"48097\": 1.37}",
+    "county_names_all": "Denton|Grayson|Cooke",
+    "county_fips_all": "48121|48181|48097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

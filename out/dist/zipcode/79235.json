@@ -1,0 +1,20 @@
+{
+    "zip": 79235,
+    "lat": 33.94794,
+    "lng": -101.26088,
+    "city": "Floydada",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3111.0,
+    "density": 2.4,
+    "county_fips": 48153,
+    "county_name": "Floyd",
+    "county_weights": "{\"48153\": 88.1, \"48107\": 8.4, \"48345\": 3.5}",
+    "county_names_all": "Floyd|Crosby|Motley",
+    "county_fips_all": "48153|48107|48345",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

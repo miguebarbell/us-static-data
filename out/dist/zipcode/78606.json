@@ -1,0 +1,20 @@
+{
+    "zip": 78606,
+    "lat": 30.09213,
+    "lng": -98.45789,
+    "city": "Blanco",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6977.0,
+    "density": 11.1,
+    "county_fips": 48031,
+    "county_name": "Blanco",
+    "county_weights": "{\"48031\": 75.21, \"48259\": 21.29, \"48091\": 3.5}",
+    "county_names_all": "Blanco|Kendall|Comal",
+    "county_fips_all": "48031|48259|48091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

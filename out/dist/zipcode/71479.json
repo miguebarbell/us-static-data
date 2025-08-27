@@ -1,0 +1,20 @@
+{
+    "zip": 71479,
+    "lat": 31.85129,
+    "lng": -92.36106,
+    "city": "Tullos",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 743.0,
+    "density": 3.6,
+    "county_fips": 22127,
+    "county_name": "Winn",
+    "county_weights": "{\"22127\": 68.83, \"22059\": 31.17}",
+    "county_names_all": "Winn|LaSalle",
+    "county_fips_all": "22127|22059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

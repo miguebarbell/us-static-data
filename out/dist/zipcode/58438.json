@@ -1,0 +1,20 @@
+{
+    "zip": 58438,
+    "lat": 47.66247,
+    "lng": -99.57983,
+    "city": "Fessenden",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 688.0,
+    "density": 1.7,
+    "county_fips": 38103,
+    "county_name": "Wells",
+    "county_weights": "{\"38103\": 100}",
+    "county_names_all": "Wells",
+    "county_fips_all": "38103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

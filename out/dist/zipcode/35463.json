@@ -1,0 +1,20 @@
+{
+    "zip": 35463,
+    "lat": 33.0563,
+    "lng": -87.68687,
+    "city": "Fosters",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1885.0,
+    "density": 12.7,
+    "county_fips": 1125,
+    "county_name": "Tuscaloosa",
+    "county_weights": "{\"01125\": 82.98, \"01063\": 17.02}",
+    "county_names_all": "Tuscaloosa|Greene",
+    "county_fips_all": "01125|01063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

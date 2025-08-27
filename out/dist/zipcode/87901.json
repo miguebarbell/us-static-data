@@ -1,0 +1,20 @@
+{
+    "zip": 87901,
+    "lat": 33.1753,
+    "lng": -107.01908,
+    "city": "Truth Or Consequences",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6459.0,
+    "density": 2.3,
+    "county_fips": 35051,
+    "county_name": "Sierra",
+    "county_weights": "{\"35051\": 100}",
+    "county_names_all": "Sierra",
+    "county_fips_all": "35051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

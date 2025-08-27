@@ -1,0 +1,20 @@
+{
+    "zip": 40949,
+    "lat": 36.90253,
+    "lng": -83.86717,
+    "city": "Heidrick",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 409.0,
+    "density": 80.8,
+    "county_fips": 21121,
+    "county_name": "Knox",
+    "county_weights": "{\"21121\": 100}",
+    "county_names_all": "Knox",
+    "county_fips_all": "21121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

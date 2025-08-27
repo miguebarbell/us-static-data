@@ -1,0 +1,20 @@
+{
+    "zip": 76308,
+    "lat": 33.85684,
+    "lng": -98.5378,
+    "city": "Wichita Falls",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21267.0,
+    "density": 1046.1,
+    "county_fips": 48485,
+    "county_name": "Wichita",
+    "county_weights": "{\"48485\": 85.66, \"48009\": 14.34}",
+    "county_names_all": "Wichita|Archer",
+    "county_fips_all": "48485|48009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

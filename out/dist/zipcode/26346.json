@@ -1,0 +1,20 @@
+{
+    "zip": 26346,
+    "lat": 39.29247,
+    "lng": -81.06294,
+    "city": "Ellenboro",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 637.0,
+    "density": 10.1,
+    "county_fips": 54085,
+    "county_name": "Ritchie",
+    "county_weights": "{\"54085\": 88.72, \"54073\": 10.79, \"54095\": 0.49}",
+    "county_names_all": "Ritchie|Pleasants|Tyler",
+    "county_fips_all": "54085|54073|54095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

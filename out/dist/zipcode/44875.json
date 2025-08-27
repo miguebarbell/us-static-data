@@ -1,0 +1,20 @@
+{
+    "zip": 44875,
+    "lat": 40.88645,
+    "lng": -82.6489,
+    "city": "Shelby",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14026.0,
+    "density": 66.4,
+    "county_fips": 39139,
+    "county_name": "Richland",
+    "county_weights": "{\"39139\": 93.17, \"39033\": 6.83}",
+    "county_names_all": "Richland|Crawford",
+    "county_fips_all": "39139|39033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

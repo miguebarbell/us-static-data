@@ -1,0 +1,20 @@
+{
+    "zip": 87013,
+    "lat": 35.90014,
+    "lng": -107.33509,
+    "city": "Cuba",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5314.0,
+    "density": 1.8,
+    "county_fips": 35043,
+    "county_name": "Sandoval",
+    "county_weights": "{\"35043\": 55.17, \"35031\": 44.35, \"35039\": 0.48}",
+    "county_names_all": "Sandoval|McKinley|Rio Arriba",
+    "county_fips_all": "35043|35031|35039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

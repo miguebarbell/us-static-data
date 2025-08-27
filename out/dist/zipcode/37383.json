@@ -1,0 +1,20 @@
+{
+    "zip": 37383,
+    "lat": 35.20984,
+    "lng": -85.91373,
+    "city": "Sewanee",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 326.0,
+    "density": 860.5,
+    "county_fips": 47051,
+    "county_name": "Franklin",
+    "county_weights": "{\"47051\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "47051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

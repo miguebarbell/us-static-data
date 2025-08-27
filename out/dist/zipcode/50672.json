@@ -1,0 +1,20 @@
+{
+    "zip": 50672,
+    "lat": 42.4247,
+    "lng": -93.06545,
+    "city": "Steamboat Rock",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 438.0,
+    "density": 4.5,
+    "county_fips": 19083,
+    "county_name": "Hardin",
+    "county_weights": "{\"19083\": 90.67, \"19075\": 9.33}",
+    "county_names_all": "Hardin|Grundy",
+    "county_fips_all": "19083|19075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 45123,
+    "lat": 39.3487,
+    "lng": -83.38866,
+    "city": "Greenfield",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8739.0,
+    "density": 31.6,
+    "county_fips": 39071,
+    "county_name": "Highland",
+    "county_weights": "{\"39071\": 43.29, \"39141\": 32.87, \"39047\": 23.84}",
+    "county_names_all": "Highland|Ross|Fayette",
+    "county_fips_all": "39071|39141|39047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

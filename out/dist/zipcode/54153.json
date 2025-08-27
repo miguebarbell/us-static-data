@@ -1,0 +1,20 @@
+{
+    "zip": 54153,
+    "lat": 44.89939,
+    "lng": -87.92516,
+    "city": "Oconto",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7401.0,
+    "density": 28.1,
+    "county_fips": 55083,
+    "county_name": "Oconto",
+    "county_weights": "{\"55083\": 100}",
+    "county_names_all": "Oconto",
+    "county_fips_all": "55083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

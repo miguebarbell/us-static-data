@@ -1,0 +1,20 @@
+{
+    "zip": 30071,
+    "lat": 33.93977,
+    "lng": -84.20561,
+    "city": "Norcross",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26140.0,
+    "density": 834.3,
+    "county_fips": 13135,
+    "county_name": "Gwinnett",
+    "county_weights": "{\"13135\": 100}",
+    "county_names_all": "Gwinnett",
+    "county_fips_all": "13135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

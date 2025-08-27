@@ -1,0 +1,20 @@
+{
+    "zip": 79602,
+    "lat": 32.33568,
+    "lng": -99.6699,
+    "city": "Abilene",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26588.0,
+    "density": 84.4,
+    "county_fips": 48441,
+    "county_name": "Taylor",
+    "county_weights": "{\"48441\": 77.47, \"48059\": 22.53}",
+    "county_names_all": "Taylor|Callahan",
+    "county_fips_all": "48441|48059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

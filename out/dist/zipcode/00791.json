@@ -1,0 +1,20 @@
+{
+    "zip": 791,
+    "lat": 18.14391,
+    "lng": -65.81398,
+    "city": "Humacao",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 45912.0,
+    "density": 415.8,
+    "county_fips": 72069,
+    "county_name": "Humacao",
+    "county_weights": "{\"72069\": 97.87, \"72085\": 1.16, \"72151\": 0.96}",
+    "county_names_all": "Humacao|Las Piedras|Yabucoa",
+    "county_fips_all": "72069|72085|72151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

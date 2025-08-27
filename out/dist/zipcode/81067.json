@@ -1,0 +1,20 @@
+{
+    "zip": 81067,
+    "lat": 38.01674,
+    "lng": -103.72326,
+    "city": "Rocky Ford",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5590.0,
+    "density": 10.0,
+    "county_fips": 8089,
+    "county_name": "Otero",
+    "county_weights": "{\"08089\": 100}",
+    "county_names_all": "Otero",
+    "county_fips_all": "08089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

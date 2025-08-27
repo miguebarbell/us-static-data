@@ -1,0 +1,20 @@
+{
+    "zip": 44822,
+    "lat": 40.55705,
+    "lng": -82.39929,
+    "city": "Butler",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4119.0,
+    "density": 34.9,
+    "county_fips": 39139,
+    "county_name": "Richland",
+    "county_weights": "{\"39139\": 58.88, \"39083\": 41.12}",
+    "county_names_all": "Richland|Knox",
+    "county_fips_all": "39139|39083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

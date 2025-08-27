@@ -1,0 +1,20 @@
+{
+    "zip": 29696,
+    "lat": 34.77458,
+    "lng": -83.00771,
+    "city": "West Union",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5301.0,
+    "density": 93.4,
+    "county_fips": 45073,
+    "county_name": "Oconee",
+    "county_weights": "{\"45073\": 100}",
+    "county_names_all": "Oconee",
+    "county_fips_all": "45073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

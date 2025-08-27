@@ -1,0 +1,20 @@
+{
+    "zip": 81615,
+    "lat": 39.21437,
+    "lng": -106.94172,
+    "city": "Snowmass Village",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3048.0,
+    "density": 46.5,
+    "county_fips": 8097,
+    "county_name": "Pitkin",
+    "county_weights": "{\"08097\": 100}",
+    "county_names_all": "Pitkin",
+    "county_fips_all": "08097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

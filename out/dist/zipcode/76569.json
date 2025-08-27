@@ -1,0 +1,20 @@
+{
+    "zip": 76569,
+    "lat": 30.93873,
+    "lng": -97.21904,
+    "city": "Rogers",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2946.0,
+    "density": 11.9,
+    "county_fips": 48027,
+    "county_name": "Bell",
+    "county_weights": "{\"48027\": 72.62, \"48331\": 27.38}",
+    "county_names_all": "Bell|Milam",
+    "county_fips_all": "48027|48331",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

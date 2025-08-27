@@ -1,0 +1,20 @@
+{
+    "zip": 60184,
+    "lat": 41.95208,
+    "lng": -88.25323,
+    "city": "Wayne",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2280.0,
+    "density": 104.5,
+    "county_fips": 17043,
+    "county_name": "DuPage",
+    "county_weights": "{\"17043\": 65.75, \"17089\": 34.25}",
+    "county_names_all": "DuPage|Kane",
+    "county_fips_all": "17043|17089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

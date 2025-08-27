@@ -1,0 +1,20 @@
+{
+    "zip": 37387,
+    "lat": 35.27745,
+    "lng": -85.71427,
+    "city": "Tracy City",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3982.0,
+    "density": 20.7,
+    "county_fips": 47061,
+    "county_name": "Grundy",
+    "county_weights": "{\"47061\": 68.72, \"47115\": 31.28}",
+    "county_names_all": "Grundy|Marion",
+    "county_fips_all": "47061|47115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

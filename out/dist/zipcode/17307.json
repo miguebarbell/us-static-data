@@ -1,0 +1,20 @@
+{
+    "zip": 17307,
+    "lat": 39.94853,
+    "lng": -77.314,
+    "city": "Biglerville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5677.0,
+    "density": 36.9,
+    "county_fips": 42001,
+    "county_name": "Adams",
+    "county_weights": "{\"42001\": 90.63, \"42041\": 9.37}",
+    "county_names_all": "Adams|Cumberland",
+    "county_fips_all": "42001|42041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

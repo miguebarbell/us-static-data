@@ -1,0 +1,20 @@
+{
+    "zip": 38030,
+    "lat": 35.99942,
+    "lng": -89.59981,
+    "city": "Finley",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 166.0,
+    "density": 0.6,
+    "county_fips": 47045,
+    "county_name": "Dyer",
+    "county_weights": "{\"47045\": 100}",
+    "county_names_all": "Dyer",
+    "county_fips_all": "47045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

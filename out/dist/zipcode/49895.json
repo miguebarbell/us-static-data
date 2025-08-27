@@ -1,0 +1,20 @@
+{
+    "zip": 49895,
+    "lat": 46.16807,
+    "lng": -86.66593,
+    "city": "Wetmore",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 863.0,
+    "density": 1.5,
+    "county_fips": 26041,
+    "county_name": "Delta",
+    "county_weights": "{\"26041\": 49.0, \"26003\": 44.35, \"26153\": 6.65}",
+    "county_names_all": "Delta|Alger|Schoolcraft",
+    "county_fips_all": "26041|26003|26153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 39044,
+    "lat": 32.02869,
+    "lng": -89.97161,
+    "city": "Braxton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2748.0,
+    "density": 7.6,
+    "county_fips": 28127,
+    "county_name": "Simpson",
+    "county_weights": "{\"28127\": 59.26, \"28121\": 40.74}",
+    "county_names_all": "Simpson|Rankin",
+    "county_fips_all": "28127|28121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

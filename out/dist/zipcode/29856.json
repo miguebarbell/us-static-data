@@ -1,0 +1,20 @@
+{
+    "zip": 29856,
+    "lat": 33.48365,
+    "lng": -81.51276,
+    "city": "Windsor",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3473.0,
+    "density": 24.7,
+    "county_fips": 45003,
+    "county_name": "Aiken",
+    "county_weights": "{\"45003\": 100}",
+    "county_names_all": "Aiken",
+    "county_fips_all": "45003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

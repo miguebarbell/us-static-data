@@ -1,0 +1,20 @@
+{
+    "zip": 56021,
+    "lat": 44.28339,
+    "lng": -94.31391,
+    "city": "Courtland",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1123.0,
+    "density": 12.1,
+    "county_fips": 27103,
+    "county_name": "Nicollet",
+    "county_weights": "{\"27103\": 100}",
+    "county_names_all": "Nicollet",
+    "county_fips_all": "27103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

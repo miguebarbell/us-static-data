@@ -1,0 +1,20 @@
+{
+    "zip": 7656,
+    "lat": 41.03524,
+    "lng": -74.04232,
+    "city": "Park Ridge",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9218.0,
+    "density": 1365.2,
+    "county_fips": 34003,
+    "county_name": "Bergen",
+    "county_weights": "{\"34003\": 100}",
+    "county_names_all": "Bergen",
+    "county_fips_all": "34003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

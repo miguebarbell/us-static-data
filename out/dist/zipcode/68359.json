@@ -1,0 +1,20 @@
+{
+    "zip": 68359,
+    "lat": 40.63059,
+    "lng": -97.28333,
+    "city": "Friend",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1512.0,
+    "density": 4.9,
+    "county_fips": 31151,
+    "county_name": "Saline",
+    "county_weights": "{\"31151\": 85.42, \"31159\": 14.16, \"31059\": 0.42}",
+    "county_names_all": "Saline|Seward|Fillmore",
+    "county_fips_all": "31151|31159|31059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

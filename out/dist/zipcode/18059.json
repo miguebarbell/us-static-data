@@ -1,0 +1,20 @@
+{
+    "zip": 18059,
+    "lat": 40.7233,
+    "lng": -75.53644,
+    "city": "Laurys Station",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 547.0,
+    "density": 131.1,
+    "county_fips": 42077,
+    "county_name": "Lehigh",
+    "county_weights": "{\"42077\": 100}",
+    "county_names_all": "Lehigh",
+    "county_fips_all": "42077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

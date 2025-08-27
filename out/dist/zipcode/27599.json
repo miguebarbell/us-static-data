@@ -1,0 +1,20 @@
+{
+    "zip": 27599,
+    "lat": 35.90394,
+    "lng": -79.05234,
+    "city": "Chapel Hill",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 37135,
+    "county_name": "Orange",
+    "county_weights": "{\"37135\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "37135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

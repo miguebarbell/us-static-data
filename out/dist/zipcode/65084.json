@@ -1,0 +1,20 @@
+{
+    "zip": 65084,
+    "lat": 38.43574,
+    "lng": -92.85119,
+    "city": "Versailles",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7269.0,
+    "density": 16.7,
+    "county_fips": 29141,
+    "county_name": "Morgan",
+    "county_weights": "{\"29141\": 98.75, \"29135\": 1.25}",
+    "county_names_all": "Morgan|Moniteau",
+    "county_fips_all": "29141|29135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

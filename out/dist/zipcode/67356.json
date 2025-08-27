@@ -1,0 +1,20 @@
+{
+    "zip": 67356,
+    "lat": 37.17886,
+    "lng": -95.14161,
+    "city": "Oswego",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2693.0,
+    "density": 8.6,
+    "county_fips": 20099,
+    "county_name": "Labette",
+    "county_weights": "{\"20099\": 92.32, \"20021\": 7.68}",
+    "county_names_all": "Labette|Cherokee",
+    "county_fips_all": "20099|20021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

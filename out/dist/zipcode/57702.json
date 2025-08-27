@@ -1,0 +1,20 @@
+{
+    "zip": 57702,
+    "lat": 44.03085,
+    "lng": -103.38433,
+    "city": "Rapid City",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35771.0,
+    "density": 48.3,
+    "county_fips": 46103,
+    "county_name": "Pennington",
+    "county_weights": "{\"46103\": 94.34, \"46093\": 5.66}",
+    "county_names_all": "Pennington|Meade",
+    "county_fips_all": "46103|46093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

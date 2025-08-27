@@ -1,0 +1,20 @@
+{
+    "zip": 37921,
+    "lat": 35.97877,
+    "lng": -84.00028,
+    "city": "Knoxville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29064.0,
+    "density": 705.7,
+    "county_fips": 47093,
+    "county_name": "Knox",
+    "county_weights": "{\"47093\": 100}",
+    "county_names_all": "Knox",
+    "county_fips_all": "47093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 82732,
+    "lat": 43.725,
+    "lng": -105.57871,
+    "city": "Wright",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1559.0,
+    "density": 7.8,
+    "county_fips": 56005,
+    "county_name": "Campbell",
+    "county_weights": "{\"56005\": 100}",
+    "county_names_all": "Campbell",
+    "county_fips_all": "56005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

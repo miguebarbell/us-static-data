@@ -1,0 +1,20 @@
+{
+    "zip": 72454,
+    "lat": 36.40083,
+    "lng": -90.20623,
+    "city": "Piggott",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4699.0,
+    "density": 18.2,
+    "county_fips": 5021,
+    "county_name": "Clay",
+    "county_weights": "{\"05021\": 100}",
+    "county_names_all": "Clay",
+    "county_fips_all": "05021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

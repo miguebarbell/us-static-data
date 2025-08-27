@@ -1,0 +1,20 @@
+{
+    "zip": 81418,
+    "lat": 38.90479,
+    "lng": -108.05687,
+    "city": "Eckert",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1761.0,
+    "density": 9.6,
+    "county_fips": 8029,
+    "county_name": "Delta",
+    "county_weights": "{\"08029\": 100}",
+    "county_names_all": "Delta",
+    "county_fips_all": "08029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

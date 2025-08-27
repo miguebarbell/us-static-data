@@ -1,0 +1,20 @@
+{
+    "zip": 45897,
+    "lat": 40.83434,
+    "lng": -83.65676,
+    "city": "Williamstown",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 91.0,
+    "density": 29.3,
+    "county_fips": 39063,
+    "county_name": "Hancock",
+    "county_weights": "{\"39063\": 100}",
+    "county_names_all": "Hancock",
+    "county_fips_all": "39063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

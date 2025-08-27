@@ -1,0 +1,20 @@
+{
+    "zip": 39301,
+    "lat": 32.27289,
+    "lng": -88.59226,
+    "city": "Meridian",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21184.0,
+    "density": 31.4,
+    "county_fips": 28075,
+    "county_name": "Lauderdale",
+    "county_weights": "{\"28075\": 68.91, \"28023\": 31.09}",
+    "county_names_all": "Lauderdale|Clarke",
+    "county_fips_all": "28075|28023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

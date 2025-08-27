@@ -1,0 +1,20 @@
+{
+    "zip": 99402,
+    "lat": 46.1868,
+    "lng": -117.14922,
+    "city": "Asotin",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1628.0,
+    "density": 1.9,
+    "county_fips": 53003,
+    "county_name": "Asotin",
+    "county_weights": "{\"53003\": 100}",
+    "county_names_all": "Asotin",
+    "county_fips_all": "53003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

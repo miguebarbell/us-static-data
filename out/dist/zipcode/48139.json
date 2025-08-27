@@ -1,0 +1,20 @@
+{
+    "zip": 48139,
+    "lat": 42.45298,
+    "lng": -83.80796,
+    "city": "Hamburg",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 81.0,
+    "density": 53.5,
+    "county_fips": 26093,
+    "county_name": "Livingston",
+    "county_weights": "{\"26093\": 100}",
+    "county_names_all": "Livingston",
+    "county_fips_all": "26093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

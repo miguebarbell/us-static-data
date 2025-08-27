@@ -1,0 +1,20 @@
+{
+    "zip": 78342,
+    "lat": 27.66012,
+    "lng": -98.07572,
+    "city": "Ben Bolt",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 338.0,
+    "density": 74.2,
+    "county_fips": 48249,
+    "county_name": "Jim Wells",
+    "county_weights": "{\"48249\": 100}",
+    "county_names_all": "Jim Wells",
+    "county_fips_all": "48249",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

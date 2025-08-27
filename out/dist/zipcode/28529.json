@@ -1,0 +1,20 @@
+{
+    "zip": 28529,
+    "lat": 35.12237,
+    "lng": -76.86848,
+    "city": "Grantsboro",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2074.0,
+    "density": 14.6,
+    "county_fips": 37137,
+    "county_name": "Pamlico",
+    "county_weights": "{\"37137\": 100}",
+    "county_names_all": "Pamlico",
+    "county_fips_all": "37137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

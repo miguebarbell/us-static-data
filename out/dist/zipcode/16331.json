@@ -1,0 +1,20 @@
+{
+    "zip": 16331,
+    "lat": 41.29047,
+    "lng": -79.56435,
+    "city": "Kossuth",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 147.0,
+    "density": 31.5,
+    "county_fips": 42031,
+    "county_name": "Clarion",
+    "county_weights": "{\"42031\": 100}",
+    "county_names_all": "Clarion",
+    "county_fips_all": "42031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

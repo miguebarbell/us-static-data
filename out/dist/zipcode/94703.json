@@ -1,0 +1,20 @@
+{
+    "zip": 94703,
+    "lat": 37.86397,
+    "lng": -122.27573,
+    "city": "Berkeley",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20874.0,
+    "density": 6258.9,
+    "county_fips": 6001,
+    "county_name": "Alameda",
+    "county_weights": "{\"06001\": 100}",
+    "county_names_all": "Alameda",
+    "county_fips_all": "06001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

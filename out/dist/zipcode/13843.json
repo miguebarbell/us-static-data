@@ -1,0 +1,20 @@
+{
+    "zip": 13843,
+    "lat": 42.53468,
+    "lng": -75.37584,
+    "city": "South New Berlin",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2014.0,
+    "density": 14.9,
+    "county_fips": 36077,
+    "county_name": "Otsego",
+    "county_weights": "{\"36077\": 50.38, \"36017\": 49.62}",
+    "county_names_all": "Otsego|Chenango",
+    "county_fips_all": "36077|36017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

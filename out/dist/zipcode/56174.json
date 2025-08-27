@@ -1,0 +1,20 @@
+{
+    "zip": 56174,
+    "lat": 44.01525,
+    "lng": -95.30466,
+    "city": "Storden",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 420.0,
+    "density": 4.1,
+    "county_fips": 27033,
+    "county_name": "Cottonwood",
+    "county_weights": "{\"27033\": 100}",
+    "county_names_all": "Cottonwood",
+    "county_fips_all": "27033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

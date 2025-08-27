@@ -1,0 +1,20 @@
+{
+    "zip": 37811,
+    "lat": 36.35558,
+    "lng": -83.2144,
+    "city": "Mooresburg",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4156.0,
+    "density": 41.5,
+    "county_fips": 47073,
+    "county_name": "Hawkins",
+    "county_weights": "{\"47073\": 98.39, \"47057\": 1.61}",
+    "county_names_all": "Hawkins|Grainger",
+    "county_fips_all": "47073|47057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

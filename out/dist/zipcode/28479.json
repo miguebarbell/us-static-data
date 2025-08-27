@@ -1,0 +1,20 @@
+{
+    "zip": 28479,
+    "lat": 34.09488,
+    "lng": -78.01496,
+    "city": "Winnabow",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6971.0,
+    "density": 29.0,
+    "county_fips": 37019,
+    "county_name": "Brunswick",
+    "county_weights": "{\"37019\": 100}",
+    "county_names_all": "Brunswick",
+    "county_fips_all": "37019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 57076,
+    "lat": 43.97673,
+    "lng": -97.35307,
+    "city": "Winfred",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 373.0,
+    "density": 1.4,
+    "county_fips": 46079,
+    "county_name": "Lake",
+    "county_weights": "{\"46079\": 53.38, \"46097\": 46.62}",
+    "county_names_all": "Lake|Miner",
+    "county_fips_all": "46079|46097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

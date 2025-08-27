@@ -1,0 +1,20 @@
+{
+    "zip": 31087,
+    "lat": 33.26609,
+    "lng": -83.00712,
+    "city": "Sparta",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8679.0,
+    "density": 7.6,
+    "county_fips": 13141,
+    "county_name": "Hancock",
+    "county_weights": "{\"13141\": 97.67, \"13009\": 1.6, \"13303\": 0.73}",
+    "county_names_all": "Hancock|Baldwin|Washington",
+    "county_fips_all": "13141|13009|13303",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

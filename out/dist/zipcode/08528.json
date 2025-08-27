@@ -1,0 +1,20 @@
+{
+    "zip": 8528,
+    "lat": 40.38791,
+    "lng": -74.61744,
+    "city": "Kingston",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 331.0,
+    "density": 135.2,
+    "county_fips": 34035,
+    "county_name": "Somerset",
+    "county_weights": "{\"34035\": 94.84, \"34023\": 5.16}",
+    "county_names_all": "Somerset|Middlesex",
+    "county_fips_all": "34035|34023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

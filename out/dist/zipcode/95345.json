@@ -1,0 +1,20 @@
+{
+    "zip": 95345,
+    "lat": 37.58784,
+    "lng": -119.96408,
+    "city": "Midpines",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 318.0,
+    "density": 3.2,
+    "county_fips": 6043,
+    "county_name": "Mariposa",
+    "county_weights": "{\"06043\": 100}",
+    "county_names_all": "Mariposa",
+    "county_fips_all": "06043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

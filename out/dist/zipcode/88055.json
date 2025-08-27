@@ -1,0 +1,20 @@
+{
+    "zip": 88055,
+    "lat": 32.7497,
+    "lng": -108.73985,
+    "city": "Redrock",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 35017,
+    "county_name": "Grant",
+    "county_weights": "{\"35017\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "35017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

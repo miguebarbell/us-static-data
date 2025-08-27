@@ -1,0 +1,20 @@
+{
+    "zip": 17810,
+    "lat": 41.1123,
+    "lng": -77.02543,
+    "city": "Allenwood",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5769.0,
+    "density": 40.4,
+    "county_fips": 42081,
+    "county_name": "Lycoming",
+    "county_weights": "{\"42081\": 73.46, \"42119\": 26.54}",
+    "county_names_all": "Lycoming|Union",
+    "county_fips_all": "42081|42119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

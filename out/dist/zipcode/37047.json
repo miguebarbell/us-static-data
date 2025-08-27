@@ -1,0 +1,20 @@
+{
+    "zip": 37047,
+    "lat": 35.31291,
+    "lng": -86.83191,
+    "city": "Cornersville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2685.0,
+    "density": 15.7,
+    "county_fips": 47117,
+    "county_name": "Marshall",
+    "county_weights": "{\"47117\": 78.22, \"47055\": 19.93, \"47103\": 1.85}",
+    "county_names_all": "Marshall|Giles|Lincoln",
+    "county_fips_all": "47117|47055|47103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

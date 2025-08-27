@@ -1,0 +1,20 @@
+{
+    "zip": 97814,
+    "lat": 44.80075,
+    "lng": -117.77034,
+    "city": "Baker City",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12829.0,
+    "density": 6.0,
+    "county_fips": 41001,
+    "county_name": "Baker",
+    "county_weights": "{\"41001\": 94.87, \"41061\": 5.13}",
+    "county_names_all": "Baker|Union",
+    "county_fips_all": "41001|41061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

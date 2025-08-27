@@ -1,0 +1,20 @@
+{
+    "zip": 68758,
+    "lat": 41.7829,
+    "lng": -97.78863,
+    "city": "Newman Grove",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1307.0,
+    "density": 4.5,
+    "county_fips": 31119,
+    "county_name": "Madison",
+    "county_weights": "{\"31119\": 56.41, \"31141\": 24.53, \"31011\": 19.06}",
+    "county_names_all": "Madison|Platte|Boone",
+    "county_fips_all": "31119|31141|31011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

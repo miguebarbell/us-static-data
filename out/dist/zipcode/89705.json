@@ -1,0 +1,20 @@
+{
+    "zip": 89705,
+    "lat": 39.09003,
+    "lng": -119.83689,
+    "city": "Carson City",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5100.0,
+    "density": 84.9,
+    "county_fips": 32005,
+    "county_name": "Douglas",
+    "county_weights": "{\"32005\": 95.93, \"32510\": 4.07}",
+    "county_names_all": "Douglas|Carson City",
+    "county_fips_all": "32005|32510",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

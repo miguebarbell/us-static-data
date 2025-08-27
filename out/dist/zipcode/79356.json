@@ -1,0 +1,20 @@
+{
+    "zip": 79356,
+    "lat": 33.2562,
+    "lng": -101.33245,
+    "city": "Post",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5362.0,
+    "density": 2.5,
+    "county_fips": 48169,
+    "county_name": "Garza",
+    "county_weights": "{\"48169\": 75.82, \"48107\": 15.42, \"48305\": 8.76}",
+    "county_names_all": "Garza|Crosby|Lynn",
+    "county_fips_all": "48169|48107|48305",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

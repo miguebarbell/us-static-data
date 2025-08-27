@@ -1,0 +1,20 @@
+{
+    "zip": 2543,
+    "lat": 41.48731,
+    "lng": -70.74525,
+    "city": "Woods Hole",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 810.0,
+    "density": 27.6,
+    "county_fips": 25007,
+    "county_name": "Dukes",
+    "county_weights": "{\"25007\": 83.01, \"25001\": 16.99}",
+    "county_names_all": "Dukes|Barnstable",
+    "county_fips_all": "25007|25001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

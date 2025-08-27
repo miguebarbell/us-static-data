@@ -1,0 +1,20 @@
+{
+    "zip": 78072,
+    "lat": 28.32631,
+    "lng": -98.58357,
+    "city": "Tilden",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 277.0,
+    "density": 0.1,
+    "county_fips": 48311,
+    "county_name": "McMullen",
+    "county_weights": "{\"48311\": 100}",
+    "county_names_all": "McMullen",
+    "county_fips_all": "48311",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

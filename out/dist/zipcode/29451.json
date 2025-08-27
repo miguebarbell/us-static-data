@@ -1,0 +1,20 @@
+{
+    "zip": 29451,
+    "lat": 32.81633,
+    "lng": -79.75266,
+    "city": "Isle Of Palms",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4382.0,
+    "density": 185.6,
+    "county_fips": 45019,
+    "county_name": "Charleston",
+    "county_weights": "{\"45019\": 100}",
+    "county_names_all": "Charleston",
+    "county_fips_all": "45019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 74553,
+    "lat": 34.70808,
+    "lng": -95.91859,
+    "city": "Kiowa",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1374.0,
+    "density": 6.7,
+    "county_fips": 40121,
+    "county_name": "Pittsburg",
+    "county_weights": "{\"40121\": 69.89, \"40005\": 30.11}",
+    "county_names_all": "Pittsburg|Atoka",
+    "county_fips_all": "40121|40005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

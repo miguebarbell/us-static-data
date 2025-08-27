@@ -1,0 +1,20 @@
+{
+    "zip": 96740,
+    "lat": 19.74422,
+    "lng": -155.89951,
+    "city": "Kailua Kona",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40805.0,
+    "density": 65.0,
+    "county_fips": 15001,
+    "county_name": "Hawaii",
+    "county_weights": "{\"15001\": 100}",
+    "county_names_all": "Hawaii",
+    "county_fips_all": "15001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "Pacific/Honolulu"
+}

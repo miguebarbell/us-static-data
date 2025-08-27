@@ -1,0 +1,20 @@
+{
+    "zip": 62939,
+    "lat": 37.5489,
+    "lng": -88.98088,
+    "city": "Goreville",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3072.0,
+    "density": 26.5,
+    "county_fips": 17087,
+    "county_name": "Johnson",
+    "county_weights": "{\"17087\": 89.65, \"17181\": 6.39, \"17199\": 3.96}",
+    "county_names_all": "Johnson|Union|Williamson",
+    "county_fips_all": "17087|17181|17199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

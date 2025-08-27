@@ -1,0 +1,20 @@
+{
+    "zip": 34285,
+    "lat": 27.0918,
+    "lng": -82.43408,
+    "city": "Venice",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18821.0,
+    "density": 872.1,
+    "county_fips": 12115,
+    "county_name": "Sarasota",
+    "county_weights": "{\"12115\": 100}",
+    "county_names_all": "Sarasota",
+    "county_fips_all": "12115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

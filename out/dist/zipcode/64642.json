@@ -1,0 +1,20 @@
+{
+    "zip": 64642,
+    "lat": 40.16979,
+    "lng": -93.83574,
+    "city": "Gilman City",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 694.0,
+    "density": 2.4,
+    "county_fips": 29081,
+    "county_name": "Harrison",
+    "county_weights": "{\"29081\": 64.5, \"29061\": 23.76, \"29079\": 11.74}",
+    "county_names_all": "Harrison|Daviess|Grundy",
+    "county_fips_all": "29081|29061|29079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

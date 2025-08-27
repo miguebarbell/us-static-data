@@ -1,0 +1,20 @@
+{
+    "zip": 88130,
+    "lat": 34.1285,
+    "lng": -103.31825,
+    "city": "Portales",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17865.0,
+    "density": 10.9,
+    "county_fips": 35041,
+    "county_name": "Roosevelt",
+    "county_weights": "{\"35041\": 100}",
+    "county_names_all": "Roosevelt",
+    "county_fips_all": "35041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

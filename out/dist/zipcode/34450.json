@@ -1,0 +1,20 @@
+{
+    "zip": 34450,
+    "lat": 28.82699,
+    "lng": -82.25767,
+    "city": "Inverness",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10408.0,
+    "density": 128.9,
+    "county_fips": 12017,
+    "county_name": "Citrus",
+    "county_weights": "{\"12017\": 100}",
+    "county_names_all": "Citrus",
+    "county_fips_all": "12017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

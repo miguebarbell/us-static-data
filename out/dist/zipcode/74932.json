@@ -1,0 +1,20 @@
+{
+    "zip": 74932,
+    "lat": 35.14701,
+    "lng": -94.53501,
+    "city": "Cameron",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2550.0,
+    "density": 12.2,
+    "county_fips": 40079,
+    "county_name": "Le Flore",
+    "county_weights": "{\"40079\": 100}",
+    "county_names_all": "Le Flore",
+    "county_fips_all": "40079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

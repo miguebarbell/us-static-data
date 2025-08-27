@@ -1,0 +1,20 @@
+{
+    "zip": 71758,
+    "lat": 33.30899,
+    "lng": -92.91435,
+    "city": "Mount Holly",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 85.0,
+    "density": 0.5,
+    "county_fips": 5139,
+    "county_name": "Union",
+    "county_weights": "{\"05139\": 100}",
+    "county_names_all": "Union",
+    "county_fips_all": "05139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49958,
+    "lat": 46.8165,
+    "lng": -88.67595,
+    "city": "Pelkie",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 900.0,
+    "density": 2.6,
+    "county_fips": 26061,
+    "county_name": "Houghton",
+    "county_weights": "{\"26061\": 69.74, \"26013\": 30.26}",
+    "county_names_all": "Houghton|Baraga",
+    "county_fips_all": "26061|26013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

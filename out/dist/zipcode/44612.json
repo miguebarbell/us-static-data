@@ -1,0 +1,20 @@
+{
+    "zip": 44612,
+    "lat": 40.63488,
+    "lng": -81.46098,
+    "city": "Bolivar",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5494.0,
+    "density": 80.1,
+    "county_fips": 39157,
+    "county_name": "Tuscarawas",
+    "county_weights": "{\"39157\": 83.82, \"39151\": 16.18}",
+    "county_names_all": "Tuscarawas|Stark",
+    "county_fips_all": "39157|39151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

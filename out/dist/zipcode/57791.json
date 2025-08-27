@@ -1,0 +1,20 @@
+{
+    "zip": 57791,
+    "lat": 44.24388,
+    "lng": -102.46514,
+    "city": "Wasta",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 137.0,
+    "density": 0.2,
+    "county_fips": 46093,
+    "county_name": "Meade",
+    "county_weights": "{\"46093\": 70.73, \"46103\": 29.27}",
+    "county_names_all": "Meade|Pennington",
+    "county_fips_all": "46093|46103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

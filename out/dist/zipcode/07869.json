@@ -1,0 +1,20 @@
+{
+    "zip": 7869,
+    "lat": 40.84528,
+    "lng": -74.5807,
+    "city": "Randolph",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25919.0,
+    "density": 498.8,
+    "county_fips": 34027,
+    "county_name": "Morris",
+    "county_weights": "{\"34027\": 100}",
+    "county_names_all": "Morris",
+    "county_fips_all": "34027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

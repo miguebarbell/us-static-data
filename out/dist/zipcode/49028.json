@@ -1,0 +1,20 @@
+{
+    "zip": 49028,
+    "lat": 41.84438,
+    "lng": -85.1837,
+    "city": "Bronson",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5969.0,
+    "density": 19.8,
+    "county_fips": 26023,
+    "county_name": "Branch",
+    "county_weights": "{\"26023\": 100}",
+    "county_names_all": "Branch",
+    "county_fips_all": "26023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

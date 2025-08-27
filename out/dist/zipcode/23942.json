@@ -1,0 +1,20 @@
+{
+    "zip": 23942,
+    "lat": 37.13241,
+    "lng": -78.30138,
+    "city": "Green Bay",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1403.0,
+    "density": 8.7,
+    "county_fips": 51147,
+    "county_name": "Prince Edward",
+    "county_weights": "{\"51147\": 61.47, \"51111\": 38.53}",
+    "county_names_all": "Prince Edward|Lunenburg",
+    "county_fips_all": "51147|51111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

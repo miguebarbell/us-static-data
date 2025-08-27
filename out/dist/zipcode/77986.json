@@ -1,0 +1,20 @@
+{
+    "zip": 77986,
+    "lat": 29.47661,
+    "lng": -96.79607,
+    "city": "Sublime",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 48285,
+    "county_name": "Lavaca",
+    "county_weights": "{\"48285\": 100}",
+    "county_names_all": "Lavaca",
+    "county_fips_all": "48285",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

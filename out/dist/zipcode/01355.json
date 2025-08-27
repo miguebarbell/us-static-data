@@ -1,0 +1,20 @@
+{
+    "zip": 1355,
+    "lat": 42.45101,
+    "lng": -72.33141,
+    "city": "New Salem",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 963.0,
+    "density": 7.8,
+    "county_fips": 25011,
+    "county_name": "Franklin",
+    "county_weights": "{\"25011\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "25011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

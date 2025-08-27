@@ -1,0 +1,20 @@
+{
+    "zip": 77515,
+    "lat": 29.17604,
+    "lng": -95.44955,
+    "city": "Angleton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33092.0,
+    "density": 62.5,
+    "county_fips": 48039,
+    "county_name": "Brazoria",
+    "county_weights": "{\"48039\": 100}",
+    "county_names_all": "Brazoria",
+    "county_fips_all": "48039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

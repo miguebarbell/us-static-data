@@ -1,0 +1,20 @@
+{
+    "zip": 25506,
+    "lat": 38.20826,
+    "lng": -82.18665,
+    "city": "Branchland",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5690.0,
+    "density": 21.6,
+    "county_fips": 54043,
+    "county_name": "Lincoln",
+    "county_weights": "{\"54043\": 83.89, \"54011\": 16.11}",
+    "county_names_all": "Lincoln|Cabell",
+    "county_fips_all": "54043|54011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

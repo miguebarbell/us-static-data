@@ -1,0 +1,20 @@
+{
+    "zip": 30456,
+    "lat": 32.98137,
+    "lng": -81.79246,
+    "city": "Sardis",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1851.0,
+    "density": 10.0,
+    "county_fips": 13033,
+    "county_name": "Burke",
+    "county_weights": "{\"13033\": 100}",
+    "county_names_all": "Burke",
+    "county_fips_all": "13033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 21798,
+    "lat": 39.53858,
+    "lng": -77.29985,
+    "city": "Woodsboro",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2765.0,
+    "density": 65.5,
+    "county_fips": 24021,
+    "county_name": "Frederick",
+    "county_weights": "{\"24021\": 100}",
+    "county_names_all": "Frederick",
+    "county_fips_all": "24021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

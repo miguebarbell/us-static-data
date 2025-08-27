@@ -1,0 +1,20 @@
+{
+    "zip": 60950,
+    "lat": 41.25135,
+    "lng": -87.88494,
+    "city": "Manteno",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11902.0,
+    "density": 60.0,
+    "county_fips": 17091,
+    "county_name": "Kankakee",
+    "county_weights": "{\"17091\": 93.5, \"17197\": 6.5}",
+    "county_names_all": "Kankakee|Will",
+    "county_fips_all": "17091|17197",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

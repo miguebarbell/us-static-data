@@ -1,0 +1,20 @@
+{
+    "zip": 62811,
+    "lat": 38.38739,
+    "lng": -87.90361,
+    "city": "Bellmont",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 265.0,
+    "density": 83.3,
+    "county_fips": 17185,
+    "county_name": "Wabash",
+    "county_weights": "{\"17185\": 100}",
+    "county_names_all": "Wabash",
+    "county_fips_all": "17185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 57432,
+    "lat": 45.6839,
+    "lng": -98.02453,
+    "city": "Claremont",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 210.0,
+    "density": 0.7,
+    "county_fips": 46013,
+    "county_name": "Brown",
+    "county_weights": "{\"46013\": 75.93, \"46091\": 24.07}",
+    "county_names_all": "Brown|Marshall",
+    "county_fips_all": "46013|46091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

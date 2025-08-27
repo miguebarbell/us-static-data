@@ -1,0 +1,20 @@
+{
+    "zip": 75252,
+    "lat": 32.99696,
+    "lng": -96.78983,
+    "city": "Dallas",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28500.0,
+    "density": 2144.5,
+    "county_fips": 48085,
+    "county_name": "Collin",
+    "county_weights": "{\"48085\": 92.3, \"48113\": 7.7}",
+    "county_names_all": "Collin|Dallas",
+    "county_fips_all": "48085|48113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

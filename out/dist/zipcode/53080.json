@@ -1,0 +1,20 @@
+{
+    "zip": 53080,
+    "lat": 43.40733,
+    "lng": -87.98789,
+    "city": "Saukville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4999.0,
+    "density": 67.5,
+    "county_fips": 55089,
+    "county_name": "Ozaukee",
+    "county_weights": "{\"55089\": 100}",
+    "county_names_all": "Ozaukee",
+    "county_fips_all": "55089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

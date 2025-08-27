@@ -1,0 +1,20 @@
+{
+    "zip": 71039,
+    "lat": 32.4265,
+    "lng": -93.29064,
+    "city": "Heflin",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2165.0,
+    "density": 17.6,
+    "county_fips": 22119,
+    "county_name": "Webster",
+    "county_weights": "{\"22119\": 65.28, \"22013\": 34.72}",
+    "county_names_all": "Webster|Bienville",
+    "county_fips_all": "22119|22013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 62622,
+    "lat": 39.97786,
+    "lng": -90.34302,
+    "city": "Bluff Springs",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 86.0,
+    "density": 9.3,
+    "county_fips": 17017,
+    "county_name": "Cass",
+    "county_weights": "{\"17017\": 100}",
+    "county_names_all": "Cass",
+    "county_fips_all": "17017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

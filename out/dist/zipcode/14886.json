@@ -1,0 +1,20 @@
+{
+    "zip": 14886,
+    "lat": 42.50408,
+    "lng": -76.68836,
+    "city": "Trumansburg",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6654.0,
+    "density": 34.2,
+    "county_fips": 36109,
+    "county_name": "Tompkins",
+    "county_weights": "{\"36109\": 44.59, \"36097\": 42.38, \"36099\": 13.03}",
+    "county_names_all": "Tompkins|Schuyler|Seneca",
+    "county_fips_all": "36109|36097|36099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

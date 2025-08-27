@@ -1,0 +1,20 @@
+{
+    "zip": 72630,
+    "lat": 36.45856,
+    "lng": -92.92032,
+    "city": "Diamond City",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 123.0,
+    "density": 321.5,
+    "county_fips": 5009,
+    "county_name": "Boone",
+    "county_weights": "{\"05009\": 100}",
+    "county_names_all": "Boone",
+    "county_fips_all": "05009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

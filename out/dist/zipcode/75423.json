@@ -1,0 +1,20 @@
+{
+    "zip": 75423,
+    "lat": 33.29279,
+    "lng": -96.19918,
+    "city": "Celeste",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3088.0,
+    "density": 14.7,
+    "county_fips": 48231,
+    "county_name": "Hunt",
+    "county_weights": "{\"48231\": 94.22, \"48147\": 5.78}",
+    "county_names_all": "Hunt|Fannin",
+    "county_fips_all": "48231|48147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

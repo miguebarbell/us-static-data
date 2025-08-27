@@ -1,0 +1,20 @@
+{
+    "zip": 49325,
+    "lat": 42.76155,
+    "lng": -85.30162,
+    "city": "Freeport",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2798.0,
+    "density": 40.5,
+    "county_fips": 26015,
+    "county_name": "Barry",
+    "county_weights": "{\"26015\": 69.13, \"26067\": 20.99, \"26081\": 9.88}",
+    "county_names_all": "Barry|Ionia|Kent",
+    "county_fips_all": "26015|26067|26081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

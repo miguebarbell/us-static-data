@@ -1,0 +1,20 @@
+{
+    "zip": 53119,
+    "lat": 42.88356,
+    "lng": -88.4862,
+    "city": "Eagle",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5732.0,
+    "density": 55.3,
+    "county_fips": 55133,
+    "county_name": "Waukesha",
+    "county_weights": "{\"55133\": 89.06, \"55127\": 8.82, \"55055\": 2.12}",
+    "county_names_all": "Waukesha|Walworth|Jefferson",
+    "county_fips_all": "55133|55127|55055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 12427,
+    "lat": 42.14771,
+    "lng": -74.11921,
+    "city": "Elka Park",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 926.0,
+    "density": 9.3,
+    "county_fips": 36039,
+    "county_name": "Greene",
+    "county_weights": "{\"36039\": 100}",
+    "county_names_all": "Greene",
+    "county_fips_all": "36039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

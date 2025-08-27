@@ -1,0 +1,20 @@
+{
+    "zip": 71358,
+    "lat": 30.72631,
+    "lng": -91.87553,
+    "city": "Palmetto",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1006.0,
+    "density": 3.6,
+    "county_fips": 22097,
+    "county_name": "St. Landry",
+    "county_weights": "{\"22097\": 100}",
+    "county_names_all": "St. Landry",
+    "county_fips_all": "22097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

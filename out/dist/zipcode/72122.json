@@ -1,0 +1,20 @@
+{
+    "zip": 72122,
+    "lat": 34.77955,
+    "lng": -92.77549,
+    "city": "Paron",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1226.0,
+    "density": 3.7,
+    "county_fips": 5125,
+    "county_name": "Saline",
+    "county_weights": "{\"05125\": 89.97, \"05119\": 10.03}",
+    "county_names_all": "Saline|Pulaski",
+    "county_fips_all": "05125|05119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

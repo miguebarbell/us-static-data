@@ -1,0 +1,20 @@
+{
+    "zip": 72568,
+    "lat": 35.56676,
+    "lng": -91.62147,
+    "city": "Pleasant Plains",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1741.0,
+    "density": 13.8,
+    "county_fips": 5063,
+    "county_name": "Independence",
+    "county_weights": "{\"05063\": 92.52, \"05145\": 7.48}",
+    "county_names_all": "Independence|White",
+    "county_fips_all": "05063|05145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

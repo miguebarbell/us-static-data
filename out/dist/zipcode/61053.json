@@ -1,0 +1,20 @@
+{
+    "zip": 61053,
+    "lat": 42.11506,
+    "lng": -89.98335,
+    "city": "Mount Carroll",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2902.0,
+    "density": 10.4,
+    "county_fips": 17015,
+    "county_name": "Carroll",
+    "county_weights": "{\"17015\": 90.26, \"17085\": 9.74}",
+    "county_names_all": "Carroll|Jo Daviess",
+    "county_fips_all": "17015|17085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

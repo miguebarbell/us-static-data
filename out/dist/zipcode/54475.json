@@ -1,0 +1,20 @@
+{
+    "zip": 54475,
+    "lat": 44.48204,
+    "lng": -89.78825,
+    "city": "Rudolph",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1412.0,
+    "density": 14.6,
+    "county_fips": 55141,
+    "county_name": "Wood",
+    "county_weights": "{\"55141\": 82.39, \"55097\": 17.61}",
+    "county_names_all": "Wood|Portage",
+    "county_fips_all": "55141|55097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

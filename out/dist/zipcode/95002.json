@@ -1,0 +1,20 @@
+{
+    "zip": 95002,
+    "lat": 37.44075,
+    "lng": -122.00047,
+    "city": "Alviso",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1639.0,
+    "density": 66.1,
+    "county_fips": 6085,
+    "county_name": "Santa Clara",
+    "county_weights": "{\"06085\": 100}",
+    "county_names_all": "Santa Clara",
+    "county_fips_all": "06085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

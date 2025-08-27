@@ -1,0 +1,20 @@
+{
+    "zip": 26039,
+    "lat": 39.81641,
+    "lng": -80.66969,
+    "city": "Glen Easton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 383.0,
+    "density": 4.1,
+    "county_fips": 54051,
+    "county_name": "Marshall",
+    "county_weights": "{\"54051\": 100}",
+    "county_names_all": "Marshall",
+    "county_fips_all": "54051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

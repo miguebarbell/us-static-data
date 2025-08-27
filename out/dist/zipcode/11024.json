@@ -1,0 +1,20 @@
+{
+    "zip": 11024,
+    "lat": 40.81642,
+    "lng": -73.74205,
+    "city": "Great Neck",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8821.0,
+    "density": 972.7,
+    "county_fips": 36059,
+    "county_name": "Nassau",
+    "county_weights": "{\"36059\": 100}",
+    "county_names_all": "Nassau",
+    "county_fips_all": "36059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

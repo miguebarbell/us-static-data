@@ -1,0 +1,20 @@
+{
+    "zip": 78635,
+    "lat": 30.20824,
+    "lng": -98.5485,
+    "city": "Hye",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 83.0,
+    "density": 1.7,
+    "county_fips": 48031,
+    "county_name": "Blanco",
+    "county_weights": "{\"48031\": 100}",
+    "county_names_all": "Blanco",
+    "county_fips_all": "48031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

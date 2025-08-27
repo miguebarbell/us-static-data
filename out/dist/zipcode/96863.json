@@ -1,0 +1,20 @@
+{
+    "zip": 96863,
+    "lat": 21.4351,
+    "lng": -157.75002,
+    "city": "Mcbh Kaneohe Bay",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2436.0,
+    "density": 1252.1,
+    "county_fips": 15003,
+    "county_name": "Honolulu",
+    "county_weights": "{\"15003\": 100}",
+    "county_names_all": "Honolulu",
+    "county_fips_all": "15003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "Pacific/Honolulu"
+}

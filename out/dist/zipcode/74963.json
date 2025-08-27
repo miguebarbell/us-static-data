@@ -1,0 +1,20 @@
+{
+    "zip": 74963,
+    "lat": 34.41424,
+    "lng": -94.56322,
+    "city": "Watson",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 632.0,
+    "density": 4.2,
+    "county_fips": 40089,
+    "county_name": "McCurtain",
+    "county_weights": "{\"40089\": 100}",
+    "county_names_all": "McCurtain",
+    "county_fips_all": "40089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

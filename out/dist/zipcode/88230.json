@@ -1,0 +1,20 @@
+{
+    "zip": 88230,
+    "lat": 33.21396,
+    "lng": -104.39764,
+    "city": "Dexter",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4639.0,
+    "density": 6.3,
+    "county_fips": 35005,
+    "county_name": "Chaves",
+    "county_weights": "{\"35005\": 100}",
+    "county_names_all": "Chaves",
+    "county_fips_all": "35005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

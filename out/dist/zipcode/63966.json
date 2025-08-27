@@ -1,0 +1,20 @@
+{
+    "zip": 63966,
+    "lat": 36.96956,
+    "lng": -90.26216,
+    "city": "Wappapello",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2183.0,
+    "density": 14.1,
+    "county_fips": 29223,
+    "county_name": "Wayne",
+    "county_weights": "{\"29223\": 79.62, \"29023\": 20.38}",
+    "county_names_all": "Wayne|Butler",
+    "county_fips_all": "29223|29023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 18833,
+    "lat": 41.59433,
+    "lng": -76.46515,
+    "city": "New Albany",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2061.0,
+    "density": 8.3,
+    "county_fips": 42015,
+    "county_name": "Bradford",
+    "county_weights": "{\"42015\": 92.24, \"42113\": 7.76}",
+    "county_names_all": "Bradford|Sullivan",
+    "county_fips_all": "42015|42113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

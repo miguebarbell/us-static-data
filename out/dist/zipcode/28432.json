@@ -1,0 +1,20 @@
+{
+    "zip": 28432,
+    "lat": 34.17018,
+    "lng": -78.75795,
+    "city": "Clarendon",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1398.0,
+    "density": 15.8,
+    "county_fips": 37047,
+    "county_name": "Columbus",
+    "county_weights": "{\"37047\": 100}",
+    "county_names_all": "Columbus",
+    "county_fips_all": "37047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

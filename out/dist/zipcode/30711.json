@@ -1,0 +1,20 @@
+{
+    "zip": 30711,
+    "lat": 34.92905,
+    "lng": -84.76259,
+    "city": "Crandall",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3243.0,
+    "density": 25.5,
+    "county_fips": 13213,
+    "county_name": "Murray",
+    "county_weights": "{\"13213\": 100}",
+    "county_names_all": "Murray",
+    "county_fips_all": "13213",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

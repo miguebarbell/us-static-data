@@ -1,0 +1,20 @@
+{
+    "zip": 70729,
+    "lat": 30.58891,
+    "lng": -91.34671,
+    "city": "Erwinville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1201.0,
+    "density": 26.9,
+    "county_fips": 22121,
+    "county_name": "West Baton Rouge",
+    "county_weights": "{\"22121\": 77.82, \"22077\": 22.18}",
+    "county_names_all": "West Baton Rouge|Pointe Coupee",
+    "county_fips_all": "22121|22077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49892,
+    "lat": 45.77547,
+    "lng": -87.77243,
+    "city": "Vulcan",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2094.0,
+    "density": 5.2,
+    "county_fips": 26043,
+    "county_name": "Dickinson",
+    "county_weights": "{\"26043\": 69.67, \"26109\": 30.33}",
+    "county_names_all": "Dickinson|Menominee",
+    "county_fips_all": "26043|26109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Menominee"
+}

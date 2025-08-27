@@ -1,0 +1,20 @@
+{
+    "zip": 50658,
+    "lat": 42.95024,
+    "lng": -92.53782,
+    "city": "Nashua",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2432.0,
+    "density": 12.0,
+    "county_fips": 19037,
+    "county_name": "Chickasaw",
+    "county_weights": "{\"19037\": 55.66, \"19067\": 33.66, \"19023\": 6.53, \"19017\": 4.15}",
+    "county_names_all": "Chickasaw|Floyd|Butler|Bremer",
+    "county_fips_all": "19037|19067|19023|19017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

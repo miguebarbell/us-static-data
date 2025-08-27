@@ -1,0 +1,20 @@
+{
+    "zip": 66863,
+    "lat": 37.83368,
+    "lng": -96.07633,
+    "city": "Neal",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39.0,
+    "density": 33.8,
+    "county_fips": 20073,
+    "county_name": "Greenwood",
+    "county_weights": "{\"20073\": 100}",
+    "county_names_all": "Greenwood",
+    "county_fips_all": "20073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

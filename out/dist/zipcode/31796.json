@@ -1,0 +1,20 @@
+{
+    "zip": 31796,
+    "lat": 31.77351,
+    "lng": -83.87659,
+    "city": "Warwick",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1088.0,
+    "density": 5.9,
+    "county_fips": 13321,
+    "county_name": "Worth",
+    "county_weights": "{\"13321\": 99.1, \"13081\": 0.9}",
+    "county_names_all": "Worth|Crisp",
+    "county_fips_all": "13321|13081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

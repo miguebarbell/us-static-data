@@ -1,0 +1,20 @@
+{
+    "zip": 74081,
+    "lat": 36.17536,
+    "lng": -96.45875,
+    "city": "Terlton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2008.0,
+    "density": 22.1,
+    "county_fips": 40117,
+    "county_name": "Pawnee",
+    "county_weights": "{\"40117\": 67.43, \"40037\": 32.57}",
+    "county_names_all": "Pawnee|Creek",
+    "county_fips_all": "40117|40037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 59523,
+    "lat": 48.52013,
+    "lng": -109.20829,
+    "city": "Chinook",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2281.0,
+    "density": 0.6,
+    "county_fips": 30005,
+    "county_name": "Blaine",
+    "county_weights": "{\"30005\": 98.86, \"30041\": 1.14}",
+    "county_names_all": "Blaine|Hill",
+    "county_fips_all": "30005|30041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

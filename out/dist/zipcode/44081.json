@@ -1,0 +1,20 @@
+{
+    "zip": 44081,
+    "lat": 41.76589,
+    "lng": -81.14551,
+    "city": "Perry",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6945.0,
+    "density": 130.0,
+    "county_fips": 39085,
+    "county_name": "Lake",
+    "county_weights": "{\"39085\": 100}",
+    "county_names_all": "Lake",
+    "county_fips_all": "39085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 40019,
+    "lat": 38.37416,
+    "lng": -85.17437,
+    "city": "Eminence",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4109.0,
+    "density": 40.9,
+    "county_fips": 21103,
+    "county_name": "Henry",
+    "county_weights": "{\"21103\": 70.92, \"21211\": 29.08}",
+    "county_names_all": "Henry|Shelby",
+    "county_fips_all": "21103|21211",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

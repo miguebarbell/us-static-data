@@ -1,0 +1,20 @@
+{
+    "zip": 89511,
+    "lat": 39.40747,
+    "lng": -119.88822,
+    "city": "Reno",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30214.0,
+    "density": 88.7,
+    "county_fips": 32031,
+    "county_name": "Washoe",
+    "county_weights": "{\"32031\": 100}",
+    "county_names_all": "Washoe",
+    "county_fips_all": "32031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

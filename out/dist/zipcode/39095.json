@@ -1,0 +1,20 @@
+{
+    "zip": 39095,
+    "lat": 33.11929,
+    "lng": -90.09452,
+    "city": "Lexington",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6652.0,
+    "density": 7.3,
+    "county_fips": 28051,
+    "county_name": "Holmes",
+    "county_weights": "{\"28051\": 91.85, \"28015\": 5.66, \"28163\": 2.49}",
+    "county_names_all": "Holmes|Carroll|Yazoo",
+    "county_fips_all": "28051|28015|28163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

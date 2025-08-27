@@ -1,0 +1,20 @@
+{
+    "zip": 69333,
+    "lat": 42.04483,
+    "lng": -101.96962,
+    "city": "Ashby",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 267.0,
+    "density": 0.2,
+    "county_fips": 31075,
+    "county_name": "Grant",
+    "county_weights": "{\"31075\": 42.58, \"31031\": 40.47, \"31069\": 16.42, \"31161\": 0.53}",
+    "county_names_all": "Grant|Cherry|Garden|Sheridan",
+    "county_fips_all": "31075|31031|31069|31161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

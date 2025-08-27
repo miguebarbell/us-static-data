@@ -1,0 +1,20 @@
+{
+    "zip": 29847,
+    "lat": 33.69941,
+    "lng": -81.84878,
+    "city": "Trenton",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4925.0,
+    "density": 21.1,
+    "county_fips": 45037,
+    "county_name": "Edgefield",
+    "county_weights": "{\"45037\": 75.66, \"45003\": 24.34}",
+    "county_names_all": "Edgefield|Aiken",
+    "county_fips_all": "45037|45003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

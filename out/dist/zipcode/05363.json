@@ -1,0 +1,20 @@
+{
+    "zip": 5363,
+    "lat": 42.88301,
+    "lng": -72.89554,
+    "city": "Wilmington",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2008.0,
+    "density": 12.4,
+    "county_fips": 50025,
+    "county_name": "Windham",
+    "county_weights": "{\"50025\": 67.2, \"50003\": 32.8}",
+    "county_names_all": "Windham|Bennington",
+    "county_fips_all": "50025|50003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

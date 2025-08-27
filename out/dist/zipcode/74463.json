@@ -1,0 +1,20 @@
+{
+    "zip": 74463,
+    "lat": 35.76943,
+    "lng": -95.54843,
+    "city": "Taft",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2032.0,
+    "density": 141.9,
+    "county_fips": 40101,
+    "county_name": "Muskogee",
+    "county_weights": "{\"40101\": 100}",
+    "county_names_all": "Muskogee",
+    "county_fips_all": "40101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

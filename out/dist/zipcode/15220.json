@@ -1,0 +1,20 @@
+{
+    "zip": 15220,
+    "lat": 40.41875,
+    "lng": -80.04894,
+    "city": "Pittsburgh",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18519.0,
+    "density": 1512.1,
+    "county_fips": 42003,
+    "county_name": "Allegheny",
+    "county_weights": "{\"42003\": 100}",
+    "county_names_all": "Allegheny",
+    "county_fips_all": "42003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

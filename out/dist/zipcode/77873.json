@@ -1,0 +1,20 @@
+{
+    "zip": 77873,
+    "lat": 30.57489,
+    "lng": -95.79934,
+    "city": "Richards",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1179.0,
+    "density": 5.0,
+    "county_fips": 48339,
+    "county_name": "Montgomery",
+    "county_weights": "{\"48339\": 43.48, \"48185\": 35.37, \"48471\": 21.15}",
+    "county_names_all": "Montgomery|Grimes|Walker",
+    "county_fips_all": "48339|48185|48471",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

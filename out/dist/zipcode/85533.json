@@ -1,0 +1,20 @@
+{
+    "zip": 85533,
+    "lat": 33.29208,
+    "lng": -109.40219,
+    "city": "Clifton",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2340.0,
+    "density": 0.9,
+    "county_fips": 4011,
+    "county_name": "Greenlee",
+    "county_weights": "{\"04011\": 69.87, \"04009\": 30.13}",
+    "county_names_all": "Greenlee|Graham",
+    "county_fips_all": "04011|04009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

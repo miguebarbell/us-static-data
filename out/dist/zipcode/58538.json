@@ -1,0 +1,20 @@
+{
+    "zip": 58538,
+    "lat": 46.08833,
+    "lng": -100.66983,
+    "city": "Fort Yates",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2179.0,
+    "density": 5.2,
+    "county_fips": 38085,
+    "county_name": "Sioux",
+    "county_weights": "{\"38085\": 100}",
+    "county_names_all": "Sioux",
+    "county_fips_all": "38085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 67418,
+    "lat": 39.18692,
+    "lng": -98.05214,
+    "city": "Barnard",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 185.0,
+    "density": 0.6,
+    "county_fips": 20105,
+    "county_name": "Lincoln",
+    "county_weights": "{\"20105\": 75.37, \"20123\": 24.63}",
+    "county_names_all": "Lincoln|Mitchell",
+    "county_fips_all": "20105|20123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

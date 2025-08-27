@@ -1,0 +1,20 @@
+{
+    "zip": 30218,
+    "lat": 33.12706,
+    "lng": -84.58093,
+    "city": "Gay",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1721.0,
+    "density": 10.1,
+    "county_fips": 13199,
+    "county_name": "Meriwether",
+    "county_weights": "{\"13199\": 100}",
+    "county_names_all": "Meriwether",
+    "county_fips_all": "13199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

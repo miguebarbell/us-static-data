@@ -1,0 +1,20 @@
+{
+    "zip": 52625,
+    "lat": 40.66604,
+    "lng": -91.57094,
+    "city": "Donnellson",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2303.0,
+    "density": 8.3,
+    "county_fips": 19111,
+    "county_name": "Lee",
+    "county_weights": "{\"19111\": 100}",
+    "county_names_all": "Lee",
+    "county_fips_all": "19111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 12522,
+    "lat": 41.72693,
+    "lng": -73.58893,
+    "city": "Dover Plains",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5074.0,
+    "density": 52.3,
+    "county_fips": 36027,
+    "county_name": "Dutchess",
+    "county_weights": "{\"36027\": 100}",
+    "county_names_all": "Dutchess",
+    "county_fips_all": "36027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

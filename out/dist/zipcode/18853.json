@@ -1,0 +1,20 @@
+{
+    "zip": 18853,
+    "lat": 41.71654,
+    "lng": -76.27534,
+    "city": "Wyalusing",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4137.0,
+    "density": 15.0,
+    "county_fips": 42015,
+    "county_name": "Bradford",
+    "county_weights": "{\"42015\": 100}",
+    "county_names_all": "Bradford",
+    "county_fips_all": "42015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

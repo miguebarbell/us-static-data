@@ -1,0 +1,20 @@
+{
+    "zip": 54470,
+    "lat": 45.29419,
+    "lng": -90.13852,
+    "city": "Rib Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2076.0,
+    "density": 7.6,
+    "county_fips": 55119,
+    "county_name": "Taylor",
+    "county_weights": "{\"55119\": 97.64, \"55099\": 2.36}",
+    "county_names_all": "Taylor|Price",
+    "county_fips_all": "55119|55099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 74560,
+    "lat": 34.64717,
+    "lng": -95.74679,
+    "city": "Pittsburg",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 396.0,
+    "density": 0.7,
+    "county_fips": 40121,
+    "county_name": "Pittsburg",
+    "county_weights": "{\"40121\": 79.5, \"40005\": 20.5}",
+    "county_names_all": "Pittsburg|Atoka",
+    "county_fips_all": "40121|40005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

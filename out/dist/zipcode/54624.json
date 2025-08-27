@@ -1,0 +1,20 @@
+{
+    "zip": 54624,
+    "lat": 43.46575,
+    "lng": -91.14066,
+    "city": "De Soto",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1545.0,
+    "density": 9.1,
+    "county_fips": 55123,
+    "county_name": "Vernon",
+    "county_weights": "{\"55123\": 85.86, \"55023\": 14.14}",
+    "county_names_all": "Vernon|Crawford",
+    "county_fips_all": "55123|55023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

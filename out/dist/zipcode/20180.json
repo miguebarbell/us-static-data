@@ -1,0 +1,20 @@
+{
+    "zip": 20180,
+    "lat": 39.26775,
+    "lng": -77.63804,
+    "city": "Lovettsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7791.0,
+    "density": 69.9,
+    "county_fips": 51107,
+    "county_name": "Loudoun",
+    "county_weights": "{\"51107\": 100}",
+    "county_names_all": "Loudoun",
+    "county_fips_all": "51107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

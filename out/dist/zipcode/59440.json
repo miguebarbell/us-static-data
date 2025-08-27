@@ -1,0 +1,20 @@
+{
+    "zip": 59440,
+    "lat": 47.72489,
+    "lng": -111.14261,
+    "city": "Floweree",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 427.0,
+    "density": 0.9,
+    "county_fips": 30015,
+    "county_name": "Chouteau",
+    "county_weights": "{\"30015\": 67.52, \"30013\": 32.48}",
+    "county_names_all": "Chouteau|Cascade",
+    "county_fips_all": "30015|30013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

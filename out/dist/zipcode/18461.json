@@ -1,0 +1,20 @@
+{
+    "zip": 18461,
+    "lat": 41.92774,
+    "lng": -75.32434,
+    "city": "Starlight",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 245.0,
+    "density": 4.9,
+    "county_fips": 42127,
+    "county_name": "Wayne",
+    "county_weights": "{\"42127\": 100}",
+    "county_names_all": "Wayne",
+    "county_fips_all": "42127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 58496,
+    "lat": 47.14063,
+    "lng": -99.30794,
+    "city": "Woodworth",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 144.0,
+    "density": 0.2,
+    "county_fips": 38093,
+    "county_name": "Stutsman",
+    "county_weights": "{\"38093\": 100}",
+    "county_names_all": "Stutsman",
+    "county_fips_all": "38093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

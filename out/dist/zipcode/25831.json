@@ -1,0 +1,20 @@
+{
+    "zip": 25831,
+    "lat": 37.95645,
+    "lng": -80.94037,
+    "city": "Danese",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1234.0,
+    "density": 8.2,
+    "county_fips": 54019,
+    "county_name": "Fayette",
+    "county_weights": "{\"54019\": 100}",
+    "county_names_all": "Fayette",
+    "county_fips_all": "54019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 79083,
+    "lat": 35.87359,
+    "lng": -101.51422,
+    "city": "Stinnett",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1776.0,
+    "density": 2.0,
+    "county_fips": 48233,
+    "county_name": "Hutchinson",
+    "county_weights": "{\"48233\": 71.62, \"48341\": 28.38}",
+    "county_names_all": "Hutchinson|Moore",
+    "county_fips_all": "48233|48341",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 61559,
+    "lat": 40.92101,
+    "lng": -89.77438,
+    "city": "Princeville",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3726.0,
+    "density": 14.8,
+    "county_fips": 17143,
+    "county_name": "Peoria",
+    "county_weights": "{\"17143\": 90.83, \"17175\": 9.17}",
+    "county_names_all": "Peoria|Stark",
+    "county_fips_all": "17143|17175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

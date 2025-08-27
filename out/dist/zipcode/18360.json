@@ -1,0 +1,20 @@
+{
+    "zip": 18360,
+    "lat": 40.97254,
+    "lng": -75.28562,
+    "city": "Stroudsburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29790.0,
+    "density": 133.0,
+    "county_fips": 42089,
+    "county_name": "Monroe",
+    "county_weights": "{\"42089\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "42089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

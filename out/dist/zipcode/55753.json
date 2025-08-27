@@ -1,0 +1,20 @@
+{
+    "zip": 55753,
+    "lat": 47.39692,
+    "lng": -93.07991,
+    "city": "Keewatin",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1197.0,
+    "density": 525.2,
+    "county_fips": 27061,
+    "county_name": "Itasca",
+    "county_weights": "{\"27061\": 100}",
+    "county_names_all": "Itasca",
+    "county_fips_all": "27061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

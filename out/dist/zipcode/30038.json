@@ -1,0 +1,20 @@
+{
+    "zip": 30038,
+    "lat": 33.67078,
+    "lng": -84.14209,
+    "city": "Lithonia",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42744.0,
+    "density": 573.0,
+    "county_fips": 13089,
+    "county_name": "DeKalb",
+    "county_weights": "{\"13089\": 100}",
+    "county_names_all": "DeKalb",
+    "county_fips_all": "13089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

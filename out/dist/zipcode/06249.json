@@ -1,0 +1,20 @@
+{
+    "zip": 6249,
+    "lat": 41.63128,
+    "lng": -72.24019,
+    "city": "Lebanon",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7137.0,
+    "density": 50.9,
+    "county_fips": 9180,
+    "county_name": "Southeastern Connecticut",
+    "county_weights": "{\"09180\": 100}",
+    "county_names_all": "Southeastern Connecticut",
+    "county_fips_all": "09180",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

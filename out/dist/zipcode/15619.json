@@ -1,0 +1,20 @@
+{
+    "zip": 15619,
+    "lat": 40.32051,
+    "lng": -79.49719,
+    "city": "Bovard",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 472.0,
+    "density": 269.5,
+    "county_fips": 42129,
+    "county_name": "Westmoreland",
+    "county_weights": "{\"42129\": 100}",
+    "county_names_all": "Westmoreland",
+    "county_fips_all": "42129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

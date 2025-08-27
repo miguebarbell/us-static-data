@@ -1,0 +1,20 @@
+{
+    "zip": 30720,
+    "lat": 34.73472,
+    "lng": -85.00289,
+    "city": "Dalton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27122.0,
+    "density": 215.3,
+    "county_fips": 13313,
+    "county_name": "Whitfield",
+    "county_weights": "{\"13313\": 100}",
+    "county_names_all": "Whitfield",
+    "county_fips_all": "13313",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

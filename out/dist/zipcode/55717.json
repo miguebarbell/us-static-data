@@ -1,0 +1,20 @@
+{
+    "zip": 55717,
+    "lat": 47.05026,
+    "lng": -92.38642,
+    "city": "Canyon",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 241.0,
+    "density": 0.8,
+    "county_fips": 27137,
+    "county_name": "St. Louis",
+    "county_weights": "{\"27137\": 100}",
+    "county_names_all": "St. Louis",
+    "county_fips_all": "27137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

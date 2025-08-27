@@ -1,0 +1,20 @@
+{
+    "zip": 50601,
+    "lat": 42.56612,
+    "lng": -93.05665,
+    "city": "Ackley",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2377.0,
+    "density": 6.6,
+    "county_fips": 19069,
+    "county_name": "Franklin",
+    "county_weights": "{\"19069\": 36.48, \"19083\": 29.82, \"19023\": 17.74, \"19075\": 15.97}",
+    "county_names_all": "Franklin|Hardin|Butler|Grundy",
+    "county_fips_all": "19069|19083|19023|19075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

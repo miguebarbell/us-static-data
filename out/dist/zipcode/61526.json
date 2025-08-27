@@ -1,0 +1,20 @@
+{
+    "zip": 61526,
+    "lat": 40.92899,
+    "lng": -89.62599,
+    "city": "Edelstein",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 887.0,
+    "density": 11.2,
+    "county_fips": 17143,
+    "county_name": "Peoria",
+    "county_weights": "{\"17143\": 91.8, \"17123\": 8.2}",
+    "county_names_all": "Peoria|Marshall",
+    "county_fips_all": "17143|17123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

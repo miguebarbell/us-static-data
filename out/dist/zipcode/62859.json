@@ -1,0 +1,20 @@
+{
+    "zip": 62859,
+    "lat": 38.07094,
+    "lng": -88.54289,
+    "city": "McLeansboro",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5199.0,
+    "density": 10.3,
+    "county_fips": 17065,
+    "county_name": "Hamilton",
+    "county_weights": "{\"17065\": 99.54, \"17055\": 0.46}",
+    "county_names_all": "Hamilton|Franklin",
+    "county_fips_all": "17065|17055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

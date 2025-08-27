@@ -1,0 +1,20 @@
+{
+    "zip": 57776,
+    "lat": 45.24878,
+    "lng": -103.51704,
+    "city": "Redig",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 46063,
+    "county_name": "Harding",
+    "county_weights": "{\"46063\": 100}",
+    "county_names_all": "Harding",
+    "county_fips_all": "46063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

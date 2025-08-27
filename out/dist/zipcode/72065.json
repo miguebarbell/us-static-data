@@ -1,0 +1,20 @@
+{
+    "zip": 72065,
+    "lat": 34.52102,
+    "lng": -92.28648,
+    "city": "Hensley",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5796.0,
+    "density": 35.8,
+    "county_fips": 5125,
+    "county_name": "Saline",
+    "county_weights": "{\"05125\": 57.57, \"05119\": 26.07, \"05053\": 16.36}",
+    "county_names_all": "Saline|Pulaski|Grant",
+    "county_fips_all": "05125|05119|05053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 62460,
+    "lat": 38.60661,
+    "lng": -87.69639,
+    "city": "Saint Francisville",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1110.0,
+    "density": 9.9,
+    "county_fips": 17101,
+    "county_name": "Lawrence",
+    "county_weights": "{\"17101\": 98.21, \"17185\": 1.79}",
+    "county_names_all": "Lawrence|Wabash",
+    "county_fips_all": "17101|17185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 82214,
+    "lat": 42.26421,
+    "lng": -104.75104,
+    "city": "Guernsey",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 908.0,
+    "density": 4.7,
+    "county_fips": 56031,
+    "county_name": "Platte",
+    "county_weights": "{\"56031\": 100}",
+    "county_names_all": "Platte",
+    "county_fips_all": "56031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

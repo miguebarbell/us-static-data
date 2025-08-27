@@ -1,0 +1,20 @@
+{
+    "zip": 76519,
+    "lat": 30.98978,
+    "lng": -97.03579,
+    "city": "Burlington",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 672.0,
+    "density": 4.0,
+    "county_fips": 48331,
+    "county_name": "Milam",
+    "county_weights": "{\"48331\": 56.92, \"48027\": 28.49, \"48145\": 14.59}",
+    "county_names_all": "Milam|Bell|Falls",
+    "county_fips_all": "48331|48027|48145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

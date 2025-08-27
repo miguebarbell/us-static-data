@@ -1,0 +1,20 @@
+{
+    "zip": 27966,
+    "lat": 36.13325,
+    "lng": -75.83833,
+    "city": "Powells Point",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1516.0,
+    "density": 54.7,
+    "county_fips": 37053,
+    "county_name": "Currituck",
+    "county_weights": "{\"37053\": 100}",
+    "county_names_all": "Currituck",
+    "county_fips_all": "37053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

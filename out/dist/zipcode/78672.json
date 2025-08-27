@@ -1,0 +1,20 @@
+{
+    "zip": 78672,
+    "lat": 30.88151,
+    "lng": -98.49128,
+    "city": "Tow",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 679.0,
+    "density": 8.8,
+    "county_fips": 48299,
+    "county_name": "Llano",
+    "county_weights": "{\"48299\": 100}",
+    "county_names_all": "Llano",
+    "county_fips_all": "48299",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

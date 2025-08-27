@@ -1,0 +1,20 @@
+{
+    "zip": 77987,
+    "lat": 29.34569,
+    "lng": -97.08019,
+    "city": "Sweet Home",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 207.0,
+    "density": 21.8,
+    "county_fips": 48285,
+    "county_name": "Lavaca",
+    "county_weights": "{\"48285\": 100}",
+    "county_names_all": "Lavaca",
+    "county_fips_all": "48285",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

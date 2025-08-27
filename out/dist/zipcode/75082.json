@@ -1,0 +1,20 @@
+{
+    "zip": 75082,
+    "lat": 32.99208,
+    "lng": -96.66536,
+    "city": "Richardson",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29458.0,
+    "density": 1387.2,
+    "county_fips": 48085,
+    "county_name": "Collin",
+    "county_weights": "{\"48085\": 84.56, \"48113\": 15.44}",
+    "county_names_all": "Collin|Dallas",
+    "county_fips_all": "48085|48113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 69161,
+    "lat": 42.12034,
+    "lng": -100.76679,
+    "city": "Seneca",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 52.0,
+    "density": 0.1,
+    "county_fips": 31031,
+    "county_name": "Cherry",
+    "county_weights": "{\"31031\": 65.06, \"31171\": 34.94}",
+    "county_names_all": "Cherry|Thomas",
+    "county_fips_all": "31031|31171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

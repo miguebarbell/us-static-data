@@ -1,0 +1,20 @@
+{
+    "zip": 44857,
+    "lat": 41.21785,
+    "lng": -82.58212,
+    "city": "Norwalk",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23320.0,
+    "density": 110.4,
+    "county_fips": 39077,
+    "county_name": "Huron",
+    "county_weights": "{\"39077\": 97.43, \"39043\": 2.57}",
+    "county_names_all": "Huron|Erie",
+    "county_fips_all": "39077|39043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

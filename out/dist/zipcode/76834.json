@@ -1,0 +1,20 @@
+{
+    "zip": 76834,
+    "lat": 31.87885,
+    "lng": -99.46843,
+    "city": "Coleman",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4861.0,
+    "density": 4.3,
+    "county_fips": 48083,
+    "county_name": "Coleman",
+    "county_weights": "{\"48083\": 100}",
+    "county_names_all": "Coleman",
+    "county_fips_all": "48083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 698,
+    "lat": 18.07274,
+    "lng": -66.85519,
+    "city": "Yauco",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32945.0,
+    "density": 203.0,
+    "county_fips": 72153,
+    "county_name": "Yauco",
+    "county_weights": "{\"72153\": 97.77, \"72059\": 2.23}",
+    "county_names_all": "Yauco|Guayanilla",
+    "county_fips_all": "72153|72059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

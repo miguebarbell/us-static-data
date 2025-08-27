@@ -1,0 +1,20 @@
+{
+    "zip": 93737,
+    "lat": 36.75358,
+    "lng": -119.6456,
+    "city": "Fresno",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6360.0,
+    "density": 251.5,
+    "county_fips": 6019,
+    "county_name": "Fresno",
+    "county_weights": "{\"06019\": 100}",
+    "county_names_all": "Fresno",
+    "county_fips_all": "06019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

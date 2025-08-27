@@ -1,0 +1,20 @@
+{
+    "zip": 28683,
+    "lat": 36.38835,
+    "lng": -80.91219,
+    "city": "Thurmond",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1381.0,
+    "density": 15.4,
+    "county_fips": 37171,
+    "county_name": "Surry",
+    "county_weights": "{\"37171\": 73.04, \"37193\": 26.96}",
+    "county_names_all": "Surry|Wilkes",
+    "county_fips_all": "37171|37193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

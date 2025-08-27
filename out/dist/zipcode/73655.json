@@ -1,0 +1,20 @@
+{
+    "zip": 73655,
+    "lat": 34.98189,
+    "lng": -99.25267,
+    "city": "Lone Wolf",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 898.0,
+    "density": 1.9,
+    "county_fips": 40075,
+    "county_name": "Kiowa",
+    "county_weights": "{\"40075\": 97.26, \"40149\": 2.74}",
+    "county_names_all": "Kiowa|Washita",
+    "county_fips_all": "40075|40149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

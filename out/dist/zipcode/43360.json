@@ -1,0 +1,20 @@
+{
+    "zip": 43360,
+    "lat": 40.33272,
+    "lng": -83.63114,
+    "city": "Zanesfield",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1818.0,
+    "density": 23.3,
+    "county_fips": 39091,
+    "county_name": "Logan",
+    "county_weights": "{\"39091\": 100}",
+    "county_names_all": "Logan",
+    "county_fips_all": "39091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

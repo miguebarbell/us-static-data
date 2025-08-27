@@ -1,0 +1,20 @@
+{
+    "zip": 82925,
+    "lat": 43.23123,
+    "lng": -109.89386,
+    "city": "Cora",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 373.0,
+    "density": 0.2,
+    "county_fips": 56035,
+    "county_name": "Sublette",
+    "county_weights": "{\"56035\": 94.88, \"56039\": 5.12}",
+    "county_names_all": "Sublette|Teton",
+    "county_fips_all": "56035|56039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

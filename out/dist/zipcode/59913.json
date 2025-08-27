@@ -1,0 +1,20 @@
+{
+    "zip": 59913,
+    "lat": 48.41391,
+    "lng": -113.95045,
+    "city": "Coram",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 543.0,
+    "density": 4.0,
+    "county_fips": 30029,
+    "county_name": "Flathead",
+    "county_weights": "{\"30029\": 100}",
+    "county_names_all": "Flathead",
+    "county_fips_all": "30029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

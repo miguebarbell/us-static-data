@@ -1,0 +1,20 @@
+{
+    "zip": 58634,
+    "lat": 47.43683,
+    "lng": -103.35647,
+    "city": "Grassy Butte",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 230.0,
+    "density": 0.2,
+    "county_fips": 38053,
+    "county_name": "McKenzie",
+    "county_weights": "{\"38053\": 97.61, \"38007\": 2.39}",
+    "county_names_all": "McKenzie|Billings",
+    "county_fips_all": "38053|38007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

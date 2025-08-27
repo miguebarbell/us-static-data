@@ -1,0 +1,20 @@
+{
+    "zip": 26152,
+    "lat": 38.98355,
+    "lng": -81.19308,
+    "city": "Munday",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12.0,
+    "density": 0.5,
+    "county_fips": 54013,
+    "county_name": "Calhoun",
+    "county_weights": "{\"54013\": 71.12, \"54105\": 28.88}",
+    "county_names_all": "Calhoun|Wirt",
+    "county_fips_all": "54013|54105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

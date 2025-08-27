@@ -1,0 +1,20 @@
+{
+    "zip": 12454,
+    "lat": 42.2869,
+    "lng": -74.15038,
+    "city": "Maplecrest",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 368.0,
+    "density": 12.9,
+    "county_fips": 36039,
+    "county_name": "Greene",
+    "county_weights": "{\"36039\": 100}",
+    "county_names_all": "Greene",
+    "county_fips_all": "36039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

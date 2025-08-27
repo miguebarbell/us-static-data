@@ -1,0 +1,20 @@
+{
+    "zip": 76859,
+    "lat": 30.87106,
+    "lng": -99.83123,
+    "city": "Menard",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1666.0,
+    "density": 0.8,
+    "county_fips": 48327,
+    "county_name": "Menard",
+    "county_weights": "{\"48327\": 85.69, \"48267\": 14.31}",
+    "county_names_all": "Menard|Kimble",
+    "county_fips_all": "48327|48267",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

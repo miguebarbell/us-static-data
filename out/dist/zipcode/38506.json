@@ -1,0 +1,20 @@
+{
+    "zip": 38506,
+    "lat": 36.18334,
+    "lng": -85.44246,
+    "city": "Cookeville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29657.0,
+    "density": 69.7,
+    "county_fips": 47141,
+    "county_name": "Putnam",
+    "county_weights": "{\"47141\": 70.21, \"47133\": 25.31, \"47185\": 4.02, \"47087\": 0.46}",
+    "county_names_all": "Putnam|Overton|White|Jackson",
+    "county_fips_all": "47141|47133|47185|47087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

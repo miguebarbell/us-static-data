@@ -1,0 +1,20 @@
+{
+    "zip": 62473,
+    "lat": 39.01986,
+    "lng": -88.56556,
+    "city": "Watson",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1124.0,
+    "density": 19.9,
+    "county_fips": 17049,
+    "county_name": "Effingham",
+    "county_weights": "{\"17049\": 100}",
+    "county_names_all": "Effingham",
+    "county_fips_all": "17049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

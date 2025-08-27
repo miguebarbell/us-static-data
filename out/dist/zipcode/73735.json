@@ -1,0 +1,20 @@
+{
+    "zip": 73735,
+    "lat": 36.27594,
+    "lng": -98.05132,
+    "city": "Drummond",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 727.0,
+    "density": 6.9,
+    "county_fips": 40047,
+    "county_name": "Garfield",
+    "county_weights": "{\"40047\": 96.27, \"40093\": 3.73}",
+    "county_names_all": "Garfield|Major",
+    "county_fips_all": "40047|40093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

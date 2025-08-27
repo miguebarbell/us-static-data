@@ -1,0 +1,20 @@
+{
+    "zip": 65759,
+    "lat": 36.75762,
+    "lng": -93.03167,
+    "city": "Taneyville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1033.0,
+    "density": 7.9,
+    "county_fips": 29213,
+    "county_name": "Taney",
+    "county_weights": "{\"29213\": 97.67, \"29043\": 2.33}",
+    "county_names_all": "Taney|Christian",
+    "county_fips_all": "29213|29043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

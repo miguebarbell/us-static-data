@@ -1,0 +1,20 @@
+{
+    "zip": 77031,
+    "lat": 29.65434,
+    "lng": -95.54622,
+    "city": "Houston",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15740.0,
+    "density": 1925.2,
+    "county_fips": 48201,
+    "county_name": "Harris",
+    "county_weights": "{\"48201\": 99.14, \"48157\": 0.86}",
+    "county_names_all": "Harris|Fort Bend",
+    "county_fips_all": "48201|48157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

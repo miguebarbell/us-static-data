@@ -1,0 +1,20 @@
+{
+    "zip": 99760,
+    "lat": 64.37035,
+    "lng": -149.17513,
+    "city": "Nenana",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 800.0,
+    "density": 0.1,
+    "county_fips": 2290,
+    "county_name": "Yukon-Koyukuk",
+    "county_weights": "{\"02290\": 56.42, \"02068\": 42.47, \"02090\": 1.11}",
+    "county_names_all": "Yukon-Koyukuk|Denali|Fairbanks North Star",
+    "county_fips_all": "02290|02068|02090",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

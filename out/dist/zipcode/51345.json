@@ -1,0 +1,20 @@
+{
+    "zip": 51345,
+    "lat": 43.4181,
+    "lng": -95.43209,
+    "city": "Harris",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 313.0,
+    "density": 2.1,
+    "county_fips": 19143,
+    "county_name": "Osceola",
+    "county_weights": "{\"19143\": 97.27, \"19059\": 2.73}",
+    "county_names_all": "Osceola|Dickinson",
+    "county_fips_all": "19143|19059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

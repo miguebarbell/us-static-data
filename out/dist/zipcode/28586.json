@@ -1,0 +1,20 @@
+{
+    "zip": 28586,
+    "lat": 35.31884,
+    "lng": -77.16602,
+    "city": "Vanceboro",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8094.0,
+    "density": 24.0,
+    "county_fips": 37049,
+    "county_name": "Craven",
+    "county_weights": "{\"37049\": 91.37, \"37013\": 4.81, \"37147\": 3.82}",
+    "county_names_all": "Craven|Beaufort|Pitt",
+    "county_fips_all": "37049|37013|37147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

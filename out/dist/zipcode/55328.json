@@ -1,0 +1,20 @@
+{
+    "zip": 55328,
+    "lat": 45.03246,
+    "lng": -93.80981,
+    "city": "Delano",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9933.0,
+    "density": 85.4,
+    "county_fips": 27171,
+    "county_name": "Wright",
+    "county_weights": "{\"27171\": 86.34, \"27019\": 6.84, \"27053\": 6.82}",
+    "county_names_all": "Wright|Carver|Hennepin",
+    "county_fips_all": "27171|27019|27053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 26377,
+    "lat": 39.49185,
+    "lng": -80.64068,
+    "city": "Jacksonburg",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 678.0,
+    "density": 4.3,
+    "county_fips": 54103,
+    "county_name": "Wetzel",
+    "county_weights": "{\"54103\": 67.67, \"54095\": 32.33}",
+    "county_names_all": "Wetzel|Tyler",
+    "county_fips_all": "54103|54095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

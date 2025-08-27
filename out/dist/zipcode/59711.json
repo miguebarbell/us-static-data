@@ -1,0 +1,20 @@
+{
+    "zip": 59711,
+    "lat": 46.09734,
+    "lng": -113.10317,
+    "city": "Anaconda",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9464.0,
+    "density": 6.5,
+    "county_fips": 30023,
+    "county_name": "Deer Lodge",
+    "county_weights": "{\"30023\": 63.44, \"30039\": 25.76, \"30093\": 10.8}",
+    "county_names_all": "Deer Lodge|Granite|Silver Bow",
+    "county_fips_all": "30023|30039|30093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

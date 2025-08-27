@@ -1,0 +1,20 @@
+{
+    "zip": 29355,
+    "lat": 34.37012,
+    "lng": -81.75894,
+    "city": "Kinards",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 757.0,
+    "density": 3.6,
+    "county_fips": 45071,
+    "county_name": "Newberry",
+    "county_weights": "{\"45071\": 73.11, \"45059\": 26.89}",
+    "county_names_all": "Newberry|Laurens",
+    "county_fips_all": "45071|45059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

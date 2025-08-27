@@ -1,0 +1,20 @@
+{
+    "zip": 17813,
+    "lat": 40.78505,
+    "lng": -77.1772,
+    "city": "Beavertown",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2138.0,
+    "density": 22.3,
+    "county_fips": 42109,
+    "county_name": "Snyder",
+    "county_weights": "{\"42109\": 100}",
+    "county_names_all": "Snyder",
+    "county_fips_all": "42109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 68719,
+    "lat": 42.96446,
+    "lng": -98.57426,
+    "city": "Bristow",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 164.0,
+    "density": 1.2,
+    "county_fips": 31015,
+    "county_name": "Boyd",
+    "county_weights": "{\"31015\": 60.08, \"46053\": 39.92}",
+    "county_names_all": "Boyd|Gregory",
+    "county_fips_all": "31015|46053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

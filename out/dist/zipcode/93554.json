@@ -1,0 +1,20 @@
+{
+    "zip": 93554,
+    "lat": 35.36914,
+    "lng": -117.75876,
+    "city": "Randsburg",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 102.0,
+    "density": 0.3,
+    "county_fips": 6029,
+    "county_name": "Kern",
+    "county_weights": "{\"06029\": 100}",
+    "county_names_all": "Kern",
+    "county_fips_all": "06029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

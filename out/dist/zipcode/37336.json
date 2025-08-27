@@ -1,0 +1,20 @@
+{
+    "zip": 37336,
+    "lat": 35.30117,
+    "lng": -84.93413,
+    "city": "Georgetown",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4908.0,
+    "density": 43.4,
+    "county_fips": 47121,
+    "county_name": "Meigs",
+    "county_weights": "{\"47121\": 35.96, \"47065\": 33.35, \"47011\": 30.69}",
+    "county_names_all": "Meigs|Hamilton|Bradley",
+    "county_fips_all": "47121|47065|47011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

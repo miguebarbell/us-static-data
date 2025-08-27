@@ -1,0 +1,20 @@
+{
+    "zip": 12752,
+    "lat": 41.68278,
+    "lng": -74.9905,
+    "city": "Lake Huntington",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 301.0,
+    "density": 75.3,
+    "county_fips": 36105,
+    "county_name": "Sullivan",
+    "county_weights": "{\"36105\": 100}",
+    "county_names_all": "Sullivan",
+    "county_fips_all": "36105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

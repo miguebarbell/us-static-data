@@ -1,0 +1,20 @@
+{
+    "zip": 80004,
+    "lat": 39.81443,
+    "lng": -105.12293,
+    "city": "Arvada",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 34580.0,
+    "density": 1867.4,
+    "county_fips": 8059,
+    "county_name": "Jefferson",
+    "county_weights": "{\"08059\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "08059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

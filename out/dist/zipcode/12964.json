@@ -1,0 +1,20 @@
+{
+    "zip": 12964,
+    "lat": 44.13224,
+    "lng": -73.63625,
+    "city": "New Russia",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 46.0,
+    "density": 0.6,
+    "county_fips": 36031,
+    "county_name": "Essex",
+    "county_weights": "{\"36031\": 100}",
+    "county_names_all": "Essex",
+    "county_fips_all": "36031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

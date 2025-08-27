@@ -1,0 +1,20 @@
+{
+    "zip": 80438,
+    "lat": 39.7602,
+    "lng": -105.78356,
+    "city": "Empire",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 720.0,
+    "density": 5.0,
+    "county_fips": 8019,
+    "county_name": "Clear Creek",
+    "county_weights": "{\"08019\": 100}",
+    "county_names_all": "Clear Creek",
+    "county_fips_all": "08019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

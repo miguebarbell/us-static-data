@@ -1,0 +1,20 @@
+{
+    "zip": 58524,
+    "lat": 46.61297,
+    "lng": -100.07506,
+    "city": "Braddock",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 82.0,
+    "density": 0.2,
+    "county_fips": 38029,
+    "county_name": "Emmons",
+    "county_weights": "{\"38029\": 56.65, \"38043\": 24.99, \"38015\": 18.36}",
+    "county_names_all": "Emmons|Kidder|Burleigh",
+    "county_fips_all": "38029|38043|38015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

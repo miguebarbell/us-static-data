@@ -1,0 +1,20 @@
+{
+    "zip": 57279,
+    "lat": 45.41816,
+    "lng": -96.87274,
+    "city": "Wilmot",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 981.0,
+    "density": 2.7,
+    "county_fips": 46109,
+    "county_name": "Roberts",
+    "county_weights": "{\"46109\": 100}",
+    "county_names_all": "Roberts",
+    "county_fips_all": "46109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

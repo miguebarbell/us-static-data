@@ -1,0 +1,20 @@
+{
+    "zip": 23093,
+    "lat": 38.00153,
+    "lng": -78.03595,
+    "city": "Louisa",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14243.0,
+    "density": 27.0,
+    "county_fips": 51109,
+    "county_name": "Louisa",
+    "county_weights": "{\"51109\": 94.97, \"51075\": 4.24, \"51065\": 0.79}",
+    "county_names_all": "Louisa|Goochland|Fluvanna",
+    "county_fips_all": "51109|51075|51065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

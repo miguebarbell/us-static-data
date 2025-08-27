@@ -1,0 +1,20 @@
+{
+    "zip": 97621,
+    "lat": 42.51504,
+    "lng": -121.2881,
+    "city": "Beatty",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 268.0,
+    "density": 0.6,
+    "county_fips": 41035,
+    "county_name": "Klamath",
+    "county_weights": "{\"41035\": 100}",
+    "county_names_all": "Klamath",
+    "county_fips_all": "41035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

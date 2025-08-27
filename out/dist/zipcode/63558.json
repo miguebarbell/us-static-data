@@ -1,0 +1,20 @@
+{
+    "zip": 63558,
+    "lat": 39.74168,
+    "lng": -92.75244,
+    "city": "New Cambria",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 670.0,
+    "density": 2.3,
+    "county_fips": 29121,
+    "county_name": "Macon",
+    "county_weights": "{\"29121\": 68.71, \"29041\": 31.29}",
+    "county_names_all": "Macon|Chariton",
+    "county_fips_all": "29121|29041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

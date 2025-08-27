@@ -1,0 +1,20 @@
+{
+    "zip": 78942,
+    "lat": 30.16803,
+    "lng": -96.93153,
+    "city": "Giddings",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9858.0,
+    "density": 18.8,
+    "county_fips": 48287,
+    "county_name": "Lee",
+    "county_weights": "{\"48287\": 87.18, \"48149\": 7.76, \"48021\": 5.06}",
+    "county_names_all": "Lee|Fayette|Bastrop",
+    "county_fips_all": "48287|48149|48021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

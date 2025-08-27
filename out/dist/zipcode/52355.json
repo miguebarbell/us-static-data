@@ -1,0 +1,20 @@
+{
+    "zip": 52355,
+    "lat": 41.4576,
+    "lng": -92.18387,
+    "city": "Webster",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 282.0,
+    "density": 3.1,
+    "county_fips": 19107,
+    "county_name": "Keokuk",
+    "county_weights": "{\"19107\": 91.83, \"19095\": 8.17}",
+    "county_names_all": "Keokuk|Iowa",
+    "county_fips_all": "19107|19095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

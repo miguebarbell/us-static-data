@@ -1,0 +1,20 @@
+{
+    "zip": 30139,
+    "lat": 34.43346,
+    "lng": -84.70575,
+    "city": "Fairmount",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4609.0,
+    "density": 24.5,
+    "county_fips": 13129,
+    "county_name": "Gordon",
+    "county_weights": "{\"13129\": 60.23, \"13227\": 21.71, \"13015\": 18.06}",
+    "county_names_all": "Gordon|Pickens|Bartow",
+    "county_fips_all": "13129|13227|13015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

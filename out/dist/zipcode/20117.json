@@ -1,0 +1,20 @@
+{
+    "zip": 20117,
+    "lat": 38.99473,
+    "lng": -77.73851,
+    "city": "Middleburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3248.0,
+    "density": 25.8,
+    "county_fips": 51107,
+    "county_name": "Loudoun",
+    "county_weights": "{\"51107\": 89.41, \"51061\": 10.59}",
+    "county_names_all": "Loudoun|Fauquier",
+    "county_fips_all": "51107|51061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

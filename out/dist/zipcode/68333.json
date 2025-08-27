@@ -1,0 +1,20 @@
+{
+    "zip": 68333,
+    "lat": 40.62126,
+    "lng": -96.94901,
+    "city": "Crete",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9257.0,
+    "density": 32.5,
+    "county_fips": 31151,
+    "county_name": "Saline",
+    "county_weights": "{\"31151\": 66.8, \"31109\": 33.2}",
+    "county_names_all": "Saline|Lancaster",
+    "county_fips_all": "31151|31109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

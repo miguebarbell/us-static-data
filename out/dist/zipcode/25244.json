@@ -1,0 +1,20 @@
+{
+    "zip": 25244,
+    "lat": 38.77068,
+    "lng": -81.54237,
+    "city": "Gay",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 838.0,
+    "density": 10.2,
+    "county_fips": 54035,
+    "county_name": "Jackson",
+    "county_weights": "{\"54035\": 67.12, \"54087\": 32.88}",
+    "county_names_all": "Jackson|Roane",
+    "county_fips_all": "54035|54087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

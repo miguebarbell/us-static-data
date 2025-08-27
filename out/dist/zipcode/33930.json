@@ -1,0 +1,20 @@
+{
+    "zip": 33930,
+    "lat": 26.55916,
+    "lng": -81.40069,
+    "city": "Felda",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1058.0,
+    "density": 3.7,
+    "county_fips": 12051,
+    "county_name": "Hendry",
+    "county_weights": "{\"12051\": 100}",
+    "county_names_all": "Hendry",
+    "county_fips_all": "12051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

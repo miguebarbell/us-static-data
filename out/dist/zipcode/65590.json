@@ -1,0 +1,20 @@
+{
+    "zip": 65590,
+    "lat": 37.61687,
+    "lng": -92.95008,
+    "city": "Long Lane",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1820.0,
+    "density": 8.9,
+    "county_fips": 29059,
+    "county_name": "Dallas",
+    "county_weights": "{\"29059\": 100}",
+    "county_names_all": "Dallas",
+    "county_fips_all": "29059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

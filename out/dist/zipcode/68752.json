@@ -1,0 +1,20 @@
+{
+    "zip": 68752,
+    "lat": 42.02269,
+    "lng": -97.7154,
+    "city": "Meadow Grove",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 609.0,
+    "density": 1.7,
+    "county_fips": 31119,
+    "county_name": "Madison",
+    "county_weights": "{\"31119\": 75.87, \"31139\": 24.13}",
+    "county_names_all": "Madison|Pierce",
+    "county_fips_all": "31119|31139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

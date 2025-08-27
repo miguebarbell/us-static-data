@@ -1,0 +1,20 @@
+{
+    "zip": 99609,
+    "lat": 60.87848,
+    "lng": -162.52725,
+    "city": "Kasigluk",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 692.0,
+    "density": 22.6,
+    "county_fips": 2050,
+    "county_name": "Bethel",
+    "county_weights": "{\"02050\": 100}",
+    "county_names_all": "Bethel",
+    "county_fips_all": "02050",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Nome"
+}

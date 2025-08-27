@@ -1,0 +1,20 @@
+{
+    "zip": 21409,
+    "lat": 39.01968,
+    "lng": -76.44738,
+    "city": "Annapolis",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20175.0,
+    "density": 556.3,
+    "county_fips": 24003,
+    "county_name": "Anne Arundel",
+    "county_weights": "{\"24003\": 100}",
+    "county_names_all": "Anne Arundel",
+    "county_fips_all": "24003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

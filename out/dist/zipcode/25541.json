@@ -1,0 +1,20 @@
+{
+    "zip": 25541,
+    "lat": 38.45884,
+    "lng": -82.12707,
+    "city": "Milton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9360.0,
+    "density": 51.6,
+    "county_fips": 54011,
+    "county_name": "Cabell",
+    "county_weights": "{\"54011\": 80.45, \"54053\": 19.55}",
+    "county_names_all": "Cabell|Mason",
+    "county_fips_all": "54011|54053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 64772,
+    "lat": 37.82712,
+    "lng": -94.33355,
+    "city": "Nevada",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12930.0,
+    "density": 38.7,
+    "county_fips": 29217,
+    "county_name": "Vernon",
+    "county_weights": "{\"29217\": 100}",
+    "county_names_all": "Vernon",
+    "county_fips_all": "29217",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

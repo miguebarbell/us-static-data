@@ -1,0 +1,20 @@
+{
+    "zip": 77364,
+    "lat": 30.76592,
+    "lng": -95.22168,
+    "city": "Pointblank",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1835.0,
+    "density": 23.0,
+    "county_fips": 48407,
+    "county_name": "San Jacinto",
+    "county_weights": "{\"48407\": 100}",
+    "county_names_all": "San Jacinto",
+    "county_fips_all": "48407",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 50234,
+    "lat": 41.89165,
+    "lng": -93.17916,
+    "city": "Rhodes",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 463.0,
+    "density": 6.6,
+    "county_fips": 19127,
+    "county_name": "Marshall",
+    "county_weights": "{\"19127\": 83.1, \"19099\": 16.9}",
+    "county_names_all": "Marshall|Jasper",
+    "county_fips_all": "19127|19099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

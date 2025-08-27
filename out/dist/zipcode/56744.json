@@ -1,0 +1,20 @@
+{
+    "zip": 56744,
+    "lat": 48.23456,
+    "lng": -97.1089,
+    "city": "Oslo",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 572.0,
+    "density": 2.3,
+    "county_fips": 27089,
+    "county_name": "Marshall",
+    "county_weights": "{\"27089\": 49.96, \"27119\": 23.26, \"38099\": 23.11, \"38035\": 3.67}",
+    "county_names_all": "Marshall|Polk|Walsh|Grand Forks",
+    "county_fips_all": "27089|27119|38099|38035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

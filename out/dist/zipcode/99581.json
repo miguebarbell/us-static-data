@@ -1,0 +1,20 @@
+{
+    "zip": 99581,
+    "lat": 62.82476,
+    "lng": -164.68692,
+    "city": "Emmonak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 945.0,
+    "density": 6.3,
+    "county_fips": 2158,
+    "county_name": "Kusilvak",
+    "county_weights": "{\"02158\": 100}",
+    "county_names_all": "Kusilvak",
+    "county_fips_all": "02158",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Nome"
+}

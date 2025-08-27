@@ -1,0 +1,20 @@
+{
+    "zip": 35082,
+    "lat": 33.1563,
+    "lng": -86.15456,
+    "city": "Hollins",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 1027,
+    "county_name": "Clay",
+    "county_weights": "{\"01027\": 100}",
+    "county_names_all": "Clay",
+    "county_fips_all": "01027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

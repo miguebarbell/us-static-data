@@ -1,0 +1,20 @@
+{
+    "zip": 15557,
+    "lat": 39.92757,
+    "lng": -79.20945,
+    "city": "Rockwood",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3430.0,
+    "density": 14.7,
+    "county_fips": 42111,
+    "county_name": "Somerset",
+    "county_weights": "{\"42111\": 99.24, \"42051\": 0.76}",
+    "county_names_all": "Somerset|Fayette",
+    "county_fips_all": "42111|42051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 84066,
+    "lat": 40.34671,
+    "lng": -110.05171,
+    "city": "Roosevelt",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14626.0,
+    "density": 23.5,
+    "county_fips": 49013,
+    "county_name": "Duchesne",
+    "county_weights": "{\"49013\": 78.95, \"49047\": 21.05}",
+    "county_names_all": "Duchesne|Uintah",
+    "county_fips_all": "49013|49047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

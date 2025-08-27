@@ -1,0 +1,20 @@
+{
+    "zip": 98004,
+    "lat": 47.61865,
+    "lng": -122.20548,
+    "city": "Bellevue",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39435.0,
+    "density": 2094.4,
+    "county_fips": 53033,
+    "county_name": "King",
+    "county_weights": "{\"53033\": 100}",
+    "county_names_all": "King",
+    "county_fips_all": "53033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

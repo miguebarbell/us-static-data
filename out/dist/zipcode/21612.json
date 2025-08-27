@@ -1,0 +1,20 @@
+{
+    "zip": 21612,
+    "lat": 38.74928,
+    "lng": -76.27695,
+    "city": "Bozman",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 446.0,
+    "density": 31.1,
+    "county_fips": 24041,
+    "county_name": "Talbot",
+    "county_weights": "{\"24041\": 100}",
+    "county_names_all": "Talbot",
+    "county_fips_all": "24041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

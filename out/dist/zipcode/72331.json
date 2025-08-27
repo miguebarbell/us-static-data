@@ -1,0 +1,20 @@
+{
+    "zip": 72331,
+    "lat": 35.28537,
+    "lng": -90.46733,
+    "city": "Earle",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2102.0,
+    "density": 5.4,
+    "county_fips": 5035,
+    "county_name": "Crittenden",
+    "county_weights": "{\"05035\": 66.69, \"05037\": 33.31}",
+    "county_names_all": "Crittenden|Cross",
+    "county_fips_all": "05035|05037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

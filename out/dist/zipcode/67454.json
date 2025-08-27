@@ -1,0 +1,20 @@
+{
+    "zip": 67454,
+    "lat": 38.69808,
+    "lng": -98.11308,
+    "city": "Kanopolis",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 640.0,
+    "density": 6.4,
+    "county_fips": 20053,
+    "county_name": "Ellsworth",
+    "county_weights": "{\"20053\": 100}",
+    "county_names_all": "Ellsworth",
+    "county_fips_all": "20053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 86044,
+    "lat": 36.75137,
+    "lng": -110.82626,
+    "city": "Tonalea",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3090.0,
+    "density": 1.0,
+    "county_fips": 4005,
+    "county_name": "Coconino",
+    "county_weights": "{\"04005\": 55.31, \"49037\": 31.59, \"04017\": 13.1}",
+    "county_names_all": "Coconino|San Juan|Navajo",
+    "county_fips_all": "04005|49037|04017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

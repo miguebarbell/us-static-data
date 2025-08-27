@@ -1,0 +1,20 @@
+{
+    "zip": 74022,
+    "lat": 36.93055,
+    "lng": -95.98054,
+    "city": "Copan",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1710.0,
+    "density": 5.6,
+    "county_fips": 40147,
+    "county_name": "Washington",
+    "county_weights": "{\"40147\": 57.49, \"40113\": 42.51}",
+    "county_names_all": "Washington|Osage",
+    "county_fips_all": "40147|40113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

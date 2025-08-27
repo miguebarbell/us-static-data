@@ -1,0 +1,20 @@
+{
+    "zip": 66967,
+    "lat": 39.82571,
+    "lng": -98.79366,
+    "city": "Smith Center",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2003.0,
+    "density": 3.3,
+    "county_fips": 20183,
+    "county_name": "Smith",
+    "county_weights": "{\"20183\": 100}",
+    "county_names_all": "Smith",
+    "county_fips_all": "20183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

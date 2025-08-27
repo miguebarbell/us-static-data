@@ -1,0 +1,20 @@
+{
+    "zip": 45786,
+    "lat": 39.50365,
+    "lng": -81.65451,
+    "city": "Waterford",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3019.0,
+    "density": 18.4,
+    "county_fips": 39167,
+    "county_name": "Washington",
+    "county_weights": "{\"39167\": 95.81, \"39115\": 4.19}",
+    "county_names_all": "Washington|Morgan",
+    "county_fips_all": "39167|39115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

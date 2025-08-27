@@ -1,0 +1,20 @@
+{
+    "zip": 58368,
+    "lat": 48.25124,
+    "lng": -100.04105,
+    "city": "Rugby",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3205.0,
+    "density": 1.9,
+    "county_fips": 38069,
+    "county_name": "Pierce",
+    "county_weights": "{\"38069\": 88.06, \"38049\": 6.82, \"38005\": 5.12}",
+    "county_names_all": "Pierce|McHenry|Benson",
+    "county_fips_all": "38069|38049|38005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

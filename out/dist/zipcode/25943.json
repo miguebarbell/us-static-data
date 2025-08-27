@@ -1,0 +1,20 @@
+{
+    "zip": 25943,
+    "lat": 37.59657,
+    "lng": -81.34914,
+    "city": "Wyco",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 54109,
+    "county_name": "Wyoming",
+    "county_weights": "{\"54109\": 100}",
+    "county_names_all": "Wyoming",
+    "county_fips_all": "54109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

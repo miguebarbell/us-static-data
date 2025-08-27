@@ -1,0 +1,20 @@
+{
+    "zip": 7438,
+    "lat": 41.0287,
+    "lng": -74.52038,
+    "city": "Oak Ridge",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11045.0,
+    "density": 142.0,
+    "county_fips": 34027,
+    "county_name": "Morris",
+    "county_weights": "{\"34027\": 84.87, \"34031\": 15.13}",
+    "county_names_all": "Morris|Passaic",
+    "county_fips_all": "34027|34031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

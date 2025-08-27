@@ -1,0 +1,20 @@
+{
+    "zip": 68058,
+    "lat": 41.00842,
+    "lng": -96.2483,
+    "city": "South Bend",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 352.0,
+    "density": 208.7,
+    "county_fips": 31025,
+    "county_name": "Cass",
+    "county_weights": "{\"31025\": 100}",
+    "county_names_all": "Cass",
+    "county_fips_all": "31025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

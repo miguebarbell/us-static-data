@@ -1,0 +1,20 @@
+{
+    "zip": 18618,
+    "lat": 41.37883,
+    "lng": -76.0313,
+    "city": "Harveys Lake",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3583.0,
+    "density": 65.4,
+    "county_fips": 42079,
+    "county_name": "Luzerne",
+    "county_weights": "{\"42079\": 62.73, \"42131\": 37.27}",
+    "county_names_all": "Luzerne|Wyoming",
+    "county_fips_all": "42079|42131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

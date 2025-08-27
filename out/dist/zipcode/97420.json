@@ -1,0 +1,20 @@
+{
+    "zip": 97420,
+    "lat": 43.34839,
+    "lng": -124.10825,
+    "city": "Coos Bay",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27579.0,
+    "density": 38.9,
+    "county_fips": 41011,
+    "county_name": "Coos",
+    "county_weights": "{\"41011\": 100}",
+    "county_names_all": "Coos",
+    "county_fips_all": "41011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

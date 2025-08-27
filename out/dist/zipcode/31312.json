@@ -1,0 +1,20 @@
+{
+    "zip": 31312,
+    "lat": 32.3211,
+    "lng": -81.40126,
+    "city": "Guyton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25286.0,
+    "density": 55.8,
+    "county_fips": 13103,
+    "county_name": "Effingham",
+    "county_weights": "{\"13103\": 100}",
+    "county_names_all": "Effingham",
+    "county_fips_all": "13103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

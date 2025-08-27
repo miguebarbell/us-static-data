@@ -1,0 +1,20 @@
+{
+    "zip": 16434,
+    "lat": 41.79442,
+    "lng": -79.66765,
+    "city": "Spartansburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3008.0,
+    "density": 18.5,
+    "county_fips": 42039,
+    "county_name": "Crawford",
+    "county_weights": "{\"42039\": 82.96, \"42123\": 17.04}",
+    "county_names_all": "Crawford|Warren",
+    "county_fips_all": "42039|42123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

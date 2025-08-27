@@ -1,0 +1,20 @@
+{
+    "zip": 27815,
+    "lat": 35.92473,
+    "lng": -77.69304,
+    "city": "Rocky Mount",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 37065,
+    "county_name": "Edgecombe",
+    "county_weights": "{\"37065\": 100}",
+    "county_names_all": "Edgecombe",
+    "county_fips_all": "37065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 44230,
+    "lat": 40.96237,
+    "lng": -81.69064,
+    "city": "Doylestown",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8225.0,
+    "density": 175.4,
+    "county_fips": 39169,
+    "county_name": "Wayne",
+    "county_weights": "{\"39169\": 93.25, \"39103\": 5.95, \"39153\": 0.8}",
+    "county_names_all": "Wayne|Medina|Summit",
+    "county_fips_all": "39169|39103|39153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

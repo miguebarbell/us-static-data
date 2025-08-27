@@ -1,0 +1,20 @@
+{
+    "zip": 26755,
+    "lat": 39.15856,
+    "lng": -78.73534,
+    "city": "Rio",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 826.0,
+    "density": 9.8,
+    "county_fips": 54027,
+    "county_name": "Hampshire",
+    "county_weights": "{\"54027\": 53.98, \"54031\": 46.02}",
+    "county_names_all": "Hampshire|Hardy",
+    "county_fips_all": "54027|54031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

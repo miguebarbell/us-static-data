@@ -1,0 +1,20 @@
+{
+    "zip": 48182,
+    "lat": 41.7919,
+    "lng": -83.57831,
+    "city": "Temperance",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20705.0,
+    "density": 203.8,
+    "county_fips": 26115,
+    "county_name": "Monroe",
+    "county_weights": "{\"26115\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "26115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

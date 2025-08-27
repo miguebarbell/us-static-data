@@ -1,0 +1,20 @@
+{
+    "zip": 72560,
+    "lat": 35.84023,
+    "lng": -92.08032,
+    "city": "Mountain View",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7650.0,
+    "density": 9.9,
+    "county_fips": 5137,
+    "county_name": "Stone",
+    "county_weights": "{\"05137\": 99.29, \"05065\": 0.71}",
+    "county_names_all": "Stone|Izard",
+    "county_fips_all": "05137|05065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 58773,
+    "lat": 48.58631,
+    "lng": -102.66852,
+    "city": "Powers Lake",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1035.0,
+    "density": 1.3,
+    "county_fips": 38013,
+    "county_name": "Burke",
+    "county_weights": "{\"38013\": 68.91, \"38061\": 31.09}",
+    "county_names_all": "Burke|Mountrail",
+    "county_fips_all": "38013|38061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

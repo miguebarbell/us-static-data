@@ -1,0 +1,20 @@
+{
+    "zip": 32420,
+    "lat": 30.63637,
+    "lng": -85.38123,
+    "city": "Alford",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2232.0,
+    "density": 16.2,
+    "county_fips": 12063,
+    "county_name": "Jackson",
+    "county_weights": "{\"12063\": 97.61, \"12133\": 2.39}",
+    "county_names_all": "Jackson|Washington",
+    "county_fips_all": "12063|12133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

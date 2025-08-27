@@ -1,0 +1,20 @@
+{
+    "zip": 61740,
+    "lat": 40.88779,
+    "lng": -88.86397,
+    "city": "Flanagan",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1427.0,
+    "density": 7.8,
+    "county_fips": 17105,
+    "county_name": "Livingston",
+    "county_weights": "{\"17105\": 100}",
+    "county_names_all": "Livingston",
+    "county_fips_all": "17105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

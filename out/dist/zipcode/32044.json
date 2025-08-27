@@ -1,0 +1,20 @@
+{
+    "zip": 32044,
+    "lat": 29.85344,
+    "lng": -82.16425,
+    "city": "Hampton",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2394.0,
+    "density": 52.9,
+    "county_fips": 12007,
+    "county_name": "Bradford",
+    "county_weights": "{\"12007\": 93.71, \"12001\": 6.29}",
+    "county_names_all": "Bradford|Alachua",
+    "county_fips_all": "12007|12001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

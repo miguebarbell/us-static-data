@@ -1,0 +1,20 @@
+{
+    "zip": 56437,
+    "lat": 46.25049,
+    "lng": -95.05654,
+    "city": "Bertha",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1409.0,
+    "density": 8.2,
+    "county_fips": 27153,
+    "county_name": "Todd",
+    "county_weights": "{\"27153\": 88.49, \"27111\": 11.51}",
+    "county_names_all": "Todd|Otter Tail",
+    "county_fips_all": "27153|27111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

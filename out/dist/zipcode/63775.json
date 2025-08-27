@@ -1,0 +1,20 @@
+{
+    "zip": 63775,
+    "lat": 37.71051,
+    "lng": -89.87919,
+    "city": "Perryville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15993.0,
+    "density": 18.0,
+    "county_fips": 29157,
+    "county_name": "Perry",
+    "county_weights": "{\"29157\": 97.6, \"29017\": 1.25, \"29031\": 1.15}",
+    "county_names_all": "Perry|Bollinger|Cape Girardeau",
+    "county_fips_all": "29157|29017|29031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

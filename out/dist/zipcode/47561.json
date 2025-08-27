@@ -1,0 +1,20 @@
+{
+    "zip": 47561,
+    "lat": 38.85705,
+    "lng": -87.43611,
+    "city": "Oaktown",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1293.0,
+    "density": 6.5,
+    "county_fips": 18083,
+    "county_name": "Knox",
+    "county_weights": "{\"18083\": 94.3, \"18153\": 5.7}",
+    "county_names_all": "Knox|Sullivan",
+    "county_fips_all": "18083|18153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Vincennes"
+}

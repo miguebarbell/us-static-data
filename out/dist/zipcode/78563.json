@@ -1,0 +1,20 @@
+{
+    "zip": 78563,
+    "lat": 26.66557,
+    "lng": -98.2517,
+    "city": "Linn",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 62.0,
+    "density": 0.1,
+    "county_fips": 48215,
+    "county_name": "Hidalgo",
+    "county_weights": "{\"48215\": 99.25, \"48427\": 0.75}",
+    "county_names_all": "Hidalgo|Starr",
+    "county_fips_all": "48215|48427",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

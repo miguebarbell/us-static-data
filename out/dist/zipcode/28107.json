@@ -1,0 +1,20 @@
+{
+    "zip": 28107,
+    "lat": 35.24992,
+    "lng": -80.52115,
+    "city": "Midland",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9638.0,
+    "density": 76.2,
+    "county_fips": 37025,
+    "county_name": "Cabarrus",
+    "county_weights": "{\"37025\": 91.45, \"37119\": 3.87, \"37179\": 3.08, \"37167\": 1.6}",
+    "county_names_all": "Cabarrus|Mecklenburg|Union|Stanly",
+    "county_fips_all": "37025|37119|37179|37167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

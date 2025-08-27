@@ -1,0 +1,20 @@
+{
+    "zip": 73669,
+    "lat": 35.75095,
+    "lng": -98.74281,
+    "city": "Thomas",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1596.0,
+    "density": 4.3,
+    "county_fips": 40039,
+    "county_name": "Custer",
+    "county_weights": "{\"40039\": 75.88, \"40043\": 18.47, \"40011\": 5.65}",
+    "county_names_all": "Custer|Dewey|Blaine",
+    "county_fips_all": "40039|40043|40011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

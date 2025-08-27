@@ -1,0 +1,20 @@
+{
+    "zip": 49903,
+    "lat": 46.33455,
+    "lng": -88.48496,
+    "city": "Amasa",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 228.0,
+    "density": 0.6,
+    "county_fips": 26071,
+    "county_name": "Iron",
+    "county_weights": "{\"26071\": 100}",
+    "county_names_all": "Iron",
+    "county_fips_all": "26071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Menominee"
+}

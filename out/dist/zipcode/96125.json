@@ -1,0 +1,20 @@
+{
+    "zip": 96125,
+    "lat": 39.61526,
+    "lng": -120.60493,
+    "city": "Sierra City",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 226.0,
+    "density": 0.9,
+    "county_fips": 6091,
+    "county_name": "Sierra",
+    "county_weights": "{\"06091\": 100}",
+    "county_names_all": "Sierra",
+    "county_fips_all": "06091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

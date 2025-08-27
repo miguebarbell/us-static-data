@@ -1,0 +1,20 @@
+{
+    "zip": 14512,
+    "lat": 42.64411,
+    "lng": -77.39296,
+    "city": "Naples",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4908.0,
+    "density": 18.3,
+    "county_fips": 36069,
+    "county_name": "Ontario",
+    "county_weights": "{\"36069\": 65.73, \"36123\": 27.27, \"36101\": 5.53, \"36051\": 1.47}",
+    "county_names_all": "Ontario|Yates|Steuben|Livingston",
+    "county_fips_all": "36069|36123|36101|36051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

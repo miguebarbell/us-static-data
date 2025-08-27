@@ -1,0 +1,20 @@
+{
+    "zip": 81228,
+    "lat": 39.03402,
+    "lng": -106.27723,
+    "city": "Granite",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 8015,
+    "county_name": "Chaffee",
+    "county_weights": "{\"08015\": 100}",
+    "county_names_all": "Chaffee",
+    "county_fips_all": "08015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

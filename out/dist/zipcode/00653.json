@@ -1,0 +1,20 @@
+{
+    "zip": 653,
+    "lat": 17.99413,
+    "lng": -66.90266,
+    "city": "Guanica",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8665.0,
+    "density": 151.5,
+    "county_fips": 72055,
+    "county_name": "Gu\u00e1nica",
+    "county_weights": "{\"72055\": 97.5, \"72121\": 2.5}",
+    "county_names_all": "Gu\u00e1nica|Sabana Grande",
+    "county_fips_all": "72055|72121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

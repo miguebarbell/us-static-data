@@ -1,0 +1,20 @@
+{
+    "zip": 76845,
+    "lat": 31.54305,
+    "lng": -99.48192,
+    "city": "Gouldbusk",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 172.0,
+    "density": 0.6,
+    "county_fips": 48083,
+    "county_name": "Coleman",
+    "county_weights": "{\"48083\": 100}",
+    "county_names_all": "Coleman",
+    "county_fips_all": "48083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

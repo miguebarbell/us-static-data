@@ -1,0 +1,20 @@
+{
+    "zip": 48423,
+    "lat": 43.03982,
+    "lng": -83.51404,
+    "city": "Davison",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33508.0,
+    "density": 200.7,
+    "county_fips": 26049,
+    "county_name": "Genesee",
+    "county_weights": "{\"26049\": 98.75, \"26087\": 1.25}",
+    "county_names_all": "Genesee|Lapeer",
+    "county_fips_all": "26049|26087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

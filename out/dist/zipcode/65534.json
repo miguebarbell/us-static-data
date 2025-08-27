@@ -1,0 +1,20 @@
+{
+    "zip": 65534,
+    "lat": 37.70236,
+    "lng": -92.27656,
+    "city": "Laquey",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 627.0,
+    "density": 6.4,
+    "county_fips": 29169,
+    "county_name": "Pulaski",
+    "county_weights": "{\"29169\": 78.94, \"29105\": 21.06}",
+    "county_names_all": "Pulaski|Laclede",
+    "county_fips_all": "29169|29105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

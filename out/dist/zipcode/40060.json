@@ -1,0 +1,20 @@
+{
+    "zip": 40060,
+    "lat": 37.53529,
+    "lng": -85.44371,
+    "city": "Raywick",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1278.0,
+    "density": 11.9,
+    "county_fips": 21155,
+    "county_name": "Marion",
+    "county_weights": "{\"21155\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "21155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

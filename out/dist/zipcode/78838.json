@@ -1,0 +1,20 @@
+{
+    "zip": 78838,
+    "lat": 29.53476,
+    "lng": -99.70757,
+    "city": "Concan",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 124.0,
+    "density": 0.6,
+    "county_fips": 48463,
+    "county_name": "Uvalde",
+    "county_weights": "{\"48463\": 100}",
+    "county_names_all": "Uvalde",
+    "county_fips_all": "48463",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

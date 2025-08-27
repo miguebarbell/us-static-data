@@ -1,0 +1,20 @@
+{
+    "zip": 32052,
+    "lat": 30.48683,
+    "lng": -82.94499,
+    "city": "Jasper",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8073.0,
+    "density": 10.9,
+    "county_fips": 12047,
+    "county_name": "Hamilton",
+    "county_weights": "{\"12047\": 100}",
+    "county_names_all": "Hamilton",
+    "county_fips_all": "12047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

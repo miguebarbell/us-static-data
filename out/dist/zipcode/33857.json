@@ -1,0 +1,20 @@
+{
+    "zip": 33857,
+    "lat": 27.35647,
+    "lng": -81.16517,
+    "city": "Lorida",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 935.0,
+    "density": 2.4,
+    "county_fips": 12055,
+    "county_name": "Highlands",
+    "county_weights": "{\"12055\": 100}",
+    "county_names_all": "Highlands",
+    "county_fips_all": "12055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 16222,
+    "lat": 40.87171,
+    "lng": -79.25719,
+    "city": "Dayton",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3139.0,
+    "density": 19.9,
+    "county_fips": 42005,
+    "county_name": "Armstrong",
+    "county_weights": "{\"42005\": 82.9, \"42063\": 8.99, \"42065\": 8.11}",
+    "county_names_all": "Armstrong|Indiana|Jefferson",
+    "county_fips_all": "42005|42063|42065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

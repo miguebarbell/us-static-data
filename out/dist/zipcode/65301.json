@@ -1,0 +1,20 @@
+{
+    "zip": 65301,
+    "lat": 38.69922,
+    "lng": -93.22104,
+    "city": "Sedalia",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35347.0,
+    "density": 61.1,
+    "county_fips": 29159,
+    "county_name": "Pettis",
+    "county_weights": "{\"29159\": 99.34, \"29053\": 0.66}",
+    "county_names_all": "Pettis|Cooper",
+    "county_fips_all": "29159|29053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

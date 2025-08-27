@@ -1,0 +1,20 @@
+{
+    "zip": 12420,
+    "lat": 41.6743,
+    "lng": -74.37769,
+    "city": "Cragsmoor",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 435.0,
+    "density": 63.0,
+    "county_fips": 36111,
+    "county_name": "Ulster",
+    "county_weights": "{\"36111\": 100}",
+    "county_names_all": "Ulster",
+    "county_fips_all": "36111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

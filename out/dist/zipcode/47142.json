@@ -1,0 +1,20 @@
+{
+    "zip": 47142,
+    "lat": 38.0684,
+    "lng": -86.21042,
+    "city": "Mauckport",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 530.0,
+    "density": 6.7,
+    "county_fips": 18061,
+    "county_name": "Harrison",
+    "county_weights": "{\"18061\": 100}",
+    "county_names_all": "Harrison",
+    "county_fips_all": "18061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

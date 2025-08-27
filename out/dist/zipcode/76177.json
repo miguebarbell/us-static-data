@@ -1,0 +1,20 @@
+{
+    "zip": 76177,
+    "lat": 32.96999,
+    "lng": -97.30611,
+    "city": "Fort Worth",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24141.0,
+    "density": 452.4,
+    "county_fips": 48439,
+    "county_name": "Tarrant",
+    "county_weights": "{\"48439\": 67.26, \"48121\": 32.74}",
+    "county_names_all": "Tarrant|Denton",
+    "county_fips_all": "48439|48121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

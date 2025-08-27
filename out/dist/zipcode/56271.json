@@ -1,0 +1,20 @@
+{
+    "zip": 56271,
+    "lat": 45.24125,
+    "lng": -95.41288,
+    "city": "Murdock",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1309.0,
+    "density": 3.3,
+    "county_fips": 27151,
+    "county_name": "Swift",
+    "county_weights": "{\"27151\": 82.04, \"27023\": 17.96}",
+    "county_names_all": "Swift|Chippewa",
+    "county_fips_all": "27151|27023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 29682,
+    "lat": 34.83295,
+    "lng": -82.84701,
+    "city": "Six Mile",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3923.0,
+    "density": 58.7,
+    "county_fips": 45077,
+    "county_name": "Pickens",
+    "county_weights": "{\"45077\": 100}",
+    "county_names_all": "Pickens",
+    "county_fips_all": "45077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

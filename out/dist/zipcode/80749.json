@@ -1,0 +1,20 @@
+{
+    "zip": 80749,
+    "lat": 40.87574,
+    "lng": -102.55354,
+    "city": "Sedgwick",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 257.0,
+    "density": 0.6,
+    "county_fips": 8115,
+    "county_name": "Sedgwick",
+    "county_weights": "{\"08115\": 100}",
+    "county_names_all": "Sedgwick",
+    "county_fips_all": "08115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

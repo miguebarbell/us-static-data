@@ -1,0 +1,20 @@
+{
+    "zip": 57341,
+    "lat": 44.08077,
+    "lng": -99.08974,
+    "city": "Gann Valley",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 154.0,
+    "density": 0.2,
+    "county_fips": 46017,
+    "county_name": "Buffalo",
+    "county_weights": "{\"46017\": 96.15, \"46015\": 3.85}",
+    "county_names_all": "Buffalo|Brule",
+    "county_fips_all": "46017|46015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

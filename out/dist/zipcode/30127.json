@@ -1,0 +1,20 @@
+{
+    "zip": 30127,
+    "lat": 33.87647,
+    "lng": -84.69648,
+    "city": "Powder Springs",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 72126.0,
+    "density": 542.6,
+    "county_fips": 13067,
+    "county_name": "Cobb",
+    "county_weights": "{\"13067\": 84.55, \"13223\": 15.45}",
+    "county_names_all": "Cobb|Paulding",
+    "county_fips_all": "13067|13223",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

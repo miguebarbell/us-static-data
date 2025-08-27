@@ -1,0 +1,20 @@
+{
+    "zip": 44878,
+    "lat": 40.95111,
+    "lng": -82.51963,
+    "city": "Shiloh",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2943.0,
+    "density": 19.6,
+    "county_fips": 39139,
+    "county_name": "Richland",
+    "county_weights": "{\"39139\": 89.82, \"39077\": 5.86, \"39005\": 4.32}",
+    "county_names_all": "Richland|Huron|Ashland",
+    "county_fips_all": "39139|39077|39005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

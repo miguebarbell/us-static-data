@@ -1,0 +1,20 @@
+{
+    "zip": 78003,
+    "lat": 29.71092,
+    "lng": -99.09823,
+    "city": "Bandera",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9594.0,
+    "density": 16.3,
+    "county_fips": 48019,
+    "county_name": "Bandera",
+    "county_weights": "{\"48019\": 85.28, \"48325\": 14.72}",
+    "county_names_all": "Bandera|Medina",
+    "county_fips_all": "48019|48325",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

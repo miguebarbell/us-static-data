@@ -1,0 +1,20 @@
+{
+    "zip": 80468,
+    "lat": 39.91447,
+    "lng": -106.10979,
+    "city": "Parshall",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 311.0,
+    "density": 0.4,
+    "county_fips": 8049,
+    "county_name": "Grand",
+    "county_weights": "{\"08049\": 100}",
+    "county_names_all": "Grand",
+    "county_fips_all": "08049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

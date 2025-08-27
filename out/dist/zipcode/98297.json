@@ -1,0 +1,20 @@
+{
+    "zip": 98297,
+    "lat": 48.7005,
+    "lng": -123.02834,
+    "city": "Waldron",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 48.0,
+    "density": 4.1,
+    "county_fips": 53055,
+    "county_name": "San Juan",
+    "county_weights": "{\"53055\": 100}",
+    "county_names_all": "San Juan",
+    "county_fips_all": "53055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

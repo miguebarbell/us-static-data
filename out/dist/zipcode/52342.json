@@ -1,0 +1,20 @@
+{
+    "zip": 52342,
+    "lat": 42.05047,
+    "lng": -92.55849,
+    "city": "Toledo",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2898.0,
+    "density": 12.6,
+    "county_fips": 19171,
+    "county_name": "Tama",
+    "county_weights": "{\"19171\": 100}",
+    "county_names_all": "Tama",
+    "county_fips_all": "19171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 7871,
+    "lat": 41.04666,
+    "lng": -74.62793,
+    "city": "Sparta",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21167.0,
+    "density": 214.2,
+    "county_fips": 34037,
+    "county_name": "Sussex",
+    "county_weights": "{\"34037\": 99.85, \"34027\": 0.15}",
+    "county_names_all": "Sussex|Morris",
+    "county_fips_all": "34037|34027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

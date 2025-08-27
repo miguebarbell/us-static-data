@@ -1,0 +1,20 @@
+{
+    "zip": 47930,
+    "lat": 40.23764,
+    "lng": -86.74137,
+    "city": "Clarks Hill",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1113.0,
+    "density": 16.6,
+    "county_fips": 18157,
+    "county_name": "Tippecanoe",
+    "county_weights": "{\"18157\": 81.21, \"18107\": 17.6, \"18023\": 1.19}",
+    "county_names_all": "Tippecanoe|Montgomery|Clinton",
+    "county_fips_all": "18157|18107|18023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 23847,
+    "lat": 36.668,
+    "lng": -77.54972,
+    "city": "Emporia",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13346.0,
+    "density": 18.7,
+    "county_fips": 51081,
+    "county_name": "Greensville",
+    "county_weights": "{\"51081\": 78.73, \"51025\": 6.76, \"51175\": 6.69, \"51183\": 5.41, \"51595\": 2.41}",
+    "county_names_all": "Greensville|Brunswick|Southampton|Sussex|Emporia",
+    "county_fips_all": "51081|51025|51175|51183|51595",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

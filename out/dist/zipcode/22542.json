@@ -1,0 +1,20 @@
+{
+    "zip": 22542,
+    "lat": 38.29348,
+    "lng": -77.88837,
+    "city": "Rhoadesville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2223.0,
+    "density": 50.3,
+    "county_fips": 51137,
+    "county_name": "Orange",
+    "county_weights": "{\"51137\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "51137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

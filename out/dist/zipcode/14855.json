@@ -1,0 +1,20 @@
+{
+    "zip": 14855,
+    "lat": 42.13978,
+    "lng": -77.50112,
+    "city": "Jasper",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 890.0,
+    "density": 11.8,
+    "county_fips": 36101,
+    "county_name": "Steuben",
+    "county_weights": "{\"36101\": 100}",
+    "county_names_all": "Steuben",
+    "county_fips_all": "36101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

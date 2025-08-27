@@ -1,0 +1,20 @@
+{
+    "zip": 49074,
+    "lat": 42.3198,
+    "lng": -85.53991,
+    "city": "Nazareth",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 212.0,
+    "density": 326.1,
+    "county_fips": 26077,
+    "county_name": "Kalamazoo",
+    "county_weights": "{\"26077\": 100}",
+    "county_names_all": "Kalamazoo",
+    "county_fips_all": "26077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

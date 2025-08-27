@@ -1,0 +1,20 @@
+{
+    "zip": 88316,
+    "lat": 33.77306,
+    "lng": -105.36895,
+    "city": "Capitan",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2319.0,
+    "density": 1.0,
+    "county_fips": 35027,
+    "county_name": "Lincoln",
+    "county_weights": "{\"35027\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "35027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

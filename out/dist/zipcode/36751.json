@@ -1,0 +1,20 @@
+{
+    "zip": 36751,
+    "lat": 31.80808,
+    "lng": -87.54865,
+    "city": "Lower Peach Tree",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 786.0,
+    "density": 2.7,
+    "county_fips": 1025,
+    "county_name": "Clarke",
+    "county_weights": "{\"01025\": 39.96, \"01131\": 33.98, \"01099\": 26.05}",
+    "county_names_all": "Clarke|Wilcox|Monroe",
+    "county_fips_all": "01025|01131|01099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

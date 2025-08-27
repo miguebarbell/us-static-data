@@ -1,0 +1,20 @@
+{
+    "zip": 24604,
+    "lat": 37.21088,
+    "lng": -81.54378,
+    "city": "Bishop",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 242.0,
+    "density": 24.8,
+    "county_fips": 51185,
+    "county_name": "Tazewell",
+    "county_weights": "{\"51185\": 79.37, \"54047\": 20.63}",
+    "county_names_all": "Tazewell|McDowell",
+    "county_fips_all": "51185|54047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

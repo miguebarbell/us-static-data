@@ -1,0 +1,20 @@
+{
+    "zip": 84525,
+    "lat": 38.87947,
+    "lng": -110.33217,
+    "city": "Green River",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 871.0,
+    "density": 0.7,
+    "county_fips": 49015,
+    "county_name": "Emery",
+    "county_weights": "{\"49015\": 79.78, \"49019\": 20.22}",
+    "county_names_all": "Emery|Grand",
+    "county_fips_all": "49015|49019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,16 @@
+{
+    "zip": [
+        "52401",
+        "52402",
+        "52403",
+        "52404",
+        "52405",
+        "52411"
+    ],
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "lat": 41.3611,
+    "lng": -93.43321,
+    "state_name": "Iowa",
+    "timezone": "America/Chicago"
+}

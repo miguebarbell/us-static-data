@@ -1,0 +1,20 @@
+{
+    "zip": 62682,
+    "lat": 40.29487,
+    "lng": -89.63541,
+    "city": "San Jose",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 745.0,
+    "density": 6.4,
+    "county_fips": 17125,
+    "county_name": "Mason",
+    "county_weights": "{\"17125\": 56.14, \"17107\": 30.06, \"17179\": 13.8}",
+    "county_names_all": "Mason|Logan|Tazewell",
+    "county_fips_all": "17125|17107|17179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

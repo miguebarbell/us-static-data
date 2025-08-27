@@ -1,0 +1,20 @@
+{
+    "zip": 40737,
+    "lat": 37.00838,
+    "lng": -84.13902,
+    "city": "Keavy",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1824.0,
+    "density": 87.1,
+    "county_fips": 21125,
+    "county_name": "Laurel",
+    "county_weights": "{\"21125\": 100}",
+    "county_names_all": "Laurel",
+    "county_fips_all": "21125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

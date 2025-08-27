@@ -1,0 +1,20 @@
+{
+    "zip": 4231,
+    "lat": 44.26438,
+    "lng": -70.88777,
+    "city": "Stoneham",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 297.0,
+    "density": 3.4,
+    "county_fips": 23017,
+    "county_name": "Oxford",
+    "county_weights": "{\"23017\": 100}",
+    "county_names_all": "Oxford",
+    "county_fips_all": "23017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

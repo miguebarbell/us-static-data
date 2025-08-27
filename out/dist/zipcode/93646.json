@@ -1,0 +1,20 @@
+{
+    "zip": 93646,
+    "lat": 36.63218,
+    "lng": -119.28938,
+    "city": "Orange Cove",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10047.0,
+    "density": 113.1,
+    "county_fips": 6107,
+    "county_name": "Tulare",
+    "county_weights": "{\"06107\": 58.27, \"06019\": 41.73}",
+    "county_names_all": "Tulare|Fresno",
+    "county_fips_all": "06107|06019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

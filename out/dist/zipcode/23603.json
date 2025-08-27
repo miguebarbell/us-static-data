@@ -1,0 +1,20 @@
+{
+    "zip": 23603,
+    "lat": 37.19188,
+    "lng": -76.56563,
+    "city": "Newport News",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3428.0,
+    "density": 190.4,
+    "county_fips": 51700,
+    "county_name": "Newport News",
+    "county_weights": "{\"51700\": 97.62, \"51199\": 2.38}",
+    "county_names_all": "Newport News|York",
+    "county_fips_all": "51700|51199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

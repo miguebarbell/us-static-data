@@ -1,0 +1,20 @@
+{
+    "zip": 77555,
+    "lat": 29.31082,
+    "lng": -94.77641,
+    "city": "Galveston",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2.0,
+    "density": 33.9,
+    "county_fips": 48167,
+    "county_name": "Galveston",
+    "county_weights": "{\"48167\": 100}",
+    "county_names_all": "Galveston",
+    "county_fips_all": "48167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

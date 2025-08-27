@@ -1,0 +1,20 @@
+{
+    "zip": 68978,
+    "lat": 40.06339,
+    "lng": -98.09379,
+    "city": "Superior",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2382.0,
+    "density": 6.0,
+    "county_fips": 31129,
+    "county_name": "Nuckolls",
+    "county_weights": "{\"31129\": 84.65, \"20089\": 15.35}",
+    "county_names_all": "Nuckolls|Jewell",
+    "county_fips_all": "31129|20089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

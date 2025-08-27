@@ -1,0 +1,20 @@
+{
+    "zip": 8234,
+    "lat": 39.38662,
+    "lng": -74.62369,
+    "city": "Egg Harbor Township",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 46856.0,
+    "density": 298.2,
+    "county_fips": 34001,
+    "county_name": "Atlantic",
+    "county_weights": "{\"34001\": 100}",
+    "county_names_all": "Atlantic",
+    "county_fips_all": "34001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 76554,
+    "lat": 30.97583,
+    "lng": -97.3677,
+    "city": "Little River Academy",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2199.0,
+    "density": 106.1,
+    "county_fips": 48027,
+    "county_name": "Bell",
+    "county_weights": "{\"48027\": 100}",
+    "county_names_all": "Bell",
+    "county_fips_all": "48027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

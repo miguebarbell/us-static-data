@@ -1,0 +1,20 @@
+{
+    "zip": 15712,
+    "lat": 40.79323,
+    "lng": -78.84692,
+    "city": "Arcadia",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 119.0,
+    "density": 35.6,
+    "county_fips": 42063,
+    "county_name": "Indiana",
+    "county_weights": "{\"42063\": 100}",
+    "county_names_all": "Indiana",
+    "county_fips_all": "42063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 13152,
+    "lat": 42.89323,
+    "lng": -76.38518,
+    "city": "Skaneateles",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7548.0,
+    "density": 46.1,
+    "county_fips": 36067,
+    "county_name": "Onondaga",
+    "county_weights": "{\"36067\": 85.77, \"36011\": 14.23}",
+    "county_names_all": "Onondaga|Cayuga",
+    "county_fips_all": "36067|36011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

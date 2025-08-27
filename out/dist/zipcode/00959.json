@@ -1,0 +1,20 @@
+{
+    "zip": 959,
+    "lat": 18.3852,
+    "lng": -66.15583,
+    "city": "Bayamon",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 46409.0,
+    "density": 2940.8,
+    "county_fips": 72021,
+    "county_name": "Bayam\u00f3n",
+    "county_weights": "{\"72021\": 98.7, \"72061\": 0.83, \"72137\": 0.31, \"72135\": 0.16}",
+    "county_names_all": "Bayam\u00f3n|Guaynabo|Toa Baja|Toa Alta",
+    "county_fips_all": "72021|72061|72137|72135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

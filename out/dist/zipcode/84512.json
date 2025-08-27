@@ -1,0 +1,20 @@
+{
+    "zip": 84512,
+    "lat": 37.16255,
+    "lng": -109.55921,
+    "city": "Bluff",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 799.0,
+    "density": 1.0,
+    "county_fips": 49037,
+    "county_name": "San Juan",
+    "county_weights": "{\"49037\": 100}",
+    "county_names_all": "San Juan",
+    "county_fips_all": "49037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

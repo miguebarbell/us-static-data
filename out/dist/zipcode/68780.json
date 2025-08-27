@@ -1,0 +1,20 @@
+{
+    "zip": 68780,
+    "lat": 42.64621,
+    "lng": -99.14062,
+    "city": "Stuart",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 960.0,
+    "density": 1.3,
+    "county_fips": 31089,
+    "county_name": "Holt",
+    "county_weights": "{\"31089\": 100}",
+    "county_names_all": "Holt",
+    "county_fips_all": "31089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

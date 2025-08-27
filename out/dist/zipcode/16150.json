@@ -1,0 +1,20 @@
+{
+    "zip": 16150,
+    "lat": 41.28687,
+    "lng": -80.44509,
+    "city": "Sharpsville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7053.0,
+    "density": 117.5,
+    "county_fips": 42085,
+    "county_name": "Mercer",
+    "county_weights": "{\"42085\": 100}",
+    "county_names_all": "Mercer",
+    "county_fips_all": "42085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

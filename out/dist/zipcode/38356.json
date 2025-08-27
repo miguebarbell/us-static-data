@@ -1,0 +1,20 @@
+{
+    "zip": 38356,
+    "lat": 35.43877,
+    "lng": -88.89029,
+    "city": "Medon",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2564.0,
+    "density": 12.7,
+    "county_fips": 47113,
+    "county_name": "Madison",
+    "county_weights": "{\"47113\": 57.9, \"47069\": 35.58, \"47023\": 6.52}",
+    "county_names_all": "Madison|Hardeman|Chester",
+    "county_fips_all": "47113|47069|47023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

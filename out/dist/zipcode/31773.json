@@ -1,0 +1,20 @@
+{
+    "zip": 31773,
+    "lat": 30.97795,
+    "lng": -84.04624,
+    "city": "Ochlocknee",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4040.0,
+    "density": 18.2,
+    "county_fips": 13275,
+    "county_name": "Thomas",
+    "county_weights": "{\"13275\": 78.94, \"13131\": 19.09, \"13071\": 1.97}",
+    "county_names_all": "Thomas|Grady|Colquitt",
+    "county_fips_all": "13275|13131|13071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

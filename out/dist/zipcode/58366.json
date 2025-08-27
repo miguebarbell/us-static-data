@@ -1,0 +1,20 @@
+{
+    "zip": 58366,
+    "lat": 48.65242,
+    "lng": -99.86654,
+    "city": "Rolette",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 793.0,
+    "density": 1.1,
+    "county_fips": 38079,
+    "county_name": "Rolette",
+    "county_weights": "{\"38079\": 93.46, \"38069\": 6.54}",
+    "county_names_all": "Rolette|Pierce",
+    "county_fips_all": "38079|38069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 48734,
+    "lat": 43.35519,
+    "lng": -83.74321,
+    "city": "Frankenmuth",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7642.0,
+    "density": 74.1,
+    "county_fips": 26145,
+    "county_name": "Saginaw",
+    "county_weights": "{\"26145\": 89.72, \"26157\": 10.28}",
+    "county_names_all": "Saginaw|Tuscola",
+    "county_fips_all": "26145|26157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

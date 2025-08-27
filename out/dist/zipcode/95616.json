@@ -1,0 +1,20 @@
+{
+    "zip": 95616,
+    "lat": 38.55819,
+    "lng": -121.80044,
+    "city": "Davis",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 51863.0,
+    "density": 670.7,
+    "county_fips": 6113,
+    "county_name": "Yolo",
+    "county_weights": "{\"06113\": 96.75, \"06095\": 3.25}",
+    "county_names_all": "Yolo|Solano",
+    "county_fips_all": "06113|06095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

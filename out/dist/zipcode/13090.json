@@ -1,0 +1,20 @@
+{
+    "zip": 13090,
+    "lat": 43.15162,
+    "lng": -76.21344,
+    "city": "Liverpool",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29180.0,
+    "density": 770.9,
+    "county_fips": 36067,
+    "county_name": "Onondaga",
+    "county_weights": "{\"36067\": 100}",
+    "county_names_all": "Onondaga",
+    "county_fips_all": "36067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

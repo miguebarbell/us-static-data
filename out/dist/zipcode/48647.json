@@ -1,0 +1,20 @@
+{
+    "zip": 48647,
+    "lat": 44.65309,
+    "lng": -84.08148,
+    "city": "Mio",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4044.0,
+    "density": 9.3,
+    "county_fips": 26135,
+    "county_name": "Oscoda",
+    "county_weights": "{\"26135\": 97.07, \"26001\": 2.93}",
+    "county_names_all": "Oscoda|Alcona",
+    "county_fips_all": "26135|26001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

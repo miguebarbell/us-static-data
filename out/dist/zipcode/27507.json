@@ -1,0 +1,20 @@
+{
+    "zip": 27507,
+    "lat": 36.51253,
+    "lng": -78.55143,
+    "city": "Bullock",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1983.0,
+    "density": 14.2,
+    "county_fips": 37077,
+    "county_name": "Granville",
+    "county_weights": "{\"37077\": 78.26, \"37181\": 21.74}",
+    "county_names_all": "Granville|Vance",
+    "county_fips_all": "37077|37181",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

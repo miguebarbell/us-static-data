@@ -1,0 +1,20 @@
+{
+    "zip": 28747,
+    "lat": 35.15185,
+    "lng": -82.9249,
+    "city": "Lake Toxaway",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2216.0,
+    "density": 17.5,
+    "county_fips": 37175,
+    "county_name": "Transylvania",
+    "county_weights": "{\"37175\": 100}",
+    "county_names_all": "Transylvania",
+    "county_fips_all": "37175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

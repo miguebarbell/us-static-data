@@ -1,0 +1,20 @@
+{
+    "zip": 49863,
+    "lat": 45.61295,
+    "lng": -87.55163,
+    "city": "Nadeau",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 142.0,
+    "density": 98.2,
+    "county_fips": 26109,
+    "county_name": "Menominee",
+    "county_weights": "{\"26109\": 100}",
+    "county_names_all": "Menominee",
+    "county_fips_all": "26109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Menominee"
+}

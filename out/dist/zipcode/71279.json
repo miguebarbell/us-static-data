@@ -1,0 +1,20 @@
+{
+    "zip": 71279,
+    "lat": 32.48667,
+    "lng": -91.85671,
+    "city": "Start",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 68.0,
+    "density": 348.0,
+    "county_fips": 22083,
+    "county_name": "Richland",
+    "county_weights": "{\"22083\": 100}",
+    "county_names_all": "Richland",
+    "county_fips_all": "22083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

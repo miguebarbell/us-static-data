@@ -1,0 +1,20 @@
+{
+    "zip": 87416,
+    "lat": 36.58687,
+    "lng": -108.43897,
+    "city": "Fruitland",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4354.0,
+    "density": 4.0,
+    "county_fips": 35045,
+    "county_name": "San Juan",
+    "county_weights": "{\"35045\": 100}",
+    "county_names_all": "San Juan",
+    "county_fips_all": "35045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

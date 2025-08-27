@@ -1,0 +1,20 @@
+{
+    "zip": 3287,
+    "lat": 43.45168,
+    "lng": -71.91795,
+    "city": "Wilmot",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1424.0,
+    "density": 18.7,
+    "county_fips": 33013,
+    "county_name": "Merrimack",
+    "county_weights": "{\"33013\": 100}",
+    "county_names_all": "Merrimack",
+    "county_fips_all": "33013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 83204,
+    "lat": 42.79219,
+    "lng": -112.51877,
+    "city": "Pocatello",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18400.0,
+    "density": 25.4,
+    "county_fips": 16077,
+    "county_name": "Power",
+    "county_weights": "{\"16077\": 59.24, \"16005\": 40.76}",
+    "county_names_all": "Power|Bannock",
+    "county_fips_all": "16077|16005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

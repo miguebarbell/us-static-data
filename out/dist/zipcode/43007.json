@@ -1,0 +1,20 @@
+{
+    "zip": 43007,
+    "lat": 40.33154,
+    "lng": -83.40595,
+    "city": "Broadway",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 34.0,
+    "density": 5.5,
+    "county_fips": 39159,
+    "county_name": "Union",
+    "county_weights": "{\"39159\": 100}",
+    "county_names_all": "Union",
+    "county_fips_all": "39159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

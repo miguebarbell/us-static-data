@@ -1,0 +1,20 @@
+{
+    "zip": 79108,
+    "lat": 35.37511,
+    "lng": -101.80307,
+    "city": "Amarillo",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10979.0,
+    "density": 23.1,
+    "county_fips": 48375,
+    "county_name": "Potter",
+    "county_weights": "{\"48375\": 98.75, \"48065\": 1.25}",
+    "county_names_all": "Potter|Carson",
+    "county_fips_all": "48375|48065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

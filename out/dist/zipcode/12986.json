@@ -1,0 +1,20 @@
+{
+    "zip": 12986,
+    "lat": 44.22279,
+    "lng": -74.44056,
+    "city": "Tupper Lake",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5304.0,
+    "density": 7.1,
+    "county_fips": 36033,
+    "county_name": "Franklin",
+    "county_weights": "{\"36033\": 75.43, \"36089\": 24.57}",
+    "county_names_all": "Franklin|St. Lawrence",
+    "county_fips_all": "36033|36089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

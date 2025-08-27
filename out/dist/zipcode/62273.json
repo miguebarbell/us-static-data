@@ -1,0 +1,20 @@
+{
+    "zip": 62273,
+    "lat": 38.78673,
+    "lng": -89.58389,
+    "city": "Pierron",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 302.0,
+    "density": 86.4,
+    "county_fips": 17005,
+    "county_name": "Bond",
+    "county_weights": "{\"17005\": 100}",
+    "county_names_all": "Bond",
+    "county_fips_all": "17005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

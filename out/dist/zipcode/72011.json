@@ -1,0 +1,20 @@
+{
+    "zip": 72011,
+    "lat": 34.50967,
+    "lng": -92.46628,
+    "city": "Bauxite",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4635.0,
+    "density": 30.6,
+    "county_fips": 5125,
+    "county_name": "Saline",
+    "county_weights": "{\"05125\": 95.63, \"05053\": 4.37}",
+    "county_names_all": "Saline|Grant",
+    "county_fips_all": "05125|05053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

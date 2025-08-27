@@ -1,0 +1,20 @@
+{
+    "zip": 42352,
+    "lat": 37.51333,
+    "lng": -87.0833,
+    "city": "Livermore",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1834.0,
+    "density": 30.8,
+    "county_fips": 21149,
+    "county_name": "McLean",
+    "county_weights": "{\"21149\": 59.18, \"21183\": 40.82}",
+    "county_names_all": "McLean|Ohio",
+    "county_fips_all": "21149|21183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

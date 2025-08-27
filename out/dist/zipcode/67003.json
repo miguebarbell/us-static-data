@@ -1,0 +1,20 @@
+{
+    "zip": 67003,
+    "lat": 37.1109,
+    "lng": -98.06319,
+    "city": "Anthony",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2529.0,
+    "density": 4.0,
+    "county_fips": 20077,
+    "county_name": "Harper",
+    "county_weights": "{\"20077\": 100}",
+    "county_names_all": "Harper",
+    "county_fips_all": "20077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

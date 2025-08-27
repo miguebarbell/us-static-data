@@ -1,0 +1,20 @@
+{
+    "zip": 81248,
+    "lat": 38.3991,
+    "lng": -106.47763,
+    "city": "Sargents",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 241.0,
+    "density": 0.3,
+    "county_fips": 8109,
+    "county_name": "Saguache",
+    "county_weights": "{\"08109\": 65.63, \"08051\": 34.37}",
+    "county_names_all": "Saguache|Gunnison",
+    "county_fips_all": "08109|08051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

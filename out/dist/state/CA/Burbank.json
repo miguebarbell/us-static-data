@@ -1,0 +1,15 @@
+{
+    "zip": [
+        "91501",
+        "91502",
+        "91504",
+        "91505",
+        "91506"
+    ],
+    "city": "Burbank",
+    "state": "CA",
+    "lat": 33.97365,
+    "lng": -118.24904,
+    "state_name": "California",
+    "timezone": "America/Los_Angeles"
+}

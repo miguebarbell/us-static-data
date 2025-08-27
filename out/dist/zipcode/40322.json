@@ -1,0 +1,20 @@
+{
+    "zip": 40322,
+    "lat": 37.93367,
+    "lng": -83.63329,
+    "city": "Frenchburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3207.0,
+    "density": 11.1,
+    "county_fips": 21165,
+    "county_name": "Menifee",
+    "county_weights": "{\"21165\": 100}",
+    "county_names_all": "Menifee",
+    "county_fips_all": "21165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

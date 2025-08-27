@@ -1,0 +1,20 @@
+{
+    "zip": 73832,
+    "lat": 36.05298,
+    "lng": -99.65687,
+    "city": "Arnett",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1012.0,
+    "density": 0.7,
+    "county_fips": 40045,
+    "county_name": "Ellis",
+    "county_weights": "{\"40045\": 92.5, \"40153\": 7.5}",
+    "county_names_all": "Ellis|Woodward",
+    "county_fips_all": "40045|40153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

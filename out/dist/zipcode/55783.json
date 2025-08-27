@@ -1,0 +1,20 @@
+{
+    "zip": 55783,
+    "lat": 46.40836,
+    "lng": -92.92625,
+    "city": "Sturgeon Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2487.0,
+    "density": 7.0,
+    "county_fips": 27115,
+    "county_name": "Pine",
+    "county_weights": "{\"27115\": 62.17, \"27001\": 26.07, \"27017\": 11.76}",
+    "county_names_all": "Pine|Aitkin|Carlton",
+    "county_fips_all": "27115|27001|27017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 35984,
+    "lat": 34.52781,
+    "lng": -85.56594,
+    "city": "Mentone",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1346.0,
+    "density": 7.3,
+    "county_fips": 1049,
+    "county_name": "DeKalb",
+    "county_weights": "{\"01049\": 70.23, \"01019\": 29.77}",
+    "county_names_all": "DeKalb|Cherokee",
+    "county_fips_all": "01049|01019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

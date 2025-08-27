@@ -1,0 +1,20 @@
+{
+    "zip": 62836,
+    "lat": 38.0973,
+    "lng": -88.80568,
+    "city": "Ewing",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 820.0,
+    "density": 8.3,
+    "county_fips": 17055,
+    "county_name": "Franklin",
+    "county_weights": "{\"17055\": 93.16, \"17081\": 6.84}",
+    "county_names_all": "Franklin|Jefferson",
+    "county_fips_all": "17055|17081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

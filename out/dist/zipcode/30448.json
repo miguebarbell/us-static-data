@@ -1,0 +1,20 @@
+{
+    "zip": 30448,
+    "lat": 32.48754,
+    "lng": -82.36444,
+    "city": "Nunez",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18.0,
+    "density": 3.0,
+    "county_fips": 13107,
+    "county_name": "Emanuel",
+    "county_weights": "{\"13107\": 100}",
+    "county_names_all": "Emanuel",
+    "county_fips_all": "13107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

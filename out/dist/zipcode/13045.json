@@ -1,0 +1,20 @@
+{
+    "zip": 13045,
+    "lat": 42.58692,
+    "lng": -76.19029,
+    "city": "Cortland",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28388.0,
+    "density": 101.6,
+    "county_fips": 36023,
+    "county_name": "Cortland",
+    "county_weights": "{\"36023\": 84.99, \"36011\": 8.92, \"36109\": 6.09}",
+    "county_names_all": "Cortland|Cayuga|Tompkins",
+    "county_fips_all": "36023|36011|36109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

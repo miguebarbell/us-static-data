@@ -1,0 +1,20 @@
+{
+    "zip": 97325,
+    "lat": 44.83141,
+    "lng": -122.85195,
+    "city": "Aumsville",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7154.0,
+    "density": 91.4,
+    "county_fips": 41047,
+    "county_name": "Marion",
+    "county_weights": "{\"41047\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "41047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

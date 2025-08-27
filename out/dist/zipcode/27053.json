@@ -1,0 +1,20 @@
+{
+    "zip": 27053,
+    "lat": 36.47317,
+    "lng": -80.34989,
+    "city": "Westfield",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3187.0,
+    "density": 17.7,
+    "county_fips": 37169,
+    "county_name": "Stokes",
+    "county_weights": "{\"37169\": 96.53, \"37171\": 3.47}",
+    "county_names_all": "Stokes|Surry",
+    "county_fips_all": "37169|37171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

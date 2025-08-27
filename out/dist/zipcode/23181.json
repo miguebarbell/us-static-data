@@ -1,0 +1,20 @@
+{
+    "zip": 23181,
+    "lat": 37.59809,
+    "lng": -76.889,
+    "city": "West Point",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5386.0,
+    "density": 31.9,
+    "county_fips": 51101,
+    "county_name": "King William",
+    "county_weights": "{\"51101\": 90.8, \"51127\": 9.2}",
+    "county_names_all": "King William|New Kent",
+    "county_fips_all": "51101|51127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

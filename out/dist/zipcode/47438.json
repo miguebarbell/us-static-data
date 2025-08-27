@@ -1,0 +1,20 @@
+{
+    "zip": 47438,
+    "lat": 39.1582,
+    "lng": -87.18237,
+    "city": "Jasonville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4203.0,
+    "density": 26.9,
+    "county_fips": 18055,
+    "county_name": "Greene",
+    "county_weights": "{\"18055\": 52.04, \"18021\": 35.8, \"18153\": 12.16}",
+    "county_names_all": "Greene|Clay|Sullivan",
+    "county_fips_all": "18055|18021|18153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72636,
+    "lat": 35.99121,
+    "lng": -92.71651,
+    "city": "Gilbert",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2.0,
+    "density": 4.9,
+    "county_fips": 5129,
+    "county_name": "Searcy",
+    "county_weights": "{\"05129\": 100}",
+    "county_names_all": "Searcy",
+    "county_fips_all": "05129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

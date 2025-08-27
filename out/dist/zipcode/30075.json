@@ -1,0 +1,20 @@
+{
+    "zip": 30075,
+    "lat": 34.05282,
+    "lng": -84.38739,
+    "city": "Roswell",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 55274.0,
+    "density": 717.8,
+    "county_fips": 13121,
+    "county_name": "Fulton",
+    "county_weights": "{\"13121\": 84.14, \"13067\": 14.13, \"13057\": 1.73}",
+    "county_names_all": "Fulton|Cobb|Cherokee",
+    "county_fips_all": "13121|13067|13057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

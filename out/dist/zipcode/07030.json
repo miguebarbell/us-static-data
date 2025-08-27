@@ -1,0 +1,20 @@
+{
+    "zip": 7030,
+    "lat": 40.7451,
+    "lng": -74.02815,
+    "city": "Hoboken",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 58340.0,
+    "density": 18030.0,
+    "county_fips": 34017,
+    "county_name": "Hudson",
+    "county_weights": "{\"34017\": 100}",
+    "county_names_all": "Hudson",
+    "county_fips_all": "34017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 35952,
+    "lat": 34.05322,
+    "lng": -86.3082,
+    "city": "Altoona",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8901.0,
+    "density": 31.4,
+    "county_fips": 1055,
+    "county_name": "Etowah",
+    "county_weights": "{\"01055\": 55.03, \"01009\": 44.66, \"01095\": 0.31}",
+    "county_names_all": "Etowah|Blount|Marshall",
+    "county_fips_all": "01055|01009|01095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

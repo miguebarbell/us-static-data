@@ -1,0 +1,20 @@
+{
+    "zip": 48661,
+    "lat": 44.33005,
+    "lng": -84.24087,
+    "city": "West Branch",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10744.0,
+    "density": 15.7,
+    "county_fips": 26129,
+    "county_name": "Ogemaw",
+    "county_weights": "{\"26129\": 100}",
+    "county_names_all": "Ogemaw",
+    "county_fips_all": "26129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

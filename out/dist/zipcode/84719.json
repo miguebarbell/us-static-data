@@ -1,0 +1,20 @@
+{
+    "zip": 84719,
+    "lat": 37.65532,
+    "lng": -112.76974,
+    "city": "Brian Head",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 49.0,
+    "density": 0.2,
+    "county_fips": 49021,
+    "county_name": "Iron",
+    "county_weights": "{\"49021\": 99.88, \"49017\": 0.12}",
+    "county_names_all": "Iron|Garfield",
+    "county_fips_all": "49021|49017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

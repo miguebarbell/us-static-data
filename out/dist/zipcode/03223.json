@@ -1,0 +1,20 @@
+{
+    "zip": 3223,
+    "lat": 43.84784,
+    "lng": -71.67597,
+    "city": "Campton",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3398.0,
+    "density": 18.8,
+    "county_fips": 33009,
+    "county_name": "Grafton",
+    "county_weights": "{\"33009\": 100}",
+    "county_names_all": "Grafton",
+    "county_fips_all": "33009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43732,
+    "lat": 39.84409,
+    "lng": -81.65883,
+    "city": "Cumberland",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1837.0,
+    "density": 9.0,
+    "county_fips": 39059,
+    "county_name": "Guernsey",
+    "county_weights": "{\"39059\": 44.04, \"39121\": 33.58, \"39119\": 22.37}",
+    "county_names_all": "Guernsey|Noble|Muskingum",
+    "county_fips_all": "39059|39121|39119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

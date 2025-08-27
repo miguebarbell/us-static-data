@@ -1,0 +1,20 @@
+{
+    "zip": 690,
+    "lat": 18.49363,
+    "lng": -67.09734,
+    "city": "San Antonio",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6275.0,
+    "density": 1071.5,
+    "county_fips": 72005,
+    "county_name": "Aguadilla",
+    "county_weights": "{\"72005\": 100}",
+    "county_names_all": "Aguadilla",
+    "county_fips_all": "72005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

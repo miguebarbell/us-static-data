@@ -1,0 +1,20 @@
+{
+    "zip": 48629,
+    "lat": 44.3107,
+    "lng": -84.77977,
+    "city": "Houghton Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7922.0,
+    "density": 39.5,
+    "county_fips": 26143,
+    "county_name": "Roscommon",
+    "county_weights": "{\"26143\": 99.85, \"26113\": 0.15}",
+    "county_names_all": "Roscommon|Missaukee",
+    "county_fips_all": "26143|26113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

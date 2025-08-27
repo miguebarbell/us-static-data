@@ -1,0 +1,20 @@
+{
+    "zip": 4568,
+    "lat": 43.89652,
+    "lng": -69.56153,
+    "city": "South Bristol",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 487.0,
+    "density": 36.1,
+    "county_fips": 23015,
+    "county_name": "Lincoln",
+    "county_weights": "{\"23015\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "23015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

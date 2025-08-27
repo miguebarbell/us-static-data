@@ -1,0 +1,20 @@
+{
+    "zip": 36258,
+    "lat": 33.47795,
+    "lng": -85.716,
+    "city": "Delta",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1734.0,
+    "density": 6.0,
+    "county_fips": 1029,
+    "county_name": "Cleburne",
+    "county_weights": "{\"01029\": 46.13, \"01027\": 42.39, \"01111\": 11.48}",
+    "county_names_all": "Cleburne|Clay|Randolph",
+    "county_fips_all": "01029|01027|01111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

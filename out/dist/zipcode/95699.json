@@ -1,0 +1,20 @@
+{
+    "zip": 95699,
+    "lat": 38.44074,
+    "lng": -120.85702,
+    "city": "Drytown",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 86.0,
+    "density": 9.5,
+    "county_fips": 6005,
+    "county_name": "Amador",
+    "county_weights": "{\"06005\": 100}",
+    "county_names_all": "Amador",
+    "county_fips_all": "06005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

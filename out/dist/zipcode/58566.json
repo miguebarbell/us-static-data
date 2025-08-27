@@ -1,0 +1,20 @@
+{
+    "zip": 58566,
+    "lat": 46.57835,
+    "lng": -100.90673,
+    "city": "Saint Anthony",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 270.0,
+    "density": 1.0,
+    "county_fips": 38059,
+    "county_name": "Morton",
+    "county_weights": "{\"38059\": 100}",
+    "county_names_all": "Morton",
+    "county_fips_all": "38059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/North_Dakota/New_Salem"
+}

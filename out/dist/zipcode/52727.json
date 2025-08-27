@@ -1,0 +1,20 @@
+{
+    "zip": 52727,
+    "lat": 41.95834,
+    "lng": -90.33341,
+    "city": "Bryant",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 383.0,
+    "density": 6.1,
+    "county_fips": 19045,
+    "county_name": "Clinton",
+    "county_weights": "{\"19045\": 100}",
+    "county_names_all": "Clinton",
+    "county_fips_all": "19045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

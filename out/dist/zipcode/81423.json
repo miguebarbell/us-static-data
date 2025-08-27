@@ -1,0 +1,20 @@
+{
+    "zip": 81423,
+    "lat": 38.03835,
+    "lng": -108.45816,
+    "city": "Norwood",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1462.0,
+    "density": 1.0,
+    "county_fips": 8113,
+    "county_name": "San Miguel",
+    "county_weights": "{\"08113\": 89.97, \"08085\": 10.03}",
+    "county_names_all": "San Miguel|Montrose",
+    "county_fips_all": "08113|08085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

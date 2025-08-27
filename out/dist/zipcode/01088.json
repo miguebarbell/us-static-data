@@ -1,0 +1,20 @@
+{
+    "zip": 1088,
+    "lat": 42.38981,
+    "lng": -72.6465,
+    "city": "West Hatfield",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 654.0,
+    "density": 48.1,
+    "county_fips": 25015,
+    "county_name": "Hampshire",
+    "county_weights": "{\"25015\": 100}",
+    "county_names_all": "Hampshire",
+    "county_fips_all": "25015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

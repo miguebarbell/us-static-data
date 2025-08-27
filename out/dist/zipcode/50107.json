@@ -1,0 +1,20 @@
+{
+    "zip": 50107,
+    "lat": 42.03547,
+    "lng": -94.2191,
+    "city": "Grand Junction",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 791.0,
+    "density": 5.9,
+    "county_fips": 19073,
+    "county_name": "Greene",
+    "county_weights": "{\"19073\": 88.16, \"19015\": 11.84}",
+    "county_names_all": "Greene|Boone",
+    "county_fips_all": "19073|19015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

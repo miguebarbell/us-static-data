@@ -1,0 +1,20 @@
+{
+    "zip": 39759,
+    "lat": 33.43491,
+    "lng": -88.82631,
+    "city": "Starkville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42782.0,
+    "density": 51.0,
+    "county_fips": 28105,
+    "county_name": "Oktibbeha",
+    "county_weights": "{\"28105\": 97.36, \"28087\": 2.64}",
+    "county_names_all": "Oktibbeha|Lowndes",
+    "county_fips_all": "28105|28087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

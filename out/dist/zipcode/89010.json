@@ -1,0 +1,20 @@
+{
+    "zip": 89010,
+    "lat": 37.82511,
+    "lng": -118.08079,
+    "city": "Dyer",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 355.0,
+    "density": 0.4,
+    "county_fips": 32009,
+    "county_name": "Esmeralda",
+    "county_weights": "{\"32009\": 90.34, \"32021\": 5.9, \"06051\": 3.76}",
+    "county_names_all": "Esmeralda|Mineral|Mono",
+    "county_fips_all": "32009|32021|06051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

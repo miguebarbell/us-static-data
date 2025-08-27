@@ -1,0 +1,20 @@
+{
+    "zip": 57576,
+    "lat": 43.90804,
+    "lng": -100.29411,
+    "city": "Vivian",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 59.0,
+    "density": 0.1,
+    "county_fips": 46085,
+    "county_name": "Lyman",
+    "county_weights": "{\"46085\": 91.33, \"46075\": 8.67}",
+    "county_names_all": "Lyman|Jones",
+    "county_fips_all": "46085|46075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

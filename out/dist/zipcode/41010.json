@@ -1,0 +1,20 @@
+{
+    "zip": 41010,
+    "lat": 38.50085,
+    "lng": -84.60763,
+    "city": "Corinth",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3101.0,
+    "density": 13.1,
+    "county_fips": 21081,
+    "county_name": "Grant",
+    "county_weights": "{\"21081\": 43.32, \"21187\": 39.31, \"21097\": 14.89, \"21209\": 2.48}",
+    "county_names_all": "Grant|Owen|Harrison|Scott",
+    "county_fips_all": "21081|21187|21097|21209",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

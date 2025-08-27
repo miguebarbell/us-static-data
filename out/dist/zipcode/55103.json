@@ -1,0 +1,20 @@
+{
+    "zip": 55103,
+    "lat": 44.96399,
+    "lng": -93.12418,
+    "city": "Saint Paul",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13892.0,
+    "density": 2717.8,
+    "county_fips": 27123,
+    "county_name": "Ramsey",
+    "county_weights": "{\"27123\": 100}",
+    "county_names_all": "Ramsey",
+    "county_fips_all": "27123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

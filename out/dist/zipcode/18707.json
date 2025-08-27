@@ -1,0 +1,20 @@
+{
+    "zip": 18707,
+    "lat": 41.13325,
+    "lng": -75.9228,
+    "city": "Mountain Top",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16418.0,
+    "density": 124.2,
+    "county_fips": 42079,
+    "county_name": "Luzerne",
+    "county_weights": "{\"42079\": 100}",
+    "county_names_all": "Luzerne",
+    "county_fips_all": "42079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

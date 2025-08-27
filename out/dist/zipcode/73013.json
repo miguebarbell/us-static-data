@@ -1,0 +1,20 @@
+{
+    "zip": 73013,
+    "lat": 35.62149,
+    "lng": -97.49614,
+    "city": "Edmond",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 58368.0,
+    "density": 689.5,
+    "county_fips": 40109,
+    "county_name": "Oklahoma",
+    "county_weights": "{\"40109\": 100}",
+    "county_names_all": "Oklahoma",
+    "county_fips_all": "40109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

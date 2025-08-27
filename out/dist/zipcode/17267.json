@@ -1,0 +1,20 @@
+{
+    "zip": 17267,
+    "lat": 39.80389,
+    "lng": -78.23958,
+    "city": "Warfordsburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2917.0,
+    "density": 11.6,
+    "county_fips": 42057,
+    "county_name": "Fulton",
+    "county_weights": "{\"42057\": 100}",
+    "county_names_all": "Fulton",
+    "county_fips_all": "42057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

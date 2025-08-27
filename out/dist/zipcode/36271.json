@@ -1,0 +1,20 @@
+{
+    "zip": 36271,
+    "lat": 33.78215,
+    "lng": -86.01624,
+    "city": "Ohatchee",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5991.0,
+    "density": 28.5,
+    "county_fips": 1015,
+    "county_name": "Calhoun",
+    "county_weights": "{\"01015\": 99.82, \"01055\": 0.18}",
+    "county_names_all": "Calhoun|Etowah",
+    "county_fips_all": "01015|01055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

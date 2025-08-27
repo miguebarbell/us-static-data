@@ -1,0 +1,20 @@
+{
+    "zip": 23231,
+    "lat": 37.44219,
+    "lng": -77.31903,
+    "city": "Henrico",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37949.0,
+    "density": 166.1,
+    "county_fips": 51087,
+    "county_name": "Henrico",
+    "county_weights": "{\"51087\": 94.78, \"51036\": 3.96, \"51760\": 1.26}",
+    "county_names_all": "Henrico|Charles City|Richmond",
+    "county_fips_all": "51087|51036|51760",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

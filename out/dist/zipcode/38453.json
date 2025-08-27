@@ -1,0 +1,20 @@
+{
+    "zip": 38453,
+    "lat": 35.11923,
+    "lng": -86.81472,
+    "city": "Dellrose",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 545.0,
+    "density": 12.1,
+    "county_fips": 47103,
+    "county_name": "Lincoln",
+    "county_weights": "{\"47103\": 75.76, \"47055\": 24.24}",
+    "county_names_all": "Lincoln|Giles",
+    "county_fips_all": "47103|47055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

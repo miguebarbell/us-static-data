@@ -1,0 +1,20 @@
+{
+    "zip": 43162,
+    "lat": 39.94369,
+    "lng": -83.30633,
+    "city": "West Jefferson",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6647.0,
+    "density": 54.6,
+    "county_fips": 39097,
+    "county_name": "Madison",
+    "county_weights": "{\"39097\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "39097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 59332,
+    "lat": 45.37589,
+    "lng": -104.72542,
+    "city": "Hammond",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 150.0,
+    "density": 0.1,
+    "county_fips": 30011,
+    "county_name": "Carter",
+    "county_weights": "{\"30011\": 100}",
+    "county_names_all": "Carter",
+    "county_fips_all": "30011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

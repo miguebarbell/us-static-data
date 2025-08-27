@@ -1,0 +1,20 @@
+{
+    "zip": 28001,
+    "lat": 35.33594,
+    "lng": -80.20419,
+    "city": "Albemarle",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26187.0,
+    "density": 77.0,
+    "county_fips": 37167,
+    "county_name": "Stanly",
+    "county_weights": "{\"37167\": 100}",
+    "county_names_all": "Stanly",
+    "county_fips_all": "37167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

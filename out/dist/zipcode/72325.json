@@ -1,0 +1,20 @@
+{
+    "zip": 72325,
+    "lat": 35.33067,
+    "lng": -90.25395,
+    "city": "Clarkedale",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5.0,
+    "density": 0.6,
+    "county_fips": 5035,
+    "county_name": "Crittenden",
+    "county_weights": "{\"05035\": 100}",
+    "county_names_all": "Crittenden",
+    "county_fips_all": "05035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 23901,
+    "lat": 37.32309,
+    "lng": -78.41186,
+    "city": "Farmville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15016.0,
+    "density": 30.0,
+    "county_fips": 51049,
+    "county_name": "Cumberland",
+    "county_weights": "{\"51049\": 40.91, \"51147\": 40.3, \"51029\": 18.79}",
+    "county_names_all": "Cumberland|Prince Edward|Buckingham",
+    "county_fips_all": "51049|51147|51029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

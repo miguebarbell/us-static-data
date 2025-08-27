@@ -1,0 +1,20 @@
+{
+    "zip": 31774,
+    "lat": 31.56102,
+    "lng": -83.27125,
+    "city": "Ocilla",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5788.0,
+    "density": 13.7,
+    "county_fips": 13155,
+    "county_name": "Irwin",
+    "county_weights": "{\"13155\": 100}",
+    "county_names_all": "Irwin",
+    "county_fips_all": "13155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

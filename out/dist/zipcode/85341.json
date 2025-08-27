@@ -1,0 +1,20 @@
+{
+    "zip": 85341,
+    "lat": 31.9726,
+    "lng": -112.71943,
+    "city": "Lukeville",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38.0,
+    "density": 0.1,
+    "county_fips": 4019,
+    "county_name": "Pima",
+    "county_weights": "{\"04019\": 100}",
+    "county_names_all": "Pima",
+    "county_fips_all": "04019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

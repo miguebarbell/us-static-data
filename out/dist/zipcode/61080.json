@@ -1,0 +1,20 @@
+{
+    "zip": 61080,
+    "lat": 42.47992,
+    "lng": -88.98989,
+    "city": "South Beloit",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11062.0,
+    "density": 170.5,
+    "county_fips": 17201,
+    "county_name": "Winnebago",
+    "county_weights": "{\"17201\": 71.6, \"17007\": 28.4}",
+    "county_names_all": "Winnebago|Boone",
+    "county_fips_all": "17201|17007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

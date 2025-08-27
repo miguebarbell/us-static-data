@@ -1,0 +1,20 @@
+{
+    "zip": 67642,
+    "lat": 39.36989,
+    "lng": -99.8315,
+    "city": "Hill City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1779.0,
+    "density": 2.7,
+    "county_fips": 20065,
+    "county_name": "Graham",
+    "county_weights": "{\"20065\": 100}",
+    "county_names_all": "Graham",
+    "county_fips_all": "20065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

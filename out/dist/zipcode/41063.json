@@ -1,0 +1,20 @@
+{
+    "zip": 41063,
+    "lat": 38.85323,
+    "lng": -84.49983,
+    "city": "Morning View",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2830.0,
+    "density": 34.6,
+    "county_fips": 21117,
+    "county_name": "Kenton",
+    "county_weights": "{\"21117\": 100}",
+    "county_names_all": "Kenton",
+    "county_fips_all": "21117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

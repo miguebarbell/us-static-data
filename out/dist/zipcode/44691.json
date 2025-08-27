@@ -1,0 +1,20 @@
+{
+    "zip": 44691,
+    "lat": 40.80714,
+    "lng": -81.97971,
+    "city": "Wooster",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44390.0,
+    "density": 110.6,
+    "county_fips": 39169,
+    "county_name": "Wayne",
+    "county_weights": "{\"39169\": 99.53, \"39005\": 0.47}",
+    "county_names_all": "Wayne|Ashland",
+    "county_fips_all": "39169|39005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

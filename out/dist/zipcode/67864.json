@@ -1,0 +1,20 @@
+{
+    "zip": 67864,
+    "lat": 37.17178,
+    "lng": -100.31807,
+    "city": "Meade",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1701.0,
+    "density": 1.4,
+    "county_fips": 20119,
+    "county_name": "Meade",
+    "county_weights": "{\"20119\": 100}",
+    "county_names_all": "Meade",
+    "county_fips_all": "20119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

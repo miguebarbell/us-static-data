@@ -1,0 +1,20 @@
+{
+    "zip": 21155,
+    "lat": 39.57183,
+    "lng": -76.80597,
+    "city": "Upperco",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3124.0,
+    "density": 54.5,
+    "county_fips": 24005,
+    "county_name": "Baltimore",
+    "county_weights": "{\"24005\": 89.0, \"24013\": 11.0}",
+    "county_names_all": "Baltimore|Carroll",
+    "county_fips_all": "24005|24013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

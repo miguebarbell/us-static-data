@@ -1,0 +1,20 @@
+{
+    "zip": 67448,
+    "lat": 38.65826,
+    "lng": -97.40756,
+    "city": "Gypsum",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1123.0,
+    "density": 2.1,
+    "county_fips": 20169,
+    "county_name": "Saline",
+    "county_weights": "{\"20169\": 45.29, \"20041\": 29.56, \"20113\": 25.15}",
+    "county_names_all": "Saline|Dickinson|McPherson",
+    "county_fips_all": "20169|20041|20113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

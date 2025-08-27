@@ -1,0 +1,20 @@
+{
+    "zip": 32563,
+    "lat": 30.38782,
+    "lng": -87.0331,
+    "city": "Gulf Breeze",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29672.0,
+    "density": 688.7,
+    "county_fips": 12113,
+    "county_name": "Santa Rosa",
+    "county_weights": "{\"12113\": 100}",
+    "county_names_all": "Santa Rosa",
+    "county_fips_all": "12113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

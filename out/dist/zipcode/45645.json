@@ -1,0 +1,20 @@
+{
+    "zip": 45645,
+    "lat": 38.57082,
+    "lng": -82.53159,
+    "city": "Kitts Hill",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2709.0,
+    "density": 22.9,
+    "county_fips": 39087,
+    "county_name": "Lawrence",
+    "county_weights": "{\"39087\": 100}",
+    "county_names_all": "Lawrence",
+    "county_fips_all": "39087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

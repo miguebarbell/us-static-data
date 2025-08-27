@@ -1,0 +1,20 @@
+{
+    "zip": 30818,
+    "lat": 33.26765,
+    "lng": -82.32646,
+    "city": "Matthews",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 404.0,
+    "density": 5.2,
+    "county_fips": 13163,
+    "county_name": "Jefferson",
+    "county_weights": "{\"13163\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "13163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43447,
+    "lat": 41.56654,
+    "lng": -83.43429,
+    "city": "Millbury",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3165.0,
+    "density": 70.4,
+    "county_fips": 39173,
+    "county_name": "Wood",
+    "county_weights": "{\"39173\": 69.97, \"39123\": 30.03}",
+    "county_names_all": "Wood|Ottawa",
+    "county_fips_all": "39173|39123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

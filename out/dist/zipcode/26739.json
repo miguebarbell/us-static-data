@@ -1,0 +1,20 @@
+{
+    "zip": 26739,
+    "lat": 39.21508,
+    "lng": -79.2647,
+    "city": "Mount Storm",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 568.0,
+    "density": 2.6,
+    "county_fips": 54023,
+    "county_name": "Grant",
+    "county_weights": "{\"54023\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "54023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

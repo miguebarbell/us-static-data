@@ -1,0 +1,20 @@
+{
+    "zip": 18041,
+    "lat": 40.41742,
+    "lng": -75.51306,
+    "city": "East Greenville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5665.0,
+    "density": 172.1,
+    "county_fips": 42091,
+    "county_name": "Montgomery",
+    "county_weights": "{\"42091\": 64.27, \"42077\": 27.92, \"42017\": 4.88, \"42011\": 2.93}",
+    "county_names_all": "Montgomery|Lehigh|Bucks|Berks",
+    "county_fips_all": "42091|42077|42017|42011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

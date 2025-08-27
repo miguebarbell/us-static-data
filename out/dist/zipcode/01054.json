@@ -1,0 +1,20 @@
+{
+    "zip": 1054,
+    "lat": 42.47381,
+    "lng": -72.48768,
+    "city": "Leverett",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1704.0,
+    "density": 28.7,
+    "county_fips": 25011,
+    "county_name": "Franklin",
+    "county_weights": "{\"25011\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "25011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

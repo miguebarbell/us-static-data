@@ -1,0 +1,20 @@
+{
+    "zip": 75668,
+    "lat": 32.90846,
+    "lng": -94.68485,
+    "city": "Lone Star",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2409.0,
+    "density": 44.3,
+    "county_fips": 48343,
+    "county_name": "Morris",
+    "county_weights": "{\"48343\": 78.69, \"48315\": 21.31}",
+    "county_names_all": "Morris|Marion",
+    "county_fips_all": "48343|48315",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

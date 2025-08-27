@@ -1,0 +1,20 @@
+{
+    "zip": 56145,
+    "lat": 44.05577,
+    "lng": -95.17384,
+    "city": "Jeffers",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 490.0,
+    "density": 3.8,
+    "county_fips": 27033,
+    "county_name": "Cottonwood",
+    "county_weights": "{\"27033\": 100}",
+    "county_names_all": "Cottonwood",
+    "county_fips_all": "27033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

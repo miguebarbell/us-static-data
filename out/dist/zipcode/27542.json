@@ -1,0 +1,20 @@
+{
+    "zip": 27542,
+    "lat": 35.61776,
+    "lng": -78.1377,
+    "city": "Kenly",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9441.0,
+    "density": 40.5,
+    "county_fips": 37101,
+    "county_name": "Johnston",
+    "county_weights": "{\"37101\": 63.31, \"37195\": 28.52, \"37191\": 8.17}",
+    "county_names_all": "Johnston|Wilson|Wayne",
+    "county_fips_all": "37101|37195|37191",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

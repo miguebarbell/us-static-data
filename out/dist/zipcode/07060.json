@@ -1,0 +1,20 @@
+{
+    "zip": 7060,
+    "lat": 40.61606,
+    "lng": -74.42164,
+    "city": "Plainfield",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 47560.0,
+    "density": 3673.5,
+    "county_fips": 34039,
+    "county_name": "Union",
+    "county_weights": "{\"34039\": 62.49, \"34035\": 37.51}",
+    "county_names_all": "Union|Somerset",
+    "county_fips_all": "34039|34035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

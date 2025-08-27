@@ -1,0 +1,20 @@
+{
+    "zip": 97459,
+    "lat": 43.47444,
+    "lng": -124.18216,
+    "city": "North Bend",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15328.0,
+    "density": 54.2,
+    "county_fips": 41011,
+    "county_name": "Coos",
+    "county_weights": "{\"41011\": 96.52, \"41019\": 3.48}",
+    "county_names_all": "Coos|Douglas",
+    "county_fips_all": "41011|41019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

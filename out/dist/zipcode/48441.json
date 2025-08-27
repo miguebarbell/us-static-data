@@ -1,0 +1,20 @@
+{
+    "zip": 48441,
+    "lat": 43.80515,
+    "lng": -82.71727,
+    "city": "Harbor Beach",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3867.0,
+    "density": 14.6,
+    "county_fips": 26063,
+    "county_name": "Huron",
+    "county_weights": "{\"26063\": 98.25, \"26151\": 1.75}",
+    "county_names_all": "Huron|Sanilac",
+    "county_fips_all": "26063|26151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 57256,
+    "lat": 45.24918,
+    "lng": -97.20156,
+    "city": "Ortley",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 226.0,
+    "density": 2.0,
+    "county_fips": 46051,
+    "county_name": "Grant",
+    "county_weights": "{\"46051\": 62.22, \"46109\": 20.12, \"46037\": 12.97, \"46029\": 4.69}",
+    "county_names_all": "Grant|Roberts|Day|Codington",
+    "county_fips_all": "46051|46109|46037|46029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

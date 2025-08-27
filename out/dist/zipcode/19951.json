@@ -1,0 +1,20 @@
+{
+    "zip": 19951,
+    "lat": 38.68763,
+    "lng": -75.25124,
+    "city": "Harbeson",
+    "state_id": "DE",
+    "state_name": "Delaware",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1957.0,
+    "density": 84.6,
+    "county_fips": 10005,
+    "county_name": "Sussex",
+    "county_weights": "{\"10005\": 100}",
+    "county_names_all": "Sussex",
+    "county_fips_all": "10005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

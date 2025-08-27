@@ -1,0 +1,20 @@
+{
+    "zip": 65702,
+    "lat": 37.05726,
+    "lng": -92.488,
+    "city": "Macomb",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 235.0,
+    "density": 3.2,
+    "county_fips": 29067,
+    "county_name": "Douglas",
+    "county_weights": "{\"29067\": 55.47, \"29229\": 44.53}",
+    "county_names_all": "Douglas|Wright",
+    "county_fips_all": "29067|29229",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

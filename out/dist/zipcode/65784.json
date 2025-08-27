@@ -1,0 +1,20 @@
+{
+    "zip": 65784,
+    "lat": 36.72588,
+    "lng": -92.31538,
+    "city": "Zanoni",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18.0,
+    "density": 1.8,
+    "county_fips": 29153,
+    "county_name": "Ozark",
+    "county_weights": "{\"29153\": 100}",
+    "county_names_all": "Ozark",
+    "county_fips_all": "29153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

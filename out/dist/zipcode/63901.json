@@ -1,0 +1,20 @@
+{
+    "zip": 63901,
+    "lat": 36.77168,
+    "lng": -90.45012,
+    "city": "Poplar Bluff",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 34920.0,
+    "density": 47.3,
+    "county_fips": 29023,
+    "county_name": "Butler",
+    "county_weights": "{\"29023\": 100}",
+    "county_names_all": "Butler",
+    "county_fips_all": "29023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

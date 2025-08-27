@@ -1,0 +1,20 @@
+{
+    "zip": 29472,
+    "lat": 33.05379,
+    "lng": -80.31928,
+    "city": "Ridgeville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11531.0,
+    "density": 23.5,
+    "county_fips": 45035,
+    "county_name": "Dorchester",
+    "county_weights": "{\"45035\": 59.63, \"45015\": 32.32, \"45029\": 8.05}",
+    "county_names_all": "Dorchester|Berkeley|Colleton",
+    "county_fips_all": "45035|45015|45029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

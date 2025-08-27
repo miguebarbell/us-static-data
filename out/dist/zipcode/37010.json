@@ -1,0 +1,20 @@
+{
+    "zip": 37010,
+    "lat": 36.5675,
+    "lng": -87.10894,
+    "city": "Adams",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5143.0,
+    "density": 25.2,
+    "county_fips": 47147,
+    "county_name": "Robertson",
+    "county_weights": "{\"47147\": 61.25, \"47125\": 38.75}",
+    "county_names_all": "Robertson|Montgomery",
+    "county_fips_all": "47147|47125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

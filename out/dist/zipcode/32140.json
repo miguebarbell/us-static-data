@@ -1,0 +1,20 @@
+{
+    "zip": 32140,
+    "lat": 29.76274,
+    "lng": -81.86306,
+    "city": "Florahome",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1558.0,
+    "density": 18.0,
+    "county_fips": 12107,
+    "county_name": "Putnam",
+    "county_weights": "{\"12107\": 90.17, \"12019\": 9.83}",
+    "county_names_all": "Putnam|Clay",
+    "county_fips_all": "12107|12019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

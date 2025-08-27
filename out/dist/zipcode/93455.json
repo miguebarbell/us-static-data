@@ -1,0 +1,20 @@
+{
+    "zip": 93455,
+    "lat": 34.84195,
+    "lng": -120.45522,
+    "city": "Santa Maria",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44350.0,
+    "density": 144.7,
+    "county_fips": 6083,
+    "county_name": "Santa Barbara",
+    "county_weights": "{\"06083\": 100}",
+    "county_names_all": "Santa Barbara",
+    "county_fips_all": "06083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

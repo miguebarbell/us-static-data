@@ -1,0 +1,20 @@
+{
+    "zip": 79512,
+    "lat": 32.32614,
+    "lng": -100.92807,
+    "city": "Colorado City",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7672.0,
+    "density": 4.9,
+    "county_fips": 48335,
+    "county_name": "Mitchell",
+    "county_weights": "{\"48335\": 96.57, \"48415\": 3.43}",
+    "county_names_all": "Mitchell|Scurry",
+    "county_fips_all": "48335|48415",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 74760,
+    "lat": 34.15996,
+    "lng": -95.3612,
+    "city": "Spencerville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 94.0,
+    "density": 3.3,
+    "county_fips": 40127,
+    "county_name": "Pushmataha",
+    "county_weights": "{\"40127\": 55.03, \"40023\": 44.97}",
+    "county_names_all": "Pushmataha|Choctaw",
+    "county_fips_all": "40127|40023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

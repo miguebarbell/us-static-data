@@ -1,0 +1,20 @@
+{
+    "zip": 23860,
+    "lat": 37.28267,
+    "lng": -77.22267,
+    "city": "Hopewell",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31432.0,
+    "density": 268.3,
+    "county_fips": 51149,
+    "county_name": "Prince George",
+    "county_weights": "{\"51149\": 80.31, \"51670\": 19.69}",
+    "county_names_all": "Prince George|Hopewell",
+    "county_fips_all": "51149|51670",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

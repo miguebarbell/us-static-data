@@ -1,0 +1,20 @@
+{
+    "zip": 94611,
+    "lat": 37.83191,
+    "lng": -122.21592,
+    "city": "Oakland",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39240.0,
+    "density": 2075.5,
+    "county_fips": 6001,
+    "county_name": "Alameda",
+    "county_weights": "{\"06001\": 94.89, \"06013\": 5.11}",
+    "county_names_all": "Alameda|Contra Costa",
+    "county_fips_all": "06001|06013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

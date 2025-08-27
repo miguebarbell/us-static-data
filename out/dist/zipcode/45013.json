@@ -1,0 +1,20 @@
+{
+    "zip": 45013,
+    "lat": 39.40649,
+    "lng": -84.6501,
+    "city": "Hamilton",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 53533.0,
+    "density": 175.7,
+    "county_fips": 39017,
+    "county_name": "Butler",
+    "county_weights": "{\"39017\": 96.75, \"39061\": 3.25}",
+    "county_names_all": "Butler|Hamilton",
+    "county_fips_all": "39017|39061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

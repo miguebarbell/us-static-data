@@ -1,0 +1,20 @@
+{
+    "zip": 60542,
+    "lat": 41.80878,
+    "lng": -88.3489,
+    "city": "North Aurora",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18691.0,
+    "density": 762.0,
+    "county_fips": 17089,
+    "county_name": "Kane",
+    "county_weights": "{\"17089\": 100}",
+    "county_names_all": "Kane",
+    "county_fips_all": "17089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

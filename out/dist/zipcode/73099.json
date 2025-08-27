@@ -1,0 +1,20 @@
+{
+    "zip": 73099,
+    "lat": 35.52583,
+    "lng": -97.76343,
+    "city": "Yukon",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 86749.0,
+    "density": 268.6,
+    "county_fips": 40017,
+    "county_name": "Canadian",
+    "county_weights": "{\"40017\": 100}",
+    "county_names_all": "Canadian",
+    "county_fips_all": "40017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

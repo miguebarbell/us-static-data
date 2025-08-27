@@ -1,0 +1,20 @@
+{
+    "zip": 96951,
+    "lat": 14.15733,
+    "lng": 145.2145,
+    "city": "Rota",
+    "state_id": "MP",
+    "state_name": "Northern Mariana Islands",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": NaN,
+    "density": NaN,
+    "county_fips": 69100,
+    "county_name": "Rota",
+    "county_weights": "{\"69100\": 100}",
+    "county_names_all": "Rota",
+    "county_fips_all": "69100",
+    "imprecise": false,
+    "military": false,
+    "timezone": "Pacific/Saipan"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72175,
+    "lat": 34.33792,
+    "lng": -91.75495,
+    "city": "Wabbaseka",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 425.0,
+    "density": 3.6,
+    "county_fips": 5069,
+    "county_name": "Jefferson",
+    "county_weights": "{\"05069\": 95.94, \"05001\": 4.06}",
+    "county_names_all": "Jefferson|Arkansas",
+    "county_fips_all": "05069|05001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 44423,
+    "lat": 40.7524,
+    "lng": -80.89963,
+    "city": "Hanoverton",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2515.0,
+    "density": 33.4,
+    "county_fips": 39029,
+    "county_name": "Columbiana",
+    "county_weights": "{\"39029\": 100}",
+    "county_names_all": "Columbiana",
+    "county_fips_all": "39029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 78594,
+    "lat": 26.34704,
+    "lng": -97.8037,
+    "city": "Sebastian",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1303.0,
+    "density": 158.8,
+    "county_fips": 48489,
+    "county_name": "Willacy",
+    "county_weights": "{\"48489\": 100}",
+    "county_names_all": "Willacy",
+    "county_fips_all": "48489",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 58276,
+    "lat": 48.62239,
+    "lng": -97.45675,
+    "city": "Saint Thomas",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 422.0,
+    "density": 1.4,
+    "county_fips": 38067,
+    "county_name": "Pembina",
+    "county_weights": "{\"38067\": 100}",
+    "county_names_all": "Pembina",
+    "county_fips_all": "38067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 765,
+    "lat": 18.12365,
+    "lng": -65.43013,
+    "city": "Vieques",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8147.0,
+    "density": 66.6,
+    "county_fips": 72147,
+    "county_name": "Vieques",
+    "county_weights": "{\"72147\": 100}",
+    "county_names_all": "Vieques",
+    "county_fips_all": "72147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

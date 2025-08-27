@@ -1,0 +1,20 @@
+{
+    "zip": 59460,
+    "lat": 48.07682,
+    "lng": -110.50908,
+    "city": "Loma",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 227.0,
+    "density": 0.3,
+    "county_fips": 30015,
+    "county_name": "Chouteau",
+    "county_weights": "{\"30015\": 100}",
+    "county_names_all": "Chouteau",
+    "county_fips_all": "30015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

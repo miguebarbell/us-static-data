@@ -1,0 +1,20 @@
+{
+    "zip": 36769,
+    "lat": 31.99306,
+    "lng": -87.55049,
+    "city": "Pine Hill",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2034.0,
+    "density": 5.5,
+    "county_fips": 1131,
+    "county_name": "Wilcox",
+    "county_weights": "{\"01131\": 86.76, \"01091\": 13.24}",
+    "county_names_all": "Wilcox|Marengo",
+    "county_fips_all": "01131|01091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

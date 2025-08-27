@@ -1,0 +1,20 @@
+{
+    "zip": 79519,
+    "lat": 32.04926,
+    "lng": -99.69857,
+    "city": "Goldsboro",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 101.0,
+    "density": 1.3,
+    "county_fips": 48083,
+    "county_name": "Coleman",
+    "county_weights": "{\"48083\": 63.72, \"48399\": 30.67, \"48441\": 5.61}",
+    "county_names_all": "Coleman|Runnels|Taylor",
+    "county_fips_all": "48083|48399|48441",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

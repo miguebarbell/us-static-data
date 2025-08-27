@@ -1,0 +1,20 @@
+{
+    "zip": 3087,
+    "lat": 42.80758,
+    "lng": -71.29945,
+    "city": "Windham",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15922.0,
+    "density": 229.9,
+    "county_fips": 33015,
+    "county_name": "Rockingham",
+    "county_weights": "{\"33015\": 100}",
+    "county_names_all": "Rockingham",
+    "county_fips_all": "33015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

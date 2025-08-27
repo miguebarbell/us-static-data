@@ -1,0 +1,20 @@
+{
+    "zip": 78140,
+    "lat": 29.30758,
+    "lng": -97.7619,
+    "city": "Nixon",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3190.0,
+    "density": 7.0,
+    "county_fips": 48177,
+    "county_name": "Gonzales",
+    "county_weights": "{\"48177\": 67.47, \"48493\": 27.32, \"48187\": 3.26, \"48255\": 1.95}",
+    "county_names_all": "Gonzales|Wilson|Guadalupe|Karnes",
+    "county_fips_all": "48177|48493|48187|48255",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

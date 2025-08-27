@@ -1,0 +1,20 @@
+{
+    "zip": 95948,
+    "lat": 39.34289,
+    "lng": -121.75818,
+    "city": "Gridley",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11118.0,
+    "density": 56.8,
+    "county_fips": 6007,
+    "county_name": "Butte",
+    "county_weights": "{\"06007\": 99.79, \"06101\": 0.21}",
+    "county_names_all": "Butte|Sutter",
+    "county_fips_all": "06007|06101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

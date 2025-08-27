@@ -1,0 +1,20 @@
+{
+    "zip": 48069,
+    "lat": 42.47151,
+    "lng": -83.14447,
+    "city": "Pleasant Ridge",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2607.0,
+    "density": 1761.6,
+    "county_fips": 26125,
+    "county_name": "Oakland",
+    "county_weights": "{\"26125\": 100}",
+    "county_names_all": "Oakland",
+    "county_fips_all": "26125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

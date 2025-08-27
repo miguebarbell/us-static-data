@@ -1,0 +1,20 @@
+{
+    "zip": 17327,
+    "lat": 39.77934,
+    "lng": -76.75373,
+    "city": "Glen Rock",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8228.0,
+    "density": 68.8,
+    "county_fips": 42133,
+    "county_name": "York",
+    "county_weights": "{\"42133\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "42133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 57045,
+    "lat": 43.20051,
+    "lng": -97.52425,
+    "city": "Menno",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1190.0,
+    "density": 3.8,
+    "county_fips": 46067,
+    "county_name": "Hutchinson",
+    "county_weights": "{\"46067\": 69.3, \"46135\": 28.53, \"46125\": 2.17}",
+    "county_names_all": "Hutchinson|Yankton|Turner",
+    "county_fips_all": "46067|46135|46125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

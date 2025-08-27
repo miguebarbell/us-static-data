@@ -1,0 +1,20 @@
+{
+    "zip": 38542,
+    "lat": 36.31576,
+    "lng": -85.20113,
+    "city": "Allred",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 47133,
+    "county_name": "Overton",
+    "county_weights": "{\"47133\": 100}",
+    "county_names_all": "Overton",
+    "county_fips_all": "47133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

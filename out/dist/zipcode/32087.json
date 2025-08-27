@@ -1,0 +1,20 @@
+{
+    "zip": 32087,
+    "lat": 30.36999,
+    "lng": -82.29741,
+    "city": "Sanderson",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4718.0,
+    "density": 11.4,
+    "county_fips": 12003,
+    "county_name": "Baker",
+    "county_weights": "{\"12003\": 100}",
+    "county_names_all": "Baker",
+    "county_fips_all": "12003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

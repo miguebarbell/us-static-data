@@ -1,0 +1,20 @@
+{
+    "zip": 98250,
+    "lat": 48.55264,
+    "lng": -123.09631,
+    "city": "Friday Harbor",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9127.0,
+    "density": 57.7,
+    "county_fips": 53055,
+    "county_name": "San Juan",
+    "county_weights": "{\"53055\": 100}",
+    "county_names_all": "San Juan",
+    "county_fips_all": "53055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

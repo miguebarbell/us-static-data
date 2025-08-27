@@ -1,0 +1,20 @@
+{
+    "zip": 22601,
+    "lat": 39.1743,
+    "lng": -78.1743,
+    "city": "Winchester",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29385.0,
+    "density": 1160.7,
+    "county_fips": 51840,
+    "county_name": "Winchester",
+    "county_weights": "{\"51840\": 93.99, \"51069\": 6.01}",
+    "county_names_all": "Winchester|Frederick",
+    "county_fips_all": "51840|51069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

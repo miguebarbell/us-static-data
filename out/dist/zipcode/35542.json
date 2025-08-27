@@ -1,0 +1,20 @@
+{
+    "zip": 35542,
+    "lat": 33.7083,
+    "lng": -87.68161,
+    "city": "Bankston",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1027.0,
+    "density": 6.8,
+    "county_fips": 1057,
+    "county_name": "Fayette",
+    "county_weights": "{\"01057\": 100}",
+    "county_names_all": "Fayette",
+    "county_fips_all": "01057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

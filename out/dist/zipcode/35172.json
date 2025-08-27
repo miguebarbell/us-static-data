@@ -1,0 +1,20 @@
+{
+    "zip": 35172,
+    "lat": 33.84389,
+    "lng": -86.69788,
+    "city": "Trafford",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2824.0,
+    "density": 37.0,
+    "county_fips": 1009,
+    "county_name": "Blount",
+    "county_weights": "{\"01009\": 81.15, \"01073\": 18.85}",
+    "county_names_all": "Blount|Jefferson",
+    "county_fips_all": "01009|01073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

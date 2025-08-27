@@ -1,0 +1,20 @@
+{
+    "zip": 43931,
+    "lat": 39.67288,
+    "lng": -80.87137,
+    "city": "Hannibal",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 132.0,
+    "density": 129.7,
+    "county_fips": 39111,
+    "county_name": "Monroe",
+    "county_weights": "{\"39111\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "39111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

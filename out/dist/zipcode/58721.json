@@ -1,0 +1,20 @@
+{
+    "zip": 58721,
+    "lat": 48.82069,
+    "lng": -102.25667,
+    "city": "Bowbells",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 426.0,
+    "density": 0.8,
+    "county_fips": 38013,
+    "county_name": "Burke",
+    "county_weights": "{\"38013\": 94.69, \"38101\": 5.31}",
+    "county_names_all": "Burke|Ward",
+    "county_fips_all": "38013|38101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

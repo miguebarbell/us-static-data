@@ -1,0 +1,20 @@
+{
+    "zip": 73080,
+    "lat": 35.00725,
+    "lng": -97.452,
+    "city": "Purcell",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10289.0,
+    "density": 39.7,
+    "county_fips": 40087,
+    "county_name": "McClain",
+    "county_weights": "{\"40087\": 100}",
+    "county_names_all": "McClain",
+    "county_fips_all": "40087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

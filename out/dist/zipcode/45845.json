@@ -1,0 +1,20 @@
+{
+    "zip": 45845,
+    "lat": 40.32995,
+    "lng": -84.37806,
+    "city": "Fort Loramie",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3386.0,
+    "density": 40.0,
+    "county_fips": 39149,
+    "county_name": "Shelby",
+    "county_weights": "{\"39149\": 96.62, \"39011\": 3.38}",
+    "county_names_all": "Shelby|Auglaize",
+    "county_fips_all": "39149|39011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

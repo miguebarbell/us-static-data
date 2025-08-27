@@ -1,0 +1,20 @@
+{
+    "zip": 49221,
+    "lat": 41.90343,
+    "lng": -84.06372,
+    "city": "Adrian",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41041.0,
+    "density": 132.2,
+    "county_fips": 26091,
+    "county_name": "Lenawee",
+    "county_weights": "{\"26091\": 100}",
+    "county_names_all": "Lenawee",
+    "county_fips_all": "26091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 36538,
+    "lat": 31.65948,
+    "lng": -88.13836,
+    "city": "Frankville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 330.0,
+    "density": 3.4,
+    "county_fips": 1129,
+    "county_name": "Washington",
+    "county_weights": "{\"01129\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "01129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

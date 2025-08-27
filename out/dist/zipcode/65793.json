@@ -1,0 +1,20 @@
+{
+    "zip": 65793,
+    "lat": 36.98975,
+    "lng": -91.9787,
+    "city": "Willow Springs",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5679.0,
+    "density": 8.4,
+    "county_fips": 29091,
+    "county_name": "Howell",
+    "county_weights": "{\"29091\": 57.67, \"29215\": 28.24, \"29067\": 14.09}",
+    "county_names_all": "Howell|Texas|Douglas",
+    "county_fips_all": "29091|29215|29067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

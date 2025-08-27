@@ -1,0 +1,20 @@
+{
+    "zip": 49640,
+    "lat": 44.72088,
+    "lng": -86.03664,
+    "city": "Honor",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1266.0,
+    "density": 7.6,
+    "county_fips": 26019,
+    "county_name": "Benzie",
+    "county_weights": "{\"26019\": 97.03, \"26089\": 2.97}",
+    "county_names_all": "Benzie|Leelanau",
+    "county_fips_all": "26019|26089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

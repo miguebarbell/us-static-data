@@ -1,0 +1,20 @@
+{
+    "zip": 99679,
+    "lat": 61.10509,
+    "lng": -160.94865,
+    "city": "Tuluksak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 324.0,
+    "density": 43.8,
+    "county_fips": 2050,
+    "county_name": "Bethel",
+    "county_weights": "{\"02050\": 100}",
+    "county_names_all": "Bethel",
+    "county_fips_all": "02050",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

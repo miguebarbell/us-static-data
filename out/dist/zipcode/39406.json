@@ -1,0 +1,20 @@
+{
+    "zip": 39406,
+    "lat": 31.32895,
+    "lng": -89.33515,
+    "city": "Hattiesburg",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1902.0,
+    "density": 2159.2,
+    "county_fips": 28035,
+    "county_name": "Forrest",
+    "county_weights": "{\"28035\": 100}",
+    "county_names_all": "Forrest",
+    "county_fips_all": "28035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

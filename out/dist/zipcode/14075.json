@@ -1,0 +1,20 @@
+{
+    "zip": 14075,
+    "lat": 42.71297,
+    "lng": -78.82985,
+    "city": "Hamburg",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44588.0,
+    "density": 436.5,
+    "county_fips": 36029,
+    "county_name": "Erie",
+    "county_weights": "{\"36029\": 100}",
+    "county_names_all": "Erie",
+    "county_fips_all": "36029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

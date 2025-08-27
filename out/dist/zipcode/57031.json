@@ -1,0 +1,20 @@
+{
+    "zip": 57031,
+    "lat": 42.87058,
+    "lng": -97.18655,
+    "city": "Gayville",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 670.0,
+    "density": 6.6,
+    "county_fips": 46135,
+    "county_name": "Yankton",
+    "county_weights": "{\"46135\": 77.43, \"46027\": 22.57}",
+    "county_names_all": "Yankton|Clay",
+    "county_fips_all": "46135|46027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

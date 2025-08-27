@@ -1,0 +1,20 @@
+{
+    "zip": 49883,
+    "lat": 46.42885,
+    "lng": -86.0318,
+    "city": "Seney",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 202.0,
+    "density": 0.3,
+    "county_fips": 26153,
+    "county_name": "Schoolcraft",
+    "county_weights": "{\"26153\": 81.17, \"26003\": 18.83}",
+    "county_names_all": "Schoolcraft|Alger",
+    "county_fips_all": "26153|26003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

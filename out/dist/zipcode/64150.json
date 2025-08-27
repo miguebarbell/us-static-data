@@ -1,0 +1,20 @@
+{
+    "zip": 64150,
+    "lat": 39.17052,
+    "lng": -94.6303,
+    "city": "Riverside",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4294.0,
+    "density": 294.7,
+    "county_fips": 29165,
+    "county_name": "Platte",
+    "county_weights": "{\"29165\": 99.79, \"29047\": 0.21}",
+    "county_names_all": "Platte|Clay",
+    "county_fips_all": "29165|29047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

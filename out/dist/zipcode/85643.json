@@ -1,0 +1,20 @@
+{
+    "zip": 85643,
+    "lat": 32.43757,
+    "lng": -109.98521,
+    "city": "Willcox",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8524.0,
+    "density": 1.5,
+    "county_fips": 4009,
+    "county_name": "Graham",
+    "county_weights": "{\"04009\": 51.49, \"04003\": 48.51}",
+    "county_names_all": "Graham|Cochise",
+    "county_fips_all": "04009|04003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

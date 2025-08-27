@@ -1,0 +1,20 @@
+{
+    "zip": 15832,
+    "lat": 41.35301,
+    "lng": -78.19053,
+    "city": "Driftwood",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 282.0,
+    "density": 1.0,
+    "county_fips": 42023,
+    "county_name": "Cameron",
+    "county_weights": "{\"42023\": 89.31, \"42047\": 10.69}",
+    "county_names_all": "Cameron|Elk",
+    "county_fips_all": "42023|42047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 73520,
+    "lat": 34.26148,
+    "lng": -97.97856,
+    "city": "Addington",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 102.0,
+    "density": 7.7,
+    "county_fips": 40067,
+    "county_name": "Jefferson",
+    "county_weights": "{\"40067\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "40067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

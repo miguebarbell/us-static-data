@@ -1,0 +1,20 @@
+{
+    "zip": 65014,
+    "lat": 38.32184,
+    "lng": -91.6247,
+    "city": "Bland",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2457.0,
+    "density": 6.7,
+    "county_fips": 29073,
+    "county_name": "Gasconade",
+    "county_weights": "{\"29073\": 69.32, \"29151\": 27.4, \"29125\": 3.28}",
+    "county_names_all": "Gasconade|Osage|Maries",
+    "county_fips_all": "29073|29151|29125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

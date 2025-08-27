@@ -1,0 +1,20 @@
+{
+    "zip": 5060,
+    "lat": 43.96199,
+    "lng": -72.68594,
+    "city": "Randolph",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4064.0,
+    "density": 20.6,
+    "county_fips": 50017,
+    "county_name": "Orange",
+    "county_weights": "{\"50017\": 81.87, \"50027\": 11.95, \"50023\": 6.18}",
+    "county_names_all": "Orange|Windsor|Washington",
+    "county_fips_all": "50017|50027|50023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

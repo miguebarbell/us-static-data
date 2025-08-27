@@ -1,0 +1,20 @@
+{
+    "zip": 54564,
+    "lat": 45.6105,
+    "lng": -89.97223,
+    "city": "Tripoli",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 382.0,
+    "density": 0.7,
+    "county_fips": 55085,
+    "county_name": "Oneida",
+    "county_weights": "{\"55085\": 65.26, \"55069\": 33.37, \"55099\": 1.37}",
+    "county_names_all": "Oneida|Lincoln|Price",
+    "county_fips_all": "55085|55069|55099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

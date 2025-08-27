@@ -1,0 +1,20 @@
+{
+    "zip": 97826,
+    "lat": 45.65508,
+    "lng": -119.22586,
+    "city": "Echo",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1154.0,
+    "density": 1.3,
+    "county_fips": 41059,
+    "county_name": "Umatilla",
+    "county_weights": "{\"41059\": 86.25, \"41049\": 13.75}",
+    "county_names_all": "Umatilla|Morrow",
+    "county_fips_all": "41059|41049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 18421,
+    "lat": 41.66337,
+    "lng": -75.4691,
+    "city": "Forest City",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4475.0,
+    "density": 46.3,
+    "county_fips": 42115,
+    "county_name": "Susquehanna",
+    "county_weights": "{\"42115\": 46.86, \"42127\": 45.27, \"42069\": 7.87}",
+    "county_names_all": "Susquehanna|Wayne|Lackawanna",
+    "county_fips_all": "42115|42127|42069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

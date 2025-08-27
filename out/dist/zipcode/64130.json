@@ -1,0 +1,20 @@
+{
+    "zip": 64130,
+    "lat": 39.03345,
+    "lng": -94.54119,
+    "city": "Kansas City",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19697.0,
+    "density": 1073.5,
+    "county_fips": 29095,
+    "county_name": "Jackson",
+    "county_weights": "{\"29095\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "29095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

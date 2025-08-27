@@ -1,0 +1,20 @@
+{
+    "zip": 37079,
+    "lat": 36.4826,
+    "lng": -87.65939,
+    "city": "Indian Mound",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2770.0,
+    "density": 13.6,
+    "county_fips": 47161,
+    "county_name": "Stewart",
+    "county_weights": "{\"47161\": 80.08, \"47125\": 19.92}",
+    "county_names_all": "Stewart|Montgomery",
+    "county_fips_all": "47161|47125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72569,
+    "lat": 36.08121,
+    "lng": -91.45817,
+    "city": "Poughkeepsie",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 673.0,
+    "density": 7.8,
+    "county_fips": 5135,
+    "county_name": "Sharp",
+    "county_weights": "{\"05135\": 100}",
+    "county_names_all": "Sharp",
+    "county_fips_all": "05135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 76464,
+    "lat": 32.57554,
+    "lng": -99.1542,
+    "city": "Moran",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 463.0,
+    "density": 0.8,
+    "county_fips": 48417,
+    "county_name": "Shackelford",
+    "county_weights": "{\"48417\": 58.18, \"48429\": 27.72, \"48059\": 14.1}",
+    "county_names_all": "Shackelford|Stephens|Callahan",
+    "county_fips_all": "48417|48429|48059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

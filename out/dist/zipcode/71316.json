@@ -1,0 +1,20 @@
+{
+    "zip": 71316,
+    "lat": 31.27665,
+    "lng": -91.76231,
+    "city": "Acme",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42.0,
+    "density": 0.3,
+    "county_fips": 22029,
+    "county_name": "Concordia",
+    "county_weights": "{\"22029\": 100}",
+    "county_names_all": "Concordia",
+    "county_fips_all": "22029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

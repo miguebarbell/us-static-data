@@ -1,0 +1,20 @@
+{
+    "zip": 71973,
+    "lat": 34.28755,
+    "lng": -94.30523,
+    "city": "Wickes",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1259.0,
+    "density": 5.6,
+    "county_fips": 5113,
+    "county_name": "Polk",
+    "county_weights": "{\"05113\": 61.38, \"05061\": 38.62}",
+    "county_names_all": "Polk|Howard",
+    "county_fips_all": "05113|05061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

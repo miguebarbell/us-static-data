@@ -1,0 +1,20 @@
+{
+    "zip": 30260,
+    "lat": 33.5862,
+    "lng": -84.33046,
+    "city": "Morrow",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27784.0,
+    "density": 984.1,
+    "county_fips": 13063,
+    "county_name": "Clayton",
+    "county_weights": "{\"13063\": 100}",
+    "county_names_all": "Clayton",
+    "county_fips_all": "13063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

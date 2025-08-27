@@ -1,0 +1,20 @@
+{
+    "zip": 17068,
+    "lat": 40.40685,
+    "lng": -77.17795,
+    "city": "New Bloomfield",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4384.0,
+    "density": 51.7,
+    "county_fips": 42099,
+    "county_name": "Perry",
+    "county_weights": "{\"42099\": 100}",
+    "county_names_all": "Perry",
+    "county_fips_all": "42099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 84648,
+    "lat": 39.68659,
+    "lng": -111.86819,
+    "city": "Nephi",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7289.0,
+    "density": 16.8,
+    "county_fips": 49023,
+    "county_name": "Juab",
+    "county_weights": "{\"49023\": 100}",
+    "county_names_all": "Juab",
+    "county_fips_all": "49023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

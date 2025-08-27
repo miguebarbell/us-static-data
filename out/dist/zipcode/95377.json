@@ -1,0 +1,20 @@
+{
+    "zip": 95377,
+    "lat": 37.65293,
+    "lng": -121.49598,
+    "city": "Tracy",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36182.0,
+    "density": 127.0,
+    "county_fips": 6077,
+    "county_name": "San Joaquin",
+    "county_weights": "{\"06077\": 89.32, \"06001\": 10.68}",
+    "county_names_all": "San Joaquin|Alameda",
+    "county_fips_all": "06077|06001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

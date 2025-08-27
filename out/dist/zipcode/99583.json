@@ -1,0 +1,20 @@
+{
+    "zip": 99583,
+    "lat": 54.84305,
+    "lng": -163.39945,
+    "city": "False Pass",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 95.0,
+    "density": 3.0,
+    "county_fips": 2013,
+    "county_name": "Aleutians East",
+    "county_weights": "{\"02013\": 100}",
+    "county_names_all": "Aleutians East",
+    "county_fips_all": "02013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Nome"
+}

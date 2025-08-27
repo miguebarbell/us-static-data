@@ -1,0 +1,20 @@
+{
+    "zip": 12460,
+    "lat": 42.42357,
+    "lng": -74.16676,
+    "city": "Oak Hill",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 161.0,
+    "density": 10.4,
+    "county_fips": 36001,
+    "county_name": "Albany",
+    "county_weights": "{\"36001\": 64.49, \"36039\": 35.51}",
+    "county_names_all": "Albany|Greene",
+    "county_fips_all": "36001|36039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 5486,
+    "lat": 44.62958,
+    "lng": -73.31444,
+    "city": "South Hero",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1536.0,
+    "density": 40.8,
+    "county_fips": 50013,
+    "county_name": "Grand Isle",
+    "county_weights": "{\"50013\": 97.58, \"50007\": 2.42}",
+    "county_names_all": "Grand Isle|Chittenden",
+    "county_fips_all": "50013|50007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

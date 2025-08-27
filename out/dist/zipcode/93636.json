@@ -1,0 +1,20 @@
+{
+    "zip": 93636,
+    "lat": 36.98171,
+    "lng": -119.87706,
+    "city": "Madera",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14777.0,
+    "density": 28.9,
+    "county_fips": 6039,
+    "county_name": "Madera",
+    "county_weights": "{\"06039\": 99.9, \"06019\": 0.1}",
+    "county_names_all": "Madera|Fresno",
+    "county_fips_all": "06039|06019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

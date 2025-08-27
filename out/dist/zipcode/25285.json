@@ -1,0 +1,20 @@
+{
+    "zip": 25285,
+    "lat": 38.54723,
+    "lng": -81.1129,
+    "city": "Wallback",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 629.0,
+    "density": 15.2,
+    "county_fips": 54015,
+    "county_name": "Clay",
+    "county_weights": "{\"54015\": 100}",
+    "county_names_all": "Clay",
+    "county_fips_all": "54015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

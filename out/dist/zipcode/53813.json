@@ -1,0 +1,20 @@
+{
+    "zip": 53813,
+    "lat": 42.84402,
+    "lng": -90.71641,
+    "city": "Lancaster",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6139.0,
+    "density": 16.4,
+    "county_fips": 55043,
+    "county_name": "Grant",
+    "county_weights": "{\"55043\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "55043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

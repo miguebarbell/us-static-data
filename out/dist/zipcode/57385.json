@@ -1,0 +1,20 @@
+{
+    "zip": 57385,
+    "lat": 44.04433,
+    "lng": -98.29507,
+    "city": "Woonsocket",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1365.0,
+    "density": 2.2,
+    "county_fips": 46111,
+    "county_name": "Sanborn",
+    "county_weights": "{\"46111\": 65.84, \"46073\": 30.38, \"46003\": 3.78}",
+    "county_names_all": "Sanborn|Jerauld|Aurora",
+    "county_fips_all": "46111|46073|46003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

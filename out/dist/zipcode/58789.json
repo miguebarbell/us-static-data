@@ -1,0 +1,20 @@
+{
+    "zip": 58789,
+    "lat": 48.54778,
+    "lng": -100.81898,
+    "city": "Upham",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 482.0,
+    "density": 1.1,
+    "county_fips": 38049,
+    "county_name": "McHenry",
+    "county_weights": "{\"38049\": 90.31, \"38009\": 9.69}",
+    "county_names_all": "McHenry|Bottineau",
+    "county_fips_all": "38049|38009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

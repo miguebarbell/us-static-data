@@ -1,0 +1,20 @@
+{
+    "zip": 68975,
+    "lat": 40.61705,
+    "lng": -97.95483,
+    "city": "Saronville",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 86.0,
+    "density": 1.3,
+    "county_fips": 31035,
+    "county_name": "Clay",
+    "county_weights": "{\"31035\": 100}",
+    "county_names_all": "Clay",
+    "county_fips_all": "31035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

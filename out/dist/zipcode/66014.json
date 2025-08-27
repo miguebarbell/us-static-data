@@ -1,0 +1,20 @@
+{
+    "zip": 66014,
+    "lat": 38.22305,
+    "lng": -94.98371,
+    "city": "Centerville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 778.0,
+    "density": 4.5,
+    "county_fips": 20107,
+    "county_name": "Linn",
+    "county_weights": "{\"20107\": 96.28, \"20003\": 3.72}",
+    "county_names_all": "Linn|Anderson",
+    "county_fips_all": "20107|20003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 26601,
+    "lat": 38.63307,
+    "lng": -80.6567,
+    "city": "Sutton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3767.0,
+    "density": 11.5,
+    "county_fips": 54007,
+    "county_name": "Braxton",
+    "county_weights": "{\"54007\": 100}",
+    "county_names_all": "Braxton",
+    "county_fips_all": "54007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

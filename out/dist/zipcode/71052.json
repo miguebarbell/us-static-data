@@ -1,0 +1,20 @@
+{
+    "zip": 71052,
+    "lat": 32.01814,
+    "lng": -93.66243,
+    "city": "Mansfield",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8827.0,
+    "density": 10.7,
+    "county_fips": 22031,
+    "county_name": "De Soto",
+    "county_weights": "{\"22031\": 95.71, \"22081\": 4.29}",
+    "county_names_all": "De Soto|Red River",
+    "county_fips_all": "22031|22081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

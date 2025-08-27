@@ -1,0 +1,20 @@
+{
+    "zip": 38556,
+    "lat": 36.41016,
+    "lng": -84.9249,
+    "city": "Jamestown",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12531.0,
+    "density": 15.3,
+    "county_fips": 47049,
+    "county_name": "Fentress",
+    "county_weights": "{\"47049\": 99.36, \"47137\": 0.64}",
+    "county_names_all": "Fentress|Pickett",
+    "county_fips_all": "47049|47137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

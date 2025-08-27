@@ -1,0 +1,20 @@
+{
+    "zip": 62089,
+    "lat": 39.12111,
+    "lng": -89.48673,
+    "city": "Taylor Springs",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 539.0,
+    "density": 91.7,
+    "county_fips": 17135,
+    "county_name": "Montgomery",
+    "county_weights": "{\"17135\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "17135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

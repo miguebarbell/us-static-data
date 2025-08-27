@@ -1,0 +1,20 @@
+{
+    "zip": 28040,
+    "lat": 35.38738,
+    "lng": -81.74762,
+    "city": "Ellenboro",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7047.0,
+    "density": 40.2,
+    "county_fips": 37161,
+    "county_name": "Rutherford",
+    "county_weights": "{\"37161\": 96.15, \"37045\": 3.85}",
+    "county_names_all": "Rutherford|Cleveland",
+    "county_fips_all": "37161|37045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

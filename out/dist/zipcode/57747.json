@@ -1,0 +1,20 @@
+{
+    "zip": 57747,
+    "lat": 43.37973,
+    "lng": -103.5231,
+    "city": "Hot Springs",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5889.0,
+    "density": 4.5,
+    "county_fips": 46047,
+    "county_name": "Fall River",
+    "county_weights": "{\"46047\": 73.27, \"46033\": 26.73}",
+    "county_names_all": "Fall River|Custer",
+    "county_fips_all": "46047|46033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

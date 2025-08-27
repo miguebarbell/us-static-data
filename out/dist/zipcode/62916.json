@@ -1,0 +1,20 @@
+{
+    "zip": 62916,
+    "lat": 37.93722,
+    "lng": -89.56947,
+    "city": "Campbell Hill",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 790.0,
+    "density": 6.6,
+    "county_fips": 17077,
+    "county_name": "Jackson",
+    "county_weights": "{\"17077\": 47.41, \"17145\": 30.36, \"17157\": 22.23}",
+    "county_names_all": "Jackson|Perry|Randolph",
+    "county_fips_all": "17077|17145|17157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

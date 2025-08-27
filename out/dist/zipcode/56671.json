@@ -1,0 +1,20 @@
+{
+    "zip": 56671,
+    "lat": 47.94006,
+    "lng": -95.31791,
+    "city": "Red Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3139.0,
+    "density": 3.8,
+    "county_fips": 27029,
+    "county_name": "Clearwater",
+    "county_weights": "{\"27029\": 58.14, \"27007\": 41.86}",
+    "county_names_all": "Clearwater|Beltrami",
+    "county_fips_all": "27029|27007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 15353,
+    "lat": 39.96223,
+    "lng": -80.31107,
+    "city": "Nineveh",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 46.0,
+    "density": 313.8,
+    "county_fips": 42059,
+    "county_name": "Greene",
+    "county_weights": "{\"42059\": 100}",
+    "county_names_all": "Greene",
+    "county_fips_all": "42059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

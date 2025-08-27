@@ -1,0 +1,20 @@
+{
+    "zip": 98834,
+    "lat": 48.11712,
+    "lng": -120.08935,
+    "city": "Methow",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 228.0,
+    "density": 1.2,
+    "county_fips": 53047,
+    "county_name": "Okanogan",
+    "county_weights": "{\"53047\": 100}",
+    "county_names_all": "Okanogan",
+    "county_fips_all": "53047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

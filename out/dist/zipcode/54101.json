@@ -1,0 +1,20 @@
+{
+    "zip": 54101,
+    "lat": 44.78786,
+    "lng": -88.05927,
+    "city": "Abrams",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3019.0,
+    "density": 23.4,
+    "county_fips": 55083,
+    "county_name": "Oconto",
+    "county_weights": "{\"55083\": 100}",
+    "county_names_all": "Oconto",
+    "county_fips_all": "55083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

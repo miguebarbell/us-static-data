@@ -1,0 +1,20 @@
+{
+    "zip": 43740,
+    "lat": 39.9515,
+    "lng": -82.21706,
+    "city": "Gratiot",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 264.0,
+    "density": 716.2,
+    "county_fips": 39089,
+    "county_name": "Licking",
+    "county_weights": "{\"39089\": 55.93, \"39119\": 44.07}",
+    "county_names_all": "Licking|Muskingum",
+    "county_fips_all": "39089|39119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

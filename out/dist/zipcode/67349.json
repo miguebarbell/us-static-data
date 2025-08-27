@@ -1,0 +1,20 @@
+{
+    "zip": 67349,
+    "lat": 37.48811,
+    "lng": -96.28066,
+    "city": "Howard",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 764.0,
+    "density": 1.3,
+    "county_fips": 20049,
+    "county_name": "Elk",
+    "county_weights": "{\"20049\": 100}",
+    "county_names_all": "Elk",
+    "county_fips_all": "20049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

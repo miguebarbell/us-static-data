@@ -1,0 +1,20 @@
+{
+    "zip": 78026,
+    "lat": 28.75573,
+    "lng": -98.54754,
+    "city": "Jourdanton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6438.0,
+    "density": 7.0,
+    "county_fips": 48013,
+    "county_name": "Atascosa",
+    "county_weights": "{\"48013\": 72.31, \"48311\": 27.69}",
+    "county_names_all": "Atascosa|McMullen",
+    "county_fips_all": "48013|48311",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

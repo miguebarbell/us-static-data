@@ -1,0 +1,20 @@
+{
+    "zip": 17960,
+    "lat": 40.69932,
+    "lng": -75.94656,
+    "city": "New Ringgold",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4084.0,
+    "density": 30.1,
+    "county_fips": 42107,
+    "county_name": "Schuylkill",
+    "county_weights": "{\"42107\": 100}",
+    "county_names_all": "Schuylkill",
+    "county_fips_all": "42107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

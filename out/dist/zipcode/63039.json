@@ -1,0 +1,20 @@
+{
+    "zip": 63039,
+    "lat": 38.49532,
+    "lng": -90.83527,
+    "city": "Gray Summit",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 977.0,
+    "density": 84.9,
+    "county_fips": 29071,
+    "county_name": "Franklin",
+    "county_weights": "{\"29071\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "29071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

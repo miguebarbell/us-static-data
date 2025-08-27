@@ -1,0 +1,20 @@
+{
+    "zip": 15349,
+    "lat": 39.75885,
+    "lng": -80.07795,
+    "city": "Mount Morris",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1502.0,
+    "density": 14.0,
+    "county_fips": 42059,
+    "county_name": "Greene",
+    "county_weights": "{\"42059\": 100}",
+    "county_names_all": "Greene",
+    "county_fips_all": "42059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

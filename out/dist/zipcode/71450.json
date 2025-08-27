@@ -1,0 +1,20 @@
+{
+    "zip": 71450,
+    "lat": 31.78137,
+    "lng": -93.40367,
+    "city": "Marthaville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 828.0,
+    "density": 5.1,
+    "county_fips": 22069,
+    "county_name": "Natchitoches",
+    "county_weights": "{\"22069\": 78.87, \"22085\": 21.13}",
+    "county_names_all": "Natchitoches|Sabine",
+    "county_fips_all": "22069|22085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

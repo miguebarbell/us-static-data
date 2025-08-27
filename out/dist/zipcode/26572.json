@@ -1,0 +1,20 @@
+{
+    "zip": 26572,
+    "lat": 39.4871,
+    "lng": -80.31973,
+    "city": "Four States",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 452.0,
+    "density": 31.1,
+    "county_fips": 54049,
+    "county_name": "Marion",
+    "county_weights": "{\"54049\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "54049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 77531,
+    "lat": 29.03895,
+    "lng": -95.40071,
+    "city": "Clute",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16260.0,
+    "density": 534.3,
+    "county_fips": 48039,
+    "county_name": "Brazoria",
+    "county_weights": "{\"48039\": 100}",
+    "county_names_all": "Brazoria",
+    "county_fips_all": "48039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

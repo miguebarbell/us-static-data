@@ -1,0 +1,20 @@
+{
+    "zip": 22946,
+    "lat": 37.84789,
+    "lng": -78.56053,
+    "city": "Keene",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 148.0,
+    "density": 30.4,
+    "county_fips": 51003,
+    "county_name": "Albemarle",
+    "county_weights": "{\"51003\": 100}",
+    "county_names_all": "Albemarle",
+    "county_fips_all": "51003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

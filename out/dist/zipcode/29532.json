@@ -1,0 +1,20 @@
+{
+    "zip": 29532,
+    "lat": 34.28421,
+    "lng": -79.85119,
+    "city": "Darlington",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20272.0,
+    "density": 68.2,
+    "county_fips": 45031,
+    "county_name": "Darlington",
+    "county_weights": "{\"45031\": 100}",
+    "county_names_all": "Darlington",
+    "county_fips_all": "45031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

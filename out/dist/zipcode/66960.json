@@ -1,0 +1,20 @@
+{
+    "zip": 66960,
+    "lat": 39.93042,
+    "lng": -97.42134,
+    "city": "Narka",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 125.0,
+    "density": 0.8,
+    "county_fips": 20157,
+    "county_name": "Republic",
+    "county_weights": "{\"20157\": 95.46, \"20201\": 4.54}",
+    "county_names_all": "Republic|Washington",
+    "county_fips_all": "20157|20201",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

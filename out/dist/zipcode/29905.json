@@ -1,0 +1,20 @@
+{
+    "zip": 29905,
+    "lat": 32.35383,
+    "lng": -80.69537,
+    "city": "Parris Island",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1409.0,
+    "density": 192.0,
+    "county_fips": 45013,
+    "county_name": "Beaufort",
+    "county_weights": "{\"45013\": 100}",
+    "county_names_all": "Beaufort",
+    "county_fips_all": "45013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 86320,
+    "lat": 35.36745,
+    "lng": -112.63995,
+    "city": "Ash Fork",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2482.0,
+    "density": 1.2,
+    "county_fips": 4005,
+    "county_name": "Coconino",
+    "county_weights": "{\"04005\": 70.43, \"04025\": 29.57}",
+    "county_names_all": "Coconino|Yavapai",
+    "county_fips_all": "04005|04025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

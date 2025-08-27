@@ -1,0 +1,20 @@
+{
+    "zip": 5478,
+    "lat": 44.7941,
+    "lng": -73.11714,
+    "city": "Saint Albans",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16016.0,
+    "density": 104.3,
+    "county_fips": 50011,
+    "county_name": "Franklin",
+    "county_weights": "{\"50011\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "50011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 99508,
+    "lat": 61.20145,
+    "lng": -149.8146,
+    "city": "Anchorage",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36660.0,
+    "density": 1981.1,
+    "county_fips": 2020,
+    "county_name": "Anchorage",
+    "county_weights": "{\"02020\": 100}",
+    "county_names_all": "Anchorage",
+    "county_fips_all": "02020",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

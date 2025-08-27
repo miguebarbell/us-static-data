@@ -1,0 +1,20 @@
+{
+    "zip": 52647,
+    "lat": 41.1342,
+    "lng": -91.54506,
+    "city": "Olds",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 75.0,
+    "density": 101.8,
+    "county_fips": 19087,
+    "county_name": "Henry",
+    "county_weights": "{\"19087\": 100}",
+    "county_names_all": "Henry",
+    "county_fips_all": "19087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 98563,
+    "lat": 47.2064,
+    "lng": -123.60824,
+    "city": "Montesano",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7630.0,
+    "density": 7.1,
+    "county_fips": 53027,
+    "county_name": "Grays Harbor",
+    "county_weights": "{\"53027\": 99.9, \"53045\": 0.1}",
+    "county_names_all": "Grays Harbor|Mason",
+    "county_fips_all": "53027|53045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 772,
+    "lat": 18.43048,
+    "lng": -65.90377,
+    "city": "Loiza",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16961.0,
+    "density": 400.7,
+    "county_fips": 72087,
+    "county_name": "Lo\u00edza",
+    "county_weights": "{\"72087\": 100}",
+    "county_names_all": "Lo\u00edza",
+    "county_fips_all": "72087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 64499,
+    "lat": 40.39707,
+    "lng": -94.41521,
+    "city": "Worth",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 139.0,
+    "density": 2.0,
+    "county_fips": 29227,
+    "county_name": "Worth",
+    "county_weights": "{\"29227\": 70.19, \"29075\": 29.81}",
+    "county_names_all": "Worth|Gentry",
+    "county_fips_all": "29227|29075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

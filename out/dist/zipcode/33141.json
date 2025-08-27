@@ -1,0 +1,20 @@
+{
+    "zip": 33141,
+    "lat": 25.85116,
+    "lng": -80.14147,
+    "city": "Miami Beach",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36016.0,
+    "density": 6019.6,
+    "county_fips": 12086,
+    "county_name": "Miami-Dade",
+    "county_weights": "{\"12086\": 100}",
+    "county_names_all": "Miami-Dade",
+    "county_fips_all": "12086",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

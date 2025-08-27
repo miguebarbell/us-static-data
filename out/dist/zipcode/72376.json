@@ -1,0 +1,20 @@
+{
+    "zip": 72376,
+    "lat": 35.0883,
+    "lng": -90.30625,
+    "city": "Proctor",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1594.0,
+    "density": 7.3,
+    "county_fips": 5035,
+    "county_name": "Crittenden",
+    "county_weights": "{\"05035\": 97.01, \"05123\": 2.99}",
+    "county_names_all": "Crittenden|St. Francis",
+    "county_fips_all": "05035|05123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

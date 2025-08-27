@@ -1,0 +1,20 @@
+{
+    "zip": 27570,
+    "lat": 36.43861,
+    "lng": -78.23662,
+    "city": "Ridgeway",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 37185,
+    "county_name": "Warren",
+    "county_weights": "{\"37185\": 100}",
+    "county_names_all": "Warren",
+    "county_fips_all": "37185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

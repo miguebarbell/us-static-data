@@ -1,0 +1,20 @@
+{
+    "zip": 46987,
+    "lat": 40.56847,
+    "lng": -85.76722,
+    "city": "Sweetser",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1109.0,
+    "density": 478.8,
+    "county_fips": 18053,
+    "county_name": "Grant",
+    "county_weights": "{\"18053\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "18053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

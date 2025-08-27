@@ -1,0 +1,20 @@
+{
+    "zip": 23651,
+    "lat": 37.0099,
+    "lng": -76.30451,
+    "city": "Fort Monroe",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 415.0,
+    "density": 204.1,
+    "county_fips": 51650,
+    "county_name": "Hampton",
+    "county_weights": "{\"51650\": 100}",
+    "county_names_all": "Hampton",
+    "county_fips_all": "51650",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

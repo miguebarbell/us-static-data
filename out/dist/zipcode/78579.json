@@ -1,0 +1,20 @@
+{
+    "zip": 78579,
+    "lat": 26.0892,
+    "lng": -97.94627,
+    "city": "Progreso",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2548.0,
+    "density": 172.8,
+    "county_fips": 48215,
+    "county_name": "Hidalgo",
+    "county_weights": "{\"48215\": 100}",
+    "county_names_all": "Hidalgo",
+    "county_fips_all": "48215",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

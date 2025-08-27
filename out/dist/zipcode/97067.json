@@ -1,0 +1,20 @@
+{
+    "zip": 97067,
+    "lat": 45.31302,
+    "lng": -121.97733,
+    "city": "Welches",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2285.0,
+    "density": 38.8,
+    "county_fips": 41005,
+    "county_name": "Clackamas",
+    "county_weights": "{\"41005\": 100}",
+    "county_names_all": "Clackamas",
+    "county_fips_all": "41005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

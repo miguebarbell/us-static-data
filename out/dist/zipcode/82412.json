@@ -1,0 +1,20 @@
+{
+    "zip": 82412,
+    "lat": 44.79014,
+    "lng": -108.55286,
+    "city": "Byron",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 571.0,
+    "density": 16.6,
+    "county_fips": 56003,
+    "county_name": "Big Horn",
+    "county_weights": "{\"56003\": 99.86, \"56029\": 0.14}",
+    "county_names_all": "Big Horn|Park",
+    "county_fips_all": "56003|56029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

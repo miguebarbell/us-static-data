@@ -1,0 +1,20 @@
+{
+    "zip": 93623,
+    "lat": 37.47478,
+    "lng": -119.66071,
+    "city": "Fish Camp",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4.0,
+    "density": 0.1,
+    "county_fips": 6043,
+    "county_name": "Mariposa",
+    "county_weights": "{\"06043\": 96.0, \"06039\": 4.0}",
+    "county_names_all": "Mariposa|Madera",
+    "county_fips_all": "06043|06039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

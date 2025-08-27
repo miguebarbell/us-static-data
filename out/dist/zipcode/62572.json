@@ -1,0 +1,20 @@
+{
+    "zip": 62572,
+    "lat": 39.35908,
+    "lng": -89.69778,
+    "city": "Waggoner",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 486.0,
+    "density": 4.7,
+    "county_fips": 17135,
+    "county_name": "Montgomery",
+    "county_weights": "{\"17135\": 50.91, \"17117\": 49.09}",
+    "county_names_all": "Montgomery|Macoupin",
+    "county_fips_all": "17135|17117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

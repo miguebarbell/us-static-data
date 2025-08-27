@@ -1,0 +1,20 @@
+{
+    "zip": 37843,
+    "lat": 36.01137,
+    "lng": -83.04979,
+    "city": "Parrottsville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4385.0,
+    "density": 32.1,
+    "county_fips": 47029,
+    "county_name": "Cocke",
+    "county_weights": "{\"47029\": 100}",
+    "county_names_all": "Cocke",
+    "county_fips_all": "47029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

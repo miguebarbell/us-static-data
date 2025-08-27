@@ -1,0 +1,20 @@
+{
+    "zip": 24089,
+    "lat": 36.70392,
+    "lng": -79.96078,
+    "city": "Fieldale",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2074.0,
+    "density": 64.9,
+    "county_fips": 51089,
+    "county_name": "Henry",
+    "county_weights": "{\"51089\": 100}",
+    "county_names_all": "Henry",
+    "county_fips_all": "51089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

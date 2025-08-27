@@ -1,0 +1,20 @@
+{
+    "zip": 37357,
+    "lat": 35.59454,
+    "lng": -85.92003,
+    "city": "Morrison",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5751.0,
+    "density": 16.5,
+    "county_fips": 47177,
+    "county_name": "Warren",
+    "county_weights": "{\"47177\": 54.31, \"47031\": 28.61, \"47061\": 10.4, \"47015\": 6.68}",
+    "county_names_all": "Warren|Coffee|Grundy|Cannon",
+    "county_fips_all": "47177|47031|47061|47015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

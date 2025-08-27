@@ -1,0 +1,20 @@
+{
+    "zip": 33570,
+    "lat": 27.69354,
+    "lng": -82.45861,
+    "city": "Ruskin",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33676.0,
+    "density": 310.9,
+    "county_fips": 12057,
+    "county_name": "Hillsborough",
+    "county_weights": "{\"12057\": 100}",
+    "county_names_all": "Hillsborough",
+    "county_fips_all": "12057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

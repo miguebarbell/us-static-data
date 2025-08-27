@@ -1,0 +1,20 @@
+{
+    "zip": 56661,
+    "lat": 47.84302,
+    "lng": -94.13856,
+    "city": "Northome",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 911.0,
+    "density": 0.9,
+    "county_fips": 27071,
+    "county_name": "Koochiching",
+    "county_weights": "{\"27071\": 49.63, \"27061\": 43.96, \"27007\": 6.41}",
+    "county_names_all": "Koochiching|Itasca|Beltrami",
+    "county_fips_all": "27071|27061|27007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

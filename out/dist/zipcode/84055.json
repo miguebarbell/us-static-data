@@ -1,0 +1,20 @@
+{
+    "zip": 84055,
+    "lat": 40.71889,
+    "lng": -111.16106,
+    "city": "Oakley",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1805.0,
+    "density": 5.5,
+    "county_fips": 49043,
+    "county_name": "Summit",
+    "county_weights": "{\"49043\": 100}",
+    "county_names_all": "Summit",
+    "county_fips_all": "49043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

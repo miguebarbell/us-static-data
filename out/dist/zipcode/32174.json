@@ -1,0 +1,20 @@
+{
+    "zip": 32174,
+    "lat": 29.28928,
+    "lng": -81.16446,
+    "city": "Ormond Beach",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 53087.0,
+    "density": 163.5,
+    "county_fips": 12127,
+    "county_name": "Volusia",
+    "county_weights": "{\"12127\": 71.82, \"12035\": 28.18}",
+    "county_names_all": "Volusia|Flagler",
+    "county_fips_all": "12127|12035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

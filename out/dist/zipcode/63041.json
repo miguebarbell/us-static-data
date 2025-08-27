@@ -1,0 +1,20 @@
+{
+    "zip": 63041,
+    "lat": 38.2522,
+    "lng": -90.79059,
+    "city": "Grubville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 306.0,
+    "density": 9.1,
+    "county_fips": 29071,
+    "county_name": "Franklin",
+    "county_weights": "{\"29071\": 97.45, \"29099\": 2.55}",
+    "county_names_all": "Franklin|Jefferson",
+    "county_fips_all": "29071|29099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

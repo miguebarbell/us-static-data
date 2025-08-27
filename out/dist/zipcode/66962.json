@@ -1,0 +1,20 @@
+{
+    "zip": 66962,
+    "lat": 39.59928,
+    "lng": -97.12547,
+    "city": "Palmer",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 223.0,
+    "density": 1.6,
+    "county_fips": 20201,
+    "county_name": "Washington",
+    "county_weights": "{\"20201\": 78.41, \"20027\": 21.59}",
+    "county_names_all": "Washington|Clay",
+    "county_fips_all": "20201|20027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

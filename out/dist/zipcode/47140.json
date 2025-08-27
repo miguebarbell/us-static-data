@@ -1,0 +1,20 @@
+{
+    "zip": 47140,
+    "lat": 38.38063,
+    "lng": -86.36892,
+    "city": "Marengo",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2458.0,
+    "density": 21.3,
+    "county_fips": 18025,
+    "county_name": "Crawford",
+    "county_weights": "{\"18025\": 58.59, \"18117\": 41.41}",
+    "county_names_all": "Crawford|Orange",
+    "county_fips_all": "18025|18117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Marengo"
+}

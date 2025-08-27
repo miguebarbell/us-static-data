@@ -1,0 +1,20 @@
+{
+    "zip": 24141,
+    "lat": 37.10105,
+    "lng": -80.56677,
+    "city": "Radford",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21378.0,
+    "density": 125.9,
+    "county_fips": 51155,
+    "county_name": "Pulaski",
+    "county_weights": "{\"51155\": 48.7, \"51121\": 29.82, \"51750\": 14.32, \"51063\": 7.15}",
+    "county_names_all": "Pulaski|Montgomery|Radford|Floyd",
+    "county_fips_all": "51155|51121|51750|51063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

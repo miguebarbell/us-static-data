@@ -1,0 +1,20 @@
+{
+    "zip": 95601,
+    "lat": 38.42713,
+    "lng": -120.82997,
+    "city": "Amador City",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 358.0,
+    "density": 67.0,
+    "county_fips": 6005,
+    "county_name": "Amador",
+    "county_weights": "{\"06005\": 100}",
+    "county_names_all": "Amador",
+    "county_fips_all": "06005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

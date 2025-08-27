@@ -1,0 +1,20 @@
+{
+    "zip": 68640,
+    "lat": 41.46111,
+    "lng": -97.77237,
+    "city": "Genoa",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1045.0,
+    "density": 3.2,
+    "county_fips": 31125,
+    "county_name": "Nance",
+    "county_weights": "{\"31125\": 75.59, \"31141\": 24.41}",
+    "county_names_all": "Nance|Platte",
+    "county_fips_all": "31125|31141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

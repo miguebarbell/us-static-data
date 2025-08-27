@@ -1,0 +1,20 @@
+{
+    "zip": 26404,
+    "lat": 39.34636,
+    "lng": -80.30996,
+    "city": "Meadowbrook",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 101.0,
+    "density": 30.9,
+    "county_fips": 54033,
+    "county_name": "Harrison",
+    "county_weights": "{\"54033\": 100}",
+    "county_names_all": "Harrison",
+    "county_fips_all": "54033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

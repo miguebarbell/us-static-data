@@ -1,0 +1,20 @@
+{
+    "zip": 21643,
+    "lat": 38.6442,
+    "lng": -75.87124,
+    "city": "Hurlock",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5176.0,
+    "density": 43.3,
+    "county_fips": 24019,
+    "county_name": "Dorchester",
+    "county_weights": "{\"24019\": 100}",
+    "county_names_all": "Dorchester",
+    "county_fips_all": "24019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

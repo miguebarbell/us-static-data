@@ -1,0 +1,20 @@
+{
+    "zip": 49686,
+    "lat": 44.82841,
+    "lng": -85.53597,
+    "city": "Traverse City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25181.0,
+    "density": 205.5,
+    "county_fips": 26055,
+    "county_name": "Grand Traverse",
+    "county_weights": "{\"26055\": 100}",
+    "county_names_all": "Grand Traverse",
+    "county_fips_all": "26055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

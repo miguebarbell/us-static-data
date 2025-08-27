@@ -1,0 +1,20 @@
+{
+    "zip": 12812,
+    "lat": 43.85731,
+    "lng": -74.41213,
+    "city": "Blue Mountain Lake",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 265.0,
+    "density": 1.2,
+    "county_fips": 36041,
+    "county_name": "Hamilton",
+    "county_weights": "{\"36041\": 100}",
+    "county_names_all": "Hamilton",
+    "county_fips_all": "36041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

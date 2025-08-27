@@ -1,0 +1,20 @@
+{
+    "zip": 59537,
+    "lat": 48.84762,
+    "lng": -107.93725,
+    "city": "Loring",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41.0,
+    "density": 0.0,
+    "county_fips": 30071,
+    "county_name": "Phillips",
+    "county_weights": "{\"30071\": 100}",
+    "county_names_all": "Phillips",
+    "county_fips_all": "30071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

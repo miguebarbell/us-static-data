@@ -1,0 +1,20 @@
+{
+    "zip": 27281,
+    "lat": 35.18538,
+    "lng": -79.62689,
+    "city": "Jackson Springs",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3290.0,
+    "density": 18.6,
+    "county_fips": 37125,
+    "county_name": "Moore",
+    "county_weights": "{\"37125\": 58.76, \"37123\": 28.99, \"37153\": 12.25}",
+    "county_names_all": "Moore|Montgomery|Richmond",
+    "county_fips_all": "37125|37123|37153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

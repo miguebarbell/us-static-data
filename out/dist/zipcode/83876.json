@@ -1,0 +1,20 @@
+{
+    "zip": 83876,
+    "lat": 47.44842,
+    "lng": -116.93161,
+    "city": "Worley",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1467.0,
+    "density": 4.7,
+    "county_fips": 16055,
+    "county_name": "Kootenai",
+    "county_weights": "{\"16055\": 100}",
+    "county_names_all": "Kootenai",
+    "county_fips_all": "16055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

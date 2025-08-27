@@ -1,0 +1,20 @@
+{
+    "zip": 76066,
+    "lat": 32.7058,
+    "lng": -97.99913,
+    "city": "Millsap",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5615.0,
+    "density": 24.6,
+    "county_fips": 48367,
+    "county_name": "Parker",
+    "county_weights": "{\"48367\": 97.61, \"48363\": 2.39}",
+    "county_names_all": "Parker|Palo Pinto",
+    "county_fips_all": "48367|48363",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

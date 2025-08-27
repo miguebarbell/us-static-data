@@ -1,0 +1,20 @@
+{
+    "zip": 70002,
+    "lat": 30.0102,
+    "lng": -90.16241,
+    "city": "Metairie",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19240.0,
+    "density": 2302.6,
+    "county_fips": 22051,
+    "county_name": "Jefferson",
+    "county_weights": "{\"22051\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "22051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

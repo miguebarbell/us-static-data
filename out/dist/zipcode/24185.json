@@ -1,0 +1,20 @@
+{
+    "zip": 24185,
+    "lat": 36.80868,
+    "lng": -80.27557,
+    "city": "Woolwine",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 770.0,
+    "density": 8.4,
+    "county_fips": 51141,
+    "county_name": "Patrick",
+    "county_weights": "{\"51141\": 100}",
+    "county_names_all": "Patrick",
+    "county_fips_all": "51141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

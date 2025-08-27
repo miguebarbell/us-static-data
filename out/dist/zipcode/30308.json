@@ -1,0 +1,20 @@
+{
+    "zip": 30308,
+    "lat": 33.77094,
+    "lng": -84.37773,
+    "city": "Atlanta",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23329.0,
+    "density": 5638.0,
+    "county_fips": 13121,
+    "county_name": "Fulton",
+    "county_weights": "{\"13121\": 100}",
+    "county_names_all": "Fulton",
+    "county_fips_all": "13121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

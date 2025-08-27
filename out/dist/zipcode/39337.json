@@ -1,0 +1,20 @@
+{
+    "zip": 39337,
+    "lat": 32.51447,
+    "lng": -88.98528,
+    "city": "Little Rock",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1562.0,
+    "density": 9.0,
+    "county_fips": 28101,
+    "county_name": "Newton",
+    "county_weights": "{\"28101\": 94.14, \"28099\": 5.86}",
+    "county_names_all": "Newton|Neshoba",
+    "county_fips_all": "28101|28099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

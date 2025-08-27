@@ -1,0 +1,20 @@
+{
+    "zip": 4955,
+    "lat": 44.63998,
+    "lng": -70.00799,
+    "city": "New Sharon",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1622.0,
+    "density": 13.9,
+    "county_fips": 23007,
+    "county_name": "Franklin",
+    "county_weights": "{\"23007\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "23007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

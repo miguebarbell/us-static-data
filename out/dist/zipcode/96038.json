@@ -1,0 +1,20 @@
+{
+    "zip": 96038,
+    "lat": 41.60827,
+    "lng": -122.54576,
+    "city": "Grenada",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 399.0,
+    "density": 8.4,
+    "county_fips": 6093,
+    "county_name": "Siskiyou",
+    "county_weights": "{\"06093\": 100}",
+    "county_names_all": "Siskiyou",
+    "county_fips_all": "06093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

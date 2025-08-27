@@ -1,0 +1,20 @@
+{
+    "zip": 28356,
+    "lat": 35.23092,
+    "lng": -78.79113,
+    "city": "Linden",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5747.0,
+    "density": 40.1,
+    "county_fips": 37051,
+    "county_name": "Cumberland",
+    "county_weights": "{\"37051\": 79.41, \"37085\": 20.59}",
+    "county_names_all": "Cumberland|Harnett",
+    "county_fips_all": "37051|37085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

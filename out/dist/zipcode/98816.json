@@ -1,0 +1,20 @@
+{
+    "zip": 98816,
+    "lat": 48.0229,
+    "lng": -120.34361,
+    "city": "Chelan",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7677.0,
+    "density": 6.0,
+    "county_fips": 53007,
+    "county_name": "Chelan",
+    "county_weights": "{\"53007\": 98.63, \"53047\": 1.37}",
+    "county_names_all": "Chelan|Okanogan",
+    "county_fips_all": "53007|53047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

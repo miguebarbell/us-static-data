@@ -1,0 +1,20 @@
+{
+    "zip": 99623,
+    "lat": 61.42919,
+    "lng": -149.91226,
+    "city": "Wasilla",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22786.0,
+    "density": 34.0,
+    "county_fips": 2170,
+    "county_name": "Matanuska-Susitna",
+    "county_weights": "{\"02170\": 100}",
+    "county_names_all": "Matanuska-Susitna",
+    "county_fips_all": "02170",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

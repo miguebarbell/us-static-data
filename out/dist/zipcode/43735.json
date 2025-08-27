@@ -1,0 +1,20 @@
+{
+    "zip": 43735,
+    "lat": 39.85437,
+    "lng": -82.11917,
+    "city": "East Fultonham",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 497.0,
+    "density": 277.2,
+    "county_fips": 39119,
+    "county_name": "Muskingum",
+    "county_weights": "{\"39119\": 100}",
+    "county_names_all": "Muskingum",
+    "county_fips_all": "39119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

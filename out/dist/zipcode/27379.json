@@ -1,0 +1,20 @@
+{
+    "zip": 27379,
+    "lat": 36.37653,
+    "lng": -79.34653,
+    "city": "Yanceyville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4143.0,
+    "density": 18.1,
+    "county_fips": 37033,
+    "county_name": "Caswell",
+    "county_weights": "{\"37033\": 100}",
+    "county_names_all": "Caswell",
+    "county_fips_all": "37033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 52640,
+    "lat": 41.09649,
+    "lng": -91.28205,
+    "city": "Morning Sun",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1201.0,
+    "density": 6.8,
+    "county_fips": 19115,
+    "county_name": "Louisa",
+    "county_weights": "{\"19115\": 66.6, \"19057\": 33.4}",
+    "county_names_all": "Louisa|Des Moines",
+    "county_fips_all": "19115|19057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

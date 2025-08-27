@@ -1,0 +1,20 @@
+{
+    "zip": 58225,
+    "lat": 48.61208,
+    "lng": -97.21753,
+    "city": "Drayton",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1146.0,
+    "density": 1.9,
+    "county_fips": 38067,
+    "county_name": "Pembina",
+    "county_weights": "{\"38067\": 65.71, \"38099\": 22.91, \"27069\": 11.38}",
+    "county_names_all": "Pembina|Walsh|Kittson",
+    "county_fips_all": "38067|38099|27069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 27374,
+    "lat": 35.91752,
+    "lng": -80.25777,
+    "city": "Welcome",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 235.0,
+    "density": 141.5,
+    "county_fips": 37057,
+    "county_name": "Davidson",
+    "county_weights": "{\"37057\": 100}",
+    "county_names_all": "Davidson",
+    "county_fips_all": "37057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

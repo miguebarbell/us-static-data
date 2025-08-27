@@ -1,0 +1,20 @@
+{
+    "zip": 38483,
+    "lat": 35.43411,
+    "lng": -87.33476,
+    "city": "Summertown",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7133.0,
+    "density": 27.2,
+    "county_fips": 47099,
+    "county_name": "Lawrence",
+    "county_weights": "{\"47099\": 56.77, \"47101\": 35.42, \"47055\": 7.17, \"47119\": 0.64}",
+    "county_names_all": "Lawrence|Lewis|Giles|Maury",
+    "county_fips_all": "47099|47101|47055|47119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

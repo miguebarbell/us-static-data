@@ -1,0 +1,20 @@
+{
+    "zip": 41224,
+    "lat": 37.82089,
+    "lng": -82.53936,
+    "city": "Inez",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4536.0,
+    "density": 20.9,
+    "county_fips": 21159,
+    "county_name": "Martin",
+    "county_weights": "{\"21159\": 100}",
+    "county_names_all": "Martin",
+    "county_fips_all": "21159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

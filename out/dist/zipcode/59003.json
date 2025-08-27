@@ -1,0 +1,20 @@
+{
+    "zip": 59003,
+    "lat": 45.48179,
+    "lng": -106.20153,
+    "city": "Ashland",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1266.0,
+    "density": 0.7,
+    "county_fips": 30075,
+    "county_name": "Powder River",
+    "county_weights": "{\"30075\": 61.44, \"30087\": 38.56}",
+    "county_names_all": "Powder River|Rosebud",
+    "county_fips_all": "30075|30087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

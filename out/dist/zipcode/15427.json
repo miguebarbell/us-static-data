@@ -1,0 +1,20 @@
+{
+    "zip": 15427,
+    "lat": 40.06742,
+    "lng": -79.97065,
+    "city": "Daisytown",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 856.0,
+    "density": 35.9,
+    "county_fips": 42125,
+    "county_name": "Washington",
+    "county_weights": "{\"42125\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "42125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

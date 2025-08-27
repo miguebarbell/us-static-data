@@ -1,0 +1,20 @@
+{
+    "zip": 30122,
+    "lat": 33.76329,
+    "lng": -84.6386,
+    "city": "Lithia Springs",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27081.0,
+    "density": 422.6,
+    "county_fips": 13097,
+    "county_name": "Douglas",
+    "county_weights": "{\"13097\": 99.38, \"13067\": 0.62}",
+    "county_names_all": "Douglas|Cobb",
+    "county_fips_all": "13097|13067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

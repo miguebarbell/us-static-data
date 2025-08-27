@@ -1,0 +1,20 @@
+{
+    "zip": 36345,
+    "lat": 31.3741,
+    "lng": -85.31,
+    "city": "Headland",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8838.0,
+    "density": 28.0,
+    "county_fips": 1067,
+    "county_name": "Henry",
+    "county_weights": "{\"01067\": 83.77, \"01069\": 9.94, \"01045\": 6.29}",
+    "county_names_all": "Henry|Houston|Dale",
+    "county_fips_all": "01067|01069|01045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

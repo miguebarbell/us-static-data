@@ -1,0 +1,20 @@
+{
+    "zip": 17844,
+    "lat": 40.95904,
+    "lng": -77.08747,
+    "city": "Mifflinburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10374.0,
+    "density": 37.6,
+    "county_fips": 42119,
+    "county_name": "Union",
+    "county_weights": "{\"42119\": 100}",
+    "county_names_all": "Union",
+    "county_fips_all": "42119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

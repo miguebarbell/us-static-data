@@ -1,0 +1,20 @@
+{
+    "zip": 79345,
+    "lat": 33.33611,
+    "lng": -102.32789,
+    "city": "Meadow",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1085.0,
+    "density": 2.3,
+    "county_fips": 48445,
+    "county_name": "Terry",
+    "county_weights": "{\"48445\": 94.32, \"48305\": 5.68}",
+    "county_names_all": "Terry|Lynn",
+    "county_fips_all": "48445|48305",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 13436,
+    "lat": 43.80501,
+    "lng": -74.67034,
+    "city": "Raquette Lake",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 107.0,
+    "density": 1.3,
+    "county_fips": 36041,
+    "county_name": "Hamilton",
+    "county_weights": "{\"36041\": 100}",
+    "county_names_all": "Hamilton",
+    "county_fips_all": "36041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 84325,
+    "lat": 41.73869,
+    "lng": -111.99303,
+    "city": "Mendon",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2311.0,
+    "density": 20.8,
+    "county_fips": 49005,
+    "county_name": "Cache",
+    "county_weights": "{\"49005\": 100}",
+    "county_names_all": "Cache",
+    "county_fips_all": "49005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

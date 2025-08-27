@@ -1,0 +1,20 @@
+{
+    "zip": 13675,
+    "lat": 44.28227,
+    "lng": -75.83872,
+    "city": "Plessis",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 51.0,
+    "density": 13.1,
+    "county_fips": 36045,
+    "county_name": "Jefferson",
+    "county_weights": "{\"36045\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "36045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 63077,
+    "lat": 38.32648,
+    "lng": -90.98537,
+    "city": "Saint Clair",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11466.0,
+    "density": 50.5,
+    "county_fips": 29071,
+    "county_name": "Franklin",
+    "county_weights": "{\"29071\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "29071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

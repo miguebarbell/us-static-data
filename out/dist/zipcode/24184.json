@@ -1,0 +1,20 @@
+{
+    "zip": 24184,
+    "lat": 37.0881,
+    "lng": -79.77642,
+    "city": "Wirtz",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4530.0,
+    "density": 42.3,
+    "county_fips": 51067,
+    "county_name": "Franklin",
+    "county_weights": "{\"51067\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "51067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

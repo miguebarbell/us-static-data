@@ -1,0 +1,20 @@
+{
+    "zip": 19946,
+    "lat": 39.03224,
+    "lng": -75.45297,
+    "city": "Frederica",
+    "state_id": "DE",
+    "state_name": "Delaware",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5508.0,
+    "density": 92.2,
+    "county_fips": 10001,
+    "county_name": "Kent",
+    "county_weights": "{\"10001\": 100}",
+    "county_names_all": "Kent",
+    "county_fips_all": "10001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

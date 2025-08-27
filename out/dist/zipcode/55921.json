@@ -1,0 +1,20 @@
+{
+    "zip": 55921,
+    "lat": 43.62265,
+    "lng": -91.46388,
+    "city": "Caledonia",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4793.0,
+    "density": 10.6,
+    "county_fips": 27055,
+    "county_name": "Houston",
+    "county_weights": "{\"27055\": 100}",
+    "county_names_all": "Houston",
+    "county_fips_all": "27055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

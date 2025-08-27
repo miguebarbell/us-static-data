@@ -1,0 +1,20 @@
+{
+    "zip": 78880,
+    "lat": 29.96486,
+    "lng": -100.27779,
+    "city": "Rocksprings",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1164.0,
+    "density": 0.2,
+    "county_fips": 48137,
+    "county_name": "Edwards",
+    "county_weights": "{\"48137\": 97.17, \"48385\": 2.83}",
+    "county_names_all": "Edwards|Real",
+    "county_fips_all": "48137|48385",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

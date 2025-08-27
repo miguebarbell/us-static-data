@@ -1,0 +1,20 @@
+{
+    "zip": 70759,
+    "lat": 30.71346,
+    "lng": -91.58762,
+    "city": "Morganza",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 996.0,
+    "density": 16.0,
+    "county_fips": 22077,
+    "county_name": "Pointe Coupee",
+    "county_weights": "{\"22077\": 100}",
+    "county_names_all": "Pointe Coupee",
+    "county_fips_all": "22077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

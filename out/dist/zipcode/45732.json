@@ -1,0 +1,20 @@
+{
+    "zip": 45732,
+    "lat": 39.51802,
+    "lng": -82.06705,
+    "city": "Glouster",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4287.0,
+    "density": 20.8,
+    "county_fips": 39009,
+    "county_name": "Athens",
+    "county_weights": "{\"39009\": 47.66, \"39115\": 36.97, \"39127\": 15.37}",
+    "county_names_all": "Athens|Morgan|Perry",
+    "county_fips_all": "39009|39115|39127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

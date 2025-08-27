@@ -1,0 +1,20 @@
+{
+    "zip": 87828,
+    "lat": 34.20567,
+    "lng": -106.92056,
+    "city": "Polvadera",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 801.0,
+    "density": 91.8,
+    "county_fips": 35053,
+    "county_name": "Socorro",
+    "county_weights": "{\"35053\": 100}",
+    "county_names_all": "Socorro",
+    "county_fips_all": "35053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

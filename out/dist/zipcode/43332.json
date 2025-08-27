@@ -1,0 +1,20 @@
+{
+    "zip": 43332,
+    "lat": 40.58369,
+    "lng": -83.37769,
+    "city": "La Rue",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1762.0,
+    "density": 11.1,
+    "county_fips": 39101,
+    "county_name": "Marion",
+    "county_weights": "{\"39101\": 86.71, \"39065\": 9.42, \"39175\": 3.87}",
+    "county_names_all": "Marion|Hardin|Wyandot",
+    "county_fips_all": "39101|39065|39175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

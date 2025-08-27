@@ -1,0 +1,20 @@
+{
+    "zip": 24882,
+    "lat": 37.62771,
+    "lng": -81.76623,
+    "city": "Simon",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1119.0,
+    "density": 32.8,
+    "county_fips": 54109,
+    "county_name": "Wyoming",
+    "county_weights": "{\"54109\": 100}",
+    "county_names_all": "Wyoming",
+    "county_fips_all": "54109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

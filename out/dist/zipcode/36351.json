@@ -1,0 +1,20 @@
+{
+    "zip": 36351,
+    "lat": 31.41469,
+    "lng": -85.90596,
+    "city": "New Brockton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3926.0,
+    "density": 15.4,
+    "county_fips": 1031,
+    "county_name": "Coffee",
+    "county_weights": "{\"01031\": 100}",
+    "county_names_all": "Coffee",
+    "county_fips_all": "01031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43153,
+    "lat": 39.74071,
+    "lng": -83.56781,
+    "city": "South Solon",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1193.0,
+    "density": 8.9,
+    "county_fips": 39097,
+    "county_name": "Madison",
+    "county_weights": "{\"39097\": 74.81, \"39023\": 13.76, \"39047\": 9.04, \"39057\": 2.39}",
+    "county_names_all": "Madison|Clark|Fayette|Greene",
+    "county_fips_all": "39097|39023|39047|39057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

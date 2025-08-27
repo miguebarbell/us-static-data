@@ -1,0 +1,20 @@
+{
+    "zip": 38651,
+    "lat": 34.89172,
+    "lng": -90.00359,
+    "city": "Nesbit",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8491.0,
+    "density": 99.5,
+    "county_fips": 28033,
+    "county_name": "DeSoto",
+    "county_weights": "{\"28033\": 100}",
+    "county_names_all": "DeSoto",
+    "county_fips_all": "28033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

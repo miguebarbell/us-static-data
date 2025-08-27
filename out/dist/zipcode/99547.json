@@ -1,0 +1,20 @@
+{
+    "zip": 99547,
+    "lat": 52.22888,
+    "lng": -174.20613,
+    "city": "Atka",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26.0,
+    "density": 1.3,
+    "county_fips": 2016,
+    "county_name": "Aleutians West",
+    "county_weights": "{\"02016\": 100}",
+    "county_names_all": "Aleutians West",
+    "county_fips_all": "02016",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Adak"
+}

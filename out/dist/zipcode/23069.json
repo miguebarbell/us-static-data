@@ -1,0 +1,20 @@
+{
+    "zip": 23069,
+    "lat": 37.76924,
+    "lng": -77.32874,
+    "city": "Hanover",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3389.0,
+    "density": 18.9,
+    "county_fips": 51085,
+    "county_name": "Hanover",
+    "county_weights": "{\"51085\": 41.69, \"51101\": 35.39, \"51033\": 22.92}",
+    "county_names_all": "Hanover|King William|Caroline",
+    "county_fips_all": "51085|51101|51033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 95372,
+    "lat": 37.98927,
+    "lng": -120.26272,
+    "city": "Soulsbyville",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1825.0,
+    "density": 291.2,
+    "county_fips": 6109,
+    "county_name": "Tuolumne",
+    "county_weights": "{\"06109\": 100}",
+    "county_names_all": "Tuolumne",
+    "county_fips_all": "06109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

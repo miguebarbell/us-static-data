@@ -1,0 +1,20 @@
+{
+    "zip": 28168,
+    "lat": 35.55452,
+    "lng": -81.42228,
+    "city": "Vale",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10436.0,
+    "density": 46.3,
+    "county_fips": 37109,
+    "county_name": "Lincoln",
+    "county_weights": "{\"37109\": 59.21, \"37035\": 40.47, \"37023\": 0.22, \"37045\": 0.1}",
+    "county_names_all": "Lincoln|Catawba|Burke|Cleveland",
+    "county_fips_all": "37109|37035|37023|37045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

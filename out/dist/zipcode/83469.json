@@ -1,0 +1,20 @@
+{
+    "zip": 83469,
+    "lat": 45.1127,
+    "lng": -114.47772,
+    "city": "Shoup",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36.0,
+    "density": 0.0,
+    "county_fips": 16059,
+    "county_name": "Lemhi",
+    "county_weights": "{\"16059\": 100}",
+    "county_names_all": "Lemhi",
+    "county_fips_all": "16059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

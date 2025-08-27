@@ -1,0 +1,20 @@
+{
+    "zip": 46938,
+    "lat": 40.4482,
+    "lng": -85.64892,
+    "city": "Jonesboro",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2576.0,
+    "density": 32.0,
+    "county_fips": 18053,
+    "county_name": "Grant",
+    "county_weights": "{\"18053\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "18053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 17066,
+    "lat": 40.35885,
+    "lng": -77.85892,
+    "city": "Mount Union",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5131.0,
+    "density": 67.4,
+    "county_fips": 42061,
+    "county_name": "Huntingdon",
+    "county_weights": "{\"42061\": 81.49, \"42087\": 18.51}",
+    "county_names_all": "Huntingdon|Mifflin",
+    "county_fips_all": "42061|42087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 29145,
+    "lat": 34.21905,
+    "lng": -81.77453,
+    "city": "Silverstreet",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 641.0,
+    "density": 5.5,
+    "county_fips": 45071,
+    "county_name": "Newberry",
+    "county_weights": "{\"45071\": 100}",
+    "county_names_all": "Newberry",
+    "county_fips_all": "45071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 67659,
+    "lat": 39.31804,
+    "lng": -100.00496,
+    "city": "Penokee",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 70.0,
+    "density": 0.2,
+    "county_fips": 20065,
+    "county_name": "Graham",
+    "county_weights": "{\"20065\": 100}",
+    "county_names_all": "Graham",
+    "county_fips_all": "20065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

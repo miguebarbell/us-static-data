@@ -1,0 +1,20 @@
+{
+    "zip": 75948,
+    "lat": 31.29389,
+    "lng": -93.77573,
+    "city": "Hemphill",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5218.0,
+    "density": 8.8,
+    "county_fips": 48403,
+    "county_name": "Sabine",
+    "county_weights": "{\"48403\": 96.85, \"48351\": 3.15}",
+    "county_names_all": "Sabine|Newton",
+    "county_fips_all": "48403|48351",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

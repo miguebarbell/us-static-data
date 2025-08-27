@@ -1,0 +1,20 @@
+{
+    "zip": 82060,
+    "lat": 41.22526,
+    "lng": -104.51505,
+    "city": "Hillsdale",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 384.0,
+    "density": 3.6,
+    "county_fips": 56021,
+    "county_name": "Laramie",
+    "county_weights": "{\"56021\": 100}",
+    "county_names_all": "Laramie",
+    "county_fips_all": "56021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

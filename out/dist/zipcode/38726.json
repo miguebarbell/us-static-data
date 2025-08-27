@@ -1,0 +1,20 @@
+{
+    "zip": 38726,
+    "lat": 33.75207,
+    "lng": -90.97664,
+    "city": "Beulah",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 310.0,
+    "density": 2.2,
+    "county_fips": 28011,
+    "county_name": "Bolivar",
+    "county_weights": "{\"28011\": 100}",
+    "county_names_all": "Bolivar",
+    "county_fips_all": "28011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

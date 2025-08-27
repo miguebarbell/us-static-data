@@ -1,0 +1,20 @@
+{
+    "zip": 59936,
+    "lat": 48.17178,
+    "lng": -113.46357,
+    "city": "West Glacier",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 679.0,
+    "density": 0.2,
+    "county_fips": 30029,
+    "county_name": "Flathead",
+    "county_weights": "{\"30029\": 100}",
+    "county_names_all": "Flathead",
+    "county_fips_all": "30029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

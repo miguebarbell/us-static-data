@@ -1,0 +1,20 @@
+{
+    "zip": 63102,
+    "lat": 38.63453,
+    "lng": -90.18627,
+    "city": "Saint Louis",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3004.0,
+    "density": 819.1,
+    "county_fips": 29510,
+    "county_name": "St. Louis",
+    "county_weights": "{\"29510\": 100}",
+    "county_names_all": "St. Louis",
+    "county_fips_all": "29510",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 14145,
+    "lat": 42.73154,
+    "lng": -78.43205,
+    "city": "Strykersville",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1275.0,
+    "density": 18.7,
+    "county_fips": 36121,
+    "county_name": "Wyoming",
+    "county_weights": "{\"36121\": 91.43, \"36029\": 8.57}",
+    "county_names_all": "Wyoming|Erie",
+    "county_fips_all": "36121|36029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

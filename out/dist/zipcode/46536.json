@@ -1,0 +1,20 @@
+{
+    "zip": 46536,
+    "lat": 41.51913,
+    "lng": -86.2867,
+    "city": "Lakeville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3086.0,
+    "density": 40.7,
+    "county_fips": 18141,
+    "county_name": "St. Joseph",
+    "county_weights": "{\"18141\": 91.45, \"18099\": 8.55}",
+    "county_names_all": "St. Joseph|Marshall",
+    "county_fips_all": "18141|18099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

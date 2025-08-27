@@ -1,0 +1,20 @@
+{
+    "zip": 44408,
+    "lat": 40.88487,
+    "lng": -80.68569,
+    "city": "Columbiana",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10924.0,
+    "density": 118.4,
+    "county_fips": 39029,
+    "county_name": "Columbiana",
+    "county_weights": "{\"39029\": 62.87, \"39099\": 37.13}",
+    "county_names_all": "Columbiana|Mahoning",
+    "county_fips_all": "39029|39099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

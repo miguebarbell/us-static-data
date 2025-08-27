@@ -1,0 +1,20 @@
+{
+    "zip": 38801,
+    "lat": 34.22256,
+    "lng": -88.7762,
+    "city": "Tupelo",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29817.0,
+    "density": 157.7,
+    "county_fips": 28081,
+    "county_name": "Lee",
+    "county_weights": "{\"28081\": 82.64, \"28115\": 17.36}",
+    "county_names_all": "Lee|Pontotoc",
+    "county_fips_all": "28081|28115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

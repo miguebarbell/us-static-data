@@ -1,0 +1,20 @@
+{
+    "zip": 7069,
+    "lat": 40.64249,
+    "lng": -74.4396,
+    "city": "Watchung",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6545.0,
+    "density": 399.2,
+    "county_fips": 34035,
+    "county_name": "Somerset",
+    "county_weights": "{\"34035\": 99.8, \"34039\": 0.2}",
+    "county_names_all": "Somerset|Union",
+    "county_fips_all": "34035|34039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

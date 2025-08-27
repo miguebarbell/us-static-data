@@ -1,0 +1,20 @@
+{
+    "zip": 73742,
+    "lat": 36.09632,
+    "lng": -97.91907,
+    "city": "Hennessey",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3808.0,
+    "density": 6.7,
+    "county_fips": 40073,
+    "county_name": "Kingfisher",
+    "county_weights": "{\"40073\": 100}",
+    "county_names_all": "Kingfisher",
+    "county_fips_all": "40073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

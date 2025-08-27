@@ -1,0 +1,20 @@
+{
+    "zip": 63565,
+    "lat": 40.48263,
+    "lng": -92.95447,
+    "city": "Unionville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3975.0,
+    "density": 5.6,
+    "county_fips": 29171,
+    "county_name": "Putnam",
+    "county_weights": "{\"29171\": 98.28, \"29211\": 1.72}",
+    "county_names_all": "Putnam|Sullivan",
+    "county_fips_all": "29171|29211",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

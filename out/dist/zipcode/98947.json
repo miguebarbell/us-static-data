@@ -1,0 +1,20 @@
+{
+    "zip": 98947,
+    "lat": 46.68759,
+    "lng": -120.80916,
+    "city": "Tieton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3146.0,
+    "density": 26.5,
+    "county_fips": 53077,
+    "county_name": "Yakima",
+    "county_weights": "{\"53077\": 100}",
+    "county_names_all": "Yakima",
+    "county_fips_all": "53077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

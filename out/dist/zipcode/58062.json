@@ -1,0 +1,20 @@
+{
+    "zip": 58062,
+    "lat": 46.64361,
+    "lng": -97.82937,
+    "city": "Nome",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 104.0,
+    "density": 0.8,
+    "county_fips": 38003,
+    "county_name": "Barnes",
+    "county_weights": "{\"38003\": 58.86, \"38073\": 41.14}",
+    "county_names_all": "Barnes|Ransom",
+    "county_fips_all": "38003|38073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

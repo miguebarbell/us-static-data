@@ -1,0 +1,20 @@
+{
+    "zip": 76856,
+    "lat": 30.70296,
+    "lng": -99.26668,
+    "city": "Mason",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3525.0,
+    "density": 2.0,
+    "county_fips": 48319,
+    "county_name": "Mason",
+    "county_weights": "{\"48319\": 100}",
+    "county_names_all": "Mason",
+    "county_fips_all": "48319",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

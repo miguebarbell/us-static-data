@@ -1,0 +1,20 @@
+{
+    "zip": 98564,
+    "lat": 46.45666,
+    "lng": -122.43627,
+    "city": "Mossyrock",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3205.0,
+    "density": 8.6,
+    "county_fips": 53041,
+    "county_name": "Lewis",
+    "county_weights": "{\"53041\": 100}",
+    "county_names_all": "Lewis",
+    "county_fips_all": "53041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

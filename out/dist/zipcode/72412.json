@@ -1,0 +1,20 @@
+{
+    "zip": 72412,
+    "lat": 36.12572,
+    "lng": -90.69172,
+    "city": "Beech Grove",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 449.0,
+    "density": 2.9,
+    "county_fips": 5055,
+    "county_name": "Greene",
+    "county_weights": "{\"05055\": 100}",
+    "county_names_all": "Greene",
+    "county_fips_all": "05055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

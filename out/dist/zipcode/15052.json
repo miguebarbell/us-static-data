@@ -1,0 +1,20 @@
+{
+    "zip": 15052,
+    "lat": 40.6669,
+    "lng": -80.43318,
+    "city": "Industry",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2905.0,
+    "density": 58.8,
+    "county_fips": 42007,
+    "county_name": "Beaver",
+    "county_weights": "{\"42007\": 100}",
+    "county_names_all": "Beaver",
+    "county_fips_all": "42007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

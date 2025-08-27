@@ -1,0 +1,20 @@
+{
+    "zip": 97050,
+    "lat": 45.68256,
+    "lng": -120.7727,
+    "city": "Rufus",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 225.0,
+    "density": 10.6,
+    "county_fips": 41055,
+    "county_name": "Sherman",
+    "county_weights": "{\"41055\": 100}",
+    "county_names_all": "Sherman",
+    "county_fips_all": "41055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

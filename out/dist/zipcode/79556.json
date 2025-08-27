@@ -1,0 +1,20 @@
+{
+    "zip": 79556,
+    "lat": 32.48451,
+    "lng": -100.39263,
+    "city": "Sweetwater",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12593.0,
+    "density": 12.9,
+    "county_fips": 48353,
+    "county_name": "Nolan",
+    "county_weights": "{\"48353\": 58.4, \"48151\": 41.6}",
+    "county_names_all": "Nolan|Fisher",
+    "county_fips_all": "48353|48151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

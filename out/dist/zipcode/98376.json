@@ -1,0 +1,20 @@
+{
+    "zip": 98376,
+    "lat": 47.8455,
+    "lng": -122.85916,
+    "city": "Quilcene",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2018.0,
+    "density": 7.0,
+    "county_fips": 53031,
+    "county_name": "Jefferson",
+    "county_weights": "{\"53031\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "53031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

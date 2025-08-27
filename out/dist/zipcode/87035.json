@@ -1,0 +1,20 @@
+{
+    "zip": 87035,
+    "lat": 34.95116,
+    "lng": -105.90273,
+    "city": "Moriarty",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6847.0,
+    "density": 7.7,
+    "county_fips": 35057,
+    "county_name": "Torrance",
+    "county_weights": "{\"35057\": 96.93, \"35049\": 3.07}",
+    "county_names_all": "Torrance|Santa Fe",
+    "county_fips_all": "35057|35049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

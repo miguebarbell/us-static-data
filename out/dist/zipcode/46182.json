@@ -1,0 +1,20 @@
+{
+    "zip": 46182,
+    "lat": 39.46157,
+    "lng": -85.67005,
+    "city": "Waldron",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1670.0,
+    "density": 18.0,
+    "county_fips": 18145,
+    "county_name": "Shelby",
+    "county_weights": "{\"18145\": 82.07, \"18139\": 17.93}",
+    "county_names_all": "Shelby|Rush",
+    "county_fips_all": "18145|18139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

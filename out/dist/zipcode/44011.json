@@ -1,0 +1,20 @@
+{
+    "zip": 44011,
+    "lat": 41.44855,
+    "lng": -82.0187,
+    "city": "Avon",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25082.0,
+    "density": 465.9,
+    "county_fips": 39093,
+    "county_name": "Lorain",
+    "county_weights": "{\"39093\": 100}",
+    "county_names_all": "Lorain",
+    "county_fips_all": "39093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

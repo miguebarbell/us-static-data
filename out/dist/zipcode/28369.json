@@ -1,0 +1,20 @@
+{
+    "zip": 28369,
+    "lat": 34.42184,
+    "lng": -79.02901,
+    "city": "Orrum",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1781.0,
+    "density": 9.2,
+    "county_fips": 37155,
+    "county_name": "Robeson",
+    "county_weights": "{\"37155\": 100}",
+    "county_names_all": "Robeson",
+    "county_fips_all": "37155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

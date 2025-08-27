@@ -1,0 +1,20 @@
+{
+    "zip": 70575,
+    "lat": 29.94892,
+    "lng": -92.15808,
+    "city": "Perry",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 59.0,
+    "density": 702.3,
+    "county_fips": 22113,
+    "county_name": "Vermilion",
+    "county_weights": "{\"22113\": 100}",
+    "county_names_all": "Vermilion",
+    "county_fips_all": "22113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

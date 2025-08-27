@@ -1,0 +1,20 @@
+{
+    "zip": 96730,
+    "lat": 21.54615,
+    "lng": -157.85112,
+    "city": "Kaaawa",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1427.0,
+    "density": 519.2,
+    "county_fips": 15003,
+    "county_name": "Honolulu",
+    "county_weights": "{\"15003\": 100}",
+    "county_names_all": "Honolulu",
+    "county_fips_all": "15003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "Pacific/Honolulu"
+}

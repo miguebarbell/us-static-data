@@ -1,0 +1,20 @@
+{
+    "zip": 55775,
+    "lat": 47.30588,
+    "lng": -93.1646,
+    "city": "Pengilly",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1309.0,
+    "density": 8.1,
+    "county_fips": 27061,
+    "county_name": "Itasca",
+    "county_weights": "{\"27061\": 100}",
+    "county_names_all": "Itasca",
+    "county_fips_all": "27061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

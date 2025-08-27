@@ -1,0 +1,20 @@
+{
+    "zip": 13140,
+    "lat": 43.05891,
+    "lng": -76.65841,
+    "city": "Port Byron",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4192.0,
+    "density": 30.5,
+    "county_fips": 36011,
+    "county_name": "Cayuga",
+    "county_weights": "{\"36011\": 100}",
+    "county_names_all": "Cayuga",
+    "county_fips_all": "36011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

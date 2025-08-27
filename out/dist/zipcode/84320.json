@@ -1,0 +1,20 @@
+{
+    "zip": 84320,
+    "lat": 41.96011,
+    "lng": -111.85252,
+    "city": "Lewiston",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2773.0,
+    "density": 22.6,
+    "county_fips": 49005,
+    "county_name": "Cache",
+    "county_weights": "{\"49005\": 100}",
+    "county_names_all": "Cache",
+    "county_fips_all": "49005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

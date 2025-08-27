@@ -1,0 +1,20 @@
+{
+    "zip": 32177,
+    "lat": 29.69011,
+    "lng": -81.70565,
+    "city": "Palatka",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26046.0,
+    "density": 44.3,
+    "county_fips": 12107,
+    "county_name": "Putnam",
+    "county_weights": "{\"12107\": 100}",
+    "county_names_all": "Putnam",
+    "county_fips_all": "12107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

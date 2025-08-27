@@ -1,0 +1,20 @@
+{
+    "zip": 77962,
+    "lat": 29.03253,
+    "lng": -96.5023,
+    "city": "Ganado",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3325.0,
+    "density": 6.8,
+    "county_fips": 48239,
+    "county_name": "Jackson",
+    "county_weights": "{\"48239\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "48239",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

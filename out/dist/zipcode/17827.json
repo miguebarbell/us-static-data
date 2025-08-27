@@ -1,0 +1,20 @@
+{
+    "zip": 17827,
+    "lat": 40.75482,
+    "lng": -76.96133,
+    "city": "Freeburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 863.0,
+    "density": 164.5,
+    "county_fips": 42109,
+    "county_name": "Snyder",
+    "county_weights": "{\"42109\": 100}",
+    "county_names_all": "Snyder",
+    "county_fips_all": "42109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 79781,
+    "lat": 30.60111,
+    "lng": -101.75348,
+    "city": "Sheffield",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 107.0,
+    "density": 0.1,
+    "county_fips": 48443,
+    "county_name": "Terrell",
+    "county_weights": "{\"48443\": 44.35, \"48105\": 42.0, \"48371\": 13.65}",
+    "county_names_all": "Terrell|Crockett|Pecos",
+    "county_fips_all": "48443|48105|48371",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

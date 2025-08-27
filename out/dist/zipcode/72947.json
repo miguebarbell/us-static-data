@@ -1,0 +1,20 @@
+{
+    "zip": 72947,
+    "lat": 35.54706,
+    "lng": -94.04021,
+    "city": "Mulberry",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3874.0,
+    "density": 13.1,
+    "county_fips": 5047,
+    "county_name": "Franklin",
+    "county_weights": "{\"05047\": 53.66, \"05033\": 46.34}",
+    "county_names_all": "Franklin|Crawford",
+    "county_fips_all": "05047|05033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

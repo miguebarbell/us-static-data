@@ -1,0 +1,20 @@
+{
+    "zip": 45324,
+    "lat": 39.81986,
+    "lng": -84.00026,
+    "city": "Fairborn",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41273.0,
+    "density": 480.9,
+    "county_fips": 39057,
+    "county_name": "Greene",
+    "county_weights": "{\"39057\": 76.56, \"39023\": 23.44}",
+    "county_names_all": "Greene|Clark",
+    "county_fips_all": "39057|39023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

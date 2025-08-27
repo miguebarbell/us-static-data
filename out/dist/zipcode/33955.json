@@ -1,0 +1,20 @@
+{
+    "zip": 33955,
+    "lat": 26.82528,
+    "lng": -81.97007,
+    "city": "Punta Gorda",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10503.0,
+    "density": 51.7,
+    "county_fips": 12015,
+    "county_name": "Charlotte",
+    "county_weights": "{\"12015\": 98.42, \"12071\": 1.58}",
+    "county_names_all": "Charlotte|Lee",
+    "county_fips_all": "12015|12071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 29544,
+    "lat": 34.00067,
+    "lng": -79.21083,
+    "city": "Galivants Ferry",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7616.0,
+    "density": 24.4,
+    "county_fips": 45051,
+    "county_name": "Horry",
+    "county_weights": "{\"45051\": 100}",
+    "county_names_all": "Horry",
+    "county_fips_all": "45051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

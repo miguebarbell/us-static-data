@@ -1,0 +1,20 @@
+{
+    "zip": 23356,
+    "lat": 37.9905,
+    "lng": -75.39228,
+    "city": "Greenbackville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1738.0,
+    "density": 188.9,
+    "county_fips": 51001,
+    "county_name": "Accomack",
+    "county_weights": "{\"51001\": 100}",
+    "county_names_all": "Accomack",
+    "county_fips_all": "51001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

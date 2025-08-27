@@ -1,0 +1,20 @@
+{
+    "zip": 56057,
+    "lat": 44.3954,
+    "lng": -93.72045,
+    "city": "Le Center",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3933.0,
+    "density": 17.8,
+    "county_fips": 27079,
+    "county_name": "Le Sueur",
+    "county_weights": "{\"27079\": 100}",
+    "county_names_all": "Le Sueur",
+    "county_fips_all": "27079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

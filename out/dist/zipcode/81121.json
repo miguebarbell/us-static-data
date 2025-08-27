@@ -1,0 +1,20 @@
+{
+    "zip": 81121,
+    "lat": 37.01861,
+    "lng": -107.42041,
+    "city": "Arboles",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 361.0,
+    "density": 31.1,
+    "county_fips": 8007,
+    "county_name": "Archuleta",
+    "county_weights": "{\"08007\": 100}",
+    "county_names_all": "Archuleta",
+    "county_fips_all": "08007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

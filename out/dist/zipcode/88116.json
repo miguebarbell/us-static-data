@@ -1,0 +1,20 @@
+{
+    "zip": 88116,
+    "lat": 33.89425,
+    "lng": -103.82335,
+    "city": "Elida",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 394.0,
+    "density": 0.1,
+    "county_fips": 35041,
+    "county_name": "Roosevelt",
+    "county_weights": "{\"35041\": 51.26, \"35005\": 48.74}",
+    "county_names_all": "Roosevelt|Chaves",
+    "county_fips_all": "35041|35005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

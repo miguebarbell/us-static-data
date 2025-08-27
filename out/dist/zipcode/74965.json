@@ -1,0 +1,20 @@
+{
+    "zip": 74965,
+    "lat": 35.99605,
+    "lng": -94.62553,
+    "city": "Westville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4964.0,
+    "density": 17.2,
+    "county_fips": 40001,
+    "county_name": "Adair",
+    "county_weights": "{\"40001\": 100}",
+    "county_names_all": "Adair",
+    "county_fips_all": "40001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

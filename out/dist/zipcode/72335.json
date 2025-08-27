@@ -1,0 +1,20 @@
+{
+    "zip": 72335,
+    "lat": 34.99042,
+    "lng": -90.75645,
+    "city": "Forrest City",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16514.0,
+    "density": 40.1,
+    "county_fips": 5123,
+    "county_name": "St. Francis",
+    "county_weights": "{\"05123\": 95.71, \"05077\": 4.29}",
+    "county_names_all": "St. Francis|Lee",
+    "county_fips_all": "05123|05077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

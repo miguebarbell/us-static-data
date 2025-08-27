@@ -1,0 +1,20 @@
+{
+    "zip": 93516,
+    "lat": 35.0081,
+    "lng": -117.64268,
+    "city": "Boron",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2742.0,
+    "density": 37.1,
+    "county_fips": 6029,
+    "county_name": "Kern",
+    "county_weights": "{\"06029\": 52.03, \"06071\": 47.97}",
+    "county_names_all": "Kern|San Bernardino",
+    "county_fips_all": "06029|06071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 97503,
+    "lat": 42.5836,
+    "lng": -122.92721,
+    "city": "White City",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14119.0,
+    "density": 66.7,
+    "county_fips": 41029,
+    "county_name": "Jackson",
+    "county_weights": "{\"41029\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "41029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

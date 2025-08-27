@@ -1,0 +1,20 @@
+{
+    "zip": 99739,
+    "lat": 64.97626,
+    "lng": -162.8397,
+    "city": "Elim",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 278.0,
+    "density": 0.0,
+    "county_fips": 2180,
+    "county_name": "Nome",
+    "county_weights": "{\"02180\": 100}",
+    "county_names_all": "Nome",
+    "county_fips_all": "02180",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Nome"
+}

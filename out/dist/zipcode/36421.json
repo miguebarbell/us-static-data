@@ -1,0 +1,20 @@
+{
+    "zip": 36421,
+    "lat": 31.32769,
+    "lng": -86.50903,
+    "city": "Andalusia",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9861.0,
+    "density": 17.8,
+    "county_fips": 1039,
+    "county_name": "Covington",
+    "county_weights": "{\"01039\": 84.07, \"01035\": 15.93}",
+    "county_names_all": "Covington|Conecuh",
+    "county_fips_all": "01039|01035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

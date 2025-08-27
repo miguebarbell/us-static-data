@@ -1,0 +1,20 @@
+{
+    "zip": 4787,
+    "lat": 46.55166,
+    "lng": -67.97685,
+    "city": "Westfield",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 454.0,
+    "density": 4.4,
+    "county_fips": 23003,
+    "county_name": "Aroostook",
+    "county_weights": "{\"23003\": 100}",
+    "county_names_all": "Aroostook",
+    "county_fips_all": "23003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

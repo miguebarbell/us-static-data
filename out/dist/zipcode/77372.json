@@ -1,0 +1,20 @@
+{
+    "zip": 77372,
+    "lat": 30.24472,
+    "lng": -95.18281,
+    "city": "Splendora",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14088.0,
+    "density": 105.6,
+    "county_fips": 48339,
+    "county_name": "Montgomery",
+    "county_weights": "{\"48339\": 87.51, \"48291\": 12.49}",
+    "county_names_all": "Montgomery|Liberty",
+    "county_fips_all": "48339|48291",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

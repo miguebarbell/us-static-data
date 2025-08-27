@@ -1,0 +1,20 @@
+{
+    "zip": 69044,
+    "lat": 40.13171,
+    "lng": -101.02837,
+    "city": "Trenton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 602.0,
+    "density": 1.2,
+    "county_fips": 31087,
+    "county_name": "Hitchcock",
+    "county_weights": "{\"31087\": 100}",
+    "county_names_all": "Hitchcock",
+    "county_fips_all": "31087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 95335,
+    "lat": 38.11894,
+    "lng": -120.09239,
+    "city": "Long Barn",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 82.0,
+    "density": 0.8,
+    "county_fips": 6109,
+    "county_name": "Tuolumne",
+    "county_weights": "{\"06109\": 100}",
+    "county_names_all": "Tuolumne",
+    "county_fips_all": "06109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

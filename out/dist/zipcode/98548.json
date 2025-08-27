@@ -1,0 +1,20 @@
+{
+    "zip": 98548,
+    "lat": 47.47064,
+    "lng": -123.29273,
+    "city": "Hoodsport",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2336.0,
+    "density": 4.7,
+    "county_fips": 53045,
+    "county_name": "Mason",
+    "county_weights": "{\"53045\": 99.88, \"53027\": 0.12}",
+    "county_names_all": "Mason|Grays Harbor",
+    "county_fips_all": "53045|53027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

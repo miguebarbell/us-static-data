@@ -1,0 +1,20 @@
+{
+    "zip": 79230,
+    "lat": 34.71353,
+    "lng": -100.04878,
+    "city": "Dodson",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 34.0,
+    "density": 0.2,
+    "county_fips": 48075,
+    "county_name": "Childress",
+    "county_weights": "{\"48075\": 66.8, \"48087\": 33.2}",
+    "county_names_all": "Childress|Collingsworth",
+    "county_fips_all": "48075|48087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

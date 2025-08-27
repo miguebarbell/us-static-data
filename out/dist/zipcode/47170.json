@@ -1,0 +1,20 @@
+{
+    "zip": 47170,
+    "lat": 38.68734,
+    "lng": -85.84667,
+    "city": "Scottsburg",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15279.0,
+    "density": 40.3,
+    "county_fips": 18143,
+    "county_name": "Scott",
+    "county_weights": "{\"18143\": 63.29, \"18175\": 36.49, \"18077\": 0.22}",
+    "county_names_all": "Scott|Washington|Jefferson",
+    "county_fips_all": "18143|18175|18077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

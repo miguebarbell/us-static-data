@@ -1,0 +1,20 @@
+{
+    "zip": 49689,
+    "lat": 44.21165,
+    "lng": -85.91484,
+    "city": "Wellston",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1791.0,
+    "density": 8.6,
+    "county_fips": 26101,
+    "county_name": "Manistee",
+    "county_weights": "{\"26101\": 83.85, \"26165\": 16.15}",
+    "county_names_all": "Manistee|Wexford",
+    "county_fips_all": "26101|26165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

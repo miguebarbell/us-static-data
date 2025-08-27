@@ -1,0 +1,20 @@
+{
+    "zip": 22723,
+    "lat": 38.33789,
+    "lng": -78.38821,
+    "city": "Hood",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 56.0,
+    "density": 5.7,
+    "county_fips": 51113,
+    "county_name": "Madison",
+    "county_weights": "{\"51113\": 99.86, \"51079\": 0.14}",
+    "county_names_all": "Madison|Greene",
+    "county_fips_all": "51113|51079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

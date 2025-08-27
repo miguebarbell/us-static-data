@@ -1,0 +1,20 @@
+{
+    "zip": 72022,
+    "lat": 34.60859,
+    "lng": -92.49651,
+    "city": "Bryant",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18350.0,
+    "density": 520.9,
+    "county_fips": 5125,
+    "county_name": "Saline",
+    "county_weights": "{\"05125\": 100}",
+    "county_names_all": "Saline",
+    "county_fips_all": "05125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

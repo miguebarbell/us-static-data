@@ -1,0 +1,20 @@
+{
+    "zip": 69345,
+    "lat": 41.58164,
+    "lng": -103.7234,
+    "city": "Harrisburg",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 448.0,
+    "density": 0.4,
+    "county_fips": 31007,
+    "county_name": "Banner",
+    "county_weights": "{\"31007\": 100}",
+    "county_names_all": "Banner",
+    "county_fips_all": "31007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65439,
+    "lat": 37.65718,
+    "lng": -91.09535,
+    "city": "Bixby",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29.0,
+    "density": 0.3,
+    "county_fips": 29093,
+    "county_name": "Iron",
+    "county_weights": "{\"29093\": 100}",
+    "county_names_all": "Iron",
+    "county_fips_all": "29093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 59259,
+    "lat": 47.69109,
+    "lng": -105.08416,
+    "city": "Richey",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 324.0,
+    "density": 0.2,
+    "county_fips": 30021,
+    "county_name": "Dawson",
+    "county_weights": "{\"30021\": 54.37, \"30083\": 45.63}",
+    "county_names_all": "Dawson|Richland",
+    "county_fips_all": "30021|30083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

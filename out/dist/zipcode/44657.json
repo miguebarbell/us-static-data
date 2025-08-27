@@ -1,0 +1,20 @@
+{
+    "zip": 44657,
+    "lat": 40.74313,
+    "lng": -81.09343,
+    "city": "Minerva",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9581.0,
+    "density": 58.6,
+    "county_fips": 39019,
+    "county_name": "Carroll",
+    "county_weights": "{\"39019\": 36.47, \"39151\": 34.83, \"39029\": 28.69}",
+    "county_names_all": "Carroll|Stark|Columbiana",
+    "county_fips_all": "39019|39151|39029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

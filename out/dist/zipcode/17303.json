@@ -1,0 +1,20 @@
+{
+    "zip": 17303,
+    "lat": 39.92615,
+    "lng": -77.29755,
+    "city": "Arendtsville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 439.0,
+    "density": 987.8,
+    "county_fips": 42001,
+    "county_name": "Adams",
+    "county_weights": "{\"42001\": 100}",
+    "county_names_all": "Adams",
+    "county_fips_all": "42001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

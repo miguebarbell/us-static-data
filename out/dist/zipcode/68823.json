@@ -1,0 +1,20 @@
+{
+    "zip": 68823,
+    "lat": 41.93653,
+    "lng": -99.13255,
+    "city": "Burwell",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2087.0,
+    "density": 0.9,
+    "county_fips": 31071,
+    "county_name": "Garfield",
+    "county_weights": "{\"31071\": 54.91, \"31115\": 23.82, \"31149\": 10.17, \"31175\": 5.96, \"31089\": 2.93, \"31041\": 2.21}",
+    "county_names_all": "Garfield|Loup|Rock|Valley|Holt|Custer",
+    "county_fips_all": "31071|31115|31149|31175|31089|31041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 80110,
+    "lat": 39.64612,
+    "lng": -105.00928,
+    "city": "Englewood",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23775.0,
+    "density": 1439.3,
+    "county_fips": 8005,
+    "county_name": "Arapahoe",
+    "county_weights": "{\"08005\": 97.42, \"08031\": 2.58}",
+    "county_names_all": "Arapahoe|Denver",
+    "county_fips_all": "08005|08031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

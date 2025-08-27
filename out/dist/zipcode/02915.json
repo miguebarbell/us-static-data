@@ -1,0 +1,20 @@
+{
+    "zip": 2915,
+    "lat": 41.77725,
+    "lng": -71.34906,
+    "city": "Riverside",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16848.0,
+    "density": 1180.2,
+    "county_fips": 44007,
+    "county_name": "Providence",
+    "county_weights": "{\"44007\": 100}",
+    "county_names_all": "Providence",
+    "county_fips_all": "44007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

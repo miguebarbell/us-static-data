@@ -1,0 +1,20 @@
+{
+    "zip": 21771,
+    "lat": 39.3955,
+    "lng": -77.15869,
+    "city": "Mount Airy",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32827.0,
+    "density": 141.6,
+    "county_fips": 24021,
+    "county_name": "Frederick",
+    "county_weights": "{\"24021\": 51.35, \"24013\": 26.26, \"24027\": 18.21, \"24031\": 4.18}",
+    "county_names_all": "Frederick|Carroll|Howard|Montgomery",
+    "county_fips_all": "24021|24013|24027|24031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 98827,
+    "lat": 48.86359,
+    "lng": -119.76726,
+    "city": "Loomis",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 353.0,
+    "density": 0.4,
+    "county_fips": 53047,
+    "county_name": "Okanogan",
+    "county_weights": "{\"53047\": 100}",
+    "county_names_all": "Okanogan",
+    "county_fips_all": "53047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

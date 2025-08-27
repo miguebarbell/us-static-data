@@ -1,0 +1,20 @@
+{
+    "zip": 7110,
+    "lat": 40.81926,
+    "lng": -74.15715,
+    "city": "Nutley",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29746.0,
+    "density": 3404.0,
+    "county_fips": 34013,
+    "county_name": "Essex",
+    "county_weights": "{\"34013\": 99.78, \"34031\": 0.22}",
+    "county_names_all": "Essex|Passaic",
+    "county_fips_all": "34013|34031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

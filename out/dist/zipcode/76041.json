@@ -1,0 +1,20 @@
+{
+    "zip": 76041,
+    "lat": 32.23911,
+    "lng": -96.85724,
+    "city": "Forreston",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 661.0,
+    "density": 21.3,
+    "county_fips": 48139,
+    "county_name": "Ellis",
+    "county_weights": "{\"48139\": 100}",
+    "county_names_all": "Ellis",
+    "county_fips_all": "48139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 47968,
+    "lat": 39.96209,
+    "lng": -86.74542,
+    "city": "New Ross",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1283.0,
+    "density": 19.0,
+    "county_fips": 18107,
+    "county_name": "Montgomery",
+    "county_weights": "{\"18107\": 88.13, \"18011\": 10.46, \"18063\": 1.41}",
+    "county_names_all": "Montgomery|Boone|Hendricks",
+    "county_fips_all": "18107|18011|18063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

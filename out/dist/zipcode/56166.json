@@ -1,0 +1,20 @@
+{
+    "zip": 56166,
+    "lat": 44.20248,
+    "lng": -95.37401,
+    "city": "Revere",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 203.0,
+    "density": 2.4,
+    "county_fips": 27127,
+    "county_name": "Redwood",
+    "county_weights": "{\"27127\": 51.37, \"27033\": 48.63}",
+    "county_names_all": "Redwood|Cottonwood",
+    "county_fips_all": "27127|27033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

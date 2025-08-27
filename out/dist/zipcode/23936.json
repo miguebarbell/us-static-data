@@ -1,0 +1,20 @@
+{
+    "zip": 23936,
+    "lat": 37.52494,
+    "lng": -78.4819,
+    "city": "Dillwyn",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6992.0,
+    "density": 13.0,
+    "county_fips": 51029,
+    "county_name": "Buckingham",
+    "county_weights": "{\"51029\": 97.98, \"51049\": 2.02}",
+    "county_names_all": "Buckingham|Cumberland",
+    "county_fips_all": "51029|51049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 83113,
+    "lat": 42.55189,
+    "lng": -110.25204,
+    "city": "Big Piney",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2693.0,
+    "density": 1.1,
+    "county_fips": 56035,
+    "county_name": "Sublette",
+    "county_weights": "{\"56035\": 100}",
+    "county_names_all": "Sublette",
+    "county_fips_all": "56035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

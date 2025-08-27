@@ -1,0 +1,20 @@
+{
+    "zip": 79527,
+    "lat": 32.59637,
+    "lng": -101.09939,
+    "city": "Ira",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 179.0,
+    "density": 1.1,
+    "county_fips": 48415,
+    "county_name": "Scurry",
+    "county_weights": "{\"48415\": 83.32, \"48033\": 16.68}",
+    "county_names_all": "Scurry|Borden",
+    "county_fips_all": "48415|48033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

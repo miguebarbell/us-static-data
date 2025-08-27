@@ -1,0 +1,20 @@
+{
+    "zip": 25651,
+    "lat": 37.57142,
+    "lng": -81.9662,
+    "city": "Wharncliffe",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 485.0,
+    "density": 5.9,
+    "county_fips": 54059,
+    "county_name": "Mingo",
+    "county_weights": "{\"54059\": 100}",
+    "county_names_all": "Mingo",
+    "county_fips_all": "54059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

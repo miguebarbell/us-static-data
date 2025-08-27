@@ -1,0 +1,20 @@
+{
+    "zip": 65536,
+    "lat": 37.68942,
+    "lng": -92.64974,
+    "city": "Lebanon",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29680.0,
+    "density": 28.5,
+    "county_fips": 29105,
+    "county_name": "Laclede",
+    "county_weights": "{\"29105\": 93.86, \"29059\": 4.66, \"29029\": 1.48}",
+    "county_names_all": "Laclede|Dallas|Camden",
+    "county_fips_all": "29105|29059|29029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

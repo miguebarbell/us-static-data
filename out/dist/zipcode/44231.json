@@ -1,0 +1,20 @@
+{
+    "zip": 44231,
+    "lat": 41.30692,
+    "lng": -81.07197,
+    "city": "Garrettsville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8702.0,
+    "density": 68.7,
+    "county_fips": 39133,
+    "county_name": "Portage",
+    "county_weights": "{\"39133\": 84.92, \"39055\": 15.08}",
+    "county_names_all": "Portage|Geauga",
+    "county_fips_all": "39133|39055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

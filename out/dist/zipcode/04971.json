@@ -1,0 +1,20 @@
+{
+    "zip": 4971,
+    "lat": 44.93191,
+    "lng": -69.39225,
+    "city": "Saint Albans",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1703.0,
+    "density": 14.7,
+    "county_fips": 23025,
+    "county_name": "Somerset",
+    "county_weights": "{\"23025\": 100}",
+    "county_names_all": "Somerset",
+    "county_fips_all": "23025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 47272,
+    "lat": 39.41519,
+    "lng": -85.61942,
+    "city": "Saint Paul",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2100.0,
+    "density": 26.3,
+    "county_fips": 18031,
+    "county_name": "Decatur",
+    "county_weights": "{\"18031\": 58.82, \"18145\": 39.54, \"18139\": 1.64}",
+    "county_names_all": "Decatur|Shelby|Rush",
+    "county_fips_all": "18031|18145|18139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

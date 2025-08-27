@@ -1,0 +1,20 @@
+{
+    "zip": 68322,
+    "lat": 40.3346,
+    "lng": -97.55356,
+    "city": "Bruning",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 520.0,
+    "density": 3.3,
+    "county_fips": 31169,
+    "county_name": "Thayer",
+    "county_weights": "{\"31169\": 70.69, \"31059\": 29.31}",
+    "county_names_all": "Thayer|Fillmore",
+    "county_fips_all": "31169|31059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

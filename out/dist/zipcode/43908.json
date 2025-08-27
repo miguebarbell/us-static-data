@@ -1,0 +1,20 @@
+{
+    "zip": 43908,
+    "lat": 40.50867,
+    "lng": -80.87349,
+    "city": "Bergholz",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1065.0,
+    "density": 13.4,
+    "county_fips": 39081,
+    "county_name": "Jefferson",
+    "county_weights": "{\"39081\": 92.77, \"39019\": 7.23}",
+    "county_names_all": "Jefferson|Carroll",
+    "county_fips_all": "39081|39019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 60543,
+    "lat": 41.66537,
+    "lng": -88.32442,
+    "city": "Oswego",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41723.0,
+    "density": 384.0,
+    "county_fips": 17093,
+    "county_name": "Kendall",
+    "county_weights": "{\"17093\": 99.25, \"17197\": 0.59, \"17089\": 0.16}",
+    "county_names_all": "Kendall|Will|Kane",
+    "county_fips_all": "17093|17197|17089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

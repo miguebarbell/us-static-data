@@ -1,0 +1,20 @@
+{
+    "zip": 17043,
+    "lat": 40.24679,
+    "lng": -76.90033,
+    "city": "Lemoyne",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5832.0,
+    "density": 1091.1,
+    "county_fips": 42041,
+    "county_name": "Cumberland",
+    "county_weights": "{\"42041\": 100}",
+    "county_names_all": "Cumberland",
+    "county_fips_all": "42041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

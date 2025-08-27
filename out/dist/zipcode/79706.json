@@ -1,0 +1,20 @@
+{
+    "zip": 79706,
+    "lat": 31.83622,
+    "lng": -101.97025,
+    "city": "Midland",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32605.0,
+    "density": 18.3,
+    "county_fips": 48329,
+    "county_name": "Midland",
+    "county_weights": "{\"48329\": 93.04, \"48173\": 5.75, \"48461\": 1.21}",
+    "county_names_all": "Midland|Glasscock|Upton",
+    "county_fips_all": "48329|48173|48461",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

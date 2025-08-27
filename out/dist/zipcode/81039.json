@@ -1,0 +1,20 @@
+{
+    "zip": 81039,
+    "lat": 37.94079,
+    "lng": -104.08615,
+    "city": "Fowler",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1686.0,
+    "density": 1.1,
+    "county_fips": 8101,
+    "county_name": "Pueblo",
+    "county_weights": "{\"08101\": 57.12, \"08089\": 42.28, \"08025\": 0.6}",
+    "county_names_all": "Pueblo|Otero|Crowley",
+    "county_fips_all": "08101|08089|08025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

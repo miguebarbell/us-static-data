@@ -1,0 +1,20 @@
+{
+    "zip": 72832,
+    "lat": 35.42748,
+    "lng": -93.67043,
+    "city": "Coal Hill",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 677.0,
+    "density": 76.7,
+    "county_fips": 5071,
+    "county_name": "Johnson",
+    "county_weights": "{\"05071\": 100}",
+    "county_names_all": "Johnson",
+    "county_fips_all": "05071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

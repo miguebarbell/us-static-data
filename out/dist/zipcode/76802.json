@@ -1,0 +1,20 @@
+{
+    "zip": 76802,
+    "lat": 31.7194,
+    "lng": -98.8949,
+    "city": "Early",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5317.0,
+    "density": 20.4,
+    "county_fips": 48049,
+    "county_name": "Brown",
+    "county_weights": "{\"48049\": 100}",
+    "county_names_all": "Brown",
+    "county_fips_all": "48049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

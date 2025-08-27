@@ -1,0 +1,20 @@
+{
+    "zip": 30229,
+    "lat": 33.22791,
+    "lng": -84.57033,
+    "city": "Haralson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42.0,
+    "density": 538.3,
+    "county_fips": 13077,
+    "county_name": "Coweta",
+    "county_weights": "{\"13077\": 100}",
+    "county_names_all": "Coweta",
+    "county_fips_all": "13077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

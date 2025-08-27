@@ -1,0 +1,20 @@
+{
+    "zip": 81063,
+    "lat": 38.45232,
+    "lng": -103.78494,
+    "city": "Ordway",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3060.0,
+    "density": 3.0,
+    "county_fips": 8025,
+    "county_name": "Crowley",
+    "county_weights": "{\"08025\": 63.14, \"08073\": 36.86}",
+    "county_names_all": "Crowley|Lincoln",
+    "county_fips_all": "08025|08073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

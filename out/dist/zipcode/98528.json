@@ -1,0 +1,20 @@
+{
+    "zip": 98528,
+    "lat": 47.44605,
+    "lng": -122.89618,
+    "city": "Belfair",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12398.0,
+    "density": 66.2,
+    "county_fips": 53045,
+    "county_name": "Mason",
+    "county_weights": "{\"53045\": 100}",
+    "county_names_all": "Mason",
+    "county_fips_all": "53045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

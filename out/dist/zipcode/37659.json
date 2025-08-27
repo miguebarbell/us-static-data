@@ -1,0 +1,20 @@
+{
+    "zip": 37659,
+    "lat": 36.28074,
+    "lng": -82.4938,
+    "city": "Jonesborough",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29247.0,
+    "density": 89.0,
+    "county_fips": 47179,
+    "county_name": "Washington",
+    "county_weights": "{\"47179\": 99.31, \"47163\": 0.69}",
+    "county_names_all": "Washington|Sullivan",
+    "county_fips_all": "47179|47163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

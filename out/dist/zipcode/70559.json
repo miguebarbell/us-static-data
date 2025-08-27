@@ -1,0 +1,20 @@
+{
+    "zip": 70559,
+    "lat": 30.12876,
+    "lng": -92.50903,
+    "city": "Morse",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2853.0,
+    "density": 12.9,
+    "county_fips": 22001,
+    "county_name": "Acadia",
+    "county_weights": "{\"22001\": 100}",
+    "county_names_all": "Acadia",
+    "county_fips_all": "22001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

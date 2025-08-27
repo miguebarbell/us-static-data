@@ -1,0 +1,20 @@
+{
+    "zip": 95315,
+    "lat": 37.42243,
+    "lng": -120.7733,
+    "city": "Delhi",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13006.0,
+    "density": 265.1,
+    "county_fips": 6047,
+    "county_name": "Merced",
+    "county_weights": "{\"06047\": 100}",
+    "county_names_all": "Merced",
+    "county_fips_all": "06047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

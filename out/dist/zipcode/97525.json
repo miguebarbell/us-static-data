@@ -1,0 +1,20 @@
+{
+    "zip": 97525,
+    "lat": 42.43557,
+    "lng": -123.07606,
+    "city": "Gold Hill",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4732.0,
+    "density": 16.9,
+    "county_fips": 41029,
+    "county_name": "Jackson",
+    "county_weights": "{\"41029\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "41029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

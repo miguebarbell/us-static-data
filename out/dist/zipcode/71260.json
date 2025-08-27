@@ -1,0 +1,20 @@
+{
+    "zip": 71260,
+    "lat": 32.90615,
+    "lng": -92.23793,
+    "city": "Marion",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3232.0,
+    "density": 4.3,
+    "county_fips": 22111,
+    "county_name": "Union",
+    "county_weights": "{\"22111\": 100}",
+    "county_names_all": "Union",
+    "county_fips_all": "22111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

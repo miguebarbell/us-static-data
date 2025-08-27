@@ -1,0 +1,20 @@
+{
+    "zip": 59452,
+    "lat": 46.86946,
+    "lng": -110.09831,
+    "city": "Hobson",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 579.0,
+    "density": 0.6,
+    "county_fips": 30045,
+    "county_name": "Judith Basin",
+    "county_weights": "{\"30045\": 100}",
+    "county_names_all": "Judith Basin",
+    "county_fips_all": "30045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

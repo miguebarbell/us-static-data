@@ -1,0 +1,20 @@
+{
+    "zip": 24901,
+    "lat": 37.85298,
+    "lng": -80.47598,
+    "city": "Lewisburg",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9022.0,
+    "density": 37.4,
+    "county_fips": 54025,
+    "county_name": "Greenbrier",
+    "county_weights": "{\"54025\": 100}",
+    "county_names_all": "Greenbrier",
+    "county_fips_all": "54025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

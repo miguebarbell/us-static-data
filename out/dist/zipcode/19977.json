@@ -1,0 +1,20 @@
+{
+    "zip": 19977,
+    "lat": 39.29653,
+    "lng": -75.55132,
+    "city": "Smyrna",
+    "state_id": "DE",
+    "state_name": "Delaware",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27164.0,
+    "density": 126.2,
+    "county_fips": 10001,
+    "county_name": "Kent",
+    "county_weights": "{\"10001\": 78.87, \"10003\": 21.13}",
+    "county_names_all": "Kent|New Castle",
+    "county_fips_all": "10001|10003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

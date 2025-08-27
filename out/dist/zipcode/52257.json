@@ -1,0 +1,20 @@
+{
+    "zip": 52257,
+    "lat": 41.91836,
+    "lng": -92.17742,
+    "city": "Luzerne",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 247.0,
+    "density": 5.7,
+    "county_fips": 19011,
+    "county_name": "Benton",
+    "county_weights": "{\"19011\": 100}",
+    "county_names_all": "Benton",
+    "county_fips_all": "19011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

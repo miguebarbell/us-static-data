@@ -1,0 +1,20 @@
+{
+    "zip": 78664,
+    "lat": 30.50461,
+    "lng": -97.64583,
+    "city": "Round Rock",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 62272.0,
+    "density": 1447.3,
+    "county_fips": 48491,
+    "county_name": "Williamson",
+    "county_weights": "{\"48491\": 85.62, \"48453\": 14.38}",
+    "county_names_all": "Williamson|Travis",
+    "county_fips_all": "48491|48453",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 87540,
+    "lat": 35.39987,
+    "lng": -105.8759,
+    "city": "Lamy",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 876.0,
+    "density": 2.1,
+    "county_fips": 35049,
+    "county_name": "Santa Fe",
+    "county_weights": "{\"35049\": 100}",
+    "county_names_all": "Santa Fe",
+    "county_fips_all": "35049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

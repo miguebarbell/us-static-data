@@ -1,0 +1,20 @@
+{
+    "zip": 56401,
+    "lat": 46.32259,
+    "lng": -94.11974,
+    "city": "Brainerd",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31749.0,
+    "density": 38.0,
+    "county_fips": 27035,
+    "county_name": "Crow Wing",
+    "county_weights": "{\"27035\": 91.78, \"27021\": 8.22}",
+    "county_names_all": "Crow Wing|Cass",
+    "county_fips_all": "27035|27021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

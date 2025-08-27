@@ -1,0 +1,20 @@
+{
+    "zip": 37857,
+    "lat": 36.42145,
+    "lng": -82.94269,
+    "city": "Rogersville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20425.0,
+    "density": 33.5,
+    "county_fips": 47073,
+    "county_name": "Hawkins",
+    "county_weights": "{\"47073\": 99.4, \"47163\": 0.6}",
+    "county_names_all": "Hawkins|Sullivan",
+    "county_fips_all": "47073|47163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

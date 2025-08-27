@@ -1,0 +1,20 @@
+{
+    "zip": 68460,
+    "lat": 40.89596,
+    "lng": -97.43169,
+    "city": "Waco",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 665.0,
+    "density": 2.4,
+    "county_fips": 31185,
+    "county_name": "York",
+    "county_weights": "{\"31185\": 96.79, \"31159\": 3.21}",
+    "county_names_all": "York|Seward",
+    "county_fips_all": "31185|31159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

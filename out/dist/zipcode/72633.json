@@ -1,0 +1,20 @@
+{
+    "zip": 72633,
+    "lat": 36.14023,
+    "lng": -92.87572,
+    "city": "Everton",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1976.0,
+    "density": 8.1,
+    "county_fips": 5089,
+    "county_name": "Marion",
+    "county_weights": "{\"05089\": 52.28, \"05009\": 31.53, \"05129\": 16.19}",
+    "county_names_all": "Marion|Boone|Searcy",
+    "county_fips_all": "05089|05009|05129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

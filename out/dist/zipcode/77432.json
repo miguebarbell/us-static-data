@@ -1,0 +1,20 @@
+{
+    "zip": 77432,
+    "lat": 29.05808,
+    "lng": -96.21608,
+    "city": "Danevang",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 48481,
+    "county_name": "Wharton",
+    "county_weights": "{\"48481\": 100}",
+    "county_names_all": "Wharton",
+    "county_fips_all": "48481",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

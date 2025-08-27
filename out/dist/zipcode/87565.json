@@ -1,0 +1,20 @@
+{
+    "zip": 87565,
+    "lat": 35.4442,
+    "lng": -105.49384,
+    "city": "San Jose",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 327.0,
+    "density": 3.1,
+    "county_fips": 35047,
+    "county_name": "San Miguel",
+    "county_weights": "{\"35047\": 100}",
+    "county_names_all": "San Miguel",
+    "county_fips_all": "35047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

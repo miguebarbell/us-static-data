@@ -1,0 +1,20 @@
+{
+    "zip": 40828,
+    "lat": 36.87107,
+    "lng": -83.14868,
+    "city": "Evarts",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4431.0,
+    "density": 33.8,
+    "county_fips": 21095,
+    "county_name": "Harlan",
+    "county_weights": "{\"21095\": 100}",
+    "county_names_all": "Harlan",
+    "county_fips_all": "21095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

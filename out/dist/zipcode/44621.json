@@ -1,0 +1,20 @@
+{
+    "zip": 44621,
+    "lat": 40.42878,
+    "lng": -81.28955,
+    "city": "Dennison",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4639.0,
+    "density": 55.8,
+    "county_fips": 39157,
+    "county_name": "Tuscarawas",
+    "county_weights": "{\"39157\": 65.49, \"39067\": 19.03, \"39019\": 15.48}",
+    "county_names_all": "Tuscarawas|Harrison|Carroll",
+    "county_fips_all": "39157|39067|39019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

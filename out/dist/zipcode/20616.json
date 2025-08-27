@@ -1,0 +1,20 @@
+{
+    "zip": 20616,
+    "lat": 38.65443,
+    "lng": -77.08848,
+    "city": "Bryans Road",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7435.0,
+    "density": 296.2,
+    "county_fips": 24017,
+    "county_name": "Charles",
+    "county_weights": "{\"24017\": 100}",
+    "county_names_all": "Charles",
+    "county_fips_all": "24017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

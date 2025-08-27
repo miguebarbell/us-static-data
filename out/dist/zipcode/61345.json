@@ -1,0 +1,20 @@
+{
+    "zip": 61345,
+    "lat": 41.27981,
+    "lng": -89.78878,
+    "city": "Neponset",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 760.0,
+    "density": 6.2,
+    "county_fips": 17011,
+    "county_name": "Bureau",
+    "county_weights": "{\"17011\": 91.97, \"17175\": 8.03}",
+    "county_names_all": "Bureau|Stark",
+    "county_fips_all": "17011|17175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

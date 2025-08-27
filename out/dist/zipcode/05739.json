@@ -1,0 +1,20 @@
+{
+    "zip": 5739,
+    "lat": 43.34488,
+    "lng": -73.0295,
+    "city": "Danby",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1268.0,
+    "density": 10.4,
+    "county_fips": 50021,
+    "county_name": "Rutland",
+    "county_weights": "{\"50021\": 100}",
+    "county_names_all": "Rutland",
+    "county_fips_all": "50021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

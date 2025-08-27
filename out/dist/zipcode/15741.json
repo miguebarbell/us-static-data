@@ -1,0 +1,20 @@
+{
+    "zip": 15741,
+    "lat": 40.80601,
+    "lng": -78.88924,
+    "city": "Gipsy",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 54.0,
+    "density": 16.1,
+    "county_fips": 42063,
+    "county_name": "Indiana",
+    "county_weights": "{\"42063\": 100}",
+    "county_names_all": "Indiana",
+    "county_fips_all": "42063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

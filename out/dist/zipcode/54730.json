@@ -1,0 +1,20 @@
+{
+    "zip": 54730,
+    "lat": 45.01836,
+    "lng": -91.72143,
+    "city": "Colfax",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5514.0,
+    "density": 15.4,
+    "county_fips": 55033,
+    "county_name": "Dunn",
+    "county_weights": "{\"55033\": 78.28, \"55017\": 21.72}",
+    "county_names_all": "Dunn|Chippewa",
+    "county_fips_all": "55033|55017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

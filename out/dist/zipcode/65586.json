@@ -1,0 +1,20 @@
+{
+    "zip": 65586,
+    "lat": 37.86483,
+    "lng": -91.43294,
+    "city": "Wesco",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 122.0,
+    "density": 13.8,
+    "county_fips": 29055,
+    "county_name": "Crawford",
+    "county_weights": "{\"29055\": 100}",
+    "county_names_all": "Crawford",
+    "county_fips_all": "29055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

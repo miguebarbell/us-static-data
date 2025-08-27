@@ -1,0 +1,20 @@
+{
+    "zip": 35541,
+    "lat": 34.07936,
+    "lng": -87.1801,
+    "city": "Arley",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4125.0,
+    "density": 24.0,
+    "county_fips": 1133,
+    "county_name": "Winston",
+    "county_weights": "{\"01133\": 99.04, \"01043\": 0.96}",
+    "county_names_all": "Winston|Cullman",
+    "county_fips_all": "01133|01043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

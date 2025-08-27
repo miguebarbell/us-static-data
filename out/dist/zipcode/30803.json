@@ -1,0 +1,20 @@
+{
+    "zip": 30803,
+    "lat": 33.13878,
+    "lng": -82.55013,
+    "city": "Avera",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1007.0,
+    "density": 7.4,
+    "county_fips": 13163,
+    "county_name": "Jefferson",
+    "county_weights": "{\"13163\": 98.94, \"13125\": 1.06}",
+    "county_names_all": "Jefferson|Glascock",
+    "county_fips_all": "13163|13125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

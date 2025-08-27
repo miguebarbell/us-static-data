@@ -1,0 +1,20 @@
+{
+    "zip": 53583,
+    "lat": 43.25671,
+    "lng": -89.81178,
+    "city": "Sauk City",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6043.0,
+    "density": 31.3,
+    "county_fips": 55111,
+    "county_name": "Sauk",
+    "county_weights": "{\"55111\": 72.35, \"55025\": 27.44, \"55021\": 0.21}",
+    "county_names_all": "Sauk|Dane|Columbia",
+    "county_fips_all": "55111|55025|55021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

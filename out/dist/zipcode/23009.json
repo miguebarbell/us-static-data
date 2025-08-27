@@ -1,0 +1,20 @@
+{
+    "zip": 23009,
+    "lat": 37.81038,
+    "lng": -77.18717,
+    "city": "Aylett",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8203.0,
+    "density": 39.0,
+    "county_fips": 51101,
+    "county_name": "King William",
+    "county_weights": "{\"51101\": 100}",
+    "county_names_all": "King William",
+    "county_fips_all": "51101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

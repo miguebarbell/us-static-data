@@ -1,0 +1,20 @@
+{
+    "zip": 52133,
+    "lat": 43.10702,
+    "lng": -91.66854,
+    "city": "Castalia",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 711.0,
+    "density": 6.3,
+    "county_fips": 19191,
+    "county_name": "Winneshiek",
+    "county_weights": "{\"19191\": 70.28, \"19065\": 29.72}",
+    "county_names_all": "Winneshiek|Fayette",
+    "county_fips_all": "19191|19065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

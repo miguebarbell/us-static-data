@@ -1,0 +1,20 @@
+{
+    "zip": 55049,
+    "lat": 44.17628,
+    "lng": -93.24101,
+    "city": "Medford",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2634.0,
+    "density": 22.0,
+    "county_fips": 27147,
+    "county_name": "Steele",
+    "county_weights": "{\"27147\": 90.85, \"27131\": 9.15}",
+    "county_names_all": "Steele|Rice",
+    "county_fips_all": "27147|27131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

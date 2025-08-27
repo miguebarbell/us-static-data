@@ -1,0 +1,20 @@
+{
+    "zip": 74051,
+    "lat": 36.61412,
+    "lng": -95.96532,
+    "city": "Ochelata",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1923.0,
+    "density": 22.5,
+    "county_fips": 40147,
+    "county_name": "Washington",
+    "county_weights": "{\"40147\": 90.16, \"40113\": 9.84}",
+    "county_names_all": "Washington|Osage",
+    "county_fips_all": "40147|40113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

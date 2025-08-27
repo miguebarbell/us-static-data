@@ -1,0 +1,20 @@
+{
+    "zip": 24477,
+    "lat": 38.00416,
+    "lng": -79.04374,
+    "city": "Stuarts Draft",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11405.0,
+    "density": 90.0,
+    "county_fips": 51015,
+    "county_name": "Augusta",
+    "county_weights": "{\"51015\": 100}",
+    "county_names_all": "Augusta",
+    "county_fips_all": "51015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

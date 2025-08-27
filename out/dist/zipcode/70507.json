@@ -1,0 +1,20 @@
+{
+    "zip": 70507,
+    "lat": 30.28293,
+    "lng": -92.02825,
+    "city": "Lafayette",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19215.0,
+    "density": 346.2,
+    "county_fips": 22055,
+    "county_name": "Lafayette",
+    "county_weights": "{\"22055\": 100}",
+    "county_names_all": "Lafayette",
+    "county_fips_all": "22055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

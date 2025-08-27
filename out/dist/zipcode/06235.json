@@ -1,0 +1,20 @@
+{
+    "zip": 6235,
+    "lat": 41.79292,
+    "lng": -72.1275,
+    "city": "Chaplin",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2116.0,
+    "density": 42.4,
+    "county_fips": 9150,
+    "county_name": "Northeastern Connecticut",
+    "county_weights": "{\"09150\": 100}",
+    "county_names_all": "Northeastern Connecticut",
+    "county_fips_all": "09150",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

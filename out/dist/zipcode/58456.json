@@ -1,0 +1,20 @@
+{
+    "zip": 58456,
+    "lat": 46.25674,
+    "lng": -98.95475,
+    "city": "Kulm",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 622.0,
+    "density": 1.1,
+    "county_fips": 38021,
+    "county_name": "Dickey",
+    "county_weights": "{\"38021\": 44.06, \"38045\": 37.06, \"38051\": 18.89}",
+    "county_names_all": "Dickey|LaMoure|McIntosh",
+    "county_fips_all": "38021|38045|38051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

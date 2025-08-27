@@ -1,0 +1,20 @@
+{
+    "zip": 60093,
+    "lat": 42.10333,
+    "lng": -87.75826,
+    "city": "Winnetka",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20156.0,
+    "density": 929.2,
+    "county_fips": 17031,
+    "county_name": "Cook",
+    "county_weights": "{\"17031\": 100}",
+    "county_names_all": "Cook",
+    "county_fips_all": "17031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

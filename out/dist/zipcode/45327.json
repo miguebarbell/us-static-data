@@ -1,0 +1,20 @@
+{
+    "zip": 45327,
+    "lat": 39.63286,
+    "lng": -84.39841,
+    "city": "Germantown",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8949.0,
+    "density": 71.8,
+    "county_fips": 39113,
+    "county_name": "Montgomery",
+    "county_weights": "{\"39113\": 94.13, \"39135\": 4.2, \"39017\": 1.67}",
+    "county_names_all": "Montgomery|Preble|Butler",
+    "county_fips_all": "39113|39135|39017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

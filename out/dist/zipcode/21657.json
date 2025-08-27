@@ -1,0 +1,20 @@
+{
+    "zip": 21657,
+    "lat": 38.9534,
+    "lng": -75.99042,
+    "city": "Queen Anne",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1533.0,
+    "density": 19.5,
+    "county_fips": 24035,
+    "county_name": "Queen Anne's",
+    "county_weights": "{\"24035\": 76.72, \"24041\": 19.85, \"24011\": 3.43}",
+    "county_names_all": "Queen Anne's|Talbot|Caroline",
+    "county_fips_all": "24035|24041|24011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

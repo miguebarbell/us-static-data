@@ -1,0 +1,20 @@
+{
+    "zip": 99613,
+    "lat": 59.13496,
+    "lng": -155.42696,
+    "city": "King Salmon",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 422.0,
+    "density": 0.1,
+    "county_fips": 2164,
+    "county_name": "Lake and Peninsula",
+    "county_weights": "{\"02164\": 81.64, \"02060\": 18.36}",
+    "county_names_all": "Lake and Peninsula|Bristol Bay",
+    "county_fips_all": "02164|02060",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 90712,
+    "lat": 33.849,
+    "lng": -118.14677,
+    "city": "Lakewood",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30672.0,
+    "density": 2808.8,
+    "county_fips": 6037,
+    "county_name": "Los Angeles",
+    "county_weights": "{\"06037\": 100}",
+    "county_names_all": "Los Angeles",
+    "county_fips_all": "06037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

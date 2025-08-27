@@ -1,0 +1,20 @@
+{
+    "zip": 15958,
+    "lat": 40.3891,
+    "lng": -78.73284,
+    "city": "Summerhill",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2190.0,
+    "density": 45.7,
+    "county_fips": 42021,
+    "county_name": "Cambria",
+    "county_weights": "{\"42021\": 100}",
+    "county_names_all": "Cambria",
+    "county_fips_all": "42021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

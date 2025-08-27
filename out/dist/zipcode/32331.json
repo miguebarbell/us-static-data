@@ -1,0 +1,20 @@
+{
+    "zip": 32331,
+    "lat": 30.45851,
+    "lng": -83.6294,
+    "city": "Greenville",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4642.0,
+    "density": 5.3,
+    "county_fips": 12079,
+    "county_name": "Madison",
+    "county_weights": "{\"12079\": 73.43, \"12123\": 13.77, \"12065\": 12.8}",
+    "county_names_all": "Madison|Taylor|Jefferson",
+    "county_fips_all": "12079|12123|12065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

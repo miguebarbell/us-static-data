@@ -1,0 +1,20 @@
+{
+    "zip": 55321,
+    "lat": 45.08406,
+    "lng": -94.193,
+    "city": "Cokato",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5592.0,
+    "density": 26.7,
+    "county_fips": 27171,
+    "county_name": "Wright",
+    "county_weights": "{\"27171\": 100}",
+    "county_names_all": "Wright",
+    "county_fips_all": "27171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

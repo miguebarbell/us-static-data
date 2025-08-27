@@ -1,0 +1,20 @@
+{
+    "zip": 5655,
+    "lat": 44.62461,
+    "lng": -72.56462,
+    "city": "Hyde Park",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3016.0,
+    "density": 30.9,
+    "county_fips": 50015,
+    "county_name": "Lamoille",
+    "county_weights": "{\"50015\": 100}",
+    "county_names_all": "Lamoille",
+    "county_fips_all": "50015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

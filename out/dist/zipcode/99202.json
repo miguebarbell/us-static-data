@@ -1,0 +1,20 @@
+{
+    "zip": 99202,
+    "lat": 47.65709,
+    "lng": -117.37854,
+    "city": "Spokane",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19956.0,
+    "density": 1295.9,
+    "county_fips": 53063,
+    "county_name": "Spokane",
+    "county_weights": "{\"53063\": 100}",
+    "county_names_all": "Spokane",
+    "county_fips_all": "53063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

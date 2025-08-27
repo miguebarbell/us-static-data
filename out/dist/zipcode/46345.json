@@ -1,0 +1,20 @@
+{
+    "zip": 46345,
+    "lat": 41.53032,
+    "lng": -86.69995,
+    "city": "Kingsbury",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 76.0,
+    "density": 303.3,
+    "county_fips": 18091,
+    "county_name": "LaPorte",
+    "county_weights": "{\"18091\": 100}",
+    "county_names_all": "LaPorte",
+    "county_fips_all": "18091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 39354,
+    "lat": 32.87945,
+    "lng": -88.83625,
+    "city": "Preston",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1719.0,
+    "density": 5.4,
+    "county_fips": 28069,
+    "county_name": "Kemper",
+    "county_weights": "{\"28069\": 72.38, \"28159\": 11.87, \"28103\": 7.95, \"28099\": 7.8}",
+    "county_names_all": "Kemper|Winston|Noxubee|Neshoba",
+    "county_fips_all": "28069|28159|28103|28099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

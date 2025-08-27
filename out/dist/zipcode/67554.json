@@ -1,0 +1,20 @@
+{
+    "zip": 67554,
+    "lat": 38.37489,
+    "lng": -98.1858,
+    "city": "Lyons",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4122.0,
+    "density": 9.0,
+    "county_fips": 20159,
+    "county_name": "Rice",
+    "county_weights": "{\"20159\": 100}",
+    "county_names_all": "Rice",
+    "county_fips_all": "20159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

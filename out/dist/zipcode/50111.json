@@ -1,0 +1,20 @@
+{
+    "zip": 50111,
+    "lat": 41.69353,
+    "lng": -93.80358,
+    "city": "Grimes",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16254.0,
+    "density": 249.9,
+    "county_fips": 19153,
+    "county_name": "Polk",
+    "county_weights": "{\"19153\": 66.19, \"19049\": 33.81}",
+    "county_names_all": "Polk|Dallas",
+    "county_fips_all": "19153|19049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 10579,
+    "lat": 41.39651,
+    "lng": -73.83384,
+    "city": "Putnam Valley",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8825.0,
+    "density": 98.1,
+    "county_fips": 36079,
+    "county_name": "Putnam",
+    "county_weights": "{\"36079\": 100}",
+    "county_names_all": "Putnam",
+    "county_fips_all": "36079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

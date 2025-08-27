@@ -1,0 +1,20 @@
+{
+    "zip": 39841,
+    "lat": 31.29031,
+    "lng": -84.69124,
+    "city": "Damascus",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 867.0,
+    "density": 4.6,
+    "county_fips": 13099,
+    "county_name": "Early",
+    "county_weights": "{\"13099\": 70.88, \"13007\": 17.43, \"13201\": 11.69}",
+    "county_names_all": "Early|Baker|Miller",
+    "county_fips_all": "13099|13007|13201",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 56025,
+    "lat": 43.7516,
+    "lng": -93.90877,
+    "city": "Easton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 493.0,
+    "density": 3.7,
+    "county_fips": 27043,
+    "county_name": "Faribault",
+    "county_weights": "{\"27043\": 100}",
+    "county_names_all": "Faribault",
+    "county_fips_all": "27043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

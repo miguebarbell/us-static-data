@@ -1,0 +1,20 @@
+{
+    "zip": 13810,
+    "lat": 42.61188,
+    "lng": -75.11157,
+    "city": "Mount Vision",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1195.0,
+    "density": 12.1,
+    "county_fips": 36077,
+    "county_name": "Otsego",
+    "county_weights": "{\"36077\": 100}",
+    "county_names_all": "Otsego",
+    "county_fips_all": "36077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 59720,
+    "lat": 44.95821,
+    "lng": -111.59366,
+    "city": "Cameron",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 315.0,
+    "density": 0.2,
+    "county_fips": 30057,
+    "county_name": "Madison",
+    "county_weights": "{\"30057\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "30057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

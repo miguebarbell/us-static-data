@@ -1,0 +1,20 @@
+{
+    "zip": 14171,
+    "lat": 42.42491,
+    "lng": -78.64286,
+    "city": "West Valley",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1736.0,
+    "density": 13.5,
+    "county_fips": 36009,
+    "county_name": "Cattaraugus",
+    "county_weights": "{\"36009\": 100}",
+    "county_names_all": "Cattaraugus",
+    "county_fips_all": "36009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

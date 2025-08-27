@@ -1,0 +1,20 @@
+{
+    "zip": 78666,
+    "lat": 29.8826,
+    "lng": -97.97974,
+    "city": "San Marcos",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 87775.0,
+    "density": 176.2,
+    "county_fips": 48209,
+    "county_name": "Hays",
+    "county_weights": "{\"48209\": 77.87, \"48187\": 15.76, \"48091\": 4.34, \"48055\": 2.03}",
+    "county_names_all": "Hays|Guadalupe|Comal|Caldwell",
+    "county_fips_all": "48209|48187|48091|48055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

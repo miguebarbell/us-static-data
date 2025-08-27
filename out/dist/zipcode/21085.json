@@ -1,0 +1,20 @@
+{
+    "zip": 21085,
+    "lat": 39.44462,
+    "lng": -76.35601,
+    "city": "Joppa",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16511.0,
+    "density": 336.0,
+    "county_fips": 24025,
+    "county_name": "Harford",
+    "county_weights": "{\"24025\": 93.74, \"24005\": 6.26}",
+    "county_names_all": "Harford|Baltimore",
+    "county_fips_all": "24025|24005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

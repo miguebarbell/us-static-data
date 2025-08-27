@@ -1,0 +1,20 @@
+{
+    "zip": 35178,
+    "lat": 33.42003,
+    "lng": -86.39993,
+    "city": "Vincent",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2867.0,
+    "density": 19.2,
+    "county_fips": 1117,
+    "county_name": "Shelby",
+    "county_weights": "{\"01117\": 78.69, \"01115\": 21.31}",
+    "county_names_all": "Shelby|St. Clair",
+    "county_fips_all": "01117|01115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

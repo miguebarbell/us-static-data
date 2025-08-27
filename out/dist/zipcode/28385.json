@@ -1,0 +1,20 @@
+{
+    "zip": 28385,
+    "lat": 35.04461,
+    "lng": -78.50012,
+    "city": "Salemburg",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2492.0,
+    "density": 24.1,
+    "county_fips": 37163,
+    "county_name": "Sampson",
+    "county_weights": "{\"37163\": 100}",
+    "county_names_all": "Sampson",
+    "county_fips_all": "37163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

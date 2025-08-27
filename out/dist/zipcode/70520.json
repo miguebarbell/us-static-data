@@ -1,0 +1,20 @@
+{
+    "zip": 70520,
+    "lat": 30.33265,
+    "lng": -92.03619,
+    "city": "Carencro",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20134.0,
+    "density": 200.1,
+    "county_fips": 22055,
+    "county_name": "Lafayette",
+    "county_weights": "{\"22055\": 96.73, \"22097\": 3.27}",
+    "county_names_all": "Lafayette|St. Landry",
+    "county_fips_all": "22055|22097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 46135,
+    "lat": 39.65909,
+    "lng": -86.89107,
+    "city": "Greencastle",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19639.0,
+    "density": 45.4,
+    "county_fips": 18133,
+    "county_name": "Putnam",
+    "county_weights": "{\"18133\": 98.42, \"18121\": 1.58}",
+    "county_names_all": "Putnam|Parke",
+    "county_fips_all": "18133|18121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

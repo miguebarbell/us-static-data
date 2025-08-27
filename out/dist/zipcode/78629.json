@@ -1,0 +1,20 @@
+{
+    "zip": 78629,
+    "lat": 29.47762,
+    "lng": -97.45093,
+    "city": "Gonzales",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12380.0,
+    "density": 11.3,
+    "county_fips": 48177,
+    "county_name": "Gonzales",
+    "county_weights": "{\"48177\": 98.14, \"48123\": 1.86}",
+    "county_names_all": "Gonzales|DeWitt",
+    "county_fips_all": "48177|48123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

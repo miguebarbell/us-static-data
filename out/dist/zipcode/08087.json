@@ -1,0 +1,20 @@
+{
+    "zip": 8087,
+    "lat": 39.60751,
+    "lng": -74.37994,
+    "city": "Tuckerton",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25211.0,
+    "density": 138.9,
+    "county_fips": 34029,
+    "county_name": "Ocean",
+    "county_weights": "{\"34029\": 59.31, \"34005\": 40.69}",
+    "county_names_all": "Ocean|Burlington",
+    "county_fips_all": "34029|34005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

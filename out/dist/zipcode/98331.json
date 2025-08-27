@@ -1,0 +1,20 @@
+{
+    "zip": 98331,
+    "lat": 47.77292,
+    "lng": -124.1273,
+    "city": "Forks",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5526.0,
+    "density": 2.3,
+    "county_fips": 53031,
+    "county_name": "Jefferson",
+    "county_weights": "{\"53031\": 79.33, \"53009\": 20.67}",
+    "county_names_all": "Jefferson|Clallam",
+    "county_fips_all": "53031|53009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

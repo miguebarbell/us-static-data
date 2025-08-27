@@ -1,0 +1,20 @@
+{
+    "zip": 47928,
+    "lat": 39.93237,
+    "lng": -87.46501,
+    "city": "Cayuga",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1748.0,
+    "density": 15.8,
+    "county_fips": 18165,
+    "county_name": "Vermillion",
+    "county_weights": "{\"18165\": 100}",
+    "county_names_all": "Vermillion",
+    "county_fips_all": "18165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

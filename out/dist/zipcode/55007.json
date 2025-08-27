@@ -1,0 +1,20 @@
+{
+    "zip": 55007,
+    "lat": 45.97511,
+    "lng": -93.12223,
+    "city": "Brook Park",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2158.0,
+    "density": 7.0,
+    "county_fips": 27065,
+    "county_name": "Kanabec",
+    "county_weights": "{\"27065\": 61.85, \"27115\": 38.15}",
+    "county_names_all": "Kanabec|Pine",
+    "county_fips_all": "27065|27115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

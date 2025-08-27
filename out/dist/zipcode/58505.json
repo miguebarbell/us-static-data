@@ -1,0 +1,20 @@
+{
+    "zip": 58505,
+    "lat": 46.82035,
+    "lng": -100.78106,
+    "city": "Bismarck",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 38015,
+    "county_name": "Burleigh",
+    "county_weights": "{\"38015\": 100}",
+    "county_names_all": "Burleigh",
+    "county_fips_all": "38015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

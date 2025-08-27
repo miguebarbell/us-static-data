@@ -1,0 +1,20 @@
+{
+    "zip": 48134,
+    "lat": 42.10813,
+    "lng": -83.29556,
+    "city": "Flat Rock",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24472.0,
+    "density": 509.8,
+    "county_fips": 26163,
+    "county_name": "Wayne",
+    "county_weights": "{\"26163\": 84.96, \"26115\": 15.04}",
+    "county_names_all": "Wayne|Monroe",
+    "county_fips_all": "26163|26115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

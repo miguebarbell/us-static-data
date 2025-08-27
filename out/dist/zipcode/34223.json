@@ -1,0 +1,20 @@
+{
+    "zip": 34223,
+    "lat": 26.97963,
+    "lng": -82.33257,
+    "city": "Englewood",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19036.0,
+    "density": 175.6,
+    "county_fips": 12115,
+    "county_name": "Sarasota",
+    "county_weights": "{\"12115\": 89.78, \"12015\": 10.22}",
+    "county_names_all": "Sarasota|Charlotte",
+    "county_fips_all": "12115|12015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

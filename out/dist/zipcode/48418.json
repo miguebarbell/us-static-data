@@ -1,0 +1,20 @@
+{
+    "zip": 48418,
+    "lat": 42.80427,
+    "lng": -83.97066,
+    "city": "Byron",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4544.0,
+    "density": 42.8,
+    "county_fips": 26155,
+    "county_name": "Shiawassee",
+    "county_weights": "{\"26155\": 65.8, \"26049\": 25.22, \"26093\": 8.98}",
+    "county_names_all": "Shiawassee|Genesee|Livingston",
+    "county_fips_all": "26155|26049|26093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

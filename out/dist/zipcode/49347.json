@@ -1,0 +1,20 @@
+{
+    "zip": 49347,
+    "lat": 43.31488,
+    "lng": -85.34352,
+    "city": "Trufant",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1496.0,
+    "density": 32.5,
+    "county_fips": 26117,
+    "county_name": "Montcalm",
+    "county_weights": "{\"26117\": 97.01, \"26081\": 2.99}",
+    "county_names_all": "Montcalm|Kent",
+    "county_fips_all": "26117|26081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

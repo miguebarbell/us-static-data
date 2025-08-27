@@ -1,0 +1,20 @@
+{
+    "zip": 68960,
+    "lat": 40.08549,
+    "lng": -99.13866,
+    "city": "Naponee",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 190.0,
+    "density": 1.6,
+    "county_fips": 31061,
+    "county_name": "Franklin",
+    "county_weights": "{\"31061\": 98.16, \"31083\": 1.84}",
+    "county_names_all": "Franklin|Harlan",
+    "county_fips_all": "31061|31083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

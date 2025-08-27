@@ -1,0 +1,20 @@
+{
+    "zip": 47874,
+    "lat": 39.62913,
+    "lng": -87.27792,
+    "city": "Rosedale",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2950.0,
+    "density": 16.9,
+    "county_fips": 18121,
+    "county_name": "Parke",
+    "county_weights": "{\"18121\": 76.44, \"18167\": 19.48, \"18021\": 4.08}",
+    "county_names_all": "Parke|Vigo|Clay",
+    "county_fips_all": "18121|18167|18021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 77328,
+    "lat": 30.40767,
+    "lng": -95.18888,
+    "city": "Cleveland",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17816.0,
+    "density": 38.1,
+    "county_fips": 48407,
+    "county_name": "San Jacinto",
+    "county_weights": "{\"48407\": 70.05, \"48339\": 21.59, \"48291\": 8.36}",
+    "county_names_all": "San Jacinto|Montgomery|Liberty",
+    "county_fips_all": "48407|48339|48291",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

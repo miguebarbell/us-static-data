@@ -1,0 +1,20 @@
+{
+    "zip": 63473,
+    "lat": 40.25263,
+    "lng": -91.77803,
+    "city": "Williamstown",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 336.0,
+    "density": 2.1,
+    "county_fips": 29111,
+    "county_name": "Lewis",
+    "county_weights": "{\"29111\": 52.04, \"29045\": 47.96}",
+    "county_names_all": "Lewis|Clark",
+    "county_fips_all": "29111|29045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

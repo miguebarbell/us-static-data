@@ -1,0 +1,20 @@
+{
+    "zip": 74829,
+    "lat": 35.51332,
+    "lng": -96.47392,
+    "city": "Boley",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1652.0,
+    "density": 11.5,
+    "county_fips": 40107,
+    "county_name": "Okfuskee",
+    "county_weights": "{\"40107\": 100}",
+    "county_names_all": "Okfuskee",
+    "county_fips_all": "40107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

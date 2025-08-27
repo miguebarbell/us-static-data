@@ -1,0 +1,20 @@
+{
+    "zip": 80461,
+    "lat": 39.24244,
+    "lng": -106.29016,
+    "city": "Leadville",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7049.0,
+    "density": 11.4,
+    "county_fips": 8065,
+    "county_name": "Lake",
+    "county_weights": "{\"08065\": 100}",
+    "county_names_all": "Lake",
+    "county_fips_all": "08065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

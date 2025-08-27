@@ -1,0 +1,20 @@
+{
+    "zip": 73947,
+    "lat": 36.84672,
+    "lng": -102.17316,
+    "city": "Keyes",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 420.0,
+    "density": 0.4,
+    "county_fips": 40025,
+    "county_name": "Cimarron",
+    "county_weights": "{\"40025\": 92.87, \"40139\": 7.13}",
+    "county_names_all": "Cimarron|Texas",
+    "county_fips_all": "40025|40139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

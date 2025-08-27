@@ -1,0 +1,20 @@
+{
+    "zip": 30269,
+    "lat": 33.39375,
+    "lng": -84.56974,
+    "city": "Peachtree City",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39990.0,
+    "density": 589.9,
+    "county_fips": 13113,
+    "county_name": "Fayette",
+    "county_weights": "{\"13113\": 100}",
+    "county_names_all": "Fayette",
+    "county_fips_all": "13113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

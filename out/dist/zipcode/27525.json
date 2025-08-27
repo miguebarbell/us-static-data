@@ -1,0 +1,20 @@
+{
+    "zip": 27525,
+    "lat": 36.11721,
+    "lng": -78.46997,
+    "city": "Franklinton",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16485.0,
+    "density": 67.9,
+    "county_fips": 37069,
+    "county_name": "Franklin",
+    "county_weights": "{\"37069\": 72.16, \"37077\": 27.84}",
+    "county_names_all": "Franklin|Granville",
+    "county_fips_all": "37069|37077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

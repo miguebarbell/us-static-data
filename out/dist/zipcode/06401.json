@@ -1,0 +1,20 @@
+{
+    "zip": 6401,
+    "lat": 41.34424,
+    "lng": -73.06896,
+    "city": "Ansonia",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19160.0,
+    "density": 1227.6,
+    "county_fips": 9140,
+    "county_name": "Naugatuck Valley",
+    "county_weights": "{\"09140\": 100}",
+    "county_names_all": "Naugatuck Valley",
+    "county_fips_all": "09140",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}
