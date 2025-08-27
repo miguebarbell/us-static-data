@@ -1,0 +1,20 @@
+{
+    "zip": 37711,
+    "lat": 36.28102,
+    "lng": -83.03885,
+    "city": "Bulls Gap",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5682.0,
+    "density": 42.1,
+    "county_fips": 47073,
+    "county_name": "Hawkins",
+    "county_weights": "{\"47073\": 55.13, \"47059\": 41.08, \"47063\": 3.79}",
+    "county_names_all": "Hawkins|Greene|Hamblen",
+    "county_fips_all": "47073|47059|47063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

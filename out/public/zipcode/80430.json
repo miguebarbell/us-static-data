@@ -1,0 +1,20 @@
+{
+    "zip": 80430,
+    "lat": 40.50925,
+    "lng": -106.44688,
+    "city": "Coalmont",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 131.0,
+    "density": 0.4,
+    "county_fips": 8057,
+    "county_name": "Jackson",
+    "county_weights": "{\"08057\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "08057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

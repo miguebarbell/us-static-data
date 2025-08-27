@@ -1,0 +1,20 @@
+{
+    "zip": 30721,
+    "lat": 34.79168,
+    "lng": -84.91187,
+    "city": "Dalton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 52477.0,
+    "density": 159.8,
+    "county_fips": 13313,
+    "county_name": "Whitfield",
+    "county_weights": "{\"13313\": 95.77, \"13213\": 4.23}",
+    "county_names_all": "Whitfield|Murray",
+    "county_fips_all": "13313|13213",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

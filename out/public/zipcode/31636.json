@@ -1,0 +1,20 @@
+{
+    "zip": 31636,
+    "lat": 30.7337,
+    "lng": -83.1096,
+    "city": "Lake Park",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11184.0,
+    "density": 23.2,
+    "county_fips": 13101,
+    "county_name": "Echols",
+    "county_weights": "{\"13101\": 59.7, \"13185\": 40.3}",
+    "county_names_all": "Echols|Lowndes",
+    "county_fips_all": "13101|13185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 79011,
+    "lat": 35.63111,
+    "lng": -100.20866,
+    "city": "Briscoe",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 208.0,
+    "density": 0.6,
+    "county_fips": 48483,
+    "county_name": "Wheeler",
+    "county_weights": "{\"48483\": 50.53, \"48211\": 49.47}",
+    "county_names_all": "Wheeler|Hemphill",
+    "county_fips_all": "48483|48211",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

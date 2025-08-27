@@ -1,0 +1,20 @@
+{
+    "zip": 29014,
+    "lat": 34.54368,
+    "lng": -81.13553,
+    "city": "Blackstock",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1229.0,
+    "density": 2.9,
+    "county_fips": 45039,
+    "county_name": "Fairfield",
+    "county_weights": "{\"45039\": 58.03, \"45023\": 41.97}",
+    "county_names_all": "Fairfield|Chester",
+    "county_fips_all": "45039|45023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

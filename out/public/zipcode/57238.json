@@ -1,0 +1,20 @@
+{
+    "zip": 57238,
+    "lat": 44.87287,
+    "lng": -96.86231,
+    "city": "Goodwin",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 317.0,
+    "density": 1.7,
+    "county_fips": 46039,
+    "county_name": "Deuel",
+    "county_weights": "{\"46039\": 64.03, \"46029\": 31.23, \"46057\": 4.74}",
+    "county_names_all": "Deuel|Codington|Hamlin",
+    "county_fips_all": "46039|46029|46057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

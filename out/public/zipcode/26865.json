@@ -1,0 +1,20 @@
+{
+    "zip": 26865,
+    "lat": 39.19053,
+    "lng": -78.51932,
+    "city": "Yellow Spring",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 233.0,
+    "density": 2.6,
+    "county_fips": 54027,
+    "county_name": "Hampshire",
+    "county_weights": "{\"54027\": 100}",
+    "county_names_all": "Hampshire",
+    "county_fips_all": "54027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

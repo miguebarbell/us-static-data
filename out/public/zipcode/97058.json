@@ -1,0 +1,20 @@
+{
+    "zip": 97058,
+    "lat": 45.54239,
+    "lng": -121.15447,
+    "city": "The Dalles",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20540.0,
+    "density": 24.4,
+    "county_fips": 41065,
+    "county_name": "Wasco",
+    "county_weights": "{\"41065\": 100}",
+    "county_names_all": "Wasco",
+    "county_fips_all": "41065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

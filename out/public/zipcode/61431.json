@@ -1,0 +1,20 @@
+{
+    "zip": 61431,
+    "lat": 40.60315,
+    "lng": -90.2776,
+    "city": "Ellisville",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 283.0,
+    "density": 3.2,
+    "county_fips": 17057,
+    "county_name": "Fulton",
+    "county_weights": "{\"17057\": 100}",
+    "county_names_all": "Fulton",
+    "county_fips_all": "17057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

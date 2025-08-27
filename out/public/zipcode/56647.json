@@ -1,0 +1,20 @@
+{
+    "zip": 56647,
+    "lat": 47.68782,
+    "lng": -94.62187,
+    "city": "Hines",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 759.0,
+    "density": 3.8,
+    "county_fips": 27007,
+    "county_name": "Beltrami",
+    "county_weights": "{\"27007\": 100}",
+    "county_names_all": "Beltrami",
+    "county_fips_all": "27007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 58580,
+    "lat": 47.2665,
+    "lng": -101.93301,
+    "city": "Zap",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 508.0,
+    "density": 1.3,
+    "county_fips": 38057,
+    "county_name": "Mercer",
+    "county_weights": "{\"38057\": 100}",
+    "county_names_all": "Mercer",
+    "county_fips_all": "38057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/North_Dakota/Beulah"
+}

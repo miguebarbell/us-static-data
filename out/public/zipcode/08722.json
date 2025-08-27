@@ -1,0 +1,20 @@
+{
+    "zip": 8722,
+    "lat": 39.92863,
+    "lng": -74.20224,
+    "city": "Beachwood",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11002.0,
+    "density": 1537.4,
+    "county_fips": 34029,
+    "county_name": "Ocean",
+    "county_weights": "{\"34029\": 100}",
+    "county_names_all": "Ocean",
+    "county_fips_all": "34029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

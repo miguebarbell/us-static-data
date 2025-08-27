@@ -1,0 +1,20 @@
+{
+    "zip": 61533,
+    "lat": 40.58736,
+    "lng": -89.84029,
+    "city": "Glasford",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2359.0,
+    "density": 22.4,
+    "county_fips": 17143,
+    "county_name": "Peoria",
+    "county_weights": "{\"17143\": 83.1, \"17057\": 16.79, \"17179\": 0.11}",
+    "county_names_all": "Peoria|Fulton|Tazewell",
+    "county_fips_all": "17143|17057|17179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

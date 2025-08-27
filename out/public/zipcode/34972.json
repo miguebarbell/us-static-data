@@ -1,0 +1,20 @@
+{
+    "zip": 34972,
+    "lat": 27.48016,
+    "lng": -80.90926,
+    "city": "Okeechobee",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19185.0,
+    "density": 8.7,
+    "county_fips": 12093,
+    "county_name": "Okeechobee",
+    "county_weights": "{\"12093\": 79.8, \"12097\": 14.45, \"12111\": 5.75}",
+    "county_names_all": "Okeechobee|Osceola|St. Lucie",
+    "county_fips_all": "12093|12097|12111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

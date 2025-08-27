@@ -1,0 +1,20 @@
+{
+    "zip": 88115,
+    "lat": 33.93185,
+    "lng": -103.34466,
+    "city": "Dora",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11.0,
+    "density": 4.1,
+    "county_fips": 35041,
+    "county_name": "Roosevelt",
+    "county_weights": "{\"35041\": 100}",
+    "county_names_all": "Roosevelt",
+    "county_fips_all": "35041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

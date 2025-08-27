@@ -1,0 +1,20 @@
+{
+    "zip": 49254,
+    "lat": 42.2268,
+    "lng": -84.32165,
+    "city": "Michigan Center",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3617.0,
+    "density": 532.2,
+    "county_fips": 26075,
+    "county_name": "Jackson",
+    "county_weights": "{\"26075\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "26075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 81232,
+    "lat": 38.27535,
+    "lng": -105.60895,
+    "city": "Hillside",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 8043,
+    "county_name": "Fremont",
+    "county_weights": "{\"08043\": 100}",
+    "county_names_all": "Fremont",
+    "county_fips_all": "08043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

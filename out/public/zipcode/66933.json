@@ -1,0 +1,20 @@
+{
+    "zip": 66933,
+    "lat": 39.67124,
+    "lng": -96.86706,
+    "city": "Barnes",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 299.0,
+    "density": 1.3,
+    "county_fips": 20201,
+    "county_name": "Washington",
+    "county_weights": "{\"20201\": 94.99, \"20161\": 5.01}",
+    "county_names_all": "Washington|Riley",
+    "county_fips_all": "20201|20161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

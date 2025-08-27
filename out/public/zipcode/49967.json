@@ -1,0 +1,20 @@
+{
+    "zip": 49967,
+    "lat": 46.49377,
+    "lng": -88.95551,
+    "city": "Trout Creek",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 366.0,
+    "density": 0.4,
+    "county_fips": 26061,
+    "county_name": "Houghton",
+    "county_weights": "{\"26061\": 43.55, \"26131\": 36.77, \"26071\": 19.68}",
+    "county_names_all": "Houghton|Ontonagon|Iron",
+    "county_fips_all": "26061|26131|26071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

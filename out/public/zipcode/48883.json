@@ -1,0 +1,20 @@
+{
+    "zip": 48883,
+    "lat": 43.54336,
+    "lng": -84.66771,
+    "city": "Shepherd",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6755.0,
+    "density": 22.7,
+    "county_fips": 26073,
+    "county_name": "Isabella",
+    "county_weights": "{\"26073\": 64.7, \"26111\": 35.02, \"26057\": 0.28}",
+    "county_names_all": "Isabella|Midland|Gratiot",
+    "county_fips_all": "26073|26111|26057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

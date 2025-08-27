@@ -1,0 +1,20 @@
+{
+    "zip": 61547,
+    "lat": 40.60962,
+    "lng": -89.73847,
+    "city": "Mapleton",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3740.0,
+    "density": 65.7,
+    "county_fips": 17143,
+    "county_name": "Peoria",
+    "county_weights": "{\"17143\": 99.8, \"17179\": 0.2}",
+    "county_names_all": "Peoria|Tazewell",
+    "county_fips_all": "17143|17179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

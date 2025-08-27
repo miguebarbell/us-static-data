@@ -1,0 +1,20 @@
+{
+    "zip": 3581,
+    "lat": 44.34227,
+    "lng": -71.13413,
+    "city": "Gorham",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3243.0,
+    "density": 8.0,
+    "county_fips": 33007,
+    "county_name": "Coos",
+    "county_weights": "{\"33007\": 100}",
+    "county_names_all": "Coos",
+    "county_fips_all": "33007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

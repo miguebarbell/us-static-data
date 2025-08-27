@@ -1,0 +1,20 @@
+{
+    "zip": 56626,
+    "lat": 47.36404,
+    "lng": -94.18421,
+    "city": "Bena",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 251.0,
+    "density": 1.1,
+    "county_fips": 27021,
+    "county_name": "Cass",
+    "county_weights": "{\"27021\": 100}",
+    "county_names_all": "Cass",
+    "county_fips_all": "27021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

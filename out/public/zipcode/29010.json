@@ -1,0 +1,20 @@
+{
+    "zip": 29010,
+    "lat": 34.21487,
+    "lng": -80.26946,
+    "city": "Bishopville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11564.0,
+    "density": 22.5,
+    "county_fips": 45061,
+    "county_name": "Lee",
+    "county_weights": "{\"45061\": 99.29, \"45055\": 0.71}",
+    "county_names_all": "Lee|Kershaw",
+    "county_fips_all": "45061|45055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

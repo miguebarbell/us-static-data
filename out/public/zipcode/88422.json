@@ -1,0 +1,20 @@
+{
+    "zip": 88422,
+    "lat": 36.33791,
+    "lng": -103.98655,
+    "city": "Gladstone",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 154.0,
+    "density": 0.3,
+    "county_fips": 35059,
+    "county_name": "Union",
+    "county_weights": "{\"35059\": 64.48, \"35007\": 35.52}",
+    "county_names_all": "Union|Colfax",
+    "county_fips_all": "35059|35007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

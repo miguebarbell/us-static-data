@@ -1,0 +1,20 @@
+{
+    "zip": 73051,
+    "lat": 35.03175,
+    "lng": -97.24629,
+    "city": "Lexington",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10079.0,
+    "density": 30.7,
+    "county_fips": 40027,
+    "county_name": "Cleveland",
+    "county_weights": "{\"40027\": 99.53, \"40125\": 0.47}",
+    "county_names_all": "Cleveland|Pottawatomie",
+    "county_fips_all": "40027|40125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

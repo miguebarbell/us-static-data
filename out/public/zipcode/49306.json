@@ -1,0 +1,20 @@
+{
+    "zip": 49306,
+    "lat": 43.07296,
+    "lng": -85.56939,
+    "city": "Belmont",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10806.0,
+    "density": 226.4,
+    "county_fips": 26081,
+    "county_name": "Kent",
+    "county_weights": "{\"26081\": 100}",
+    "county_names_all": "Kent",
+    "county_fips_all": "26081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

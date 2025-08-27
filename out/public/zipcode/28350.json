@@ -1,0 +1,20 @@
+{
+    "zip": 28350,
+    "lat": 35.2488,
+    "lng": -79.32064,
+    "city": "Lakeview",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 236.0,
+    "density": 44.7,
+    "county_fips": 37125,
+    "county_name": "Moore",
+    "county_weights": "{\"37125\": 100}",
+    "county_names_all": "Moore",
+    "county_fips_all": "37125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

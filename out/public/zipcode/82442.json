@@ -1,0 +1,20 @@
+{
+    "zip": 82442,
+    "lat": 43.92096,
+    "lng": -107.31087,
+    "city": "Ten Sleep",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 783.0,
+    "density": 0.5,
+    "county_fips": 56043,
+    "county_name": "Washakie",
+    "county_weights": "{\"56043\": 100}",
+    "county_names_all": "Washakie",
+    "county_fips_all": "56043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 58757,
+    "lat": 47.67643,
+    "lng": -102.54685,
+    "city": "Mandaree",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1130.0,
+    "density": 1.3,
+    "county_fips": 38025,
+    "county_name": "Dunn",
+    "county_weights": "{\"38025\": 82.01, \"38053\": 17.99}",
+    "county_names_all": "Dunn|McKenzie",
+    "county_fips_all": "38025|38053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

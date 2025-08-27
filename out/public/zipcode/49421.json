@@ -1,0 +1,20 @@
+{
+    "zip": 49421,
+    "lat": 43.59945,
+    "lng": -86.06658,
+    "city": "Hesperia",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5700.0,
+    "density": 17.3,
+    "county_fips": 26127,
+    "county_name": "Oceana",
+    "county_weights": "{\"26127\": 59.76, \"26123\": 40.24}",
+    "county_names_all": "Oceana|Newaygo",
+    "county_fips_all": "26127|26123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

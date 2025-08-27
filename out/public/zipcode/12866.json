@@ -1,0 +1,20 @@
+{
+    "zip": 12866,
+    "lat": 43.07537,
+    "lng": -73.7401,
+    "city": "Saratoga Springs",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39657.0,
+    "density": 238.1,
+    "county_fips": 36091,
+    "county_name": "Saratoga",
+    "county_weights": "{\"36091\": 100}",
+    "county_names_all": "Saratoga",
+    "county_fips_all": "36091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

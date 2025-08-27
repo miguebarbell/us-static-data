@@ -1,0 +1,20 @@
+{
+    "zip": 74561,
+    "lat": 35.12489,
+    "lng": -95.42929,
+    "city": "Quinton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1860.0,
+    "density": 5.5,
+    "county_fips": 40121,
+    "county_name": "Pittsburg",
+    "county_weights": "{\"40121\": 75.77, \"40061\": 24.23}",
+    "county_names_all": "Pittsburg|Haskell",
+    "county_fips_all": "40121|40061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 36849,
+    "lat": 32.59953,
+    "lng": -85.48858,
+    "city": "Auburn University",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5224.0,
+    "density": 2721.1,
+    "county_fips": 1081,
+    "county_name": "Lee",
+    "county_weights": "{\"01081\": 100}",
+    "county_names_all": "Lee",
+    "county_fips_all": "01081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

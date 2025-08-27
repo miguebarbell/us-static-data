@@ -1,0 +1,20 @@
+{
+    "zip": 34481,
+    "lat": 29.11902,
+    "lng": -82.30769,
+    "city": "Ocala",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25668.0,
+    "density": 143.2,
+    "county_fips": 12083,
+    "county_name": "Marion",
+    "county_weights": "{\"12083\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "12083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

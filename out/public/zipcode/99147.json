@@ -1,0 +1,20 @@
+{
+    "zip": 99147,
+    "lat": 47.83604,
+    "lng": -118.43675,
+    "city": "Lincoln",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 185.0,
+    "density": 8.1,
+    "county_fips": 53043,
+    "county_name": "Lincoln",
+    "county_weights": "{\"53043\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "53043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

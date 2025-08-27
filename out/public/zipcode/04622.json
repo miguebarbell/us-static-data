@@ -1,0 +1,20 @@
+{
+    "zip": 4622,
+    "lat": 44.75555,
+    "lng": -67.95143,
+    "city": "Cherryfield",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1043.0,
+    "density": 1.3,
+    "county_fips": 23029,
+    "county_name": "Washington",
+    "county_weights": "{\"23029\": 76.24, \"23009\": 23.76}",
+    "county_names_all": "Washington|Hancock",
+    "county_fips_all": "23029|23009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

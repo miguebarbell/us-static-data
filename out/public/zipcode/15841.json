@@ -1,0 +1,20 @@
+{
+    "zip": 15841,
+    "lat": 41.25798,
+    "lng": -78.50441,
+    "city": "Force",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 188.0,
+    "density": 459.3,
+    "county_fips": 42047,
+    "county_name": "Elk",
+    "county_weights": "{\"42047\": 100}",
+    "county_names_all": "Elk",
+    "county_fips_all": "42047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

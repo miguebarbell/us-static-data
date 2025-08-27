@@ -1,0 +1,20 @@
+{
+    "zip": 60061,
+    "lat": 42.2334,
+    "lng": -87.96046,
+    "city": "Vernon Hills",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27883.0,
+    "density": 1288.3,
+    "county_fips": 17097,
+    "county_name": "Lake",
+    "county_weights": "{\"17097\": 100}",
+    "county_names_all": "Lake",
+    "county_fips_all": "17097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

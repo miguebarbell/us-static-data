@@ -1,0 +1,20 @@
+{
+    "zip": 5067,
+    "lat": 43.69162,
+    "lng": -72.53944,
+    "city": "South Pomfret",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 151.0,
+    "density": 5.1,
+    "county_fips": 50027,
+    "county_name": "Windsor",
+    "county_weights": "{\"50027\": 100}",
+    "county_names_all": "Windsor",
+    "county_fips_all": "50027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

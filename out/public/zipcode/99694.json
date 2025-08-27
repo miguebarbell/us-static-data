@@ -1,0 +1,20 @@
+{
+    "zip": 99694,
+    "lat": 61.61854,
+    "lng": -149.8255,
+    "city": "Houston",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1406.0,
+    "density": 20.2,
+    "county_fips": 2170,
+    "county_name": "Matanuska-Susitna",
+    "county_weights": "{\"02170\": 100}",
+    "county_names_all": "Matanuska-Susitna",
+    "county_fips_all": "02170",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

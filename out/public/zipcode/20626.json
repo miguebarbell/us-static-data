@@ -1,0 +1,20 @@
+{
+    "zip": 20626,
+    "lat": 38.23256,
+    "lng": -76.76404,
+    "city": "Coltons Point",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 198.0,
+    "density": 50.0,
+    "county_fips": 24037,
+    "county_name": "St. Mary's",
+    "county_weights": "{\"24037\": 100}",
+    "county_names_all": "St. Mary's",
+    "county_fips_all": "24037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

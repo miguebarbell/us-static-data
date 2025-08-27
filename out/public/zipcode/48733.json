@@ -1,0 +1,20 @@
+{
+    "zip": 48733,
+    "lat": 43.53306,
+    "lng": -83.59029,
+    "city": "Fairgrove",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1650.0,
+    "density": 12.7,
+    "county_fips": 26157,
+    "county_name": "Tuscola",
+    "county_weights": "{\"26157\": 100}",
+    "county_names_all": "Tuscola",
+    "county_fips_all": "26157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

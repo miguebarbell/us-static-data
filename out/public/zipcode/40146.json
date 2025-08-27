@@ -1,0 +1,20 @@
+{
+    "zip": 40146,
+    "lat": 37.84622,
+    "lng": -86.31954,
+    "city": "Irvington",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3297.0,
+    "density": 16.9,
+    "county_fips": 21027,
+    "county_name": "Breckinridge",
+    "county_weights": "{\"21027\": 96.67, \"21163\": 3.33}",
+    "county_names_all": "Breckinridge|Meade",
+    "county_fips_all": "21027|21163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

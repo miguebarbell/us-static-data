@@ -1,0 +1,20 @@
+{
+    "zip": 99505,
+    "lat": 61.27512,
+    "lng": -149.65197,
+    "city": "Jber",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5425.0,
+    "density": 50.2,
+    "county_fips": 2020,
+    "county_name": "Anchorage",
+    "county_weights": "{\"02020\": 100}",
+    "county_names_all": "Anchorage",
+    "county_fips_all": "02020",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

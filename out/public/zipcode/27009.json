@@ -1,0 +1,20 @@
+{
+    "zip": 27009,
+    "lat": 36.23089,
+    "lng": -80.07927,
+    "city": "Belews Creek",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3493.0,
+    "density": 81.7,
+    "county_fips": 37067,
+    "county_name": "Forsyth",
+    "county_weights": "{\"37067\": 90.74, \"37169\": 9.26}",
+    "county_names_all": "Forsyth|Stokes",
+    "county_fips_all": "37067|37169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

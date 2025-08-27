@@ -1,0 +1,20 @@
+{
+    "zip": 12957,
+    "lat": 44.85353,
+    "lng": -74.57706,
+    "city": "Moira",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1721.0,
+    "density": 18.8,
+    "county_fips": 36033,
+    "county_name": "Franklin",
+    "county_weights": "{\"36033\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "36033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

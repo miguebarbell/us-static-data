@@ -1,0 +1,20 @@
+{
+    "zip": 81087,
+    "lat": 37.39168,
+    "lng": -102.41277,
+    "city": "Vilas",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 206.0,
+    "density": 2.7,
+    "county_fips": 8009,
+    "county_name": "Baca",
+    "county_weights": "{\"08009\": 100}",
+    "county_names_all": "Baca",
+    "county_fips_all": "08009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

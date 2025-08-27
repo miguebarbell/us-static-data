@@ -1,0 +1,20 @@
+{
+    "zip": 31635,
+    "lat": 31.103,
+    "lng": -83.04317,
+    "city": "Lakeland",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6978.0,
+    "density": 18.9,
+    "county_fips": 13173,
+    "county_name": "Lanier",
+    "county_weights": "{\"13173\": 78.45, \"13003\": 11.75, \"13065\": 9.81}",
+    "county_names_all": "Lanier|Atkinson|Clinch",
+    "county_fips_all": "13173|13003|13065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

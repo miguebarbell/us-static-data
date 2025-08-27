@@ -1,0 +1,20 @@
+{
+    "zip": 30736,
+    "lat": 34.90244,
+    "lng": -85.13306,
+    "city": "Ringgold",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44134.0,
+    "density": 136.7,
+    "county_fips": 13047,
+    "county_name": "Catoosa",
+    "county_weights": "{\"13047\": 95.55, \"13313\": 3.13, \"13295\": 1.32}",
+    "county_names_all": "Catoosa|Whitfield|Walker",
+    "county_fips_all": "13047|13313|13295",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

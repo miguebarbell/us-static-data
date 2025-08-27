@@ -1,0 +1,20 @@
+{
+    "zip": 19456,
+    "lat": 40.1367,
+    "lng": -75.45962,
+    "city": "Oaks",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 192.0,
+    "density": 393.4,
+    "county_fips": 42091,
+    "county_name": "Montgomery",
+    "county_weights": "{\"42091\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "42091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

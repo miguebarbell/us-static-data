@@ -1,0 +1,20 @@
+{
+    "zip": 56468,
+    "lat": 46.49141,
+    "lng": -94.29856,
+    "city": "Nisswa",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4367.0,
+    "density": 33.9,
+    "county_fips": 27035,
+    "county_name": "Crow Wing",
+    "county_weights": "{\"27035\": 61.12, \"27021\": 38.88}",
+    "county_names_all": "Crow Wing|Cass",
+    "county_fips_all": "27035|27021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

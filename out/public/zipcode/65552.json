@@ -1,0 +1,20 @@
+{
+    "zip": 65552,
+    "lat": 37.53842,
+    "lng": -92.16701,
+    "city": "Plato",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2259.0,
+    "density": 6.1,
+    "county_fips": 29215,
+    "county_name": "Texas",
+    "county_weights": "{\"29215\": 77.69, \"29169\": 12.18, \"29105\": 10.13}",
+    "county_names_all": "Texas|Pulaski|Laclede",
+    "county_fips_all": "29215|29169|29105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

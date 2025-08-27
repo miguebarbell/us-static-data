@@ -1,0 +1,20 @@
+{
+    "zip": 64770,
+    "lat": 38.27528,
+    "lng": -93.98662,
+    "city": "Montrose",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1163.0,
+    "density": 4.1,
+    "county_fips": 29083,
+    "county_name": "Henry",
+    "county_weights": "{\"29083\": 84.01, \"29013\": 11.38, \"29185\": 4.61}",
+    "county_names_all": "Henry|Bates|St. Clair",
+    "county_fips_all": "29083|29013|29185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

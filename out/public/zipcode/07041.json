@@ -1,0 +1,20 @@
+{
+    "zip": 7041,
+    "lat": 40.72301,
+    "lng": -74.30065,
+    "city": "Millburn",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7610.0,
+    "density": 2189.8,
+    "county_fips": 34013,
+    "county_name": "Essex",
+    "county_weights": "{\"34013\": 99.47, \"34039\": 0.53}",
+    "county_names_all": "Essex|Union",
+    "county_fips_all": "34013|34039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

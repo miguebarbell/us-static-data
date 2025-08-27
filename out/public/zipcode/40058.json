@@ -1,0 +1,20 @@
+{
+    "zip": 40058,
+    "lat": 38.43265,
+    "lng": -85.17002,
+    "city": "Port Royal",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16.0,
+    "density": 312.3,
+    "county_fips": 21103,
+    "county_name": "Henry",
+    "county_weights": "{\"21103\": 100}",
+    "county_names_all": "Henry",
+    "county_fips_all": "21103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

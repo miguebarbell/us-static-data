@@ -1,0 +1,20 @@
+{
+    "zip": 22401,
+    "lat": 38.29928,
+    "lng": -77.48704,
+    "city": "Fredericksburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28201.0,
+    "density": 1050.5,
+    "county_fips": 51630,
+    "county_name": "Fredericksburg",
+    "county_weights": "{\"51630\": 99.83, \"51177\": 0.17}",
+    "county_names_all": "Fredericksburg|Spotsylvania",
+    "county_fips_all": "51630|51177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

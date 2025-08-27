@@ -1,0 +1,20 @@
+{
+    "zip": 62617,
+    "lat": 40.14948,
+    "lng": -90.18109,
+    "city": "Bath",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 542.0,
+    "density": 3.4,
+    "county_fips": 17125,
+    "county_name": "Mason",
+    "county_weights": "{\"17125\": 100}",
+    "county_names_all": "Mason",
+    "county_fips_all": "17125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

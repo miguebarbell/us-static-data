@@ -1,0 +1,20 @@
+{
+    "zip": 16125,
+    "lat": 41.40565,
+    "lng": -80.37135,
+    "city": "Greenville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17088.0,
+    "density": 62.7,
+    "county_fips": 42085,
+    "county_name": "Mercer",
+    "county_weights": "{\"42085\": 98.41, \"42039\": 1.59}",
+    "county_names_all": "Mercer|Crawford",
+    "county_fips_all": "42085|42039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

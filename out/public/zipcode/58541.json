@@ -1,0 +1,20 @@
+{
+    "zip": 58541,
+    "lat": 47.33929,
+    "lng": -102.05177,
+    "city": "Golden Valley",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 517.0,
+    "density": 0.9,
+    "county_fips": 38057,
+    "county_name": "Mercer",
+    "county_weights": "{\"38057\": 100}",
+    "county_names_all": "Mercer",
+    "county_fips_all": "38057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/North_Dakota/Beulah"
+}

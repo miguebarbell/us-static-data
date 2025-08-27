@@ -1,0 +1,20 @@
+{
+    "zip": 60056,
+    "lat": 42.06618,
+    "lng": -87.93473,
+    "city": "Mount Prospect",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 55989.0,
+    "density": 1989.5,
+    "county_fips": 17031,
+    "county_name": "Cook",
+    "county_weights": "{\"17031\": 100}",
+    "county_names_all": "Cook",
+    "county_fips_all": "17031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

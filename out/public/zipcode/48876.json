@@ -1,0 +1,20 @@
+{
+    "zip": 48876,
+    "lat": 42.64757,
+    "lng": -84.73631,
+    "city": "Potterville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4301.0,
+    "density": 123.2,
+    "county_fips": 26045,
+    "county_name": "Eaton",
+    "county_weights": "{\"26045\": 100}",
+    "county_names_all": "Eaton",
+    "county_fips_all": "26045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

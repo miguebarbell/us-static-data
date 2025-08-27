@@ -1,0 +1,20 @@
+{
+    "zip": 98589,
+    "lat": 46.84133,
+    "lng": -122.82087,
+    "city": "Tenino",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7296.0,
+    "density": 30.4,
+    "county_fips": 53067,
+    "county_name": "Thurston",
+    "county_weights": "{\"53067\": 100}",
+    "county_names_all": "Thurston",
+    "county_fips_all": "53067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

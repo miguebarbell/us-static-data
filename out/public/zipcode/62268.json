@@ -1,0 +1,20 @@
+{
+    "zip": 62268,
+    "lat": 38.27208,
+    "lng": -89.52612,
+    "city": "Oakdale",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 922.0,
+    "density": 6.7,
+    "county_fips": 17189,
+    "county_name": "Washington",
+    "county_weights": "{\"17189\": 95.21, \"17145\": 4.79}",
+    "county_names_all": "Washington|Perry",
+    "county_fips_all": "17189|17145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 38001,
+    "lat": 35.81323,
+    "lng": -89.15505,
+    "city": "Alamo",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4208.0,
+    "density": 24.1,
+    "county_fips": 47033,
+    "county_name": "Crockett",
+    "county_weights": "{\"47033\": 100}",
+    "county_names_all": "Crockett",
+    "county_fips_all": "47033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

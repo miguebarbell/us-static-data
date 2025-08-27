@@ -1,0 +1,20 @@
+{
+    "zip": 50707,
+    "lat": 42.4771,
+    "lng": -92.27918,
+    "city": "Evansdale",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7407.0,
+    "density": 348.2,
+    "county_fips": 19013,
+    "county_name": "Black Hawk",
+    "county_weights": "{\"19013\": 100}",
+    "county_names_all": "Black Hawk",
+    "county_fips_all": "19013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

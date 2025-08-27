@@ -1,0 +1,20 @@
+{
+    "zip": 46126,
+    "lat": 39.62053,
+    "lng": -85.88694,
+    "city": "Fairland",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3976.0,
+    "density": 47.0,
+    "county_fips": 18145,
+    "county_name": "Shelby",
+    "county_weights": "{\"18145\": 100}",
+    "county_names_all": "Shelby",
+    "county_fips_all": "18145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 1376,
+    "lat": 42.59273,
+    "lng": -72.54591,
+    "city": "Turners Falls",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5032.0,
+    "density": 476.3,
+    "county_fips": 25011,
+    "county_name": "Franklin",
+    "county_weights": "{\"25011\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "25011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

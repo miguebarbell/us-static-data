@@ -1,0 +1,20 @@
+{
+    "zip": 53926,
+    "lat": 43.67164,
+    "lng": -89.21497,
+    "city": "Dalton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1877.0,
+    "density": 14.1,
+    "county_fips": 55047,
+    "county_name": "Green Lake",
+    "county_weights": "{\"55047\": 55.19, \"55077\": 26.05, \"55021\": 18.76}",
+    "county_names_all": "Green Lake|Marquette|Columbia",
+    "county_fips_all": "55047|55077|55021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

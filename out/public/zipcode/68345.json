@@ -1,0 +1,20 @@
+{
+    "zip": 68345,
+    "lat": 40.03692,
+    "lng": -96.01928,
+    "city": "Du Bois",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 253.0,
+    "density": 2.1,
+    "county_fips": 31133,
+    "county_name": "Pawnee",
+    "county_weights": "{\"31133\": 65.12, \"31147\": 34.88}",
+    "county_names_all": "Pawnee|Richardson",
+    "county_fips_all": "31133|31147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

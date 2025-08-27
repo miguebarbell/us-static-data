@@ -1,0 +1,20 @@
+{
+    "zip": 23061,
+    "lat": 37.4331,
+    "lng": -76.55019,
+    "city": "Gloucester",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23219.0,
+    "density": 56.7,
+    "county_fips": 51073,
+    "county_name": "Gloucester",
+    "county_weights": "{\"51073\": 100}",
+    "county_names_all": "Gloucester",
+    "county_fips_all": "51073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

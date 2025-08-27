@@ -1,0 +1,20 @@
+{
+    "zip": 71724,
+    "lat": 33.326,
+    "lng": -92.54053,
+    "city": "Calion",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 258.0,
+    "density": 55.1,
+    "county_fips": 5139,
+    "county_name": "Union",
+    "county_weights": "{\"05139\": 100}",
+    "county_names_all": "Union",
+    "county_fips_all": "05139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

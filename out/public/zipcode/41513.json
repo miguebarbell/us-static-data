@@ -1,0 +1,20 @@
+{
+    "zip": 41513,
+    "lat": 37.35282,
+    "lng": -82.34329,
+    "city": "Belcher",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 393.0,
+    "density": 21.4,
+    "county_fips": 21195,
+    "county_name": "Pike",
+    "county_weights": "{\"21195\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "21195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

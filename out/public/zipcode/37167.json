@@ -1,0 +1,20 @@
+{
+    "zip": 37167,
+    "lat": 35.96325,
+    "lng": -86.52922,
+    "city": "Smyrna",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 63660.0,
+    "density": 446.9,
+    "county_fips": 47149,
+    "county_name": "Rutherford",
+    "county_weights": "{\"47149\": 100}",
+    "county_names_all": "Rutherford",
+    "county_fips_all": "47149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

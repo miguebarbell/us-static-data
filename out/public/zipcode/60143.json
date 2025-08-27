@@ -1,0 +1,20 @@
+{
+    "zip": 60143,
+    "lat": 41.97351,
+    "lng": -88.02071,
+    "city": "Itasca",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11798.0,
+    "density": 653.6,
+    "county_fips": 17043,
+    "county_name": "DuPage",
+    "county_weights": "{\"17043\": 100}",
+    "county_names_all": "DuPage",
+    "county_fips_all": "17043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

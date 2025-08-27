@@ -1,0 +1,20 @@
+{
+    "zip": 24484,
+    "lat": 38.1448,
+    "lng": -79.82013,
+    "city": "Warm Springs",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 530.0,
+    "density": 1.2,
+    "county_fips": 51017,
+    "county_name": "Bath",
+    "county_weights": "{\"51017\": 88.69, \"51091\": 11.31}",
+    "county_names_all": "Bath|Highland",
+    "county_fips_all": "51017|51091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

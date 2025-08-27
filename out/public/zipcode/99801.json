@@ -1,0 +1,20 @@
+{
+    "zip": 99801,
+    "lat": 58.39785,
+    "lng": -134.05472,
+    "city": "Juneau",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29796.0,
+    "density": 5.2,
+    "county_fips": 2110,
+    "county_name": "Juneau",
+    "county_weights": "{\"02110\": 100}",
+    "county_names_all": "Juneau",
+    "county_fips_all": "02110",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Juneau"
+}

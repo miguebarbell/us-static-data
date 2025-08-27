@@ -1,0 +1,20 @@
+{
+    "zip": 75189,
+    "lat": 32.94821,
+    "lng": -96.30941,
+    "city": "Royse City",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44348.0,
+    "density": 155.8,
+    "county_fips": 48397,
+    "county_name": "Rockwall",
+    "county_weights": "{\"48397\": 42.32, \"48231\": 38.22, \"48085\": 19.46}",
+    "county_names_all": "Rockwall|Hunt|Collin",
+    "county_fips_all": "48397|48231|48085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

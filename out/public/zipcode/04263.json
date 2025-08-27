@@ -1,0 +1,20 @@
+{
+    "zip": 4263,
+    "lat": 44.29476,
+    "lng": -70.13061,
+    "city": "Leeds",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2371.0,
+    "density": 22.9,
+    "county_fips": 23001,
+    "county_name": "Androscoggin",
+    "county_weights": "{\"23001\": 100}",
+    "county_names_all": "Androscoggin",
+    "county_fips_all": "23001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

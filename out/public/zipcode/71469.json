@@ -1,0 +1,20 @@
+{
+    "zip": 71469,
+    "lat": 31.67755,
+    "lng": -93.2671,
+    "city": "Robeline",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2914.0,
+    "density": 5.1,
+    "county_fips": 22069,
+    "county_name": "Natchitoches",
+    "county_weights": "{\"22069\": 84.33, \"22085\": 15.67}",
+    "county_names_all": "Natchitoches|Sabine",
+    "county_fips_all": "22069|22085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

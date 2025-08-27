@@ -1,0 +1,20 @@
+{
+    "zip": 53088,
+    "lat": 44.07178,
+    "lng": -88.29966,
+    "city": "Stockbridge",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 217.0,
+    "density": 545.7,
+    "county_fips": 55015,
+    "county_name": "Calumet",
+    "county_weights": "{\"55015\": 100}",
+    "county_names_all": "Calumet",
+    "county_fips_all": "55015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

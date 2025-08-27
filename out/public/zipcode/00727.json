@@ -1,0 +1,20 @@
+{
+    "zip": 727,
+    "lat": 18.21142,
+    "lng": -66.07374,
+    "city": "Caguas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 53412.0,
+    "density": 914.0,
+    "county_fips": 72025,
+    "county_name": "Caguas",
+    "county_weights": "{\"72025\": 100}",
+    "county_names_all": "Caguas",
+    "county_fips_all": "72025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

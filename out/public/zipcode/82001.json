@@ -1,0 +1,20 @@
+{
+    "zip": 82001,
+    "lat": 41.095,
+    "lng": -104.93265,
+    "city": "Cheyenne",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37955.0,
+    "density": 265.9,
+    "county_fips": 56021,
+    "county_name": "Laramie",
+    "county_weights": "{\"56021\": 100}",
+    "county_names_all": "Laramie",
+    "county_fips_all": "56021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

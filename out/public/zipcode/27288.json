@@ -1,0 +1,20 @@
+{
+    "zip": 27288,
+    "lat": 36.49812,
+    "lng": -79.74587,
+    "city": "Eden",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22768.0,
+    "density": 123.1,
+    "county_fips": 37157,
+    "county_name": "Rockingham",
+    "county_weights": "{\"37157\": 100}",
+    "county_names_all": "Rockingham",
+    "county_fips_all": "37157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

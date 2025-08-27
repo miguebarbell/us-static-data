@@ -1,0 +1,20 @@
+{
+    "zip": 41535,
+    "lat": 37.59368,
+    "lng": -82.28422,
+    "city": "Huddy",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 748.0,
+    "density": 106.9,
+    "county_fips": 21195,
+    "county_name": "Pike",
+    "county_weights": "{\"21195\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "21195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

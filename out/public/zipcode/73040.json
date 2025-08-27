@@ -1,0 +1,20 @@
+{
+    "zip": 73040,
+    "lat": 35.64442,
+    "lng": -98.37861,
+    "city": "Geary",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1334.0,
+    "density": 2.1,
+    "county_fips": 40011,
+    "county_name": "Blaine",
+    "county_weights": "{\"40011\": 68.88, \"40017\": 31.12}",
+    "county_names_all": "Blaine|Canadian",
+    "county_fips_all": "40011|40017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

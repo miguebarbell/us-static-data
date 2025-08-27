@@ -1,0 +1,20 @@
+{
+    "zip": 76247,
+    "lat": 33.0965,
+    "lng": -97.33154,
+    "city": "Justin",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18360.0,
+    "density": 95.3,
+    "county_fips": 48121,
+    "county_name": "Denton",
+    "county_weights": "{\"48121\": 96.58, \"48497\": 3.42}",
+    "county_names_all": "Denton|Wise",
+    "county_fips_all": "48121|48497",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 60552,
+    "lat": 41.66144,
+    "lng": -88.70343,
+    "city": "Somonauk",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4589.0,
+    "density": 66.6,
+    "county_fips": 17037,
+    "county_name": "DeKalb",
+    "county_weights": "{\"17037\": 80.76, \"17099\": 19.24}",
+    "county_names_all": "DeKalb|LaSalle",
+    "county_fips_all": "17037|17099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

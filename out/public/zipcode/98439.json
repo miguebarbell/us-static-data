@@ -1,0 +1,20 @@
+{
+    "zip": 98439,
+    "lat": 47.13164,
+    "lng": -122.49603,
+    "city": "Lakewood",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5389.0,
+    "density": 382.3,
+    "county_fips": 53053,
+    "county_name": "Pierce",
+    "county_weights": "{\"53053\": 100}",
+    "county_names_all": "Pierce",
+    "county_fips_all": "53053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

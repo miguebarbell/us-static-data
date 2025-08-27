@@ -1,0 +1,20 @@
+{
+    "zip": 52751,
+    "lat": 41.8519,
+    "lng": -90.68398,
+    "city": "Grand Mound",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1027.0,
+    "density": 7.8,
+    "county_fips": 19045,
+    "county_name": "Clinton",
+    "county_weights": "{\"19045\": 100}",
+    "county_names_all": "Clinton",
+    "county_fips_all": "19045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

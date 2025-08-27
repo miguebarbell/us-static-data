@@ -1,0 +1,20 @@
+{
+    "zip": 22807,
+    "lat": 38.43495,
+    "lng": -78.86736,
+    "city": "Harrisonburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5520.0,
+    "density": 3270.8,
+    "county_fips": 51660,
+    "county_name": "Harrisonburg",
+    "county_weights": "{\"51660\": 100}",
+    "county_names_all": "Harrisonburg",
+    "county_fips_all": "51660",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

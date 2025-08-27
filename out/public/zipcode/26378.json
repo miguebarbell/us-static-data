@@ -1,0 +1,20 @@
+{
+    "zip": 26378,
+    "lat": 39.12264,
+    "lng": -80.44772,
+    "city": "Jane Lew",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4639.0,
+    "density": 25.1,
+    "county_fips": 54041,
+    "county_name": "Lewis",
+    "county_weights": "{\"54041\": 66.85, \"54033\": 33.15}",
+    "county_names_all": "Lewis|Harrison",
+    "county_fips_all": "54041|54033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 57325,
+    "lat": 43.83961,
+    "lng": -99.31144,
+    "city": "Chamberlain",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3237.0,
+    "density": 4.4,
+    "county_fips": 46015,
+    "county_name": "Brule",
+    "county_weights": "{\"46015\": 65.53, \"46017\": 34.47}",
+    "county_names_all": "Brule|Buffalo",
+    "county_fips_all": "46015|46017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 56501,
+    "lat": 46.83665,
+    "lng": -95.82233,
+    "city": "Detroit Lakes",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18239.0,
+    "density": 37.7,
+    "county_fips": 27005,
+    "county_name": "Becker",
+    "county_weights": "{\"27005\": 92.04, \"27111\": 7.96}",
+    "county_names_all": "Becker|Otter Tail",
+    "county_fips_all": "27005|27111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

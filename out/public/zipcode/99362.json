@@ -1,0 +1,20 @@
+{
+    "zip": 99362,
+    "lat": 46.08727,
+    "lng": -118.31269,
+    "city": "Walla Walla",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42794.0,
+    "density": 54.5,
+    "county_fips": 53071,
+    "county_name": "Walla Walla",
+    "county_weights": "{\"53071\": 91.58, \"41059\": 8.42}",
+    "county_names_all": "Walla Walla|Umatilla",
+    "county_fips_all": "53071|41059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

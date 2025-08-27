@@ -1,0 +1,20 @@
+{
+    "zip": 96039,
+    "lat": 41.66376,
+    "lng": -123.37711,
+    "city": "Happy Camp",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 647.0,
+    "density": 0.9,
+    "county_fips": 6093,
+    "county_name": "Siskiyou",
+    "county_weights": "{\"06093\": 100}",
+    "county_names_all": "Siskiyou",
+    "county_fips_all": "06093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

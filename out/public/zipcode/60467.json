@@ -1,0 +1,20 @@
+{
+    "zip": 60467,
+    "lat": 41.59855,
+    "lng": -87.88848,
+    "city": "Orland Park",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24952.0,
+    "density": 652.3,
+    "county_fips": 17031,
+    "county_name": "Cook",
+    "county_weights": "{\"17031\": 94.05, \"17197\": 5.95}",
+    "county_names_all": "Cook|Will",
+    "county_fips_all": "17031|17197",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

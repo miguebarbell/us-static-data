@@ -1,0 +1,20 @@
+{
+    "zip": 82215,
+    "lat": 42.39738,
+    "lng": -104.71507,
+    "city": "Hartville",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 272.0,
+    "density": 1.7,
+    "county_fips": 56031,
+    "county_name": "Platte",
+    "county_weights": "{\"56031\": 100}",
+    "county_names_all": "Platte",
+    "county_fips_all": "56031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

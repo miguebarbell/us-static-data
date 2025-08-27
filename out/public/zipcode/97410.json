@@ -1,0 +1,20 @@
+{
+    "zip": 97410,
+    "lat": 42.80159,
+    "lng": -123.11931,
+    "city": "Azalea",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 389.0,
+    "density": 1.0,
+    "county_fips": 41019,
+    "county_name": "Douglas",
+    "county_weights": "{\"41019\": 100}",
+    "county_names_all": "Douglas",
+    "county_fips_all": "41019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

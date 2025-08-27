@@ -1,0 +1,20 @@
+{
+    "zip": 80444,
+    "lat": 39.63138,
+    "lng": -105.73078,
+    "city": "Georgetown",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1082.0,
+    "density": 11.0,
+    "county_fips": 8019,
+    "county_name": "Clear Creek",
+    "county_weights": "{\"08019\": 99.87, \"08093\": 0.13}",
+    "county_names_all": "Clear Creek|Park",
+    "county_fips_all": "08019|08093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

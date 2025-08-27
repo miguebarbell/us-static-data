@@ -1,0 +1,20 @@
+{
+    "zip": 47302,
+    "lat": 40.12992,
+    "lng": -85.37553,
+    "city": "Muncie",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25365.0,
+    "density": 150.2,
+    "county_fips": 18035,
+    "county_name": "Delaware",
+    "county_weights": "{\"18035\": 96.77, \"18065\": 3.23}",
+    "county_names_all": "Delaware|Henry",
+    "county_fips_all": "18035|18065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

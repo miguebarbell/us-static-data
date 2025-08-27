@@ -1,0 +1,20 @@
+{
+    "zip": 29707,
+    "lat": 34.98148,
+    "lng": -80.85669,
+    "city": "Fort Mill",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35224.0,
+    "density": 478.0,
+    "county_fips": 45057,
+    "county_name": "Lancaster",
+    "county_weights": "{\"45057\": 99.85, \"45091\": 0.15}",
+    "county_names_all": "Lancaster|York",
+    "county_fips_all": "45057|45091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

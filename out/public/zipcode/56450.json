@@ -1,0 +1,20 @@
+{
+    "zip": 56450,
+    "lat": 46.23341,
+    "lng": -93.8361,
+    "city": "Garrison",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 969.0,
+    "density": 14.2,
+    "county_fips": 27035,
+    "county_name": "Crow Wing",
+    "county_weights": "{\"27035\": 89.16, \"27095\": 10.84}",
+    "county_names_all": "Crow Wing|Mille Lacs",
+    "county_fips_all": "27035|27095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

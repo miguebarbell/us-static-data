@@ -1,0 +1,20 @@
+{
+    "zip": 50055,
+    "lat": 41.88456,
+    "lng": -93.2889,
+    "city": "Collins",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1157.0,
+    "density": 8.7,
+    "county_fips": 19169,
+    "county_name": "Story",
+    "county_weights": "{\"19169\": 65.17, \"19099\": 30.45, \"19127\": 4.38}",
+    "county_names_all": "Story|Jasper|Marshall",
+    "county_fips_all": "19169|19099|19127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

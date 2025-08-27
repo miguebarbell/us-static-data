@@ -1,0 +1,20 @@
+{
+    "zip": 58046,
+    "lat": 47.32203,
+    "lng": -97.72747,
+    "city": "Hope",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 646.0,
+    "density": 1.0,
+    "county_fips": 38091,
+    "county_name": "Steele",
+    "county_weights": "{\"38091\": 85.35, \"38003\": 12.99, \"38017\": 1.66}",
+    "county_names_all": "Steele|Barnes|Cass",
+    "county_fips_all": "38091|38003|38017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

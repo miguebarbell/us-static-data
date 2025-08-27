@@ -1,0 +1,20 @@
+{
+    "zip": 68943,
+    "lat": 40.03916,
+    "lng": -97.88589,
+    "city": "Hardy",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 215.0,
+    "density": 1.4,
+    "county_fips": 31129,
+    "county_name": "Nuckolls",
+    "county_weights": "{\"31129\": 84.06, \"20157\": 11.82, \"31169\": 4.12}",
+    "county_names_all": "Nuckolls|Republic|Thayer",
+    "county_fips_all": "31129|20157|31169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

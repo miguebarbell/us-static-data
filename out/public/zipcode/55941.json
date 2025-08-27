@@ -1,0 +1,20 @@
+{
+    "zip": 55941,
+    "lat": 43.72558,
+    "lng": -91.35382,
+    "city": "Hokah",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1084.0,
+    "density": 15.8,
+    "county_fips": 27055,
+    "county_name": "Houston",
+    "county_weights": "{\"27055\": 100}",
+    "county_names_all": "Houston",
+    "county_fips_all": "27055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 19606,
+    "lat": 40.3357,
+    "lng": -75.85755,
+    "city": "Reading",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36097.0,
+    "density": 522.9,
+    "county_fips": 42011,
+    "county_name": "Berks",
+    "county_weights": "{\"42011\": 100}",
+    "county_names_all": "Berks",
+    "county_fips_all": "42011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

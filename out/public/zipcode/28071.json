@@ -1,0 +1,20 @@
+{
+    "zip": 28071,
+    "lat": 35.51859,
+    "lng": -80.32175,
+    "city": "Gold Hill",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3056.0,
+    "density": 24.2,
+    "county_fips": 37159,
+    "county_name": "Rowan",
+    "county_weights": "{\"37159\": 66.85, \"37025\": 26.62, \"37167\": 6.53}",
+    "county_names_all": "Rowan|Cabarrus|Stanly",
+    "county_fips_all": "37159|37025|37167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

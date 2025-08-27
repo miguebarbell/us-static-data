@@ -1,0 +1,20 @@
+{
+    "zip": 28039,
+    "lat": 35.6803,
+    "lng": -80.43626,
+    "city": "East Spencer",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12.0,
+    "density": 78.8,
+    "county_fips": 37159,
+    "county_name": "Rowan",
+    "county_weights": "{\"37159\": 100}",
+    "county_names_all": "Rowan",
+    "county_fips_all": "37159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 83276,
+    "lat": 42.75942,
+    "lng": -111.44451,
+    "city": "Soda Springs",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3993.0,
+    "density": 2.2,
+    "county_fips": 16029,
+    "county_name": "Caribou",
+    "county_weights": "{\"16029\": 95.67, \"16007\": 4.33}",
+    "county_names_all": "Caribou|Bear Lake",
+    "county_fips_all": "16029|16007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

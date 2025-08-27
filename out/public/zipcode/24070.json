@@ -1,0 +1,20 @@
+{
+    "zip": 24070,
+    "lat": 37.37316,
+    "lng": -80.21238,
+    "city": "Catawba",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1481.0,
+    "density": 9.3,
+    "county_fips": 51161,
+    "county_name": "Roanoke",
+    "county_weights": "{\"51161\": 47.93, \"51045\": 47.16, \"51121\": 4.91}",
+    "county_names_all": "Roanoke|Craig|Montgomery",
+    "county_fips_all": "51161|51045|51121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 777,
+    "lat": 18.22365,
+    "lng": -65.90904,
+    "city": "Juncos",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37243.0,
+    "density": 535.5,
+    "county_fips": 72077,
+    "county_name": "Juncos",
+    "county_weights": "{\"72077\": 98.5, \"72129\": 0.81, \"72085\": 0.43, \"72029\": 0.14, \"72063\": 0.12}",
+    "county_names_all": "Juncos|San Lorenzo|Las Piedras|Can\u00f3vanas|Gurabo",
+    "county_fips_all": "72077|72129|72085|72029|72063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 57633,
+    "lat": 45.44584,
+    "lng": -101.50046,
+    "city": "Isabel",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 421.0,
+    "density": 0.2,
+    "county_fips": 46031,
+    "county_name": "Corson",
+    "county_weights": "{\"46031\": 44.39, \"46137\": 34.43, \"46041\": 21.18}",
+    "county_names_all": "Corson|Ziebach|Dewey",
+    "county_fips_all": "46031|46137|46041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

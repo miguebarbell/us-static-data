@@ -1,0 +1,20 @@
+{
+    "zip": 64849,
+    "lat": 37.2544,
+    "lng": -94.44529,
+    "city": "Neck City",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 228.0,
+    "density": 253.4,
+    "county_fips": 29097,
+    "county_name": "Jasper",
+    "county_weights": "{\"29097\": 100}",
+    "county_names_all": "Jasper",
+    "county_fips_all": "29097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

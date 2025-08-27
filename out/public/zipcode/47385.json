@@ -1,0 +1,20 @@
+{
+    "zip": 47385,
+    "lat": 39.83194,
+    "lng": -85.44825,
+    "city": "Spiceland",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1700.0,
+    "density": 43.9,
+    "county_fips": 18065,
+    "county_name": "Henry",
+    "county_weights": "{\"18065\": 100}",
+    "county_names_all": "Henry",
+    "county_fips_all": "18065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

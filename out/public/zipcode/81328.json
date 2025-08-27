@@ -1,0 +1,20 @@
+{
+    "zip": 81328,
+    "lat": 37.30054,
+    "lng": -108.3101,
+    "city": "Mancos",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4159.0,
+    "density": 3.2,
+    "county_fips": 8083,
+    "county_name": "Montezuma",
+    "county_weights": "{\"08083\": 90.91, \"08067\": 9.09}",
+    "county_names_all": "Montezuma|La Plata",
+    "county_fips_all": "08083|08067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

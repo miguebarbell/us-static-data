@@ -1,0 +1,20 @@
+{
+    "zip": 24607,
+    "lat": 37.29498,
+    "lng": -82.26533,
+    "city": "Breaks",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 337.0,
+    "density": 9.0,
+    "county_fips": 51027,
+    "county_name": "Buchanan",
+    "county_weights": "{\"51027\": 62.4, \"51051\": 37.6}",
+    "county_names_all": "Buchanan|Dickenson",
+    "county_fips_all": "51027|51051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

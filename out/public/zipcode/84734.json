@@ -1,0 +1,20 @@
+{
+    "zip": 84734,
+    "lat": 38.36353,
+    "lng": -110.5658,
+    "city": "Hanksville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 211.0,
+    "density": 0.2,
+    "county_fips": 49055,
+    "county_name": "Wayne",
+    "county_weights": "{\"49055\": 100}",
+    "county_names_all": "Wayne",
+    "county_fips_all": "49055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

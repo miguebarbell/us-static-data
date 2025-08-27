@@ -1,0 +1,20 @@
+{
+    "zip": 57349,
+    "lat": 44.02671,
+    "lng": -97.57521,
+    "city": "Howard",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1450.0,
+    "density": 2.4,
+    "county_fips": 46097,
+    "county_name": "Miner",
+    "county_weights": "{\"46097\": 100}",
+    "county_names_all": "Miner",
+    "county_fips_all": "46097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

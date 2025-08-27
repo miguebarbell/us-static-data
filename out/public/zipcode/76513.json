@@ -1,0 +1,20 @@
+{
+    "zip": 76513,
+    "lat": 31.05777,
+    "lng": -97.50369,
+    "city": "Belton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44855.0,
+    "density": 159.9,
+    "county_fips": 48027,
+    "county_name": "Bell",
+    "county_weights": "{\"48027\": 100}",
+    "county_names_all": "Bell",
+    "county_fips_all": "48027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

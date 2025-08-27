@@ -1,0 +1,20 @@
+{
+    "zip": 99156,
+    "lat": 48.16211,
+    "lng": -117.18826,
+    "city": "Newport",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9323.0,
+    "density": 13.2,
+    "county_fips": 53051,
+    "county_name": "Pend Oreille",
+    "county_weights": "{\"53051\": 89.64, \"53063\": 10.36}",
+    "county_names_all": "Pend Oreille|Spokane",
+    "county_fips_all": "53051|53063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

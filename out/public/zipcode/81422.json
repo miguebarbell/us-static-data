@@ -1,0 +1,20 @@
+{
+    "zip": 81422,
+    "lat": 38.32039,
+    "lng": -108.70843,
+    "city": "Naturita",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 520.0,
+    "density": 0.8,
+    "county_fips": 8085,
+    "county_name": "Montrose",
+    "county_weights": "{\"08085\": 100}",
+    "county_names_all": "Montrose",
+    "county_fips_all": "08085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

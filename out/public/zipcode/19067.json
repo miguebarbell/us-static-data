@@ -1,0 +1,20 @@
+{
+    "zip": 19067,
+    "lat": 40.19595,
+    "lng": -74.80976,
+    "city": "Morrisville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 53596.0,
+    "density": 656.6,
+    "county_fips": 42017,
+    "county_name": "Bucks",
+    "county_weights": "{\"42017\": 100}",
+    "county_names_all": "Bucks",
+    "county_fips_all": "42017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 69350,
+    "lat": 41.98667,
+    "lng": -101.73311,
+    "city": "Hyannis",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 350.0,
+    "density": 0.3,
+    "county_fips": 31075,
+    "county_name": "Grant",
+    "county_weights": "{\"31075\": 63.45, \"31031\": 30.75, \"31005\": 5.8}",
+    "county_names_all": "Grant|Cherry|Arthur",
+    "county_fips_all": "31075|31031|31005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

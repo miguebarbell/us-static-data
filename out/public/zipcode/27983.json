@@ -1,0 +1,20 @@
+{
+    "zip": 27983,
+    "lat": 35.98198,
+    "lng": -76.94704,
+    "city": "Windsor",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8642.0,
+    "density": 10.5,
+    "county_fips": 37015,
+    "county_name": "Bertie",
+    "county_weights": "{\"37015\": 100}",
+    "county_names_all": "Bertie",
+    "county_fips_all": "37015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

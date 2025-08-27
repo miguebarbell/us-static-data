@@ -1,0 +1,20 @@
+{
+    "zip": 64624,
+    "lat": 39.57189,
+    "lng": -93.7848,
+    "city": "Braymer",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1488.0,
+    "density": 4.8,
+    "county_fips": 29025,
+    "county_name": "Caldwell",
+    "county_weights": "{\"29025\": 49.65, \"29033\": 26.17, \"29177\": 18.35, \"29117\": 5.83}",
+    "county_names_all": "Caldwell|Carroll|Ray|Livingston",
+    "county_fips_all": "29025|29033|29177|29117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

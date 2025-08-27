@@ -1,0 +1,20 @@
+{
+    "zip": 63547,
+    "lat": 40.13492,
+    "lng": -92.30651,
+    "city": "Hurdland",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 461.0,
+    "density": 2.6,
+    "county_fips": 29103,
+    "county_name": "Knox",
+    "county_weights": "{\"29103\": 89.0, \"29001\": 11.0}",
+    "county_names_all": "Knox|Adair",
+    "county_fips_all": "29103|29001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

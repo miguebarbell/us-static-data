@@ -1,0 +1,20 @@
+{
+    "zip": 31031,
+    "lat": 32.87424,
+    "lng": -83.32555,
+    "city": "Gordon",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7186.0,
+    "density": 22.0,
+    "county_fips": 13319,
+    "county_name": "Wilkinson",
+    "county_weights": "{\"13319\": 65.99, \"13289\": 16.68, \"13009\": 13.08, \"13169\": 4.25}",
+    "county_names_all": "Wilkinson|Twiggs|Baldwin|Jones",
+    "county_fips_all": "13319|13289|13009|13169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

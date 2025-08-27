@@ -1,0 +1,20 @@
+{
+    "zip": 31831,
+    "lat": 32.66486,
+    "lng": -84.70701,
+    "city": "Waverly Hall",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3709.0,
+    "density": 19.5,
+    "county_fips": 13145,
+    "county_name": "Harris",
+    "county_weights": "{\"13145\": 62.4, \"13263\": 37.6}",
+    "county_names_all": "Harris|Talbot",
+    "county_fips_all": "13145|13263",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

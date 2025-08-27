@@ -1,0 +1,20 @@
+{
+    "zip": 61942,
+    "lat": 39.81515,
+    "lng": -88.00818,
+    "city": "Newman",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1031.0,
+    "density": 5.7,
+    "county_fips": 17041,
+    "county_name": "Douglas",
+    "county_weights": "{\"17041\": 90.52, \"17045\": 9.48}",
+    "county_names_all": "Douglas|Edgar",
+    "county_fips_all": "17041|17045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

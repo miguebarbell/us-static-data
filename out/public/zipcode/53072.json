@@ -1,0 +1,20 @@
+{
+    "zip": 53072,
+    "lat": 43.07989,
+    "lng": -88.26638,
+    "city": "Pewaukee",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26652.0,
+    "density": 345.0,
+    "county_fips": 55133,
+    "county_name": "Waukesha",
+    "county_weights": "{\"55133\": 100}",
+    "county_names_all": "Waukesha",
+    "county_fips_all": "55133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

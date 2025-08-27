@@ -1,0 +1,20 @@
+{
+    "zip": 29922,
+    "lat": 32.59632,
+    "lng": -81.27407,
+    "city": "Garnett",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 907.0,
+    "density": 2.4,
+    "county_fips": 45049,
+    "county_name": "Hampton",
+    "county_weights": "{\"45049\": 66.78, \"45053\": 33.22}",
+    "county_names_all": "Hampton|Jasper",
+    "county_fips_all": "45049|45053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

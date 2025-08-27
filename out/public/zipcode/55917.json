@@ -1,0 +1,20 @@
+{
+    "zip": 55917,
+    "lat": 43.88164,
+    "lng": -93.0716,
+    "city": "Blooming Prairie",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3531.0,
+    "density": 10.2,
+    "county_fips": 27147,
+    "county_name": "Steele",
+    "county_weights": "{\"27147\": 44.33, \"27039\": 27.53, \"27047\": 15.98, \"27099\": 12.17}",
+    "county_names_all": "Steele|Dodge|Freeborn|Mower",
+    "county_fips_all": "27147|27039|27047|27099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

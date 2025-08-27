@@ -1,0 +1,20 @@
+{
+    "zip": 46102,
+    "lat": 39.99556,
+    "lng": -86.61993,
+    "city": "Advance",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 418.0,
+    "density": 274.0,
+    "county_fips": 18011,
+    "county_name": "Boone",
+    "county_weights": "{\"18011\": 100}",
+    "county_names_all": "Boone",
+    "county_fips_all": "18011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

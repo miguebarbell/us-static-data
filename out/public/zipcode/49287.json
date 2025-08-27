@@ -1,0 +1,20 @@
+{
+    "zip": 49287,
+    "lat": 42.02177,
+    "lng": -84.08263,
+    "city": "Tipton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2122.0,
+    "density": 29.3,
+    "county_fips": 26091,
+    "county_name": "Lenawee",
+    "county_weights": "{\"26091\": 94.36, \"26161\": 5.64}",
+    "county_names_all": "Lenawee|Washtenaw",
+    "county_fips_all": "26091|26161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

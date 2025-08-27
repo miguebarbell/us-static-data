@@ -1,0 +1,20 @@
+{
+    "zip": 38355,
+    "lat": 35.78637,
+    "lng": -88.76942,
+    "city": "Medina",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8244.0,
+    "density": 85.1,
+    "county_fips": 47113,
+    "county_name": "Madison",
+    "county_weights": "{\"47113\": 63.18, \"47053\": 36.82}",
+    "county_names_all": "Madison|Gibson",
+    "county_fips_all": "47113|47053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

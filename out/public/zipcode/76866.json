@@ -1,0 +1,20 @@
+{
+    "zip": 76866,
+    "lat": 31.45181,
+    "lng": -99.92922,
+    "city": "Paint Rock",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 918.0,
+    "density": 1.3,
+    "county_fips": 48095,
+    "county_name": "Concho",
+    "county_weights": "{\"48095\": 100}",
+    "county_names_all": "Concho",
+    "county_fips_all": "48095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

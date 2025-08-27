@@ -1,0 +1,20 @@
+{
+    "zip": 71820,
+    "lat": 33.78886,
+    "lng": -94.24421,
+    "city": "Alleene",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 57.0,
+    "density": 1.9,
+    "county_fips": 5081,
+    "county_name": "Little River",
+    "county_weights": "{\"05081\": 100}",
+    "county_names_all": "Little River",
+    "county_fips_all": "05081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

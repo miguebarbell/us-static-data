@@ -1,0 +1,20 @@
+{
+    "zip": 57584,
+    "lat": 43.49115,
+    "lng": -100.06382,
+    "city": "Witten",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 74.0,
+    "density": 0.4,
+    "county_fips": 46123,
+    "county_name": "Tripp",
+    "county_weights": "{\"46123\": 100}",
+    "county_names_all": "Tripp",
+    "county_fips_all": "46123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

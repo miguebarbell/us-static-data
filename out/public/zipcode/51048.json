@@ -1,0 +1,20 @@
+{
+    "zip": 51048,
+    "lat": 42.57963,
+    "lng": -95.86412,
+    "city": "Pierson",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 465.0,
+    "density": 4.9,
+    "county_fips": 19193,
+    "county_name": "Woodbury",
+    "county_weights": "{\"19193\": 48.56, \"19035\": 40.09, \"19149\": 11.35}",
+    "county_names_all": "Woodbury|Cherokee|Plymouth",
+    "county_fips_all": "19193|19035|19149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

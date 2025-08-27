@@ -1,0 +1,20 @@
+{
+    "zip": 15106,
+    "lat": 40.40882,
+    "lng": -80.10863,
+    "city": "Carnegie",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19165.0,
+    "density": 742.6,
+    "county_fips": 42003,
+    "county_name": "Allegheny",
+    "county_weights": "{\"42003\": 100}",
+    "county_names_all": "Allegheny",
+    "county_fips_all": "42003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

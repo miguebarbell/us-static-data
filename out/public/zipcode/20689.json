@@ -1,0 +1,20 @@
+{
+    "zip": 20689,
+    "lat": 38.66963,
+    "lng": -76.58591,
+    "city": "Sunderland",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2046.0,
+    "density": 102.5,
+    "county_fips": 24009,
+    "county_name": "Calvert",
+    "county_weights": "{\"24009\": 100}",
+    "county_names_all": "Calvert",
+    "county_fips_all": "24009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

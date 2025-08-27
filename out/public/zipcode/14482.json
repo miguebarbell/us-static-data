@@ -1,0 +1,20 @@
+{
+    "zip": 14482,
+    "lat": 42.97457,
+    "lng": -77.97014,
+    "city": "Le Roy",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8233.0,
+    "density": 52.2,
+    "county_fips": 36037,
+    "county_name": "Genesee",
+    "county_weights": "{\"36037\": 90.78, \"36051\": 7.47, \"36055\": 1.75}",
+    "county_names_all": "Genesee|Livingston|Monroe",
+    "county_fips_all": "36037|36051|36055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

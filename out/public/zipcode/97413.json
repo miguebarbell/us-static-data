@@ -1,0 +1,20 @@
+{
+    "zip": 97413,
+    "lat": 44.09633,
+    "lng": -122.01513,
+    "city": "Blue River",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 757.0,
+    "density": 0.6,
+    "county_fips": 41039,
+    "county_name": "Lane",
+    "county_weights": "{\"41039\": 100}",
+    "county_names_all": "Lane",
+    "county_fips_all": "41039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

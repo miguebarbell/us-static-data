@@ -1,0 +1,20 @@
+{
+    "zip": 84312,
+    "lat": 41.77976,
+    "lng": -112.15681,
+    "city": "Garland",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5070.0,
+    "density": 78.8,
+    "county_fips": 49003,
+    "county_name": "Box Elder",
+    "county_weights": "{\"49003\": 100}",
+    "county_names_all": "Box Elder",
+    "county_fips_all": "49003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

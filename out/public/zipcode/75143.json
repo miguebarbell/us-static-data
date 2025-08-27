@@ -1,0 +1,20 @@
+{
+    "zip": 75143,
+    "lat": 32.36334,
+    "lng": -96.24929,
+    "city": "Kemp",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14676.0,
+    "density": 31.1,
+    "county_fips": 48257,
+    "county_name": "Kaufman",
+    "county_weights": "{\"48257\": 54.16, \"48213\": 45.84}",
+    "county_names_all": "Kaufman|Henderson",
+    "county_fips_all": "48257|48213",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

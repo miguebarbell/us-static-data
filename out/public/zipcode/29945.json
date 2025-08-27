@@ -1,0 +1,20 @@
+{
+    "zip": 29945,
+    "lat": 32.68694,
+    "lng": -80.80912,
+    "city": "Yemassee",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3652.0,
+    "density": 6.8,
+    "county_fips": 45029,
+    "county_name": "Colleton",
+    "county_weights": "{\"45029\": 41.83, \"45013\": 27.05, \"45053\": 15.83, \"45049\": 15.28}",
+    "county_names_all": "Colleton|Beaufort|Jasper|Hampton",
+    "county_fips_all": "45029|45013|45053|45049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

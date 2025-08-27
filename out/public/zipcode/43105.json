@@ -1,0 +1,20 @@
+{
+    "zip": 43105,
+    "lat": 39.86513,
+    "lng": -82.61826,
+    "city": "Baltimore",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9059.0,
+    "density": 61.8,
+    "county_fips": 39045,
+    "county_name": "Fairfield",
+    "county_weights": "{\"39045\": 99.47, \"39089\": 0.53}",
+    "county_names_all": "Fairfield|Licking",
+    "county_fips_all": "39045|39089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

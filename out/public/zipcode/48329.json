@@ -1,0 +1,20 @@
+{
+    "zip": 48329,
+    "lat": 42.68826,
+    "lng": -83.38854,
+    "city": "Waterford",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24022.0,
+    "density": 901.0,
+    "county_fips": 26125,
+    "county_name": "Oakland",
+    "county_weights": "{\"26125\": 100}",
+    "county_names_all": "Oakland",
+    "county_fips_all": "26125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

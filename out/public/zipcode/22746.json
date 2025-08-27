@@ -1,0 +1,20 @@
+{
+    "zip": 22746,
+    "lat": 38.62922,
+    "lng": -78.0195,
+    "city": "Viewtown",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 625.0,
+    "density": 82.9,
+    "county_fips": 51047,
+    "county_name": "Culpeper",
+    "county_weights": "{\"51047\": 100}",
+    "county_names_all": "Culpeper",
+    "county_fips_all": "51047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

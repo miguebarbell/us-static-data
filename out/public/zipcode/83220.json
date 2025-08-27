@@ -1,0 +1,20 @@
+{
+    "zip": 83220,
+    "lat": 42.34465,
+    "lng": -111.38008,
+    "city": "Bern",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 80.0,
+    "density": 2.6,
+    "county_fips": 16007,
+    "county_name": "Bear Lake",
+    "county_weights": "{\"16007\": 100}",
+    "county_names_all": "Bear Lake",
+    "county_fips_all": "16007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

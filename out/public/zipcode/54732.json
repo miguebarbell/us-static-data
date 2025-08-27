@@ -1,0 +1,20 @@
+{
+    "zip": 54732,
+    "lat": 45.14571,
+    "lng": -91.16543,
+    "city": "Cornell",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2820.0,
+    "density": 11.2,
+    "county_fips": 55017,
+    "county_name": "Chippewa",
+    "county_weights": "{\"55017\": 100}",
+    "county_names_all": "Chippewa",
+    "county_fips_all": "55017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 60015,
+    "lat": 42.17239,
+    "lng": -87.87486,
+    "city": "Deerfield",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27720.0,
+    "density": 785.1,
+    "county_fips": 17097,
+    "county_name": "Lake",
+    "county_weights": "{\"17097\": 96.28, \"17031\": 3.72}",
+    "county_names_all": "Lake|Cook",
+    "county_fips_all": "17097|17031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

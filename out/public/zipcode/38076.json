@@ -1,0 +1,20 @@
+{
+    "zip": 38076,
+    "lat": 35.12301,
+    "lng": -89.45633,
+    "city": "Williston",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 874.0,
+    "density": 11.8,
+    "county_fips": 47047,
+    "county_name": "Fayette",
+    "county_weights": "{\"47047\": 100}",
+    "county_names_all": "Fayette",
+    "county_fips_all": "47047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

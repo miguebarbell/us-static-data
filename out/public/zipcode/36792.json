@@ -1,0 +1,20 @@
+{
+    "zip": 36792,
+    "lat": 32.92146,
+    "lng": -86.91147,
+    "city": "Randolph",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 761.0,
+    "density": 4.6,
+    "county_fips": 1007,
+    "county_name": "Bibb",
+    "county_weights": "{\"01007\": 81.88, \"01021\": 18.12}",
+    "county_names_all": "Bibb|Chilton",
+    "county_fips_all": "01007|01021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 62946,
+    "lat": 37.7028,
+    "lng": -88.52887,
+    "city": "Harrisburg",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11465.0,
+    "density": 30.4,
+    "county_fips": 17165,
+    "county_name": "Saline",
+    "county_weights": "{\"17165\": 94.85, \"17151\": 5.15}",
+    "county_names_all": "Saline|Pope",
+    "county_fips_all": "17165|17151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

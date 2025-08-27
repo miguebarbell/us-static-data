@@ -1,0 +1,20 @@
+{
+    "zip": 58413,
+    "lat": 46.02963,
+    "lng": -99.34235,
+    "city": "Ashley",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 975.0,
+    "density": 0.8,
+    "county_fips": 38051,
+    "county_name": "McIntosh",
+    "county_weights": "{\"38051\": 85.08, \"38021\": 8.35, \"46089\": 6.57}",
+    "county_names_all": "McIntosh|Dickey|McPherson",
+    "county_fips_all": "38051|38021|46089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

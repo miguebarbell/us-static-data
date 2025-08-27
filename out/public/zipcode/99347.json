@@ -1,0 +1,20 @@
+{
+    "zip": 99347,
+    "lat": 46.42531,
+    "lng": -117.57128,
+    "city": "Pomeroy",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2467.0,
+    "density": 1.2,
+    "county_fips": 53023,
+    "county_name": "Garfield",
+    "county_weights": "{\"53023\": 88.12, \"53013\": 9.57, \"53075\": 2.31}",
+    "county_names_all": "Garfield|Columbia|Whitman",
+    "county_fips_all": "53023|53013|53075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

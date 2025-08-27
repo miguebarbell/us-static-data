@@ -1,0 +1,20 @@
+{
+    "zip": 45152,
+    "lat": 39.35005,
+    "lng": -84.12316,
+    "city": "Morrow",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13577.0,
+    "density": 107.7,
+    "county_fips": 39165,
+    "county_name": "Warren",
+    "county_weights": "{\"39165\": 100}",
+    "county_names_all": "Warren",
+    "county_fips_all": "39165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

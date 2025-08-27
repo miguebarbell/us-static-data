@@ -1,0 +1,20 @@
+{
+    "zip": 37321,
+    "lat": 35.50239,
+    "lng": -85.00801,
+    "city": "Dayton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20670.0,
+    "density": 70.0,
+    "county_fips": 47143,
+    "county_name": "Rhea",
+    "county_weights": "{\"47143\": 95.36, \"47007\": 4.64}",
+    "county_names_all": "Rhea|Bledsoe",
+    "county_fips_all": "47143|47007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

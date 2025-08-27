@@ -1,0 +1,20 @@
+{
+    "zip": 23947,
+    "lat": 37.02265,
+    "lng": -78.44284,
+    "city": "Keysville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3195.0,
+    "density": 8.5,
+    "county_fips": 51111,
+    "county_name": "Lunenburg",
+    "county_weights": "{\"51111\": 51.65, \"51037\": 37.42, \"51147\": 10.93}",
+    "county_names_all": "Lunenburg|Charlotte|Prince Edward",
+    "county_fips_all": "51111|51037|51147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

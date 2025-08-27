@@ -1,0 +1,20 @@
+{
+    "zip": 28358,
+    "lat": 34.60527,
+    "lng": -78.94097,
+    "city": "Lumberton",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33745.0,
+    "density": 66.3,
+    "county_fips": 37155,
+    "county_name": "Robeson",
+    "county_weights": "{\"37155\": 100}",
+    "county_names_all": "Robeson",
+    "county_fips_all": "37155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

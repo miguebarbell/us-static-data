@@ -1,0 +1,20 @@
+{
+    "zip": 54740,
+    "lat": 44.74427,
+    "lng": -92.15853,
+    "city": "Elmwood",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1858.0,
+    "density": 8.6,
+    "county_fips": 55093,
+    "county_name": "Pierce",
+    "county_weights": "{\"55093\": 57.61, \"55033\": 42.39}",
+    "county_names_all": "Pierce|Dunn",
+    "county_fips_all": "55093|55033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

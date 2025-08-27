@@ -1,0 +1,20 @@
+{
+    "zip": 63451,
+    "lat": 39.91135,
+    "lng": -92.19728,
+    "city": "Leonard",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 190.0,
+    "density": 1.1,
+    "county_fips": 29205,
+    "county_name": "Shelby",
+    "county_weights": "{\"29205\": 90.34, \"29103\": 9.66}",
+    "county_names_all": "Shelby|Knox",
+    "county_fips_all": "29205|29103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

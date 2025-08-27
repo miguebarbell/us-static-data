@@ -1,0 +1,20 @@
+{
+    "zip": 16311,
+    "lat": 41.45706,
+    "lng": -80.03477,
+    "city": "Carlton",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 397.0,
+    "density": 10.5,
+    "county_fips": 42085,
+    "county_name": "Mercer",
+    "county_weights": "{\"42085\": 95.28, \"42121\": 4.72}",
+    "county_names_all": "Mercer|Venango",
+    "county_fips_all": "42085|42121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

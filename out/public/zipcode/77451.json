@@ -1,0 +1,20 @@
+{
+    "zip": 77451,
+    "lat": 29.46173,
+    "lng": -96.02688,
+    "city": "Kendleton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 510.0,
+    "density": 28.5,
+    "county_fips": 48157,
+    "county_name": "Fort Bend",
+    "county_weights": "{\"48157\": 99.9, \"48481\": 0.1}",
+    "county_names_all": "Fort Bend|Wharton",
+    "county_fips_all": "48157|48481",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

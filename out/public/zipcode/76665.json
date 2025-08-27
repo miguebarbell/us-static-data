@@ -1,0 +1,20 @@
+{
+    "zip": 76665,
+    "lat": 31.91784,
+    "lng": -97.72049,
+    "city": "Meridian",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2643.0,
+    "density": 6.1,
+    "county_fips": 48035,
+    "county_name": "Bosque",
+    "county_weights": "{\"48035\": 100}",
+    "county_names_all": "Bosque",
+    "county_fips_all": "48035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

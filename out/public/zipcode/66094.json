@@ -1,0 +1,20 @@
+{
+    "zip": 66094,
+    "lat": 39.95912,
+    "lng": -95.34298,
+    "city": "White Cloud",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 411.0,
+    "density": 3.3,
+    "county_fips": 20013,
+    "county_name": "Brown",
+    "county_weights": "{\"20013\": 52.28, \"20043\": 47.72}",
+    "county_names_all": "Brown|Doniphan",
+    "county_fips_all": "20013|20043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

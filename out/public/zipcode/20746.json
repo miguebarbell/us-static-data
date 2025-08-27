@@ -1,0 +1,20 @@
+{
+    "zip": 20746,
+    "lat": 38.83664,
+    "lng": -76.91936,
+    "city": "Suitland",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27494.0,
+    "density": 1403.1,
+    "county_fips": 24033,
+    "county_name": "Prince George's",
+    "county_weights": "{\"24033\": 100}",
+    "county_names_all": "Prince George's",
+    "county_fips_all": "24033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

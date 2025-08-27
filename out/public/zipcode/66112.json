@@ -1,0 +1,20 @@
+{
+    "zip": 66112,
+    "lat": 39.11494,
+    "lng": -94.7701,
+    "city": "Kansas City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12968.0,
+    "density": 911.7,
+    "county_fips": 20209,
+    "county_name": "Wyandotte",
+    "county_weights": "{\"20209\": 100}",
+    "county_names_all": "Wyandotte",
+    "county_fips_all": "20209",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

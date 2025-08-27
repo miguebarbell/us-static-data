@@ -1,0 +1,20 @@
+{
+    "zip": 57660,
+    "lat": 45.83052,
+    "lng": -101.53311,
+    "city": "Watauga",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 119.0,
+    "density": 0.2,
+    "county_fips": 46031,
+    "county_name": "Corson",
+    "county_weights": "{\"46031\": 87.99, \"38085\": 12.01}",
+    "county_names_all": "Corson|Sioux",
+    "county_fips_all": "46031|38085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

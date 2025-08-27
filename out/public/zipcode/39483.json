@@ -1,0 +1,20 @@
+{
+    "zip": 39483,
+    "lat": 31.23515,
+    "lng": -89.92674,
+    "city": "Foxworth",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5003.0,
+    "density": 13.0,
+    "county_fips": 28091,
+    "county_name": "Marion",
+    "county_weights": "{\"28091\": 96.69, \"28147\": 3.31}",
+    "county_names_all": "Marion|Walthall",
+    "county_fips_all": "28091|28147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

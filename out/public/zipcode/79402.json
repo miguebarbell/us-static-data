@@ -1,0 +1,20 @@
+{
+    "zip": 79402,
+    "lat": 33.58124,
+    "lng": -101.84201,
+    "city": "Lubbock",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 48303,
+    "county_name": "Lubbock",
+    "county_weights": "{\"48303\": 100}",
+    "county_names_all": "Lubbock",
+    "county_fips_all": "48303",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

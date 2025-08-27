@@ -1,0 +1,20 @@
+{
+    "zip": 50483,
+    "lat": 43.11174,
+    "lng": -93.99719,
+    "city": "Wesley",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 678.0,
+    "density": 3.2,
+    "county_fips": 19109,
+    "county_name": "Kossuth",
+    "county_weights": "{\"19109\": 70.57, \"19081\": 29.43}",
+    "county_names_all": "Kossuth|Hancock",
+    "county_fips_all": "19109|19081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

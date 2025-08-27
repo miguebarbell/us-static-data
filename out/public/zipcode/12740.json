@@ -1,0 +1,20 @@
+{
+    "zip": 12740,
+    "lat": 41.89499,
+    "lng": -74.46616,
+    "city": "Grahamsville",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1683.0,
+    "density": 9.0,
+    "county_fips": 36111,
+    "county_name": "Ulster",
+    "county_weights": "{\"36111\": 62.56, \"36105\": 37.44}",
+    "county_names_all": "Ulster|Sullivan",
+    "county_fips_all": "36111|36105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

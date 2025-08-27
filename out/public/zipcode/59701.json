@@ -1,0 +1,20 @@
+{
+    "zip": 59701,
+    "lat": 46.03497,
+    "lng": -112.46087,
+    "city": "Butte",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 34245.0,
+    "density": 25.9,
+    "county_fips": 30093,
+    "county_name": "Silver Bow",
+    "county_weights": "{\"30093\": 48.47, \"30043\": 46.89, \"30023\": 4.64}",
+    "county_names_all": "Silver Bow|Jefferson|Deer Lodge",
+    "county_fips_all": "30093|30043|30023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

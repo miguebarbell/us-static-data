@@ -1,0 +1,20 @@
+{
+    "zip": 23024,
+    "lat": 37.92448,
+    "lng": -77.77554,
+    "city": "Bumpass",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10770.0,
+    "density": 38.6,
+    "county_fips": 51109,
+    "county_name": "Louisa",
+    "county_weights": "{\"51109\": 80.4, \"51177\": 15.16, \"51085\": 4.44}",
+    "county_names_all": "Louisa|Spotsylvania|Hanover",
+    "county_fips_all": "51109|51177|51085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

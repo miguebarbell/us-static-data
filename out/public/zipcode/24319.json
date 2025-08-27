@@ -1,0 +1,20 @@
+{
+    "zip": 24319,
+    "lat": 36.76048,
+    "lng": -81.65778,
+    "city": "Chilhowie",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6963.0,
+    "density": 43.1,
+    "county_fips": 51173,
+    "county_name": "Smyth",
+    "county_weights": "{\"51173\": 79.3, \"51191\": 20.7}",
+    "county_names_all": "Smyth|Washington",
+    "county_fips_all": "51173|51191",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

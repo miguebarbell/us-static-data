@@ -1,0 +1,20 @@
+{
+    "zip": 74754,
+    "lat": 34.19367,
+    "lng": -95.12231,
+    "city": "Ringold",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 534.0,
+    "density": 4.0,
+    "county_fips": 40089,
+    "county_name": "McCurtain",
+    "county_weights": "{\"40089\": 64.7, \"40127\": 32.59, \"40023\": 2.71}",
+    "county_names_all": "McCurtain|Pushmataha|Choctaw",
+    "county_fips_all": "40089|40127|40023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

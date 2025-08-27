@@ -1,0 +1,20 @@
+{
+    "zip": 70734,
+    "lat": 30.20812,
+    "lng": -91.00095,
+    "city": "Geismar",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9880.0,
+    "density": 137.5,
+    "county_fips": 22005,
+    "county_name": "Ascension",
+    "county_weights": "{\"22005\": 100}",
+    "county_names_all": "Ascension",
+    "county_fips_all": "22005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

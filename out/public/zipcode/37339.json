@@ -1,0 +1,20 @@
+{
+    "zip": 37339,
+    "lat": 35.37386,
+    "lng": -85.63222,
+    "city": "Gruetli Laager",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1499.0,
+    "density": 14.7,
+    "county_fips": 47061,
+    "county_name": "Grundy",
+    "county_weights": "{\"47061\": 100}",
+    "county_names_all": "Grundy",
+    "county_fips_all": "47061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

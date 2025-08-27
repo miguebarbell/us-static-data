@@ -1,0 +1,20 @@
+{
+    "zip": 33015,
+    "lat": 25.94116,
+    "lng": -80.31761,
+    "city": "Hialeah",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 68430.0,
+    "density": 4488.8,
+    "county_fips": 12086,
+    "county_name": "Miami-Dade",
+    "county_weights": "{\"12086\": 100}",
+    "county_names_all": "Miami-Dade",
+    "county_fips_all": "12086",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

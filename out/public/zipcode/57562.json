@@ -1,0 +1,20 @@
+{
+    "zip": 57562,
+    "lat": 43.89962,
+    "lng": -100.95816,
+    "city": "Okaton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 131.0,
+    "density": 0.5,
+    "county_fips": 46075,
+    "county_name": "Jones",
+    "county_weights": "{\"46075\": 100}",
+    "county_names_all": "Jones",
+    "county_fips_all": "46075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

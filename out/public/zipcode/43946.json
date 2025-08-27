@@ -1,0 +1,20 @@
+{
+    "zip": 43946,
+    "lat": 39.64792,
+    "lng": -80.96887,
+    "city": "Sardis",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1501.0,
+    "density": 10.1,
+    "county_fips": 39111,
+    "county_name": "Monroe",
+    "county_weights": "{\"39111\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "39111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

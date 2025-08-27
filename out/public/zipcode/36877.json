@@ -1,0 +1,20 @@
+{
+    "zip": 36877,
+    "lat": 32.55465,
+    "lng": -85.0974,
+    "city": "Smiths Station",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12878.0,
+    "density": 127.2,
+    "county_fips": 1081,
+    "county_name": "Lee",
+    "county_weights": "{\"01081\": 99.9, \"01113\": 0.1}",
+    "county_names_all": "Lee|Russell",
+    "county_fips_all": "01081|01113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

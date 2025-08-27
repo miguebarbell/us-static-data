@@ -1,0 +1,20 @@
+{
+    "zip": 1902,
+    "lat": 42.4712,
+    "lng": -70.93983,
+    "city": "Lynn",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 51680.0,
+    "density": 8420.1,
+    "county_fips": 25009,
+    "county_name": "Essex",
+    "county_weights": "{\"25009\": 100}",
+    "county_names_all": "Essex",
+    "county_fips_all": "25009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

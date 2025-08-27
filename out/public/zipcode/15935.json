@@ -1,0 +1,20 @@
+{
+    "zip": 15935,
+    "lat": 40.20112,
+    "lng": -78.96755,
+    "city": "Hollsopple",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2567.0,
+    "density": 43.4,
+    "county_fips": 42111,
+    "county_name": "Somerset",
+    "county_weights": "{\"42111\": 100}",
+    "county_names_all": "Somerset",
+    "county_fips_all": "42111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

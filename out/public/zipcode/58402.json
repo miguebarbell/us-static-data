@@ -1,0 +1,20 @@
+{
+    "zip": 58402,
+    "lat": 46.88191,
+    "lng": -98.68755,
+    "city": "Jamestown",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 102.0,
+    "density": 958.5,
+    "county_fips": 38093,
+    "county_name": "Stutsman",
+    "county_weights": "{\"38093\": 100}",
+    "county_names_all": "Stutsman",
+    "county_fips_all": "38093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

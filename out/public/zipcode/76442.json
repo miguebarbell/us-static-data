@@ -1,0 +1,20 @@
+{
+    "zip": 76442,
+    "lat": 31.89015,
+    "lng": -98.61242,
+    "city": "Comanche",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7082.0,
+    "density": 6.3,
+    "county_fips": 48093,
+    "county_name": "Comanche",
+    "county_weights": "{\"48093\": 91.02, \"48333\": 7.51, \"48193\": 1.47}",
+    "county_names_all": "Comanche|Mills|Hamilton",
+    "county_fips_all": "48093|48333|48193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 58845,
+    "lat": 48.63928,
+    "lng": -103.92207,
+    "city": "Grenora",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 555.0,
+    "density": 0.8,
+    "county_fips": 38105,
+    "county_name": "Williams",
+    "county_weights": "{\"38105\": 50.29, \"38023\": 49.71}",
+    "county_names_all": "Williams|Divide",
+    "county_fips_all": "38105|38023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

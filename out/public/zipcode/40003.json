@@ -1,0 +1,20 @@
+{
+    "zip": 40003,
+    "lat": 38.26863,
+    "lng": -85.04367,
+    "city": "Bagdad",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2052.0,
+    "density": 18.3,
+    "county_fips": 21211,
+    "county_name": "Shelby",
+    "county_weights": "{\"21211\": 92.6, \"21073\": 7.4}",
+    "county_names_all": "Shelby|Franklin",
+    "county_fips_all": "21211|21073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

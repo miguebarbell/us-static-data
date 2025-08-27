@@ -1,0 +1,20 @@
+{
+    "zip": 83246,
+    "lat": 42.60616,
+    "lng": -112.03051,
+    "city": "Lava Hot Springs",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 846.0,
+    "density": 2.4,
+    "county_fips": 16005,
+    "county_name": "Bannock",
+    "county_weights": "{\"16005\": 100}",
+    "county_names_all": "Bannock",
+    "county_fips_all": "16005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

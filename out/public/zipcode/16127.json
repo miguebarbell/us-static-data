@@ -1,0 +1,20 @@
+{
+    "zip": 16127,
+    "lat": 41.17433,
+    "lng": -80.07002,
+    "city": "Grove City",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15295.0,
+    "density": 80.7,
+    "county_fips": 42085,
+    "county_name": "Mercer",
+    "county_weights": "{\"42085\": 89.98, \"42121\": 7.99, \"42073\": 1.69, \"42019\": 0.34}",
+    "county_names_all": "Mercer|Venango|Lawrence|Butler",
+    "county_fips_all": "42085|42121|42073|42019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

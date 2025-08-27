@@ -1,0 +1,20 @@
+{
+    "zip": 47620,
+    "lat": 37.93284,
+    "lng": -87.90555,
+    "city": "Mount Vernon",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12533.0,
+    "density": 23.2,
+    "county_fips": 18129,
+    "county_name": "Posey",
+    "county_weights": "{\"18129\": 100}",
+    "county_names_all": "Posey",
+    "county_fips_all": "18129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

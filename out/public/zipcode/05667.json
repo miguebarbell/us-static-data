@@ -1,0 +1,20 @@
+{
+    "zip": 5667,
+    "lat": 44.28122,
+    "lng": -72.3986,
+    "city": "Plainfield",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2245.0,
+    "density": 17.5,
+    "county_fips": 50023,
+    "county_name": "Washington",
+    "county_weights": "{\"50023\": 99.87, \"50005\": 0.13}",
+    "county_names_all": "Washington|Caledonia",
+    "county_fips_all": "50023|50005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

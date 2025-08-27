@@ -1,0 +1,20 @@
+{
+    "zip": 4072,
+    "lat": 43.53898,
+    "lng": -70.46236,
+    "city": "Saco",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20636.0,
+    "density": 206.5,
+    "county_fips": 23031,
+    "county_name": "York",
+    "county_weights": "{\"23031\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "23031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

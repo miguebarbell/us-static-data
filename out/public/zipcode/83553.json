@@ -1,0 +1,20 @@
+{
+    "zip": 83553,
+    "lat": 46.38365,
+    "lng": -115.9038,
+    "city": "Weippe",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1045.0,
+    "density": 3.7,
+    "county_fips": 16035,
+    "county_name": "Clearwater",
+    "county_weights": "{\"16035\": 100}",
+    "county_names_all": "Clearwater",
+    "county_fips_all": "16035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 98524,
+    "lat": 47.36703,
+    "lng": -122.84548,
+    "city": "Allyn",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4585.0,
+    "density": 216.0,
+    "county_fips": 53045,
+    "county_name": "Mason",
+    "county_weights": "{\"53045\": 100}",
+    "county_names_all": "Mason",
+    "county_fips_all": "53045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 75126,
+    "lat": 32.74361,
+    "lng": -96.45289,
+    "city": "Forney",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 77116.0,
+    "density": 364.8,
+    "county_fips": 48257,
+    "county_name": "Kaufman",
+    "county_weights": "{\"48257\": 97.33, \"48397\": 2.67}",
+    "county_names_all": "Kaufman|Rockwall",
+    "county_fips_all": "48257|48397",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

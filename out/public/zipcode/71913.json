@@ -1,0 +1,20 @@
+{
+    "zip": 71913,
+    "lat": 34.44677,
+    "lng": -93.09981,
+    "city": "Hot Springs National Park",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 46853.0,
+    "density": 134.8,
+    "county_fips": 5051,
+    "county_name": "Garland",
+    "county_weights": "{\"05051\": 77.56, \"05059\": 22.44}",
+    "county_names_all": "Garland|Hot Spring",
+    "county_fips_all": "05051|05059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 35160,
+    "lat": 33.36898,
+    "lng": -86.1005,
+    "city": "Talladega",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26177.0,
+    "density": 30.4,
+    "county_fips": 1121,
+    "county_name": "Talladega",
+    "county_weights": "{\"01121\": 77.56, \"01027\": 22.44}",
+    "county_names_all": "Talladega|Clay",
+    "county_fips_all": "01121|01027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

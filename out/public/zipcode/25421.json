@@ -1,0 +1,20 @@
+{
+    "zip": 25421,
+    "lat": 39.37821,
+    "lng": -78.16384,
+    "city": "Glengary",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33.0,
+    "density": 13.0,
+    "county_fips": 54003,
+    "county_name": "Berkeley",
+    "county_weights": "{\"54003\": 100}",
+    "county_names_all": "Berkeley",
+    "county_fips_all": "54003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

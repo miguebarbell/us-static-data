@@ -1,0 +1,20 @@
+{
+    "zip": 47373,
+    "lat": 40.33863,
+    "lng": -85.15356,
+    "city": "Redkey",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2218.0,
+    "density": 27.6,
+    "county_fips": 18075,
+    "county_name": "Jay",
+    "county_weights": "{\"18075\": 94.28, \"18135\": 5.72}",
+    "county_names_all": "Jay|Randolph",
+    "county_fips_all": "18075|18135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

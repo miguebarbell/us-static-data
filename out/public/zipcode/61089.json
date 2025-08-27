@@ -1,0 +1,20 @@
+{
+    "zip": 61089,
+    "lat": 42.47349,
+    "lng": -89.82335,
+    "city": "Winslow",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 593.0,
+    "density": 5.2,
+    "county_fips": 17177,
+    "county_name": "Stephenson",
+    "county_weights": "{\"17177\": 96.02, \"17085\": 3.98}",
+    "county_names_all": "Stephenson|Jo Daviess",
+    "county_fips_all": "17177|17085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

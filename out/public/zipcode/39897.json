@@ -1,0 +1,20 @@
+{
+    "zip": 39897,
+    "lat": 30.91234,
+    "lng": -84.33297,
+    "city": "Whigham",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3308.0,
+    "density": 9.3,
+    "county_fips": 13131,
+    "county_name": "Grady",
+    "county_weights": "{\"13131\": 92.0, \"13087\": 8.0}",
+    "county_names_all": "Grady|Decatur",
+    "county_fips_all": "13131|13087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

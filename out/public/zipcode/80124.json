@@ -1,0 +1,20 @@
+{
+    "zip": 80124,
+    "lat": 39.53197,
+    "lng": -104.89173,
+    "city": "Lone Tree",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22472.0,
+    "density": 924.6,
+    "county_fips": 8035,
+    "county_name": "Douglas",
+    "county_weights": "{\"08035\": 100}",
+    "county_names_all": "Douglas",
+    "county_fips_all": "08035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

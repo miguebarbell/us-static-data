@@ -1,0 +1,20 @@
+{
+    "zip": 59036,
+    "lat": 46.46606,
+    "lng": -109.89035,
+    "city": "Harlowton",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1530.0,
+    "density": 0.9,
+    "county_fips": 30107,
+    "county_name": "Wheatland",
+    "county_weights": "{\"30107\": 100}",
+    "county_names_all": "Wheatland",
+    "county_fips_all": "30107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

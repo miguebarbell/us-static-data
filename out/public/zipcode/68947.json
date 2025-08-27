@@ -1,0 +1,20 @@
+{
+    "zip": 68947,
+    "lat": 40.30139,
+    "lng": -99.05188,
+    "city": "Hildreth",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 681.0,
+    "density": 2.8,
+    "county_fips": 31061,
+    "county_name": "Franklin",
+    "county_weights": "{\"31061\": 79.21, \"31099\": 20.79}",
+    "county_names_all": "Franklin|Kearney",
+    "county_fips_all": "31061|31099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

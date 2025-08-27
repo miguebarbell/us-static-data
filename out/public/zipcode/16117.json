@@ -1,0 +1,20 @@
+{
+    "zip": 16117,
+    "lat": 40.8743,
+    "lng": -80.2568,
+    "city": "Ellwood City",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16013.0,
+    "density": 169.9,
+    "county_fips": 42073,
+    "county_name": "Lawrence",
+    "county_weights": "{\"42073\": 65.47, \"42007\": 34.53}",
+    "county_names_all": "Lawrence|Beaver",
+    "county_fips_all": "42073|42007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

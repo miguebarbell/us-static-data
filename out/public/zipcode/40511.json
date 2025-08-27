@@ -1,0 +1,20 @@
+{
+    "zip": 40511,
+    "lat": 38.13278,
+    "lng": -84.47392,
+    "city": "Lexington",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36101.0,
+    "density": 162.0,
+    "county_fips": 21067,
+    "county_name": "Fayette",
+    "county_weights": "{\"21067\": 90.97, \"21209\": 4.88, \"21017\": 4.15}",
+    "county_names_all": "Fayette|Scott|Bourbon",
+    "county_fips_all": "21067|21209|21017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

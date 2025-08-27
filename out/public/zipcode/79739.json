@@ -1,0 +1,20 @@
+{
+    "zip": 79739,
+    "lat": 31.75515,
+    "lng": -101.50668,
+    "city": "Garden City",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 862.0,
+    "density": 0.8,
+    "county_fips": 48173,
+    "county_name": "Glasscock",
+    "county_weights": "{\"48173\": 91.41, \"48383\": 8.59}",
+    "county_names_all": "Glasscock|Reagan",
+    "county_fips_all": "48173|48383",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

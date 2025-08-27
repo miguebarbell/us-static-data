@@ -1,0 +1,20 @@
+{
+    "zip": 54773,
+    "lat": 44.39301,
+    "lng": -91.3002,
+    "city": "Whitehall",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3562.0,
+    "density": 19.7,
+    "county_fips": 55121,
+    "county_name": "Trempealeau",
+    "county_weights": "{\"55121\": 100}",
+    "county_names_all": "Trempealeau",
+    "county_fips_all": "55121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 33764,
+    "lat": 27.93679,
+    "lng": -82.7424,
+    "city": "Clearwater",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27365.0,
+    "density": 1673.4,
+    "county_fips": 12103,
+    "county_name": "Pinellas",
+    "county_weights": "{\"12103\": 100}",
+    "county_names_all": "Pinellas",
+    "county_fips_all": "12103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

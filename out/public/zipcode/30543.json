@@ -1,0 +1,20 @@
+{
+    "zip": 30543,
+    "lat": 34.29781,
+    "lng": -83.64971,
+    "city": "Gillsville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5685.0,
+    "density": 57.2,
+    "county_fips": 13139,
+    "county_name": "Hall",
+    "county_weights": "{\"13139\": 56.49, \"13011\": 32.66, \"13157\": 10.85}",
+    "county_names_all": "Hall|Banks|Jackson",
+    "county_fips_all": "13139|13011|13157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

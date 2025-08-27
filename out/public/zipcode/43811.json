@@ -1,0 +1,20 @@
+{
+    "zip": 43811,
+    "lat": 40.18285,
+    "lng": -81.93232,
+    "city": "Conesville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 491.0,
+    "density": 8.9,
+    "county_fips": 39031,
+    "county_name": "Coshocton",
+    "county_weights": "{\"39031\": 100}",
+    "county_names_all": "Coshocton",
+    "county_fips_all": "39031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

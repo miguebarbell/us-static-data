@@ -1,0 +1,20 @@
+{
+    "zip": 6022,
+    "lat": 41.86595,
+    "lng": -72.92749,
+    "city": "Collinsville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29.0,
+    "density": 6.7,
+    "county_fips": 9110,
+    "county_name": "Capitol",
+    "county_weights": "{\"09110\": 100}",
+    "county_names_all": "Capitol",
+    "county_fips_all": "09110",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

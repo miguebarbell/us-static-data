@@ -1,0 +1,20 @@
+{
+    "zip": 12749,
+    "lat": 41.69149,
+    "lng": -74.82768,
+    "city": "Kauneonga Lake",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 507.0,
+    "density": 90.4,
+    "county_fips": 36105,
+    "county_name": "Sullivan",
+    "county_weights": "{\"36105\": 100}",
+    "county_names_all": "Sullivan",
+    "county_fips_all": "36105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

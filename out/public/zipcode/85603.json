@@ -1,0 +1,20 @@
+{
+    "zip": 85603,
+    "lat": 31.43525,
+    "lng": -109.91127,
+    "city": "Bisbee",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6798.0,
+    "density": 11.5,
+    "county_fips": 4003,
+    "county_name": "Cochise",
+    "county_weights": "{\"04003\": 100}",
+    "county_names_all": "Cochise",
+    "county_fips_all": "04003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

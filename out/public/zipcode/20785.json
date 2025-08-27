@@ -1,0 +1,20 @@
+{
+    "zip": 20785,
+    "lat": 38.91849,
+    "lng": -76.88237,
+    "city": "Hyattsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40946.0,
+    "density": 1562.2,
+    "county_fips": 24033,
+    "county_name": "Prince George's",
+    "county_weights": "{\"24033\": 100}",
+    "county_names_all": "Prince George's",
+    "county_fips_all": "24033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

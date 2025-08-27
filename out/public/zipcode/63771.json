@@ -1,0 +1,20 @@
+{
+    "zip": 63771,
+    "lat": 37.07431,
+    "lng": -89.71299,
+    "city": "Oran",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2461.0,
+    "density": 9.0,
+    "county_fips": 29201,
+    "county_name": "Scott",
+    "county_weights": "{\"29201\": 73.28, \"29207\": 24.98, \"29031\": 1.74}",
+    "county_names_all": "Scott|Stoddard|Cape Girardeau",
+    "county_fips_all": "29201|29207|29031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

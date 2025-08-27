@@ -1,0 +1,20 @@
+{
+    "zip": 74530,
+    "lat": 34.42677,
+    "lng": -96.5152,
+    "city": "Bromide",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 186.0,
+    "density": 3.1,
+    "county_fips": 40069,
+    "county_name": "Johnston",
+    "county_weights": "{\"40069\": 65.19, \"40029\": 34.81}",
+    "county_names_all": "Johnston|Coal",
+    "county_fips_all": "40069|40029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

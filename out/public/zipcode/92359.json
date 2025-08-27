@@ -1,0 +1,20 @@
+{
+    "zip": 92359,
+    "lat": 34.08296,
+    "lng": -117.07026,
+    "city": "Mentone",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9394.0,
+    "density": 188.9,
+    "county_fips": 6071,
+    "county_name": "San Bernardino",
+    "county_weights": "{\"06071\": 100}",
+    "county_names_all": "San Bernardino",
+    "county_fips_all": "06071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

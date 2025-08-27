@@ -1,0 +1,20 @@
+{
+    "zip": 58011,
+    "lat": 46.92711,
+    "lng": -97.54465,
+    "city": "Buffalo",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 507.0,
+    "density": 1.8,
+    "county_fips": 38017,
+    "county_name": "Cass",
+    "county_weights": "{\"38017\": 100}",
+    "county_names_all": "Cass",
+    "county_fips_all": "38017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 26254,
+    "lat": 38.91261,
+    "lng": -79.65341,
+    "city": "Bowden",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 127.0,
+    "density": 0.4,
+    "county_fips": 54083,
+    "county_name": "Randolph",
+    "county_weights": "{\"54083\": 87.15, \"54093\": 12.85}",
+    "county_names_all": "Randolph|Tucker",
+    "county_fips_all": "54083|54093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 99647,
+    "lat": 59.86411,
+    "lng": -154.01511,
+    "city": "Pedro Bay",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14.0,
+    "density": 0.0,
+    "county_fips": 2164,
+    "county_name": "Lake and Peninsula",
+    "county_weights": "{\"02164\": 100}",
+    "county_names_all": "Lake and Peninsula",
+    "county_fips_all": "02164",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

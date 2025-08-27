@@ -1,0 +1,20 @@
+{
+    "zip": 5832,
+    "lat": 44.59546,
+    "lng": -71.91027,
+    "city": "East Burke",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1061.0,
+    "density": 16.3,
+    "county_fips": 50005,
+    "county_name": "Caledonia",
+    "county_weights": "{\"50005\": 99.7, \"50009\": 0.3}",
+    "county_names_all": "Caledonia|Essex",
+    "county_fips_all": "50005|50009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

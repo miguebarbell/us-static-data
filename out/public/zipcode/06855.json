@@ -1,0 +1,20 @@
+{
+    "zip": 6855,
+    "lat": 41.08922,
+    "lng": -73.39615,
+    "city": "Norwalk",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8028.0,
+    "density": 1254.9,
+    "county_fips": 9190,
+    "county_name": "Western Connecticut",
+    "county_weights": "{\"09190\": 100}",
+    "county_names_all": "Western Connecticut",
+    "county_fips_all": "09190",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

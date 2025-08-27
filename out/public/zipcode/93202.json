@@ -1,0 +1,20 @@
+{
+    "zip": 93202,
+    "lat": 36.3187,
+    "lng": -119.7076,
+    "city": "Armona",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4014.0,
+    "density": 1008.6,
+    "county_fips": 6031,
+    "county_name": "Kings",
+    "county_weights": "{\"06031\": 100}",
+    "county_names_all": "Kings",
+    "county_fips_all": "06031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

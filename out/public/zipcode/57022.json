@@ -1,0 +1,20 @@
+{
+    "zip": 57022,
+    "lat": 43.85081,
+    "lng": -96.7327,
+    "city": "Dell Rapids",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5476.0,
+    "density": 15.0,
+    "county_fips": 46099,
+    "county_name": "Minnehaha",
+    "county_weights": "{\"46099\": 51.2, \"46101\": 45.92, \"46079\": 2.88}",
+    "county_names_all": "Minnehaha|Moody|Lake",
+    "county_fips_all": "46099|46101|46079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

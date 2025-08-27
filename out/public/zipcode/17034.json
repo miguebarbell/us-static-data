@@ -1,0 +1,20 @@
+{
+    "zip": 17034,
+    "lat": 40.20831,
+    "lng": -76.78489,
+    "city": "Highspire",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2988.0,
+    "density": 1422.8,
+    "county_fips": 42043,
+    "county_name": "Dauphin",
+    "county_weights": "{\"42043\": 100}",
+    "county_names_all": "Dauphin",
+    "county_fips_all": "42043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

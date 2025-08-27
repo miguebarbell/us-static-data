@@ -1,0 +1,20 @@
+{
+    "zip": 59923,
+    "lat": 48.26996,
+    "lng": -115.31073,
+    "city": "Libby",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9885.0,
+    "density": 2.7,
+    "county_fips": 30053,
+    "county_name": "Lincoln",
+    "county_weights": "{\"30053\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "30053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

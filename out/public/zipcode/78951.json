@@ -1,0 +1,20 @@
+{
+    "zip": 78951,
+    "lat": 29.61361,
+    "lng": -96.83746,
+    "city": "Oakland",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 48089,
+    "county_name": "Colorado",
+    "county_weights": "{\"48089\": 99.89, \"48285\": 0.11}",
+    "county_names_all": "Colorado|Lavaca",
+    "county_fips_all": "48089|48285",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

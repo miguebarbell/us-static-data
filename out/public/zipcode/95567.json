@@ -1,0 +1,20 @@
+{
+    "zip": 95567,
+    "lat": 41.9498,
+    "lng": -124.1118,
+    "city": "Smith River",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2349.0,
+    "density": 14.5,
+    "county_fips": 6015,
+    "county_name": "Del Norte",
+    "county_weights": "{\"06015\": 100}",
+    "county_names_all": "Del Norte",
+    "county_fips_all": "06015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49449,
+    "lat": 43.79927,
+    "lng": -86.37496,
+    "city": "Pentwater",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2794.0,
+    "density": 25.9,
+    "county_fips": 26127,
+    "county_name": "Oceana",
+    "county_weights": "{\"26127\": 68.65, \"26105\": 31.35}",
+    "county_names_all": "Oceana|Mason",
+    "county_fips_all": "26127|26105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

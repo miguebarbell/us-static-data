@@ -1,0 +1,20 @@
+{
+    "zip": 6090,
+    "lat": 41.94685,
+    "lng": -72.86403,
+    "city": "West Granby",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 829.0,
+    "density": 24.2,
+    "county_fips": 9110,
+    "county_name": "Capitol",
+    "county_weights": "{\"09110\": 100}",
+    "county_names_all": "Capitol",
+    "county_fips_all": "09110",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

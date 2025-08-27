@@ -1,0 +1,20 @@
+{
+    "zip": 68439,
+    "lat": 40.99937,
+    "lng": -97.21136,
+    "city": "Staplehurst",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 700.0,
+    "density": 7.6,
+    "county_fips": 31159,
+    "county_name": "Seward",
+    "county_weights": "{\"31159\": 100}",
+    "county_names_all": "Seward",
+    "county_fips_all": "31159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

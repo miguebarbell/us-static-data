@@ -1,0 +1,20 @@
+{
+    "zip": 49743,
+    "lat": 45.27124,
+    "lng": -83.89394,
+    "city": "Hawks",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 888.0,
+    "density": 3.9,
+    "county_fips": 26141,
+    "county_name": "Presque Isle",
+    "county_weights": "{\"26141\": 100}",
+    "county_names_all": "Presque Isle",
+    "county_fips_all": "26141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

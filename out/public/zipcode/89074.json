@@ -1,0 +1,20 @@
+{
+    "zip": 89074,
+    "lat": 36.03639,
+    "lng": -115.08113,
+    "city": "Henderson",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 51843.0,
+    "density": 2206.6,
+    "county_fips": 32003,
+    "county_name": "Clark",
+    "county_weights": "{\"32003\": 100}",
+    "county_names_all": "Clark",
+    "county_fips_all": "32003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

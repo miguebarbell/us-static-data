@@ -1,0 +1,20 @@
+{
+    "zip": 23704,
+    "lat": 36.82603,
+    "lng": -76.3123,
+    "city": "Portsmouth",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19235.0,
+    "density": 1642.9,
+    "county_fips": 51740,
+    "county_name": "Portsmouth",
+    "county_weights": "{\"51740\": 100}",
+    "county_names_all": "Portsmouth",
+    "county_fips_all": "51740",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

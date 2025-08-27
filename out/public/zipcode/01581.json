@@ -1,0 +1,20 @@
+{
+    "zip": 1581,
+    "lat": 42.26815,
+    "lng": -71.61402,
+    "city": "Westborough",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21591.0,
+    "density": 404.6,
+    "county_fips": 25027,
+    "county_name": "Worcester",
+    "county_weights": "{\"25027\": 100}",
+    "county_names_all": "Worcester",
+    "county_fips_all": "25027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

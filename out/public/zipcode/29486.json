@@ -1,0 +1,20 @@
+{
+    "zip": 29486,
+    "lat": 33.10744,
+    "lng": -80.1458,
+    "city": "Summerville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 48964.0,
+    "density": 303.4,
+    "county_fips": 45015,
+    "county_name": "Berkeley",
+    "county_weights": "{\"45015\": 100}",
+    "county_names_all": "Berkeley",
+    "county_fips_all": "45015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

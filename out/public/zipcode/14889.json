@@ -1,0 +1,20 @@
+{
+    "zip": 14889,
+    "lat": 42.21605,
+    "lng": -76.58138,
+    "city": "Van Etten",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1341.0,
+    "density": 12.1,
+    "county_fips": 36015,
+    "county_name": "Chemung",
+    "county_weights": "{\"36015\": 87.3, \"36097\": 8.62, \"36107\": 4.08}",
+    "county_names_all": "Chemung|Schuyler|Tioga",
+    "county_fips_all": "36015|36097|36107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

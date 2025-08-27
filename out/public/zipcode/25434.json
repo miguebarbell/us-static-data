@@ -1,0 +1,20 @@
+{
+    "zip": 25434,
+    "lat": 39.45797,
+    "lng": -78.45038,
+    "city": "Paw Paw",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3087.0,
+    "density": 16.0,
+    "county_fips": 54027,
+    "county_name": "Hampshire",
+    "county_weights": "{\"54027\": 85.95, \"54065\": 14.05}",
+    "county_names_all": "Hampshire|Morgan",
+    "county_fips_all": "54027|54065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

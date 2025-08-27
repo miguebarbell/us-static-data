@@ -1,0 +1,20 @@
+{
+    "zip": 28310,
+    "lat": 35.12946,
+    "lng": -79.0523,
+    "city": "Fort Bragg",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9998.0,
+    "density": 88.6,
+    "county_fips": 37051,
+    "county_name": "Cumberland",
+    "county_weights": "{\"37051\": 100}",
+    "county_names_all": "Cumberland",
+    "county_fips_all": "37051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

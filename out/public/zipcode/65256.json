@@ -1,0 +1,20 @@
+{
+    "zip": 65256,
+    "lat": 39.12713,
+    "lng": -92.45568,
+    "city": "Harrisburg",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2044.0,
+    "density": 14.2,
+    "county_fips": 29019,
+    "county_name": "Boone",
+    "county_weights": "{\"29019\": 76.87, \"29089\": 23.13}",
+    "county_names_all": "Boone|Howard",
+    "county_fips_all": "29019|29089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

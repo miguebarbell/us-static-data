@@ -1,0 +1,20 @@
+{
+    "zip": 48842,
+    "lat": 42.63469,
+    "lng": -84.53931,
+    "city": "Holt",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21504.0,
+    "density": 482.5,
+    "county_fips": 26065,
+    "county_name": "Ingham",
+    "county_weights": "{\"26065\": 98.29, \"26045\": 1.71}",
+    "county_names_all": "Ingham|Eaton",
+    "county_fips_all": "26065|26045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

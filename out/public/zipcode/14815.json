@@ -1,0 +1,20 @@
+{
+    "zip": 14815,
+    "lat": 42.37335,
+    "lng": -77.09463,
+    "city": "Bradford",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 725.0,
+    "density": 15.4,
+    "county_fips": 36097,
+    "county_name": "Schuyler",
+    "county_weights": "{\"36097\": 68.4, \"36101\": 31.6}",
+    "county_names_all": "Schuyler|Steuben",
+    "county_fips_all": "36097|36101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

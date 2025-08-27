@@ -1,0 +1,20 @@
+{
+    "zip": 38460,
+    "lat": 35.10116,
+    "lng": -87.15937,
+    "city": "Goodspring",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1704.0,
+    "density": 24.9,
+    "county_fips": 47055,
+    "county_name": "Giles",
+    "county_weights": "{\"47055\": 100}",
+    "county_names_all": "Giles",
+    "county_fips_all": "47055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

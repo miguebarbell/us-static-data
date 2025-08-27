@@ -1,0 +1,20 @@
+{
+    "zip": 83335,
+    "lat": 42.58726,
+    "lng": -114.07347,
+    "city": "Hazelton",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2288.0,
+    "density": 7.8,
+    "county_fips": 16053,
+    "county_name": "Jerome",
+    "county_weights": "{\"16053\": 99.3, \"16067\": 0.7}",
+    "county_names_all": "Jerome|Minidoka",
+    "county_fips_all": "16053|16067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

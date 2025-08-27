@@ -1,0 +1,20 @@
+{
+    "zip": 78618,
+    "lat": 30.48624,
+    "lng": -99.16794,
+    "city": "Doss",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 292.0,
+    "density": 0.7,
+    "county_fips": 48171,
+    "county_name": "Gillespie",
+    "county_weights": "{\"48171\": 61.84, \"48319\": 38.16}",
+    "county_names_all": "Gillespie|Mason",
+    "county_fips_all": "48171|48319",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

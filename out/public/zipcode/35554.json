@@ -1,0 +1,20 @@
+{
+    "zip": 35554,
+    "lat": 33.89745,
+    "lng": -87.65593,
+    "city": "Eldridge",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1193.0,
+    "density": 8.8,
+    "county_fips": 1057,
+    "county_name": "Fayette",
+    "county_weights": "{\"01057\": 55.57, \"01127\": 25.4, \"01093\": 19.03}",
+    "county_names_all": "Fayette|Walker|Marion",
+    "county_fips_all": "01057|01127|01093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

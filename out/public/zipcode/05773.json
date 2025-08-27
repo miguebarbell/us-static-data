@@ -1,0 +1,20 @@
+{
+    "zip": 5773,
+    "lat": 43.40902,
+    "lng": -72.96858,
+    "city": "Wallingford",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2379.0,
+    "density": 12.2,
+    "county_fips": 50021,
+    "county_name": "Rutland",
+    "county_weights": "{\"50021\": 100}",
+    "county_names_all": "Rutland",
+    "county_fips_all": "50021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 3785,
+    "lat": 44.06525,
+    "lng": -71.87017,
+    "city": "Woodsville",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2141.0,
+    "density": 13.2,
+    "county_fips": 33009,
+    "county_name": "Grafton",
+    "county_weights": "{\"33009\": 100}",
+    "county_names_all": "Grafton",
+    "county_fips_all": "33009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

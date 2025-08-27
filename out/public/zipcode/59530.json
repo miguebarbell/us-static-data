@@ -1,0 +1,20 @@
+{
+    "zip": 59530,
+    "lat": 48.60212,
+    "lng": -110.68802,
+    "city": "Inverness",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 151.0,
+    "density": 0.3,
+    "county_fips": 30041,
+    "county_name": "Hill",
+    "county_weights": "{\"30041\": 100}",
+    "county_names_all": "Hill",
+    "county_fips_all": "30041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

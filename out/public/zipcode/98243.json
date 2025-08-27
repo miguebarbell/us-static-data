@@ -1,0 +1,20 @@
+{
+    "zip": 98243,
+    "lat": 48.61512,
+    "lng": -122.99882,
+    "city": "Deer Harbor",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 337.0,
+    "density": 42.9,
+    "county_fips": 53055,
+    "county_name": "San Juan",
+    "county_weights": "{\"53055\": 100}",
+    "county_names_all": "San Juan",
+    "county_fips_all": "53055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

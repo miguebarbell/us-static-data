@@ -1,0 +1,20 @@
+{
+    "zip": 77482,
+    "lat": 29.09351,
+    "lng": -95.88411,
+    "city": "Van Vleck",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2047.0,
+    "density": 17.9,
+    "county_fips": 48321,
+    "county_name": "Matagorda",
+    "county_weights": "{\"48321\": 100}",
+    "county_names_all": "Matagorda",
+    "county_fips_all": "48321",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

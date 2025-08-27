@@ -1,0 +1,20 @@
+{
+    "zip": 76566,
+    "lat": 31.51664,
+    "lng": -97.99881,
+    "city": "Purmela",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 387.0,
+    "density": 2.0,
+    "county_fips": 48099,
+    "county_name": "Coryell",
+    "county_weights": "{\"48099\": 68.38, \"48193\": 31.62}",
+    "county_names_all": "Coryell|Hamilton",
+    "county_fips_all": "48099|48193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

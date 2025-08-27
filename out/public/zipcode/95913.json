@@ -1,0 +1,20 @@
+{
+    "zip": 95913,
+    "lat": 39.62899,
+    "lng": -122.19215,
+    "city": "Artois",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 266.0,
+    "density": 5.9,
+    "county_fips": 6021,
+    "county_name": "Glenn",
+    "county_weights": "{\"06021\": 100}",
+    "county_names_all": "Glenn",
+    "county_fips_all": "06021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

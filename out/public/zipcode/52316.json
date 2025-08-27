@@ -1,0 +1,20 @@
+{
+    "zip": 52316,
+    "lat": 41.53727,
+    "lng": -92.09367,
+    "city": "North English",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1621.0,
+    "density": 8.6,
+    "county_fips": 19095,
+    "county_name": "Iowa",
+    "county_weights": "{\"19095\": 87.15, \"19107\": 12.85}",
+    "county_names_all": "Iowa|Keokuk",
+    "county_fips_all": "19095|19107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

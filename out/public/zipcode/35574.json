@@ -1,0 +1,20 @@
+{
+    "zip": 35574,
+    "lat": 33.5683,
+    "lng": -87.95757,
+    "city": "Kennedy",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1046.0,
+    "density": 4.1,
+    "county_fips": 1075,
+    "county_name": "Lamar",
+    "county_weights": "{\"01075\": 53.52, \"01107\": 34.02, \"01057\": 12.46}",
+    "county_names_all": "Lamar|Pickens|Fayette",
+    "county_fips_all": "01075|01107|01057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 16037,
+    "lat": 40.85103,
+    "lng": -80.12592,
+    "city": "Harmony",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4840.0,
+    "density": 54.2,
+    "county_fips": 42019,
+    "county_name": "Butler",
+    "county_weights": "{\"42019\": 86.1, \"42073\": 7.78, \"42007\": 6.12}",
+    "county_names_all": "Butler|Lawrence|Beaver",
+    "county_fips_all": "42019|42073|42007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

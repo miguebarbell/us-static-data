@@ -1,0 +1,20 @@
+{
+    "zip": 98811,
+    "lat": 47.73425,
+    "lng": -120.37379,
+    "city": "Ardenvoir",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42.0,
+    "density": 32.1,
+    "county_fips": 53007,
+    "county_name": "Chelan",
+    "county_weights": "{\"53007\": 100}",
+    "county_names_all": "Chelan",
+    "county_fips_all": "53007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

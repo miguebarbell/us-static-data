@@ -1,0 +1,20 @@
+{
+    "zip": 68923,
+    "lat": 40.36835,
+    "lng": -99.47314,
+    "city": "Atlanta",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 117.0,
+    "density": 191.3,
+    "county_fips": 31137,
+    "county_name": "Phelps",
+    "county_weights": "{\"31137\": 100}",
+    "county_names_all": "Phelps",
+    "county_fips_all": "31137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

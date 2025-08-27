@@ -1,0 +1,20 @@
+{
+    "zip": 95439,
+    "lat": 38.49055,
+    "lng": -122.77591,
+    "city": "Fulton",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 708.0,
+    "density": 102.5,
+    "county_fips": 6097,
+    "county_name": "Sonoma",
+    "county_weights": "{\"06097\": 100}",
+    "county_names_all": "Sonoma",
+    "county_fips_all": "06097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

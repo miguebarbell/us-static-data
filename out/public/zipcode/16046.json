@@ -1,0 +1,20 @@
+{
+    "zip": 16046,
+    "lat": 40.70192,
+    "lng": -80.02866,
+    "city": "Mars",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19577.0,
+    "density": 331.2,
+    "county_fips": 42019,
+    "county_name": "Butler",
+    "county_weights": "{\"42019\": 80.48, \"42003\": 19.52}",
+    "county_names_all": "Butler|Allegheny",
+    "county_fips_all": "42019|42003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

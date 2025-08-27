@@ -1,0 +1,20 @@
+{
+    "zip": 26710,
+    "lat": 39.30996,
+    "lng": -78.94544,
+    "city": "Burlington",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2043.0,
+    "density": 9.7,
+    "county_fips": 54057,
+    "county_name": "Mineral",
+    "county_weights": "{\"54057\": 74.33, \"54023\": 22.59, \"54027\": 3.08}",
+    "county_names_all": "Mineral|Grant|Hampshire",
+    "county_fips_all": "54057|54023|54027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

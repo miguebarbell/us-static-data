@@ -1,0 +1,20 @@
+{
+    "zip": 88431,
+    "lat": 35.21256,
+    "lng": -104.33677,
+    "city": "Newkirk",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 168.0,
+    "density": 0.4,
+    "county_fips": 35019,
+    "county_name": "Guadalupe",
+    "county_weights": "{\"35019\": 57.52, \"35047\": 42.48}",
+    "county_names_all": "Guadalupe|San Miguel",
+    "county_fips_all": "35019|35047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

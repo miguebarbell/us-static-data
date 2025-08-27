@@ -1,0 +1,20 @@
+{
+    "zip": 15853,
+    "lat": 41.39253,
+    "lng": -78.79357,
+    "city": "Ridgway",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6330.0,
+    "density": 16.2,
+    "county_fips": 42047,
+    "county_name": "Elk",
+    "county_weights": "{\"42047\": 93.64, \"42065\": 6.36}",
+    "county_names_all": "Elk|Jefferson",
+    "county_fips_all": "42047|42065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

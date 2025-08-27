@@ -1,0 +1,20 @@
+{
+    "zip": 47471,
+    "lat": 39.14253,
+    "lng": -86.99788,
+    "city": "Worthington",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3116.0,
+    "density": 18.7,
+    "county_fips": 18055,
+    "county_name": "Greene",
+    "county_weights": "{\"18055\": 78.93, \"18119\": 21.07}",
+    "county_names_all": "Greene|Owen",
+    "county_fips_all": "18055|18119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

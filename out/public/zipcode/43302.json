@@ -1,0 +1,20 @@
+{
+    "zip": 43302,
+    "lat": 40.59995,
+    "lng": -83.12967,
+    "city": "Marion",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 54581.0,
+    "density": 108.1,
+    "county_fips": 39101,
+    "county_name": "Marion",
+    "county_weights": "{\"39101\": 95.06, \"39033\": 4.71, \"39159\": 0.23}",
+    "county_names_all": "Marion|Crawford|Union",
+    "county_fips_all": "39101|39033|39159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

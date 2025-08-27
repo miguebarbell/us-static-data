@@ -1,0 +1,20 @@
+{
+    "zip": 44094,
+    "lat": 41.60985,
+    "lng": -81.3791,
+    "city": "Willoughby",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36689.0,
+    "density": 357.0,
+    "county_fips": 39085,
+    "county_name": "Lake",
+    "county_weights": "{\"39085\": 98.98, \"39055\": 1.02}",
+    "county_names_all": "Lake|Geauga",
+    "county_fips_all": "39085|39055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

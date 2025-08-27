@@ -1,0 +1,20 @@
+{
+    "zip": 43942,
+    "lat": 39.86367,
+    "lng": -80.84875,
+    "city": "Powhatan Point",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2087.0,
+    "density": 38.6,
+    "county_fips": 39013,
+    "county_name": "Belmont",
+    "county_weights": "{\"39013\": 73.24, \"39111\": 26.76}",
+    "county_names_all": "Belmont|Monroe",
+    "county_fips_all": "39013|39111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

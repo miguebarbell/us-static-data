@@ -1,0 +1,20 @@
+{
+    "zip": 48730,
+    "lat": 44.35443,
+    "lng": -83.48804,
+    "city": "East Tawas",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4584.0,
+    "density": 21.7,
+    "county_fips": 26069,
+    "county_name": "Iosco",
+    "county_weights": "{\"26069\": 100}",
+    "county_names_all": "Iosco",
+    "county_fips_all": "26069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

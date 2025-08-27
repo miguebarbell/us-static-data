@@ -1,0 +1,20 @@
+{
+    "zip": 68335,
+    "lat": 40.28243,
+    "lng": -97.803,
+    "city": "Davenport",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 466.0,
+    "density": 2.1,
+    "county_fips": 31169,
+    "county_name": "Thayer",
+    "county_weights": "{\"31169\": 56.9, \"31129\": 33.36, \"31059\": 9.74}",
+    "county_names_all": "Thayer|Nuckolls|Fillmore",
+    "county_fips_all": "31169|31129|31059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 3911,
+    "lat": 43.13424,
+    "lng": -70.63695,
+    "city": "York Harbor",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 322.0,
+    "density": 350.6,
+    "county_fips": 23031,
+    "county_name": "York",
+    "county_weights": "{\"23031\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "23031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

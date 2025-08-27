@@ -1,0 +1,20 @@
+{
+    "zip": 28363,
+    "lat": 34.95772,
+    "lng": -79.53384,
+    "city": "Marston",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1001.0,
+    "density": 5.2,
+    "county_fips": 37165,
+    "county_name": "Scotland",
+    "county_weights": "{\"37165\": 73.86, \"37153\": 26.14}",
+    "county_names_all": "Scotland|Richmond",
+    "county_fips_all": "37165|37153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

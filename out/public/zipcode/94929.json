@@ -1,0 +1,20 @@
+{
+    "zip": 94929,
+    "lat": 38.25444,
+    "lng": -122.96243,
+    "city": "Dillon Beach",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 224.0,
+    "density": 91.5,
+    "county_fips": 6041,
+    "county_name": "Marin",
+    "county_weights": "{\"06041\": 100}",
+    "county_names_all": "Marin",
+    "county_fips_all": "06041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

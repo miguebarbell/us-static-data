@@ -1,0 +1,20 @@
+{
+    "zip": 35741,
+    "lat": 34.7242,
+    "lng": -86.47745,
+    "city": "Brownsboro",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4292.0,
+    "density": 67.6,
+    "county_fips": 1089,
+    "county_name": "Madison",
+    "county_weights": "{\"01089\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "01089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

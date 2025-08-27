@@ -1,0 +1,20 @@
+{
+    "zip": 2816,
+    "lat": 41.69035,
+    "lng": -71.61954,
+    "city": "Coventry",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33246.0,
+    "density": 347.4,
+    "county_fips": 44003,
+    "county_name": "Kent",
+    "county_weights": "{\"44003\": 100}",
+    "county_names_all": "Kent",
+    "county_fips_all": "44003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

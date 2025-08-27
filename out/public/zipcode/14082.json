@@ -1,0 +1,20 @@
+{
+    "zip": 14082,
+    "lat": 42.65689,
+    "lng": -78.38435,
+    "city": "Java Center",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 566.0,
+    "density": 20.6,
+    "county_fips": 36121,
+    "county_name": "Wyoming",
+    "county_weights": "{\"36121\": 100}",
+    "county_names_all": "Wyoming",
+    "county_fips_all": "36121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

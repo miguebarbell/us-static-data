@@ -1,0 +1,20 @@
+{
+    "zip": 69123,
+    "lat": 41.04981,
+    "lng": -100.36627,
+    "city": "Brady",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 888.0,
+    "density": 1.3,
+    "county_fips": 31111,
+    "county_name": "Lincoln",
+    "county_weights": "{\"31111\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "31111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

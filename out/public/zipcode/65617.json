@@ -1,0 +1,20 @@
+{
+    "zip": 65617,
+    "lat": 37.4376,
+    "lng": -93.34063,
+    "city": "Brighton",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1737.0,
+    "density": 20.6,
+    "county_fips": 29167,
+    "county_name": "Polk",
+    "county_weights": "{\"29167\": 63.79, \"29077\": 36.21}",
+    "county_names_all": "Polk|Greene",
+    "county_fips_all": "29167|29077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

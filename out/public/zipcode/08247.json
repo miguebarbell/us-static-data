@@ -1,0 +1,20 @@
+{
+    "zip": 8247,
+    "lat": 39.05279,
+    "lng": -74.78508,
+    "city": "Stone Harbor",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 936.0,
+    "density": 69.1,
+    "county_fips": 34009,
+    "county_name": "Cape May",
+    "county_weights": "{\"34009\": 100}",
+    "county_names_all": "Cape May",
+    "county_fips_all": "34009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

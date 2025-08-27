@@ -1,0 +1,20 @@
+{
+    "zip": 45150,
+    "lat": 39.16567,
+    "lng": -84.23281,
+    "city": "Milford",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33342.0,
+    "density": 399.0,
+    "county_fips": 39025,
+    "county_name": "Clermont",
+    "county_weights": "{\"39025\": 99.11, \"39061\": 0.89}",
+    "county_names_all": "Clermont|Hamilton",
+    "county_fips_all": "39025|39061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

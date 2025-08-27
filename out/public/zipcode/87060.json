@@ -1,0 +1,20 @@
+{
+    "zip": 87060,
+    "lat": 34.74292,
+    "lng": -106.73571,
+    "city": "Tome",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11.0,
+    "density": 13.6,
+    "county_fips": 35061,
+    "county_name": "Valencia",
+    "county_weights": "{\"35061\": 100}",
+    "county_names_all": "Valencia",
+    "county_fips_all": "35061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

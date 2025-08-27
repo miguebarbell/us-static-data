@@ -1,0 +1,20 @@
+{
+    "zip": 46748,
+    "lat": 41.24829,
+    "lng": -85.16727,
+    "city": "Huntertown",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6933.0,
+    "density": 143.4,
+    "county_fips": 18003,
+    "county_name": "Allen",
+    "county_weights": "{\"18003\": 92.84, \"18113\": 4.41, \"18033\": 2.75}",
+    "county_names_all": "Allen|Noble|DeKalb",
+    "county_fips_all": "18003|18113|18033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

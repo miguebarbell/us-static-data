@@ -1,0 +1,20 @@
+{
+    "zip": 84063,
+    "lat": 40.21007,
+    "lng": -109.69285,
+    "city": "Randlett",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 264.0,
+    "density": 1.2,
+    "county_fips": 49047,
+    "county_name": "Uintah",
+    "county_weights": "{\"49047\": 100}",
+    "county_names_all": "Uintah",
+    "county_fips_all": "49047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

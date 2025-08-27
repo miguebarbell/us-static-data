@@ -1,0 +1,20 @@
+{
+    "zip": 32323,
+    "lat": 29.89185,
+    "lng": -84.6122,
+    "city": "Lanark Village",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28.0,
+    "density": 1.5,
+    "county_fips": 12037,
+    "county_name": "Franklin",
+    "county_weights": "{\"12037\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "12037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

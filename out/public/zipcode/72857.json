@@ -1,0 +1,20 @@
+{
+    "zip": 72857,
+    "lat": 34.86217,
+    "lng": -93.33826,
+    "city": "Plainview",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1138.0,
+    "density": 1.8,
+    "county_fips": 5149,
+    "county_name": "Yell",
+    "county_weights": "{\"05149\": 61.9, \"05105\": 38.1}",
+    "county_names_all": "Yell|Perry",
+    "county_fips_all": "05149|05105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

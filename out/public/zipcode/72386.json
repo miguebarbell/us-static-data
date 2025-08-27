@@ -1,0 +1,20 @@
+{
+    "zip": 72386,
+    "lat": 35.45548,
+    "lng": -90.36183,
+    "city": "Tyronza",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1385.0,
+    "density": 4.6,
+    "county_fips": 5111,
+    "county_name": "Poinsett",
+    "county_weights": "{\"05111\": 41.91, \"05035\": 35.34, \"05093\": 22.75}",
+    "county_names_all": "Poinsett|Crittenden|Mississippi",
+    "county_fips_all": "05111|05035|05093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

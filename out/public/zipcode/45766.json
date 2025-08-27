@@ -1,0 +1,20 @@
+{
+    "zip": 45766,
+    "lat": 39.31931,
+    "lng": -82.26247,
+    "city": "New Marshfield",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1535.0,
+    "density": 18.2,
+    "county_fips": 39009,
+    "county_name": "Athens",
+    "county_weights": "{\"39009\": 79.66, \"39163\": 20.34}",
+    "county_names_all": "Athens|Vinton",
+    "county_fips_all": "39009|39163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

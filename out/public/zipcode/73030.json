@@ -1,0 +1,20 @@
+{
+    "zip": 73030,
+    "lat": 34.47142,
+    "lng": -97.18584,
+    "city": "Davis",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4359.0,
+    "density": 8.1,
+    "county_fips": 40099,
+    "county_name": "Murray",
+    "county_weights": "{\"40099\": 89.04, \"40049\": 10.96}",
+    "county_names_all": "Murray|Garvin",
+    "county_fips_all": "40099|40049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

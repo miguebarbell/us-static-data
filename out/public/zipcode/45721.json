@@ -1,0 +1,20 @@
+{
+    "zip": 45721,
+    "lat": 39.56563,
+    "lng": -81.58347,
+    "city": "Coal Run",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32.0,
+    "density": 399.2,
+    "county_fips": 39167,
+    "county_name": "Washington",
+    "county_weights": "{\"39167\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "39167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

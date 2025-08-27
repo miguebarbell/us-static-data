@@ -1,0 +1,20 @@
+{
+    "zip": 28775,
+    "lat": 35.01916,
+    "lng": -83.32186,
+    "city": "Scaly Mountain",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 795.0,
+    "density": 24.8,
+    "county_fips": 37113,
+    "county_name": "Macon",
+    "county_weights": "{\"37113\": 100}",
+    "county_names_all": "Macon",
+    "county_fips_all": "37113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

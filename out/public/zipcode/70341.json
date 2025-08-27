@@ -1,0 +1,20 @@
+{
+    "zip": 70341,
+    "lat": 30.02579,
+    "lng": -91.08267,
+    "city": "Belle Rose",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3857.0,
+    "density": 33.0,
+    "county_fips": 22007,
+    "county_name": "Assumption",
+    "county_weights": "{\"22007\": 100}",
+    "county_names_all": "Assumption",
+    "county_fips_all": "22007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

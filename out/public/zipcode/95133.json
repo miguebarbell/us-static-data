@@ -1,0 +1,20 @@
+{
+    "zip": 95133,
+    "lat": 37.37171,
+    "lng": -121.86057,
+    "city": "San Jose",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28561.0,
+    "density": 3381.2,
+    "county_fips": 6085,
+    "county_name": "Santa Clara",
+    "county_weights": "{\"06085\": 100}",
+    "county_names_all": "Santa Clara",
+    "county_fips_all": "06085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72057,
+    "lat": 34.14417,
+    "lng": -92.31507,
+    "city": "Grapevine",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1245.0,
+    "density": 5.4,
+    "county_fips": 5053,
+    "county_name": "Grant",
+    "county_weights": "{\"05053\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "05053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

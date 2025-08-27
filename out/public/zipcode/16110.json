@@ -1,0 +1,20 @@
+{
+    "zip": 16110,
+    "lat": 41.49757,
+    "lng": -80.38591,
+    "city": "Adamsville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 380.0,
+    "density": 18.7,
+    "county_fips": 42039,
+    "county_name": "Crawford",
+    "county_weights": "{\"42039\": 75.97, \"42085\": 24.03}",
+    "county_names_all": "Crawford|Mercer",
+    "county_fips_all": "42039|42085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

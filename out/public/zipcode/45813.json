@@ -1,0 +1,20 @@
+{
+    "zip": 45813,
+    "lat": 41.18914,
+    "lng": -84.73031,
+    "city": "Antwerp",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3492.0,
+    "density": 24.0,
+    "county_fips": 39125,
+    "county_name": "Paulding",
+    "county_weights": "{\"39125\": 98.4, \"39039\": 1.6}",
+    "county_names_all": "Paulding|Defiance",
+    "county_fips_all": "39125|39039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

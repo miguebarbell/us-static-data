@@ -1,0 +1,20 @@
+{
+    "zip": 45336,
+    "lat": 40.44256,
+    "lng": -84.25988,
+    "city": "Kettlersville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 82.0,
+    "density": 60.6,
+    "county_fips": 39149,
+    "county_name": "Shelby",
+    "county_weights": "{\"39149\": 100}",
+    "county_names_all": "Shelby",
+    "county_fips_all": "39149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

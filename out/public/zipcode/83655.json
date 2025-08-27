@@ -1,0 +1,20 @@
+{
+    "zip": 83655,
+    "lat": 43.95135,
+    "lng": -116.79171,
+    "city": "New Plymouth",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5666.0,
+    "density": 37.5,
+    "county_fips": 16075,
+    "county_name": "Payette",
+    "county_weights": "{\"16075\": 100}",
+    "county_names_all": "Payette",
+    "county_fips_all": "16075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

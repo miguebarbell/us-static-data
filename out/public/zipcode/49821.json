@@ -1,0 +1,20 @@
+{
+    "zip": 49821,
+    "lat": 45.52167,
+    "lng": -87.63052,
+    "city": "Daggett",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1279.0,
+    "density": 3.7,
+    "county_fips": 26109,
+    "county_name": "Menominee",
+    "county_weights": "{\"26109\": 100}",
+    "county_names_all": "Menominee",
+    "county_fips_all": "26109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Menominee"
+}

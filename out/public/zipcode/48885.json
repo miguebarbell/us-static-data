@@ -1,0 +1,20 @@
+{
+    "zip": 48885,
+    "lat": 43.24908,
+    "lng": -85.14356,
+    "city": "Sidney",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1273.0,
+    "density": 28.0,
+    "county_fips": 26117,
+    "county_name": "Montcalm",
+    "county_weights": "{\"26117\": 100}",
+    "county_names_all": "Montcalm",
+    "county_fips_all": "26117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

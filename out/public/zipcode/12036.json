@@ -1,0 +1,20 @@
+{
+    "zip": 12036,
+    "lat": 42.53564,
+    "lng": -74.68468,
+    "city": "Charlotteville",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 335.0,
+    "density": 18.4,
+    "county_fips": 36095,
+    "county_name": "Schoharie",
+    "county_weights": "{\"36095\": 78.2, \"36077\": 21.8}",
+    "county_names_all": "Schoharie|Otsego",
+    "county_fips_all": "36095|36077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

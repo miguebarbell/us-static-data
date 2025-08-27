@@ -1,0 +1,20 @@
+{
+    "zip": 75838,
+    "lat": 31.47956,
+    "lng": -96.22844,
+    "city": "Donie",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 283.0,
+    "density": 2.0,
+    "county_fips": 48161,
+    "county_name": "Freestone",
+    "county_weights": "{\"48161\": 88.9, \"48293\": 11.1}",
+    "county_names_all": "Freestone|Limestone",
+    "county_fips_all": "48161|48293",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 73722,
+    "lat": 36.90196,
+    "lng": -98.36445,
+    "city": "Burlington",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 504.0,
+    "density": 1.3,
+    "county_fips": 40003,
+    "county_name": "Alfalfa",
+    "county_weights": "{\"40003\": 100}",
+    "county_names_all": "Alfalfa",
+    "county_fips_all": "40003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

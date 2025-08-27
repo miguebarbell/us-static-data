@@ -1,0 +1,20 @@
+{
+    "zip": 89428,
+    "lat": 39.25691,
+    "lng": -119.63099,
+    "city": "Silver City",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 124.0,
+    "density": 31.2,
+    "county_fips": 32019,
+    "county_name": "Lyon",
+    "county_weights": "{\"32019\": 100}",
+    "county_names_all": "Lyon",
+    "county_fips_all": "32019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 96015,
+    "lat": 41.49672,
+    "lng": -120.87162,
+    "city": "Canby",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 523.0,
+    "density": 0.9,
+    "county_fips": 6049,
+    "county_name": "Modoc",
+    "county_weights": "{\"06049\": 100}",
+    "county_names_all": "Modoc",
+    "county_fips_all": "06049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 56332,
+    "lat": 45.96993,
+    "lng": -95.50554,
+    "city": "Garfield",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1658.0,
+    "density": 12.3,
+    "county_fips": 27041,
+    "county_name": "Douglas",
+    "county_weights": "{\"27041\": 100}",
+    "county_names_all": "Douglas",
+    "county_fips_all": "27041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

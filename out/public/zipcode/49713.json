@@ -1,0 +1,20 @@
+{
+    "zip": 49713,
+    "lat": 45.21602,
+    "lng": -84.85185,
+    "city": "Boyne Falls",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2175.0,
+    "density": 8.4,
+    "county_fips": 26029,
+    "county_name": "Charlevoix",
+    "county_weights": "{\"26029\": 94.41, \"26047\": 3.64, \"26009\": 1.95}",
+    "county_names_all": "Charlevoix|Emmet|Antrim",
+    "county_fips_all": "26029|26047|26009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

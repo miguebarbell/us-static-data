@@ -1,0 +1,20 @@
+{
+    "zip": 7821,
+    "lat": 40.96461,
+    "lng": -74.74807,
+    "city": "Andover",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9036.0,
+    "density": 81.5,
+    "county_fips": 34037,
+    "county_name": "Sussex",
+    "county_weights": "{\"34037\": 83.89, \"34041\": 16.11}",
+    "county_names_all": "Sussex|Warren",
+    "county_fips_all": "34037|34041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

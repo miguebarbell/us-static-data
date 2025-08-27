@@ -1,0 +1,20 @@
+{
+    "zip": 50046,
+    "lat": 41.88974,
+    "lng": -93.5234,
+    "city": "Cambridge",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1696.0,
+    "density": 13.8,
+    "county_fips": 19169,
+    "county_name": "Story",
+    "county_weights": "{\"19169\": 72.77, \"19153\": 27.23}",
+    "county_names_all": "Story|Polk",
+    "county_fips_all": "19169|19153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

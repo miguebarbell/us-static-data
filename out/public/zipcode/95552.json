@@ -1,0 +1,20 @@
+{
+    "zip": 95552,
+    "lat": 40.34899,
+    "lng": -123.42248,
+    "city": "Mad River",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 433.0,
+    "density": 1.2,
+    "county_fips": 6105,
+    "county_name": "Trinity",
+    "county_weights": "{\"06105\": 93.27, \"06023\": 6.73}",
+    "county_names_all": "Trinity|Humboldt",
+    "county_fips_all": "06105|06023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

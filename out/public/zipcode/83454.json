@@ -1,0 +1,20 @@
+{
+    "zip": 83454,
+    "lat": 43.5946,
+    "lng": -111.95698,
+    "city": "Ucon",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 386.0,
+    "density": 920.2,
+    "county_fips": 16019,
+    "county_name": "Bonneville",
+    "county_weights": "{\"16019\": 100}",
+    "county_names_all": "Bonneville",
+    "county_fips_all": "16019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

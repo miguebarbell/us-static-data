@@ -1,0 +1,20 @@
+{
+    "zip": 62665,
+    "lat": 39.81627,
+    "lng": -90.53462,
+    "city": "Meredosia",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1264.0,
+    "density": 10.9,
+    "county_fips": 17137,
+    "county_name": "Morgan",
+    "county_weights": "{\"17137\": 75.1, \"17171\": 24.9}",
+    "county_names_all": "Morgan|Scott",
+    "county_fips_all": "17137|17171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

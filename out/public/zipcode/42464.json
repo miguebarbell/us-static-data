@@ -1,0 +1,20 @@
+{
+    "zip": 42464,
+    "lat": 37.18132,
+    "lng": -87.37148,
+    "city": "White Plains",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1645.0,
+    "density": 10.6,
+    "county_fips": 21107,
+    "county_name": "Hopkins",
+    "county_weights": "{\"21107\": 71.08, \"21047\": 15.4, \"21177\": 13.52}",
+    "county_names_all": "Hopkins|Christian|Muhlenberg",
+    "county_fips_all": "21107|21047|21177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

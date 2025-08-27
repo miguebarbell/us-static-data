@@ -1,0 +1,20 @@
+{
+    "zip": 75164,
+    "lat": 33.06963,
+    "lng": -96.3041,
+    "city": "Josephine",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 669.0,
+    "density": 259.1,
+    "county_fips": 48085,
+    "county_name": "Collin",
+    "county_weights": "{\"48085\": 100}",
+    "county_names_all": "Collin",
+    "county_fips_all": "48085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

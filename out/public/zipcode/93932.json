@@ -1,0 +1,20 @@
+{
+    "zip": 93932,
+    "lat": 36.00143,
+    "lng": -121.05757,
+    "city": "Lockwood",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 431.0,
+    "density": 2.2,
+    "county_fips": 6053,
+    "county_name": "Monterey",
+    "county_weights": "{\"06053\": 100}",
+    "county_names_all": "Monterey",
+    "county_fips_all": "06053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

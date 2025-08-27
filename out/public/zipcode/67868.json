@@ -1,0 +1,20 @@
+{
+    "zip": 67868,
+    "lat": 37.82028,
+    "lng": -100.71029,
+    "city": "Pierceville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 181.0,
+    "density": 1.2,
+    "county_fips": 20055,
+    "county_name": "Finney",
+    "county_weights": "{\"20055\": 100}",
+    "county_names_all": "Finney",
+    "county_fips_all": "20055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 48861,
+    "lat": 42.73002,
+    "lng": -84.91741,
+    "city": "Mulliken",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1852.0,
+    "density": 27.3,
+    "county_fips": 26045,
+    "county_name": "Eaton",
+    "county_weights": "{\"26045\": 91.49, \"26067\": 8.51}",
+    "county_names_all": "Eaton|Ionia",
+    "county_fips_all": "26045|26067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

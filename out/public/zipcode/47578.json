@@ -1,0 +1,20 @@
+{
+    "zip": 47578,
+    "lat": 38.89288,
+    "lng": -87.19055,
+    "city": "Sandborn",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 512.0,
+    "density": 4.5,
+    "county_fips": 18083,
+    "county_name": "Knox",
+    "county_weights": "{\"18083\": 67.11, \"18055\": 32.89}",
+    "county_names_all": "Knox|Greene",
+    "county_fips_all": "18083|18055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Vincennes"
+}

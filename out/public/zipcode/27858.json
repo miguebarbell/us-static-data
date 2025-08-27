@@ -1,0 +1,20 @@
+{
+    "zip": 27858,
+    "lat": 35.53229,
+    "lng": -77.29709,
+    "city": "Greenville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 56258.0,
+    "density": 353.8,
+    "county_fips": 37147,
+    "county_name": "Pitt",
+    "county_weights": "{\"37147\": 100}",
+    "county_names_all": "Pitt",
+    "county_fips_all": "37147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

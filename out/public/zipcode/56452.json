@@ -1,0 +1,20 @@
+{
+    "zip": 56452,
+    "lat": 46.94808,
+    "lng": -94.46123,
+    "city": "Hackensack",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1913.0,
+    "density": 7.7,
+    "county_fips": 27021,
+    "county_name": "Cass",
+    "county_weights": "{\"27021\": 100}",
+    "county_names_all": "Cass",
+    "county_fips_all": "27021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

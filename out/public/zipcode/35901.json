@@ -1,0 +1,20 @@
+{
+    "zip": 35901,
+    "lat": 34.04848,
+    "lng": -85.92395,
+    "city": "Gadsden",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19186.0,
+    "density": 125.2,
+    "county_fips": 1055,
+    "county_name": "Etowah",
+    "county_weights": "{\"01055\": 96.69, \"01019\": 3.31}",
+    "county_names_all": "Etowah|Cherokee",
+    "county_fips_all": "01055|01019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

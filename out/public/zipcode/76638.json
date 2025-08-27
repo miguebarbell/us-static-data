@@ -1,0 +1,20 @@
+{
+    "zip": 76638,
+    "lat": 31.55487,
+    "lng": -97.446,
+    "city": "Crawford",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3395.0,
+    "density": 18.3,
+    "county_fips": 48309,
+    "county_name": "McLennan",
+    "county_weights": "{\"48309\": 100}",
+    "county_names_all": "McLennan",
+    "county_fips_all": "48309",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

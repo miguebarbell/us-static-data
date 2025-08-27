@@ -1,0 +1,20 @@
+{
+    "zip": 72023,
+    "lat": 34.95909,
+    "lng": -92.05925,
+    "city": "Cabot",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36813.0,
+    "density": 144.7,
+    "county_fips": 5085,
+    "county_name": "Lonoke",
+    "county_weights": "{\"05085\": 68.99, \"05119\": 27.06, \"05045\": 3.95}",
+    "county_names_all": "Lonoke|Pulaski|Faulkner",
+    "county_fips_all": "05085|05119|05045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

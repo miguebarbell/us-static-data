@@ -1,0 +1,20 @@
+{
+    "zip": 68367,
+    "lat": 41.03807,
+    "lng": -97.40128,
+    "city": "Gresham",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 335.0,
+    "density": 2.1,
+    "county_fips": 31143,
+    "county_name": "Polk",
+    "county_weights": "{\"31143\": 36.37, \"31185\": 32.92, \"31159\": 30.71}",
+    "county_names_all": "Polk|York|Seward",
+    "county_fips_all": "31143|31185|31159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

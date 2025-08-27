@@ -1,0 +1,20 @@
+{
+    "zip": 83337,
+    "lat": 43.21807,
+    "lng": -115.1575,
+    "city": "Hill City",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13.0,
+    "density": 0.0,
+    "county_fips": 16039,
+    "county_name": "Elmore",
+    "county_weights": "{\"16039\": 82.44, \"16025\": 17.56}",
+    "county_names_all": "Elmore|Camas",
+    "county_fips_all": "16039|16025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

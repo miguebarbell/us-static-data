@@ -1,0 +1,20 @@
+{
+    "zip": 31560,
+    "lat": 31.50312,
+    "lng": -82.02896,
+    "city": "Screven",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2810.0,
+    "density": 9.1,
+    "county_fips": 13305,
+    "county_name": "Wayne",
+    "county_weights": "{\"13305\": 99.34, \"13001\": 0.66}",
+    "county_names_all": "Wayne|Appling",
+    "county_fips_all": "13305|13001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

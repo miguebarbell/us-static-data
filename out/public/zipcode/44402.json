@@ -1,0 +1,20 @@
+{
+    "zip": 44402,
+    "lat": 41.38893,
+    "lng": -80.85513,
+    "city": "Bristolville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2588.0,
+    "density": 27.5,
+    "county_fips": 39155,
+    "county_name": "Trumbull",
+    "county_weights": "{\"39155\": 100}",
+    "county_names_all": "Trumbull",
+    "county_fips_all": "39155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

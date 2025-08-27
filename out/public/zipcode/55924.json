@@ -1,0 +1,20 @@
+{
+    "zip": 55924,
+    "lat": 44.0354,
+    "lng": -93.01838,
+    "city": "Claremont",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1246.0,
+    "density": 6.3,
+    "county_fips": 27039,
+    "county_name": "Dodge",
+    "county_weights": "{\"27039\": 69.67, \"27147\": 30.33}",
+    "county_names_all": "Dodge|Steele",
+    "county_fips_all": "27039|27147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

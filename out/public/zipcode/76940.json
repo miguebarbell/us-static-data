@@ -1,0 +1,20 @@
+{
+    "zip": 76940,
+    "lat": 31.43681,
+    "lng": -100.12694,
+    "city": "Mereta",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 68.0,
+    "density": 3.0,
+    "county_fips": 48451,
+    "county_name": "Tom Green",
+    "county_weights": "{\"48451\": 100}",
+    "county_names_all": "Tom Green",
+    "county_fips_all": "48451",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

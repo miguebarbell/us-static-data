@@ -1,0 +1,20 @@
+{
+    "zip": 66451,
+    "lat": 38.60841,
+    "lng": -95.67236,
+    "city": "Lyndon",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1809.0,
+    "density": 8.9,
+    "county_fips": 20139,
+    "county_name": "Osage",
+    "county_weights": "{\"20139\": 100}",
+    "county_names_all": "Osage",
+    "county_fips_all": "20139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

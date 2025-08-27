@@ -1,0 +1,20 @@
+{
+    "zip": 68065,
+    "lat": 41.0766,
+    "lng": -96.84854,
+    "city": "Valparaiso",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1292.0,
+    "density": 5.7,
+    "county_fips": 31155,
+    "county_name": "Saunders",
+    "county_weights": "{\"31155\": 64.07, \"31109\": 23.36, \"31159\": 6.83, \"31023\": 5.74}",
+    "county_names_all": "Saunders|Lancaster|Seward|Butler",
+    "county_fips_all": "31155|31109|31159|31023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

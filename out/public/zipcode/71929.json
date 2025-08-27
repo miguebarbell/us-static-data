@@ -1,0 +1,20 @@
+{
+    "zip": 71929,
+    "lat": 34.30527,
+    "lng": -93.1553,
+    "city": "Bismarck",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4673.0,
+    "density": 18.1,
+    "county_fips": 5059,
+    "county_name": "Hot Spring",
+    "county_weights": "{\"05059\": 97.65, \"05019\": 2.35}",
+    "county_names_all": "Hot Spring|Clark",
+    "county_fips_all": "05059|05019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

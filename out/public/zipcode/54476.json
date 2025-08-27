@@ -1,0 +1,20 @@
+{
+    "zip": 54476,
+    "lat": 44.88816,
+    "lng": -89.52389,
+    "city": "Schofield",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19305.0,
+    "density": 177.4,
+    "county_fips": 55073,
+    "county_name": "Marathon",
+    "county_weights": "{\"55073\": 100}",
+    "county_names_all": "Marathon",
+    "county_fips_all": "55073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

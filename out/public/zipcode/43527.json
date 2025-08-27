@@ -1,0 +1,20 @@
+{
+    "zip": 43527,
+    "lat": 41.25121,
+    "lng": -84.1593,
+    "city": "Holgate",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2092.0,
+    "density": 16.0,
+    "county_fips": 39069,
+    "county_name": "Henry",
+    "county_weights": "{\"39069\": 91.4, \"39039\": 8.6}",
+    "county_names_all": "Henry|Defiance",
+    "county_fips_all": "39069|39039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

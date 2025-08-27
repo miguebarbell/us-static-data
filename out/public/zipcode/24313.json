@@ -1,0 +1,20 @@
+{
+    "zip": 24313,
+    "lat": 36.9105,
+    "lng": -80.79805,
+    "city": "Barren Springs",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 831.0,
+    "density": 42.2,
+    "county_fips": 51197,
+    "county_name": "Wythe",
+    "county_weights": "{\"51197\": 90.07, \"51155\": 9.93}",
+    "county_names_all": "Wythe|Pulaski",
+    "county_fips_all": "51197|51155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

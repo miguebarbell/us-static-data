@@ -1,0 +1,20 @@
+{
+    "zip": 40049,
+    "lat": 37.66442,
+    "lng": -85.39724,
+    "city": "Nerinx",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 112.0,
+    "density": 135.5,
+    "county_fips": 21155,
+    "county_name": "Marion",
+    "county_weights": "{\"21155\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "21155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

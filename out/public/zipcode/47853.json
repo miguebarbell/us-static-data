@@ -1,0 +1,20 @@
+{
+    "zip": 47853,
+    "lat": 39.53757,
+    "lng": -87.07277,
+    "city": "Harmony",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 117.0,
+    "density": 781.4,
+    "county_fips": 18021,
+    "county_name": "Clay",
+    "county_weights": "{\"18021\": 100}",
+    "county_names_all": "Clay",
+    "county_fips_all": "18021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

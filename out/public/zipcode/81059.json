@@ -1,0 +1,20 @@
+{
+    "zip": 81059,
+    "lat": 37.56259,
+    "lng": -103.99322,
+    "city": "Model",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 49.0,
+    "density": 0.0,
+    "county_fips": 8071,
+    "county_name": "Las Animas",
+    "county_weights": "{\"08071\": 73.77, \"08089\": 26.23}",
+    "county_names_all": "Las Animas|Otero",
+    "county_fips_all": "08071|08089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

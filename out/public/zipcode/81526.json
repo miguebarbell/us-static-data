@@ -1,0 +1,20 @@
+{
+    "zip": 81526,
+    "lat": 39.07741,
+    "lng": -108.33056,
+    "city": "Palisade",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5397.0,
+    "density": 28.8,
+    "county_fips": 8077,
+    "county_name": "Mesa",
+    "county_weights": "{\"08077\": 100}",
+    "county_names_all": "Mesa",
+    "county_fips_all": "08077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

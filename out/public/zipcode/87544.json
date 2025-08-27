@@ -1,0 +1,20 @@
+{
+    "zip": 87544,
+    "lat": 35.7869,
+    "lng": -106.31914,
+    "city": "Los Alamos",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13806.0,
+    "density": 40.1,
+    "county_fips": 35043,
+    "county_name": "Sandoval",
+    "county_weights": "{\"35043\": 57.73, \"35028\": 42.27}",
+    "county_names_all": "Sandoval|Los Alamos",
+    "county_fips_all": "35043|35028",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

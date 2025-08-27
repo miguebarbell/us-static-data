@@ -1,0 +1,20 @@
+{
+    "zip": 41146,
+    "lat": 38.27701,
+    "lng": -82.88969,
+    "city": "Hitchins",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 446.0,
+    "density": 23.9,
+    "county_fips": 21043,
+    "county_name": "Carter",
+    "county_weights": "{\"21043\": 100}",
+    "county_names_all": "Carter",
+    "county_fips_all": "21043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

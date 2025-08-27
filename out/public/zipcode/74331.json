@@ -1,0 +1,20 @@
+{
+    "zip": 74331,
+    "lat": 36.64683,
+    "lng": -94.9459,
+    "city": "Afton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7110.0,
+    "density": 22.1,
+    "county_fips": 40041,
+    "county_name": "Delaware",
+    "county_weights": "{\"40041\": 57.75, \"40115\": 28.11, \"40035\": 14.14}",
+    "county_names_all": "Delaware|Ottawa|Craig",
+    "county_fips_all": "40041|40115|40035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 46011,
+    "lat": 40.12759,
+    "lng": -85.76178,
+    "city": "Anderson",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17115.0,
+    "density": 89.4,
+    "county_fips": 18095,
+    "county_name": "Madison",
+    "county_weights": "{\"18095\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "18095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

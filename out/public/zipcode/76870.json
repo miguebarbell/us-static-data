@@ -1,0 +1,20 @@
+{
+    "zip": 76870,
+    "lat": 31.60386,
+    "lng": -98.53151,
+    "city": "Priddy",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 66.0,
+    "density": 1.0,
+    "county_fips": 48333,
+    "county_name": "Mills",
+    "county_weights": "{\"48333\": 100}",
+    "county_names_all": "Mills",
+    "county_fips_all": "48333",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

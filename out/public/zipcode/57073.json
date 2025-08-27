@@ -1,0 +1,20 @@
+{
+    "zip": 57073,
+    "lat": 43.00227,
+    "lng": -97.05754,
+    "city": "Wakonda",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 516.0,
+    "density": 2.9,
+    "county_fips": 46027,
+    "county_name": "Clay",
+    "county_weights": "{\"46027\": 95.58, \"46125\": 4.42}",
+    "county_names_all": "Clay|Turner",
+    "county_fips_all": "46027|46125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

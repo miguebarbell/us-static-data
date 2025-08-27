@@ -1,0 +1,20 @@
+{
+    "zip": 21108,
+    "lat": 39.08932,
+    "lng": -76.62139,
+    "city": "Millersville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17894.0,
+    "density": 535.0,
+    "county_fips": 24003,
+    "county_name": "Anne Arundel",
+    "county_weights": "{\"24003\": 100}",
+    "county_names_all": "Anne Arundel",
+    "county_fips_all": "24003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

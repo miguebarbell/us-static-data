@@ -1,0 +1,20 @@
+{
+    "zip": 57218,
+    "lat": 44.65787,
+    "lng": -96.59624,
+    "city": "Brandt",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 262.0,
+    "density": 1.5,
+    "county_fips": 46039,
+    "county_name": "Deuel",
+    "county_weights": "{\"46039\": 100}",
+    "county_names_all": "Deuel",
+    "county_fips_all": "46039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 662,
+    "lat": 18.46622,
+    "lng": -67.01508,
+    "city": "Isabela",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40705.0,
+    "density": 380.8,
+    "county_fips": 72071,
+    "county_name": "Isabela",
+    "county_weights": "{\"72071\": 100}",
+    "county_names_all": "Isabela",
+    "county_fips_all": "72071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

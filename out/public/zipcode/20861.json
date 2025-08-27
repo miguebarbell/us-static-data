@@ -1,0 +1,20 @@
+{
+    "zip": 20861,
+    "lat": 39.14653,
+    "lng": -76.99886,
+    "city": "Ashton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3020.0,
+    "density": 225.3,
+    "county_fips": 24031,
+    "county_name": "Montgomery",
+    "county_weights": "{\"24031\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "24031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

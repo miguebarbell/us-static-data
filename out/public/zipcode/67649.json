@@ -1,0 +1,20 @@
+{
+    "zip": 67649,
+    "lat": 39.13404,
+    "lng": -98.69232,
+    "city": "Luray",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 202.0,
+    "density": 0.9,
+    "county_fips": 20167,
+    "county_name": "Russell",
+    "county_weights": "{\"20167\": 50.61, \"20141\": 49.39}",
+    "county_names_all": "Russell|Osborne",
+    "county_fips_all": "20167|20141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

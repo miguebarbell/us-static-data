@@ -1,0 +1,20 @@
+{
+    "zip": 66520,
+    "lat": 39.40963,
+    "lng": -96.61617,
+    "city": "Olsburg",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 681.0,
+    "density": 2.5,
+    "county_fips": 20149,
+    "county_name": "Pottawatomie",
+    "county_weights": "{\"20149\": 99.74, \"20161\": 0.26}",
+    "county_names_all": "Pottawatomie|Riley",
+    "county_fips_all": "20149|20161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

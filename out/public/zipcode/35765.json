@@ -1,0 +1,20 @@
+{
+    "zip": 35765,
+    "lat": 34.69393,
+    "lng": -85.82423,
+    "city": "Pisgah",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4297.0,
+    "density": 23.3,
+    "county_fips": 1071,
+    "county_name": "Jackson",
+    "county_weights": "{\"01071\": 94.8, \"01049\": 5.2}",
+    "county_names_all": "Jackson|DeKalb",
+    "county_fips_all": "01071|01049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

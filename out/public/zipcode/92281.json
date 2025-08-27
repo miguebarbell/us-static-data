@@ -1,0 +1,20 @@
+{
+    "zip": 92281,
+    "lat": 33.05033,
+    "lng": -115.61264,
+    "city": "Westmorland",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1904.0,
+    "density": 55.7,
+    "county_fips": 6025,
+    "county_name": "Imperial",
+    "county_weights": "{\"06025\": 100}",
+    "county_names_all": "Imperial",
+    "county_fips_all": "06025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

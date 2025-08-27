@@ -1,0 +1,20 @@
+{
+    "zip": 31320,
+    "lat": 31.76707,
+    "lng": -81.36231,
+    "city": "Midway",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10431.0,
+    "density": 32.6,
+    "county_fips": 13179,
+    "county_name": "Liberty",
+    "county_weights": "{\"13179\": 100}",
+    "county_names_all": "Liberty",
+    "county_fips_all": "13179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 93230,
+    "lat": 36.28967,
+    "lng": -119.62514,
+    "city": "Hanford",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 69130.0,
+    "density": 103.4,
+    "county_fips": 6031,
+    "county_name": "Kings",
+    "county_weights": "{\"06031\": 99.62, \"06107\": 0.38}",
+    "county_names_all": "Kings|Tulare",
+    "county_fips_all": "06031|06107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

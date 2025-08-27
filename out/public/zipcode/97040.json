@@ -1,0 +1,20 @@
+{
+    "zip": 97040,
+    "lat": 45.62648,
+    "lng": -121.38476,
+    "city": "Mosier",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1877.0,
+    "density": 13.7,
+    "county_fips": 41065,
+    "county_name": "Wasco",
+    "county_weights": "{\"41065\": 99.78, \"41027\": 0.22}",
+    "county_names_all": "Wasco|Hood River",
+    "county_fips_all": "41065|41027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

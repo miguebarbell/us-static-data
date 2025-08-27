@@ -1,0 +1,20 @@
+{
+    "zip": 61744,
+    "lat": 40.74377,
+    "lng": -88.88118,
+    "city": "Gridley",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1917.0,
+    "density": 9.5,
+    "county_fips": 17113,
+    "county_name": "McLean",
+    "county_weights": "{\"17113\": 59.5, \"17105\": 37.9, \"17203\": 2.6}",
+    "county_names_all": "McLean|Livingston|Woodford",
+    "county_fips_all": "17113|17105|17203",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

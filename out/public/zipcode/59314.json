@@ -1,0 +1,20 @@
+{
+    "zip": 59314,
+    "lat": 45.07847,
+    "lng": -105.43933,
+    "city": "Biddle",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 136.0,
+    "density": 0.2,
+    "county_fips": 30075,
+    "county_name": "Powder River",
+    "county_weights": "{\"30075\": 100}",
+    "county_names_all": "Powder River",
+    "county_fips_all": "30075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

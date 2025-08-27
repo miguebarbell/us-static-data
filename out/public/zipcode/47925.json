@@ -1,0 +1,20 @@
+{
+    "zip": 47925,
+    "lat": 40.88205,
+    "lng": -86.74477,
+    "city": "Buffalo",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22.0,
+    "density": 228.6,
+    "county_fips": 18181,
+    "county_name": "White",
+    "county_weights": "{\"18181\": 100}",
+    "county_names_all": "White",
+    "county_fips_all": "18181",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

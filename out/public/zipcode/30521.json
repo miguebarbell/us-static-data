@@ -1,0 +1,20 @@
+{
+    "zip": 30521,
+    "lat": 34.36202,
+    "lng": -83.29355,
+    "city": "Carnesville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6176.0,
+    "density": 25.9,
+    "county_fips": 13119,
+    "county_name": "Franklin",
+    "county_weights": "{\"13119\": 94.16, \"13011\": 5.84}",
+    "county_names_all": "Franklin|Banks",
+    "county_fips_all": "13119|13011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

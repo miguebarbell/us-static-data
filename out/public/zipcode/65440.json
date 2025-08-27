@@ -1,0 +1,20 @@
+{
+    "zip": 65440,
+    "lat": 37.60388,
+    "lng": -91.18539,
+    "city": "Boss",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 216.0,
+    "density": 0.8,
+    "county_fips": 29065,
+    "county_name": "Dent",
+    "county_weights": "{\"29065\": 54.45, \"29179\": 40.2, \"29093\": 5.35}",
+    "county_names_all": "Dent|Reynolds|Iron",
+    "county_fips_all": "29065|29179|29093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

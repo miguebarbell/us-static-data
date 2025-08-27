@@ -1,0 +1,20 @@
+{
+    "zip": 17239,
+    "lat": 40.13973,
+    "lng": -77.83009,
+    "city": "Neelyton",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 230.0,
+    "density": 8.0,
+    "county_fips": 42061,
+    "county_name": "Huntingdon",
+    "county_weights": "{\"42061\": 100}",
+    "county_names_all": "Huntingdon",
+    "county_fips_all": "42061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

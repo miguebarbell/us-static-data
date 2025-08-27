@@ -1,0 +1,20 @@
+{
+    "zip": 33946,
+    "lat": 26.853,
+    "lng": -82.26958,
+    "city": "Placida",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2745.0,
+    "density": 98.5,
+    "county_fips": 12015,
+    "county_name": "Charlotte",
+    "county_weights": "{\"12015\": 100}",
+    "county_names_all": "Charlotte",
+    "county_fips_all": "12015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

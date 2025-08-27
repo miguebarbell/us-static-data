@@ -1,0 +1,20 @@
+{
+    "zip": 99171,
+    "lat": 47.10485,
+    "lng": -117.6495,
+    "city": "Saint John",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 991.0,
+    "density": 1.5,
+    "county_fips": 53075,
+    "county_name": "Whitman",
+    "county_weights": "{\"53075\": 100}",
+    "county_names_all": "Whitman",
+    "county_fips_all": "53075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

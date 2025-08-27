@@ -1,0 +1,20 @@
+{
+    "zip": 36467,
+    "lat": 31.2795,
+    "lng": -86.25579,
+    "city": "Opp",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9847.0,
+    "density": 24.0,
+    "county_fips": 1039,
+    "county_name": "Covington",
+    "county_weights": "{\"01039\": 94.16, \"01031\": 5.84}",
+    "county_names_all": "Covington|Coffee",
+    "county_fips_all": "01039|01031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

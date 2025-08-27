@@ -1,0 +1,20 @@
+{
+    "zip": 53961,
+    "lat": 43.46055,
+    "lng": -89.93858,
+    "city": "Rock Springs",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 838.0,
+    "density": 13.7,
+    "county_fips": 55111,
+    "county_name": "Sauk",
+    "county_weights": "{\"55111\": 100}",
+    "county_names_all": "Sauk",
+    "county_fips_all": "55111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

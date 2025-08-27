@@ -1,0 +1,20 @@
+{
+    "zip": 55073,
+    "lat": 45.27363,
+    "lng": -92.82783,
+    "city": "Scandia",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4145.0,
+    "density": 57.1,
+    "county_fips": 27163,
+    "county_name": "Washington",
+    "county_weights": "{\"27163\": 86.47, \"27025\": 13.53}",
+    "county_names_all": "Washington|Chisago",
+    "county_fips_all": "27163|27025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

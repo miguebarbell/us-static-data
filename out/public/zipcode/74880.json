@@ -1,0 +1,20 @@
+{
+    "zip": 74880,
+    "lat": 35.38039,
+    "lng": -96.1212,
+    "city": "Weleetka",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1920.0,
+    "density": 7.1,
+    "county_fips": 40107,
+    "county_name": "Okfuskee",
+    "county_weights": "{\"40107\": 91.48, \"40111\": 8.52}",
+    "county_names_all": "Okfuskee|Okmulgee",
+    "county_fips_all": "40107|40111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

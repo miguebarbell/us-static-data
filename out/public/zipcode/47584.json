@@ -1,0 +1,20 @@
+{
+    "zip": 47584,
+    "lat": 38.25111,
+    "lng": -87.25797,
+    "city": "Spurgeon",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 137.0,
+    "density": 176.7,
+    "county_fips": 18125,
+    "county_name": "Pike",
+    "county_weights": "{\"18125\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "18125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Petersburg"
+}

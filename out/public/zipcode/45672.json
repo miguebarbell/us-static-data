@@ -1,0 +1,20 @@
+{
+    "zip": 45672,
+    "lat": 39.20549,
+    "lng": -82.67579,
+    "city": "Ray",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1408.0,
+    "density": 9.4,
+    "county_fips": 39163,
+    "county_name": "Vinton",
+    "county_weights": "{\"39163\": 57.85, \"39079\": 41.6, \"39141\": 0.55}",
+    "county_names_all": "Vinton|Jackson|Ross",
+    "county_fips_all": "39163|39079|39141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

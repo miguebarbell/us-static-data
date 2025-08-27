@@ -1,0 +1,20 @@
+{
+    "zip": 68660,
+    "lat": 41.57398,
+    "lng": -97.86792,
+    "city": "Saint Edward",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 993.0,
+    "density": 2.9,
+    "county_fips": 31011,
+    "county_name": "Boone",
+    "county_weights": "{\"31011\": 56.16, \"31141\": 28.15, \"31125\": 15.69}",
+    "county_names_all": "Boone|Platte|Nance",
+    "county_fips_all": "31011|31141|31125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

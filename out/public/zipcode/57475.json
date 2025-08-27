@@ -1,0 +1,20 @@
+{
+    "zip": 57475,
+    "lat": 45.22843,
+    "lng": -99.62031,
+    "city": "Tolstoy",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 133.0,
+    "density": 0.4,
+    "county_fips": 46107,
+    "county_name": "Potter",
+    "county_weights": "{\"46107\": 51.32, \"46045\": 48.68}",
+    "county_names_all": "Potter|Edmunds",
+    "county_fips_all": "46107|46045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

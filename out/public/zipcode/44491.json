@@ -1,0 +1,20 @@
+{
+    "zip": 44491,
+    "lat": 41.37368,
+    "lng": -80.96478,
+    "city": "West Farmington",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3683.0,
+    "density": 46.5,
+    "county_fips": 39155,
+    "county_name": "Trumbull",
+    "county_weights": "{\"39155\": 83.61, \"39055\": 14.92, \"39133\": 1.47}",
+    "county_names_all": "Trumbull|Geauga|Portage",
+    "county_fips_all": "39155|39055|39133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

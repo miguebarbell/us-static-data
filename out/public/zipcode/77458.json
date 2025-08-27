@@ -1,0 +1,20 @@
+{
+    "zip": 77458,
+    "lat": 28.95409,
+    "lng": -96.25489,
+    "city": "Midfield",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13.0,
+    "density": 0.2,
+    "county_fips": 48321,
+    "county_name": "Matagorda",
+    "county_weights": "{\"48321\": 100}",
+    "county_names_all": "Matagorda",
+    "county_fips_all": "48321",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

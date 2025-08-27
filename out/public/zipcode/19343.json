@@ -1,0 +1,20 @@
+{
+    "zip": 19343,
+    "lat": 40.10203,
+    "lng": -75.75461,
+    "city": "Glenmoore",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8595.0,
+    "density": 120.3,
+    "county_fips": 42029,
+    "county_name": "Chester",
+    "county_weights": "{\"42029\": 100}",
+    "county_names_all": "Chester",
+    "county_fips_all": "42029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 74342,
+    "lat": 36.42227,
+    "lng": -94.94113,
+    "city": "Eucha",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2092.0,
+    "density": 10.8,
+    "county_fips": 40041,
+    "county_name": "Delaware",
+    "county_weights": "{\"40041\": 97.0, \"40097\": 3.0}",
+    "county_names_all": "Delaware|Mayes",
+    "county_fips_all": "40041|40097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

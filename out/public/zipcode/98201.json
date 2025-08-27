@@ -1,0 +1,20 @@
+{
+    "zip": 98201,
+    "lat": 47.99373,
+    "lng": -122.18563,
+    "city": "Everett",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31212.0,
+    "density": 642.7,
+    "county_fips": 53061,
+    "county_name": "Snohomish",
+    "county_weights": "{\"53061\": 100}",
+    "county_names_all": "Snohomish",
+    "county_fips_all": "53061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

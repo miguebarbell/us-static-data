@@ -1,0 +1,20 @@
+{
+    "zip": 1518,
+    "lat": 42.11342,
+    "lng": -72.11632,
+    "city": "Fiskdale",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2835.0,
+    "density": 89.4,
+    "county_fips": 25027,
+    "county_name": "Worcester",
+    "county_weights": "{\"25027\": 100}",
+    "county_names_all": "Worcester",
+    "county_fips_all": "25027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

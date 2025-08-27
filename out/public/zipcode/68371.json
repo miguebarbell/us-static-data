@@ -1,0 +1,20 @@
+{
+    "zip": 68371,
+    "lat": 40.77304,
+    "lng": -97.78417,
+    "city": "Henderson",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1199.0,
+    "density": 5.9,
+    "county_fips": 31185,
+    "county_name": "York",
+    "county_weights": "{\"31185\": 76.91, \"31081\": 23.09}",
+    "county_names_all": "York|Hamilton",
+    "county_fips_all": "31185|31081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

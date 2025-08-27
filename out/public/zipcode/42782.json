@@ -1,0 +1,20 @@
+{
+    "zip": 42782,
+    "lat": 37.34475,
+    "lng": -85.63702,
+    "city": "Summersville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 838.0,
+    "density": 9.7,
+    "county_fips": 21087,
+    "county_name": "Green",
+    "county_weights": "{\"21087\": 87.17, \"21099\": 12.83}",
+    "county_names_all": "Green|Hart",
+    "county_fips_all": "21087|21099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

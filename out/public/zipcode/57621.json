@@ -1,0 +1,20 @@
+{
+    "zip": 57621,
+    "lat": 45.76891,
+    "lng": -101.0808,
+    "city": "Bullhead",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 285.0,
+    "density": 35.9,
+    "county_fips": 46031,
+    "county_name": "Corson",
+    "county_weights": "{\"46031\": 100}",
+    "county_names_all": "Corson",
+    "county_fips_all": "46031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

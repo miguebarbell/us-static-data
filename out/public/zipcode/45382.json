@@ -1,0 +1,20 @@
+{
+    "zip": 45382,
+    "lat": 39.89621,
+    "lng": -84.61626,
+    "city": "West Manchester",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1139.0,
+    "density": 21.5,
+    "county_fips": 39135,
+    "county_name": "Preble",
+    "county_weights": "{\"39135\": 75.95, \"39037\": 24.05}",
+    "county_names_all": "Preble|Darke",
+    "county_fips_all": "39135|39037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

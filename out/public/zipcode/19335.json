@@ -1,0 +1,20 @@
+{
+    "zip": 19335,
+    "lat": 40.02271,
+    "lng": -75.72045,
+    "city": "Downingtown",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 52524.0,
+    "density": 468.4,
+    "county_fips": 42029,
+    "county_name": "Chester",
+    "county_weights": "{\"42029\": 100}",
+    "county_names_all": "Chester",
+    "county_fips_all": "42029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

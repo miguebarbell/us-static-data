@@ -1,0 +1,20 @@
+{
+    "zip": 45040,
+    "lat": 39.35023,
+    "lng": -84.30996,
+    "city": "Mason",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 58132.0,
+    "density": 788.9,
+    "county_fips": 39165,
+    "county_name": "Warren",
+    "county_weights": "{\"39165\": 100}",
+    "county_names_all": "Warren",
+    "county_fips_all": "39165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

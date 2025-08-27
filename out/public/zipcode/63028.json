@@ -1,0 +1,20 @@
+{
+    "zip": 63028,
+    "lat": 38.14545,
+    "lng": -90.39423,
+    "city": "Festus",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27913.0,
+    "density": 85.7,
+    "county_fips": 29099,
+    "county_name": "Jefferson",
+    "county_weights": "{\"29099\": 83.4, \"29186\": 16.06, \"29187\": 0.54}",
+    "county_names_all": "Jefferson|Ste. Genevieve|St. Francois",
+    "county_fips_all": "29099|29186|29187",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 25102,
+    "lat": 38.16735,
+    "lng": -81.35192,
+    "city": "Handley",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 413.0,
+    "density": 34.4,
+    "county_fips": 54039,
+    "county_name": "Kanawha",
+    "county_weights": "{\"54039\": 100}",
+    "county_names_all": "Kanawha",
+    "county_fips_all": "54039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

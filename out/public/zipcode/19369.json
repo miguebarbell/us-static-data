@@ -1,0 +1,20 @@
+{
+    "zip": 19369,
+    "lat": 39.98082,
+    "lng": -75.89496,
+    "city": "Sadsburyville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 186.0,
+    "density": 1178.3,
+    "county_fips": 42029,
+    "county_name": "Chester",
+    "county_weights": "{\"42029\": 100}",
+    "county_names_all": "Chester",
+    "county_fips_all": "42029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

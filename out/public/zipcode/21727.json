@@ -1,0 +1,20 @@
+{
+    "zip": 21727,
+    "lat": 39.68865,
+    "lng": -77.33096,
+    "city": "Emmitsburg",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6079.0,
+    "density": 74.9,
+    "county_fips": 24021,
+    "county_name": "Frederick",
+    "county_weights": "{\"24021\": 100}",
+    "county_names_all": "Frederick",
+    "county_fips_all": "24021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

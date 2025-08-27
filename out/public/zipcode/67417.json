@@ -1,0 +1,20 @@
+{
+    "zip": 67417,
+    "lat": 39.43382,
+    "lng": -97.55015,
+    "city": "Aurora",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 116.0,
+    "density": 0.7,
+    "county_fips": 20029,
+    "county_name": "Cloud",
+    "county_weights": "{\"20029\": 100}",
+    "county_names_all": "Cloud",
+    "county_fips_all": "20029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

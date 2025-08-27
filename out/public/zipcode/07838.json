@@ -1,0 +1,20 @@
+{
+    "zip": 7838,
+    "lat": 40.88925,
+    "lng": -74.91042,
+    "city": "Great Meadows",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3495.0,
+    "density": 52.1,
+    "county_fips": 34041,
+    "county_name": "Warren",
+    "county_weights": "{\"34041\": 100}",
+    "county_names_all": "Warren",
+    "county_fips_all": "34041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

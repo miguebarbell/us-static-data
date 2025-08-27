@@ -1,0 +1,20 @@
+{
+    "zip": 47167,
+    "lat": 38.6077,
+    "lng": -86.09047,
+    "city": "Salem",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15573.0,
+    "density": 28.2,
+    "county_fips": 18175,
+    "county_name": "Washington",
+    "county_weights": "{\"18175\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "18175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

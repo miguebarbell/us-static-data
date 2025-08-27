@@ -1,0 +1,20 @@
+{
+    "zip": 26187,
+    "lat": 39.36711,
+    "lng": -81.44894,
+    "city": "Williamstown",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6100.0,
+    "density": 109.4,
+    "county_fips": 54107,
+    "county_name": "Wood",
+    "county_weights": "{\"54107\": 100}",
+    "county_names_all": "Wood",
+    "county_fips_all": "54107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

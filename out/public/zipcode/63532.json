@@ -1,0 +1,20 @@
+{
+    "zip": 63532,
+    "lat": 39.7677,
+    "lng": -92.57434,
+    "city": "Bevier",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1286.0,
+    "density": 10.0,
+    "county_fips": 29121,
+    "county_name": "Macon",
+    "county_weights": "{\"29121\": 100}",
+    "county_names_all": "Macon",
+    "county_fips_all": "29121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

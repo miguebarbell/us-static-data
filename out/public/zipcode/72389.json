@@ -1,0 +1,20 @@
+{
+    "zip": 72389,
+    "lat": 34.36985,
+    "lng": -90.88596,
+    "city": "Wabash",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 429.0,
+    "density": 3.9,
+    "county_fips": 5107,
+    "county_name": "Phillips",
+    "county_weights": "{\"05107\": 100}",
+    "county_names_all": "Phillips",
+    "county_fips_all": "05107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

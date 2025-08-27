@@ -1,0 +1,20 @@
+{
+    "zip": 83687,
+    "lat": 43.60998,
+    "lng": -116.52997,
+    "city": "Nampa",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40299.0,
+    "density": 314.9,
+    "county_fips": 16027,
+    "county_name": "Canyon",
+    "county_weights": "{\"16027\": 89.66, \"16001\": 10.34}",
+    "county_names_all": "Canyon|Ada",
+    "county_fips_all": "16027|16001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

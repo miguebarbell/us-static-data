@@ -1,0 +1,20 @@
+{
+    "zip": 28685,
+    "lat": 36.34729,
+    "lng": -81.04097,
+    "city": "Traphill",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2345.0,
+    "density": 19.2,
+    "county_fips": 37193,
+    "county_name": "Wilkes",
+    "county_weights": "{\"37193\": 100}",
+    "county_names_all": "Wilkes",
+    "county_fips_all": "37193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 28623,
+    "lat": 36.53088,
+    "lng": -80.97185,
+    "city": "Ennice",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1927.0,
+    "density": 24.9,
+    "county_fips": 37005,
+    "county_name": "Alleghany",
+    "county_weights": "{\"37005\": 99.87, \"37171\": 0.13}",
+    "county_names_all": "Alleghany|Surry",
+    "county_fips_all": "37005|37171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

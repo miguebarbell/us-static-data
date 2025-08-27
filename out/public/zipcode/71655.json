@@ -1,0 +1,20 @@
+{
+    "zip": 71655,
+    "lat": 33.62874,
+    "lng": -91.7486,
+    "city": "Monticello",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13892.0,
+    "density": 14.7,
+    "county_fips": 5043,
+    "county_name": "Drew",
+    "county_weights": "{\"05043\": 99.32, \"05079\": 0.68}",
+    "county_names_all": "Drew|Lincoln",
+    "county_fips_all": "05043|05079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

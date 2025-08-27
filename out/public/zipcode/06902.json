@@ -1,0 +1,20 @@
+{
+    "zip": 6902,
+    "lat": 41.05949,
+    "lng": -73.54751,
+    "city": "Stamford",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 72915.0,
+    "density": 2809.6,
+    "county_fips": 9190,
+    "county_name": "Western Connecticut",
+    "county_weights": "{\"09190\": 100}",
+    "county_names_all": "Western Connecticut",
+    "county_fips_all": "09190",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

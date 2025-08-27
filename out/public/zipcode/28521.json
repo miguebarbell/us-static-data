@@ -1,0 +1,20 @@
+{
+    "zip": 28521,
+    "lat": 34.82136,
+    "lng": -77.73684,
+    "city": "Chinquapin",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1554.0,
+    "density": 14.5,
+    "county_fips": 37061,
+    "county_name": "Duplin",
+    "county_weights": "{\"37061\": 96.39, \"37133\": 3.61}",
+    "county_names_all": "Duplin|Onslow",
+    "county_fips_all": "37061|37133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

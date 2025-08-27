@@ -1,0 +1,20 @@
+{
+    "zip": 53120,
+    "lat": 42.80066,
+    "lng": -88.41783,
+    "city": "East Troy",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10890.0,
+    "density": 74.4,
+    "county_fips": 55127,
+    "county_name": "Walworth",
+    "county_weights": "{\"55127\": 91.34, \"55101\": 8.66}",
+    "county_names_all": "Walworth|Racine",
+    "county_fips_all": "55127|55101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

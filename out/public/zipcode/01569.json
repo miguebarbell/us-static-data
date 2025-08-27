@@ -1,0 +1,20 @@
+{
+    "zip": 1569,
+    "lat": 42.05895,
+    "lng": -71.63741,
+    "city": "Uxbridge",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14127.0,
+    "density": 185.6,
+    "county_fips": 25027,
+    "county_name": "Worcester",
+    "county_weights": "{\"25027\": 100}",
+    "county_names_all": "Worcester",
+    "county_fips_all": "25027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

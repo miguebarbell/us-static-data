@@ -1,0 +1,20 @@
+{
+    "zip": 30656,
+    "lat": 33.86302,
+    "lng": -83.71903,
+    "city": "Monroe",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17798.0,
+    "density": 96.1,
+    "county_fips": 13297,
+    "county_name": "Walton",
+    "county_weights": "{\"13297\": 96.6, \"13013\": 3.4}",
+    "county_names_all": "Walton|Barrow",
+    "county_fips_all": "13297|13013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

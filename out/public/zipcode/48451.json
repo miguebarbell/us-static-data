@@ -1,0 +1,20 @@
+{
+    "zip": 48451,
+    "lat": 42.80365,
+    "lng": -83.81683,
+    "city": "Linden",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15993.0,
+    "density": 181.3,
+    "county_fips": 26049,
+    "county_name": "Genesee",
+    "county_weights": "{\"26049\": 74.72, \"26093\": 25.28}",
+    "county_names_all": "Genesee|Livingston",
+    "county_fips_all": "26049|26093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

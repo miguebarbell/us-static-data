@@ -1,0 +1,20 @@
+{
+    "zip": 89439,
+    "lat": 39.52291,
+    "lng": -119.99008,
+    "city": "Verdi",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2071.0,
+    "density": 49.2,
+    "county_fips": 32031,
+    "county_name": "Washoe",
+    "county_weights": "{\"32031\": 74.74, \"06091\": 25.26}",
+    "county_names_all": "Washoe|Sierra",
+    "county_fips_all": "32031|06091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

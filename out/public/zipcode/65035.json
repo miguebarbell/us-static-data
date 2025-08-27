@@ -1,0 +1,20 @@
+{
+    "zip": 65035,
+    "lat": 38.36338,
+    "lng": -91.93585,
+    "city": "Freeburg",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1547.0,
+    "density": 8.3,
+    "county_fips": 29151,
+    "county_name": "Osage",
+    "county_weights": "{\"29151\": 100}",
+    "county_names_all": "Osage",
+    "county_fips_all": "29151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

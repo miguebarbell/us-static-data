@@ -1,0 +1,20 @@
+{
+    "zip": 39562,
+    "lat": 30.54573,
+    "lng": -88.49039,
+    "city": "Moss Point",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17142.0,
+    "density": 32.8,
+    "county_fips": 28059,
+    "county_name": "Jackson",
+    "county_weights": "{\"28059\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "28059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

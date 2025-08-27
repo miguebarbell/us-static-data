@@ -1,0 +1,20 @@
+{
+    "zip": 30004,
+    "lat": 34.14352,
+    "lng": -84.29926,
+    "city": "Alpharetta",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 67850.0,
+    "density": 452.2,
+    "county_fips": 13121,
+    "county_name": "Fulton",
+    "county_weights": "{\"13121\": 68.53, \"13117\": 15.89, \"13057\": 15.58}",
+    "county_names_all": "Fulton|Forsyth|Cherokee",
+    "county_fips_all": "13121|13117|13057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

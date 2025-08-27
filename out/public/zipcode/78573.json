@@ -1,0 +1,20 @@
+{
+    "zip": 78573,
+    "lat": 26.29745,
+    "lng": -98.30242,
+    "city": "Mission",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42874.0,
+    "density": 451.3,
+    "county_fips": 48215,
+    "county_name": "Hidalgo",
+    "county_weights": "{\"48215\": 100}",
+    "county_names_all": "Hidalgo",
+    "county_fips_all": "48215",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

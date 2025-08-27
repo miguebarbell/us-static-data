@@ -1,0 +1,20 @@
+{
+    "zip": 27253,
+    "lat": 35.96239,
+    "lng": -79.34581,
+    "city": "Graham",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32688.0,
+    "density": 154.1,
+    "county_fips": 37001,
+    "county_name": "Alamance",
+    "county_weights": "{\"37001\": 100}",
+    "county_names_all": "Alamance",
+    "county_fips_all": "37001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

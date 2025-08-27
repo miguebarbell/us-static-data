@@ -1,0 +1,20 @@
+{
+    "zip": 26164,
+    "lat": 38.99061,
+    "lng": -81.71949,
+    "city": "Ravenswood",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7342.0,
+    "density": 27.7,
+    "county_fips": 54035,
+    "county_name": "Jackson",
+    "county_weights": "{\"54035\": 97.3, \"54107\": 2.7}",
+    "county_names_all": "Jackson|Wood",
+    "county_fips_all": "54035|54107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

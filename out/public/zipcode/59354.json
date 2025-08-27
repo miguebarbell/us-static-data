@@ -1,0 +1,20 @@
+{
+    "zip": 59354,
+    "lat": 46.18924,
+    "lng": -104.41939,
+    "city": "Willard",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 264.0,
+    "density": 2.0,
+    "county_fips": 30025,
+    "county_name": "Fallon",
+    "county_weights": "{\"30025\": 100}",
+    "county_names_all": "Fallon",
+    "county_fips_all": "30025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

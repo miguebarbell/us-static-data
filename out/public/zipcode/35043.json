@@ -1,0 +1,20 @@
+{
+    "zip": 35043,
+    "lat": 33.30926,
+    "lng": -86.66028,
+    "city": "Chelsea",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15068.0,
+    "density": 125.9,
+    "county_fips": 1117,
+    "county_name": "Shelby",
+    "county_weights": "{\"01117\": 100}",
+    "county_names_all": "Shelby",
+    "county_fips_all": "01117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

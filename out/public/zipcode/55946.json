@@ -1,0 +1,20 @@
+{
+    "zip": 55946,
+    "lat": 44.26129,
+    "lng": -92.95998,
+    "city": "Kenyon",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3366.0,
+    "density": 9.9,
+    "county_fips": 27049,
+    "county_name": "Goodhue",
+    "county_weights": "{\"27049\": 76.09, \"27131\": 16.13, \"27039\": 5.6, \"27147\": 2.18}",
+    "county_names_all": "Goodhue|Rice|Dodge|Steele",
+    "county_fips_all": "27049|27131|27039|27147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

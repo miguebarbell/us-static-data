@@ -1,0 +1,20 @@
+{
+    "zip": 17536,
+    "lat": 39.84345,
+    "lng": -76.07316,
+    "city": "Kirkwood",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3680.0,
+    "density": 67.9,
+    "county_fips": 42071,
+    "county_name": "Lancaster",
+    "county_weights": "{\"42071\": 100}",
+    "county_names_all": "Lancaster",
+    "county_fips_all": "42071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

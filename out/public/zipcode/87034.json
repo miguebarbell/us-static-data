@@ -1,0 +1,20 @@
+{
+    "zip": 87034,
+    "lat": 34.91939,
+    "lng": -107.6559,
+    "city": "Pueblo Of Acoma",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3044.0,
+    "density": 4.2,
+    "county_fips": 35006,
+    "county_name": "Cibola",
+    "county_weights": "{\"35006\": 100}",
+    "county_names_all": "Cibola",
+    "county_fips_all": "35006",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

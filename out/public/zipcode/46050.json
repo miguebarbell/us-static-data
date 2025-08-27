@@ -1,0 +1,20 @@
+{
+    "zip": 46050,
+    "lat": 40.20515,
+    "lng": -86.34629,
+    "city": "Kirklin",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2034.0,
+    "density": 16.5,
+    "county_fips": 18023,
+    "county_name": "Clinton",
+    "county_weights": "{\"18023\": 76.44, \"18011\": 18.73, \"18159\": 3.57, \"18057\": 1.26}",
+    "county_names_all": "Clinton|Boone|Tipton|Hamilton",
+    "county_fips_all": "18023|18011|18159|18057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

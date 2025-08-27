@@ -1,0 +1,20 @@
+{
+    "zip": 68365,
+    "lat": 40.61565,
+    "lng": -97.73065,
+    "city": "Grafton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 314.0,
+    "density": 2.4,
+    "county_fips": 31059,
+    "county_name": "Fillmore",
+    "county_weights": "{\"31059\": 97.33, \"31185\": 2.67}",
+    "county_names_all": "Fillmore|York",
+    "county_fips_all": "31059|31185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

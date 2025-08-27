@@ -1,0 +1,20 @@
+{
+    "zip": 3464,
+    "lat": 43.08256,
+    "lng": -72.11085,
+    "city": "Stoddard",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 965.0,
+    "density": 8.3,
+    "county_fips": 33005,
+    "county_name": "Cheshire",
+    "county_weights": "{\"33005\": 99.77, \"33019\": 0.23}",
+    "county_names_all": "Cheshire|Sullivan",
+    "county_fips_all": "33005|33019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

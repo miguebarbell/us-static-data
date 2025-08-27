@@ -1,0 +1,20 @@
+{
+    "zip": 25115,
+    "lat": 38.13065,
+    "lng": -81.18997,
+    "city": "Kanawha Falls",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41.0,
+    "density": 2.0,
+    "county_fips": 54019,
+    "county_name": "Fayette",
+    "county_weights": "{\"54019\": 100}",
+    "county_names_all": "Fayette",
+    "county_fips_all": "54019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

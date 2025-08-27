@@ -1,0 +1,20 @@
+{
+    "zip": 43061,
+    "lat": 40.28775,
+    "lng": -83.20256,
+    "city": "Ostrander",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5198.0,
+    "density": 44.4,
+    "county_fips": 39041,
+    "county_name": "Delaware",
+    "county_weights": "{\"39041\": 83.63, \"39159\": 16.37}",
+    "county_names_all": "Delaware|Union",
+    "county_fips_all": "39041|39159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

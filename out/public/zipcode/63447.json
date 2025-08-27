@@ -1,0 +1,20 @@
+{
+    "zip": 63447,
+    "lat": 40.09251,
+    "lng": -91.90494,
+    "city": "La Belle",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1081.0,
+    "density": 4.6,
+    "county_fips": 29111,
+    "county_name": "Lewis",
+    "county_weights": "{\"29111\": 95.54, \"29103\": 4.46}",
+    "county_names_all": "Lewis|Knox",
+    "county_fips_all": "29111|29103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

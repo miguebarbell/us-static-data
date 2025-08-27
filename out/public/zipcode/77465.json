@@ -1,0 +1,20 @@
+{
+    "zip": 77465,
+    "lat": 28.71152,
+    "lng": -96.22545,
+    "city": "Palacios",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7267.0,
+    "density": 12.1,
+    "county_fips": 48321,
+    "county_name": "Matagorda",
+    "county_weights": "{\"48321\": 82.89, \"48239\": 15.11, \"48057\": 2.0}",
+    "county_names_all": "Matagorda|Jackson|Calhoun",
+    "county_fips_all": "48321|48239|48057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

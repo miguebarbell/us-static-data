@@ -1,0 +1,20 @@
+{
+    "zip": 19365,
+    "lat": 39.9655,
+    "lng": -75.92766,
+    "city": "Parkesburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7477.0,
+    "density": 175.1,
+    "county_fips": 42029,
+    "county_name": "Chester",
+    "county_weights": "{\"42029\": 100}",
+    "county_names_all": "Chester",
+    "county_fips_all": "42029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

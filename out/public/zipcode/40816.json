@@ -1,0 +1,20 @@
+{
+    "zip": 40816,
+    "lat": 37.00879,
+    "lng": -83.3667,
+    "city": "Chappell",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 21131,
+    "county_name": "Leslie",
+    "county_weights": "{\"21131\": 100}",
+    "county_names_all": "Leslie",
+    "county_fips_all": "21131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

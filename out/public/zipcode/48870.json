@@ -1,0 +1,20 @@
+{
+    "zip": 48870,
+    "lat": 43.11027,
+    "lng": -84.98483,
+    "city": "Palo",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 204.0,
+    "density": 1260.1,
+    "county_fips": 26067,
+    "county_name": "Ionia",
+    "county_weights": "{\"26067\": 100}",
+    "county_names_all": "Ionia",
+    "county_fips_all": "26067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

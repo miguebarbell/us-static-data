@@ -1,0 +1,20 @@
+{
+    "zip": 62466,
+    "lat": 38.72707,
+    "lng": -87.84957,
+    "city": "Sumner",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4184.0,
+    "density": 11.6,
+    "county_fips": 17101,
+    "county_name": "Lawrence",
+    "county_weights": "{\"17101\": 88.88, \"17033\": 8.75, \"17159\": 2.37}",
+    "county_names_all": "Lawrence|Crawford|Richland",
+    "county_fips_all": "17101|17033|17159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 78940,
+    "lat": 29.93139,
+    "lng": -96.66701,
+    "city": "Fayetteville",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2284.0,
+    "density": 6.7,
+    "county_fips": 48149,
+    "county_name": "Fayette",
+    "county_weights": "{\"48149\": 76.23, \"48089\": 16.04, \"48015\": 7.73}",
+    "county_names_all": "Fayette|Colorado|Austin",
+    "county_fips_all": "48149|48089|48015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 63847,
+    "lat": 36.44271,
+    "lng": -90.03474,
+    "city": "Gibson",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 120.0,
+    "density": 21.6,
+    "county_fips": 29069,
+    "county_name": "Dunklin",
+    "county_weights": "{\"29069\": 100}",
+    "county_names_all": "Dunklin",
+    "county_fips_all": "29069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

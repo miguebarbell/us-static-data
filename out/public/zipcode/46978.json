@@ -1,0 +1,20 @@
+{
+    "zip": 46978,
+    "lat": 40.8587,
+    "lng": -86.51113,
+    "city": "Royal Center",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2111.0,
+    "density": 12.0,
+    "county_fips": 18017,
+    "county_name": "Cass",
+    "county_weights": "{\"18017\": 88.92, \"18131\": 5.1, \"18181\": 4.83, \"18049\": 1.15}",
+    "county_names_all": "Cass|Pulaski|White|Fulton",
+    "county_fips_all": "18017|18131|18181|18049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

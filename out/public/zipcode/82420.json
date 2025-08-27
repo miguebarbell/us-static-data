@@ -1,0 +1,20 @@
+{
+    "zip": 82420,
+    "lat": 44.92254,
+    "lng": -108.46149,
+    "city": "Cowley",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 938.0,
+    "density": 6.8,
+    "county_fips": 56003,
+    "county_name": "Big Horn",
+    "county_weights": "{\"56003\": 100}",
+    "county_names_all": "Big Horn",
+    "county_fips_all": "56003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

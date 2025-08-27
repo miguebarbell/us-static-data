@@ -1,0 +1,20 @@
+{
+    "zip": 46971,
+    "lat": 40.6606,
+    "lng": -86.16168,
+    "city": "Grissom Arb",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 18103,
+    "county_name": "Miami",
+    "county_weights": "{\"18103\": 100}",
+    "county_names_all": "Miami",
+    "county_fips_all": "18103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

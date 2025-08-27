@@ -1,0 +1,20 @@
+{
+    "zip": 57311,
+    "lat": 43.65112,
+    "lng": -97.76483,
+    "city": "Alexandria",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1509.0,
+    "density": 3.1,
+    "county_fips": 46061,
+    "county_name": "Hanson",
+    "county_weights": "{\"46061\": 99.04, \"46067\": 0.96}",
+    "county_names_all": "Hanson|Hutchinson",
+    "county_fips_all": "46061|46067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

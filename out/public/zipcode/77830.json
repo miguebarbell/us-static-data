@@ -1,0 +1,20 @@
+{
+    "zip": 77830,
+    "lat": 30.52648,
+    "lng": -96.00849,
+    "city": "Anderson",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2907.0,
+    "density": 5.8,
+    "county_fips": 48185,
+    "county_name": "Grimes",
+    "county_weights": "{\"48185\": 100}",
+    "county_names_all": "Grimes",
+    "county_fips_all": "48185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

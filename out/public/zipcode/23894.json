@@ -1,0 +1,20 @@
+{
+    "zip": 23894,
+    "lat": 37.13867,
+    "lng": -77.82404,
+    "city": "Wilsons",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 403.0,
+    "density": 5.6,
+    "county_fips": 51053,
+    "county_name": "Dinwiddie",
+    "county_weights": "{\"51053\": 90.67, \"51135\": 9.33}",
+    "county_names_all": "Dinwiddie|Nottoway",
+    "county_fips_all": "51053|51135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

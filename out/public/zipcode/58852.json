@@ -1,0 +1,20 @@
+{
+    "zip": 58852,
+    "lat": 48.38037,
+    "lng": -102.93276,
+    "city": "Tioga",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2064.0,
+    "density": 2.6,
+    "county_fips": 38105,
+    "county_name": "Williams",
+    "county_weights": "{\"38105\": 78.94, \"38061\": 21.06}",
+    "county_names_all": "Williams|Mountrail",
+    "county_fips_all": "38105|38061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

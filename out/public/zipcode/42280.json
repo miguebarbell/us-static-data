@@ -1,0 +1,20 @@
+{
+    "zip": 42280,
+    "lat": 36.95055,
+    "lng": -87.09927,
+    "city": "Sharon Grove",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 407.0,
+    "density": 6.6,
+    "county_fips": 21219,
+    "county_name": "Todd",
+    "county_weights": "{\"21219\": 100}",
+    "county_names_all": "Todd",
+    "county_fips_all": "21219",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

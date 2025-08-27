@@ -1,0 +1,20 @@
+{
+    "zip": 89706,
+    "lat": 39.22002,
+    "lng": -119.69974,
+    "city": "Carson City",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20724.0,
+    "density": 231.8,
+    "county_fips": 32510,
+    "county_name": "Carson City",
+    "county_weights": "{\"32510\": 52.64, \"32019\": 47.36}",
+    "county_names_all": "Carson City|Lyon",
+    "county_fips_all": "32510|32019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

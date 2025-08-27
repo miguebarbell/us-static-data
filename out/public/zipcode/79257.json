@@ -1,0 +1,20 @@
+{
+    "zip": 79257,
+    "lat": 34.44868,
+    "lng": -101.2995,
+    "city": "Silverton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 727.0,
+    "density": 0.7,
+    "county_fips": 48045,
+    "county_name": "Briscoe",
+    "county_weights": "{\"48045\": 97.38, \"48437\": 2.62}",
+    "county_names_all": "Briscoe|Swisher",
+    "county_fips_all": "48045|48437",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

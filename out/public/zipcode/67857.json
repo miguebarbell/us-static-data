@@ -1,0 +1,20 @@
+{
+    "zip": 67857,
+    "lat": 37.99598,
+    "lng": -101.55154,
+    "city": "Kendall",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 174.0,
+    "density": 0.2,
+    "county_fips": 20075,
+    "county_name": "Hamilton",
+    "county_weights": "{\"20075\": 52.97, \"20093\": 47.03}",
+    "county_names_all": "Hamilton|Kearny",
+    "county_fips_all": "20075|20093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 87062,
+    "lat": 34.46187,
+    "lng": -106.69719,
+    "city": "Veguita",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1792.0,
+    "density": 8.1,
+    "county_fips": 35053,
+    "county_name": "Socorro",
+    "county_weights": "{\"35053\": 99.32, \"35061\": 0.68}",
+    "county_names_all": "Socorro|Valencia",
+    "county_fips_all": "35053|35061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

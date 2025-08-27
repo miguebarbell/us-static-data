@@ -1,0 +1,20 @@
+{
+    "zip": 72858,
+    "lat": 35.20582,
+    "lng": -93.04433,
+    "city": "Pottsville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2917.0,
+    "density": 33.9,
+    "county_fips": 5115,
+    "county_name": "Pope",
+    "county_weights": "{\"05115\": 100}",
+    "county_names_all": "Pope",
+    "county_fips_all": "05115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

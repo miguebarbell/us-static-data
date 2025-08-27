@@ -1,0 +1,20 @@
+{
+    "zip": 36785,
+    "lat": 32.27615,
+    "lng": -86.82683,
+    "city": "Tyler",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 969.0,
+    "density": 3.8,
+    "county_fips": 1085,
+    "county_name": "Lowndes",
+    "county_weights": "{\"01085\": 55.65, \"01047\": 44.35}",
+    "county_names_all": "Lowndes|Dallas",
+    "county_fips_all": "01085|01047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

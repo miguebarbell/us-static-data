@@ -1,0 +1,20 @@
+{
+    "zip": 74570,
+    "lat": 34.86574,
+    "lng": -96.10432,
+    "city": "Stuart",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1212.0,
+    "density": 3.0,
+    "county_fips": 40063,
+    "county_name": "Hughes",
+    "county_weights": "{\"40063\": 59.57, \"40121\": 40.43}",
+    "county_names_all": "Hughes|Pittsburg",
+    "county_fips_all": "40063|40121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

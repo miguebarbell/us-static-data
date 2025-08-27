@@ -1,0 +1,20 @@
+{
+    "zip": 47017,
+    "lat": 38.93745,
+    "lng": -85.17713,
+    "city": "Cross Plains",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 415.0,
+    "density": 7.6,
+    "county_fips": 18137,
+    "county_name": "Ripley",
+    "county_weights": "{\"18137\": 74.29, \"18155\": 15.64, \"18115\": 10.07}",
+    "county_names_all": "Ripley|Switzerland|Ohio",
+    "county_fips_all": "18137|18155|18115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

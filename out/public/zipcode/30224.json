@@ -1,0 +1,20 @@
+{
+    "zip": 30224,
+    "lat": 33.20411,
+    "lng": -84.23587,
+    "city": "Griffin",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29472.0,
+    "density": 168.2,
+    "county_fips": 13255,
+    "county_name": "Spalding",
+    "county_weights": "{\"13255\": 74.69, \"13231\": 15.19, \"13171\": 10.12}",
+    "county_names_all": "Spalding|Pike|Lamar",
+    "county_fips_all": "13255|13231|13171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

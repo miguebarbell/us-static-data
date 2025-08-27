@@ -1,0 +1,20 @@
+{
+    "zip": 78145,
+    "lat": 28.64539,
+    "lng": -97.99248,
+    "city": "Pawnee",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 48.0,
+    "density": 5.7,
+    "county_fips": 48025,
+    "county_name": "Bee",
+    "county_weights": "{\"48025\": 100}",
+    "county_names_all": "Bee",
+    "county_fips_all": "48025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

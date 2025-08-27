@@ -1,0 +1,20 @@
+{
+    "zip": 80107,
+    "lat": 39.41195,
+    "lng": -104.57226,
+    "city": "Elizabeth",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14976.0,
+    "density": 37.4,
+    "county_fips": 8039,
+    "county_name": "Elbert",
+    "county_weights": "{\"08039\": 99.73, \"08035\": 0.27}",
+    "county_names_all": "Elbert|Douglas",
+    "county_fips_all": "08039|08035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

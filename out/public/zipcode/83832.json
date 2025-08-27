@@ -1,0 +1,20 @@
+{
+    "zip": 83832,
+    "lat": 46.55223,
+    "lng": -116.90666,
+    "city": "Genesee",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2056.0,
+    "density": 5.3,
+    "county_fips": 16057,
+    "county_name": "Latah",
+    "county_weights": "{\"16057\": 55.17, \"16069\": 44.83}",
+    "county_names_all": "Latah|Nez Perce",
+    "county_fips_all": "16057|16069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

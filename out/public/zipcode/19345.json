@@ -1,0 +1,20 @@
+{
+    "zip": 19345,
+    "lat": 40.02967,
+    "lng": -75.56955,
+    "city": "Immaculata",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 751.0,
+    "density": 808.3,
+    "county_fips": 42029,
+    "county_name": "Chester",
+    "county_weights": "{\"42029\": 100}",
+    "county_names_all": "Chester",
+    "county_fips_all": "42029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

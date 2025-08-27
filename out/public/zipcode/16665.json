@@ -1,0 +1,20 @@
+{
+    "zip": 16665,
+    "lat": 40.38898,
+    "lng": -78.43491,
+    "city": "Newry",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 274.0,
+    "density": 226.6,
+    "county_fips": 42013,
+    "county_name": "Blair",
+    "county_weights": "{\"42013\": 100}",
+    "county_names_all": "Blair",
+    "county_fips_all": "42013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

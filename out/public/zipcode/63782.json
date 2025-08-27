@@ -1,0 +1,20 @@
+{
+    "zip": 63782,
+    "lat": 37.11369,
+    "lng": -90.02788,
+    "city": "Sturdivant",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 167.0,
+    "density": 4.2,
+    "county_fips": 29017,
+    "county_name": "Bollinger",
+    "county_weights": "{\"29017\": 100}",
+    "county_names_all": "Bollinger",
+    "county_fips_all": "29017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 47043,
+    "lat": 38.7949,
+    "lng": -85.10009,
+    "city": "Vevay",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4851.0,
+    "density": 18.2,
+    "county_fips": 18155,
+    "county_name": "Switzerland",
+    "county_weights": "{\"18155\": 97.44, \"18077\": 2.56}",
+    "county_names_all": "Switzerland|Jefferson",
+    "county_fips_all": "18155|18077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Vevay"
+}

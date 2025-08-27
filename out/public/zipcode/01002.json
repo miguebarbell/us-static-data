@@ -1,0 +1,20 @@
+{
+    "zip": 1002,
+    "lat": 42.37633,
+    "lng": -72.46462,
+    "city": "Amherst",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24726.0,
+    "density": 179.3,
+    "county_fips": 25015,
+    "county_name": "Hampshire",
+    "county_weights": "{\"25015\": 93.26, \"25011\": 6.74}",
+    "county_names_all": "Hampshire|Franklin",
+    "county_fips_all": "25015|25011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

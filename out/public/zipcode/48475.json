@@ -1,0 +1,20 @@
+{
+    "zip": 48475,
+    "lat": 43.67141,
+    "lng": -82.93732,
+    "city": "Ubly",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2423.0,
+    "density": 8.7,
+    "county_fips": 26151,
+    "county_name": "Sanilac",
+    "county_weights": "{\"26151\": 53.98, \"26063\": 46.02}",
+    "county_names_all": "Sanilac|Huron",
+    "county_fips_all": "26151|26063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

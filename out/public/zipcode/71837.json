@@ -1,0 +1,20 @@
+{
+    "zip": 71837,
+    "lat": 33.25543,
+    "lng": -93.85693,
+    "city": "Fouke",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4850.0,
+    "density": 11.6,
+    "county_fips": 5091,
+    "county_name": "Miller",
+    "county_weights": "{\"05091\": 100}",
+    "county_names_all": "Miller",
+    "county_fips_all": "05091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

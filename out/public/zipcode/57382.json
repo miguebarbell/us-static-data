@@ -1,0 +1,20 @@
+{
+    "zip": 57382,
+    "lat": 44.05561,
+    "lng": -98.67303,
+    "city": "Wessington Springs",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1238.0,
+    "density": 1.1,
+    "county_fips": 46073,
+    "county_name": "Jerauld",
+    "county_weights": "{\"46073\": 85.0, \"46003\": 11.69, \"46005\": 3.31}",
+    "county_names_all": "Jerauld|Aurora|Beadle",
+    "county_fips_all": "46073|46003|46005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 99644,
+    "lat": 57.92512,
+    "lng": -152.4231,
+    "city": "Ouzinkie",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 103.0,
+    "density": 2.4,
+    "county_fips": 2150,
+    "county_name": "Kodiak Island",
+    "county_weights": "{\"02150\": 100}",
+    "county_names_all": "Kodiak Island",
+    "county_fips_all": "02150",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

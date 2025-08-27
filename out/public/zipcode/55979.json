@@ -1,0 +1,20 @@
+{
+    "zip": 55979,
+    "lat": 43.92312,
+    "lng": -91.95132,
+    "city": "Utica",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1138.0,
+    "density": 7.4,
+    "county_fips": 27169,
+    "county_name": "Winona",
+    "county_weights": "{\"27169\": 92.27, \"27045\": 7.73}",
+    "county_names_all": "Winona|Fillmore",
+    "county_fips_all": "27169|27045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 56385,
+    "lat": 45.70349,
+    "lng": -95.20681,
+    "city": "Villard",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 942.0,
+    "density": 4.9,
+    "county_fips": 27121,
+    "county_name": "Pope",
+    "county_weights": "{\"27121\": 83.52, \"27145\": 13.85, \"27041\": 2.63}",
+    "county_names_all": "Pope|Stearns|Douglas",
+    "county_fips_all": "27121|27145|27041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

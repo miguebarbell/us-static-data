@@ -1,0 +1,20 @@
+{
+    "zip": 32063,
+    "lat": 30.27045,
+    "lng": -82.11974,
+    "city": "Macclenny",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14546.0,
+    "density": 76.6,
+    "county_fips": 12003,
+    "county_name": "Baker",
+    "county_weights": "{\"12003\": 100}",
+    "county_names_all": "Baker",
+    "county_fips_all": "12003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

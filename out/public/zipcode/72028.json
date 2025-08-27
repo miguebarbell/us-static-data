@@ -1,0 +1,20 @@
+{
+    "zip": 72028,
+    "lat": 35.53771,
+    "lng": -92.43266,
+    "city": "Choctaw",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24.0,
+    "density": 10.7,
+    "county_fips": 5141,
+    "county_name": "Van Buren",
+    "county_weights": "{\"05141\": 100}",
+    "county_names_all": "Van Buren",
+    "county_fips_all": "05141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

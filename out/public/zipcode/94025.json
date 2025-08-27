@@ -1,0 +1,20 @@
+{
+    "zip": 94025,
+    "lat": 37.45087,
+    "lng": -122.1829,
+    "city": "Menlo Park",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40230.0,
+    "density": 1856.8,
+    "county_fips": 6081,
+    "county_name": "San Mateo",
+    "county_weights": "{\"06081\": 100}",
+    "county_names_all": "San Mateo",
+    "county_fips_all": "06081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

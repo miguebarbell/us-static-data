@@ -1,0 +1,20 @@
+{
+    "zip": 23959,
+    "lat": 37.10472,
+    "lng": -78.79654,
+    "city": "Phenix",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1198.0,
+    "density": 8.7,
+    "county_fips": 51037,
+    "county_name": "Charlotte",
+    "county_weights": "{\"51037\": 100}",
+    "county_names_all": "Charlotte",
+    "county_fips_all": "51037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 92648,
+    "lat": 33.68212,
+    "lng": -118.0101,
+    "city": "Huntington Beach",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 45521.0,
+    "density": 2184.1,
+    "county_fips": 6059,
+    "county_name": "Orange",
+    "county_weights": "{\"06059\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "06059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

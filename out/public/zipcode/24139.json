@@ -1,0 +1,20 @@
+{
+    "zip": 24139,
+    "lat": 37.01092,
+    "lng": -79.4752,
+    "city": "Pittsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 689.0,
+    "density": 10.9,
+    "county_fips": 51143,
+    "county_name": "Pittsylvania",
+    "county_weights": "{\"51143\": 75.36, \"51019\": 24.64}",
+    "county_names_all": "Pittsylvania|Bedford",
+    "county_fips_all": "51143|51019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

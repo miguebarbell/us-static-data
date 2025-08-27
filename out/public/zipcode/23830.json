@@ -1,0 +1,20 @@
+{
+    "zip": 23830,
+    "lat": 37.02098,
+    "lng": -77.39771,
+    "city": "Carson",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1471.0,
+    "density": 11.3,
+    "county_fips": 51053,
+    "county_name": "Dinwiddie",
+    "county_weights": "{\"51053\": 51.59, \"51183\": 27.14, \"51149\": 21.27}",
+    "county_names_all": "Dinwiddie|Sussex|Prince George",
+    "county_fips_all": "51053|51183|51149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

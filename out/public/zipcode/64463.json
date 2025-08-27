@@ -1,0 +1,20 @@
+{
+    "zip": 64463,
+    "lat": 40.06526,
+    "lng": -94.4869,
+    "city": "King City",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1239.0,
+    "density": 3.5,
+    "county_fips": 29075,
+    "county_name": "Gentry",
+    "county_weights": "{\"29075\": 66.11, \"29063\": 26.22, \"29003\": 7.67}",
+    "county_names_all": "Gentry|DeKalb|Andrew",
+    "county_fips_all": "29075|29063|29003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 97424,
+    "lat": 43.74712,
+    "lng": -123.05496,
+    "city": "Cottage Grove",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18881.0,
+    "density": 29.6,
+    "county_fips": 41039,
+    "county_name": "Lane",
+    "county_weights": "{\"41039\": 88.51, \"41019\": 11.49}",
+    "county_names_all": "Lane|Douglas",
+    "county_fips_all": "41039|41019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

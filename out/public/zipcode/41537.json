@@ -1,0 +1,20 @@
+{
+    "zip": 41537,
+    "lat": 37.22221,
+    "lng": -82.61619,
+    "city": "Jenkins",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3177.0,
+    "density": 22.4,
+    "county_fips": 21133,
+    "county_name": "Letcher",
+    "county_weights": "{\"21133\": 50.86, \"21195\": 49.14}",
+    "county_names_all": "Letcher|Pike",
+    "county_fips_all": "21133|21195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 63828,
+    "lat": 36.75038,
+    "lng": -89.69182,
+    "city": "Canalou",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 146.0,
+    "density": 57.5,
+    "county_fips": 29143,
+    "county_name": "New Madrid",
+    "county_weights": "{\"29143\": 100}",
+    "county_names_all": "New Madrid",
+    "county_fips_all": "29143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

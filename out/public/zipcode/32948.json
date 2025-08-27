@@ -1,0 +1,20 @@
+{
+    "zip": 32948,
+    "lat": 27.75901,
+    "lng": -80.61826,
+    "city": "Fellsmere",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6802.0,
+    "density": 23.0,
+    "county_fips": 12061,
+    "county_name": "Indian River",
+    "county_weights": "{\"12061\": 78.68, \"12009\": 21.32}",
+    "county_names_all": "Indian River|Brevard",
+    "county_fips_all": "12061|12009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

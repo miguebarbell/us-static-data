@@ -1,0 +1,20 @@
+{
+    "zip": 45064,
+    "lat": 39.56806,
+    "lng": -84.59785,
+    "city": "Somerville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3281.0,
+    "density": 39.5,
+    "county_fips": 39017,
+    "county_name": "Butler",
+    "county_weights": "{\"39017\": 51.48, \"39135\": 48.52}",
+    "county_names_all": "Butler|Preble",
+    "county_fips_all": "39017|39135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

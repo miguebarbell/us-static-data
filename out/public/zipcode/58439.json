@@ -1,0 +1,20 @@
+{
+    "zip": 58439,
+    "lat": 45.96738,
+    "lng": -98.82994,
+    "city": "Forbes",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 333.0,
+    "density": 0.7,
+    "county_fips": 38021,
+    "county_name": "Dickey",
+    "county_weights": "{\"38021\": 62.89, \"46089\": 34.85, \"46013\": 2.26}",
+    "county_names_all": "Dickey|McPherson|Brown",
+    "county_fips_all": "38021|46089|46013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

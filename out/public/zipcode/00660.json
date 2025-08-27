@@ -1,0 +1,20 @@
+{
+    "zip": 660,
+    "lat": 18.13412,
+    "lng": -67.11399,
+    "city": "Hormigueros",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15439.0,
+    "density": 526.7,
+    "county_fips": 72067,
+    "county_name": "Hormigueros",
+    "county_weights": "{\"72067\": 100}",
+    "county_names_all": "Hormigueros",
+    "county_fips_all": "72067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

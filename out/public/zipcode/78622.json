@@ -1,0 +1,20 @@
+{
+    "zip": 78622,
+    "lat": 29.77225,
+    "lng": -97.78229,
+    "city": "Fentress",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 353.0,
+    "density": 33.6,
+    "county_fips": 48055,
+    "county_name": "Caldwell",
+    "county_weights": "{\"48055\": 100}",
+    "county_names_all": "Caldwell",
+    "county_fips_all": "48055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

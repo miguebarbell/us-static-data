@@ -1,0 +1,20 @@
+{
+    "zip": 57553,
+    "lat": 44.48547,
+    "lng": -101.64489,
+    "city": "Milesville",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 205.0,
+    "density": 0.3,
+    "county_fips": 46055,
+    "county_name": "Haakon",
+    "county_weights": "{\"46055\": 100}",
+    "county_names_all": "Haakon",
+    "county_fips_all": "46055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

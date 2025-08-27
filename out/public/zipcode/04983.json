@@ -1,0 +1,20 @@
+{
+    "zip": 4983,
+    "lat": 44.92171,
+    "lng": -70.30599,
+    "city": "Strong",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1773.0,
+    "density": 4.5,
+    "county_fips": 23007,
+    "county_name": "Franklin",
+    "county_weights": "{\"23007\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "23007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

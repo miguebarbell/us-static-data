@@ -1,0 +1,20 @@
+{
+    "zip": 23150,
+    "lat": 37.50718,
+    "lng": -77.25402,
+    "city": "Sandston",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12152.0,
+    "density": 159.1,
+    "county_fips": 51087,
+    "county_name": "Henrico",
+    "county_weights": "{\"51087\": 100}",
+    "county_names_all": "Henrico",
+    "county_fips_all": "51087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

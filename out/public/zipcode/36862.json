@@ -1,0 +1,20 @@
+{
+    "zip": 36862,
+    "lat": 32.90612,
+    "lng": -85.44283,
+    "city": "Lafayette",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6052.0,
+    "density": 10.3,
+    "county_fips": 1017,
+    "county_name": "Chambers",
+    "county_weights": "{\"01017\": 100}",
+    "county_names_all": "Chambers",
+    "county_fips_all": "01017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

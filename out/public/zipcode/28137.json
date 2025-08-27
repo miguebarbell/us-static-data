@@ -1,0 +1,20 @@
+{
+    "zip": 28137,
+    "lat": 35.50009,
+    "lng": -80.25783,
+    "city": "Richfield",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2618.0,
+    "density": 22.8,
+    "county_fips": 37167,
+    "county_name": "Stanly",
+    "county_weights": "{\"37167\": 54.26, \"37159\": 45.74}",
+    "county_names_all": "Stanly|Rowan",
+    "county_fips_all": "37167|37159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

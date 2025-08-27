@@ -1,0 +1,20 @@
+{
+    "zip": 13421,
+    "lat": 43.06293,
+    "lng": -75.64654,
+    "city": "Oneida",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12742.0,
+    "density": 122.7,
+    "county_fips": 36053,
+    "county_name": "Madison",
+    "county_weights": "{\"36053\": 75.93, \"36065\": 24.07}",
+    "county_names_all": "Madison|Oneida",
+    "county_fips_all": "36053|36065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

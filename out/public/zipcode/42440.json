@@ -1,0 +1,20 @@
+{
+    "zip": 42440,
+    "lat": 37.23887,
+    "lng": -87.46782,
+    "city": "Mortons Gap",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 746.0,
+    "density": 203.8,
+    "county_fips": 21107,
+    "county_name": "Hopkins",
+    "county_weights": "{\"21107\": 100}",
+    "county_names_all": "Hopkins",
+    "county_fips_all": "21107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 76471,
+    "lat": 32.11117,
+    "lng": -98.98499,
+    "city": "Rising Star",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1530.0,
+    "density": 3.6,
+    "county_fips": 48133,
+    "county_name": "Eastland",
+    "county_weights": "{\"48133\": 64.13, \"48049\": 27.33, \"48093\": 8.54}",
+    "county_names_all": "Eastland|Brown|Comanche",
+    "county_fips_all": "48133|48049|48093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 35621,
+    "lat": 34.34967,
+    "lng": -86.7239,
+    "city": "Eva",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3292.0,
+    "density": 27.9,
+    "county_fips": 1103,
+    "county_name": "Morgan",
+    "county_weights": "{\"01103\": 96.67, \"01043\": 3.33}",
+    "county_names_all": "Morgan|Cullman",
+    "county_fips_all": "01103|01043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

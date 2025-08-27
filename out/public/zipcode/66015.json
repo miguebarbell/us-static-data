@@ -1,0 +1,20 @@
+{
+    "zip": 66015,
+    "lat": 38.06786,
+    "lng": -95.40395,
+    "city": "Colony",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 650.0,
+    "density": 2.6,
+    "county_fips": 20003,
+    "county_name": "Anderson",
+    "county_weights": "{\"20003\": 76.9, \"20001\": 23.1}",
+    "county_names_all": "Anderson|Allen",
+    "county_fips_all": "20003|20001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

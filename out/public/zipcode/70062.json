@@ -1,0 +1,20 @@
+{
+    "zip": 70062,
+    "lat": 29.98924,
+    "lng": -90.25579,
+    "city": "Kenner",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17765.0,
+    "density": 972.8,
+    "county_fips": 22051,
+    "county_name": "Jefferson",
+    "county_weights": "{\"22051\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "22051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

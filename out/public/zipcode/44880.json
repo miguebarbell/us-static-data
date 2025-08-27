@@ -1,0 +1,20 @@
+{
+    "zip": 44880,
+    "lat": 41.03352,
+    "lng": -82.21993,
+    "city": "Sullivan",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3131.0,
+    "density": 40.2,
+    "county_fips": 39005,
+    "county_name": "Ashland",
+    "county_weights": "{\"39005\": 86.05, \"39093\": 12.32, \"39103\": 1.63}",
+    "county_names_all": "Ashland|Lorain|Medina",
+    "county_fips_all": "39005|39093|39103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

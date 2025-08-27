@@ -1,0 +1,20 @@
+{
+    "zip": 44703,
+    "lat": 40.81093,
+    "lng": -81.38134,
+    "city": "Canton",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8468.0,
+    "density": 3089.3,
+    "county_fips": 39151,
+    "county_name": "Stark",
+    "county_weights": "{\"39151\": 100}",
+    "county_names_all": "Stark",
+    "county_fips_all": "39151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

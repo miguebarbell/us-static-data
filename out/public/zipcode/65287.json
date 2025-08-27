@@ -1,0 +1,20 @@
+{
+    "zip": 65287,
+    "lat": 38.88443,
+    "lng": -92.51953,
+    "city": "Wooldridge",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 268.0,
+    "density": 4.8,
+    "county_fips": 29135,
+    "county_name": "Moniteau",
+    "county_weights": "{\"29135\": 54.88, \"29053\": 45.12}",
+    "county_names_all": "Moniteau|Cooper",
+    "county_fips_all": "29135|29053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

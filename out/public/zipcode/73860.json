@@ -1,0 +1,20 @@
+{
+    "zip": 73860,
+    "lat": 36.53573,
+    "lng": -98.86265,
+    "city": "Waynoka",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1259.0,
+    "density": 1.5,
+    "county_fips": 40151,
+    "county_name": "Woods",
+    "county_weights": "{\"40151\": 61.49, \"40093\": 38.51}",
+    "county_names_all": "Woods|Major",
+    "county_fips_all": "40151|40093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

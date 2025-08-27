@@ -1,0 +1,20 @@
+{
+    "zip": 37398,
+    "lat": 35.18182,
+    "lng": -86.13808,
+    "city": "Winchester",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15712.0,
+    "density": 55.5,
+    "county_fips": 47051,
+    "county_name": "Franklin",
+    "county_weights": "{\"47051\": 94.38, \"47127\": 5.62}",
+    "county_names_all": "Franklin|Moore",
+    "county_fips_all": "47051|47127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 64835,
+    "lat": 37.14749,
+    "lng": -94.43824,
+    "city": "Carterville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1978.0,
+    "density": 355.2,
+    "county_fips": 29097,
+    "county_name": "Jasper",
+    "county_weights": "{\"29097\": 100}",
+    "county_names_all": "Jasper",
+    "county_fips_all": "29097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

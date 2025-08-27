@@ -1,0 +1,20 @@
+{
+    "zip": 54023,
+    "lat": 44.97708,
+    "lng": -92.55218,
+    "city": "Roberts",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4612.0,
+    "density": 39.6,
+    "county_fips": 55109,
+    "county_name": "St. Croix",
+    "county_weights": "{\"55109\": 100}",
+    "county_names_all": "St. Croix",
+    "county_fips_all": "55109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72715,
+    "lat": 36.46505,
+    "lng": -94.30545,
+    "city": "Bella Vista",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16920.0,
+    "density": 226.4,
+    "county_fips": 5007,
+    "county_name": "Benton",
+    "county_weights": "{\"05007\": 100}",
+    "county_names_all": "Benton",
+    "county_fips_all": "05007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

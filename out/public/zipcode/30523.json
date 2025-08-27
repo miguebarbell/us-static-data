@@ -1,0 +1,20 @@
+{
+    "zip": 30523,
+    "lat": 34.72012,
+    "lng": -83.54166,
+    "city": "Clarkesville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13777.0,
+    "density": 28.9,
+    "county_fips": 13137,
+    "county_name": "Habersham",
+    "county_weights": "{\"13137\": 83.85, \"13241\": 16.15}",
+    "county_names_all": "Habersham|Rabun",
+    "county_fips_all": "13137|13241",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43718,
+    "lat": 40.00926,
+    "lng": -81.00596,
+    "city": "Belmont",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2810.0,
+    "density": 18.9,
+    "county_fips": 39013,
+    "county_name": "Belmont",
+    "county_weights": "{\"39013\": 100}",
+    "county_names_all": "Belmont",
+    "county_fips_all": "39013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

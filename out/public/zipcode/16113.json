@@ -1,0 +1,20 @@
+{
+    "zip": 16113,
+    "lat": 41.2828,
+    "lng": -80.42569,
+    "city": "Clark",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 351.0,
+    "density": 254.8,
+    "county_fips": 42085,
+    "county_name": "Mercer",
+    "county_weights": "{\"42085\": 100}",
+    "county_names_all": "Mercer",
+    "county_fips_all": "42085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

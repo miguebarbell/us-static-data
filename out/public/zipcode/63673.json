@@ -1,0 +1,20 @@
+{
+    "zip": 63673,
+    "lat": 37.83641,
+    "lng": -89.98861,
+    "city": "Saint Mary",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2350.0,
+    "density": 7.9,
+    "county_fips": 29186,
+    "county_name": "Ste. Genevieve",
+    "county_weights": "{\"29186\": 48.82, \"29157\": 29.54, \"17157\": 21.64}",
+    "county_names_all": "Ste. Genevieve|Perry|Randolph",
+    "county_fips_all": "29186|29157|17157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

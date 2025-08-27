@@ -1,0 +1,20 @@
+{
+    "zip": 66023,
+    "lat": 39.51375,
+    "lng": -95.40005,
+    "city": "Effingham",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 954.0,
+    "density": 5.1,
+    "county_fips": 20005,
+    "county_name": "Atchison",
+    "county_weights": "{\"20005\": 100}",
+    "county_names_all": "Atchison",
+    "county_fips_all": "20005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

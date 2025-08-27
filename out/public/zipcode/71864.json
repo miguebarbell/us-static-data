@@ -1,0 +1,20 @@
+{
+    "zip": 71864,
+    "lat": 33.50997,
+    "lng": -93.28868,
+    "city": "Willisville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 81.0,
+    "density": 23.3,
+    "county_fips": 5099,
+    "county_name": "Nevada",
+    "county_weights": "{\"05099\": 100}",
+    "county_names_all": "Nevada",
+    "county_fips_all": "05099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

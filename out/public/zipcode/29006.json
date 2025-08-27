@@ -1,0 +1,20 @@
+{
+    "zip": 29006,
+    "lat": 33.87673,
+    "lng": -81.55294,
+    "city": "Batesburg",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8987.0,
+    "density": 25.1,
+    "county_fips": 45081,
+    "county_name": "Saluda",
+    "county_weights": "{\"45081\": 40.59, \"45003\": 37.65, \"45063\": 21.76}",
+    "county_names_all": "Saluda|Aiken|Lexington",
+    "county_fips_all": "45081|45003|45063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

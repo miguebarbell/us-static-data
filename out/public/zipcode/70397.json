@@ -1,0 +1,20 @@
+{
+    "zip": 70397,
+    "lat": 29.38444,
+    "lng": -90.823,
+    "city": "Theriot",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 867.0,
+    "density": 4.7,
+    "county_fips": 22109,
+    "county_name": "Terrebonne",
+    "county_weights": "{\"22109\": 100}",
+    "county_names_all": "Terrebonne",
+    "county_fips_all": "22109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

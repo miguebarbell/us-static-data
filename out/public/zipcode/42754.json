@@ -1,0 +1,20 @@
+{
+    "zip": 42754,
+    "lat": 37.47814,
+    "lng": -86.31379,
+    "city": "Leitchfield",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15817.0,
+    "density": 32.3,
+    "county_fips": 21085,
+    "county_name": "Grayson",
+    "county_weights": "{\"21085\": 90.1, \"21027\": 9.3, \"21061\": 0.6}",
+    "county_names_all": "Grayson|Breckinridge|Edmonson",
+    "county_fips_all": "21085|21027|21061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 55955,
+    "lat": 44.09179,
+    "lng": -92.73985,
+    "city": "Mantorville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2603.0,
+    "density": 29.4,
+    "county_fips": 27039,
+    "county_name": "Dodge",
+    "county_weights": "{\"27039\": 96.87, \"27109\": 3.13}",
+    "county_names_all": "Dodge|Olmsted",
+    "county_fips_all": "27039|27109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

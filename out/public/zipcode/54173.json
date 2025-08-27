@@ -1,0 +1,20 @@
+{
+    "zip": 54173,
+    "lat": 44.64228,
+    "lng": -88.03212,
+    "city": "Suamico",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3710.0,
+    "density": 100.5,
+    "county_fips": 55009,
+    "county_name": "Brown",
+    "county_weights": "{\"55009\": 100}",
+    "county_names_all": "Brown",
+    "county_fips_all": "55009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

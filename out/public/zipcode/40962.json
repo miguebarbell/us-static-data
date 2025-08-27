@@ -1,0 +1,20 @@
+{
+    "zip": 40962,
+    "lat": 37.14912,
+    "lng": -83.74922,
+    "city": "Manchester",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17390.0,
+    "density": 19.8,
+    "county_fips": 21051,
+    "county_name": "Clay",
+    "county_weights": "{\"21051\": 99.81, \"21125\": 0.19}",
+    "county_names_all": "Clay|Laurel",
+    "county_fips_all": "21051|21125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

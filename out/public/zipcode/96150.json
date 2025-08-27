@@ -1,0 +1,20 @@
+{
+    "zip": 96150,
+    "lat": 38.88971,
+    "lng": -120.04409,
+    "city": "South Lake Tahoe",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29527.0,
+    "density": 69.9,
+    "county_fips": 6017,
+    "county_name": "El Dorado",
+    "county_weights": "{\"06017\": 100}",
+    "county_names_all": "El Dorado",
+    "county_fips_all": "06017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

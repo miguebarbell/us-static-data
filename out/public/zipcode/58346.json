@@ -1,0 +1,20 @@
+{
+    "zip": 58346,
+    "lat": 48.28953,
+    "lng": -99.42218,
+    "city": "Leeds",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 597.0,
+    "density": 1.2,
+    "county_fips": 38005,
+    "county_name": "Benson",
+    "county_weights": "{\"38005\": 86.07, \"38095\": 12.44, \"38069\": 1.49}",
+    "county_names_all": "Benson|Towner|Pierce",
+    "county_fips_all": "38005|38095|38069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

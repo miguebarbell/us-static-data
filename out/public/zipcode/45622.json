@@ -1,0 +1,20 @@
+{
+    "zip": 45622,
+    "lat": 39.35905,
+    "lng": -82.49522,
+    "city": "Creola",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 612.0,
+    "density": 10.7,
+    "county_fips": 39163,
+    "county_name": "Vinton",
+    "county_weights": "{\"39163\": 82.44, \"39073\": 17.56}",
+    "county_names_all": "Vinton|Hocking",
+    "county_fips_all": "39163|39073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

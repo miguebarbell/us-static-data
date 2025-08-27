@@ -1,0 +1,20 @@
+{
+    "zip": 73727,
+    "lat": 36.48309,
+    "lng": -98.03839,
+    "city": "Carrier",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 101.0,
+    "density": 1.3,
+    "county_fips": 40047,
+    "county_name": "Garfield",
+    "county_weights": "{\"40047\": 100}",
+    "county_names_all": "Garfield",
+    "county_fips_all": "40047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

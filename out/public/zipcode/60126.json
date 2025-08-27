@@ -1,0 +1,20 @@
+{
+    "zip": 60126,
+    "lat": 41.89627,
+    "lng": -87.94194,
+    "city": "Elmhurst",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 47759.0,
+    "density": 1645.6,
+    "county_fips": 17043,
+    "county_name": "DuPage",
+    "county_weights": "{\"17043\": 97.32, \"17031\": 2.68}",
+    "county_names_all": "DuPage|Cook",
+    "county_fips_all": "17043|17031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

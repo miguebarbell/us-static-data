@@ -1,0 +1,20 @@
+{
+    "zip": 76020,
+    "lat": 32.90102,
+    "lng": -97.56483,
+    "city": "Azle",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32866.0,
+    "density": 195.5,
+    "county_fips": 48367,
+    "county_name": "Parker",
+    "county_weights": "{\"48367\": 62.48, \"48439\": 33.62, \"48497\": 3.9}",
+    "county_names_all": "Parker|Tarrant|Wise",
+    "county_fips_all": "48367|48439|48497",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

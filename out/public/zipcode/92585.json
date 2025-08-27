@@ -1,0 +1,20 @@
+{
+    "zip": 92585,
+    "lat": 33.74217,
+    "lng": -117.16723,
+    "city": "Menifee",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29500.0,
+    "density": 665.9,
+    "county_fips": 6065,
+    "county_name": "Riverside",
+    "county_weights": "{\"06065\": 100}",
+    "county_names_all": "Riverside",
+    "county_fips_all": "06065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

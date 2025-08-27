@@ -1,0 +1,20 @@
+{
+    "zip": 94086,
+    "lat": 37.37164,
+    "lng": -122.02316,
+    "city": "Sunnyvale",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 48956.0,
+    "density": 4328.7,
+    "county_fips": 6085,
+    "county_name": "Santa Clara",
+    "county_weights": "{\"06085\": 100}",
+    "county_names_all": "Santa Clara",
+    "county_fips_all": "06085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

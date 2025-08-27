@@ -1,0 +1,20 @@
+{
+    "zip": 67342,
+    "lat": 37.05877,
+    "lng": -95.35513,
+    "city": "Edna",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 675.0,
+    "density": 3.8,
+    "county_fips": 20099,
+    "county_name": "Labette",
+    "county_weights": "{\"20099\": 100}",
+    "county_names_all": "Labette",
+    "county_fips_all": "20099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 48336,
+    "lat": 42.46333,
+    "lng": -83.34803,
+    "city": "Farmington",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26920.0,
+    "density": 1115.9,
+    "county_fips": 26125,
+    "county_name": "Oakland",
+    "county_weights": "{\"26125\": 100}",
+    "county_names_all": "Oakland",
+    "county_fips_all": "26125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

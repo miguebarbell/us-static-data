@@ -1,0 +1,20 @@
+{
+    "zip": 59069,
+    "lat": 45.72204,
+    "lng": -109.57945,
+    "city": "Reed Point",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 491.0,
+    "density": 0.4,
+    "county_fips": 30095,
+    "county_name": "Stillwater",
+    "county_weights": "{\"30095\": 50.66, \"30097\": 49.34}",
+    "county_names_all": "Stillwater|Sweet Grass",
+    "county_fips_all": "30095|30097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

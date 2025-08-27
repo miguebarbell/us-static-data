@@ -1,0 +1,20 @@
+{
+    "zip": 64759,
+    "lat": 37.52655,
+    "lng": -94.26775,
+    "city": "Lamar",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8056.0,
+    "density": 11.7,
+    "county_fips": 29011,
+    "county_name": "Barton",
+    "county_weights": "{\"29011\": 99.0, \"29057\": 1.0}",
+    "county_names_all": "Barton|Dade",
+    "county_fips_all": "29011|29057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

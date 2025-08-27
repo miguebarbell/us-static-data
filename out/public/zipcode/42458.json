@@ -1,0 +1,20 @@
+{
+    "zip": 42458,
+    "lat": 37.85249,
+    "lng": -87.42367,
+    "city": "Spottsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 906.0,
+    "density": 31.9,
+    "county_fips": 21101,
+    "county_name": "Henderson",
+    "county_weights": "{\"21101\": 100}",
+    "county_names_all": "Henderson",
+    "county_fips_all": "21101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

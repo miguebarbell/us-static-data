@@ -1,0 +1,20 @@
+{
+    "zip": 55342,
+    "lat": 44.74152,
+    "lng": -94.72982,
+    "city": "Hector",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1884.0,
+    "density": 4.5,
+    "county_fips": 27129,
+    "county_name": "Renville",
+    "county_weights": "{\"27129\": 99.73, \"27093\": 0.27}",
+    "county_names_all": "Renville|Meeker",
+    "county_fips_all": "27129|27093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

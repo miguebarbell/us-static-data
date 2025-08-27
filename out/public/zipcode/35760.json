@@ -1,0 +1,20 @@
+{
+    "zip": 35760,
+    "lat": 34.54768,
+    "lng": -86.38324,
+    "city": "New Hope",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4908.0,
+    "density": 37.4,
+    "county_fips": 1089,
+    "county_name": "Madison",
+    "county_weights": "{\"01089\": 92.68, \"01095\": 7.32}",
+    "county_names_all": "Madison|Marshall",
+    "county_fips_all": "01089|01095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

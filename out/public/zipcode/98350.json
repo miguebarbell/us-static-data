@@ -1,0 +1,20 @@
+{
+    "zip": 98350,
+    "lat": 47.90683,
+    "lng": -124.62509,
+    "city": "La Push",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 367.0,
+    "density": 93.4,
+    "county_fips": 53009,
+    "county_name": "Clallam",
+    "county_weights": "{\"53009\": 100}",
+    "county_names_all": "Clallam",
+    "county_fips_all": "53009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

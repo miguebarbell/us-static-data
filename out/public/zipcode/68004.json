@@ -1,0 +1,20 @@
+{
+    "zip": 68004,
+    "lat": 42.00888,
+    "lng": -96.62978,
+    "city": "Bancroft",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 993.0,
+    "density": 5.0,
+    "county_fips": 31039,
+    "county_name": "Cuming",
+    "county_weights": "{\"31039\": 99.08, \"31021\": 0.92}",
+    "county_names_all": "Cuming|Burt",
+    "county_fips_all": "31039|31021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

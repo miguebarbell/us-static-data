@@ -1,0 +1,20 @@
+{
+    "zip": 97376,
+    "lat": 44.50854,
+    "lng": -123.9768,
+    "city": "Seal Rock",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1226.0,
+    "density": 7.8,
+    "county_fips": 41041,
+    "county_name": "Lincoln",
+    "county_weights": "{\"41041\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "41041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

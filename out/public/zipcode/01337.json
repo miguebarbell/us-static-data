@@ -1,0 +1,20 @@
+{
+    "zip": 1337,
+    "lat": 42.69512,
+    "lng": -72.57731,
+    "city": "Bernardston",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2515.0,
+    "density": 26.0,
+    "county_fips": 25011,
+    "county_name": "Franklin",
+    "county_weights": "{\"25011\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "25011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

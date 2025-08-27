@@ -1,0 +1,20 @@
+{
+    "zip": 66838,
+    "lat": 38.56207,
+    "lng": -96.79665,
+    "city": "Burdick",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 130.0,
+    "density": 0.8,
+    "county_fips": 20127,
+    "county_name": "Morris",
+    "county_weights": "{\"20127\": 94.38, \"20115\": 3.23, \"20017\": 2.39}",
+    "county_names_all": "Morris|Marion|Chase",
+    "county_fips_all": "20127|20115|20017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

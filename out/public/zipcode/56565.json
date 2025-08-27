@@ -1,0 +1,20 @@
+{
+    "zip": 56565,
+    "lat": 46.04861,
+    "lng": -96.31511,
+    "city": "Nashua",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 126.0,
+    "density": 1.6,
+    "county_fips": 27167,
+    "county_name": "Wilkin",
+    "county_weights": "{\"27167\": 75.03, \"27051\": 24.97}",
+    "county_names_all": "Wilkin|Grant",
+    "county_fips_all": "27167|27051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

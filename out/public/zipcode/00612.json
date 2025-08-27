@@ -1,0 +1,20 @@
+{
+    "zip": 612,
+    "lat": 18.41283,
+    "lng": -66.7051,
+    "city": "Arecibo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 62462.0,
+    "density": 316.7,
+    "county_fips": 72013,
+    "county_name": "Arecibo",
+    "county_weights": "{\"72013\": 98.94, \"72065\": 0.96, \"72017\": 0.1}",
+    "county_names_all": "Arecibo|Hatillo|Barceloneta",
+    "county_fips_all": "72013|72065|72017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

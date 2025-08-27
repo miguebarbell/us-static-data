@@ -1,0 +1,20 @@
+{
+    "zip": 74755,
+    "lat": 34.11799,
+    "lng": -95.14196,
+    "city": "Rufe",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 177.0,
+    "density": 6.3,
+    "county_fips": 40089,
+    "county_name": "McCurtain",
+    "county_weights": "{\"40089\": 65.63, \"40023\": 34.37}",
+    "county_names_all": "McCurtain|Choctaw",
+    "county_fips_all": "40089|40023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

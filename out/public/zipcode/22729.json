@@ -1,0 +1,20 @@
+{
+    "zip": 22729,
+    "lat": 38.35658,
+    "lng": -78.01596,
+    "city": "Mitchells",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1264.0,
+    "density": 47.7,
+    "county_fips": 51047,
+    "county_name": "Culpeper",
+    "county_weights": "{\"51047\": 100}",
+    "county_names_all": "Culpeper",
+    "county_fips_all": "51047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

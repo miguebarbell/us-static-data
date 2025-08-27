@@ -1,0 +1,20 @@
+{
+    "zip": 45303,
+    "lat": 40.2146,
+    "lng": -84.65627,
+    "city": "Ansonia",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2169.0,
+    "density": 26.9,
+    "county_fips": 39037,
+    "county_name": "Darke",
+    "county_weights": "{\"39037\": 100}",
+    "county_names_all": "Darke",
+    "county_fips_all": "39037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

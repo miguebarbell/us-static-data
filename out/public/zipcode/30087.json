@@ -1,0 +1,20 @@
+{
+    "zip": 30087,
+    "lat": 33.81087,
+    "lng": -84.13135,
+    "city": "Stone Mountain",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37570.0,
+    "density": 641.2,
+    "county_fips": 13089,
+    "county_name": "DeKalb",
+    "county_weights": "{\"13089\": 68.7, \"13135\": 31.3}",
+    "county_names_all": "DeKalb|Gwinnett",
+    "county_fips_all": "13089|13135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

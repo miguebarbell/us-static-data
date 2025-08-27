@@ -1,0 +1,20 @@
+{
+    "zip": 39846,
+    "lat": 31.56841,
+    "lng": -84.74271,
+    "city": "Edison",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1906.0,
+    "density": 9.2,
+    "county_fips": 13037,
+    "county_name": "Calhoun",
+    "county_weights": "{\"13037\": 90.72, \"13061\": 8.04, \"13243\": 1.24}",
+    "county_names_all": "Calhoun|Clay|Randolph",
+    "county_fips_all": "13037|13061|13243",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

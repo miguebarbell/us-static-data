@@ -1,0 +1,20 @@
+{
+    "zip": 66434,
+    "lat": 39.86731,
+    "lng": -95.54679,
+    "city": "Hiawatha",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4738.0,
+    "density": 8.3,
+    "county_fips": 20013,
+    "county_name": "Brown",
+    "county_weights": "{\"20013\": 100}",
+    "county_names_all": "Brown",
+    "county_fips_all": "20013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

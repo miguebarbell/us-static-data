@@ -1,0 +1,20 @@
+{
+    "zip": 58441,
+    "lat": 46.17119,
+    "lng": -98.37844,
+    "city": "Fullerton",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 358.0,
+    "density": 0.9,
+    "county_fips": 38021,
+    "county_name": "Dickey",
+    "county_weights": "{\"38021\": 100}",
+    "county_names_all": "Dickey",
+    "county_fips_all": "38021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

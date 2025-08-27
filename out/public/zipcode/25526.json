@@ -1,0 +1,20 @@
+{
+    "zip": 25526,
+    "lat": 38.3984,
+    "lng": -81.98279,
+    "city": "Hurricane",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22522.0,
+    "density": 95.3,
+    "county_fips": 54079,
+    "county_name": "Putnam",
+    "county_weights": "{\"54079\": 98.63, \"54043\": 1.11, \"54053\": 0.26}",
+    "county_names_all": "Putnam|Lincoln|Mason",
+    "county_fips_all": "54079|54043|54053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

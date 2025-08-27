@@ -1,0 +1,20 @@
+{
+    "zip": 778,
+    "lat": 18.26319,
+    "lng": -65.97938,
+    "city": "Gurabo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40391.0,
+    "density": 528.2,
+    "county_fips": 72063,
+    "county_name": "Gurabo",
+    "county_weights": "{\"72063\": 94.08, \"72129\": 5.92}",
+    "county_names_all": "Gurabo|San Lorenzo",
+    "county_fips_all": "72063|72129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 20607,
+    "lat": 38.67161,
+    "lng": -77.02478,
+    "city": "Accokeek",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12506.0,
+    "density": 245.9,
+    "county_fips": 24033,
+    "county_name": "Prince George's",
+    "county_weights": "{\"24033\": 96.36, \"24017\": 3.64}",
+    "county_names_all": "Prince George's|Charles",
+    "county_fips_all": "24033|24017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

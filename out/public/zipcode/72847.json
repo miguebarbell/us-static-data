@@ -1,0 +1,20 @@
+{
+    "zip": 72847,
+    "lat": 35.37043,
+    "lng": -93.27749,
+    "city": "London",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3256.0,
+    "density": 32.2,
+    "county_fips": 5115,
+    "county_name": "Pope",
+    "county_weights": "{\"05115\": 71.48, \"05071\": 28.52}",
+    "county_names_all": "Pope|Johnson",
+    "county_fips_all": "05115|05071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

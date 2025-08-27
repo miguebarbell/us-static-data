@@ -1,0 +1,20 @@
+{
+    "zip": 50220,
+    "lat": 41.8366,
+    "lng": -94.12293,
+    "city": "Perry",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9251.0,
+    "density": 35.5,
+    "county_fips": 19049,
+    "county_name": "Dallas",
+    "county_weights": "{\"19049\": 63.5, \"19015\": 32.77, \"19073\": 3.73}",
+    "county_names_all": "Dallas|Boone|Greene",
+    "county_fips_all": "19049|19015|19073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

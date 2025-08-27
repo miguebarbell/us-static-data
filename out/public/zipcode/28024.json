@@ -1,0 +1,20 @@
+{
+    "zip": 28024,
+    "lat": 35.24347,
+    "lng": -81.77066,
+    "city": "Cliffside",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31.0,
+    "density": 42.2,
+    "county_fips": 37161,
+    "county_name": "Rutherford",
+    "county_weights": "{\"37161\": 100}",
+    "county_names_all": "Rutherford",
+    "county_fips_all": "37161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

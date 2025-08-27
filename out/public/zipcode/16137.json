@@ -1,0 +1,20 @@
+{
+    "zip": 16137,
+    "lat": 41.23219,
+    "lng": -80.2397,
+    "city": "Mercer",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12327.0,
+    "density": 43.9,
+    "county_fips": 42085,
+    "county_name": "Mercer",
+    "county_weights": "{\"42085\": 100}",
+    "county_names_all": "Mercer",
+    "county_fips_all": "42085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43964,
+    "lat": 40.48695,
+    "lng": -80.66928,
+    "city": "Toronto",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9061.0,
+    "density": 74.0,
+    "county_fips": 39081,
+    "county_name": "Jefferson",
+    "county_weights": "{\"39081\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "39081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

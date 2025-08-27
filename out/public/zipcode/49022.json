@@ -1,0 +1,20 @@
+{
+    "zip": 49022,
+    "lat": 42.11434,
+    "lng": -86.3675,
+    "city": "Benton Harbor",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29796.0,
+    "density": 171.0,
+    "county_fips": 26021,
+    "county_name": "Berrien",
+    "county_weights": "{\"26021\": 97.33, \"26159\": 2.67}",
+    "county_names_all": "Berrien|Van Buren",
+    "county_fips_all": "26021|26159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

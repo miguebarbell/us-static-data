@@ -1,0 +1,20 @@
+{
+    "zip": 29501,
+    "lat": 34.20414,
+    "lng": -79.82654,
+    "city": "Florence",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 47259.0,
+    "density": 348.3,
+    "county_fips": 45041,
+    "county_name": "Florence",
+    "county_weights": "{\"45041\": 85.45, \"45031\": 14.55}",
+    "county_names_all": "Florence|Darlington",
+    "county_fips_all": "45041|45031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

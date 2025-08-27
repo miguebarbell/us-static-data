@@ -1,0 +1,20 @@
+{
+    "zip": 40353,
+    "lat": 38.06514,
+    "lng": -83.94853,
+    "city": "Mount Sterling",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22534.0,
+    "density": 61.6,
+    "county_fips": 21173,
+    "county_name": "Montgomery",
+    "county_weights": "{\"21173\": 93.47, \"21049\": 5.79, \"21011\": 0.61, \"21017\": 0.13}",
+    "county_names_all": "Montgomery|Clark|Bath|Bourbon",
+    "county_fips_all": "21173|21049|21011|21017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

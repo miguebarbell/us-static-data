@@ -1,0 +1,20 @@
+{
+    "zip": 27577,
+    "lat": 35.49166,
+    "lng": -78.3446,
+    "city": "Smithfield",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26946.0,
+    "density": 100.3,
+    "county_fips": 37101,
+    "county_name": "Johnston",
+    "county_weights": "{\"37101\": 100}",
+    "county_names_all": "Johnston",
+    "county_fips_all": "37101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

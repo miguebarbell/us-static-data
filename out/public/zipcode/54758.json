@@ -1,0 +1,20 @@
+{
+    "zip": 54758,
+    "lat": 44.54546,
+    "lng": -91.2173,
+    "city": "Osseo",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4604.0,
+    "density": 11.3,
+    "county_fips": 55121,
+    "county_name": "Trempealeau",
+    "county_weights": "{\"55121\": 52.8, \"55053\": 24.54, \"55035\": 22.66}",
+    "county_names_all": "Trempealeau|Jackson|Eau Claire",
+    "county_fips_all": "55121|55053|55035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

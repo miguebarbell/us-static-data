@@ -1,0 +1,20 @@
+{
+    "zip": 45788,
+    "lat": 39.51349,
+    "lng": -81.37016,
+    "city": "Whipple",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1021.0,
+    "density": 12.2,
+    "county_fips": 39167,
+    "county_name": "Washington",
+    "county_weights": "{\"39167\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "39167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 19087,
+    "lat": 40.06172,
+    "lng": -75.40004,
+    "city": "Wayne",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33770.0,
+    "density": 834.8,
+    "county_fips": 42029,
+    "county_name": "Chester",
+    "county_weights": "{\"42029\": 50.02, \"42045\": 34.74, \"42091\": 15.24}",
+    "county_names_all": "Chester|Delaware|Montgomery",
+    "county_fips_all": "42029|42045|42091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

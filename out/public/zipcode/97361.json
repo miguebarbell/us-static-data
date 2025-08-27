@@ -1,0 +1,20 @@
+{
+    "zip": 97361,
+    "lat": 44.77251,
+    "lng": -123.32999,
+    "city": "Monmouth",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13953.0,
+    "density": 40.5,
+    "county_fips": 41053,
+    "county_name": "Polk",
+    "county_weights": "{\"41053\": 89.2, \"41003\": 10.8}",
+    "county_names_all": "Polk|Benton",
+    "county_fips_all": "41053|41003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

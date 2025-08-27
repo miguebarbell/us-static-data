@@ -1,0 +1,20 @@
+{
+    "zip": 16229,
+    "lat": 40.71624,
+    "lng": -79.64567,
+    "city": "Freeport",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4900.0,
+    "density": 70.5,
+    "county_fips": 42005,
+    "county_name": "Armstrong",
+    "county_weights": "{\"42005\": 87.16, \"42019\": 6.76, \"42129\": 6.08}",
+    "county_names_all": "Armstrong|Butler|Westmoreland",
+    "county_fips_all": "42005|42019|42129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

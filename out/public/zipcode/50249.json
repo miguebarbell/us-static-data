@@ -1,0 +1,20 @@
+{
+    "zip": 50249,
+    "lat": 42.26991,
+    "lng": -93.89973,
+    "city": "Stratford",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1256.0,
+    "density": 6.1,
+    "county_fips": 19079,
+    "county_name": "Hamilton",
+    "county_weights": "{\"19079\": 70.02, \"19187\": 19.17, \"19015\": 10.81}",
+    "county_names_all": "Hamilton|Webster|Boone",
+    "county_fips_all": "19079|19187|19015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

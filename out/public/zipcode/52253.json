@@ -1,0 +1,20 @@
+{
+    "zip": 52253,
+    "lat": 41.89713,
+    "lng": -91.35154,
+    "city": "Lisbon",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2593.0,
+    "density": 21.3,
+    "county_fips": 19031,
+    "county_name": "Cedar",
+    "county_weights": "{\"19031\": 49.91, \"19113\": 23.56, \"19105\": 17.73, \"19103\": 8.79}",
+    "county_names_all": "Cedar|Linn|Jones|Johnson",
+    "county_fips_all": "19031|19113|19105|19103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 24269,
+    "lat": 37.0803,
+    "lng": -82.37894,
+    "city": "McClure",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 263.0,
+    "density": 13.2,
+    "county_fips": 51051,
+    "county_name": "Dickenson",
+    "county_weights": "{\"51051\": 100}",
+    "county_names_all": "Dickenson",
+    "county_fips_all": "51051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 23298,
+    "lat": 37.5416,
+    "lng": -77.42954,
+    "city": "Richmond",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 170.0,
+    "density": 588.9,
+    "county_fips": 51760,
+    "county_name": "Richmond",
+    "county_weights": "{\"51760\": 100}",
+    "county_names_all": "Richmond",
+    "county_fips_all": "51760",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 28672,
+    "lat": 36.48381,
+    "lng": -81.32735,
+    "city": "Scottville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 163.0,
+    "density": 34.4,
+    "county_fips": 37009,
+    "county_name": "Ashe",
+    "county_weights": "{\"37009\": 99.8, \"37005\": 0.2}",
+    "county_names_all": "Ashe|Alleghany",
+    "county_fips_all": "37009|37005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

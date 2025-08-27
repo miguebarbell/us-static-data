@@ -1,0 +1,20 @@
+{
+    "zip": 45849,
+    "lat": 41.01241,
+    "lng": -84.45452,
+    "city": "Grover Hill",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1136.0,
+    "density": 10.1,
+    "county_fips": 39125,
+    "county_name": "Paulding",
+    "county_weights": "{\"39125\": 74.37, \"39161\": 23.03, \"39137\": 2.6}",
+    "county_names_all": "Paulding|Van Wert|Putnam",
+    "county_fips_all": "39125|39161|39137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

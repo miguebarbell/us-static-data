@@ -1,0 +1,20 @@
+{
+    "zip": 25248,
+    "lat": 38.64255,
+    "lng": -81.61454,
+    "city": "Kenna",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3546.0,
+    "density": 20.7,
+    "county_fips": 54035,
+    "county_name": "Jackson",
+    "county_weights": "{\"54035\": 98.31, \"54039\": 1.69}",
+    "county_names_all": "Jackson|Kanawha",
+    "county_fips_all": "54035|54039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72445,
+    "lat": 35.97812,
+    "lng": -91.02669,
+    "city": "Minturn",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 61.0,
+    "density": 54.2,
+    "county_fips": 5075,
+    "county_name": "Lawrence",
+    "county_weights": "{\"05075\": 100}",
+    "county_names_all": "Lawrence",
+    "county_fips_all": "05075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

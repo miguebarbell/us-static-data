@@ -1,0 +1,20 @@
+{
+    "zip": 72523,
+    "lat": 35.64808,
+    "lng": -91.83632,
+    "city": "Concord",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 793.0,
+    "density": 7.4,
+    "county_fips": 5023,
+    "county_name": "Cleburne",
+    "county_weights": "{\"05023\": 80.5, \"05063\": 19.5}",
+    "county_names_all": "Cleburne|Independence",
+    "county_fips_all": "05023|05063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

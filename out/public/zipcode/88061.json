@@ -1,0 +1,20 @@
+{
+    "zip": 88061,
+    "lat": 32.6211,
+    "lng": -108.40888,
+    "city": "Silver City",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17546.0,
+    "density": 7.6,
+    "county_fips": 35017,
+    "county_name": "Grant",
+    "county_weights": "{\"35017\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "35017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

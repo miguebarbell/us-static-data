@@ -1,0 +1,20 @@
+{
+    "zip": 47387,
+    "lat": 39.83677,
+    "lng": -85.2945,
+    "city": "Straughn",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 461.0,
+    "density": 10.1,
+    "county_fips": 18065,
+    "county_name": "Henry",
+    "county_weights": "{\"18065\": 100}",
+    "county_names_all": "Henry",
+    "county_fips_all": "18065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

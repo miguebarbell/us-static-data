@@ -1,0 +1,20 @@
+{
+    "zip": 30002,
+    "lat": 33.77309,
+    "lng": -84.26093,
+    "city": "Avondale Estates",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5507.0,
+    "density": 1252.5,
+    "county_fips": 13089,
+    "county_name": "DeKalb",
+    "county_weights": "{\"13089\": 100}",
+    "county_names_all": "DeKalb",
+    "county_fips_all": "13089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 81224,
+    "lat": 38.87985,
+    "lng": -106.90957,
+    "city": "Crested Butte",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3439.0,
+    "density": 5.1,
+    "county_fips": 8051,
+    "county_name": "Gunnison",
+    "county_weights": "{\"08051\": 100}",
+    "county_names_all": "Gunnison",
+    "county_fips_all": "08051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

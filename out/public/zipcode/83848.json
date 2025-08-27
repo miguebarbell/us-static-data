@@ -1,0 +1,20 @@
+{
+    "zip": 83848,
+    "lat": 48.7067,
+    "lng": -116.92766,
+    "city": "Nordman",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 275.0,
+    "density": 1.9,
+    "county_fips": 16017,
+    "county_name": "Bonner",
+    "county_weights": "{\"16017\": 100}",
+    "county_names_all": "Bonner",
+    "county_fips_all": "16017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

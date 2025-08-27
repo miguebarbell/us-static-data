@@ -1,0 +1,20 @@
+{
+    "zip": 24179,
+    "lat": 37.2855,
+    "lng": -79.79963,
+    "city": "Vinton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18834.0,
+    "density": 153.1,
+    "county_fips": 51019,
+    "county_name": "Bedford",
+    "county_weights": "{\"51019\": 80.78, \"51161\": 18.79, \"51770\": 0.43}",
+    "county_names_all": "Bedford|Roanoke|Roanoke",
+    "county_fips_all": "51019|51161|51770",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

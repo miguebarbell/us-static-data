@@ -1,0 +1,20 @@
+{
+    "zip": 17920,
+    "lat": 40.81328,
+    "lng": -76.32989,
+    "city": "Aristes",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 208.0,
+    "density": 35.6,
+    "county_fips": 42037,
+    "county_name": "Columbia",
+    "county_weights": "{\"42037\": 100}",
+    "county_names_all": "Columbia",
+    "county_fips_all": "42037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

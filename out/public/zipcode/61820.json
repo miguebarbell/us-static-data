@@ -1,0 +1,20 @@
+{
+    "zip": 61820,
+    "lat": 40.112,
+    "lng": -88.24423,
+    "city": "Champaign",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38481.0,
+    "density": 2504.4,
+    "county_fips": 17019,
+    "county_name": "Champaign",
+    "county_weights": "{\"17019\": 100}",
+    "county_names_all": "Champaign",
+    "county_fips_all": "17019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

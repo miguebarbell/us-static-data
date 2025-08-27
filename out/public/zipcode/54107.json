@@ -1,0 +1,20 @@
+{
+    "zip": 54107,
+    "lat": 44.70068,
+    "lng": -88.44436,
+    "city": "Bonduel",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3626.0,
+    "density": 19.0,
+    "county_fips": 55115,
+    "county_name": "Shawano",
+    "county_weights": "{\"55115\": 97.28, \"55087\": 2.72}",
+    "county_names_all": "Shawano|Outagamie",
+    "county_fips_all": "55115|55087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

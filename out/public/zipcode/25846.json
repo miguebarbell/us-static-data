@@ -1,0 +1,20 @@
+{
+    "zip": 25846,
+    "lat": 37.92476,
+    "lng": -81.16628,
+    "city": "Glen Jean",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 55.0,
+    "density": 16.6,
+    "county_fips": 54019,
+    "county_name": "Fayette",
+    "county_weights": "{\"54019\": 100}",
+    "county_names_all": "Fayette",
+    "county_fips_all": "54019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

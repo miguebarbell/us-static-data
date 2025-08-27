@@ -1,0 +1,20 @@
+{
+    "zip": 38329,
+    "lat": 35.54541,
+    "lng": -88.11283,
+    "city": "Decaturville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3258.0,
+    "density": 11.5,
+    "county_fips": 47039,
+    "county_name": "Decatur",
+    "county_weights": "{\"47039\": 94.68, \"47077\": 5.32}",
+    "county_names_all": "Decatur|Henderson",
+    "county_fips_all": "47039|47077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

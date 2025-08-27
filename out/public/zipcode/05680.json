@@ -1,0 +1,20 @@
+{
+    "zip": 5680,
+    "lat": 44.53785,
+    "lng": -72.46838,
+    "city": "Wolcott",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2052.0,
+    "density": 12.2,
+    "county_fips": 50015,
+    "county_name": "Lamoille",
+    "county_weights": "{\"50015\": 97.13, \"50023\": 2.87}",
+    "county_names_all": "Lamoille|Washington",
+    "county_fips_all": "50015|50023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

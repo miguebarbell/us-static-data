@@ -1,0 +1,20 @@
+{
+    "zip": 15044,
+    "lat": 40.64009,
+    "lng": -79.9492,
+    "city": "Gibsonia",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27844.0,
+    "density": 275.3,
+    "county_fips": 42003,
+    "county_name": "Allegheny",
+    "county_weights": "{\"42003\": 96.7, \"42019\": 3.3}",
+    "county_names_all": "Allegheny|Butler",
+    "county_fips_all": "42003|42019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

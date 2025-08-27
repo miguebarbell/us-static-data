@@ -1,0 +1,20 @@
+{
+    "zip": 70634,
+    "lat": 30.80142,
+    "lng": -93.24309,
+    "city": "Deridder",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25038.0,
+    "density": 21.7,
+    "county_fips": 22011,
+    "county_name": "Beauregard",
+    "county_weights": "{\"22011\": 79.65, \"22115\": 20.35}",
+    "county_names_all": "Beauregard|Vernon",
+    "county_fips_all": "22011|22115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

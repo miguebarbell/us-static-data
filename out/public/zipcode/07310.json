@@ -1,0 +1,20 @@
+{
+    "zip": 7310,
+    "lat": 40.72893,
+    "lng": -74.03391,
+    "city": "Jersey City",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14577.0,
+    "density": 9208.6,
+    "county_fips": 34017,
+    "county_name": "Hudson",
+    "county_weights": "{\"34017\": 100}",
+    "county_names_all": "Hudson",
+    "county_fips_all": "34017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

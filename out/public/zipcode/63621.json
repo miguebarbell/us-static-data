@@ -1,0 +1,20 @@
+{
+    "zip": 63621,
+    "lat": 37.48225,
+    "lng": -90.57916,
+    "city": "Arcadia",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1656.0,
+    "density": 8.3,
+    "county_fips": 29093,
+    "county_name": "Iron",
+    "county_weights": "{\"29093\": 68.87, \"29123\": 31.13}",
+    "county_names_all": "Iron|Madison",
+    "county_fips_all": "29093|29123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 83244,
+    "lat": 43.94076,
+    "lng": -113.11287,
+    "city": "Howe",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 463.0,
+    "density": 0.2,
+    "county_fips": 16023,
+    "county_name": "Butte",
+    "county_weights": "{\"16023\": 100}",
+    "county_names_all": "Butte",
+    "county_fips_all": "16023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

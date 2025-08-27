@@ -1,0 +1,20 @@
+{
+    "zip": 50622,
+    "lat": 42.67358,
+    "lng": -92.33358,
+    "city": "Denver",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3288.0,
+    "density": 49.5,
+    "county_fips": 19017,
+    "county_name": "Bremer",
+    "county_weights": "{\"19017\": 100}",
+    "county_names_all": "Bremer",
+    "county_fips_all": "19017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

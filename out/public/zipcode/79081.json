@@ -1,0 +1,20 @@
+{
+    "zip": 79081,
+    "lat": 36.21559,
+    "lng": -101.21054,
+    "city": "Spearman",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3224.0,
+    "density": 1.8,
+    "county_fips": 48195,
+    "county_name": "Hansford",
+    "county_weights": "{\"48195\": 75.03, \"48233\": 11.97, \"48357\": 8.58, \"48393\": 4.42}",
+    "county_names_all": "Hansford|Hutchinson|Ochiltree|Roberts",
+    "county_fips_all": "48195|48233|48357|48393",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

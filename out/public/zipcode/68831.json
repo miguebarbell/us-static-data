@@ -1,0 +1,20 @@
+{
+    "zip": 68831,
+    "lat": 41.10937,
+    "lng": -98.54661,
+    "city": "Dannebrog",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 768.0,
+    "density": 4.1,
+    "county_fips": 31093,
+    "county_name": "Howard",
+    "county_weights": "{\"31093\": 96.0, \"31079\": 4.0}",
+    "county_names_all": "Howard|Hall",
+    "county_fips_all": "31093|31079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

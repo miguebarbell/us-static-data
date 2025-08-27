@@ -1,0 +1,20 @@
+{
+    "zip": 77580,
+    "lat": 29.85706,
+    "lng": -94.88081,
+    "city": "Mont Belvieu",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 48071,
+    "county_name": "Chambers",
+    "county_weights": "{\"48071\": 100}",
+    "county_names_all": "Chambers",
+    "county_fips_all": "48071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

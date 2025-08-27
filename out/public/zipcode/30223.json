@@ -1,0 +1,20 @@
+{
+    "zip": 30223,
+    "lat": 33.28635,
+    "lng": -84.28012,
+    "city": "Griffin",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37136.0,
+    "density": 132.8,
+    "county_fips": 13255,
+    "county_name": "Spalding",
+    "county_weights": "{\"13255\": 100}",
+    "county_names_all": "Spalding",
+    "county_fips_all": "13255",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

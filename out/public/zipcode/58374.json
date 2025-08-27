@@ -1,0 +1,20 @@
+{
+    "zip": 58374,
+    "lat": 47.82865,
+    "lng": -99.09171,
+    "city": "Sheyenne",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 597.0,
+    "density": 0.9,
+    "county_fips": 38027,
+    "county_name": "Eddy",
+    "county_weights": "{\"38027\": 52.39, \"38005\": 35.6, \"38103\": 12.01}",
+    "county_names_all": "Eddy|Benson|Wells",
+    "county_fips_all": "38027|38005|38103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

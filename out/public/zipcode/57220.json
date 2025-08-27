@@ -1,0 +1,20 @@
+{
+    "zip": 57220,
+    "lat": 44.45927,
+    "lng": -96.92022,
+    "city": "Bruce",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 676.0,
+    "density": 2.4,
+    "county_fips": 46011,
+    "county_name": "Brookings",
+    "county_weights": "{\"46011\": 100}",
+    "county_names_all": "Brookings",
+    "county_fips_all": "46011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

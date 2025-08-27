@@ -1,0 +1,20 @@
+{
+    "zip": 97524,
+    "lat": 42.46271,
+    "lng": -122.66327,
+    "city": "Eagle Point",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15072.0,
+    "density": 16.2,
+    "county_fips": 41029,
+    "county_name": "Jackson",
+    "county_weights": "{\"41029\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "41029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

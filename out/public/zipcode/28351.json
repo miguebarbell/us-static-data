@@ -1,0 +1,20 @@
+{
+    "zip": 28351,
+    "lat": 34.84098,
+    "lng": -79.56102,
+    "city": "Laurel Hill",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4792.0,
+    "density": 31.5,
+    "county_fips": 37165,
+    "county_name": "Scotland",
+    "county_weights": "{\"37165\": 97.05, \"37153\": 2.95}",
+    "county_names_all": "Scotland|Richmond",
+    "county_fips_all": "37165|37153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

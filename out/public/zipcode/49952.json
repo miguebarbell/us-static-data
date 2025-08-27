@@ -1,0 +1,20 @@
+{
+    "zip": 49952,
+    "lat": 46.68309,
+    "lng": -88.78408,
+    "city": "Nisula",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 93.0,
+    "density": 0.5,
+    "county_fips": 26061,
+    "county_name": "Houghton",
+    "county_weights": "{\"26061\": 97.64, \"26131\": 2.36}",
+    "county_names_all": "Houghton|Ontonagon",
+    "county_fips_all": "26061|26131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

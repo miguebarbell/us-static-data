@@ -1,0 +1,20 @@
+{
+    "zip": 31058,
+    "lat": 32.4911,
+    "lng": -84.41273,
+    "city": "Mauk",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1851.0,
+    "density": 6.9,
+    "county_fips": 13269,
+    "county_name": "Taylor",
+    "county_weights": "{\"13269\": 59.86, \"13197\": 39.58, \"13249\": 0.56}",
+    "county_names_all": "Taylor|Marion|Schley",
+    "county_fips_all": "13269|13197|13249",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

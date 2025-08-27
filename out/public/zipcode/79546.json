@@ -1,0 +1,20 @@
+{
+    "zip": 79546,
+    "lat": 32.8792,
+    "lng": -100.49136,
+    "city": "Rotan",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1662.0,
+    "density": 1.6,
+    "county_fips": 48151,
+    "county_name": "Fisher",
+    "county_weights": "{\"48151\": 77.08, \"48433\": 19.1, \"48415\": 3.82}",
+    "county_names_all": "Fisher|Stonewall|Scurry",
+    "county_fips_all": "48151|48433|48415",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

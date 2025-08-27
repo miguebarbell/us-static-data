@@ -1,0 +1,20 @@
+{
+    "zip": 24416,
+    "lat": 37.72892,
+    "lng": -79.35534,
+    "city": "Buena Vista",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9186.0,
+    "density": 57.5,
+    "county_fips": 51163,
+    "county_name": "Rockbridge",
+    "county_weights": "{\"51163\": 89.49, \"51530\": 10.51}",
+    "county_names_all": "Rockbridge|Buena Vista",
+    "county_fips_all": "51163|51530",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

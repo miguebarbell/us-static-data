@@ -1,0 +1,20 @@
+{
+    "zip": 57217,
+    "lat": 45.0845,
+    "lng": -97.67004,
+    "city": "Bradley",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 186.0,
+    "density": 0.9,
+    "county_fips": 46025,
+    "county_name": "Clark",
+    "county_weights": "{\"46025\": 100}",
+    "county_names_all": "Clark",
+    "county_fips_all": "46025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

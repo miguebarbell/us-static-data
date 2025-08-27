@@ -1,0 +1,20 @@
+{
+    "zip": 50244,
+    "lat": 41.85083,
+    "lng": -93.65126,
+    "city": "Slater",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1866.0,
+    "density": 28.6,
+    "county_fips": 19153,
+    "county_name": "Polk",
+    "county_weights": "{\"19153\": 59.82, \"19169\": 38.01, \"19015\": 2.17}",
+    "county_names_all": "Polk|Story|Boone",
+    "county_fips_all": "19153|19169|19015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 51645,
+    "lat": 40.88206,
+    "lng": -95.4229,
+    "city": "Imogene",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 407.0,
+    "density": 3.5,
+    "county_fips": 19071,
+    "county_name": "Fremont",
+    "county_weights": "{\"19071\": 57.47, \"19129\": 30.08, \"19137\": 6.99, \"19145\": 5.46}",
+    "county_names_all": "Fremont|Mills|Montgomery|Page",
+    "county_fips_all": "19071|19129|19137|19145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

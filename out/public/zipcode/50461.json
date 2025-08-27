@@ -1,0 +1,20 @@
+{
+    "zip": 50461,
+    "lat": 43.29995,
+    "lng": -92.81412,
+    "city": "Osage",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5094.0,
+    "density": 11.1,
+    "county_fips": 19131,
+    "county_name": "Mitchell",
+    "county_weights": "{\"19131\": 99.84, \"19067\": 0.16}",
+    "county_names_all": "Mitchell|Floyd",
+    "county_fips_all": "19131|19067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

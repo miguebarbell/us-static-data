@@ -1,0 +1,20 @@
+{
+    "zip": 4843,
+    "lat": 44.22929,
+    "lng": -69.08924,
+    "city": "Camden",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5243.0,
+    "density": 109.5,
+    "county_fips": 23013,
+    "county_name": "Knox",
+    "county_weights": "{\"23013\": 98.5, \"23027\": 1.5}",
+    "county_names_all": "Knox|Waldo",
+    "county_fips_all": "23013|23027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

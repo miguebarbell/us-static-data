@@ -1,0 +1,20 @@
+{
+    "zip": 47841,
+    "lat": 39.27764,
+    "lng": -87.11492,
+    "city": "Clay City",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2546.0,
+    "density": 15.0,
+    "county_fips": 18021,
+    "county_name": "Clay",
+    "county_weights": "{\"18021\": 97.1, \"18119\": 2.9}",
+    "county_names_all": "Clay|Owen",
+    "county_fips_all": "18021|18119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

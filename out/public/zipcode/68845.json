@@ -1,0 +1,20 @@
+{
+    "zip": 68845,
+    "lat": 40.71583,
+    "lng": -99.17059,
+    "city": "Kearney",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21012.0,
+    "density": 65.6,
+    "county_fips": 31019,
+    "county_name": "Buffalo",
+    "county_weights": "{\"31019\": 78.83, \"31099\": 12.29, \"31137\": 8.88}",
+    "county_names_all": "Buffalo|Kearney|Phelps",
+    "county_fips_all": "31019|31099|31137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49027,
+    "lat": 42.3482,
+    "lng": -86.06939,
+    "city": "Breedsville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 296.0,
+    "density": 237.7,
+    "county_fips": 26159,
+    "county_name": "Van Buren",
+    "county_weights": "{\"26159\": 100}",
+    "county_names_all": "Van Buren",
+    "county_fips_all": "26159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

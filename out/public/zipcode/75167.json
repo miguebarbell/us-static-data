@@ -1,0 +1,20 @@
+{
+    "zip": 75167,
+    "lat": 32.36123,
+    "lng": -96.91547,
+    "city": "Waxahachie",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13231.0,
+    "density": 53.3,
+    "county_fips": 48139,
+    "county_name": "Ellis",
+    "county_weights": "{\"48139\": 100}",
+    "county_names_all": "Ellis",
+    "county_fips_all": "48139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

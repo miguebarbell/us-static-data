@@ -1,0 +1,20 @@
+{
+    "zip": 766,
+    "lat": 18.13039,
+    "lng": -66.4757,
+    "city": "Villalba",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21829.0,
+    "density": 220.8,
+    "county_fips": 72149,
+    "county_name": "Villalba",
+    "county_weights": "{\"72149\": 93.28, \"72107\": 6.49, \"72075\": 0.23}",
+    "county_names_all": "Villalba|Orocovis|Juana D\u00edaz",
+    "county_fips_all": "72149|72107|72075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

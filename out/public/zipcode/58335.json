@@ -1,0 +1,20 @@
+{
+    "zip": 58335,
+    "lat": 47.97229,
+    "lng": -99.00412,
+    "city": "Fort Totten",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1047.0,
+    "density": 14.4,
+    "county_fips": 38005,
+    "county_name": "Benson",
+    "county_weights": "{\"38005\": 100}",
+    "county_names_all": "Benson",
+    "county_fips_all": "38005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

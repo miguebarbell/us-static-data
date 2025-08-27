@@ -1,0 +1,20 @@
+{
+    "zip": 27844,
+    "lat": 36.24555,
+    "lng": -77.94945,
+    "city": "Hollister",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3361.0,
+    "density": 24.0,
+    "county_fips": 37083,
+    "county_name": "Halifax",
+    "county_weights": "{\"37083\": 71.12, \"37185\": 20.68, \"37127\": 4.53, \"37069\": 3.67}",
+    "county_names_all": "Halifax|Warren|Nash|Franklin",
+    "county_fips_all": "37083|37185|37127|37069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

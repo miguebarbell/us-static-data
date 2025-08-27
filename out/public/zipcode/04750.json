@@ -1,0 +1,20 @@
+{
+    "zip": 4750,
+    "lat": 46.9582,
+    "lng": -67.85718,
+    "city": "Limestone",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1828.0,
+    "density": 9.0,
+    "county_fips": 23003,
+    "county_name": "Aroostook",
+    "county_weights": "{\"23003\": 100}",
+    "county_names_all": "Aroostook",
+    "county_fips_all": "23003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

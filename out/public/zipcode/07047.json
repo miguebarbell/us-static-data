@@ -1,0 +1,20 @@
+{
+    "zip": 7047,
+    "lat": 40.79376,
+    "lng": -74.02416,
+    "city": "North Bergen",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 61202.0,
+    "density": 4601.1,
+    "county_fips": 34017,
+    "county_name": "Hudson",
+    "county_weights": "{\"34017\": 100}",
+    "county_names_all": "Hudson",
+    "county_fips_all": "34017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

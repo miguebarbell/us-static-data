@@ -1,0 +1,20 @@
+{
+    "zip": 21539,
+    "lat": 39.59828,
+    "lng": -79.01074,
+    "city": "Lonaconing",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1846.0,
+    "density": 19.2,
+    "county_fips": 24023,
+    "county_name": "Garrett",
+    "county_weights": "{\"24023\": 57.43, \"24001\": 42.57}",
+    "county_names_all": "Garrett|Allegany",
+    "county_fips_all": "24023|24001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

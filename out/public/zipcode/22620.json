@@ -1,0 +1,20 @@
+{
+    "zip": 22620,
+    "lat": 39.06417,
+    "lng": -78.03317,
+    "city": "Boyce",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2649.0,
+    "density": 22.4,
+    "county_fips": 51043,
+    "county_name": "Clarke",
+    "county_weights": "{\"51043\": 100}",
+    "county_names_all": "Clarke",
+    "county_fips_all": "51043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

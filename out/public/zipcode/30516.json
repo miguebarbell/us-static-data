@@ -1,0 +1,20 @@
+{
+    "zip": 30516,
+    "lat": 34.37535,
+    "lng": -83.03748,
+    "city": "Bowersville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1935.0,
+    "density": 36.2,
+    "county_fips": 13147,
+    "county_name": "Hart",
+    "county_weights": "{\"13147\": 99.85, \"13119\": 0.15}",
+    "county_names_all": "Hart|Franklin",
+    "county_fips_all": "13147|13119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

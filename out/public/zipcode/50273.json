@@ -1,0 +1,20 @@
+{
+    "zip": 50273,
+    "lat": 41.32838,
+    "lng": -94.05606,
+    "city": "Winterset",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9123.0,
+    "density": 18.0,
+    "county_fips": 19121,
+    "county_name": "Madison",
+    "county_weights": "{\"19121\": 98.82, \"19001\": 1.18}",
+    "county_names_all": "Madison|Adair",
+    "county_fips_all": "19121|19001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

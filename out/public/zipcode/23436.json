@@ -1,0 +1,20 @@
+{
+    "zip": 23436,
+    "lat": 36.89516,
+    "lng": -76.50873,
+    "city": "Suffolk",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 873.0,
+    "density": 216.5,
+    "county_fips": 51800,
+    "county_name": "Suffolk",
+    "county_weights": "{\"51800\": 100}",
+    "county_names_all": "Suffolk",
+    "county_fips_all": "51800",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 23065,
+    "lat": 37.8016,
+    "lng": -77.92979,
+    "city": "Gum Spring",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1579.0,
+    "density": 35.9,
+    "county_fips": 51075,
+    "county_name": "Goochland",
+    "county_weights": "{\"51075\": 76.33, \"51109\": 23.67}",
+    "county_names_all": "Goochland|Louisa",
+    "county_fips_all": "51075|51109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

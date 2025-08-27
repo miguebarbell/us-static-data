@@ -1,0 +1,20 @@
+{
+    "zip": 47367,
+    "lat": 40.08366,
+    "lng": -85.39207,
+    "city": "Oakville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 105.0,
+    "density": 160.5,
+    "county_fips": 18035,
+    "county_name": "Delaware",
+    "county_weights": "{\"18035\": 100}",
+    "county_names_all": "Delaware",
+    "county_fips_all": "18035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 77367,
+    "lat": 30.8504,
+    "lng": -95.39147,
+    "city": "Riverside",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 634.0,
+    "density": 286.4,
+    "county_fips": 48471,
+    "county_name": "Walker",
+    "county_weights": "{\"48471\": 100}",
+    "county_names_all": "Walker",
+    "county_fips_all": "48471",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

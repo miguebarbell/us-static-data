@@ -1,0 +1,20 @@
+{
+    "zip": 78662,
+    "lat": 29.94316,
+    "lng": -97.44231,
+    "city": "Red Rock",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3147.0,
+    "density": 18.0,
+    "county_fips": 48021,
+    "county_name": "Bastrop",
+    "county_weights": "{\"48021\": 81.26, \"48055\": 18.74}",
+    "county_names_all": "Bastrop|Caldwell",
+    "county_fips_all": "48021|48055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

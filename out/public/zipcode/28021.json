@@ -1,0 +1,20 @@
+{
+    "zip": 28021,
+    "lat": 35.39952,
+    "lng": -81.41035,
+    "city": "Cherryville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13668.0,
+    "density": 89.7,
+    "county_fips": 37071,
+    "county_name": "Gaston",
+    "county_weights": "{\"37071\": 43.01, \"37109\": 32.25, \"37045\": 24.74}",
+    "county_names_all": "Gaston|Lincoln|Cleveland",
+    "county_fips_all": "37071|37109|37045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

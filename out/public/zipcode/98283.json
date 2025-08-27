@@ -1,0 +1,20 @@
+{
+    "zip": 98283,
+    "lat": 48.80137,
+    "lng": -121.29997,
+    "city": "Rockport",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 342.0,
+    "density": 0.3,
+    "county_fips": 53073,
+    "county_name": "Whatcom",
+    "county_weights": "{\"53073\": 95.75, \"53057\": 4.25}",
+    "county_names_all": "Whatcom|Skagit",
+    "county_fips_all": "53073|53057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

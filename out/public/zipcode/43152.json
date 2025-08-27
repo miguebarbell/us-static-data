@@ -1,0 +1,20 @@
+{
+    "zip": 43152,
+    "lat": 39.39211,
+    "lng": -82.61433,
+    "city": "South Bloomingville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 800.0,
+    "density": 6.5,
+    "county_fips": 39073,
+    "county_name": "Hocking",
+    "county_weights": "{\"39073\": 76.96, \"39163\": 23.04}",
+    "county_names_all": "Hocking|Vinton",
+    "county_fips_all": "39073|39163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

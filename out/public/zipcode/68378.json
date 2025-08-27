@@ -1,0 +1,20 @@
+{
+    "zip": 68378,
+    "lat": 40.39355,
+    "lng": -96.02615,
+    "city": "Johnson",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 713.0,
+    "density": 5.0,
+    "county_fips": 31127,
+    "county_name": "Nemaha",
+    "county_weights": "{\"31127\": 85.37, \"31097\": 14.63}",
+    "county_names_all": "Nemaha|Johnson",
+    "county_fips_all": "31127|31097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

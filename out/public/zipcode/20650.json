@@ -1,0 +1,20 @@
+{
+    "zip": 20650,
+    "lat": 38.27186,
+    "lng": -76.63276,
+    "city": "Leonardtown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15979.0,
+    "density": 100.5,
+    "county_fips": 24037,
+    "county_name": "St. Mary's",
+    "county_weights": "{\"24037\": 100}",
+    "county_names_all": "St. Mary's",
+    "county_fips_all": "24037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

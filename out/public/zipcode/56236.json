@@ -1,0 +1,20 @@
+{
+    "zip": 56236,
+    "lat": 45.66341,
+    "lng": -96.40312,
+    "city": "Dumont",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 456.0,
+    "density": 1.7,
+    "county_fips": 27155,
+    "county_name": "Traverse",
+    "county_weights": "{\"27155\": 93.94, \"27011\": 6.06}",
+    "county_names_all": "Traverse|Big Stone",
+    "county_fips_all": "27155|27011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

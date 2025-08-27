@@ -1,0 +1,20 @@
+{
+    "zip": 56315,
+    "lat": 45.97996,
+    "lng": -95.59211,
+    "city": "Brandon",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1731.0,
+    "density": 9.7,
+    "county_fips": 27041,
+    "county_name": "Douglas",
+    "county_weights": "{\"27041\": 96.83, \"27111\": 3.17}",
+    "county_names_all": "Douglas|Otter Tail",
+    "county_fips_all": "27041|27111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

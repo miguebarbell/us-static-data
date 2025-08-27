@@ -1,0 +1,20 @@
+{
+    "zip": 60511,
+    "lat": 41.75778,
+    "lng": -88.55601,
+    "city": "Big Rock",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1588.0,
+    "density": 20.5,
+    "county_fips": 17089,
+    "county_name": "Kane",
+    "county_weights": "{\"17089\": 96.14, \"17037\": 3.86}",
+    "county_names_all": "Kane|DeKalb",
+    "county_fips_all": "17089|17037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

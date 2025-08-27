@@ -1,0 +1,20 @@
+{
+    "zip": 2769,
+    "lat": 41.84394,
+    "lng": -71.24559,
+    "city": "Rehoboth",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12809.0,
+    "density": 105.4,
+    "county_fips": 25005,
+    "county_name": "Bristol",
+    "county_weights": "{\"25005\": 100}",
+    "county_names_all": "Bristol",
+    "county_fips_all": "25005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

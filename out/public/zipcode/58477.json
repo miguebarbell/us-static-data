@@ -1,0 +1,20 @@
+{
+    "zip": 58477,
+    "lat": 47.2208,
+    "lng": -100.52294,
+    "city": "Regan",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 143.0,
+    "density": 0.5,
+    "county_fips": 38015,
+    "county_name": "Burleigh",
+    "county_weights": "{\"38015\": 100}",
+    "county_names_all": "Burleigh",
+    "county_fips_all": "38015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

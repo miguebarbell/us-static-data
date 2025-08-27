@@ -1,0 +1,20 @@
+{
+    "zip": 47126,
+    "lat": 38.54979,
+    "lng": -85.77844,
+    "city": "Henryville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4146.0,
+    "density": 43.6,
+    "county_fips": 18019,
+    "county_name": "Clark",
+    "county_weights": "{\"18019\": 96.2, \"18175\": 3.8}",
+    "county_names_all": "Clark|Washington",
+    "county_fips_all": "18019|18175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Kentucky/Louisville"
+}

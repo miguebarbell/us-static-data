@@ -1,0 +1,20 @@
+{
+    "zip": 88051,
+    "lat": 33.01471,
+    "lng": -108.94299,
+    "city": "Mule Creek",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 320.0,
+    "density": 0.4,
+    "county_fips": 35017,
+    "county_name": "Grant",
+    "county_weights": "{\"35017\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "35017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 45358,
+    "lat": 39.98724,
+    "lng": -84.48796,
+    "city": "Pitsburg",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 313.0,
+    "density": 738.5,
+    "county_fips": 39037,
+    "county_name": "Darke",
+    "county_weights": "{\"39037\": 100}",
+    "county_names_all": "Darke",
+    "county_fips_all": "39037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

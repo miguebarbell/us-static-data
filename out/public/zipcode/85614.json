@@ -1,0 +1,20 @@
+{
+    "zip": 85614,
+    "lat": 31.81241,
+    "lng": -110.92972,
+    "city": "Green Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24696.0,
+    "density": 72.3,
+    "county_fips": 4019,
+    "county_name": "Pima",
+    "county_weights": "{\"04019\": 93.09, \"04023\": 6.91}",
+    "county_names_all": "Pima|Santa Cruz",
+    "county_fips_all": "04019|04023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

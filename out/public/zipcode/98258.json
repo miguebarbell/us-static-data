@@ -1,0 +1,20 @@
+{
+    "zip": 98258,
+    "lat": 48.03252,
+    "lng": -122.07762,
+    "city": "Lake Stevens",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 52005.0,
+    "density": 541.8,
+    "county_fips": 53061,
+    "county_name": "Snohomish",
+    "county_weights": "{\"53061\": 100}",
+    "county_names_all": "Snohomish",
+    "county_fips_all": "53061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

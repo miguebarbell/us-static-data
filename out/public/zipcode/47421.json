@@ -1,0 +1,20 @@
+{
+    "zip": 47421,
+    "lat": 38.86415,
+    "lng": -86.45122,
+    "city": "Bedford",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27610.0,
+    "density": 57.8,
+    "county_fips": 18093,
+    "county_name": "Lawrence",
+    "county_weights": "{\"18093\": 99.79, \"18105\": 0.21}",
+    "county_names_all": "Lawrence|Monroe",
+    "county_fips_all": "18093|18105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

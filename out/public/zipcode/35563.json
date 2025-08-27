@@ -1,0 +1,20 @@
+{
+    "zip": 35563,
+    "lat": 33.99678,
+    "lng": -87.90149,
+    "city": "Guin",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3701.0,
+    "density": 15.4,
+    "county_fips": 1093,
+    "county_name": "Marion",
+    "county_weights": "{\"01093\": 88.0, \"01057\": 6.87, \"01075\": 5.13}",
+    "county_names_all": "Marion|Fayette|Lamar",
+    "county_fips_all": "01093|01057|01075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

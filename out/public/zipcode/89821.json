@@ -1,0 +1,20 @@
+{
+    "zip": 89821,
+    "lat": 40.55585,
+    "lng": -116.41218,
+    "city": "Crescent Valley",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 699.0,
+    "density": 0.5,
+    "county_fips": 32011,
+    "county_name": "Eureka",
+    "county_weights": "{\"32011\": 100}",
+    "county_names_all": "Eureka",
+    "county_fips_all": "32011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

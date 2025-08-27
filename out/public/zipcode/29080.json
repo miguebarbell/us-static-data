@@ -1,0 +1,20 @@
+{
+    "zip": 29080,
+    "lat": 34.01525,
+    "lng": -80.08374,
+    "city": "Lynchburg",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2784.0,
+    "density": 8.4,
+    "county_fips": 45061,
+    "county_name": "Lee",
+    "county_weights": "{\"45061\": 55.62, \"45085\": 44.38}",
+    "county_names_all": "Lee|Sumter",
+    "county_fips_all": "45061|45085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

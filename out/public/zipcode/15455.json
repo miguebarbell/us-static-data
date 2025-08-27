@@ -1,0 +1,20 @@
+{
+    "zip": 15455,
+    "lat": 40.00614,
+    "lng": -79.64609,
+    "city": "Leisenring",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 435.0,
+    "density": 130.8,
+    "county_fips": 42051,
+    "county_name": "Fayette",
+    "county_weights": "{\"42051\": 100}",
+    "county_names_all": "Fayette",
+    "county_fips_all": "42051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 37141,
+    "lat": 36.6145,
+    "lng": -86.69894,
+    "city": "Orlinda",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1519.0,
+    "density": 28.9,
+    "county_fips": 47147,
+    "county_name": "Robertson",
+    "county_weights": "{\"47147\": 100}",
+    "county_names_all": "Robertson",
+    "county_fips_all": "47147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

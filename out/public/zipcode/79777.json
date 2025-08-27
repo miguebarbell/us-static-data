@@ -1,0 +1,20 @@
+{
+    "zip": 79777,
+    "lat": 31.47772,
+    "lng": -103.16337,
+    "city": "Pyote",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 101.0,
+    "density": 0.2,
+    "county_fips": 48475,
+    "county_name": "Ward",
+    "county_weights": "{\"48475\": 100}",
+    "county_names_all": "Ward",
+    "county_fips_all": "48475",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

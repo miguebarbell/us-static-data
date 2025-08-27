@@ -1,0 +1,20 @@
+{
+    "zip": 77494,
+    "lat": 29.74566,
+    "lng": -95.82302,
+    "city": "Katy",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 137213.0,
+    "density": 1398.4,
+    "county_fips": 48157,
+    "county_name": "Fort Bend",
+    "county_weights": "{\"48157\": 85.08, \"48473\": 7.93, \"48201\": 6.99}",
+    "county_names_all": "Fort Bend|Waller|Harris",
+    "county_fips_all": "48157|48473|48201",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

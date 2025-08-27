@@ -1,0 +1,20 @@
+{
+    "zip": 68337,
+    "lat": 40.09504,
+    "lng": -95.83418,
+    "city": "Dawson",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 401.0,
+    "density": 2.8,
+    "county_fips": 31147,
+    "county_name": "Richardson",
+    "county_weights": "{\"31147\": 100}",
+    "county_names_all": "Richardson",
+    "county_fips_all": "31147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

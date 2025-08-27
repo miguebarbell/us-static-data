@@ -1,0 +1,20 @@
+{
+    "zip": 62692,
+    "lat": 39.5832,
+    "lng": -89.93936,
+    "city": "Waverly",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2128.0,
+    "density": 9.4,
+    "county_fips": 17137,
+    "county_name": "Morgan",
+    "county_weights": "{\"17137\": 52.3, \"17167\": 47.7}",
+    "county_names_all": "Morgan|Sangamon",
+    "county_fips_all": "17137|17167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

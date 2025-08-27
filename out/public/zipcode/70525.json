@@ -1,0 +1,20 @@
+{
+    "zip": 70525,
+    "lat": 30.40765,
+    "lng": -92.21761,
+    "city": "Church Point",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15333.0,
+    "density": 57.6,
+    "county_fips": 22001,
+    "county_name": "Acadia",
+    "county_weights": "{\"22001\": 60.95, \"22097\": 38.22, \"22055\": 0.83}",
+    "county_names_all": "Acadia|St. Landry|Lafayette",
+    "county_fips_all": "22001|22097|22055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

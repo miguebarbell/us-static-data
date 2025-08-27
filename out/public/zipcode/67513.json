@@ -1,0 +1,20 @@
+{
+    "zip": 67513,
+    "lat": 38.43892,
+    "lng": -99.53846,
+    "city": "Alexander",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 111.0,
+    "density": 0.8,
+    "county_fips": 20165,
+    "county_name": "Rush",
+    "county_weights": "{\"20165\": 100}",
+    "county_names_all": "Rush",
+    "county_fips_all": "20165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

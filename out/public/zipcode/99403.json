@@ -1,0 +1,20 @@
+{
+    "zip": 99403,
+    "lat": 46.38114,
+    "lng": -117.25974,
+    "city": "Clarkston",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20483.0,
+    "density": 55.1,
+    "county_fips": 53003,
+    "county_name": "Asotin",
+    "county_weights": "{\"53003\": 80.06, \"53023\": 19.94}",
+    "county_names_all": "Asotin|Garfield",
+    "county_fips_all": "53003|53023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

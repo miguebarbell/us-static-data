@@ -1,0 +1,20 @@
+{
+    "zip": 12078,
+    "lat": 43.12338,
+    "lng": -74.36255,
+    "city": "Gloversville",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23087.0,
+    "density": 80.4,
+    "county_fips": 36035,
+    "county_name": "Fulton",
+    "county_weights": "{\"36035\": 100}",
+    "county_names_all": "Fulton",
+    "county_fips_all": "36035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 90241,
+    "lat": 33.94076,
+    "lng": -118.1295,
+    "city": "Downey",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 45484.0,
+    "density": 3601.6,
+    "county_fips": 6037,
+    "county_name": "Los Angeles",
+    "county_weights": "{\"06037\": 100}",
+    "county_names_all": "Los Angeles",
+    "county_fips_all": "06037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

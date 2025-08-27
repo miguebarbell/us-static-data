@@ -1,0 +1,20 @@
+{
+    "zip": 87746,
+    "lat": 35.66271,
+    "lng": -104.12715,
+    "city": "Solano",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 142.0,
+    "density": 0.1,
+    "county_fips": 35047,
+    "county_name": "San Miguel",
+    "county_weights": "{\"35047\": 94.24, \"35021\": 5.76}",
+    "county_names_all": "San Miguel|Harding",
+    "county_fips_all": "35047|35021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

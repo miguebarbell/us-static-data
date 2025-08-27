@@ -1,0 +1,20 @@
+{
+    "zip": 36105,
+    "lat": 32.21808,
+    "lng": -86.28778,
+    "city": "Montgomery",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9359.0,
+    "density": 52.5,
+    "county_fips": 1101,
+    "county_name": "Montgomery",
+    "county_weights": "{\"01101\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "01101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

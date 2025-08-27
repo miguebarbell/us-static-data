@@ -1,0 +1,20 @@
+{
+    "zip": 73620,
+    "lat": 35.61387,
+    "lng": -99.02278,
+    "city": "Arapaho",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1531.0,
+    "density": 5.7,
+    "county_fips": 40039,
+    "county_name": "Custer",
+    "county_weights": "{\"40039\": 100}",
+    "county_names_all": "Custer",
+    "county_fips_all": "40039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

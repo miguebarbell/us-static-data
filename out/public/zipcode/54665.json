@@ -1,0 +1,20 @@
+{
+    "zip": 54665,
+    "lat": 43.5319,
+    "lng": -90.92134,
+    "city": "Viroqua",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8741.0,
+    "density": 18.6,
+    "county_fips": 55123,
+    "county_name": "Vernon",
+    "county_weights": "{\"55123\": 99.02, \"55023\": 0.98}",
+    "county_names_all": "Vernon|Crawford",
+    "county_fips_all": "55123|55023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

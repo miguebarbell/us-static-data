@@ -1,0 +1,20 @@
+{
+    "zip": 51546,
+    "lat": 41.6399,
+    "lng": -95.77209,
+    "city": "Logan",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3113.0,
+    "density": 9.9,
+    "county_fips": 19085,
+    "county_name": "Harrison",
+    "county_weights": "{\"19085\": 100}",
+    "county_names_all": "Harrison",
+    "county_fips_all": "19085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

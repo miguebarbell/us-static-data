@@ -1,0 +1,20 @@
+{
+    "zip": 59262,
+    "lat": 47.49341,
+    "lng": -104.50518,
+    "city": "Savage",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 595.0,
+    "density": 0.8,
+    "county_fips": 30083,
+    "county_name": "Richland",
+    "county_weights": "{\"30083\": 57.49, \"30021\": 42.51}",
+    "county_names_all": "Richland|Dawson",
+    "county_fips_all": "30083|30021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

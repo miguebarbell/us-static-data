@@ -1,0 +1,20 @@
+{
+    "zip": 59008,
+    "lat": 45.07982,
+    "lng": -109.07496,
+    "city": "Belfry",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 503.0,
+    "density": 1.5,
+    "county_fips": 30009,
+    "county_name": "Carbon",
+    "county_weights": "{\"30009\": 100}",
+    "county_names_all": "Carbon",
+    "county_fips_all": "30009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 68028,
+    "lat": 41.10513,
+    "lng": -96.26098,
+    "city": "Gretna",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17248.0,
+    "density": 105.7,
+    "county_fips": 31153,
+    "county_name": "Sarpy",
+    "county_weights": "{\"31153\": 100}",
+    "county_names_all": "Sarpy",
+    "county_fips_all": "31153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

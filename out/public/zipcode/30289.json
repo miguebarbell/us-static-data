@@ -1,0 +1,20 @@
+{
+    "zip": 30289,
+    "lat": 33.32358,
+    "lng": -84.63368,
+    "city": "Turin",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13.0,
+    "density": 41.2,
+    "county_fips": 13077,
+    "county_name": "Coweta",
+    "county_weights": "{\"13077\": 100}",
+    "county_names_all": "Coweta",
+    "county_fips_all": "13077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

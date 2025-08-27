@@ -1,0 +1,20 @@
+{
+    "zip": 76240,
+    "lat": 33.65654,
+    "lng": -97.17766,
+    "city": "Gainesville",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29271.0,
+    "density": 30.6,
+    "county_fips": 48097,
+    "county_name": "Cooke",
+    "county_weights": "{\"48097\": 100}",
+    "county_names_all": "Cooke",
+    "county_fips_all": "48097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

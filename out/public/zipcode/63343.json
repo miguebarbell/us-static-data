@@ -1,0 +1,20 @@
+{
+    "zip": 63343,
+    "lat": 39.15775,
+    "lng": -90.82815,
+    "city": "Elsberry",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4920.0,
+    "density": 17.1,
+    "county_fips": 29113,
+    "county_name": "Lincoln",
+    "county_weights": "{\"29113\": 92.87, \"29163\": 7.13}",
+    "county_names_all": "Lincoln|Pike",
+    "county_fips_all": "29113|29163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 54742,
+    "lat": 44.76319,
+    "lng": -91.2722,
+    "city": "Fall Creek",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4854.0,
+    "density": 17.4,
+    "county_fips": 55035,
+    "county_name": "Eau Claire",
+    "county_weights": "{\"55035\": 100}",
+    "county_names_all": "Eau Claire",
+    "county_fips_all": "55035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

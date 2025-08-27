@@ -1,0 +1,20 @@
+{
+    "zip": 71072,
+    "lat": 32.9373,
+    "lng": -93.31141,
+    "city": "Shongaloo",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1376.0,
+    "density": 5.5,
+    "county_fips": 22119,
+    "county_name": "Webster",
+    "county_weights": "{\"22119\": 100}",
+    "county_names_all": "Webster",
+    "county_fips_all": "22119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

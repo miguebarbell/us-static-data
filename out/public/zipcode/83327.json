@@ -1,0 +1,20 @@
+{
+    "zip": 83327,
+    "lat": 43.51145,
+    "lng": -114.7961,
+    "city": "Fairfield",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1047.0,
+    "density": 0.5,
+    "county_fips": 16025,
+    "county_name": "Camas",
+    "county_weights": "{\"16025\": 100}",
+    "county_names_all": "Camas",
+    "county_fips_all": "16025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

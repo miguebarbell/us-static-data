@@ -1,0 +1,20 @@
+{
+    "zip": 40701,
+    "lat": 36.91759,
+    "lng": -84.16651,
+    "city": "Corbin",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29767.0,
+    "density": 76.3,
+    "county_fips": 21235,
+    "county_name": "Whitley",
+    "county_weights": "{\"21235\": 60.96, \"21125\": 21.47, \"21121\": 17.57}",
+    "county_names_all": "Whitley|Laurel|Knox",
+    "county_fips_all": "21235|21125|21121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

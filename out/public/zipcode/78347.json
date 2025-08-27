@@ -1,0 +1,20 @@
+{
+    "zip": 78347,
+    "lat": 27.57337,
+    "lng": -97.48642,
+    "city": "Chapman Ranch",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 112.0,
+    "density": 12.1,
+    "county_fips": 48355,
+    "county_name": "Nueces",
+    "county_weights": "{\"48355\": 99.65, \"48273\": 0.35}",
+    "county_names_all": "Nueces|Kleberg",
+    "county_fips_all": "48355|48273",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

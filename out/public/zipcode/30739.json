@@ -1,0 +1,20 @@
+{
+    "zip": 30739,
+    "lat": 34.80345,
+    "lng": -85.21515,
+    "city": "Rock Spring",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6854.0,
+    "density": 103.6,
+    "county_fips": 13295,
+    "county_name": "Walker",
+    "county_weights": "{\"13295\": 74.9, \"13047\": 25.1}",
+    "county_names_all": "Walker|Catoosa",
+    "county_fips_all": "13295|13047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

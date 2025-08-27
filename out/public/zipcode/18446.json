@@ -1,0 +1,20 @@
+{
+    "zip": 18446,
+    "lat": 41.64513,
+    "lng": -75.76044,
+    "city": "Nicholson",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3208.0,
+    "density": 22.2,
+    "county_fips": 42115,
+    "county_name": "Susquehanna",
+    "county_weights": "{\"42115\": 56.3, \"42131\": 35.64, \"42069\": 8.06}",
+    "county_names_all": "Susquehanna|Wyoming|Lackawanna",
+    "county_fips_all": "42115|42131|42069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

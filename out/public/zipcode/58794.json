@@ -1,0 +1,20 @@
+{
+    "zip": 58794,
+    "lat": 48.25916,
+    "lng": -102.76683,
+    "city": "White Earth",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 230.0,
+    "density": 0.9,
+    "county_fips": 38061,
+    "county_name": "Mountrail",
+    "county_weights": "{\"38061\": 100}",
+    "county_names_all": "Mountrail",
+    "county_fips_all": "38061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

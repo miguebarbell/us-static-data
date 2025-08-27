@@ -1,0 +1,20 @@
+{
+    "zip": 47523,
+    "lat": 38.17354,
+    "lng": -87.02934,
+    "city": "Dale",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3518.0,
+    "density": 20.4,
+    "county_fips": 18173,
+    "county_name": "Warrick",
+    "county_weights": "{\"18173\": 54.16, \"18147\": 43.74, \"18037\": 2.1}",
+    "county_names_all": "Warrick|Spencer|Dubois",
+    "county_fips_all": "18173|18147|18037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

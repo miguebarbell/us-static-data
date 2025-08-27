@@ -1,0 +1,20 @@
+{
+    "zip": 38581,
+    "lat": 35.73834,
+    "lng": -85.62141,
+    "city": "Rock Island",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3965.0,
+    "density": 15.6,
+    "county_fips": 47177,
+    "county_name": "Warren",
+    "county_weights": "{\"47177\": 53.67, \"47175\": 44.91, \"47041\": 1.42}",
+    "county_names_all": "Warren|Van Buren|DeKalb",
+    "county_fips_all": "47177|47175|47041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

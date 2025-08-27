@@ -1,0 +1,20 @@
+{
+    "zip": 26175,
+    "lat": 39.53899,
+    "lng": -80.96577,
+    "city": "Sistersville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3168.0,
+    "density": 29.7,
+    "county_fips": 54095,
+    "county_name": "Tyler",
+    "county_weights": "{\"54095\": 100}",
+    "county_names_all": "Tyler",
+    "county_fips_all": "54095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

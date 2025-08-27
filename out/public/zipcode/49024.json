@@ -1,0 +1,20 @@
+{
+    "zip": 49024,
+    "lat": 42.20207,
+    "lng": -85.61917,
+    "city": "Portage",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30937.0,
+    "density": 692.7,
+    "county_fips": 26077,
+    "county_name": "Kalamazoo",
+    "county_weights": "{\"26077\": 100}",
+    "county_names_all": "Kalamazoo",
+    "county_fips_all": "26077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 46989,
+    "lat": 40.45056,
+    "lng": -85.48115,
+    "city": "Upland",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5403.0,
+    "density": 65.0,
+    "county_fips": 18053,
+    "county_name": "Grant",
+    "county_weights": "{\"18053\": 96.8, \"18035\": 2.14, \"18009\": 1.06}",
+    "county_names_all": "Grant|Delaware|Blackford",
+    "county_fips_all": "18053|18035|18009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

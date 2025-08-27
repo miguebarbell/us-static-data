@@ -1,0 +1,20 @@
+{
+    "zip": 30467,
+    "lat": 32.75114,
+    "lng": -81.60468,
+    "city": "Sylvania",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11606.0,
+    "density": 8.5,
+    "county_fips": 13251,
+    "county_name": "Screven",
+    "county_weights": "{\"13251\": 100}",
+    "county_names_all": "Screven",
+    "county_fips_all": "13251",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

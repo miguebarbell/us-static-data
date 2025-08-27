@@ -1,0 +1,20 @@
+{
+    "zip": 10969,
+    "lat": 41.292,
+    "lng": -74.48879,
+    "city": "Pine Island",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1333.0,
+    "density": 47.0,
+    "county_fips": 36071,
+    "county_name": "Orange",
+    "county_weights": "{\"36071\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "36071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

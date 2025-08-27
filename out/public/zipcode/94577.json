@@ -1,0 +1,20 @@
+{
+    "zip": 94577,
+    "lat": 37.71595,
+    "lng": -122.16615,
+    "city": "San Leandro",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 47533.0,
+    "density": 2261.7,
+    "county_fips": 6001,
+    "county_name": "Alameda",
+    "county_weights": "{\"06001\": 100}",
+    "county_names_all": "Alameda",
+    "county_fips_all": "06001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

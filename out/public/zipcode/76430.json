@@ -1,0 +1,20 @@
+{
+    "zip": 76430,
+    "lat": 32.80303,
+    "lng": -99.23519,
+    "city": "Albany",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2383.0,
+    "density": 2.8,
+    "county_fips": 48417,
+    "county_name": "Shackelford",
+    "county_weights": "{\"48417\": 97.08, \"48447\": 2.92}",
+    "county_names_all": "Shackelford|Throckmorton",
+    "county_fips_all": "48417|48447",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

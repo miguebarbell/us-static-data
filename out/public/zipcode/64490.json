@@ -1,0 +1,20 @@
+{
+    "zip": 64490,
+    "lat": 39.73837,
+    "lng": -94.50984,
+    "city": "Stewartsville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1858.0,
+    "density": 8.2,
+    "county_fips": 29049,
+    "county_name": "Clinton",
+    "county_weights": "{\"29049\": 59.63, \"29063\": 40.19, \"29021\": 0.18}",
+    "county_names_all": "Clinton|DeKalb|Buchanan",
+    "county_fips_all": "29049|29063|29021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

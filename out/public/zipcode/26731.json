@@ -1,0 +1,20 @@
+{
+    "zip": 26731,
+    "lat": 39.15243,
+    "lng": -79.06859,
+    "city": "Lahmansville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 256.0,
+    "density": 6.9,
+    "county_fips": 54023,
+    "county_name": "Grant",
+    "county_weights": "{\"54023\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "54023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

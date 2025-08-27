@@ -1,0 +1,20 @@
+{
+    "zip": 80021,
+    "lat": 39.89105,
+    "lng": -105.11448,
+    "city": "Broomfield",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35562.0,
+    "density": 830.4,
+    "county_fips": 8059,
+    "county_name": "Jefferson",
+    "county_weights": "{\"08059\": 69.22, \"08014\": 30.78}",
+    "county_names_all": "Jefferson|Broomfield",
+    "county_fips_all": "08059|08014",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

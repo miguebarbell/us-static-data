@@ -1,0 +1,20 @@
+{
+    "zip": 73505,
+    "lat": 34.5718,
+    "lng": -98.4834,
+    "city": "Lawton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 47822.0,
+    "density": 285.8,
+    "county_fips": 40031,
+    "county_name": "Comanche",
+    "county_weights": "{\"40031\": 100}",
+    "county_names_all": "Comanche",
+    "county_fips_all": "40031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

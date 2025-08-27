@@ -1,0 +1,20 @@
+{
+    "zip": 35447,
+    "lat": 33.25701,
+    "lng": -88.15716,
+    "city": "Carrollton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3194.0,
+    "density": 8.7,
+    "county_fips": 1107,
+    "county_name": "Pickens",
+    "county_weights": "{\"01107\": 100}",
+    "county_names_all": "Pickens",
+    "county_fips_all": "01107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43901,
+    "lat": 40.21691,
+    "lng": -80.86637,
+    "city": "Adena",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2159.0,
+    "density": 27.0,
+    "county_fips": 39081,
+    "county_name": "Jefferson",
+    "county_weights": "{\"39081\": 65.67, \"39067\": 25.93, \"39013\": 8.4}",
+    "county_names_all": "Jefferson|Harrison|Belmont",
+    "county_fips_all": "39081|39067|39013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 53968,
+    "lat": 43.64072,
+    "lng": -90.2326,
+    "city": "Wonewoc",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2444.0,
+    "density": 12.3,
+    "county_fips": 55057,
+    "county_name": "Juneau",
+    "county_weights": "{\"55057\": 55.04, \"55111\": 37.38, \"55123\": 5.63, \"55103\": 1.95}",
+    "county_names_all": "Juneau|Sauk|Vernon|Richland",
+    "county_fips_all": "55057|55111|55123|55103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

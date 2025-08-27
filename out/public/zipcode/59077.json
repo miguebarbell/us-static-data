@@ -1,0 +1,20 @@
+{
+    "zip": 59077,
+    "lat": 47.22224,
+    "lng": -107.58999,
+    "city": "Sand Springs",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42.0,
+    "density": 0.0,
+    "county_fips": 30033,
+    "county_name": "Garfield",
+    "county_weights": "{\"30033\": 100}",
+    "county_names_all": "Garfield",
+    "county_fips_all": "30033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

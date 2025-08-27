@@ -1,0 +1,20 @@
+{
+    "zip": 30165,
+    "lat": 34.30279,
+    "lng": -85.27233,
+    "city": "Rome",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41998.0,
+    "density": 97.1,
+    "county_fips": 13115,
+    "county_name": "Floyd",
+    "county_weights": "{\"13115\": 98.15, \"01019\": 0.93, \"13055\": 0.92}",
+    "county_names_all": "Floyd|Cherokee|Chattooga",
+    "county_fips_all": "13115|01019|13055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

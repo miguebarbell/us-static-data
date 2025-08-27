@@ -1,0 +1,20 @@
+{
+    "zip": 76483,
+    "lat": 33.16667,
+    "lng": -99.25111,
+    "city": "Throckmorton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 675.0,
+    "density": 0.6,
+    "county_fips": 48447,
+    "county_name": "Throckmorton",
+    "county_weights": "{\"48447\": 100}",
+    "county_names_all": "Throckmorton",
+    "county_fips_all": "48447",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

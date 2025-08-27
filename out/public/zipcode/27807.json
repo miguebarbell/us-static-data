@@ -1,0 +1,20 @@
+{
+    "zip": 27807,
+    "lat": 35.80915,
+    "lng": -78.0917,
+    "city": "Bailey",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5951.0,
+    "density": 47.7,
+    "county_fips": 37127,
+    "county_name": "Nash",
+    "county_weights": "{\"37127\": 92.99, \"37195\": 7.01}",
+    "county_names_all": "Nash|Wilson",
+    "county_fips_all": "37127|37195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

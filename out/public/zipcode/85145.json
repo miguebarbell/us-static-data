@@ -1,0 +1,20 @@
+{
+    "zip": 85145,
+    "lat": 32.54322,
+    "lng": -111.39415,
+    "city": "Red Rock",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3243.0,
+    "density": 32.5,
+    "county_fips": 4021,
+    "county_name": "Pinal",
+    "county_weights": "{\"04021\": 100}",
+    "county_names_all": "Pinal",
+    "county_fips_all": "04021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 44057,
+    "lat": 41.76675,
+    "lng": -81.05965,
+    "city": "Madison",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19491.0,
+    "density": 150.2,
+    "county_fips": 39085,
+    "county_name": "Lake",
+    "county_weights": "{\"39085\": 94.32, \"39055\": 5.15, \"39007\": 0.53}",
+    "county_names_all": "Lake|Geauga|Ashtabula",
+    "county_fips_all": "39085|39055|39007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 56081,
+    "lat": 43.99345,
+    "lng": -94.63062,
+    "city": "Saint James",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6092.0,
+    "density": 13.3,
+    "county_fips": 27165,
+    "county_name": "Watonwan",
+    "county_weights": "{\"27165\": 95.93, \"27015\": 4.07}",
+    "county_names_all": "Watonwan|Brown",
+    "county_fips_all": "27165|27015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

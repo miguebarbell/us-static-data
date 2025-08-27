@@ -1,0 +1,20 @@
+{
+    "zip": 24551,
+    "lat": 37.36655,
+    "lng": -79.3268,
+    "city": "Forest",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27606.0,
+    "density": 143.7,
+    "county_fips": 51019,
+    "county_name": "Bedford",
+    "county_weights": "{\"51019\": 97.24, \"51031\": 2.41, \"51680\": 0.35}",
+    "county_names_all": "Bedford|Campbell|Lynchburg",
+    "county_fips_all": "51019|51031|51680",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

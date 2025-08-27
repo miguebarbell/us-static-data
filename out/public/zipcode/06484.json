@@ -1,0 +1,20 @@
+{
+    "zip": 6484,
+    "lat": 41.30601,
+    "lng": -73.13828,
+    "city": "Shelton",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41402.0,
+    "density": 521.9,
+    "county_fips": 9140,
+    "county_name": "Naugatuck Valley",
+    "county_weights": "{\"09140\": 100}",
+    "county_names_all": "Naugatuck Valley",
+    "county_fips_all": "09140",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

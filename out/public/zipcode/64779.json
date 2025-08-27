@@ -1,0 +1,20 @@
+{
+    "zip": 64779,
+    "lat": 38.09214,
+    "lng": -94.40152,
+    "city": "Rich Hill",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2926.0,
+    "density": 5.7,
+    "county_fips": 29013,
+    "county_name": "Bates",
+    "county_weights": "{\"29013\": 72.81, \"29217\": 27.19}",
+    "county_names_all": "Bates|Vernon",
+    "county_fips_all": "29013|29217",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

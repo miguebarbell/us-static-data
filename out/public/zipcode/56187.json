@@ -1,0 +1,20 @@
+{
+    "zip": 56187,
+    "lat": 43.62357,
+    "lng": -95.58507,
+    "city": "Worthington",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15225.0,
+    "density": 34.9,
+    "county_fips": 27105,
+    "county_name": "Nobles",
+    "county_weights": "{\"27105\": 92.55, \"27063\": 7.45}",
+    "county_names_all": "Nobles|Jackson",
+    "county_fips_all": "27105|27063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

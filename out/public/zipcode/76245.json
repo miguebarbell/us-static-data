@@ -1,0 +1,20 @@
+{
+    "zip": 76245,
+    "lat": 33.82885,
+    "lng": -96.85422,
+    "city": "Gordonville",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1778.0,
+    "density": 28.3,
+    "county_fips": 48181,
+    "county_name": "Grayson",
+    "county_weights": "{\"48181\": 100}",
+    "county_names_all": "Grayson",
+    "county_fips_all": "48181",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

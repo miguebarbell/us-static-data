@@ -1,0 +1,20 @@
+{
+    "zip": 30234,
+    "lat": 33.33001,
+    "lng": -84.02617,
+    "city": "Jenkinsburg",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1920.0,
+    "density": 72.6,
+    "county_fips": 13035,
+    "county_name": "Butts",
+    "county_weights": "{\"13035\": 93.51, \"13151\": 6.49}",
+    "county_names_all": "Butts|Henry",
+    "county_fips_all": "13035|13151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

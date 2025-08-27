@@ -1,0 +1,20 @@
+{
+    "zip": 59054,
+    "lat": 46.66809,
+    "lng": -107.7691,
+    "city": "Melstone",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 236.0,
+    "density": 0.2,
+    "county_fips": 30087,
+    "county_name": "Rosebud",
+    "county_weights": "{\"30087\": 57.73, \"30065\": 42.27}",
+    "county_names_all": "Rosebud|Musselshell",
+    "county_fips_all": "30087|30065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

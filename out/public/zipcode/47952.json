@@ -1,0 +1,20 @@
+{
+    "zip": 47952,
+    "lat": 39.96186,
+    "lng": -87.30049,
+    "city": "Kingman",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2676.0,
+    "density": 9.3,
+    "county_fips": 18045,
+    "county_name": "Fountain",
+    "county_weights": "{\"18045\": 65.54, \"18121\": 34.46}",
+    "county_names_all": "Fountain|Parke",
+    "county_fips_all": "18045|18121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 79086,
+    "lat": 36.13538,
+    "lng": -101.79255,
+    "city": "Sunray",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3433.0,
+    "density": 4.2,
+    "county_fips": 48421,
+    "county_name": "Sherman",
+    "county_weights": "{\"48421\": 58.58, \"48341\": 41.42}",
+    "county_names_all": "Sherman|Moore",
+    "county_fips_all": "48421|48341",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 63359,
+    "lat": 39.1564,
+    "lng": -91.34652,
+    "city": "Middletown",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1384.0,
+    "density": 3.5,
+    "county_fips": 29163,
+    "county_name": "Pike",
+    "county_weights": "{\"29163\": 52.57, \"29139\": 36.32, \"29007\": 8.21, \"29113\": 2.9}",
+    "county_names_all": "Pike|Montgomery|Audrain|Lincoln",
+    "county_fips_all": "29163|29139|29007|29113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

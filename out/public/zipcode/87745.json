@@ -1,0 +1,20 @@
+{
+    "zip": 87745,
+    "lat": 35.7877,
+    "lng": -105.26635,
+    "city": "Sapello",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1060.0,
+    "density": 2.3,
+    "county_fips": 35047,
+    "county_name": "San Miguel",
+    "county_weights": "{\"35047\": 90.45, \"35033\": 9.55}",
+    "county_names_all": "San Miguel|Mora",
+    "county_fips_all": "35047|35033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

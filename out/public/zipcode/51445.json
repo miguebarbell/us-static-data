@@ -1,0 +1,20 @@
+{
+    "zip": 51445,
+    "lat": 42.32719,
+    "lng": -95.46724,
+    "city": "Ida Grove",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2464.0,
+    "density": 7.6,
+    "county_fips": 19093,
+    "county_name": "Ida",
+    "county_weights": "{\"19093\": 100}",
+    "county_names_all": "Ida",
+    "county_fips_all": "19093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

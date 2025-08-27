@@ -1,0 +1,20 @@
+{
+    "zip": 74431,
+    "lat": 35.45743,
+    "lng": -95.93934,
+    "city": "Dewar",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 869.0,
+    "density": 76.3,
+    "county_fips": 40111,
+    "county_name": "Okmulgee",
+    "county_weights": "{\"40111\": 100}",
+    "county_names_all": "Okmulgee",
+    "county_fips_all": "40111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

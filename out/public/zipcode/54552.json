@@ -1,0 +1,20 @@
+{
+    "zip": 54552,
+    "lat": 45.93615,
+    "lng": -90.29081,
+    "city": "Park Falls",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4290.0,
+    "density": 4.6,
+    "county_fips": 55099,
+    "county_name": "Price",
+    "county_weights": "{\"55099\": 69.02, \"55051\": 28.0, \"55113\": 2.98}",
+    "county_names_all": "Price|Iron|Sawyer",
+    "county_fips_all": "55099|55051|55113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

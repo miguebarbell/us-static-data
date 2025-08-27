@@ -1,0 +1,20 @@
+{
+    "zip": 49854,
+    "lat": 46.09581,
+    "lng": -86.36453,
+    "city": "Manistique",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6148.0,
+    "density": 5.0,
+    "county_fips": 26153,
+    "county_name": "Schoolcraft",
+    "county_weights": "{\"26153\": 94.51, \"26041\": 5.49}",
+    "county_names_all": "Schoolcraft|Delta",
+    "county_fips_all": "26153|26041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

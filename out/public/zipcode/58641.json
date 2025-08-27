@@ -1,0 +1,20 @@
+{
+    "zip": 58641,
+    "lat": 46.66732,
+    "lng": -102.48551,
+    "city": "Lefor",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 65.0,
+    "density": 0.3,
+    "county_fips": 38089,
+    "county_name": "Stark",
+    "county_weights": "{\"38089\": 100}",
+    "county_names_all": "Stark",
+    "county_fips_all": "38089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

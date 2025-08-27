@@ -1,0 +1,20 @@
+{
+    "zip": 36455,
+    "lat": 31.01212,
+    "lng": -86.35321,
+    "city": "Lockhart",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 284.0,
+    "density": 156.1,
+    "county_fips": 1039,
+    "county_name": "Covington",
+    "county_weights": "{\"01039\": 100}",
+    "county_names_all": "Covington",
+    "county_fips_all": "01039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

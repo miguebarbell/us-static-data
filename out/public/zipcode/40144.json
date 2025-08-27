@@ -1,0 +1,20 @@
+{
+    "zip": 40144,
+    "lat": 37.75899,
+    "lng": -86.37732,
+    "city": "Harned",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1740.0,
+    "density": 11.8,
+    "county_fips": 21027,
+    "county_name": "Breckinridge",
+    "county_weights": "{\"21027\": 100}",
+    "county_names_all": "Breckinridge",
+    "county_fips_all": "21027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

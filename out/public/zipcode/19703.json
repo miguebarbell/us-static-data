@@ -1,0 +1,20 @@
+{
+    "zip": 19703,
+    "lat": 39.8043,
+    "lng": -75.45794,
+    "city": "Claymont",
+    "state_id": "DE",
+    "state_name": "Delaware",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15936.0,
+    "density": 1549.6,
+    "county_fips": 10003,
+    "county_name": "New Castle",
+    "county_weights": "{\"10003\": 100}",
+    "county_names_all": "New Castle",
+    "county_fips_all": "10003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 36046,
+    "lat": 31.9994,
+    "lng": -86.33948,
+    "city": "Lapine",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1427.0,
+    "density": 8.9,
+    "county_fips": 1041,
+    "county_name": "Crenshaw",
+    "county_weights": "{\"01041\": 67.4, \"01101\": 32.6}",
+    "county_names_all": "Crenshaw|Montgomery",
+    "county_fips_all": "01041|01101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

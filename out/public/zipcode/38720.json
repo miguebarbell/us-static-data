@@ -1,0 +1,20 @@
+{
+    "zip": 38720,
+    "lat": 34.11907,
+    "lng": -90.78741,
+    "city": "Alligator",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 549.0,
+    "density": 3.6,
+    "county_fips": 28027,
+    "county_name": "Coahoma",
+    "county_weights": "{\"28027\": 55.13, \"28011\": 44.87}",
+    "county_names_all": "Coahoma|Bolivar",
+    "county_fips_all": "28027|28011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

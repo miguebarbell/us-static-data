@@ -1,0 +1,20 @@
+{
+    "zip": 93606,
+    "lat": 36.79871,
+    "lng": -120.01625,
+    "city": "Biola",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1031.0,
+    "density": 575.2,
+    "county_fips": 6019,
+    "county_name": "Fresno",
+    "county_weights": "{\"06019\": 100}",
+    "county_names_all": "Fresno",
+    "county_fips_all": "06019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

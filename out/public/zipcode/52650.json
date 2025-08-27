@@ -1,0 +1,20 @@
+{
+    "zip": 52650,
+    "lat": 40.94782,
+    "lng": -91.15687,
+    "city": "Sperry",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 688.0,
+    "density": 6.9,
+    "county_fips": 19057,
+    "county_name": "Des Moines",
+    "county_weights": "{\"19057\": 100}",
+    "county_names_all": "Des Moines",
+    "county_fips_all": "19057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

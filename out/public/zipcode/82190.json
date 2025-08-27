@@ -1,0 +1,20 @@
+{
+    "zip": 82190,
+    "lat": 44.57439,
+    "lng": -110.51807,
+    "city": "Yellowstone National Park",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 739.0,
+    "density": 0.1,
+    "county_fips": 56029,
+    "county_name": "Park",
+    "county_weights": "{\"56029\": 55.76, \"56039\": 44.24}",
+    "county_names_all": "Park|Teton",
+    "county_fips_all": "56029|56039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

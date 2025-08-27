@@ -1,0 +1,20 @@
+{
+    "zip": 99550,
+    "lat": 57.8758,
+    "lng": -152.8737,
+    "city": "Port Lions",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 151.0,
+    "density": 11.7,
+    "county_fips": 2150,
+    "county_name": "Kodiak Island",
+    "county_weights": "{\"02150\": 100}",
+    "county_names_all": "Kodiak Island",
+    "county_fips_all": "02150",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

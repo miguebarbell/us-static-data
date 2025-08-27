@@ -1,0 +1,20 @@
+{
+    "zip": 78953,
+    "lat": 29.85552,
+    "lng": -97.35214,
+    "city": "Rosanky",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 958.0,
+    "density": 3.2,
+    "county_fips": 48021,
+    "county_name": "Bastrop",
+    "county_weights": "{\"48021\": 65.24, \"48055\": 34.76}",
+    "county_names_all": "Bastrop|Caldwell",
+    "county_fips_all": "48021|48055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

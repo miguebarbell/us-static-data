@@ -1,0 +1,20 @@
+{
+    "zip": 56710,
+    "lat": 48.2182,
+    "lng": -96.99776,
+    "city": "Alvarado",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 460.0,
+    "density": 4.0,
+    "county_fips": 27089,
+    "county_name": "Marshall",
+    "county_weights": "{\"27089\": 81.42, \"27119\": 18.58}",
+    "county_names_all": "Marshall|Polk",
+    "county_fips_all": "27089|27119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

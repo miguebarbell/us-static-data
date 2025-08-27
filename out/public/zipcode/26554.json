@@ -1,0 +1,20 @@
+{
+    "zip": 26554,
+    "lat": 39.46475,
+    "lng": -80.11461,
+    "city": "Fairmont",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42116.0,
+    "density": 123.2,
+    "county_fips": 54049,
+    "county_name": "Marion",
+    "county_weights": "{\"54049\": 87.26, \"54061\": 8.04, \"54091\": 3.24, \"54033\": 1.46}",
+    "county_names_all": "Marion|Monongalia|Taylor|Harrison",
+    "county_fips_all": "54049|54061|54091|54033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

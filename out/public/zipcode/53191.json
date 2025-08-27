@@ -1,0 +1,20 @@
+{
+    "zip": 53191,
+    "lat": 42.5776,
+    "lng": -88.54574,
+    "city": "Williams Bay",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3264.0,
+    "density": 318.5,
+    "county_fips": 55127,
+    "county_name": "Walworth",
+    "county_weights": "{\"55127\": 100}",
+    "county_names_all": "Walworth",
+    "county_fips_all": "55127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

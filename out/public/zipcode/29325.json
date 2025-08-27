@@ -1,0 +1,20 @@
+{
+    "zip": 29325,
+    "lat": 34.47682,
+    "lng": -81.83973,
+    "city": "Clinton",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14164.0,
+    "density": 34.8,
+    "county_fips": 45059,
+    "county_name": "Laurens",
+    "county_weights": "{\"45059\": 100}",
+    "county_names_all": "Laurens",
+    "county_fips_all": "45059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

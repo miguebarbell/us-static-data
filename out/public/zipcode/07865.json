@@ -1,0 +1,20 @@
+{
+    "zip": 7865,
+    "lat": 40.78722,
+    "lng": -74.89845,
+    "city": "Port Murray",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3284.0,
+    "density": 76.7,
+    "county_fips": 34041,
+    "county_name": "Warren",
+    "county_weights": "{\"34041\": 64.47, \"34019\": 21.24, \"34027\": 14.29}",
+    "county_names_all": "Warren|Hunterdon|Morris",
+    "county_fips_all": "34041|34019|34027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

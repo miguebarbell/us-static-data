@@ -1,0 +1,20 @@
+{
+    "zip": 28398,
+    "lat": 34.99307,
+    "lng": -78.07143,
+    "city": "Warsaw",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6084.0,
+    "density": 24.9,
+    "county_fips": 37061,
+    "county_name": "Duplin",
+    "county_weights": "{\"37061\": 100}",
+    "county_names_all": "Duplin",
+    "county_fips_all": "37061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

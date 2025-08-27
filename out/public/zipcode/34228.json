@@ -1,0 +1,20 @@
+{
+    "zip": 34228,
+    "lat": 27.39258,
+    "lng": -82.63407,
+    "city": "Longboat Key",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7512.0,
+    "density": 711.2,
+    "county_fips": 12081,
+    "county_name": "Manatee",
+    "county_weights": "{\"12081\": 52.65, \"12115\": 47.35}",
+    "county_names_all": "Manatee|Sarasota",
+    "county_fips_all": "12081|12115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

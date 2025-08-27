@@ -1,0 +1,20 @@
+{
+    "zip": 49751,
+    "lat": 44.99496,
+    "lng": -84.41309,
+    "city": "Johannesburg",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2008.0,
+    "density": 5.0,
+    "county_fips": 26137,
+    "county_name": "Otsego",
+    "county_weights": "{\"26137\": 70.16, \"26119\": 29.84}",
+    "county_names_all": "Otsego|Montmorency",
+    "county_fips_all": "26137|26119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

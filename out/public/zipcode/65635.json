@@ -1,0 +1,20 @@
+{
+    "zip": 65635,
+    "lat": 37.53487,
+    "lng": -93.71812,
+    "city": "Dadeville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 665.0,
+    "density": 6.4,
+    "county_fips": 29057,
+    "county_name": "Dade",
+    "county_weights": "{\"29057\": 72.78, \"29039\": 27.22}",
+    "county_names_all": "Dade|Cedar",
+    "county_fips_all": "29057|29039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65048,
+    "lat": 38.35745,
+    "lng": -92.0365,
+    "city": "Koeltztown",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 153.0,
+    "density": 2.8,
+    "county_fips": 29151,
+    "county_name": "Osage",
+    "county_weights": "{\"29151\": 100}",
+    "county_names_all": "Osage",
+    "county_fips_all": "29151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

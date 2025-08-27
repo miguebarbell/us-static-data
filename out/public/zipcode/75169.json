@@ -1,0 +1,20 @@
+{
+    "zip": 75169,
+    "lat": 32.70335,
+    "lng": -95.99754,
+    "city": "Wills Point",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15744.0,
+    "density": 28.3,
+    "county_fips": 48467,
+    "county_name": "Van Zandt",
+    "county_weights": "{\"48467\": 86.33, \"48257\": 8.7, \"48231\": 4.97}",
+    "county_names_all": "Van Zandt|Kaufman|Hunt",
+    "county_fips_all": "48467|48257|48231",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

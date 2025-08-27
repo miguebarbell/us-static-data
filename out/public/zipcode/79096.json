@@ -1,0 +1,20 @@
+{
+    "zip": 79096,
+    "lat": 35.45133,
+    "lng": -100.1984,
+    "city": "Wheeler",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2022.0,
+    "density": 3.0,
+    "county_fips": 48483,
+    "county_name": "Wheeler",
+    "county_weights": "{\"48483\": 100}",
+    "county_names_all": "Wheeler",
+    "county_fips_all": "48483",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

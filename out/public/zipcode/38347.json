@@ -1,0 +1,20 @@
+{
+    "zip": 38347,
+    "lat": 35.47632,
+    "lng": -88.49846,
+    "city": "Jacks Creek",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 479.0,
+    "density": 42.2,
+    "county_fips": 47023,
+    "county_name": "Chester",
+    "county_weights": "{\"47023\": 99.88, \"47077\": 0.12}",
+    "county_names_all": "Chester|Henderson",
+    "county_fips_all": "47023|47077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

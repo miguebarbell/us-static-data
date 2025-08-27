@@ -1,0 +1,20 @@
+{
+    "zip": 65076,
+    "lat": 38.37064,
+    "lng": -92.20376,
+    "city": "Saint Thomas",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 622.0,
+    "density": 9.4,
+    "county_fips": 29051,
+    "county_name": "Cole",
+    "county_weights": "{\"29051\": 67.86, \"29151\": 32.14}",
+    "county_names_all": "Cole|Osage",
+    "county_fips_all": "29051|29151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

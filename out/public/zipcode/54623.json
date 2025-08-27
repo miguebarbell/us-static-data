@@ -1,0 +1,20 @@
+{
+    "zip": 54623,
+    "lat": 43.72894,
+    "lng": -91.03065,
+    "city": "Coon Valley",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1949.0,
+    "density": 14.9,
+    "county_fips": 55063,
+    "county_name": "La Crosse",
+    "county_weights": "{\"55063\": 57.41, \"55123\": 42.59}",
+    "county_names_all": "La Crosse|Vernon",
+    "county_fips_all": "55063|55123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

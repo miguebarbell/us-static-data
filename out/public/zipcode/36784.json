@@ -1,0 +1,20 @@
+{
+    "zip": 36784,
+    "lat": 31.94208,
+    "lng": -87.82271,
+    "city": "Thomasville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6104.0,
+    "density": 8.8,
+    "county_fips": 1025,
+    "county_name": "Clarke",
+    "county_weights": "{\"01025\": 71.94, \"01091\": 26.3, \"01131\": 1.76}",
+    "county_names_all": "Clarke|Marengo|Wilcox",
+    "county_fips_all": "01025|01091|01131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

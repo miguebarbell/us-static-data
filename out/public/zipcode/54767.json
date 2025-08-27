@@ -1,0 +1,20 @@
+{
+    "zip": 54767,
+    "lat": 44.82645,
+    "lng": -92.25513,
+    "city": "Spring Valley",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3277.0,
+    "density": 15.1,
+    "county_fips": 55093,
+    "county_name": "Pierce",
+    "county_weights": "{\"55093\": 81.97, \"55109\": 12.64, \"55033\": 5.39}",
+    "county_names_all": "Pierce|St. Croix|Dunn",
+    "county_fips_all": "55093|55109|55033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65734,
+    "lat": 36.79841,
+    "lng": -93.95233,
+    "city": "Purdy",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3852.0,
+    "density": 17.5,
+    "county_fips": 29009,
+    "county_name": "Barry",
+    "county_weights": "{\"29009\": 99.59, \"29145\": 0.41}",
+    "county_names_all": "Barry|Newton",
+    "county_fips_all": "29009|29145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

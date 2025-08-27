@@ -1,0 +1,20 @@
+{
+    "zip": 4851,
+    "lat": 43.85227,
+    "lng": -68.8916,
+    "city": "Matinicus",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 85.0,
+    "density": 17.1,
+    "county_fips": 23013,
+    "county_name": "Knox",
+    "county_weights": "{\"23013\": 100}",
+    "county_names_all": "Knox",
+    "county_fips_all": "23013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

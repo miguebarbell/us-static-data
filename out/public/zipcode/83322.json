@@ -1,0 +1,20 @@
+{
+    "zip": 83322,
+    "lat": 43.31475,
+    "lng": -114.96811,
+    "city": "Corral",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 60.0,
+    "density": 0.2,
+    "county_fips": 16025,
+    "county_name": "Camas",
+    "county_weights": "{\"16025\": 100}",
+    "county_names_all": "Camas",
+    "county_fips_all": "16025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

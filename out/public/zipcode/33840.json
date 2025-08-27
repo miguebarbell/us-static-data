@@ -1,0 +1,20 @@
+{
+    "zip": 33840,
+    "lat": 28.00915,
+    "lng": -81.90506,
+    "city": "Eaton Park",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 12105,
+    "county_name": "Polk",
+    "county_weights": "{\"12105\": 100}",
+    "county_names_all": "Polk",
+    "county_fips_all": "12105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 81006,
+    "lat": 38.24059,
+    "lng": -104.47413,
+    "city": "Pueblo",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11153.0,
+    "density": 38.3,
+    "county_fips": 8101,
+    "county_name": "Pueblo",
+    "county_weights": "{\"08101\": 100}",
+    "county_names_all": "Pueblo",
+    "county_fips_all": "08101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

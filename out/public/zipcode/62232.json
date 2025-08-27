@@ -1,0 +1,20 @@
+{
+    "zip": 62232,
+    "lat": 38.63266,
+    "lng": -90.00509,
+    "city": "Caseyville",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7480.0,
+    "density": 225.2,
+    "county_fips": 17163,
+    "county_name": "St. Clair",
+    "county_weights": "{\"17163\": 100}",
+    "county_names_all": "St. Clair",
+    "county_fips_all": "17163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

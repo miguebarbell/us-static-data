@@ -1,0 +1,20 @@
+{
+    "zip": 47588,
+    "lat": 38.06959,
+    "lng": -86.77826,
+    "city": "Troy",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 881.0,
+    "density": 21.9,
+    "county_fips": 18147,
+    "county_name": "Spencer",
+    "county_weights": "{\"18147\": 56.78, \"18123\": 43.22}",
+    "county_names_all": "Spencer|Perry",
+    "county_fips_all": "18147|18123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Tell_City"
+}

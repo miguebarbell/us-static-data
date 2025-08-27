@@ -1,0 +1,20 @@
+{
+    "zip": 47905,
+    "lat": 40.4218,
+    "lng": -86.76418,
+    "city": "Lafayette",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42109.0,
+    "density": 135.1,
+    "county_fips": 18157,
+    "county_name": "Tippecanoe",
+    "county_weights": "{\"18157\": 98.08, \"18015\": 1.44, \"18023\": 0.48}",
+    "county_names_all": "Tippecanoe|Carroll|Clinton",
+    "county_fips_all": "18157|18015|18023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

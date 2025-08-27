@@ -1,0 +1,20 @@
+{
+    "zip": 89411,
+    "lat": 39.01837,
+    "lng": -119.85301,
+    "city": "Genoa",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1264.0,
+    "density": 22.8,
+    "county_fips": 32005,
+    "county_name": "Douglas",
+    "county_weights": "{\"32005\": 100}",
+    "county_names_all": "Douglas",
+    "county_fips_all": "32005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

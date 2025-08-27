@@ -1,0 +1,20 @@
+{
+    "zip": 31763,
+    "lat": 31.73889,
+    "lng": -84.14711,
+    "city": "Leesburg",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28684.0,
+    "density": 44.7,
+    "county_fips": 13177,
+    "county_name": "Lee",
+    "county_weights": "{\"13177\": 99.06, \"13095\": 0.79, \"13273\": 0.15}",
+    "county_names_all": "Lee|Dougherty|Terrell",
+    "county_fips_all": "13177|13095|13273",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

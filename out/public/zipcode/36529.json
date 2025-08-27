@@ -1,0 +1,20 @@
+{
+    "zip": 36529,
+    "lat": 31.29279,
+    "lng": -88.27281,
+    "city": "Deer Park",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 260.0,
+    "density": 1.1,
+    "county_fips": 1129,
+    "county_name": "Washington",
+    "county_weights": "{\"01129\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "01129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

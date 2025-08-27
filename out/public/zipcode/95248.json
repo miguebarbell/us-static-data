@@ -1,0 +1,20 @@
+{
+    "zip": 95248,
+    "lat": 38.32433,
+    "lng": -120.46051,
+    "city": "Rail Road Flat",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 66.0,
+    "density": 0.8,
+    "county_fips": 6009,
+    "county_name": "Calaveras",
+    "county_weights": "{\"06009\": 100}",
+    "county_names_all": "Calaveras",
+    "county_fips_all": "06009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

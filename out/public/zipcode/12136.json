@@ -1,0 +1,20 @@
+{
+    "zip": 12136,
+    "lat": 42.43249,
+    "lng": -73.56016,
+    "city": "Old Chatham",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 881.0,
+    "density": 16.6,
+    "county_fips": 36021,
+    "county_name": "Columbia",
+    "county_weights": "{\"36021\": 100}",
+    "county_names_all": "Columbia",
+    "county_fips_all": "36021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

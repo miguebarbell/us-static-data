@@ -1,0 +1,20 @@
+{
+    "zip": 56362,
+    "lat": 45.40524,
+    "lng": -94.71525,
+    "city": "Paynesville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5560.0,
+    "density": 14.3,
+    "county_fips": 27145,
+    "county_name": "Stearns",
+    "county_weights": "{\"27145\": 76.84, \"27093\": 13.57, \"27067\": 9.59}",
+    "county_names_all": "Stearns|Meeker|Kandiyohi",
+    "county_fips_all": "27145|27093|27067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 54412,
+    "lat": 44.66859,
+    "lng": -89.98238,
+    "city": "Auburndale",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2050.0,
+    "density": 11.1,
+    "county_fips": 55141,
+    "county_name": "Wood",
+    "county_weights": "{\"55141\": 62.82, \"55073\": 37.18}",
+    "county_names_all": "Wood|Marathon",
+    "county_fips_all": "55141|55073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

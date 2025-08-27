@@ -1,0 +1,20 @@
+{
+    "zip": 54664,
+    "lat": 43.49912,
+    "lng": -90.64076,
+    "city": "Viola",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1659.0,
+    "density": 7.8,
+    "county_fips": 55103,
+    "county_name": "Richland",
+    "county_weights": "{\"55103\": 65.09, \"55123\": 34.91}",
+    "county_names_all": "Richland|Vernon",
+    "county_fips_all": "55103|55123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

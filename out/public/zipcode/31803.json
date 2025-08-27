@@ -1,0 +1,20 @@
+{
+    "zip": 31803,
+    "lat": 32.30501,
+    "lng": -84.51682,
+    "city": "Buena Vista",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4550.0,
+    "density": 6.2,
+    "county_fips": 13197,
+    "county_name": "Marion",
+    "county_weights": "{\"13197\": 93.63, \"13249\": 5.63, \"13307\": 0.74}",
+    "county_names_all": "Marion|Schley|Webster",
+    "county_fips_all": "13197|13249|13307",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

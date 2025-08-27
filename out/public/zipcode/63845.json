@@ -1,0 +1,20 @@
+{
+    "zip": 63845,
+    "lat": 36.70944,
+    "lng": -89.31505,
+    "city": "East Prairie",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5378.0,
+    "density": 11.0,
+    "county_fips": 29133,
+    "county_name": "Mississippi",
+    "county_weights": "{\"29133\": 86.87, \"29143\": 13.13}",
+    "county_names_all": "Mississippi|New Madrid",
+    "county_fips_all": "29133|29143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

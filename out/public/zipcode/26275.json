@@ -1,0 +1,20 @@
+{
+    "zip": 26275,
+    "lat": 38.98313,
+    "lng": -79.94583,
+    "city": "Junior",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 594.0,
+    "density": 50.5,
+    "county_fips": 54001,
+    "county_name": "Barbour",
+    "county_weights": "{\"54001\": 100}",
+    "county_names_all": "Barbour",
+    "county_fips_all": "54001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 36749,
+    "lat": 32.54759,
+    "lng": -86.85303,
+    "city": "Jones",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 770.0,
+    "density": 4.8,
+    "county_fips": 1001,
+    "county_name": "Autauga",
+    "county_weights": "{\"01001\": 83.42, \"01047\": 16.58}",
+    "county_names_all": "Autauga|Dallas",
+    "county_fips_all": "01001|01047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

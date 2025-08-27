@@ -1,0 +1,20 @@
+{
+    "zip": 89317,
+    "lat": 38.87915,
+    "lng": -115.08418,
+    "city": "Lund",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 370.0,
+    "density": 2.4,
+    "county_fips": 32033,
+    "county_name": "White Pine",
+    "county_weights": "{\"32033\": 100}",
+    "county_names_all": "White Pine",
+    "county_fips_all": "32033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

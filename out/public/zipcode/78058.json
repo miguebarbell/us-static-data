@@ -1,0 +1,20 @@
+{
+    "zip": 78058,
+    "lat": 30.13188,
+    "lng": -99.59042,
+    "city": "Mountain Home",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 948.0,
+    "density": 0.8,
+    "county_fips": 48265,
+    "county_name": "Kerr",
+    "county_weights": "{\"48265\": 78.53, \"48385\": 17.94, \"48171\": 3.53}",
+    "county_names_all": "Kerr|Real|Gillespie",
+    "county_fips_all": "48265|48385|48171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

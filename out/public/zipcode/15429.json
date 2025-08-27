@@ -1,0 +1,20 @@
+{
+    "zip": 15429,
+    "lat": 40.00678,
+    "lng": -79.94021,
+    "city": "Denbo",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 464.0,
+    "density": 136.8,
+    "county_fips": 42125,
+    "county_name": "Washington",
+    "county_weights": "{\"42125\": 99.73, \"42051\": 0.27}",
+    "county_names_all": "Washington|Fayette",
+    "county_fips_all": "42125|42051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

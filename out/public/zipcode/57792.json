@@ -1,0 +1,20 @@
+{
+    "zip": 57792,
+    "lat": 44.59559,
+    "lng": -102.36376,
+    "city": "White Owl",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 153.0,
+    "density": 0.4,
+    "county_fips": 46093,
+    "county_name": "Meade",
+    "county_weights": "{\"46093\": 100}",
+    "county_names_all": "Meade",
+    "county_fips_all": "46093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

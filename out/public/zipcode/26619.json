@@ -1,0 +1,20 @@
+{
+    "zip": 26619,
+    "lat": 38.77542,
+    "lng": -80.73562,
+    "city": "Exchange",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 562.0,
+    "density": 7.3,
+    "county_fips": 54007,
+    "county_name": "Braxton",
+    "county_weights": "{\"54007\": 100}",
+    "county_names_all": "Braxton",
+    "county_fips_all": "54007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

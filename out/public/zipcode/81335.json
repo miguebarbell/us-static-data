@@ -1,0 +1,20 @@
+{
+    "zip": 81335,
+    "lat": 37.54381,
+    "lng": -108.71978,
+    "city": "Yellow Jacket",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 106.0,
+    "density": 9.2,
+    "county_fips": 8083,
+    "county_name": "Montezuma",
+    "county_weights": "{\"08083\": 100}",
+    "county_names_all": "Montezuma",
+    "county_fips_all": "08083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

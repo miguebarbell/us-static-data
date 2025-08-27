@@ -1,0 +1,20 @@
+{
+    "zip": 37101,
+    "lat": 36.06625,
+    "lng": -87.63741,
+    "city": "McEwen",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6888.0,
+    "density": 13.3,
+    "county_fips": 47085,
+    "county_name": "Humphreys",
+    "county_weights": "{\"47085\": 86.93, \"47081\": 8.82, \"47083\": 4.25}",
+    "county_names_all": "Humphreys|Hickman|Houston",
+    "county_fips_all": "47085|47081|47083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

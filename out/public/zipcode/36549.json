@@ -1,0 +1,20 @@
+{
+    "zip": 36549,
+    "lat": 30.41377,
+    "lng": -87.44951,
+    "city": "Lillian",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6152.0,
+    "density": 81.8,
+    "county_fips": 1003,
+    "county_name": "Baldwin",
+    "county_weights": "{\"01003\": 100}",
+    "county_names_all": "Baldwin",
+    "county_fips_all": "01003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

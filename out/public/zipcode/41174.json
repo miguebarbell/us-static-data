@@ -1,0 +1,20 @@
+{
+    "zip": 41174,
+    "lat": 38.69841,
+    "lng": -83.0139,
+    "city": "South Portsmouth",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 913.0,
+    "density": 28.4,
+    "county_fips": 21089,
+    "county_name": "Greenup",
+    "county_weights": "{\"21089\": 73.66, \"21135\": 26.34}",
+    "county_names_all": "Greenup|Lewis",
+    "county_fips_all": "21089|21135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

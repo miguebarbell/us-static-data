@@ -1,0 +1,20 @@
+{
+    "zip": 94020,
+    "lat": 37.28473,
+    "lng": -122.21969,
+    "city": "La Honda",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1745.0,
+    "density": 16.0,
+    "county_fips": 6081,
+    "county_name": "San Mateo",
+    "county_weights": "{\"06081\": 100}",
+    "county_names_all": "San Mateo",
+    "county_fips_all": "06081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

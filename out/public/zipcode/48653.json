@@ -1,0 +1,20 @@
+{
+    "zip": 48653,
+    "lat": 44.48936,
+    "lng": -84.60624,
+    "city": "Roscommon",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9638.0,
+    "density": 15.4,
+    "county_fips": 26143,
+    "county_name": "Roscommon",
+    "county_weights": "{\"26143\": 61.16, \"26039\": 38.84}",
+    "county_names_all": "Roscommon|Crawford",
+    "county_fips_all": "26143|26039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

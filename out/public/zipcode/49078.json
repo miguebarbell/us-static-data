@@ -1,0 +1,20 @@
+{
+    "zip": 49078,
+    "lat": 42.46585,
+    "lng": -85.72846,
+    "city": "Otsego",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10469.0,
+    "density": 81.6,
+    "county_fips": 26005,
+    "county_name": "Allegan",
+    "county_weights": "{\"26005\": 84.93, \"26077\": 12.06, \"26159\": 3.01}",
+    "county_names_all": "Allegan|Kalamazoo|Van Buren",
+    "county_fips_all": "26005|26077|26159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

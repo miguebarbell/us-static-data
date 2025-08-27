@@ -1,0 +1,20 @@
+{
+    "zip": 38390,
+    "lat": 35.83845,
+    "lng": -88.37797,
+    "city": "Yuma",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1281.0,
+    "density": 16.2,
+    "county_fips": 47017,
+    "county_name": "Carroll",
+    "county_weights": "{\"47017\": 80.74, \"47077\": 19.26}",
+    "county_names_all": "Carroll|Henderson",
+    "county_fips_all": "47017|47077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

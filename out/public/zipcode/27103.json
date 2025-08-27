@@ -1,0 +1,20 @@
+{
+    "zip": 27103,
+    "lat": 36.05822,
+    "lng": -80.32125,
+    "city": "Winston Salem",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33978.0,
+    "density": 704.7,
+    "county_fips": 37067,
+    "county_name": "Forsyth",
+    "county_weights": "{\"37067\": 100}",
+    "county_names_all": "Forsyth",
+    "county_fips_all": "37067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

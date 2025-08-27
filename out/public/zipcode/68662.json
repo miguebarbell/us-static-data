@@ -1,0 +1,20 @@
+{
+    "zip": 68662,
+    "lat": 41.20698,
+    "lng": -97.41535,
+    "city": "Shelby",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1126.0,
+    "density": 4.7,
+    "county_fips": 31143,
+    "county_name": "Polk",
+    "county_weights": "{\"31143\": 93.8, \"31023\": 6.2}",
+    "county_names_all": "Polk|Butler",
+    "county_fips_all": "31143|31023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 74854,
+    "lat": 35.11527,
+    "lng": -96.762,
+    "city": "Maud",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1833.0,
+    "density": 8.3,
+    "county_fips": 40133,
+    "county_name": "Seminole",
+    "county_weights": "{\"40133\": 50.17, \"40125\": 49.83}",
+    "county_names_all": "Seminole|Pottawatomie",
+    "county_fips_all": "40133|40125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

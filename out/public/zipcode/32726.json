@@ -1,0 +1,20 @@
+{
+    "zip": 32726,
+    "lat": 28.8541,
+    "lng": -81.68,
+    "city": "Eustis",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23885.0,
+    "density": 802.8,
+    "county_fips": 12069,
+    "county_name": "Lake",
+    "county_weights": "{\"12069\": 100}",
+    "county_names_all": "Lake",
+    "county_fips_all": "12069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

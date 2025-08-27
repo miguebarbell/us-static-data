@@ -1,0 +1,20 @@
+{
+    "zip": 69034,
+    "lat": 40.24929,
+    "lng": -100.43866,
+    "city": "Indianola",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 893.0,
+    "density": 1.8,
+    "county_fips": 31145,
+    "county_name": "Red Willow",
+    "county_weights": "{\"31145\": 78.73, \"31063\": 21.27}",
+    "county_names_all": "Red Willow|Frontier",
+    "county_fips_all": "31145|31063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

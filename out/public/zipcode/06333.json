@@ -1,0 +1,20 @@
+{
+    "zip": 6333,
+    "lat": 41.38602,
+    "lng": -72.24527,
+    "city": "East Lyme",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7323.0,
+    "density": 120.7,
+    "county_fips": 9180,
+    "county_name": "Southeastern Connecticut",
+    "county_weights": "{\"09180\": 100}",
+    "county_names_all": "Southeastern Connecticut",
+    "county_fips_all": "09180",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

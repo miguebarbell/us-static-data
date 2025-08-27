@@ -1,0 +1,20 @@
+{
+    "zip": 55385,
+    "lat": 44.73732,
+    "lng": -94.49281,
+    "city": "Stewart",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1285.0,
+    "density": 5.1,
+    "county_fips": 27085,
+    "county_name": "McLeod",
+    "county_weights": "{\"27085\": 52.68, \"27129\": 29.24, \"27143\": 18.08}",
+    "county_names_all": "McLeod|Renville|Sibley",
+    "county_fips_all": "27085|27129|27143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

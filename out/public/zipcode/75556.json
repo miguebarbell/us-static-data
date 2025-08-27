@@ -1,0 +1,20 @@
+{
+    "zip": 75556,
+    "lat": 33.1512,
+    "lng": -94.06263,
+    "city": "Bloomburg",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1110.0,
+    "density": 18.0,
+    "county_fips": 48067,
+    "county_name": "Cass",
+    "county_weights": "{\"48067\": 99.37, \"05091\": 0.63}",
+    "county_names_all": "Cass|Miller",
+    "county_fips_all": "48067|05091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

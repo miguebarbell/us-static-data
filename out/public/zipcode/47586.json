@@ -1,0 +1,20 @@
+{
+    "zip": 47586,
+    "lat": 38.03684,
+    "lng": -86.69297,
+    "city": "Tell City",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10994.0,
+    "density": 43.7,
+    "county_fips": 18123,
+    "county_name": "Perry",
+    "county_weights": "{\"18123\": 100}",
+    "county_names_all": "Perry",
+    "county_fips_all": "18123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Tell_City"
+}

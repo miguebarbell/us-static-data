@@ -1,0 +1,20 @@
+{
+    "zip": 73569,
+    "lat": 33.93772,
+    "lng": -97.80363,
+    "city": "Terral",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 406.0,
+    "density": 2.1,
+    "county_fips": 40067,
+    "county_name": "Jefferson",
+    "county_weights": "{\"40067\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "40067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

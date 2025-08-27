@@ -1,0 +1,20 @@
+{
+    "zip": 57071,
+    "lat": 44.26986,
+    "lng": -96.95934,
+    "city": "Volga",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3207.0,
+    "density": 10.4,
+    "county_fips": 46011,
+    "county_name": "Brookings",
+    "county_weights": "{\"46011\": 92.03, \"46079\": 6.39, \"46101\": 1.58}",
+    "county_names_all": "Brookings|Lake|Moody",
+    "county_fips_all": "46011|46079|46101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

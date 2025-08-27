@@ -1,0 +1,20 @@
+{
+    "zip": 37726,
+    "lat": 36.20464,
+    "lng": -84.8386,
+    "city": "Deer Lodge",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2313.0,
+    "density": 9.8,
+    "county_fips": 47129,
+    "county_name": "Morgan",
+    "county_weights": "{\"47129\": 87.58, \"47049\": 12.42}",
+    "county_names_all": "Morgan|Fentress",
+    "county_fips_all": "47129|47049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

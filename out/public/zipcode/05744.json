@@ -1,0 +1,20 @@
+{
+    "zip": 5744,
+    "lat": 43.69034,
+    "lng": -73.08272,
+    "city": "Florence",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 459.0,
+    "density": 6.9,
+    "county_fips": 50021,
+    "county_name": "Rutland",
+    "county_weights": "{\"50021\": 100}",
+    "county_names_all": "Rutland",
+    "county_fips_all": "50021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

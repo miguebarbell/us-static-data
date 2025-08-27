@@ -1,0 +1,20 @@
+{
+    "zip": 26034,
+    "lat": 40.59404,
+    "lng": -80.55258,
+    "city": "Chester",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4555.0,
+    "density": 116.4,
+    "county_fips": 54029,
+    "county_name": "Hancock",
+    "county_weights": "{\"54029\": 100}",
+    "county_names_all": "Hancock",
+    "county_fips_all": "54029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

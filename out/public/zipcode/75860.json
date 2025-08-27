@@ -1,0 +1,20 @@
+{
+    "zip": 75860,
+    "lat": 31.62342,
+    "lng": -96.24615,
+    "city": "Teague",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6451.0,
+    "density": 14.1,
+    "county_fips": 48161,
+    "county_name": "Freestone",
+    "county_weights": "{\"48161\": 100}",
+    "county_names_all": "Freestone",
+    "county_fips_all": "48161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 59540,
+    "lat": 48.60665,
+    "lng": -110.56418,
+    "city": "Rudyard",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 470.0,
+    "density": 0.5,
+    "county_fips": 30041,
+    "county_name": "Hill",
+    "county_weights": "{\"30041\": 96.17, \"30015\": 3.83}",
+    "county_names_all": "Hill|Chouteau",
+    "county_fips_all": "30041|30015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

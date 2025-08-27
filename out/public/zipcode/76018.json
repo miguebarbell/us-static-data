@@ -1,0 +1,20 @@
+{
+    "zip": 76018,
+    "lat": 32.66074,
+    "lng": -97.08967,
+    "city": "Arlington",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26887.0,
+    "density": 1322.0,
+    "county_fips": 48439,
+    "county_name": "Tarrant",
+    "county_weights": "{\"48439\": 100}",
+    "county_names_all": "Tarrant",
+    "county_fips_all": "48439",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

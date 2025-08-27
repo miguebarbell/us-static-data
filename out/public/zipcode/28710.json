@@ -1,0 +1,20 @@
+{
+    "zip": 28710,
+    "lat": 35.45683,
+    "lng": -82.27971,
+    "city": "Bat Cave",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 37089,
+    "county_name": "Henderson",
+    "county_weights": "{\"37089\": 100}",
+    "county_names_all": "Henderson",
+    "county_fips_all": "37089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

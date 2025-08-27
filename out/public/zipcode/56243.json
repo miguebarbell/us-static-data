@@ -1,0 +1,20 @@
+{
+    "zip": 56243,
+    "lat": 45.16868,
+    "lng": -94.6799,
+    "city": "Grove City",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1968.0,
+    "density": 8.2,
+    "county_fips": 27093,
+    "county_name": "Meeker",
+    "county_weights": "{\"27093\": 100}",
+    "county_names_all": "Meeker",
+    "county_fips_all": "27093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

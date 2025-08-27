@@ -1,0 +1,20 @@
+{
+    "zip": 43430,
+    "lat": 41.5238,
+    "lng": -83.37329,
+    "city": "Genoa",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4934.0,
+    "density": 74.5,
+    "county_fips": 39123,
+    "county_name": "Ottawa",
+    "county_weights": "{\"39123\": 79.08, \"39173\": 13.5, \"39143\": 7.42}",
+    "county_names_all": "Ottawa|Wood|Sandusky",
+    "county_fips_all": "39123|39173|39143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

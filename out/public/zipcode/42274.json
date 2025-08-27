@@ -1,0 +1,20 @@
+{
+    "zip": 42274,
+    "lat": 36.94915,
+    "lng": -86.60534,
+    "city": "Rockfield",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2668.0,
+    "density": 25.1,
+    "county_fips": 21227,
+    "county_name": "Warren",
+    "county_weights": "{\"21227\": 88.74, \"21141\": 11.26}",
+    "county_names_all": "Warren|Logan",
+    "county_fips_all": "21227|21141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

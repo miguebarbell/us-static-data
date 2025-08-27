@@ -1,0 +1,20 @@
+{
+    "zip": 68803,
+    "lat": 40.95357,
+    "lng": -98.41593,
+    "city": "Grand Island",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25620.0,
+    "density": 113.9,
+    "county_fips": 31079,
+    "county_name": "Hall",
+    "county_weights": "{\"31079\": 100}",
+    "county_names_all": "Hall",
+    "county_fips_all": "31079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

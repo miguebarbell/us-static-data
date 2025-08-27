@@ -1,0 +1,20 @@
+{
+    "zip": 42701,
+    "lat": 37.70502,
+    "lng": -85.83881,
+    "city": "Elizabethtown",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 53240.0,
+    "density": 127.0,
+    "county_fips": 21093,
+    "county_name": "Hardin",
+    "county_weights": "{\"21093\": 100}",
+    "county_names_all": "Hardin",
+    "county_fips_all": "21093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

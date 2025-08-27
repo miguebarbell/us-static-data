@@ -1,0 +1,20 @@
+{
+    "zip": 48650,
+    "lat": 43.85181,
+    "lng": -84.01746,
+    "city": "Pinconning",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6662.0,
+    "density": 27.0,
+    "county_fips": 26017,
+    "county_name": "Bay",
+    "county_weights": "{\"26017\": 93.56, \"26011\": 6.44}",
+    "county_names_all": "Bay|Arenac",
+    "county_fips_all": "26017|26011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

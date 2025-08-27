@@ -1,0 +1,20 @@
+{
+    "zip": 31090,
+    "lat": 32.79599,
+    "lng": -83.0512,
+    "city": "Toomsboro",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1034.0,
+    "density": 3.4,
+    "county_fips": 13319,
+    "county_name": "Wilkinson",
+    "county_weights": "{\"13319\": 100}",
+    "county_names_all": "Wilkinson",
+    "county_fips_all": "13319",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

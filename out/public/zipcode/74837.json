@@ -1,0 +1,20 @@
+{
+    "zip": 74837,
+    "lat": 35.34321,
+    "lng": -96.4561,
+    "city": "Cromwell",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 116.0,
+    "density": 138.4,
+    "county_fips": 40133,
+    "county_name": "Seminole",
+    "county_weights": "{\"40133\": 100}",
+    "county_names_all": "Seminole",
+    "county_fips_all": "40133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

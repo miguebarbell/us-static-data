@@ -1,0 +1,20 @@
+{
+    "zip": 19525,
+    "lat": 40.30784,
+    "lng": -75.58591,
+    "city": "Gilbertsville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17859.0,
+    "density": 403.3,
+    "county_fips": 42091,
+    "county_name": "Montgomery",
+    "county_weights": "{\"42091\": 99.82, \"42011\": 0.18}",
+    "county_names_all": "Montgomery|Berks",
+    "county_fips_all": "42091|42011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

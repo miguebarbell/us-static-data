@@ -1,0 +1,20 @@
+{
+    "zip": 64012,
+    "lat": 38.78906,
+    "lng": -94.55204,
+    "city": "Belton",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28980.0,
+    "density": 237.1,
+    "county_fips": 29037,
+    "county_name": "Cass",
+    "county_weights": "{\"29037\": 100}",
+    "county_names_all": "Cass",
+    "county_fips_all": "29037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

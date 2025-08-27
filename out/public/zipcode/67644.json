@@ -1,0 +1,20 @@
+{
+    "zip": 67644,
+    "lat": 39.63104,
+    "lng": -99.15993,
+    "city": "Kirwin",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 212.0,
+    "density": 0.9,
+    "county_fips": 20147,
+    "county_name": "Phillips",
+    "county_weights": "{\"20147\": 93.86, \"20163\": 6.14}",
+    "county_names_all": "Phillips|Rooks",
+    "county_fips_all": "20147|20163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 18455,
+    "lat": 41.88467,
+    "lng": -75.35541,
+    "city": "Preston Park",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 156.0,
+    "density": 12.2,
+    "county_fips": 42127,
+    "county_name": "Wayne",
+    "county_weights": "{\"42127\": 100}",
+    "county_names_all": "Wayne",
+    "county_fips_all": "42127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

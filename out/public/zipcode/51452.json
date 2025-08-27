@@ -1,0 +1,20 @@
+{
+    "zip": 51452,
+    "lat": 42.12242,
+    "lng": -94.78366,
+    "city": "Lidderdale",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 191.0,
+    "density": 30.5,
+    "county_fips": 19027,
+    "county_name": "Carroll",
+    "county_weights": "{\"19027\": 100}",
+    "county_names_all": "Carroll",
+    "county_fips_all": "19027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 73503,
+    "lat": 34.67348,
+    "lng": -98.49649,
+    "city": "Fort Sill",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11433.0,
+    "density": 59.5,
+    "county_fips": 40031,
+    "county_name": "Comanche",
+    "county_weights": "{\"40031\": 100}",
+    "county_names_all": "Comanche",
+    "county_fips_all": "40031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

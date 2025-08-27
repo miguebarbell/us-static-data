@@ -1,0 +1,20 @@
+{
+    "zip": 32421,
+    "lat": 30.52973,
+    "lng": -85.19308,
+    "city": "Altha",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4277.0,
+    "density": 13.2,
+    "county_fips": 12013,
+    "county_name": "Calhoun",
+    "county_weights": "{\"12013\": 100}",
+    "county_names_all": "Calhoun",
+    "county_fips_all": "12013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

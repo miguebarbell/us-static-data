@@ -1,0 +1,20 @@
+{
+    "zip": 31520,
+    "lat": 31.17745,
+    "lng": -81.48729,
+    "city": "Brunswick",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22743.0,
+    "density": 435.9,
+    "county_fips": 13127,
+    "county_name": "Glynn",
+    "county_weights": "{\"13127\": 100}",
+    "county_names_all": "Glynn",
+    "county_fips_all": "13127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

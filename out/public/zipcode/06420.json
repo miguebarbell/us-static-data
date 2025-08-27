@@ -1,0 +1,20 @@
+{
+    "zip": 6420,
+    "lat": 41.48492,
+    "lng": -72.26733,
+    "city": "Salem",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4323.0,
+    "density": 56.5,
+    "county_fips": 9180,
+    "county_name": "Southeastern Connecticut",
+    "county_weights": "{\"09180\": 97.94, \"09130\": 2.06}",
+    "county_names_all": "Southeastern Connecticut|Lower Connecticut River Valley",
+    "county_fips_all": "09180|09130",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

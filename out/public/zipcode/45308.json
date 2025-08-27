@@ -1,0 +1,20 @@
+{
+    "zip": 45308,
+    "lat": 40.12535,
+    "lng": -84.45699,
+    "city": "Bradford",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4376.0,
+    "density": 33.2,
+    "county_fips": 39037,
+    "county_name": "Darke",
+    "county_weights": "{\"39037\": 72.47, \"39109\": 27.53}",
+    "county_names_all": "Darke|Miami",
+    "county_fips_all": "39037|39109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

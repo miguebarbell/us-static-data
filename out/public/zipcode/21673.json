@@ -1,0 +1,20 @@
+{
+    "zip": 21673,
+    "lat": 38.65235,
+    "lng": -76.04163,
+    "city": "Trappe",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2839.0,
+    "density": 21.2,
+    "county_fips": 24041,
+    "county_name": "Talbot",
+    "county_weights": "{\"24041\": 100}",
+    "county_names_all": "Talbot",
+    "county_fips_all": "24041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

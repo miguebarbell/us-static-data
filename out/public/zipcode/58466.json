@@ -1,0 +1,20 @@
+{
+    "zip": 58466,
+    "lat": 46.61489,
+    "lng": -98.36493,
+    "city": "Marion",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 461.0,
+    "density": 1.1,
+    "county_fips": 38045,
+    "county_name": "LaMoure",
+    "county_weights": "{\"38045\": 61.63, \"38003\": 35.93, \"38093\": 2.44}",
+    "county_names_all": "LaMoure|Barnes|Stutsman",
+    "county_fips_all": "38045|38003|38093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 76844,
+    "lat": 31.44387,
+    "lng": -98.49348,
+    "city": "Goldthwaite",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3202.0,
+    "density": 3.3,
+    "county_fips": 48333,
+    "county_name": "Mills",
+    "county_weights": "{\"48333\": 95.4, \"48193\": 3.22, \"48281\": 1.38}",
+    "county_names_all": "Mills|Hamilton|Lampasas",
+    "county_fips_all": "48333|48193|48281",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

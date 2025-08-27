@@ -1,0 +1,20 @@
+{
+    "zip": 25387,
+    "lat": 38.38523,
+    "lng": -81.6642,
+    "city": "Charleston",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5173.0,
+    "density": 363.5,
+    "county_fips": 54039,
+    "county_name": "Kanawha",
+    "county_weights": "{\"54039\": 100}",
+    "county_names_all": "Kanawha",
+    "county_fips_all": "54039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

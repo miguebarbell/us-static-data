@@ -1,0 +1,20 @@
+{
+    "zip": 33028,
+    "lat": 26.01852,
+    "lng": -80.34488,
+    "city": "Pembroke Pines",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27984.0,
+    "density": 1880.2,
+    "county_fips": 12011,
+    "county_name": "Broward",
+    "county_weights": "{\"12011\": 100}",
+    "county_names_all": "Broward",
+    "county_fips_all": "12011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

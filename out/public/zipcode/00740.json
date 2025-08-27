@@ -1,0 +1,20 @@
+{
+    "zip": 740,
+    "lat": 18.33251,
+    "lng": -65.63419,
+    "city": "Puerto Real",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1959.0,
+    "density": 1811.6,
+    "county_fips": 72053,
+    "county_name": "Fajardo",
+    "county_weights": "{\"72053\": 100}",
+    "county_names_all": "Fajardo",
+    "county_fips_all": "72053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

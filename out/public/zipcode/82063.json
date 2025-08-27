@@ -1,0 +1,20 @@
+{
+    "zip": 82063,
+    "lat": 40.87554,
+    "lng": -105.9889,
+    "city": "Jelm",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 58.0,
+    "density": 0.1,
+    "county_fips": 8069,
+    "county_name": "Larimer",
+    "county_weights": "{\"08069\": 79.7, \"56001\": 20.3}",
+    "county_names_all": "Larimer|Albany",
+    "county_fips_all": "08069|56001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 31779,
+    "lat": 31.10032,
+    "lng": -84.19117,
+    "city": "Pelham",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8877.0,
+    "density": 25.3,
+    "county_fips": 13205,
+    "county_name": "Mitchell",
+    "county_weights": "{\"13205\": 64.66, \"13131\": 33.15, \"13275\": 2.19}",
+    "county_names_all": "Mitchell|Grady|Thomas",
+    "county_fips_all": "13205|13131|13275",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

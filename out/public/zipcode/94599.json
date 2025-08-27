@@ -1,0 +1,20 @@
+{
+    "zip": 94599,
+    "lat": 38.41012,
+    "lng": -122.37365,
+    "city": "Yountville",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3388.0,
+    "density": 164.6,
+    "county_fips": 6055,
+    "county_name": "Napa",
+    "county_weights": "{\"06055\": 100}",
+    "county_names_all": "Napa",
+    "county_fips_all": "06055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

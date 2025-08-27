@@ -1,0 +1,20 @@
+{
+    "zip": 68840,
+    "lat": 40.75728,
+    "lng": -98.88027,
+    "city": "Gibbon",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2626.0,
+    "density": 6.7,
+    "county_fips": 31019,
+    "county_name": "Buffalo",
+    "county_weights": "{\"31019\": 88.56, \"31099\": 11.44}",
+    "county_names_all": "Buffalo|Kearney",
+    "county_fips_all": "31019|31099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

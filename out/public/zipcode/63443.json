@@ -1,0 +1,20 @@
+{
+    "zip": 63443,
+    "lat": 39.66222,
+    "lng": -91.86697,
+    "city": "Hunnewell",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 270.0,
+    "density": 2.0,
+    "county_fips": 29137,
+    "county_name": "Monroe",
+    "county_weights": "{\"29137\": 48.68, \"29205\": 33.6, \"29127\": 17.72}",
+    "county_names_all": "Monroe|Shelby|Marion",
+    "county_fips_all": "29137|29205|29127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

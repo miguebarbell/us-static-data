@@ -1,0 +1,20 @@
+{
+    "zip": 56434,
+    "lat": 46.33797,
+    "lng": -94.93437,
+    "city": "Aldrich",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 178.0,
+    "density": 4.6,
+    "county_fips": 27153,
+    "county_name": "Todd",
+    "county_weights": "{\"27153\": 83.73, \"27159\": 16.27}",
+    "county_names_all": "Todd|Wadena",
+    "county_fips_all": "27153|27159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

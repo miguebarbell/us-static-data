@@ -1,0 +1,20 @@
+{
+    "zip": 15870,
+    "lat": 41.58116,
+    "lng": -78.57935,
+    "city": "Wilcox",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1239.0,
+    "density": 4.2,
+    "county_fips": 42047,
+    "county_name": "Elk",
+    "county_weights": "{\"42047\": 94.13, \"42083\": 5.87}",
+    "county_names_all": "Elk|McKean",
+    "county_fips_all": "42047|42083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

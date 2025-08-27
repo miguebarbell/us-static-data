@@ -1,0 +1,20 @@
+{
+    "zip": 29611,
+    "lat": 34.83137,
+    "lng": -82.45965,
+    "city": "Greenville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33387.0,
+    "density": 538.3,
+    "county_fips": 45045,
+    "county_name": "Greenville",
+    "county_weights": "{\"45045\": 86.01, \"45007\": 11.65, \"45077\": 2.34}",
+    "county_names_all": "Greenville|Anderson|Pickens",
+    "county_fips_all": "45045|45007|45077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

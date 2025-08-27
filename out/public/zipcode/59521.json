@@ -1,0 +1,20 @@
+{
+    "zip": 59521,
+    "lat": 48.30489,
+    "lng": -109.972,
+    "city": "Box Elder",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3616.0,
+    "density": 4.9,
+    "county_fips": 30041,
+    "county_name": "Hill",
+    "county_weights": "{\"30041\": 81.61, \"30015\": 18.39}",
+    "county_names_all": "Hill|Chouteau",
+    "county_fips_all": "30041|30015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 38464,
+    "lat": 35.29035,
+    "lng": -87.42845,
+    "city": "Lawrenceburg",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23727.0,
+    "density": 33.9,
+    "county_fips": 47099,
+    "county_name": "Lawrence",
+    "county_weights": "{\"47099\": 81.24, \"47181\": 12.1, \"47055\": 6.28, \"47101\": 0.38}",
+    "county_names_all": "Lawrence|Wayne|Giles|Lewis",
+    "county_fips_all": "47099|47181|47055|47101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

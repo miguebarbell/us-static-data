@@ -1,0 +1,20 @@
+{
+    "zip": 59201,
+    "lat": 48.15981,
+    "lng": -105.64647,
+    "city": "Wolf Point",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5345.0,
+    "density": 1.6,
+    "county_fips": 30085,
+    "county_name": "Roosevelt",
+    "county_weights": "{\"30085\": 54.22, \"30055\": 37.76, \"30105\": 8.02}",
+    "county_names_all": "Roosevelt|McCone|Valley",
+    "county_fips_all": "30085|30055|30105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

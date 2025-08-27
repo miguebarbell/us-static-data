@@ -1,0 +1,20 @@
+{
+    "zip": 27870,
+    "lat": 36.43053,
+    "lng": -77.71828,
+    "city": "Roanoke Rapids",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24778.0,
+    "density": 146.8,
+    "county_fips": 37083,
+    "county_name": "Halifax",
+    "county_weights": "{\"37083\": 100}",
+    "county_names_all": "Halifax",
+    "county_fips_all": "37083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

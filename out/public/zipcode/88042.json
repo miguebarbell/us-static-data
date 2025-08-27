@@ -1,0 +1,20 @@
+{
+    "zip": 88042,
+    "lat": 32.80979,
+    "lng": -107.56385,
+    "city": "Hillsboro",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 372.0,
+    "density": 0.2,
+    "county_fips": 35051,
+    "county_name": "Sierra",
+    "county_weights": "{\"35051\": 100}",
+    "county_names_all": "Sierra",
+    "county_fips_all": "35051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

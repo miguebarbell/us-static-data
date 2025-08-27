@@ -1,0 +1,20 @@
+{
+    "zip": 83546,
+    "lat": 46.57326,
+    "lng": -115.81115,
+    "city": "Pierce",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 527.0,
+    "density": 5.0,
+    "county_fips": 16035,
+    "county_name": "Clearwater",
+    "county_weights": "{\"16035\": 100}",
+    "county_names_all": "Clearwater",
+    "county_fips_all": "16035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

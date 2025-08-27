@@ -1,0 +1,20 @@
+{
+    "zip": 79227,
+    "lat": 33.87702,
+    "lng": -99.74893,
+    "city": "Crowell",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1155.0,
+    "density": 0.6,
+    "county_fips": 48155,
+    "county_name": "Foard",
+    "county_weights": "{\"48155\": 66.14, \"48275\": 33.86}",
+    "county_names_all": "Foard|Knox",
+    "county_fips_all": "48155|48275",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

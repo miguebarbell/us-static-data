@@ -1,0 +1,20 @@
+{
+    "zip": 32744,
+    "lat": 28.98497,
+    "lng": -81.21899,
+    "city": "Lake Helen",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3716.0,
+    "density": 105.6,
+    "county_fips": 12127,
+    "county_name": "Volusia",
+    "county_weights": "{\"12127\": 100}",
+    "county_names_all": "Volusia",
+    "county_fips_all": "12127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

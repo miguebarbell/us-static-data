@@ -1,0 +1,20 @@
+{
+    "zip": 68330,
+    "lat": 40.70651,
+    "lng": -97.34041,
+    "city": "Cordova",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 53.0,
+    "density": 18.9,
+    "county_fips": 31159,
+    "county_name": "Seward",
+    "county_weights": "{\"31159\": 100}",
+    "county_names_all": "Seward",
+    "county_fips_all": "31159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

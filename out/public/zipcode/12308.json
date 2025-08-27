@@ -1,0 +1,20 @@
+{
+    "zip": 12308,
+    "lat": 42.82152,
+    "lng": -73.92006,
+    "city": "Schenectady",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13985.0,
+    "density": 2363.9,
+    "county_fips": 36093,
+    "county_name": "Schenectady",
+    "county_weights": "{\"36093\": 100}",
+    "county_names_all": "Schenectady",
+    "county_fips_all": "36093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 23321,
+    "lat": 36.80067,
+    "lng": -76.42189,
+    "city": "Chesapeake",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39469.0,
+    "density": 571.7,
+    "county_fips": 51550,
+    "county_name": "Chesapeake",
+    "county_weights": "{\"51550\": 100}",
+    "county_names_all": "Chesapeake",
+    "county_fips_all": "51550",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

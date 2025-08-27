@@ -1,0 +1,20 @@
+{
+    "zip": 48847,
+    "lat": 43.2714,
+    "lng": -84.5776,
+    "city": "Ithaca",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5773.0,
+    "density": 18.5,
+    "county_fips": 26057,
+    "county_name": "Gratiot",
+    "county_weights": "{\"26057\": 100}",
+    "county_names_all": "Gratiot",
+    "county_fips_all": "26057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

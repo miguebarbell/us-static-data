@@ -1,0 +1,20 @@
+{
+    "zip": 14201,
+    "lat": 42.89706,
+    "lng": -78.88752,
+    "city": "Buffalo",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12545.0,
+    "density": 4397.5,
+    "county_fips": 36029,
+    "county_name": "Erie",
+    "county_weights": "{\"36029\": 100}",
+    "county_names_all": "Erie",
+    "county_fips_all": "36029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

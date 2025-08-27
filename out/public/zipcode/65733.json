@@ -1,0 +1,20 @@
+{
+    "zip": 65733,
+    "lat": 36.53157,
+    "lng": -92.85077,
+    "city": "Protem",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 725.0,
+    "density": 4.3,
+    "county_fips": 29213,
+    "county_name": "Taney",
+    "county_weights": "{\"29213\": 77.89, \"05089\": 11.67, \"05009\": 7.22, \"29153\": 3.22}",
+    "county_names_all": "Taney|Marion|Boone|Ozark",
+    "county_fips_all": "29213|05089|05009|29153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

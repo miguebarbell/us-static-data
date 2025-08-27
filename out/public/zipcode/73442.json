@@ -1,0 +1,20 @@
+{
+    "zip": 73442,
+    "lat": 34.31982,
+    "lng": -97.69569,
+    "city": "Loco",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 276.0,
+    "density": 1.0,
+    "county_fips": 40137,
+    "county_name": "Stephens",
+    "county_weights": "{\"40137\": 83.15, \"40067\": 16.85}",
+    "county_names_all": "Stephens|Jefferson",
+    "county_fips_all": "40137|40067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

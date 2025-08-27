@@ -1,0 +1,20 @@
+{
+    "zip": 78750,
+    "lat": 30.41685,
+    "lng": -97.80223,
+    "city": "Austin",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29322.0,
+    "density": 959.6,
+    "county_fips": 48453,
+    "county_name": "Travis",
+    "county_weights": "{\"48453\": 78.12, \"48491\": 21.88}",
+    "county_names_all": "Travis|Williamson",
+    "county_fips_all": "48453|48491",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

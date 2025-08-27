@@ -1,0 +1,20 @@
+{
+    "zip": 41129,
+    "lat": 38.31755,
+    "lng": -82.64073,
+    "city": "Catlettsburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8417.0,
+    "density": 37.1,
+    "county_fips": 21019,
+    "county_name": "Boyd",
+    "county_weights": "{\"21019\": 78.65, \"21127\": 21.35}",
+    "county_names_all": "Boyd|Lawrence",
+    "county_fips_all": "21019|21127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

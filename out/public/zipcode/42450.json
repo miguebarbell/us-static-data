@@ -1,0 +1,20 @@
+{
+    "zip": 42450,
+    "lat": 37.38741,
+    "lng": -87.77535,
+    "city": "Providence",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3589.0,
+    "density": 19.1,
+    "county_fips": 21233,
+    "county_name": "Webster",
+    "county_weights": "{\"21233\": 49.78, \"21107\": 31.84, \"21055\": 18.38}",
+    "county_names_all": "Webster|Hopkins|Crittenden",
+    "county_fips_all": "21233|21107|21055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

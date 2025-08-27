@@ -1,0 +1,20 @@
+{
+    "zip": 97133,
+    "lat": 45.68719,
+    "lng": -123.02861,
+    "city": "North Plains",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5662.0,
+    "density": 28.5,
+    "county_fips": 41067,
+    "county_name": "Washington",
+    "county_weights": "{\"41067\": 96.42, \"41051\": 3.58}",
+    "county_names_all": "Washington|Multnomah",
+    "county_fips_all": "41067|41051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

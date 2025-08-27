@@ -1,0 +1,20 @@
+{
+    "zip": 72940,
+    "lat": 35.11488,
+    "lng": -94.26427,
+    "city": "Huntington",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1936.0,
+    "density": 17.1,
+    "county_fips": 5131,
+    "county_name": "Sebastian",
+    "county_weights": "{\"05131\": 100}",
+    "county_names_all": "Sebastian",
+    "county_fips_all": "05131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 70775,
+    "lat": 30.85982,
+    "lng": -91.36847,
+    "city": "Saint Francisville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10709.0,
+    "density": 13.2,
+    "county_fips": 22125,
+    "county_name": "West Feliciana",
+    "county_weights": "{\"22125\": 99.83, \"22037\": 0.17}",
+    "county_names_all": "West Feliciana|East Feliciana",
+    "county_fips_all": "22125|22037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

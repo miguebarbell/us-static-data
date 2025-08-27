@@ -1,0 +1,20 @@
+{
+    "zip": 86054,
+    "lat": 36.67546,
+    "lng": -110.61259,
+    "city": "Shonto",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1460.0,
+    "density": 1.3,
+    "county_fips": 4017,
+    "county_name": "Navajo",
+    "county_weights": "{\"04017\": 94.09, \"04005\": 5.91}",
+    "county_names_all": "Navajo|Coconino",
+    "county_fips_all": "04017|04005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

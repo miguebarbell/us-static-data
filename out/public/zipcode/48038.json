@@ -1,0 +1,20 @@
+{
+    "zip": 48038,
+    "lat": 42.6054,
+    "lng": -82.94152,
+    "city": "Clinton Township",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44250.0,
+    "density": 1566.7,
+    "county_fips": 26099,
+    "county_name": "Macomb",
+    "county_weights": "{\"26099\": 100}",
+    "county_names_all": "Macomb",
+    "county_fips_all": "26099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

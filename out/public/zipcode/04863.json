@@ -1,0 +1,20 @@
+{
+    "zip": 4863,
+    "lat": 44.07898,
+    "lng": -68.84384,
+    "city": "Vinalhaven",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1063.0,
+    "density": 17.6,
+    "county_fips": 23013,
+    "county_name": "Knox",
+    "county_weights": "{\"23013\": 100}",
+    "county_names_all": "Knox",
+    "county_fips_all": "23013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 66095,
+    "lat": 38.44631,
+    "lng": -95.43015,
+    "city": "Williamsburg",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1024.0,
+    "density": 5.6,
+    "county_fips": 20059,
+    "county_name": "Franklin",
+    "county_weights": "{\"20059\": 92.99, \"20003\": 7.01}",
+    "county_names_all": "Franklin|Anderson",
+    "county_fips_all": "20059|20003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

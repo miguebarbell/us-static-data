@@ -1,0 +1,20 @@
+{
+    "zip": 45877,
+    "lat": 40.95393,
+    "lng": -83.93779,
+    "city": "Pandora",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2452.0,
+    "density": 35.5,
+    "county_fips": 39137,
+    "county_name": "Putnam",
+    "county_weights": "{\"39137\": 90.14, \"39003\": 8.92, \"39063\": 0.94}",
+    "county_names_all": "Putnam|Allen|Hancock",
+    "county_fips_all": "39137|39003|39063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

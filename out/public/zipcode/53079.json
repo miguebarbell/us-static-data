@@ -1,0 +1,20 @@
+{
+    "zip": 53079,
+    "lat": 43.81132,
+    "lng": -88.1888,
+    "city": "Saint Cloud",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1420.0,
+    "density": 14.9,
+    "county_fips": 55039,
+    "county_name": "Fond du Lac",
+    "county_weights": "{\"55039\": 96.39, \"55117\": 3.61}",
+    "county_names_all": "Fond du Lac|Sheboygan",
+    "county_fips_all": "55039|55117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

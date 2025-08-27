@@ -1,0 +1,20 @@
+{
+    "zip": 40272,
+    "lat": 38.08291,
+    "lng": -85.85315,
+    "city": "Louisville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37595.0,
+    "density": 436.1,
+    "county_fips": 21111,
+    "county_name": "Jefferson",
+    "county_weights": "{\"21111\": 95.68, \"21029\": 4.32}",
+    "county_names_all": "Jefferson|Bullitt",
+    "county_fips_all": "21111|21029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 85351,
+    "lat": 33.60638,
+    "lng": -112.28213,
+    "city": "Sun City",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27562.0,
+    "density": 978.2,
+    "county_fips": 4013,
+    "county_name": "Maricopa",
+    "county_weights": "{\"04013\": 100}",
+    "county_names_all": "Maricopa",
+    "county_fips_all": "04013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

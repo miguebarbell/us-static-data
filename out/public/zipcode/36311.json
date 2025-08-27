@@ -1,0 +1,20 @@
+{
+    "zip": 36311,
+    "lat": 31.60092,
+    "lng": -85.68372,
+    "city": "Ariton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2688.0,
+    "density": 8.4,
+    "county_fips": 1045,
+    "county_name": "Dale",
+    "county_weights": "{\"01045\": 54.84, \"01005\": 35.58, \"01031\": 9.58}",
+    "county_names_all": "Dale|Barbour|Coffee",
+    "county_fips_all": "01045|01005|01031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

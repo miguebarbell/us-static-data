@@ -1,0 +1,20 @@
+{
+    "zip": 14726,
+    "lat": 42.25255,
+    "lng": -79.02221,
+    "city": "Conewango Valley",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2681.0,
+    "density": 24.7,
+    "county_fips": 36009,
+    "county_name": "Cattaraugus",
+    "county_weights": "{\"36009\": 88.31, \"36013\": 11.69}",
+    "county_names_all": "Cattaraugus|Chautauqua",
+    "county_fips_all": "36009|36013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

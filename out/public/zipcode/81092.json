@@ -1,0 +1,20 @@
+{
+    "zip": 81092,
+    "lat": 38.20283,
+    "lng": -102.86779,
+    "city": "Wiley",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 840.0,
+    "density": 1.7,
+    "county_fips": 8011,
+    "county_name": "Bent",
+    "county_weights": "{\"08011\": 79.24, \"08099\": 19.18, \"08061\": 1.58}",
+    "county_names_all": "Bent|Prowers|Kiowa",
+    "county_fips_all": "08011|08099|08061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

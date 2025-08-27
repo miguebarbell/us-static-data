@@ -1,0 +1,20 @@
+{
+    "zip": 15555,
+    "lat": 40.09758,
+    "lng": -79.08132,
+    "city": "Quecreek",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 78.0,
+    "density": 77.7,
+    "county_fips": 42111,
+    "county_name": "Somerset",
+    "county_weights": "{\"42111\": 100}",
+    "county_names_all": "Somerset",
+    "county_fips_all": "42111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 63851,
+    "lat": 36.25762,
+    "lng": -89.72352,
+    "city": "Hayti",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3366.0,
+    "density": 12.9,
+    "county_fips": 29155,
+    "county_name": "Pemiscot",
+    "county_weights": "{\"29155\": 100}",
+    "county_names_all": "Pemiscot",
+    "county_fips_all": "29155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

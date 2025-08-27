@@ -1,0 +1,20 @@
+{
+    "zip": 5148,
+    "lat": 43.24503,
+    "lng": -72.81224,
+    "city": "Londonderry",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1550.0,
+    "density": 22.3,
+    "county_fips": 50025,
+    "county_name": "Windham",
+    "county_weights": "{\"50025\": 63.82, \"50003\": 34.85, \"50027\": 1.32}",
+    "county_names_all": "Windham|Bennington|Windsor",
+    "county_fips_all": "50025|50003|50027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

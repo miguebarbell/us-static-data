@@ -1,0 +1,20 @@
+{
+    "zip": 8020,
+    "lat": 39.79674,
+    "lng": -75.22271,
+    "city": "Clarksboro",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2522.0,
+    "density": 213.9,
+    "county_fips": 34015,
+    "county_name": "Gloucester",
+    "county_weights": "{\"34015\": 100}",
+    "county_names_all": "Gloucester",
+    "county_fips_all": "34015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

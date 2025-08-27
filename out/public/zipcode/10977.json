@@ -1,0 +1,20 @@
+{
+    "zip": 10977,
+    "lat": 41.11749,
+    "lng": -74.04825,
+    "city": "Spring Valley",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 71465.0,
+    "density": 2450.6,
+    "county_fips": 36087,
+    "county_name": "Rockland",
+    "county_weights": "{\"36087\": 100}",
+    "county_names_all": "Rockland",
+    "county_fips_all": "36087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

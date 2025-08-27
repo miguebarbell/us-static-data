@@ -1,0 +1,20 @@
+{
+    "zip": 28079,
+    "lat": 35.1132,
+    "lng": -80.60183,
+    "city": "Indian Trail",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40820.0,
+    "density": 338.2,
+    "county_fips": 37179,
+    "county_name": "Union",
+    "county_weights": "{\"37179\": 100}",
+    "county_names_all": "Union",
+    "county_fips_all": "37179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

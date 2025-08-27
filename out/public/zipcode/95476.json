@@ -1,0 +1,20 @@
+{
+    "zip": 95476,
+    "lat": 38.25531,
+    "lng": -122.46055,
+    "city": "Sonoma",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35139.0,
+    "density": 125.8,
+    "county_fips": 6097,
+    "county_name": "Sonoma",
+    "county_weights": "{\"06097\": 97.3, \"06055\": 2.7}",
+    "county_names_all": "Sonoma|Napa",
+    "county_fips_all": "06097|06055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

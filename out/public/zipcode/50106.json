@@ -1,0 +1,20 @@
+{
+    "zip": 50106,
+    "lat": 41.88213,
+    "lng": -92.80749,
+    "city": "Gilman",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1121.0,
+    "density": 6.4,
+    "county_fips": 19127,
+    "county_name": "Marshall",
+    "county_weights": "{\"19127\": 51.06, \"19099\": 23.29, \"19171\": 20.24, \"19157\": 5.41}",
+    "county_names_all": "Marshall|Jasper|Tama|Poweshiek",
+    "county_fips_all": "19127|19099|19171|19157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

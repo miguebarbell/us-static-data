@@ -1,0 +1,20 @@
+{
+    "zip": 74652,
+    "lat": 36.85639,
+    "lng": -96.65438,
+    "city": "Shidler",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 807.0,
+    "density": 1.2,
+    "county_fips": 40113,
+    "county_name": "Osage",
+    "county_weights": "{\"40113\": 89.13, \"40071\": 10.87}",
+    "county_names_all": "Osage|Kay",
+    "county_fips_all": "40113|40071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

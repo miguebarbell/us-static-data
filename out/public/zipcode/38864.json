@@ -1,0 +1,20 @@
+{
+    "zip": 38864,
+    "lat": 34.14325,
+    "lng": -89.20167,
+    "city": "Randolph",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1859.0,
+    "density": 9.0,
+    "county_fips": 28115,
+    "county_name": "Pontotoc",
+    "county_weights": "{\"28115\": 77.87, \"28013\": 22.13}",
+    "county_names_all": "Pontotoc|Calhoun",
+    "county_fips_all": "28115|28013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 79502,
+    "lat": 33.18305,
+    "lng": -100.26499,
+    "city": "Aspermont",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1123.0,
+    "density": 0.9,
+    "county_fips": 48433,
+    "county_name": "Stonewall",
+    "county_weights": "{\"48433\": 100}",
+    "county_names_all": "Stonewall",
+    "county_fips_all": "48433",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

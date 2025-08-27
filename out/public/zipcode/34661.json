@@ -1,0 +1,20 @@
+{
+    "zip": 34661,
+    "lat": 28.62108,
+    "lng": -82.26507,
+    "city": "Nobleton",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 246.0,
+    "density": 10.6,
+    "county_fips": 12053,
+    "county_name": "Hernando",
+    "county_weights": "{\"12053\": 100}",
+    "county_names_all": "Hernando",
+    "county_fips_all": "12053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

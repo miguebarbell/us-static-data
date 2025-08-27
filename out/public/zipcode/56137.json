@@ -1,0 +1,20 @@
+{
+    "zip": 56137,
+    "lat": 43.83246,
+    "lng": -95.32424,
+    "city": "Heron Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1091.0,
+    "density": 3.7,
+    "county_fips": 27063,
+    "county_name": "Jackson",
+    "county_weights": "{\"27063\": 65.52, \"27033\": 34.48}",
+    "county_names_all": "Jackson|Cottonwood",
+    "county_fips_all": "27063|27033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

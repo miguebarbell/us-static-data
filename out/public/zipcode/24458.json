@@ -1,0 +1,20 @@
+{
+    "zip": 24458,
+    "lat": 38.33066,
+    "lng": -79.51201,
+    "city": "McDowell",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 213.0,
+    "density": 1.2,
+    "county_fips": 51091,
+    "county_name": "Highland",
+    "county_weights": "{\"51091\": 100}",
+    "county_names_all": "Highland",
+    "county_fips_all": "51091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

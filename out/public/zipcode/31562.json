@@ -1,0 +1,20 @@
+{
+    "zip": 31562,
+    "lat": 30.47778,
+    "lng": -82.10755,
+    "city": "Saint George",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3398.0,
+    "density": 8.6,
+    "county_fips": 13049,
+    "county_name": "Charlton",
+    "county_weights": "{\"13049\": 100}",
+    "county_names_all": "Charlton",
+    "county_fips_all": "13049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

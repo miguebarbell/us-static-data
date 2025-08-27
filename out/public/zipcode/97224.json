@@ -1,0 +1,20 @@
+{
+    "zip": 97224,
+    "lat": 45.40568,
+    "lng": -122.7958,
+    "city": "Portland",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36015.0,
+    "density": 1536.8,
+    "county_fips": 41067,
+    "county_name": "Washington",
+    "county_weights": "{\"41067\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "41067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

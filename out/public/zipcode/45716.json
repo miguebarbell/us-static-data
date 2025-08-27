@@ -1,0 +1,20 @@
+{
+    "zip": 45716,
+    "lat": 39.46295,
+    "lng": -82.18401,
+    "city": "Buchtel",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 410.0,
+    "density": 280.5,
+    "county_fips": 39009,
+    "county_name": "Athens",
+    "county_weights": "{\"39009\": 100}",
+    "county_names_all": "Athens",
+    "county_fips_all": "39009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

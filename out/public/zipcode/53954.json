@@ -1,0 +1,20 @@
+{
+    "zip": 53954,
+    "lat": 43.55518,
+    "lng": -89.31325,
+    "city": "Pardeeville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6579.0,
+    "density": 32.1,
+    "county_fips": 55021,
+    "county_name": "Columbia",
+    "county_weights": "{\"55021\": 90.86, \"55077\": 9.14}",
+    "county_names_all": "Columbia|Marquette",
+    "county_fips_all": "55021|55077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

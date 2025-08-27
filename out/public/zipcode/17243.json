@@ -1,0 +1,20 @@
+{
+    "zip": 17243,
+    "lat": 40.28368,
+    "lng": -77.81484,
+    "city": "Orbisonia",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1156.0,
+    "density": 7.4,
+    "county_fips": 42061,
+    "county_name": "Huntingdon",
+    "county_weights": "{\"42061\": 71.59, \"42067\": 28.41}",
+    "county_names_all": "Huntingdon|Juniata",
+    "county_fips_all": "42061|42067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 40845,
+    "lat": 36.79899,
+    "lng": -83.51755,
+    "city": "Hulen",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 639.0,
+    "density": 28.4,
+    "county_fips": 21013,
+    "county_name": "Bell",
+    "county_weights": "{\"21013\": 100}",
+    "county_names_all": "Bell",
+    "county_fips_all": "21013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

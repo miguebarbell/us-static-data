@@ -1,0 +1,20 @@
+{
+    "zip": 71270,
+    "lat": 32.49378,
+    "lng": -92.64139,
+    "city": "Ruston",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32747.0,
+    "density": 61.1,
+    "county_fips": 22061,
+    "county_name": "Lincoln",
+    "county_weights": "{\"22061\": 61.36, \"22049\": 38.64}",
+    "county_names_all": "Lincoln|Jackson",
+    "county_fips_all": "22061|22049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

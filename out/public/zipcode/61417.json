@@ -1,0 +1,20 @@
+{
+    "zip": 61417,
+    "lat": 40.77222,
+    "lng": -90.54413,
+    "city": "Berwick",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 176.0,
+    "density": 2.9,
+    "county_fips": 17187,
+    "county_name": "Warren",
+    "county_weights": "{\"17187\": 100}",
+    "county_names_all": "Warren",
+    "county_fips_all": "17187",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

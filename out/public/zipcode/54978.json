@@ -1,0 +1,20 @@
+{
+    "zip": 54978,
+    "lat": 44.79423,
+    "lng": -88.91405,
+    "city": "Tilleda",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 93.0,
+    "density": 9.9,
+    "county_fips": 55115,
+    "county_name": "Shawano",
+    "county_weights": "{\"55115\": 100}",
+    "county_names_all": "Shawano",
+    "county_fips_all": "55115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

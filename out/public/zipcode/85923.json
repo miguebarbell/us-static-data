@@ -1,0 +1,20 @@
+{
+    "zip": 85923,
+    "lat": 34.32313,
+    "lng": -110.34036,
+    "city": "Clay Springs",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 303.0,
+    "density": 1.9,
+    "county_fips": 4017,
+    "county_name": "Navajo",
+    "county_weights": "{\"04017\": 100}",
+    "county_names_all": "Navajo",
+    "county_fips_all": "04017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

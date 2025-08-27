@@ -1,0 +1,20 @@
+{
+    "zip": 45314,
+    "lat": 39.74608,
+    "lng": -83.77363,
+    "city": "Cedarville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6488.0,
+    "density": 48.7,
+    "county_fips": 39057,
+    "county_name": "Greene",
+    "county_weights": "{\"39057\": 98.1, \"39023\": 1.9}",
+    "county_names_all": "Greene|Clark",
+    "county_fips_all": "39057|39023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 55397,
+    "lat": 44.81712,
+    "lng": -93.93452,
+    "city": "Young America",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3335.0,
+    "density": 45.5,
+    "county_fips": 27019,
+    "county_name": "Carver",
+    "county_weights": "{\"27019\": 96.67, \"27085\": 3.33}",
+    "county_names_all": "Carver|McLeod",
+    "county_fips_all": "27019|27085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

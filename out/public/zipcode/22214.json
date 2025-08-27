@@ -1,0 +1,20 @@
+{
+    "zip": 22214,
+    "lat": 38.87499,
+    "lng": -77.06501,
+    "city": "Arlington",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 51013,
+    "county_name": "Arlington",
+    "county_weights": "{\"51013\": 100}",
+    "county_names_all": "Arlington",
+    "county_fips_all": "51013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

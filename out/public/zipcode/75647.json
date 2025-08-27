@@ -1,0 +1,20 @@
+{
+    "zip": 75647,
+    "lat": 32.5167,
+    "lng": -94.96429,
+    "city": "Gladewater",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13457.0,
+    "density": 58.7,
+    "county_fips": 48183,
+    "county_name": "Gregg",
+    "county_weights": "{\"48183\": 42.7, \"48423\": 31.9, \"48459\": 25.39}",
+    "county_names_all": "Gregg|Smith|Upshur",
+    "county_fips_all": "48183|48423|48459",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

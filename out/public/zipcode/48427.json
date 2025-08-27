@@ -1,0 +1,20 @@
+{
+    "zip": 48427,
+    "lat": 43.53789,
+    "lng": -82.72378,
+    "city": "Deckerville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2881.0,
+    "density": 11.5,
+    "county_fips": 26151,
+    "county_name": "Sanilac",
+    "county_weights": "{\"26151\": 100}",
+    "county_names_all": "Sanilac",
+    "county_fips_all": "26151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

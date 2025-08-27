@@ -1,0 +1,20 @@
+{
+    "zip": 44411,
+    "lat": 41.0326,
+    "lng": -81.05092,
+    "city": "Deerfield",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2121.0,
+    "density": 41.1,
+    "county_fips": 39133,
+    "county_name": "Portage",
+    "county_weights": "{\"39133\": 100}",
+    "county_names_all": "Portage",
+    "county_fips_all": "39133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 41085,
+    "lat": 39.03508,
+    "lng": -84.39378,
+    "city": "Silver Grove",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 653.0,
+    "density": 790.2,
+    "county_fips": 21037,
+    "county_name": "Campbell",
+    "county_weights": "{\"21037\": 100}",
+    "county_names_all": "Campbell",
+    "county_fips_all": "21037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

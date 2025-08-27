@@ -1,0 +1,20 @@
+{
+    "zip": 58385,
+    "lat": 48.47945,
+    "lng": -99.65989,
+    "city": "Wolford",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 197.0,
+    "density": 0.7,
+    "county_fips": 38069,
+    "county_name": "Pierce",
+    "county_weights": "{\"38069\": 95.58, \"38079\": 4.42}",
+    "county_names_all": "Pierce|Rolette",
+    "county_fips_all": "38069|38079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

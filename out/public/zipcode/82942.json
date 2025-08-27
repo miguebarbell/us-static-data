@@ -1,0 +1,20 @@
+{
+    "zip": 82942,
+    "lat": 41.70234,
+    "lng": -108.77539,
+    "city": "Point Of Rocks",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9.0,
+    "density": 0.4,
+    "county_fips": 56037,
+    "county_name": "Sweetwater",
+    "county_weights": "{\"56037\": 100}",
+    "county_names_all": "Sweetwater",
+    "county_fips_all": "56037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

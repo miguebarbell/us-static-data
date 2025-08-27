@@ -1,0 +1,20 @@
+{
+    "zip": 1950,
+    "lat": 42.81237,
+    "lng": -70.88785,
+    "city": "Newburyport",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18444.0,
+    "density": 852.8,
+    "county_fips": 25009,
+    "county_name": "Essex",
+    "county_weights": "{\"25009\": 100}",
+    "county_names_all": "Essex",
+    "county_fips_all": "25009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

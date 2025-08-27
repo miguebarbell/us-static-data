@@ -1,0 +1,20 @@
+{
+    "zip": 79530,
+    "lat": 32.09981,
+    "lng": -99.78178,
+    "city": "Lawn",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 436.0,
+    "density": 2.9,
+    "county_fips": 48441,
+    "county_name": "Taylor",
+    "county_weights": "{\"48441\": 67.24, \"48399\": 32.76}",
+    "county_names_all": "Taylor|Runnels",
+    "county_fips_all": "48441|48399",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65608,
+    "lat": 36.90456,
+    "lng": -92.66662,
+    "city": "Ava",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8478.0,
+    "density": 8.1,
+    "county_fips": 29067,
+    "county_name": "Douglas",
+    "county_weights": "{\"29067\": 92.97, \"29213\": 3.6, \"29153\": 3.43}",
+    "county_names_all": "Douglas|Taney|Ozark",
+    "county_fips_all": "29067|29213|29153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

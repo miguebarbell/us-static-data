@@ -1,0 +1,20 @@
+{
+    "zip": 30415,
+    "lat": 32.32773,
+    "lng": -81.6008,
+    "city": "Brooklet",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5865.0,
+    "density": 14.2,
+    "county_fips": 13031,
+    "county_name": "Bulloch",
+    "county_weights": "{\"13031\": 100}",
+    "county_names_all": "Bulloch",
+    "county_fips_all": "13031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

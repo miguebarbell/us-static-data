@@ -1,0 +1,20 @@
+{
+    "zip": 12958,
+    "lat": 44.95661,
+    "lng": -73.57419,
+    "city": "Mooers",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1650.0,
+    "density": 18.0,
+    "county_fips": 36019,
+    "county_name": "Clinton",
+    "county_weights": "{\"36019\": 100}",
+    "county_names_all": "Clinton",
+    "county_fips_all": "36019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

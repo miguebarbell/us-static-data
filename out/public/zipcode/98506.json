@@ -1,0 +1,20 @@
+{
+    "zip": 98506,
+    "lat": 47.10286,
+    "lng": -122.87307,
+    "city": "Olympia",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18763.0,
+    "density": 322.8,
+    "county_fips": 53067,
+    "county_name": "Thurston",
+    "county_weights": "{\"53067\": 100}",
+    "county_names_all": "Thurston",
+    "county_fips_all": "53067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

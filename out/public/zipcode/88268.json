@@ -1,0 +1,20 @@
+{
+    "zip": 88268,
+    "lat": 32.17632,
+    "lng": -104.37939,
+    "city": "Whites City",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 35015,
+    "county_name": "Eddy",
+    "county_weights": "{\"35015\": 100}",
+    "county_names_all": "Eddy",
+    "county_fips_all": "35015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

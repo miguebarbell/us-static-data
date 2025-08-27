@@ -1,0 +1,20 @@
+{
+    "zip": 20912,
+    "lat": 38.98182,
+    "lng": -77.00106,
+    "city": "Takoma Park",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25428.0,
+    "density": 3664.7,
+    "county_fips": 24031,
+    "county_name": "Montgomery",
+    "county_weights": "{\"24031\": 89.99, \"24033\": 10.01}",
+    "county_names_all": "Montgomery|Prince George's",
+    "county_fips_all": "24031|24033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

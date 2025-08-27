@@ -1,0 +1,20 @@
+{
+    "zip": 725,
+    "lat": 18.22052,
+    "lng": -66.03962,
+    "city": "Caguas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 76246.0,
+    "density": 711.7,
+    "county_fips": 72025,
+    "county_name": "Caguas",
+    "county_weights": "{\"72025\": 86.58, \"72061\": 4.45, \"72129\": 2.77, \"72127\": 2.23, \"72139\": 2.07, \"72007\": 1.9}",
+    "county_names_all": "Caguas|Guaynabo|San Lorenzo|San Juan|Trujillo Alto|Aguas Buenas",
+    "county_fips_all": "72025|72061|72129|72127|72139|72007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

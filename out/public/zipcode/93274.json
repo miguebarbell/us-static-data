@@ -1,0 +1,20 @@
+{
+    "zip": 93274,
+    "lat": 36.17978,
+    "lng": -119.37949,
+    "city": "Tulare",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 79154.0,
+    "density": 139.4,
+    "county_fips": 6107,
+    "county_name": "Tulare",
+    "county_weights": "{\"06107\": 95.45, \"06031\": 4.55}",
+    "county_names_all": "Tulare|Kings",
+    "county_fips_all": "06107|06031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

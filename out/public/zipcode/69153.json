@@ -1,0 +1,20 @@
+{
+    "zip": 69153,
+    "lat": 41.08018,
+    "lng": -101.67866,
+    "city": "Ogallala",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5968.0,
+    "density": 9.6,
+    "county_fips": 31101,
+    "county_name": "Keith",
+    "county_weights": "{\"31101\": 85.18, \"31135\": 14.82}",
+    "county_names_all": "Keith|Perkins",
+    "county_fips_all": "31101|31135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

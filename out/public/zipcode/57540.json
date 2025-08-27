@@ -1,0 +1,20 @@
+{
+    "zip": 57540,
+    "lat": 44.46477,
+    "lng": -99.60377,
+    "city": "Holabird",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 194.0,
+    "density": 0.4,
+    "county_fips": 46069,
+    "county_name": "Hyde",
+    "county_weights": "{\"46069\": 100}",
+    "county_names_all": "Hyde",
+    "county_fips_all": "46069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

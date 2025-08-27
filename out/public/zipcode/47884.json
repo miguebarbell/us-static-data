@@ -1,0 +1,20 @@
+{
+    "zip": 47884,
+    "lat": 39.62308,
+    "lng": -87.45362,
+    "city": "Universal",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 207.0,
+    "density": 232.1,
+    "county_fips": 18165,
+    "county_name": "Vermillion",
+    "county_weights": "{\"18165\": 100}",
+    "county_names_all": "Vermillion",
+    "county_fips_all": "18165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

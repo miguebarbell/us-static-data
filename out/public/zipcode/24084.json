@@ -1,0 +1,20 @@
+{
+    "zip": 24084,
+    "lat": 37.11468,
+    "lng": -80.79088,
+    "city": "Dublin",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10860.0,
+    "density": 36.9,
+    "county_fips": 51155,
+    "county_name": "Pulaski",
+    "county_weights": "{\"51155\": 74.94, \"51021\": 25.06}",
+    "county_names_all": "Pulaski|Bland",
+    "county_fips_all": "51155|51021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

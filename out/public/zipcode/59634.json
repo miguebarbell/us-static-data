@@ -1,0 +1,20 @@
+{
+    "zip": 59634,
+    "lat": 46.43583,
+    "lng": -112.00986,
+    "city": "Clancy",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5238.0,
+    "density": 8.0,
+    "county_fips": 30043,
+    "county_name": "Jefferson",
+    "county_weights": "{\"30043\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "30043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

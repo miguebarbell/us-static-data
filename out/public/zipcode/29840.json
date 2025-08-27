@@ -1,0 +1,20 @@
+{
+    "zip": 29840,
+    "lat": 33.99797,
+    "lng": -82.52749,
+    "city": "Mount Carmel",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 338.0,
+    "density": 4.2,
+    "county_fips": 45065,
+    "county_name": "McCormick",
+    "county_weights": "{\"45065\": 100}",
+    "county_names_all": "McCormick",
+    "county_fips_all": "45065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

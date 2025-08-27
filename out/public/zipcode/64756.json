@@ -1,0 +1,20 @@
+{
+    "zip": 64756,
+    "lat": 37.61931,
+    "lng": -94.01462,
+    "city": "Jerico Springs",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 508.0,
+    "density": 3.2,
+    "county_fips": 29039,
+    "county_name": "Cedar",
+    "county_weights": "{\"29039\": 76.66, \"29057\": 23.34}",
+    "county_names_all": "Cedar|Dade",
+    "county_fips_all": "29039|29057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

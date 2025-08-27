@@ -1,0 +1,20 @@
+{
+    "zip": 65039,
+    "lat": 38.71388,
+    "lng": -92.2984,
+    "city": "Hartsburg",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3148.0,
+    "density": 20.5,
+    "county_fips": 29019,
+    "county_name": "Boone",
+    "county_weights": "{\"29019\": 92.2, \"29027\": 7.8}",
+    "county_names_all": "Boone|Callaway",
+    "county_fips_all": "29019|29027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 13783,
+    "lat": 41.99037,
+    "lng": -75.26764,
+    "city": "Hancock",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2200.0,
+    "density": 7.5,
+    "county_fips": 36025,
+    "county_name": "Delaware",
+    "county_weights": "{\"36025\": 99.51, \"36007\": 0.49}",
+    "county_names_all": "Delaware|Broome",
+    "county_fips_all": "36025|36007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

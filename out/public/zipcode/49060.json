@@ -1,0 +1,20 @@
+{
+    "zip": 49060,
+    "lat": 42.42738,
+    "lng": -85.39589,
+    "city": "Hickory Corners",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2750.0,
+    "density": 53.8,
+    "county_fips": 26015,
+    "county_name": "Barry",
+    "county_weights": "{\"26015\": 73.68, \"26077\": 26.32}",
+    "county_names_all": "Barry|Kalamazoo",
+    "county_fips_all": "26015|26077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

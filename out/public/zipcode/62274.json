@@ -1,0 +1,20 @@
+{
+    "zip": 62274,
+    "lat": 38.09312,
+    "lng": -89.40064,
+    "city": "Pinckneyville",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8147.0,
+    "density": 22.0,
+    "county_fips": 17145,
+    "county_name": "Perry",
+    "county_weights": "{\"17145\": 99.08, \"17077\": 0.92}",
+    "county_names_all": "Perry|Jackson",
+    "county_fips_all": "17145|17077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

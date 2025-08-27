@@ -1,0 +1,20 @@
+{
+    "zip": 55053,
+    "lat": 44.34957,
+    "lng": -93.06579,
+    "city": "Nerstrand",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 995.0,
+    "density": 7.8,
+    "county_fips": 27131,
+    "county_name": "Rice",
+    "county_weights": "{\"27131\": 68.7, \"27049\": 31.3}",
+    "county_names_all": "Rice|Goodhue",
+    "county_fips_all": "27131|27049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

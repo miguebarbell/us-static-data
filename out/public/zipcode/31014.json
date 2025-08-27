@@ -1,0 +1,20 @@
+{
+    "zip": 31014,
+    "lat": 32.41439,
+    "lng": -83.34504,
+    "city": "Cochran",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12944.0,
+    "density": 23.9,
+    "county_fips": 13023,
+    "county_name": "Bleckley",
+    "county_weights": "{\"13023\": 77.04, \"13091\": 14.13, \"13289\": 8.5, \"13235\": 0.33}",
+    "county_names_all": "Bleckley|Dodge|Twiggs|Pulaski",
+    "county_fips_all": "13023|13091|13289|13235",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

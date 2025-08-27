@@ -1,0 +1,20 @@
+{
+    "zip": 78112,
+    "lat": 29.21353,
+    "lng": -98.37266,
+    "city": "Elmendorf",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9959.0,
+    "density": 74.8,
+    "county_fips": 48029,
+    "county_name": "Bexar",
+    "county_weights": "{\"48029\": 98.83, \"48493\": 1.17}",
+    "county_names_all": "Bexar|Wilson",
+    "county_fips_all": "48029|48493",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

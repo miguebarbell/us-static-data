@@ -1,0 +1,20 @@
+{
+    "zip": 37012,
+    "lat": 36.07112,
+    "lng": -86.00563,
+    "city": "Alexandria",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2149.0,
+    "density": 22.5,
+    "county_fips": 47041,
+    "county_name": "DeKalb",
+    "county_weights": "{\"47041\": 57.58, \"47189\": 22.01, \"47159\": 20.41}",
+    "county_names_all": "DeKalb|Wilson|Smith",
+    "county_fips_all": "47041|47189|47159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

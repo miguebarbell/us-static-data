@@ -1,0 +1,20 @@
+{
+    "zip": 71961,
+    "lat": 34.59722,
+    "lng": -93.84676,
+    "city": "Oden",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1203.0,
+    "density": 5.4,
+    "county_fips": 5097,
+    "county_name": "Montgomery",
+    "county_weights": "{\"05097\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "05097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

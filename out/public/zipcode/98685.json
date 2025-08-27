@@ -1,0 +1,20 @@
+{
+    "zip": 98685,
+    "lat": 45.71596,
+    "lng": -122.69105,
+    "city": "Vancouver",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30044.0,
+    "density": 1133.9,
+    "county_fips": 53011,
+    "county_name": "Clark",
+    "county_weights": "{\"53011\": 100}",
+    "county_names_all": "Clark",
+    "county_fips_all": "53011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

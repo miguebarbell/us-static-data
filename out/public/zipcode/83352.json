@@ -1,0 +1,20 @@
+{
+    "zip": 83352,
+    "lat": 43.05133,
+    "lng": -114.40584,
+    "city": "Shoshone",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3143.0,
+    "density": 5.6,
+    "county_fips": 16063,
+    "county_name": "Lincoln",
+    "county_weights": "{\"16063\": 87.04, \"16025\": 10.91, \"16013\": 2.05}",
+    "county_names_all": "Lincoln|Camas|Blaine",
+    "county_fips_all": "16063|16025|16013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

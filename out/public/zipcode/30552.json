@@ -1,0 +1,20 @@
+{
+    "zip": 30552,
+    "lat": 34.76965,
+    "lng": -83.44575,
+    "city": "Lakemont",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1834.0,
+    "density": 12.7,
+    "county_fips": 13241,
+    "county_name": "Rabun",
+    "county_weights": "{\"13241\": 100}",
+    "county_names_all": "Rabun",
+    "county_fips_all": "13241",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

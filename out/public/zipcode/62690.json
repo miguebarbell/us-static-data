@@ -1,0 +1,20 @@
+{
+    "zip": 62690,
+    "lat": 39.50572,
+    "lng": -89.76662,
+    "city": "Virden",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3878.0,
+    "density": 26.7,
+    "county_fips": 17117,
+    "county_name": "Macoupin",
+    "county_weights": "{\"17117\": 62.72, \"17135\": 21.05, \"17167\": 16.23}",
+    "county_names_all": "Macoupin|Montgomery|Sangamon",
+    "county_fips_all": "17117|17135|17167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

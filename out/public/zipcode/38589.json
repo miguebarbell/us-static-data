@@ -1,0 +1,20 @@
+{
+    "zip": 38589,
+    "lat": 36.28551,
+    "lng": -85.07624,
+    "city": "Wilder",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 476.0,
+    "density": 6.1,
+    "county_fips": 47049,
+    "county_name": "Fentress",
+    "county_weights": "{\"47049\": 90.74, \"47133\": 9.26}",
+    "county_names_all": "Fentress|Overton",
+    "county_fips_all": "47049|47133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 42141,
+    "lat": 36.94883,
+    "lng": -85.91489,
+    "city": "Glasgow",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32133.0,
+    "density": 46.2,
+    "county_fips": 21009,
+    "county_name": "Barren",
+    "county_weights": "{\"21009\": 100}",
+    "county_names_all": "Barren",
+    "county_fips_all": "21009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

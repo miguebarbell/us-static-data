@@ -1,0 +1,20 @@
+{
+    "zip": 30425,
+    "lat": 32.64732,
+    "lng": -82.02337,
+    "city": "Garfield",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1428.0,
+    "density": 7.0,
+    "county_fips": 13107,
+    "county_name": "Emanuel",
+    "county_weights": "{\"13107\": 50.46, \"13165\": 37.04, \"13031\": 12.5}",
+    "county_names_all": "Emanuel|Jenkins|Bulloch",
+    "county_fips_all": "13107|13165|13031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

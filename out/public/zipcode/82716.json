@@ -1,0 +1,20 @@
+{
+    "zip": 82716,
+    "lat": 44.54033,
+    "lng": -105.64601,
+    "city": "Gillette",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17091.0,
+    "density": 5.6,
+    "county_fips": 56005,
+    "county_name": "Campbell",
+    "county_weights": "{\"56005\": 100}",
+    "county_names_all": "Campbell",
+    "county_fips_all": "56005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

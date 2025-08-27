@@ -1,0 +1,20 @@
+{
+    "zip": 21623,
+    "lat": 39.11915,
+    "lng": -75.96268,
+    "city": "Church Hill",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2482.0,
+    "density": 26.4,
+    "county_fips": 24035,
+    "county_name": "Queen Anne's",
+    "county_weights": "{\"24035\": 100}",
+    "county_names_all": "Queen Anne's",
+    "county_fips_all": "24035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 14150,
+    "lat": 42.99794,
+    "lng": -78.87815,
+    "city": "Tonawanda",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41585.0,
+    "density": 1080.1,
+    "county_fips": 36029,
+    "county_name": "Erie",
+    "county_weights": "{\"36029\": 100}",
+    "county_names_all": "Erie",
+    "county_fips_all": "36029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

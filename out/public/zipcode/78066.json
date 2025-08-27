@@ -1,0 +1,20 @@
+{
+    "zip": 78066,
+    "lat": 29.49065,
+    "lng": -98.89042,
+    "city": "Rio Medina",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 387.0,
+    "density": 6.7,
+    "county_fips": 48325,
+    "county_name": "Medina",
+    "county_weights": "{\"48325\": 100}",
+    "county_names_all": "Medina",
+    "county_fips_all": "48325",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

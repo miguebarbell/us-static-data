@@ -1,0 +1,20 @@
+{
+    "zip": 37180,
+    "lat": 35.6189,
+    "lng": -86.57679,
+    "city": "Unionville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3831.0,
+    "density": 43.9,
+    "county_fips": 47003,
+    "county_name": "Bedford",
+    "county_weights": "{\"47003\": 92.27, \"47149\": 7.23, \"47117\": 0.5}",
+    "county_names_all": "Bedford|Rutherford|Marshall",
+    "county_fips_all": "47003|47149|47117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

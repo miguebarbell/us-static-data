@@ -1,0 +1,20 @@
+{
+    "zip": 86022,
+    "lat": 36.7702,
+    "lng": -112.5449,
+    "city": "Fredonia",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1565.0,
+    "density": 0.8,
+    "county_fips": 4005,
+    "county_name": "Coconino",
+    "county_weights": "{\"04005\": 67.58, \"04015\": 32.42}",
+    "county_names_all": "Coconino|Mohave",
+    "county_fips_all": "04005|04015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

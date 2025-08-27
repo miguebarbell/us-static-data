@@ -1,0 +1,20 @@
+{
+    "zip": 49111,
+    "lat": 42.02544,
+    "lng": -86.28621,
+    "city": "Eau Claire",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3121.0,
+    "density": 27.7,
+    "county_fips": 26021,
+    "county_name": "Berrien",
+    "county_weights": "{\"26021\": 95.95, \"26027\": 4.05}",
+    "county_names_all": "Berrien|Cass",
+    "county_fips_all": "26021|26027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

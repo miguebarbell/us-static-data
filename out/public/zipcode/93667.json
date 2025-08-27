@@ -1,0 +1,20 @@
+{
+    "zip": 93667,
+    "lat": 36.96585,
+    "lng": -119.31511,
+    "city": "Tollhouse",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2118.0,
+    "density": 6.9,
+    "county_fips": 6019,
+    "county_name": "Fresno",
+    "county_weights": "{\"06019\": 100}",
+    "county_names_all": "Fresno",
+    "county_fips_all": "06019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

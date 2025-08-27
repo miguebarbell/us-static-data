@@ -1,0 +1,20 @@
+{
+    "zip": 61760,
+    "lat": 40.88713,
+    "lng": -89.03263,
+    "city": "Minonk",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2240.0,
+    "density": 12.4,
+    "county_fips": 17203,
+    "county_name": "Woodford",
+    "county_weights": "{\"17203\": 92.2, \"17123\": 7.8}",
+    "county_names_all": "Woodford|Marshall",
+    "county_fips_all": "17203|17123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

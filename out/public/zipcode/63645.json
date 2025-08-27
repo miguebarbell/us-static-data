@@ -1,0 +1,20 @@
+{
+    "zip": 63645,
+    "lat": 37.54204,
+    "lng": -90.32428,
+    "city": "Fredericktown",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11514.0,
+    "density": 12.4,
+    "county_fips": 29123,
+    "county_name": "Madison",
+    "county_weights": "{\"29123\": 87.49, \"29187\": 8.25, \"29186\": 4.26}",
+    "county_names_all": "Madison|St. Francois|Ste. Genevieve",
+    "county_fips_all": "29123|29187|29186",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

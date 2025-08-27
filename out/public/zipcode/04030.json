@@ -1,0 +1,20 @@
+{
+    "zip": 4030,
+    "lat": 43.59301,
+    "lng": -70.69553,
+    "city": "East Waterboro",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2795.0,
+    "density": 70.2,
+    "county_fips": 23031,
+    "county_name": "York",
+    "county_weights": "{\"23031\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "23031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

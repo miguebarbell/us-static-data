@@ -1,0 +1,20 @@
+{
+    "zip": 60939,
+    "lat": 40.56696,
+    "lng": -87.77714,
+    "city": "Goodwine",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 17075,
+    "county_name": "Iroquois",
+    "county_weights": "{\"17075\": 100}",
+    "county_names_all": "Iroquois",
+    "county_fips_all": "17075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

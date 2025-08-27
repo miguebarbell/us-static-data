@@ -1,0 +1,20 @@
+{
+    "zip": 40440,
+    "lat": 37.57628,
+    "lng": -84.8322,
+    "city": "Junction City",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2301.0,
+    "density": 67.3,
+    "county_fips": 21021,
+    "county_name": "Boyle",
+    "county_weights": "{\"21021\": 99.88, \"21137\": 0.12}",
+    "county_names_all": "Boyle|Lincoln",
+    "county_fips_all": "21021|21137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

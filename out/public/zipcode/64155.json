@@ -1,0 +1,20 @@
+{
+    "zip": 64155,
+    "lat": 39.28031,
+    "lng": -94.56801,
+    "city": "Kansas City",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28754.0,
+    "density": 760.5,
+    "county_fips": 29047,
+    "county_name": "Clay",
+    "county_weights": "{\"29047\": 99.58, \"29165\": 0.42}",
+    "county_names_all": "Clay|Platte",
+    "county_fips_all": "29047|29165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

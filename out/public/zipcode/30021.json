@@ -1,0 +1,20 @@
+{
+    "zip": 30021,
+    "lat": 33.80803,
+    "lng": -84.23909,
+    "city": "Clarkston",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26386.0,
+    "density": 2849.3,
+    "county_fips": 13089,
+    "county_name": "DeKalb",
+    "county_weights": "{\"13089\": 100}",
+    "county_names_all": "DeKalb",
+    "county_fips_all": "13089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

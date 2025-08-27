@@ -1,0 +1,20 @@
+{
+    "zip": 58563,
+    "lat": 46.90178,
+    "lng": -101.43257,
+    "city": "New Salem",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1850.0,
+    "density": 1.3,
+    "county_fips": 38059,
+    "county_name": "Morton",
+    "county_weights": "{\"38059\": 68.14, \"38065\": 30.17, \"38037\": 1.69}",
+    "county_names_all": "Morton|Oliver|Grant",
+    "county_fips_all": "38059|38065|38037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/North_Dakota/New_Salem"
+}

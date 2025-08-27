@@ -1,0 +1,20 @@
+{
+    "zip": 22066,
+    "lat": 39.01032,
+    "lng": -77.30258,
+    "city": "Great Falls",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16884.0,
+    "density": 254.8,
+    "county_fips": 51059,
+    "county_name": "Fairfax",
+    "county_weights": "{\"51059\": 99.12, \"51107\": 0.88}",
+    "county_names_all": "Fairfax|Loudoun",
+    "county_fips_all": "51059|51107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

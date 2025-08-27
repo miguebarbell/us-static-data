@@ -1,0 +1,20 @@
+{
+    "zip": 39113,
+    "lat": 32.82707,
+    "lng": -91.06476,
+    "city": "Mayersville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 205.0,
+    "density": 2.9,
+    "county_fips": 28055,
+    "county_name": "Issaquena",
+    "county_weights": "{\"28055\": 100}",
+    "county_names_all": "Issaquena",
+    "county_fips_all": "28055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

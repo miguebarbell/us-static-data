@@ -1,0 +1,20 @@
+{
+    "zip": 72104,
+    "lat": 34.34774,
+    "lng": -92.81814,
+    "city": "Malvern",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23222.0,
+    "density": 27.5,
+    "county_fips": 5059,
+    "county_name": "Hot Spring",
+    "county_weights": "{\"05059\": 95.29, \"05051\": 2.72, \"05125\": 1.31, \"05053\": 0.68}",
+    "county_names_all": "Hot Spring|Garland|Saline|Grant",
+    "county_fips_all": "05059|05051|05125|05053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

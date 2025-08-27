@@ -1,0 +1,20 @@
+{
+    "zip": 70342,
+    "lat": 29.69486,
+    "lng": -91.23772,
+    "city": "Berwick",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4732.0,
+    "density": 244.9,
+    "county_fips": 22101,
+    "county_name": "St. Mary",
+    "county_weights": "{\"22101\": 100}",
+    "county_names_all": "St. Mary",
+    "county_fips_all": "22101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

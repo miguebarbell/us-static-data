@@ -1,0 +1,20 @@
+{
+    "zip": 68651,
+    "lat": 41.22443,
+    "lng": -97.57472,
+    "city": "Osceola",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1293.0,
+    "density": 4.1,
+    "county_fips": 31143,
+    "county_name": "Polk",
+    "county_weights": "{\"31143\": 100}",
+    "county_names_all": "Polk",
+    "county_fips_all": "31143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

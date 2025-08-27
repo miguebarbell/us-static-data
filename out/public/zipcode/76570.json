@@ -1,0 +1,20 @@
+{
+    "zip": 76570,
+    "lat": 31.0818,
+    "lng": -96.94173,
+    "city": "Rosebud",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2506.0,
+    "density": 5.4,
+    "county_fips": 48145,
+    "county_name": "Falls",
+    "county_weights": "{\"48145\": 66.65, \"48331\": 32.93, \"48027\": 0.42}",
+    "county_names_all": "Falls|Milam|Bell",
+    "county_fips_all": "48145|48331|48027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

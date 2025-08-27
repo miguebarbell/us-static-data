@@ -1,0 +1,20 @@
+{
+    "zip": 88027,
+    "lat": 32.03625,
+    "lng": -106.68143,
+    "city": "Chamberino",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 589.0,
+    "density": 112.1,
+    "county_fips": 35013,
+    "county_name": "Do\u00f1a Ana",
+    "county_weights": "{\"35013\": 100}",
+    "county_names_all": "Do\u00f1a Ana",
+    "county_fips_all": "35013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

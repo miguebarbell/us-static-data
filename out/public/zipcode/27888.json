@@ -1,0 +1,20 @@
+{
+    "zip": 27888,
+    "lat": 35.59589,
+    "lng": -77.70448,
+    "city": "Walstonburg",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1904.0,
+    "density": 13.0,
+    "county_fips": 37079,
+    "county_name": "Greene",
+    "county_weights": "{\"37079\": 72.92, \"37195\": 17.01, \"37147\": 10.07}",
+    "county_names_all": "Greene|Wilson|Pitt",
+    "county_fips_all": "37079|37195|37147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

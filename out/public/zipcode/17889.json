@@ -1,0 +1,20 @@
+{
+    "zip": 17889,
+    "lat": 40.88228,
+    "lng": -76.9143,
+    "city": "Winfield",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2906.0,
+    "density": 45.6,
+    "county_fips": 42109,
+    "county_name": "Snyder",
+    "county_weights": "{\"42109\": 58.96, \"42119\": 41.04}",
+    "county_names_all": "Snyder|Union",
+    "county_fips_all": "42109|42119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

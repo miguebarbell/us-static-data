@@ -1,0 +1,20 @@
+{
+    "zip": 99653,
+    "lat": 60.16884,
+    "lng": -154.32328,
+    "city": "Port Alsworth",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 174.0,
+    "density": 3.0,
+    "county_fips": 2164,
+    "county_name": "Lake and Peninsula",
+    "county_weights": "{\"02164\": 100}",
+    "county_names_all": "Lake and Peninsula",
+    "county_fips_all": "02164",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

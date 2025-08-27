@@ -1,0 +1,20 @@
+{
+    "zip": 80471,
+    "lat": 39.93507,
+    "lng": -105.42048,
+    "city": "Pinecliffe",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 8013,
+    "county_name": "Boulder",
+    "county_weights": "{\"08013\": 99.63, \"08047\": 0.37}",
+    "county_names_all": "Boulder|Gilpin",
+    "county_fips_all": "08013|08047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

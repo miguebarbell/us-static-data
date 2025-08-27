@@ -1,0 +1,20 @@
+{
+    "zip": 54656,
+    "lat": 44.00291,
+    "lng": -90.79601,
+    "city": "Sparta",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18068.0,
+    "density": 24.7,
+    "county_fips": 55081,
+    "county_name": "Monroe",
+    "county_weights": "{\"55081\": 99.89, \"55063\": 0.11}",
+    "county_names_all": "Monroe|La Crosse",
+    "county_fips_all": "55081|55063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

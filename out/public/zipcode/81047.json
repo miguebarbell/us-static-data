@@ -1,0 +1,20 @@
+{
+    "zip": 81047,
+    "lat": 38.03226,
+    "lng": -102.19206,
+    "city": "Holly",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1565.0,
+    "density": 1.0,
+    "county_fips": 8099,
+    "county_name": "Prowers",
+    "county_weights": "{\"08099\": 96.36, \"08061\": 3.64}",
+    "county_names_all": "Prowers|Kiowa",
+    "county_fips_all": "08099|08061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

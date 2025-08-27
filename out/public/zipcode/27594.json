@@ -1,0 +1,20 @@
+{
+    "zip": 27594,
+    "lat": 36.47294,
+    "lng": -78.16622,
+    "city": "Wise",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 75.0,
+    "density": 21.1,
+    "county_fips": 37185,
+    "county_name": "Warren",
+    "county_weights": "{\"37185\": 100}",
+    "county_names_all": "Warren",
+    "county_fips_all": "37185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

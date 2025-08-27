@@ -1,0 +1,20 @@
+{
+    "zip": 77865,
+    "lat": 31.22275,
+    "lng": -96.22553,
+    "city": "Marquez",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1818.0,
+    "density": 4.5,
+    "county_fips": 48289,
+    "county_name": "Leon",
+    "county_weights": "{\"48289\": 100}",
+    "county_names_all": "Leon",
+    "county_fips_all": "48289",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

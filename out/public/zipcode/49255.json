@@ -1,0 +1,20 @@
+{
+    "zip": 49255,
+    "lat": 41.77152,
+    "lng": -84.85499,
+    "city": "Montgomery",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2148.0,
+    "density": 20.8,
+    "county_fips": 26023,
+    "county_name": "Branch",
+    "county_weights": "{\"26023\": 60.89, \"26059\": 39.11}",
+    "county_names_all": "Branch|Hillsdale",
+    "county_fips_all": "26023|26059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

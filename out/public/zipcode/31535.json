@@ -1,0 +1,20 @@
+{
+    "zip": 31535,
+    "lat": 31.45841,
+    "lng": -82.86504,
+    "city": "Douglas",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12191.0,
+    "density": 50.1,
+    "county_fips": 13069,
+    "county_name": "Coffee",
+    "county_weights": "{\"13069\": 100}",
+    "county_names_all": "Coffee",
+    "county_fips_all": "13069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

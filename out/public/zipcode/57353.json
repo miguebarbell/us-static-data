@@ -1,0 +1,20 @@
+{
+    "zip": 57353,
+    "lat": 44.36944,
+    "lng": -97.83438,
+    "city": "Iroquois",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 925.0,
+    "density": 1.2,
+    "county_fips": 46077,
+    "county_name": "Kingsbury",
+    "county_weights": "{\"46077\": 55.78, \"46005\": 41.21, \"46025\": 3.01}",
+    "county_names_all": "Kingsbury|Beadle|Clark",
+    "county_fips_all": "46077|46005|46025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

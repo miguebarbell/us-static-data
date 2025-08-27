@@ -1,0 +1,20 @@
+{
+    "zip": 49267,
+    "lat": 41.75979,
+    "lng": -83.72341,
+    "city": "Ottawa Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3947.0,
+    "density": 39.1,
+    "county_fips": 26115,
+    "county_name": "Monroe",
+    "county_weights": "{\"26115\": 79.25, \"26091\": 20.75}",
+    "county_names_all": "Monroe|Lenawee",
+    "county_fips_all": "26115|26091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

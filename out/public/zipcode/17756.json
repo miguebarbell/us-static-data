@@ -1,0 +1,20 @@
+{
+    "zip": 17756,
+    "lat": 41.20841,
+    "lng": -76.73325,
+    "city": "Muncy",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12525.0,
+    "density": 44.9,
+    "county_fips": 42081,
+    "county_name": "Lycoming",
+    "county_weights": "{\"42081\": 81.92, \"42097\": 13.29, \"42093\": 2.8, \"42037\": 1.99}",
+    "county_names_all": "Lycoming|Northumberland|Montour|Columbia",
+    "county_fips_all": "42081|42097|42093|42037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 66512,
+    "lat": 39.20255,
+    "lng": -95.54701,
+    "city": "Meriden",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3476.0,
+    "density": 20.1,
+    "county_fips": 20087,
+    "county_name": "Jefferson",
+    "county_weights": "{\"20087\": 84.11, \"20085\": 11.12, \"20177\": 4.77}",
+    "county_names_all": "Jefferson|Jackson|Shawnee",
+    "county_fips_all": "20087|20085|20177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

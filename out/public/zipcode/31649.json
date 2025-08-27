@@ -1,0 +1,20 @@
+{
+    "zip": 31649,
+    "lat": 30.94349,
+    "lng": -83.00781,
+    "city": "Stockton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 940.0,
+    "density": 11.6,
+    "county_fips": 13173,
+    "county_name": "Lanier",
+    "county_weights": "{\"13173\": 97.85, \"13101\": 2.15}",
+    "county_names_all": "Lanier|Echols",
+    "county_fips_all": "13173|13101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

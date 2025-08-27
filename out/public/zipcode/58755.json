@@ -1,0 +1,20 @@
+{
+    "zip": 58755,
+    "lat": 48.62857,
+    "lng": -102.94666,
+    "city": "Mcgregor",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 208.0,
+    "density": 0.9,
+    "county_fips": 38105,
+    "county_name": "Williams",
+    "county_weights": "{\"38105\": 43.89, \"38023\": 43.04, \"38013\": 13.07}",
+    "county_names_all": "Williams|Divide|Burke",
+    "county_fips_all": "38105|38023|38013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

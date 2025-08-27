@@ -1,0 +1,20 @@
+{
+    "zip": 17090,
+    "lat": 40.32953,
+    "lng": -77.18302,
+    "city": "Shermans Dale",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5342.0,
+    "density": 63.8,
+    "county_fips": 42099,
+    "county_name": "Perry",
+    "county_weights": "{\"42099\": 100}",
+    "county_names_all": "Perry",
+    "county_fips_all": "42099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

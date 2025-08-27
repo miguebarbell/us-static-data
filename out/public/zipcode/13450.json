@@ -1,0 +1,20 @@
+{
+    "zip": 13450,
+    "lat": 42.7026,
+    "lng": -74.81263,
+    "city": "Roseboom",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 251.0,
+    "density": 28.6,
+    "county_fips": 36077,
+    "county_name": "Otsego",
+    "county_weights": "{\"36077\": 100}",
+    "county_names_all": "Otsego",
+    "county_fips_all": "36077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

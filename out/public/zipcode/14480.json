@@ -1,0 +1,20 @@
+{
+    "zip": 14480,
+    "lat": 42.83809,
+    "lng": -77.70736,
+    "city": "Lakeville",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 532.0,
+    "density": 160.7,
+    "county_fips": 36051,
+    "county_name": "Livingston",
+    "county_weights": "{\"36051\": 100}",
+    "county_names_all": "Livingston",
+    "county_fips_all": "36051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

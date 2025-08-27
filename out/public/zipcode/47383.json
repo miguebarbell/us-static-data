@@ -1,0 +1,20 @@
+{
+    "zip": 47383,
+    "lat": 40.15123,
+    "lng": -85.26399,
+    "city": "Selma",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2564.0,
+    "density": 31.0,
+    "county_fips": 18035,
+    "county_name": "Delaware",
+    "county_weights": "{\"18035\": 100}",
+    "county_names_all": "Delaware",
+    "county_fips_all": "18035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

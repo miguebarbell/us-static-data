@@ -1,0 +1,20 @@
+{
+    "zip": 41052,
+    "lat": 38.65914,
+    "lng": -84.77777,
+    "city": "Jonesville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 279.0,
+    "density": 10.3,
+    "county_fips": 21081,
+    "county_name": "Grant",
+    "county_weights": "{\"21081\": 53.09, \"21187\": 46.91}",
+    "county_names_all": "Grant|Owen",
+    "county_fips_all": "21081|21187",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

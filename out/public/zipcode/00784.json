@@ -1,0 +1,20 @@
+{
+    "zip": 784,
+    "lat": 18.00558,
+    "lng": -66.13651,
+    "city": "Guayama",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35405.0,
+    "density": 204.8,
+    "county_fips": 72057,
+    "county_name": "Guayama",
+    "county_weights": "{\"72057\": 97.13, \"72035\": 1.63, \"72109\": 1.24}",
+    "county_names_all": "Guayama|Cayey|Patillas",
+    "county_fips_all": "72057|72035|72109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

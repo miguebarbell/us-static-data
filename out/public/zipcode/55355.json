@@ -1,0 +1,20 @@
+{
+    "zip": 55355,
+    "lat": 45.09709,
+    "lng": -94.54017,
+    "city": "Litchfield",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9629.0,
+    "density": 21.6,
+    "county_fips": 27093,
+    "county_name": "Meeker",
+    "county_weights": "{\"27093\": 100}",
+    "county_names_all": "Meeker",
+    "county_fips_all": "27093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

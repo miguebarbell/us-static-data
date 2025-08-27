@@ -1,0 +1,20 @@
+{
+    "zip": 79072,
+    "lat": 34.1719,
+    "lng": -101.745,
+    "city": "Plainview",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25596.0,
+    "density": 25.0,
+    "county_fips": 48189,
+    "county_name": "Hale",
+    "county_weights": "{\"48189\": 100}",
+    "county_names_all": "Hale",
+    "county_fips_all": "48189",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

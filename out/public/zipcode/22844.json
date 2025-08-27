@@ -1,0 +1,20 @@
+{
+    "zip": 22844,
+    "lat": 38.65886,
+    "lng": -78.66038,
+    "city": "New Market",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4674.0,
+    "density": 36.4,
+    "county_fips": 51171,
+    "county_name": "Shenandoah",
+    "county_weights": "{\"51171\": 80.82, \"51165\": 19.18}",
+    "county_names_all": "Shenandoah|Rockingham",
+    "county_fips_all": "51171|51165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

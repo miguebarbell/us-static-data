@@ -1,0 +1,20 @@
+{
+    "zip": 6027,
+    "lat": 42.00403,
+    "lng": -72.91112,
+    "city": "East Hartland",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1376.0,
+    "density": 33.7,
+    "county_fips": 9160,
+    "county_name": "Northwest Hills",
+    "county_weights": "{\"09160\": 100}",
+    "county_names_all": "Northwest Hills",
+    "county_fips_all": "09160",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

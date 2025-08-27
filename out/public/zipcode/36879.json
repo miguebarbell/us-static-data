@@ -1,0 +1,20 @@
+{
+    "zip": 36879,
+    "lat": 32.73091,
+    "lng": -85.55449,
+    "city": "Waverly",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2975.0,
+    "density": 13.2,
+    "county_fips": 1017,
+    "county_name": "Chambers",
+    "county_weights": "{\"01017\": 48.32, \"01081\": 46.18, \"01123\": 5.51}",
+    "county_names_all": "Chambers|Lee|Tallapoosa",
+    "county_fips_all": "01017|01081|01123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

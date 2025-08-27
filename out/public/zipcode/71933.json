@@ -1,0 +1,20 @@
+{
+    "zip": 71933,
+    "lat": 34.41037,
+    "lng": -93.39124,
+    "city": "Bonnerdale",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1162.0,
+    "density": 5.8,
+    "county_fips": 5051,
+    "county_name": "Garland",
+    "county_weights": "{\"05051\": 37.39, \"05097\": 34.96, \"05059\": 27.65}",
+    "county_names_all": "Garland|Montgomery|Hot Spring",
+    "county_fips_all": "05051|05097|05059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

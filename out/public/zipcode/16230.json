@@ -1,0 +1,20 @@
+{
+    "zip": 16230,
+    "lat": 41.02099,
+    "lng": -79.27817,
+    "city": "Hawthorn",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 485.0,
+    "density": 182.7,
+    "county_fips": 42031,
+    "county_name": "Clarion",
+    "county_weights": "{\"42031\": 99.56, \"42005\": 0.44}",
+    "county_names_all": "Clarion|Armstrong",
+    "county_fips_all": "42031|42005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

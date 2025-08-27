@@ -1,0 +1,20 @@
+{
+    "zip": 77876,
+    "lat": 30.60369,
+    "lng": -95.85656,
+    "city": "Shiro",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 144.0,
+    "density": 11.4,
+    "county_fips": 48185,
+    "county_name": "Grimes",
+    "county_weights": "{\"48185\": 100}",
+    "county_names_all": "Grimes",
+    "county_fips_all": "48185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

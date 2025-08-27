@@ -1,0 +1,20 @@
+{
+    "zip": 72634,
+    "lat": 36.23693,
+    "lng": -92.54891,
+    "city": "Flippin",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4755.0,
+    "density": 18.3,
+    "county_fips": 5089,
+    "county_name": "Marion",
+    "county_weights": "{\"05089\": 100}",
+    "county_names_all": "Marion",
+    "county_fips_all": "05089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 52531,
+    "lat": 41.02684,
+    "lng": -92.81562,
+    "city": "Albia",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5885.0,
+    "density": 10.2,
+    "county_fips": 19135,
+    "county_name": "Monroe",
+    "county_weights": "{\"19135\": 99.05, \"19179\": 0.95}",
+    "county_names_all": "Monroe|Wapello",
+    "county_fips_all": "19135|19179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

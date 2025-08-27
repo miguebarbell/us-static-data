@@ -1,0 +1,20 @@
+{
+    "zip": 71497,
+    "lat": 31.74902,
+    "lng": -93.09795,
+    "city": "Natchitoches",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1729.0,
+    "density": 1334.5,
+    "county_fips": 22069,
+    "county_name": "Natchitoches",
+    "county_weights": "{\"22069\": 100}",
+    "county_names_all": "Natchitoches",
+    "county_fips_all": "22069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

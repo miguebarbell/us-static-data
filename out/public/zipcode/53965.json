@@ -1,0 +1,20 @@
+{
+    "zip": 53965,
+    "lat": 43.67651,
+    "lng": -89.75681,
+    "city": "Wisconsin Dells",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11197.0,
+    "density": 25.6,
+    "county_fips": 55001,
+    "county_name": "Adams",
+    "county_weights": "{\"55001\": 55.37, \"55021\": 20.93, \"55111\": 16.65, \"55057\": 7.05}",
+    "county_names_all": "Adams|Columbia|Sauk|Juneau",
+    "county_fips_all": "55001|55021|55111|55057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

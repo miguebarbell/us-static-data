@@ -1,0 +1,20 @@
+{
+    "zip": 77445,
+    "lat": 30.09562,
+    "lng": -96.06247,
+    "city": "Hempstead",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14943.0,
+    "density": 31.1,
+    "county_fips": 48473,
+    "county_name": "Waller",
+    "county_weights": "{\"48473\": 100}",
+    "county_names_all": "Waller",
+    "county_fips_all": "48473",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

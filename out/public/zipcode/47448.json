@@ -1,0 +1,20 @@
+{
+    "zip": 47448,
+    "lat": 39.17531,
+    "lng": -86.24481,
+    "city": "Nashville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7719.0,
+    "density": 15.9,
+    "county_fips": 18013,
+    "county_name": "Brown",
+    "county_weights": "{\"18013\": 97.31, \"18105\": 1.67, \"18005\": 1.02}",
+    "county_names_all": "Brown|Monroe|Bartholomew",
+    "county_fips_all": "18013|18105|18005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

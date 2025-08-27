@@ -1,0 +1,20 @@
+{
+    "zip": 29932,
+    "lat": 32.82529,
+    "lng": -81.34853,
+    "city": "Luray",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 229.0,
+    "density": 1.3,
+    "county_fips": 45005,
+    "county_name": "Allendale",
+    "county_weights": "{\"45005\": 88.73, \"45049\": 11.27}",
+    "county_names_all": "Allendale|Hampton",
+    "county_fips_all": "45005|45049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

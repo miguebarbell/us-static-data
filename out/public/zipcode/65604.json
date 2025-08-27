@@ -1,0 +1,20 @@
+{
+    "zip": 65604,
+    "lat": 37.27348,
+    "lng": -93.60367,
+    "city": "Ash Grove",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3909.0,
+    "density": 17.3,
+    "county_fips": 29077,
+    "county_name": "Greene",
+    "county_weights": "{\"29077\": 59.15, \"29109\": 33.06, \"29057\": 7.79}",
+    "county_names_all": "Greene|Lawrence|Dade",
+    "county_fips_all": "29077|29109|29057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

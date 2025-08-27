@@ -1,0 +1,20 @@
+{
+    "zip": 34705,
+    "lat": 28.69367,
+    "lng": -81.71138,
+    "city": "Astatula",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3212.0,
+    "density": 62.4,
+    "county_fips": 12069,
+    "county_name": "Lake",
+    "county_weights": "{\"12069\": 100}",
+    "county_names_all": "Lake",
+    "county_fips_all": "12069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

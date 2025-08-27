@@ -1,0 +1,20 @@
+{
+    "zip": 15437,
+    "lat": 39.79202,
+    "lng": -79.59846,
+    "city": "Farmington",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2579.0,
+    "density": 15.4,
+    "county_fips": 42051,
+    "county_name": "Fayette",
+    "county_weights": "{\"42051\": 100}",
+    "county_names_all": "Fayette",
+    "county_fips_all": "42051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

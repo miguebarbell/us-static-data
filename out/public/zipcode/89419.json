@@ -1,0 +1,20 @@
+{
+    "zip": 89419,
+    "lat": 40.34309,
+    "lng": -118.29831,
+    "city": "Lovelock",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5043.0,
+    "density": 4.7,
+    "county_fips": 32027,
+    "county_name": "Pershing",
+    "county_weights": "{\"32027\": 100}",
+    "county_names_all": "Pershing",
+    "county_fips_all": "32027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

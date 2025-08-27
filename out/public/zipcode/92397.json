@@ -1,0 +1,20 @@
+{
+    "zip": 92397,
+    "lat": 34.36212,
+    "lng": -117.69136,
+    "city": "Wrightwood",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5699.0,
+    "density": 46.2,
+    "county_fips": 6037,
+    "county_name": "Los Angeles",
+    "county_weights": "{\"06037\": 66.3, \"06071\": 33.7}",
+    "county_names_all": "Los Angeles|San Bernardino",
+    "county_fips_all": "06037|06071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

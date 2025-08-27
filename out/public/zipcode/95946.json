@@ -1,0 +1,20 @@
+{
+    "zip": 95946,
+    "lat": 39.21052,
+    "lng": -121.20467,
+    "city": "Penn Valley",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9448.0,
+    "density": 81.6,
+    "county_fips": 6057,
+    "county_name": "Nevada",
+    "county_weights": "{\"06057\": 100}",
+    "county_names_all": "Nevada",
+    "county_fips_all": "06057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

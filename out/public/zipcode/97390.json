@@ -1,0 +1,20 @@
+{
+    "zip": 97390,
+    "lat": 44.33781,
+    "lng": -123.85717,
+    "city": "Tidewater",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 708.0,
+    "density": 2.2,
+    "county_fips": 41041,
+    "county_name": "Lincoln",
+    "county_weights": "{\"41041\": 67.25, \"41039\": 32.75}",
+    "county_names_all": "Lincoln|Lane",
+    "county_fips_all": "41041|41039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

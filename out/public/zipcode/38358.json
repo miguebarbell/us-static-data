@@ -1,0 +1,20 @@
+{
+    "zip": 38358,
+    "lat": 35.91661,
+    "lng": -88.75934,
+    "city": "Milan",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12511.0,
+    "density": 58.4,
+    "county_fips": 47053,
+    "county_name": "Gibson",
+    "county_weights": "{\"47053\": 100}",
+    "county_names_all": "Gibson",
+    "county_fips_all": "47053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

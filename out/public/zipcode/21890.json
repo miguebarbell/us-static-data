@@ -1,0 +1,20 @@
+{
+    "zip": 21890,
+    "lat": 38.15673,
+    "lng": -75.6998,
+    "city": "Westover",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3248.0,
+    "density": 3572.4,
+    "county_fips": 24039,
+    "county_name": "Somerset",
+    "county_weights": "{\"24039\": 100}",
+    "county_names_all": "Somerset",
+    "county_fips_all": "24039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

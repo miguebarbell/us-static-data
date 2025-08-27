@@ -1,0 +1,20 @@
+{
+    "zip": 57268,
+    "lat": 44.56885,
+    "lng": -96.68781,
+    "city": "Toronto",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 513.0,
+    "density": 3.1,
+    "county_fips": 46039,
+    "county_name": "Deuel",
+    "county_weights": "{\"46039\": 77.94, \"46011\": 22.06}",
+    "county_names_all": "Deuel|Brookings",
+    "county_fips_all": "46039|46011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

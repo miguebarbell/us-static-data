@@ -1,0 +1,20 @@
+{
+    "zip": 93063,
+    "lat": 34.30922,
+    "lng": -118.69041,
+    "city": "Simi Valley",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 56110.0,
+    "density": 599.0,
+    "county_fips": 6111,
+    "county_name": "Ventura",
+    "county_weights": "{\"06111\": 100}",
+    "county_names_all": "Ventura",
+    "county_fips_all": "06111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

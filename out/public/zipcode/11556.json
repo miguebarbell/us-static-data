@@ -1,0 +1,20 @@
+{
+    "zip": 11556,
+    "lat": 40.71997,
+    "lng": -73.58327,
+    "city": "Uniondale",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 36059,
+    "county_name": "Nassau",
+    "county_weights": "{\"36059\": 100}",
+    "county_names_all": "Nassau",
+    "county_fips_all": "36059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

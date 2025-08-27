@@ -1,0 +1,20 @@
+{
+    "zip": 76550,
+    "lat": 31.07714,
+    "lng": -98.22165,
+    "city": "Lampasas",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13699.0,
+    "density": 9.8,
+    "county_fips": 48281,
+    "county_name": "Lampasas",
+    "county_weights": "{\"48281\": 58.37, \"48053\": 41.63}",
+    "county_names_all": "Lampasas|Burnet",
+    "county_fips_all": "48281|48053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

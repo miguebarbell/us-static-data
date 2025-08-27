@@ -1,0 +1,20 @@
+{
+    "zip": 56525,
+    "lat": 46.6716,
+    "lng": -96.75195,
+    "city": "Comstock",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 76.0,
+    "density": 25.1,
+    "county_fips": 27027,
+    "county_name": "Clay",
+    "county_weights": "{\"27027\": 100}",
+    "county_names_all": "Clay",
+    "county_fips_all": "27027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

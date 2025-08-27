@@ -1,0 +1,20 @@
+{
+    "zip": 30141,
+    "lat": 33.86244,
+    "lng": -84.77521,
+    "city": "Hiram",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25881.0,
+    "density": 361.8,
+    "county_fips": 13223,
+    "county_name": "Paulding",
+    "county_weights": "{\"13223\": 99.74, \"13067\": 0.26}",
+    "county_names_all": "Paulding|Cobb",
+    "county_fips_all": "13223|13067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

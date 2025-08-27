@@ -1,0 +1,20 @@
+{
+    "zip": 48462,
+    "lat": 42.84733,
+    "lng": -83.42576,
+    "city": "Ortonville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13010.0,
+    "density": 110.6,
+    "county_fips": 26125,
+    "county_name": "Oakland",
+    "county_weights": "{\"26125\": 90.92, \"26087\": 8.67, \"26049\": 0.41}",
+    "county_names_all": "Oakland|Lapeer|Genesee",
+    "county_fips_all": "26125|26087|26049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

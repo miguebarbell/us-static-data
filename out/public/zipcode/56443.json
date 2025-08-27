@@ -1,0 +1,20 @@
+{
+    "zip": 56443,
+    "lat": 46.1916,
+    "lng": -94.57565,
+    "city": "Cushing",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1457.0,
+    "density": 4.4,
+    "county_fips": 27097,
+    "county_name": "Morrison",
+    "county_weights": "{\"27097\": 69.31, \"27153\": 30.69}",
+    "county_names_all": "Morrison|Todd",
+    "county_fips_all": "27097|27153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

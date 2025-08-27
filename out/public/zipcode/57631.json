@@ -1,0 +1,20 @@
+{
+    "zip": 57631,
+    "lat": 45.58195,
+    "lng": -100.28779,
+    "city": "Glenham",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 365.0,
+    "density": 1.1,
+    "county_fips": 46129,
+    "county_name": "Walworth",
+    "county_weights": "{\"46129\": 50.59, \"46021\": 49.41}",
+    "county_names_all": "Walworth|Campbell",
+    "county_fips_all": "46129|46021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49901,
+    "lat": 47.29384,
+    "lng": -88.39094,
+    "city": "Ahmeek",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 227.0,
+    "density": 111.4,
+    "county_fips": 26083,
+    "county_name": "Keweenaw",
+    "county_weights": "{\"26083\": 100}",
+    "county_names_all": "Keweenaw",
+    "county_fips_all": "26083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

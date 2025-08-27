@@ -1,0 +1,20 @@
+{
+    "zip": 19934,
+    "lat": 39.08135,
+    "lng": -75.63113,
+    "city": "Camden Wyoming",
+    "state_id": "DE",
+    "state_name": "Delaware",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13579.0,
+    "density": 112.5,
+    "county_fips": 10001,
+    "county_name": "Kent",
+    "county_weights": "{\"10001\": 100}",
+    "county_names_all": "Kent",
+    "county_fips_all": "10001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

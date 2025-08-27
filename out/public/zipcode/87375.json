@@ -1,0 +1,20 @@
+{
+    "zip": 87375,
+    "lat": 35.66114,
+    "lng": -108.79477,
+    "city": "Yatahey",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4547.0,
+    "density": 10.5,
+    "county_fips": 35031,
+    "county_name": "McKinley",
+    "county_weights": "{\"35031\": 100}",
+    "county_names_all": "McKinley",
+    "county_fips_all": "35031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

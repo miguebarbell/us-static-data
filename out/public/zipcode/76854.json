@@ -1,0 +1,20 @@
+{
+    "zip": 76854,
+    "lat": 30.57125,
+    "lng": -99.53945,
+    "city": "London",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 483.0,
+    "density": 0.9,
+    "county_fips": 48267,
+    "county_name": "Kimble",
+    "county_weights": "{\"48267\": 85.78, \"48327\": 14.22}",
+    "county_names_all": "Kimble|Menard",
+    "county_fips_all": "48267|48327",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

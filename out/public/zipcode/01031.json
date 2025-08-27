@@ -1,0 +1,20 @@
+{
+    "zip": 1031,
+    "lat": 42.32782,
+    "lng": -72.19191,
+    "city": "Gilbertville",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1715.0,
+    "density": 98.3,
+    "county_fips": 25027,
+    "county_name": "Worcester",
+    "county_weights": "{\"25027\": 100}",
+    "county_names_all": "Worcester",
+    "county_fips_all": "25027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

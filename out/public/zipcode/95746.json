@@ -1,0 +1,20 @@
+{
+    "zip": 95746,
+    "lat": 38.75009,
+    "lng": -121.16712,
+    "city": "Granite Bay",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22549.0,
+    "density": 473.2,
+    "county_fips": 6061,
+    "county_name": "Placer",
+    "county_weights": "{\"06061\": 100}",
+    "county_names_all": "Placer",
+    "county_fips_all": "06061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

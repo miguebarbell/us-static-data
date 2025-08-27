@@ -1,0 +1,20 @@
+{
+    "zip": 2132,
+    "lat": 42.27931,
+    "lng": -71.16072,
+    "city": "West Roxbury",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27069.0,
+    "density": 2148.7,
+    "county_fips": 25025,
+    "county_name": "Suffolk",
+    "county_weights": "{\"25025\": 99.84, \"25021\": 0.16}",
+    "county_names_all": "Suffolk|Norfolk",
+    "county_fips_all": "25025|25021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

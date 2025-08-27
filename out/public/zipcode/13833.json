@@ -1,0 +1,20 @@
+{
+    "zip": 13833,
+    "lat": 42.19829,
+    "lng": -75.76432,
+    "city": "Port Crane",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4176.0,
+    "density": 43.8,
+    "county_fips": 36007,
+    "county_name": "Broome",
+    "county_weights": "{\"36007\": 100}",
+    "county_names_all": "Broome",
+    "county_fips_all": "36007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 61458,
+    "lat": 40.78027,
+    "lng": -90.18107,
+    "city": "Maquon",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 632.0,
+    "density": 3.0,
+    "county_fips": 17095,
+    "county_name": "Knox",
+    "county_weights": "{\"17095\": 100}",
+    "county_names_all": "Knox",
+    "county_fips_all": "17095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

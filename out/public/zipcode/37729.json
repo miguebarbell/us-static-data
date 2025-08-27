@@ -1,0 +1,20 @@
+{
+    "zip": 37729,
+    "lat": 36.51412,
+    "lng": -84.03276,
+    "city": "Duff",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1266.0,
+    "density": 9.9,
+    "county_fips": 47013,
+    "county_name": "Campbell",
+    "county_weights": "{\"47013\": 100}",
+    "county_names_all": "Campbell",
+    "county_fips_all": "47013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 58759,
+    "lat": 47.84776,
+    "lng": -101.25026,
+    "city": "Max",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 705.0,
+    "density": 1.1,
+    "county_fips": 38055,
+    "county_name": "McLean",
+    "county_weights": "{\"38055\": 52.87, \"38101\": 47.13}",
+    "county_names_all": "McLean|Ward",
+    "county_fips_all": "38055|38101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

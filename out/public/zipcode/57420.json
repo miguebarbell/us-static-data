@@ -1,0 +1,20 @@
+{
+    "zip": 57420,
+    "lat": 45.2852,
+    "lng": -100.14319,
+    "city": "Akaska",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 221.0,
+    "density": 1.9,
+    "county_fips": 46129,
+    "county_name": "Walworth",
+    "county_weights": "{\"46129\": 100}",
+    "county_names_all": "Walworth",
+    "county_fips_all": "46129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

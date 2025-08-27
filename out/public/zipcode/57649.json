@@ -1,0 +1,20 @@
+{
+    "zip": 57649,
+    "lat": 45.48999,
+    "lng": -102.86149,
+    "city": "Prairie City",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 273.0,
+    "density": 0.2,
+    "county_fips": 46105,
+    "county_name": "Perkins",
+    "county_weights": "{\"46105\": 75.72, \"46063\": 24.28}",
+    "county_names_all": "Perkins|Harding",
+    "county_fips_all": "46105|46063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

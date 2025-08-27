@@ -1,0 +1,20 @@
+{
+    "zip": 95970,
+    "lat": 39.41159,
+    "lng": -122.05176,
+    "city": "Princeton",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 494.0,
+    "density": 5.9,
+    "county_fips": 6021,
+    "county_name": "Glenn",
+    "county_weights": "{\"06021\": 50.06, \"06011\": 49.94}",
+    "county_names_all": "Glenn|Colusa",
+    "county_fips_all": "06021|06011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

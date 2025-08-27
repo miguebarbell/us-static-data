@@ -1,0 +1,20 @@
+{
+    "zip": 55368,
+    "lat": 44.7458,
+    "lng": -93.89679,
+    "city": "Norwood Young America",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1856.0,
+    "density": 21.0,
+    "county_fips": 27019,
+    "county_name": "Carver",
+    "county_weights": "{\"27019\": 100}",
+    "county_names_all": "Carver",
+    "county_fips_all": "27019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

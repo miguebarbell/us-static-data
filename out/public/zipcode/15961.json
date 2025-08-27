@@ -1,0 +1,20 @@
+{
+    "zip": 15961,
+    "lat": 40.46187,
+    "lng": -78.9382,
+    "city": "Vintondale",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 823.0,
+    "density": 18.8,
+    "county_fips": 42063,
+    "county_name": "Indiana",
+    "county_weights": "{\"42063\": 57.21, \"42021\": 42.79}",
+    "county_names_all": "Indiana|Cambria",
+    "county_fips_all": "42063|42021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

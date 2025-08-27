@@ -1,0 +1,20 @@
+{
+    "zip": 73747,
+    "lat": 36.23358,
+    "lng": -98.33964,
+    "city": "Isabella",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 243.0,
+    "density": 1.9,
+    "county_fips": 40093,
+    "county_name": "Major",
+    "county_weights": "{\"40093\": 100}",
+    "county_names_all": "Major",
+    "county_fips_all": "40093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

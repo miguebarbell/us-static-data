@@ -1,0 +1,20 @@
+{
+    "zip": 81630,
+    "lat": 39.45769,
+    "lng": -108.54627,
+    "city": "De Beque",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1052.0,
+    "density": 0.3,
+    "county_fips": 8045,
+    "county_name": "Garfield",
+    "county_weights": "{\"08045\": 76.59, \"08077\": 23.41}",
+    "county_names_all": "Garfield|Mesa",
+    "county_fips_all": "08045|08077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

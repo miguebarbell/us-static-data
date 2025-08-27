@@ -1,0 +1,20 @@
+{
+    "zip": 99591,
+    "lat": 56.58075,
+    "lng": -169.61599,
+    "city": "Saint George Island",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 59.0,
+    "density": 0.7,
+    "county_fips": 2016,
+    "county_name": "Aleutians West",
+    "county_weights": "{\"02016\": 100}",
+    "county_names_all": "Aleutians West",
+    "county_fips_all": "02016",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Nome"
+}

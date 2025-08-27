@@ -1,0 +1,20 @@
+{
+    "zip": 48323,
+    "lat": 42.57036,
+    "lng": -83.37651,
+    "city": "West Bloomfield",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17043.0,
+    "density": 765.8,
+    "county_fips": 26125,
+    "county_name": "Oakland",
+    "county_weights": "{\"26125\": 100}",
+    "county_names_all": "Oakland",
+    "county_fips_all": "26125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

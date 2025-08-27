@@ -1,0 +1,20 @@
+{
+    "zip": 87045,
+    "lat": 35.40018,
+    "lng": -108.00182,
+    "city": "Prewitt",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2439.0,
+    "density": 5.9,
+    "county_fips": 35031,
+    "county_name": "McKinley",
+    "county_weights": "{\"35031\": 98.32, \"35006\": 1.68}",
+    "county_names_all": "McKinley|Cibola",
+    "county_fips_all": "35031|35006",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

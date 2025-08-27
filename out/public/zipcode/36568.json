@@ -1,0 +1,20 @@
+{
+    "zip": 36568,
+    "lat": 30.51291,
+    "lng": -88.27067,
+    "city": "Saint Elmo",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13.0,
+    "density": 6.6,
+    "county_fips": 1097,
+    "county_name": "Mobile",
+    "county_weights": "{\"01097\": 100}",
+    "county_names_all": "Mobile",
+    "county_fips_all": "01097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

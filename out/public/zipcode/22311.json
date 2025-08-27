@@ -1,0 +1,20 @@
+{
+    "zip": 22311,
+    "lat": 38.83442,
+    "lng": -77.12313,
+    "city": "Alexandria",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19340.0,
+    "density": 4825.0,
+    "county_fips": 51510,
+    "county_name": "Alexandria",
+    "county_weights": "{\"51510\": 76.32, \"51059\": 23.68}",
+    "county_names_all": "Alexandria|Fairfax",
+    "county_fips_all": "51510|51059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

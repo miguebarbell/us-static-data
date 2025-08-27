@@ -1,0 +1,20 @@
+{
+    "zip": 68791,
+    "lat": 41.99103,
+    "lng": -96.93245,
+    "city": "Wisner",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1998.0,
+    "density": 5.6,
+    "county_fips": 31039,
+    "county_name": "Cuming",
+    "county_weights": "{\"31039\": 94.25, \"31179\": 4.34, \"31167\": 1.41}",
+    "county_names_all": "Cuming|Wayne|Stanton",
+    "county_fips_all": "31039|31179|31167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 47358,
+    "lat": 40.05488,
+    "lng": -85.11204,
+    "city": "Modoc",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 917.0,
+    "density": 9.4,
+    "county_fips": 18135,
+    "county_name": "Randolph",
+    "county_weights": "{\"18135\": 93.57, \"18177\": 6.43}",
+    "county_names_all": "Randolph|Wayne",
+    "county_fips_all": "18135|18177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

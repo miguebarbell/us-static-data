@@ -1,0 +1,20 @@
+{
+    "zip": 21638,
+    "lat": 38.94513,
+    "lng": -76.20263,
+    "city": "Grasonville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5068.0,
+    "density": 197.7,
+    "county_fips": 24035,
+    "county_name": "Queen Anne's",
+    "county_weights": "{\"24035\": 100}",
+    "county_names_all": "Queen Anne's",
+    "county_fips_all": "24035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

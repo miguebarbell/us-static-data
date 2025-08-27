@@ -1,0 +1,20 @@
+{
+    "zip": 23148,
+    "lat": 37.84262,
+    "lng": -77.06223,
+    "city": "Saint Stephens Church",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1472.0,
+    "density": 9.8,
+    "county_fips": 51097,
+    "county_name": "King and Queen",
+    "county_weights": "{\"51097\": 93.46, \"51057\": 6.54}",
+    "county_names_all": "King and Queen|Essex",
+    "county_fips_all": "51097|51057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

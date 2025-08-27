@@ -1,0 +1,20 @@
+{
+    "zip": 65041,
+    "lat": 38.64088,
+    "lng": -91.47712,
+    "city": "Hermann",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5559.0,
+    "density": 9.0,
+    "county_fips": 29073,
+    "county_name": "Gasconade",
+    "county_weights": "{\"29073\": 70.79, \"29139\": 17.64, \"29219\": 11.57}",
+    "county_names_all": "Gasconade|Montgomery|Warren",
+    "county_fips_all": "29073|29139|29219",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

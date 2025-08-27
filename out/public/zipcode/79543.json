@@ -1,0 +1,20 @@
+{
+    "zip": 79543,
+    "lat": 32.71864,
+    "lng": -100.38724,
+    "city": "Roby",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1138.0,
+    "density": 3.4,
+    "county_fips": 48151,
+    "county_name": "Fisher",
+    "county_weights": "{\"48151\": 100}",
+    "county_names_all": "Fisher",
+    "county_fips_all": "48151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

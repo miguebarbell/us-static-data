@@ -1,0 +1,20 @@
+{
+    "zip": 13841,
+    "lat": 42.41408,
+    "lng": -75.84171,
+    "city": "Smithville Flats",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 394.0,
+    "density": 16.5,
+    "county_fips": 36017,
+    "county_name": "Chenango",
+    "county_weights": "{\"36017\": 80.48, \"36023\": 15.49, \"36007\": 4.03}",
+    "county_names_all": "Chenango|Cortland|Broome",
+    "county_fips_all": "36017|36023|36007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

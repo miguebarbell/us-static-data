@@ -1,0 +1,20 @@
+{
+    "zip": 25413,
+    "lat": 39.31632,
+    "lng": -78.053,
+    "city": "Bunker Hill",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8964.0,
+    "density": 151.4,
+    "county_fips": 54003,
+    "county_name": "Berkeley",
+    "county_weights": "{\"54003\": 100}",
+    "county_names_all": "Berkeley",
+    "county_fips_all": "54003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72087,
+    "lat": 34.59877,
+    "lng": -92.83391,
+    "city": "Lonsdale",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1588.0,
+    "density": 9.9,
+    "county_fips": 5125,
+    "county_name": "Saline",
+    "county_weights": "{\"05125\": 63.81, \"05051\": 36.19}",
+    "county_names_all": "Saline|Garland",
+    "county_fips_all": "05125|05051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

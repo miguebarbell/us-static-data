@@ -1,0 +1,20 @@
+{
+    "zip": 86052,
+    "lat": 36.29112,
+    "lng": -112.12543,
+    "city": "North Rim",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 215.0,
+    "density": 0.1,
+    "county_fips": 4005,
+    "county_name": "Coconino",
+    "county_weights": "{\"04005\": 100}",
+    "county_names_all": "Coconino",
+    "county_fips_all": "04005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 80547,
+    "lat": 40.52948,
+    "lng": -104.96347,
+    "city": "Timnath",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8040.0,
+    "density": 547.7,
+    "county_fips": 8069,
+    "county_name": "Larimer",
+    "county_weights": "{\"08069\": 100}",
+    "county_names_all": "Larimer",
+    "county_fips_all": "08069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

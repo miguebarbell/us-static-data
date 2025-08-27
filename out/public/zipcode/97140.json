@@ -1,0 +1,20 @@
+{
+    "zip": 97140,
+    "lat": 45.35359,
+    "lng": -122.86339,
+    "city": "Sherwood",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27999.0,
+    "density": 242.5,
+    "county_fips": 41067,
+    "county_name": "Washington",
+    "county_weights": "{\"41067\": 74.92, \"41005\": 22.7, \"41071\": 2.38}",
+    "county_names_all": "Washington|Clackamas|Yamhill",
+    "county_fips_all": "41067|41005|41071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

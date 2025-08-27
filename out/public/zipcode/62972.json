@@ -1,0 +1,20 @@
+{
+    "zip": 62972,
+    "lat": 37.5419,
+    "lng": -88.8162,
+    "city": "Ozark",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 891.0,
+    "density": 6.4,
+    "county_fips": 17087,
+    "county_name": "Johnson",
+    "county_weights": "{\"17087\": 91.19, \"17151\": 8.81}",
+    "county_names_all": "Johnson|Pope",
+    "county_fips_all": "17087|17151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

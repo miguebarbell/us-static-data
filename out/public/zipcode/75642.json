@@ -1,0 +1,20 @@
+{
+    "zip": 75642,
+    "lat": 32.35818,
+    "lng": -94.17821,
+    "city": "Elysian Fields",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 50.0,
+    "density": 4.7,
+    "county_fips": 48365,
+    "county_name": "Panola",
+    "county_weights": "{\"48365\": 65.65, \"48203\": 34.35}",
+    "county_names_all": "Panola|Harrison",
+    "county_fips_all": "48365|48203",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

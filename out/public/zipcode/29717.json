@@ -1,0 +1,20 @@
+{
+    "zip": 29717,
+    "lat": 34.95119,
+    "lng": -81.44304,
+    "city": "Hickory Grove",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1585.0,
+    "density": 16.4,
+    "county_fips": 45091,
+    "county_name": "York",
+    "county_weights": "{\"45091\": 99.86, \"45021\": 0.14}",
+    "county_names_all": "York|Cherokee",
+    "county_fips_all": "45091|45021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

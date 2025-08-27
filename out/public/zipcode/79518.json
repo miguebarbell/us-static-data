@@ -1,0 +1,20 @@
+{
+    "zip": 79518,
+    "lat": 33.31644,
+    "lng": -100.74382,
+    "city": "Girard",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 115.0,
+    "density": 0.2,
+    "county_fips": 48263,
+    "county_name": "Kent",
+    "county_weights": "{\"48263\": 99.86, \"48125\": 0.14}",
+    "county_names_all": "Kent|Dickens",
+    "county_fips_all": "48263|48125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

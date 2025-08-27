@@ -1,0 +1,20 @@
+{
+    "zip": 98326,
+    "lat": 48.17364,
+    "lng": -124.45278,
+    "city": "Clallam Bay",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1159.0,
+    "density": 1.5,
+    "county_fips": 53009,
+    "county_name": "Clallam",
+    "county_weights": "{\"53009\": 100}",
+    "county_names_all": "Clallam",
+    "county_fips_all": "53009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

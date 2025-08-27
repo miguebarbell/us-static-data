@@ -1,0 +1,20 @@
+{
+    "zip": 58643,
+    "lat": 46.22974,
+    "lng": -103.95091,
+    "city": "Marmarth",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 113.0,
+    "density": 0.3,
+    "county_fips": 38011,
+    "county_name": "Bowman",
+    "county_weights": "{\"38011\": 70.28, \"38087\": 29.72}",
+    "county_names_all": "Bowman|Slope",
+    "county_fips_all": "38011|38087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

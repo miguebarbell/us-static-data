@@ -1,0 +1,20 @@
+{
+    "zip": 85611,
+    "lat": 31.64266,
+    "lng": -110.51334,
+    "city": "Elgin",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1413.0,
+    "density": 1.4,
+    "county_fips": 4023,
+    "county_name": "Santa Cruz",
+    "county_weights": "{\"04023\": 49.65, \"04019\": 36.0, \"04003\": 14.35}",
+    "county_names_all": "Santa Cruz|Pima|Cochise",
+    "county_fips_all": "04023|04019|04003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

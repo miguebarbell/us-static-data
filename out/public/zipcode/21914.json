@@ -1,0 +1,20 @@
+{
+    "zip": 21914,
+    "lat": 39.57256,
+    "lng": -75.98158,
+    "city": "Charlestown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 786.0,
+    "density": 415.2,
+    "county_fips": 24015,
+    "county_name": "Cecil",
+    "county_weights": "{\"24015\": 100}",
+    "county_names_all": "Cecil",
+    "county_fips_all": "24015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

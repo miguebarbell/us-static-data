@@ -1,0 +1,20 @@
+{
+    "zip": 87801,
+    "lat": 34.04824,
+    "lng": -106.96668,
+    "city": "Socorro",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9309.0,
+    "density": 20.3,
+    "county_fips": 35053,
+    "county_name": "Socorro",
+    "county_weights": "{\"35053\": 100}",
+    "county_names_all": "Socorro",
+    "county_fips_all": "35053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

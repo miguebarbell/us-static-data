@@ -1,0 +1,20 @@
+{
+    "zip": 45140,
+    "lat": 39.25603,
+    "lng": -84.24433,
+    "city": "Loveland",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 56854.0,
+    "density": 497.9,
+    "county_fips": 39025,
+    "county_name": "Clermont",
+    "county_weights": "{\"39025\": 53.33, \"39165\": 30.97, \"39061\": 15.7}",
+    "county_names_all": "Clermont|Warren|Hamilton",
+    "county_fips_all": "39025|39165|39061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

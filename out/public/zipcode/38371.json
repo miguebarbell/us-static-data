@@ -1,0 +1,20 @@
+{
+    "zip": 38371,
+    "lat": 35.42346,
+    "lng": -88.2967,
+    "city": "Sardis",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 916.0,
+    "density": 8.3,
+    "county_fips": 47077,
+    "county_name": "Henderson",
+    "county_weights": "{\"47077\": 53.38, \"47071\": 42.52, \"47039\": 4.1}",
+    "county_names_all": "Henderson|Hardin|Decatur",
+    "county_fips_all": "47077|47071|47039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 46807,
+    "lat": 41.04489,
+    "lng": -85.14763,
+    "city": "Fort Wayne",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16285.0,
+    "density": 1952.5,
+    "county_fips": 18003,
+    "county_name": "Allen",
+    "county_weights": "{\"18003\": 100}",
+    "county_names_all": "Allen",
+    "county_fips_all": "18003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

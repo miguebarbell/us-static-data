@@ -1,0 +1,20 @@
+{
+    "zip": 77659,
+    "lat": 30.15775,
+    "lng": -94.43279,
+    "city": "Sour Lake",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5847.0,
+    "density": 19.1,
+    "county_fips": 48199,
+    "county_name": "Hardin",
+    "county_weights": "{\"48199\": 100}",
+    "county_names_all": "Hardin",
+    "county_fips_all": "48199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

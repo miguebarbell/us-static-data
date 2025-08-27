@@ -1,0 +1,20 @@
+{
+    "zip": 12064,
+    "lat": 42.60711,
+    "lng": -74.65887,
+    "city": "East Worcester",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 314.0,
+    "density": 13.4,
+    "county_fips": 36077,
+    "county_name": "Otsego",
+    "county_weights": "{\"36077\": 62.24, \"36095\": 37.76}",
+    "county_names_all": "Otsego|Schoharie",
+    "county_fips_all": "36077|36095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

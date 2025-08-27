@@ -1,0 +1,20 @@
+{
+    "zip": 19510,
+    "lat": 40.44551,
+    "lng": -75.88179,
+    "city": "Blandon",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8134.0,
+    "density": 609.9,
+    "county_fips": 42011,
+    "county_name": "Berks",
+    "county_weights": "{\"42011\": 100}",
+    "county_names_all": "Berks",
+    "county_fips_all": "42011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

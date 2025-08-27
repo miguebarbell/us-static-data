@@ -1,0 +1,20 @@
+{
+    "zip": 94014,
+    "lat": 37.6907,
+    "lng": -122.44769,
+    "city": "Daly City",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 46269.0,
+    "density": 2795.1,
+    "county_fips": 6081,
+    "county_name": "San Mateo",
+    "county_weights": "{\"06081\": 99.8, \"06075\": 0.2}",
+    "county_names_all": "San Mateo|San Francisco",
+    "county_fips_all": "06081|06075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

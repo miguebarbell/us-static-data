@@ -1,0 +1,20 @@
+{
+    "zip": 37324,
+    "lat": 35.25251,
+    "lng": -86.00044,
+    "city": "Decherd",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5168.0,
+    "density": 30.0,
+    "county_fips": 47051,
+    "county_name": "Franklin",
+    "county_weights": "{\"47051\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "47051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 12028,
+    "lat": 42.94545,
+    "lng": -73.44213,
+    "city": "Buskirk",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1132.0,
+    "density": 18.4,
+    "county_fips": 36115,
+    "county_name": "Washington",
+    "county_weights": "{\"36115\": 52.78, \"36083\": 47.22}",
+    "county_names_all": "Washington|Rensselaer",
+    "county_fips_all": "36115|36083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

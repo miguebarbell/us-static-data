@@ -1,0 +1,20 @@
+{
+    "zip": 64859,
+    "lat": 37.15822,
+    "lng": -94.14703,
+    "city": "Reeds",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1203.0,
+    "density": 9.1,
+    "county_fips": 29097,
+    "county_name": "Jasper",
+    "county_weights": "{\"29097\": 100}",
+    "county_names_all": "Jasper",
+    "county_fips_all": "29097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

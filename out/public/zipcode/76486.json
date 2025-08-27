@@ -1,0 +1,20 @@
+{
+    "zip": 76486,
+    "lat": 33.02138,
+    "lng": -98.05618,
+    "city": "Perrin",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1375.0,
+    "density": 5.7,
+    "county_fips": 48237,
+    "county_name": "Jack",
+    "county_weights": "{\"48237\": 66.77, \"48363\": 17.07, \"48367\": 16.16}",
+    "county_names_all": "Jack|Palo Pinto|Parker",
+    "county_fips_all": "48237|48363|48367",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

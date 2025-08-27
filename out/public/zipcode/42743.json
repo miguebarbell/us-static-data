@@ -1,0 +1,20 @@
+{
+    "zip": 42743,
+    "lat": 37.22958,
+    "lng": -85.53175,
+    "city": "Greensburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9008.0,
+    "density": 16.9,
+    "county_fips": 21087,
+    "county_name": "Green",
+    "county_weights": "{\"21087\": 97.32, \"21001\": 2.68}",
+    "county_names_all": "Green|Adair",
+    "county_fips_all": "21087|21001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

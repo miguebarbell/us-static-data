@@ -1,0 +1,20 @@
+{
+    "zip": 56621,
+    "lat": 47.40975,
+    "lng": -95.41597,
+    "city": "Bagley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4355.0,
+    "density": 5.2,
+    "county_fips": 27029,
+    "county_name": "Clearwater",
+    "county_weights": "{\"27029\": 98.02, \"27119\": 1.69, \"27087\": 0.29}",
+    "county_names_all": "Clearwater|Polk|Mahnomen",
+    "county_fips_all": "27029|27119|27087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 26585,
+    "lat": 39.6065,
+    "lng": -80.42379,
+    "city": "Metz",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 663.0,
+    "density": 8.6,
+    "county_fips": 54049,
+    "county_name": "Marion",
+    "county_weights": "{\"54049\": 67.05, \"54103\": 32.95}",
+    "county_names_all": "Marion|Wetzel",
+    "county_fips_all": "54049|54103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

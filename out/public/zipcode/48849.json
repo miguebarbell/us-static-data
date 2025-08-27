@@ -1,0 +1,20 @@
+{
+    "zip": 48849,
+    "lat": 42.7984,
+    "lng": -85.13298,
+    "city": "Lake Odessa",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5801.0,
+    "density": 26.8,
+    "county_fips": 26067,
+    "county_name": "Ionia",
+    "county_weights": "{\"26067\": 77.17, \"26015\": 17.89, \"26045\": 4.94}",
+    "county_names_all": "Ionia|Barry|Eaton",
+    "county_fips_all": "26067|26015|26045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

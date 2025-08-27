@@ -1,0 +1,20 @@
+{
+    "zip": 34994,
+    "lat": 27.19954,
+    "lng": -80.2557,
+    "city": "Stuart",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18318.0,
+    "density": 1049.7,
+    "county_fips": 12085,
+    "county_name": "Martin",
+    "county_weights": "{\"12085\": 100}",
+    "county_names_all": "Martin",
+    "county_fips_all": "12085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

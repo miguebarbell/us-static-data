@@ -1,0 +1,20 @@
+{
+    "zip": 29453,
+    "lat": 33.21984,
+    "lng": -79.61269,
+    "city": "Jamestown",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1282.0,
+    "density": 4.2,
+    "county_fips": 45015,
+    "county_name": "Berkeley",
+    "county_weights": "{\"45015\": 99.86, \"45019\": 0.14}",
+    "county_names_all": "Berkeley|Charleston",
+    "county_fips_all": "45015|45019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

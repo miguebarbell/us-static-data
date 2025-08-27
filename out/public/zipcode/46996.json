@@ -1,0 +1,20 @@
+{
+    "zip": 46996,
+    "lat": 41.0626,
+    "lng": -86.65906,
+    "city": "Winamac",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6231.0,
+    "density": 12.7,
+    "county_fips": 18131,
+    "county_name": "Pulaski",
+    "county_weights": "{\"18131\": 99.25, \"18181\": 0.55, \"18149\": 0.2}",
+    "county_names_all": "Pulaski|White|Starke",
+    "county_fips_all": "18131|18181|18149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Winamac"
+}

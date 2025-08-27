@@ -1,0 +1,20 @@
+{
+    "zip": 75784,
+    "lat": 31.87344,
+    "lng": -94.96234,
+    "city": "Reklaw",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 539.0,
+    "density": 6.0,
+    "county_fips": 48401,
+    "county_name": "Rusk",
+    "county_weights": "{\"48401\": 61.64, \"48073\": 38.36}",
+    "county_names_all": "Rusk|Cherokee",
+    "county_fips_all": "48401|48073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

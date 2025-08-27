@@ -1,0 +1,20 @@
+{
+    "zip": 58329,
+    "lat": 48.8682,
+    "lng": -100.08927,
+    "city": "Dunseith",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2779.0,
+    "density": 5.3,
+    "county_fips": 38079,
+    "county_name": "Rolette",
+    "county_weights": "{\"38079\": 86.38, \"38009\": 13.62}",
+    "county_names_all": "Rolette|Bottineau",
+    "county_fips_all": "38079|38009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

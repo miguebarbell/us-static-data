@@ -1,0 +1,20 @@
+{
+    "zip": 16352,
+    "lat": 41.76615,
+    "lng": -79.03644,
+    "city": "Tiona",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 220.0,
+    "density": 7.7,
+    "county_fips": 42123,
+    "county_name": "Warren",
+    "county_weights": "{\"42123\": 100}",
+    "county_names_all": "Warren",
+    "county_fips_all": "42123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

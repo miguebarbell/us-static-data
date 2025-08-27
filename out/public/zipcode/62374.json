@@ -1,0 +1,20 @@
+{
+    "zip": 62374,
+    "lat": 40.40765,
+    "lng": -90.91052,
+    "city": "Tennessee",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 223.0,
+    "density": 3.6,
+    "county_fips": 17067,
+    "county_name": "Hancock",
+    "county_weights": "{\"17067\": 50.93, \"17109\": 49.07}",
+    "county_names_all": "Hancock|McDonough",
+    "county_fips_all": "17067|17109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

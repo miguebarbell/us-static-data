@@ -1,0 +1,20 @@
+{
+    "zip": 42049,
+    "lat": 36.51874,
+    "lng": -88.31828,
+    "city": "Hazel",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1386.0,
+    "density": 11.9,
+    "county_fips": 21035,
+    "county_name": "Calloway",
+    "county_weights": "{\"21035\": 99.15, \"21083\": 0.85}",
+    "county_names_all": "Calloway|Graves",
+    "county_fips_all": "21035|21083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

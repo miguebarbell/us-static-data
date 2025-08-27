@@ -1,0 +1,20 @@
+{
+    "zip": 56221,
+    "lat": 45.55583,
+    "lng": -96.1938,
+    "city": "Chokio",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 826.0,
+    "density": 2.3,
+    "county_fips": 27149,
+    "county_name": "Stevens",
+    "county_weights": "{\"27149\": 87.8, \"27011\": 10.1, \"27155\": 2.1}",
+    "county_names_all": "Stevens|Big Stone|Traverse",
+    "county_fips_all": "27149|27011|27155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

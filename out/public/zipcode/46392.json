@@ -1,0 +1,20 @@
+{
+    "zip": 46392,
+    "lat": 41.18509,
+    "lng": -87.04948,
+    "city": "Wheatfield",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8332.0,
+    "density": 29.7,
+    "county_fips": 18073,
+    "county_name": "Jasper",
+    "county_weights": "{\"18073\": 100}",
+    "county_names_all": "Jasper",
+    "county_fips_all": "18073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

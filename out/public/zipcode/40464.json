@@ -1,0 +1,20 @@
+{
+    "zip": 40464,
+    "lat": 37.55579,
+    "lng": -84.91148,
+    "city": "Parksville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 809.0,
+    "density": 10.6,
+    "county_fips": 21021,
+    "county_name": "Boyle",
+    "county_weights": "{\"21021\": 72.12, \"21045\": 27.88}",
+    "county_names_all": "Boyle|Casey",
+    "county_fips_all": "21021|21045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

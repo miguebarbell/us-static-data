@@ -1,0 +1,20 @@
+{
+    "zip": 42528,
+    "lat": 37.18335,
+    "lng": -85.01712,
+    "city": "Dunnville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2348.0,
+    "density": 17.2,
+    "county_fips": 21045,
+    "county_name": "Casey",
+    "county_weights": "{\"21045\": 66.3, \"21207\": 17.53, \"21001\": 16.17}",
+    "county_names_all": "Casey|Russell|Adair",
+    "county_fips_all": "21045|21207|21001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

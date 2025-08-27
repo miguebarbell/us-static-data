@@ -1,0 +1,20 @@
+{
+    "zip": 98860,
+    "lat": 47.46899,
+    "lng": -119.12391,
+    "city": "Wilson Creek",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 245.0,
+    "density": 1.0,
+    "county_fips": 53025,
+    "county_name": "Grant",
+    "county_weights": "{\"53025\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "53025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

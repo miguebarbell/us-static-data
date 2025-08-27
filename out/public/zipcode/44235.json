@@ -1,0 +1,20 @@
+{
+    "zip": 44235,
+    "lat": 41.0316,
+    "lng": -82.12246,
+    "city": "Homerville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1369.0,
+    "density": 20.7,
+    "county_fips": 39103,
+    "county_name": "Medina",
+    "county_weights": "{\"39103\": 97.97, \"39005\": 2.03}",
+    "county_names_all": "Medina|Ashland",
+    "county_fips_all": "39103|39005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 75760,
+    "lat": 31.80738,
+    "lng": -94.85758,
+    "city": "Cushing",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2114.0,
+    "density": 6.2,
+    "county_fips": 48347,
+    "county_name": "Nacogdoches",
+    "county_weights": "{\"48347\": 67.97, \"48401\": 32.03}",
+    "county_names_all": "Nacogdoches|Rusk",
+    "county_fips_all": "48347|48401",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

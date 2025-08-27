@@ -1,0 +1,20 @@
+{
+    "zip": 82432,
+    "lat": 44.23641,
+    "lng": -107.88175,
+    "city": "Manderson",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 280.0,
+    "density": 0.8,
+    "county_fips": 56003,
+    "county_name": "Big Horn",
+    "county_weights": "{\"56003\": 100}",
+    "county_names_all": "Big Horn",
+    "county_fips_all": "56003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

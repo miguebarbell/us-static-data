@@ -1,0 +1,20 @@
+{
+    "zip": 45817,
+    "lat": 40.87691,
+    "lng": -83.88279,
+    "city": "Bluffton",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5820.0,
+    "density": 35.1,
+    "county_fips": 39003,
+    "county_name": "Allen",
+    "county_weights": "{\"39003\": 49.8, \"39063\": 47.04, \"39137\": 3.16}",
+    "county_names_all": "Allen|Hancock|Putnam",
+    "county_fips_all": "39003|39063|39137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

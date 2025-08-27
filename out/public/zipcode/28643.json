@@ -1,0 +1,20 @@
+{
+    "zip": 28643,
+    "lat": 36.52982,
+    "lng": -81.53486,
+    "city": "Lansing",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4241.0,
+    "density": 23.4,
+    "county_fips": 37009,
+    "county_name": "Ashe",
+    "county_weights": "{\"37009\": 100}",
+    "county_names_all": "Ashe",
+    "county_fips_all": "37009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

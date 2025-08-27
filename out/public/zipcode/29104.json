@@ -1,0 +1,20 @@
+{
+    "zip": 29104,
+    "lat": 33.99524,
+    "lng": -80.21373,
+    "city": "Mayesville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1559.0,
+    "density": 9.1,
+    "county_fips": 45061,
+    "county_name": "Lee",
+    "county_weights": "{\"45061\": 51.67, \"45085\": 48.33}",
+    "county_names_all": "Lee|Sumter",
+    "county_fips_all": "45061|45085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 61062,
+    "lat": 42.25254,
+    "lng": -89.84263,
+    "city": "Pearl City",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1881.0,
+    "density": 9.7,
+    "county_fips": 17177,
+    "county_name": "Stephenson",
+    "county_weights": "{\"17177\": 91.15, \"17085\": 6.59, \"17015\": 2.26}",
+    "county_names_all": "Stephenson|Jo Daviess|Carroll",
+    "county_fips_all": "17177|17085|17015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

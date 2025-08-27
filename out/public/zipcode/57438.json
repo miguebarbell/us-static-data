@@ -1,0 +1,20 @@
+{
+    "zip": 57438,
+    "lat": 45.06899,
+    "lng": -99.15462,
+    "city": "Faulkton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 983.0,
+    "density": 0.9,
+    "county_fips": 46049,
+    "county_name": "Faulk",
+    "county_weights": "{\"46049\": 100}",
+    "county_names_all": "Faulk",
+    "county_fips_all": "46049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

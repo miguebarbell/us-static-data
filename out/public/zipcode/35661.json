@@ -1,0 +1,20 @@
+{
+    "zip": 35661,
+    "lat": 34.77737,
+    "lng": -87.56331,
+    "city": "Muscle Shoals",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18957.0,
+    "density": 143.0,
+    "county_fips": 1033,
+    "county_name": "Colbert",
+    "county_weights": "{\"01033\": 100}",
+    "county_names_all": "Colbert",
+    "county_fips_all": "01033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

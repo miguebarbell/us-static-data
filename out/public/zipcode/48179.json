@@ -1,0 +1,20 @@
+{
+    "zip": 48179,
+    "lat": 42.03882,
+    "lng": -83.26061,
+    "city": "South Rockwood",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3353.0,
+    "density": 63.7,
+    "county_fips": 26115,
+    "county_name": "Monroe",
+    "county_weights": "{\"26115\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "26115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

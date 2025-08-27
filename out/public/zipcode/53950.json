@@ -1,0 +1,20 @@
+{
+    "zip": 53950,
+    "lat": 43.90477,
+    "lng": -90.13463,
+    "city": "New Lisbon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5838.0,
+    "density": 23.2,
+    "county_fips": 55057,
+    "county_name": "Juneau",
+    "county_weights": "{\"55057\": 100}",
+    "county_names_all": "Juneau",
+    "county_fips_all": "55057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

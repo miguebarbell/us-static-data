@@ -1,0 +1,20 @@
+{
+    "zip": 53150,
+    "lat": 42.8845,
+    "lng": -88.12824,
+    "city": "Muskego",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26142.0,
+    "density": 294.8,
+    "county_fips": 55133,
+    "county_name": "Waukesha",
+    "county_weights": "{\"55133\": 95.32, \"55101\": 4.68}",
+    "county_names_all": "Waukesha|Racine",
+    "county_fips_all": "55133|55101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

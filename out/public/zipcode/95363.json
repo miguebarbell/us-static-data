@@ -1,0 +1,20 @@
+{
+    "zip": 95363,
+    "lat": 37.37251,
+    "lng": -121.27192,
+    "city": "Patterson",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30407.0,
+    "density": 24.5,
+    "county_fips": 6099,
+    "county_name": "Stanislaus",
+    "county_weights": "{\"06099\": 100}",
+    "county_names_all": "Stanislaus",
+    "county_fips_all": "06099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

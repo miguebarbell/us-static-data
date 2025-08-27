@@ -1,0 +1,20 @@
+{
+    "zip": 79226,
+    "lat": 34.91965,
+    "lng": -100.99229,
+    "city": "Clarendon",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2873.0,
+    "density": 1.4,
+    "county_fips": 48129,
+    "county_name": "Donley",
+    "county_weights": "{\"48129\": 60.37, \"48011\": 23.91, \"48045\": 13.71, \"48191\": 2.01}",
+    "county_names_all": "Donley|Armstrong|Briscoe|Hall",
+    "county_fips_all": "48129|48011|48045|48191",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

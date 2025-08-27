@@ -1,0 +1,20 @@
+{
+    "zip": 65674,
+    "lat": 37.78872,
+    "lng": -93.61018,
+    "city": "Humansville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2760.0,
+    "density": 11.1,
+    "county_fips": 29167,
+    "county_name": "Polk",
+    "county_weights": "{\"29167\": 42.95, \"29039\": 38.19, \"29085\": 11.33, \"29185\": 7.53}",
+    "county_names_all": "Polk|Cedar|Hickory|St. Clair",
+    "county_fips_all": "29167|29039|29085|29185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

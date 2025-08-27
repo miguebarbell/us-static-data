@@ -1,0 +1,20 @@
+{
+    "zip": 23294,
+    "lat": 37.63048,
+    "lng": -77.54205,
+    "city": "Henrico",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19377.0,
+    "density": 1763.3,
+    "county_fips": 51087,
+    "county_name": "Henrico",
+    "county_weights": "{\"51087\": 100}",
+    "county_names_all": "Henrico",
+    "county_fips_all": "51087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

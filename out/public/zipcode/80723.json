@@ -1,0 +1,20 @@
+{
+    "zip": 80723,
+    "lat": 40.15981,
+    "lng": -103.55046,
+    "city": "Brush",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6761.0,
+    "density": 9.8,
+    "county_fips": 8087,
+    "county_name": "Morgan",
+    "county_weights": "{\"08087\": 83.51, \"08121\": 16.49}",
+    "county_names_all": "Morgan|Washington",
+    "county_fips_all": "08087|08121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

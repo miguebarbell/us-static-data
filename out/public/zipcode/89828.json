@@ -1,0 +1,20 @@
+{
+    "zip": 89828,
+    "lat": 40.77384,
+    "lng": -115.36403,
+    "city": "Lamoille",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 321.0,
+    "density": 0.7,
+    "county_fips": 32007,
+    "county_name": "Elko",
+    "county_weights": "{\"32007\": 100}",
+    "county_names_all": "Elko",
+    "county_fips_all": "32007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

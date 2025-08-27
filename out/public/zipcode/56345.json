@@ -1,0 +1,20 @@
+{
+    "zip": 56345,
+    "lat": 46.00748,
+    "lng": -94.38032,
+    "city": "Little Falls",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15105.0,
+    "density": 22.6,
+    "county_fips": 27097,
+    "county_name": "Morrison",
+    "county_weights": "{\"27097\": 100}",
+    "county_names_all": "Morrison",
+    "county_fips_all": "27097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

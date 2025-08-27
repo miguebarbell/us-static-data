@@ -1,0 +1,20 @@
+{
+    "zip": 5732,
+    "lat": 43.67998,
+    "lng": -73.18648,
+    "city": "Bomoseen",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1229.0,
+    "density": 43.4,
+    "county_fips": 50021,
+    "county_name": "Rutland",
+    "county_weights": "{\"50021\": 100}",
+    "county_names_all": "Rutland",
+    "county_fips_all": "50021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

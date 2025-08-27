@@ -1,0 +1,20 @@
+{
+    "zip": 28226,
+    "lat": 35.10767,
+    "lng": -80.81837,
+    "city": "Charlotte",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38985.0,
+    "density": 1022.1,
+    "county_fips": 37119,
+    "county_name": "Mecklenburg",
+    "county_weights": "{\"37119\": 100}",
+    "county_names_all": "Mecklenburg",
+    "county_fips_all": "37119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

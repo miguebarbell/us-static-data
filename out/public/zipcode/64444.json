@@ -1,0 +1,20 @@
+{
+    "zip": 64444,
+    "lat": 39.48334,
+    "lng": -94.63856,
+    "city": "Edgerton",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1300.0,
+    "density": 14.5,
+    "county_fips": 29165,
+    "county_name": "Platte",
+    "county_weights": "{\"29165\": 76.85, \"29021\": 18.96, \"29049\": 4.19}",
+    "county_names_all": "Platte|Buchanan|Clinton",
+    "county_fips_all": "29165|29021|29049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 75966,
+    "lat": 30.83783,
+    "lng": -93.72611,
+    "city": "Newton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4773.0,
+    "density": 6.9,
+    "county_fips": 48351,
+    "county_name": "Newton",
+    "county_weights": "{\"48351\": 98.86, \"48241\": 1.14}",
+    "county_names_all": "Newton|Jasper",
+    "county_fips_all": "48351|48241",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

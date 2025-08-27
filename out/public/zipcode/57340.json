@@ -1,0 +1,20 @@
+{
+    "zip": 57340,
+    "lat": 43.79392,
+    "lng": -97.85036,
+    "city": "Fulton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 201.0,
+    "density": 1.1,
+    "county_fips": 46061,
+    "county_name": "Hanson",
+    "county_weights": "{\"46061\": 83.95, \"46097\": 16.05}",
+    "county_names_all": "Hanson|Miner",
+    "county_fips_all": "46061|46097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

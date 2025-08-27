@@ -1,0 +1,20 @@
+{
+    "zip": 40347,
+    "lat": 38.15794,
+    "lng": -84.71915,
+    "city": "Midway",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4004.0,
+    "density": 38.1,
+    "county_fips": 21239,
+    "county_name": "Woodford",
+    "county_weights": "{\"21239\": 76.15, \"21073\": 12.65, \"21209\": 11.2}",
+    "county_names_all": "Woodford|Franklin|Scott",
+    "county_fips_all": "21239|21073|21209",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 48633,
+    "lat": 43.94827,
+    "lng": -84.93409,
+    "city": "Lake George",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 146.0,
+    "density": 24.2,
+    "county_fips": 26035,
+    "county_name": "Clare",
+    "county_weights": "{\"26035\": 100}",
+    "county_names_all": "Clare",
+    "county_fips_all": "26035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

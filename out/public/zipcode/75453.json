@@ -1,0 +1,20 @@
+{
+    "zip": 75453,
+    "lat": 33.00025,
+    "lng": -95.92817,
+    "city": "Lone Oak",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2832.0,
+    "density": 14.0,
+    "county_fips": 48231,
+    "county_name": "Hunt",
+    "county_weights": "{\"48231\": 74.91, \"48379\": 15.35, \"48223\": 9.74}",
+    "county_names_all": "Hunt|Rains|Hopkins",
+    "county_fips_all": "48231|48379|48223",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 44236,
+    "lat": 41.24669,
+    "lng": -81.44775,
+    "city": "Hudson",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26114.0,
+    "density": 314.8,
+    "county_fips": 39153,
+    "county_name": "Summit",
+    "county_weights": "{\"39153\": 99.29, \"39133\": 0.71}",
+    "county_names_all": "Summit|Portage",
+    "county_fips_all": "39153|39133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

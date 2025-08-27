@@ -1,0 +1,20 @@
+{
+    "zip": 78065,
+    "lat": 29.08152,
+    "lng": -98.64437,
+    "city": "Poteet",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11835.0,
+    "density": 26.3,
+    "county_fips": 48013,
+    "county_name": "Atascosa",
+    "county_weights": "{\"48013\": 100}",
+    "county_names_all": "Atascosa",
+    "county_fips_all": "48013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

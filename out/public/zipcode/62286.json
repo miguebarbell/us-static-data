@@ -1,0 +1,20 @@
+{
+    "zip": 62286,
+    "lat": 38.11756,
+    "lng": -89.7154,
+    "city": "Sparta",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5482.0,
+    "density": 21.2,
+    "county_fips": 17157,
+    "county_name": "Randolph",
+    "county_weights": "{\"17157\": 100}",
+    "county_names_all": "Randolph",
+    "county_fips_all": "17157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 53404,
+    "lat": 42.7572,
+    "lng": -87.81246,
+    "city": "Racine",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12438.0,
+    "density": 979.7,
+    "county_fips": 55101,
+    "county_name": "Racine",
+    "county_weights": "{\"55101\": 100}",
+    "county_names_all": "Racine",
+    "county_fips_all": "55101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

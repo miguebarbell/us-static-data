@@ -1,0 +1,20 @@
+{
+    "zip": 74641,
+    "lat": 36.8181,
+    "lng": -96.85709,
+    "city": "Kaw City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 599.0,
+    "density": 6.2,
+    "county_fips": 40071,
+    "county_name": "Kay",
+    "county_weights": "{\"40071\": 100}",
+    "county_names_all": "Kay",
+    "county_fips_all": "40071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

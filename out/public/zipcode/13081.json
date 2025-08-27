@@ -1,0 +1,20 @@
+{
+    "zip": 13081,
+    "lat": 42.67364,
+    "lng": -76.62527,
+    "city": "King Ferry",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1094.0,
+    "density": 14.7,
+    "county_fips": 36011,
+    "county_name": "Cayuga",
+    "county_weights": "{\"36011\": 100}",
+    "county_names_all": "Cayuga",
+    "county_fips_all": "36011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

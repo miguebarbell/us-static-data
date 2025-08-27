@@ -1,0 +1,20 @@
+{
+    "zip": 57329,
+    "lat": 42.97814,
+    "lng": -98.1522,
+    "city": "Dante",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 378.0,
+    "density": 2.8,
+    "county_fips": 46023,
+    "county_name": "Charles Mix",
+    "county_weights": "{\"46023\": 100}",
+    "county_names_all": "Charles Mix",
+    "county_fips_all": "46023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

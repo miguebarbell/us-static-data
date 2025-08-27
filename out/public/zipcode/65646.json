@@ -1,0 +1,20 @@
+{
+    "zip": 65646,
+    "lat": 37.33511,
+    "lng": -93.7039,
+    "city": "Everton",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1812.0,
+    "density": 6.8,
+    "county_fips": 29057,
+    "county_name": "Dade",
+    "county_weights": "{\"29057\": 75.6, \"29109\": 24.4}",
+    "county_names_all": "Dade|Lawrence",
+    "county_fips_all": "29057|29109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

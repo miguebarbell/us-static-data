@@ -1,0 +1,20 @@
+{
+    "zip": 45742,
+    "lat": 39.28563,
+    "lng": -81.73008,
+    "city": "Little Hocking",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3447.0,
+    "density": 50.0,
+    "county_fips": 39167,
+    "county_name": "Washington",
+    "county_weights": "{\"39167\": 96.96, \"39009\": 3.04}",
+    "county_names_all": "Washington|Athens",
+    "county_fips_all": "39167|39009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

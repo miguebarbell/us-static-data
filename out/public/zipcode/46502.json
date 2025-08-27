@@ -1,0 +1,20 @@
+{
+    "zip": 46502,
+    "lat": 41.26099,
+    "lng": -85.97699,
+    "city": "Atwood",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 18085,
+    "county_name": "Kosciusko",
+    "county_weights": "{\"18085\": 100}",
+    "county_names_all": "Kosciusko",
+    "county_fips_all": "18085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

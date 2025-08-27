@@ -1,0 +1,20 @@
+{
+    "zip": 49435,
+    "lat": 43.02683,
+    "lng": -85.84049,
+    "city": "Marne",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3881.0,
+    "density": 69.5,
+    "county_fips": 26139,
+    "county_name": "Ottawa",
+    "county_weights": "{\"26139\": 98.43, \"26081\": 1.57}",
+    "county_names_all": "Ottawa|Kent",
+    "county_fips_all": "26139|26081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

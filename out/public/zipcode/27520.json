@@ -1,0 +1,20 @@
+{
+    "zip": 27520,
+    "lat": 35.61274,
+    "lng": -78.47075,
+    "city": "Clayton",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 48662.0,
+    "density": 265.4,
+    "county_fips": 37101,
+    "county_name": "Johnston",
+    "county_weights": "{\"37101\": 95.9, \"37183\": 4.1}",
+    "county_names_all": "Johnston|Wake",
+    "county_fips_all": "37101|37183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

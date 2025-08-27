@@ -1,0 +1,20 @@
+{
+    "zip": 17067,
+    "lat": 40.38848,
+    "lng": -76.31583,
+    "city": "Myerstown",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15985.0,
+    "density": 131.0,
+    "county_fips": 42075,
+    "county_name": "Lebanon",
+    "county_weights": "{\"42075\": 73.4, \"42011\": 26.6}",
+    "county_names_all": "Lebanon|Berks",
+    "county_fips_all": "42075|42011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

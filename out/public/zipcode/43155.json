@@ -1,0 +1,20 @@
+{
+    "zip": 43155,
+    "lat": 39.6251,
+    "lng": -82.52618,
+    "city": "Sugar Grove",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2423.0,
+    "density": 31.5,
+    "county_fips": 39045,
+    "county_name": "Fairfield",
+    "county_weights": "{\"39045\": 61.0, \"39073\": 39.0}",
+    "county_names_all": "Fairfield|Hocking",
+    "county_fips_all": "39045|39073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

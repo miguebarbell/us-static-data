@@ -1,0 +1,20 @@
+{
+    "zip": 29638,
+    "lat": 34.36087,
+    "lng": -82.3346,
+    "city": "Donalds",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3669.0,
+    "density": 24.3,
+    "county_fips": 45001,
+    "county_name": "Abbeville",
+    "county_weights": "{\"45001\": 83.92, \"45047\": 16.08}",
+    "county_names_all": "Abbeville|Greenwood",
+    "county_fips_all": "45001|45047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

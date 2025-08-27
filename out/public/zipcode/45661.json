@@ -1,0 +1,20 @@
+{
+    "zip": 45661,
+    "lat": 39.04096,
+    "lng": -83.10479,
+    "city": "Piketon",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7528.0,
+    "density": 28.8,
+    "county_fips": 39131,
+    "county_name": "Pike",
+    "county_weights": "{\"39131\": 99.6, \"39145\": 0.4}",
+    "county_names_all": "Pike|Scioto",
+    "county_fips_all": "39131|39145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

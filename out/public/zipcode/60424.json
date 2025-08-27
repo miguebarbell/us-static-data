@@ -1,0 +1,20 @@
+{
+    "zip": 60424,
+    "lat": 41.16604,
+    "lng": -88.32941,
+    "city": "Gardner",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2170.0,
+    "density": 15.9,
+    "county_fips": 17063,
+    "county_name": "Grundy",
+    "county_weights": "{\"17063\": 93.99, \"17091\": 6.01}",
+    "county_names_all": "Grundy|Kankakee",
+    "county_fips_all": "17063|17091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

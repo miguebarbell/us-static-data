@@ -1,0 +1,20 @@
+{
+    "zip": 60948,
+    "lat": 40.52413,
+    "lng": -88.07698,
+    "city": "Loda",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1838.0,
+    "density": 14.3,
+    "county_fips": 17075,
+    "county_name": "Iroquois",
+    "county_weights": "{\"17075\": 70.27, \"17053\": 29.73}",
+    "county_names_all": "Iroquois|Ford",
+    "county_fips_all": "17075|17053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

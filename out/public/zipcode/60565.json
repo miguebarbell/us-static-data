@@ -1,0 +1,20 @@
+{
+    "zip": 60565,
+    "lat": 41.7297,
+    "lng": -88.12312,
+    "city": "Naperville",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39244.0,
+    "density": 1176.5,
+    "county_fips": 17043,
+    "county_name": "DuPage",
+    "county_weights": "{\"17043\": 62.98, \"17197\": 37.02}",
+    "county_names_all": "DuPage|Will",
+    "county_fips_all": "17043|17197",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

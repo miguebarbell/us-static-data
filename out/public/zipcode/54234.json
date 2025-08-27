@@ -1,0 +1,20 @@
+{
+    "zip": 54234,
+    "lat": 45.18377,
+    "lng": -87.09239,
+    "city": "Sister Bay",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2130.0,
+    "density": 35.1,
+    "county_fips": 55029,
+    "county_name": "Door",
+    "county_weights": "{\"55029\": 100}",
+    "county_names_all": "Door",
+    "county_fips_all": "55029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

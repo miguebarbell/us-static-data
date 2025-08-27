@@ -1,0 +1,20 @@
+{
+    "zip": 47456,
+    "lat": 39.46314,
+    "lng": -86.69781,
+    "city": "Quincy",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1305.0,
+    "density": 18.1,
+    "county_fips": 18119,
+    "county_name": "Owen",
+    "county_weights": "{\"18119\": 66.11, \"18109\": 19.69, \"18133\": 14.2}",
+    "county_names_all": "Owen|Morgan|Putnam",
+    "county_fips_all": "18119|18109|18133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

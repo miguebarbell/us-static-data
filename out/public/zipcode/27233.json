@@ -1,0 +1,20 @@
+{
+    "zip": 27233,
+    "lat": 35.8882,
+    "lng": -79.6988,
+    "city": "Climax",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3414.0,
+    "density": 54.0,
+    "county_fips": 37151,
+    "county_name": "Randolph",
+    "county_weights": "{\"37151\": 66.48, \"37081\": 33.52}",
+    "county_names_all": "Randolph|Guilford",
+    "county_fips_all": "37151|37081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

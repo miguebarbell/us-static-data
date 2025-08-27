@@ -1,0 +1,20 @@
+{
+    "zip": 71237,
+    "lat": 32.58413,
+    "lng": -91.48024,
+    "city": "Epps",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1268.0,
+    "density": 6.0,
+    "county_fips": 22123,
+    "county_name": "West Carroll",
+    "county_weights": "{\"22123\": 48.16, \"22035\": 25.95, \"22083\": 16.67, \"22065\": 9.22}",
+    "county_names_all": "West Carroll|East Carroll|Richland|Madison",
+    "county_fips_all": "22123|22035|22083|22065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

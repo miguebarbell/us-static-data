@@ -1,0 +1,20 @@
+{
+    "zip": 21797,
+    "lat": 39.33284,
+    "lng": -77.07002,
+    "city": "Woodbine",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8772.0,
+    "density": 77.5,
+    "county_fips": 24027,
+    "county_name": "Howard",
+    "county_weights": "{\"24027\": 66.96, \"24013\": 31.72, \"24031\": 1.32}",
+    "county_names_all": "Howard|Carroll|Montgomery",
+    "county_fips_all": "24027|24013|24031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

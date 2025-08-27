@@ -1,0 +1,20 @@
+{
+    "zip": 8825,
+    "lat": 40.51353,
+    "lng": -75.02341,
+    "city": "Frenchtown",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4639.0,
+    "density": 61.8,
+    "county_fips": 34019,
+    "county_name": "Hunterdon",
+    "county_weights": "{\"34019\": 100}",
+    "county_names_all": "Hunterdon",
+    "county_fips_all": "34019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

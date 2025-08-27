@@ -1,0 +1,20 @@
+{
+    "zip": 54873,
+    "lat": 46.3448,
+    "lng": -91.69292,
+    "city": "Solon Springs",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3236.0,
+    "density": 4.7,
+    "county_fips": 55031,
+    "county_name": "Douglas",
+    "county_weights": "{\"55031\": 63.13, \"55007\": 36.87}",
+    "county_names_all": "Douglas|Bayfield",
+    "county_fips_all": "55031|55007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

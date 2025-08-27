@@ -1,0 +1,20 @@
+{
+    "zip": 67490,
+    "lat": 38.79223,
+    "lng": -98.44722,
+    "city": "Wilson",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 991.0,
+    "density": 2.5,
+    "county_fips": 20053,
+    "county_name": "Ellsworth",
+    "county_weights": "{\"20053\": 59.45, \"20167\": 32.44, \"20105\": 8.11}",
+    "county_names_all": "Ellsworth|Russell|Lincoln",
+    "county_fips_all": "20053|20167|20105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

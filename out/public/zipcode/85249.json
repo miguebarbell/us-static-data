@@ -1,0 +1,20 @@
+{
+    "zip": 85249,
+    "lat": 33.22652,
+    "lng": -111.79918,
+    "city": "Chandler",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 48018.0,
+    "density": 1292.2,
+    "county_fips": 4013,
+    "county_name": "Maricopa",
+    "county_weights": "{\"04013\": 100}",
+    "county_names_all": "Maricopa",
+    "county_fips_all": "04013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

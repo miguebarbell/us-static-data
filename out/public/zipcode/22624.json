@@ -1,0 +1,20 @@
+{
+    "zip": 22624,
+    "lat": 39.26535,
+    "lng": -78.09507,
+    "city": "Clear Brook",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3193.0,
+    "density": 60.1,
+    "county_fips": 51069,
+    "county_name": "Frederick",
+    "county_weights": "{\"51069\": 100}",
+    "county_names_all": "Frederick",
+    "county_fips_all": "51069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

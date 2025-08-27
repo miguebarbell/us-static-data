@@ -1,0 +1,20 @@
+{
+    "zip": 97335,
+    "lat": 44.63776,
+    "lng": -122.88045,
+    "city": "Crabtree",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 261.0,
+    "density": 66.5,
+    "county_fips": 41043,
+    "county_name": "Linn",
+    "county_weights": "{\"41043\": 100}",
+    "county_names_all": "Linn",
+    "county_fips_all": "41043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

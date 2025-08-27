@@ -1,0 +1,20 @@
+{
+    "zip": 24131,
+    "lat": 37.56836,
+    "lng": -80.22894,
+    "city": "Paint Bank",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13.0,
+    "density": 0.1,
+    "county_fips": 51045,
+    "county_name": "Craig",
+    "county_weights": "{\"51045\": 100}",
+    "county_names_all": "Craig",
+    "county_fips_all": "51045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 76880,
+    "lat": 31.44491,
+    "lng": -98.3151,
+    "city": "Star",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 48333,
+    "county_name": "Mills",
+    "county_weights": "{\"48333\": 100}",
+    "county_names_all": "Mills",
+    "county_fips_all": "48333",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

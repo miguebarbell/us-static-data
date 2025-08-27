@@ -1,0 +1,20 @@
+{
+    "zip": 41092,
+    "lat": 38.81811,
+    "lng": -84.70115,
+    "city": "Verona",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3250.0,
+    "density": 32.8,
+    "county_fips": 21015,
+    "county_name": "Boone",
+    "county_weights": "{\"21015\": 64.91, \"21077\": 33.23, \"21081\": 1.86}",
+    "county_names_all": "Boone|Gallatin|Grant",
+    "county_fips_all": "21015|21077|21081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

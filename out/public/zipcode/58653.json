@@ -1,0 +1,20 @@
+{
+    "zip": 58653,
+    "lat": 46.09645,
+    "lng": -103.12946,
+    "city": "Scranton",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 709.0,
+    "density": 0.7,
+    "county_fips": 38011,
+    "county_name": "Bowman",
+    "county_weights": "{\"38011\": 71.3, \"46063\": 14.58, \"38087\": 14.12}",
+    "county_names_all": "Bowman|Harding|Slope",
+    "county_fips_all": "38011|46063|38087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

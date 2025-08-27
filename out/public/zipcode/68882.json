@@ -1,0 +1,20 @@
+{
+    "zip": 68882,
+    "lat": 41.42362,
+    "lng": -98.40366,
+    "city": "Wolbach",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 391.0,
+    "density": 1.1,
+    "county_fips": 31077,
+    "county_name": "Greeley",
+    "county_weights": "{\"31077\": 67.68, \"31093\": 24.77, \"31125\": 7.55}",
+    "county_names_all": "Greeley|Howard|Nance",
+    "county_fips_all": "31077|31093|31125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

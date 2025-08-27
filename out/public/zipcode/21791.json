@@ -1,0 +1,20 @@
+{
+    "zip": 21791,
+    "lat": 39.54267,
+    "lng": -77.18713,
+    "city": "Union Bridge",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4734.0,
+    "density": 39.7,
+    "county_fips": 24021,
+    "county_name": "Frederick",
+    "county_weights": "{\"24021\": 60.67, \"24013\": 39.33}",
+    "county_names_all": "Frederick|Carroll",
+    "county_fips_all": "24021|24013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

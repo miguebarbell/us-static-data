@@ -1,0 +1,20 @@
+{
+    "zip": 72532,
+    "lat": 36.09905,
+    "lng": -91.59508,
+    "city": "Evening Shade",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1039.0,
+    "density": 4.1,
+    "county_fips": 5135,
+    "county_name": "Sharp",
+    "county_weights": "{\"05135\": 83.67, \"05065\": 16.33}",
+    "county_names_all": "Sharp|Izard",
+    "county_fips_all": "05135|05065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

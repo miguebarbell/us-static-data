@@ -1,0 +1,20 @@
+{
+    "zip": 55018,
+    "lat": 44.41832,
+    "lng": -92.98822,
+    "city": "Dennison",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 931.0,
+    "density": 8.1,
+    "county_fips": 27049,
+    "county_name": "Goodhue",
+    "county_weights": "{\"27049\": 91.18, \"27131\": 8.82}",
+    "county_names_all": "Goodhue|Rice",
+    "county_fips_all": "27049|27131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

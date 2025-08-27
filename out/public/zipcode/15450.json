@@ -1,0 +1,20 @@
+{
+    "zip": 15450,
+    "lat": 40.00289,
+    "lng": -79.97616,
+    "city": "La Belle",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2408.0,
+    "density": 848.4,
+    "county_fips": 42051,
+    "county_name": "Fayette",
+    "county_weights": "{\"42051\": 99.54, \"42125\": 0.46}",
+    "county_names_all": "Fayette|Washington",
+    "county_fips_all": "42051|42125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

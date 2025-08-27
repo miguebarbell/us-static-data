@@ -1,0 +1,20 @@
+{
+    "zip": 56050,
+    "lat": 44.26006,
+    "lng": -93.94706,
+    "city": "Kasota",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1367.0,
+    "density": 22.8,
+    "county_fips": 27079,
+    "county_name": "Le Sueur",
+    "county_weights": "{\"27079\": 88.2, \"27013\": 11.8}",
+    "county_names_all": "Le Sueur|Blue Earth",
+    "county_fips_all": "27079|27013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

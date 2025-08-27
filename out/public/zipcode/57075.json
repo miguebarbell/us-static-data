@@ -1,0 +1,20 @@
+{
+    "zip": 57075,
+    "lat": 43.99605,
+    "lng": -96.96749,
+    "city": "Wentworth",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1237.0,
+    "density": 6.0,
+    "county_fips": 46079,
+    "county_name": "Lake",
+    "county_weights": "{\"46079\": 97.8, \"46101\": 2.2}",
+    "county_names_all": "Lake|Moody",
+    "county_fips_all": "46079|46101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

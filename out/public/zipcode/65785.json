@@ -1,0 +1,20 @@
+{
+    "zip": 65785,
+    "lat": 37.70296,
+    "lng": -93.82338,
+    "city": "Stockton",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5538.0,
+    "density": 9.8,
+    "county_fips": 29039,
+    "county_name": "Cedar",
+    "county_weights": "{\"29039\": 90.16, \"29185\": 6.09, \"29057\": 3.75}",
+    "county_names_all": "Cedar|St. Clair|Dade",
+    "county_fips_all": "29039|29185|29057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

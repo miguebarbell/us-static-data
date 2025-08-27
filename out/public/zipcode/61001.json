@@ -1,0 +1,20 @@
+{
+    "zip": 61001,
+    "lat": 42.4612,
+    "lng": -90.12226,
+    "city": "Apple River",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1237.0,
+    "density": 11.9,
+    "county_fips": 17085,
+    "county_name": "Jo Daviess",
+    "county_weights": "{\"17085\": 100}",
+    "county_names_all": "Jo Daviess",
+    "county_fips_all": "17085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

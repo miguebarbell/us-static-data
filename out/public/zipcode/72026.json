@@ -1,0 +1,20 @@
+{
+    "zip": 72026,
+    "lat": 34.51397,
+    "lng": -91.31687,
+    "city": "Casscoe",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 200.0,
+    "density": 3.2,
+    "county_fips": 5001,
+    "county_name": "Arkansas",
+    "county_weights": "{\"05001\": 100}",
+    "county_names_all": "Arkansas",
+    "county_fips_all": "05001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

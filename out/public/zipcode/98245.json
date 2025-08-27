@@ -1,0 +1,20 @@
+{
+    "zip": 98245,
+    "lat": 48.66241,
+    "lng": -122.91616,
+    "city": "Eastsound",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4206.0,
+    "density": 45.8,
+    "county_fips": 53055,
+    "county_name": "San Juan",
+    "county_weights": "{\"53055\": 100}",
+    "county_names_all": "San Juan",
+    "county_fips_all": "53055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 51638,
+    "lat": 40.83919,
+    "lng": -95.26663,
+    "city": "Essex",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1278.0,
+    "density": 6.1,
+    "county_fips": 19145,
+    "county_name": "Page",
+    "county_weights": "{\"19145\": 98.02, \"19137\": 1.98}",
+    "county_names_all": "Page|Montgomery",
+    "county_fips_all": "19145|19137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

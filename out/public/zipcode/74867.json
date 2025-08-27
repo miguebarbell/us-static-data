@@ -1,0 +1,20 @@
+{
+    "zip": 74867,
+    "lat": 34.96335,
+    "lng": -96.54663,
+    "city": "Sasakwa",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 550.0,
+    "density": 2.3,
+    "county_fips": 40133,
+    "county_name": "Seminole",
+    "county_weights": "{\"40133\": 87.73, \"40063\": 12.27}",
+    "county_names_all": "Seminole|Hughes",
+    "county_fips_all": "40133|40063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

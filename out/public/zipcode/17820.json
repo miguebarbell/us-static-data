@@ -1,0 +1,20 @@
+{
+    "zip": 17820,
+    "lat": 40.9011,
+    "lng": -76.40783,
+    "city": "Catawissa",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5528.0,
+    "density": 24.6,
+    "county_fips": 42037,
+    "county_name": "Columbia",
+    "county_weights": "{\"42037\": 93.97, \"42093\": 6.03}",
+    "county_names_all": "Columbia|Montour",
+    "county_fips_all": "42037|42093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

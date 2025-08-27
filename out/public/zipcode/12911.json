@@ -1,0 +1,20 @@
+{
+    "zip": 12911,
+    "lat": 44.53464,
+    "lng": -73.46687,
+    "city": "Keeseville",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44.0,
+    "density": 10.8,
+    "county_fips": 36019,
+    "county_name": "Clinton",
+    "county_weights": "{\"36019\": 80.99, \"36031\": 19.01}",
+    "county_names_all": "Clinton|Essex",
+    "county_fips_all": "36019|36031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

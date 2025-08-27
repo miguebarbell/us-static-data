@@ -1,0 +1,20 @@
+{
+    "zip": 61491,
+    "lat": 41.05982,
+    "lng": -89.72525,
+    "city": "Wyoming",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2170.0,
+    "density": 8.7,
+    "county_fips": 17175,
+    "county_name": "Stark",
+    "county_weights": "{\"17175\": 89.23, \"17123\": 10.77}",
+    "county_names_all": "Stark|Marshall",
+    "county_fips_all": "17175|17123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 51363,
+    "lat": 43.43363,
+    "lng": -94.94678,
+    "city": "Superior",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 132.0,
+    "density": 120.1,
+    "county_fips": 19059,
+    "county_name": "Dickinson",
+    "county_weights": "{\"19059\": 100}",
+    "county_names_all": "Dickinson",
+    "county_fips_all": "19059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

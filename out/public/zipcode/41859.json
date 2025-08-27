@@ -1,0 +1,20 @@
+{
+    "zip": 41859,
+    "lat": 37.39922,
+    "lng": -82.77606,
+    "city": "Dema",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 208.0,
+    "density": 11.3,
+    "county_fips": 21119,
+    "county_name": "Knott",
+    "county_weights": "{\"21119\": 99.8, \"21071\": 0.2}",
+    "county_names_all": "Knott|Floyd",
+    "county_fips_all": "21119|21071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

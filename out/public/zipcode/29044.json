@@ -1,0 +1,20 @@
+{
+    "zip": 29044,
+    "lat": 33.93437,
+    "lng": -80.69446,
+    "city": "Eastover",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4299.0,
+    "density": 12.1,
+    "county_fips": 45079,
+    "county_name": "Richland",
+    "county_weights": "{\"45079\": 100}",
+    "county_names_all": "Richland",
+    "county_fips_all": "45079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

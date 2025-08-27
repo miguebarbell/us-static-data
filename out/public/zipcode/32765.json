@@ -1,0 +1,20 @@
+{
+    "zip": 32765,
+    "lat": 28.66732,
+    "lng": -81.20033,
+    "city": "Oviedo",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 63646.0,
+    "density": 629.7,
+    "county_fips": 12117,
+    "county_name": "Seminole",
+    "county_weights": "{\"12117\": 100}",
+    "county_names_all": "Seminole",
+    "county_fips_all": "12117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

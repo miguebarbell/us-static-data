@@ -1,0 +1,20 @@
+{
+    "zip": 62663,
+    "lat": 39.54106,
+    "lng": -90.32748,
+    "city": "Manchester",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 187.0,
+    "density": 104.8,
+    "county_fips": 17171,
+    "county_name": "Scott",
+    "county_weights": "{\"17171\": 100}",
+    "county_names_all": "Scott",
+    "county_fips_all": "17171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

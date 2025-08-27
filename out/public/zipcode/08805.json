@@ -1,0 +1,20 @@
+{
+    "zip": 8805,
+    "lat": 40.57165,
+    "lng": -74.53783,
+    "city": "Bound Brook",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14153.0,
+    "density": 1858.9,
+    "county_fips": 34035,
+    "county_name": "Somerset",
+    "county_weights": "{\"34035\": 100}",
+    "county_names_all": "Somerset",
+    "county_fips_all": "34035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

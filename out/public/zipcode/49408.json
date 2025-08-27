@@ -1,0 +1,20 @@
+{
+    "zip": 49408,
+    "lat": 42.57077,
+    "lng": -86.11479,
+    "city": "Fennville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10494.0,
+    "density": 37.5,
+    "county_fips": 26005,
+    "county_name": "Allegan",
+    "county_weights": "{\"26005\": 100}",
+    "county_names_all": "Allegan",
+    "county_fips_all": "26005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

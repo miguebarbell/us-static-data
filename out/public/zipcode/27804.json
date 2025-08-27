@@ -1,0 +1,20 @@
+{
+    "zip": 27804,
+    "lat": 35.98958,
+    "lng": -77.84778,
+    "city": "Rocky Mount",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29992.0,
+    "density": 269.0,
+    "county_fips": 37127,
+    "county_name": "Nash",
+    "county_weights": "{\"37127\": 100}",
+    "county_names_all": "Nash",
+    "county_fips_all": "37127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

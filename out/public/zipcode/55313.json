@@ -1,0 +1,20 @@
+{
+    "zip": 55313,
+    "lat": 45.17382,
+    "lng": -93.84859,
+    "city": "Buffalo",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24862.0,
+    "density": 89.1,
+    "county_fips": 27171,
+    "county_name": "Wright",
+    "county_weights": "{\"27171\": 99.9, \"27053\": 0.1}",
+    "county_names_all": "Wright|Hennepin",
+    "county_fips_all": "27171|27053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

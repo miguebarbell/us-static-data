@@ -1,0 +1,20 @@
+{
+    "zip": 17094,
+    "lat": 40.58414,
+    "lng": -77.2168,
+    "city": "Thompsontown",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2598.0,
+    "density": 34.6,
+    "county_fips": 42067,
+    "county_name": "Juniata",
+    "county_weights": "{\"42067\": 100}",
+    "county_names_all": "Juniata",
+    "county_fips_all": "42067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

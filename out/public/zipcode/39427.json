@@ -1,0 +1,20 @@
+{
+    "zip": 39427,
+    "lat": 31.48693,
+    "lng": -89.82701,
+    "city": "Carson",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 853.0,
+    "density": 5.8,
+    "county_fips": 28065,
+    "county_name": "Jefferson Davis",
+    "county_weights": "{\"28065\": 100}",
+    "county_names_all": "Jefferson Davis",
+    "county_fips_all": "28065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

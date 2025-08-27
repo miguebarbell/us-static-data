@@ -1,0 +1,20 @@
+{
+    "zip": 74538,
+    "lat": 34.57453,
+    "lng": -96.25575,
+    "city": "Coalgate",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3933.0,
+    "density": 4.2,
+    "county_fips": 40029,
+    "county_name": "Coal",
+    "county_weights": "{\"40029\": 99.11, \"40005\": 0.89}",
+    "county_names_all": "Coal|Atoka",
+    "county_fips_all": "40029|40005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

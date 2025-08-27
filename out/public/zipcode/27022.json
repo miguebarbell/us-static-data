@@ -1,0 +1,20 @@
+{
+    "zip": 27022,
+    "lat": 36.51409,
+    "lng": -80.21739,
+    "city": "Lawsonville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1187.0,
+    "density": 13.9,
+    "county_fips": 37169,
+    "county_name": "Stokes",
+    "county_weights": "{\"37169\": 100}",
+    "county_names_all": "Stokes",
+    "county_fips_all": "37169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

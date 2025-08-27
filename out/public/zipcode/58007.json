@@ -1,0 +1,20 @@
+{
+    "zip": 58007,
+    "lat": 47.02519,
+    "lng": -97.45724,
+    "city": "Ayr",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 63.0,
+    "density": 0.5,
+    "county_fips": 38017,
+    "county_name": "Cass",
+    "county_weights": "{\"38017\": 100}",
+    "county_names_all": "Cass",
+    "county_fips_all": "38017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

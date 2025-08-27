@@ -1,0 +1,20 @@
+{
+    "zip": 47354,
+    "lat": 40.04628,
+    "lng": -85.19933,
+    "city": "Losantville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1122.0,
+    "density": 14.9,
+    "county_fips": 18135,
+    "county_name": "Randolph",
+    "county_weights": "{\"18135\": 56.83, \"18065\": 22.87, \"18035\": 14.29, \"18177\": 6.01}",
+    "county_names_all": "Randolph|Henry|Delaware|Wayne",
+    "county_fips_all": "18135|18065|18035|18177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

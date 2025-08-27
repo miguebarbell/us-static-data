@@ -1,0 +1,20 @@
+{
+    "zip": 55352,
+    "lat": 44.65505,
+    "lng": -93.5862,
+    "city": "Jordan",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10426.0,
+    "density": 59.5,
+    "county_fips": 27139,
+    "county_name": "Scott",
+    "county_weights": "{\"27139\": 99.85, \"27019\": 0.15}",
+    "county_names_all": "Scott|Carver",
+    "county_fips_all": "27139|27019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

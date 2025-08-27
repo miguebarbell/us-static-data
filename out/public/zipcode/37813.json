@@ -1,0 +1,20 @@
+{
+    "zip": 37813,
+    "lat": 36.17644,
+    "lng": -83.26542,
+    "city": "Morristown",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17479.0,
+    "density": 116.3,
+    "county_fips": 47063,
+    "county_name": "Hamblen",
+    "county_weights": "{\"47063\": 97.36, \"47089\": 2.64}",
+    "county_names_all": "Hamblen|Jefferson",
+    "county_fips_all": "47063|47089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

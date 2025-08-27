@@ -1,0 +1,20 @@
+{
+    "zip": 43772,
+    "lat": 39.88063,
+    "lng": -81.52448,
+    "city": "Pleasant City",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1628.0,
+    "density": 18.5,
+    "county_fips": 39121,
+    "county_name": "Noble",
+    "county_weights": "{\"39121\": 70.13, \"39059\": 29.87}",
+    "county_names_all": "Noble|Guernsey",
+    "county_fips_all": "39121|39059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

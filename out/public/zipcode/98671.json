@@ -1,0 +1,20 @@
+{
+    "zip": 98671,
+    "lat": 45.61143,
+    "lng": -122.24955,
+    "city": "Washougal",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23669.0,
+    "density": 112.7,
+    "county_fips": 53011,
+    "county_name": "Clark",
+    "county_weights": "{\"53011\": 50.26, \"53059\": 49.74}",
+    "county_names_all": "Clark|Skamania",
+    "county_fips_all": "53011|53059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

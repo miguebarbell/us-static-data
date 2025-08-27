@@ -1,0 +1,20 @@
+{
+    "zip": 28621,
+    "lat": 36.30863,
+    "lng": -80.83612,
+    "city": "Elkin",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9977.0,
+    "density": 56.9,
+    "county_fips": 37171,
+    "county_name": "Surry",
+    "county_weights": "{\"37171\": 68.25, \"37193\": 31.75}",
+    "county_names_all": "Surry|Wilkes",
+    "county_fips_all": "37171|37193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

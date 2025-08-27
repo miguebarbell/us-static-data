@@ -1,0 +1,20 @@
+{
+    "zip": 33547,
+    "lat": 27.77239,
+    "lng": -82.13665,
+    "city": "Lithia",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31268.0,
+    "density": 75.2,
+    "county_fips": 12057,
+    "county_name": "Hillsborough",
+    "county_weights": "{\"12057\": 97.54, \"12105\": 2.46}",
+    "county_names_all": "Hillsborough|Polk",
+    "county_fips_all": "12057|12105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

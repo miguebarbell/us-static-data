@@ -1,0 +1,20 @@
+{
+    "zip": 61839,
+    "lat": 40.13184,
+    "lng": -88.63694,
+    "city": "De Land",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 648.0,
+    "density": 7.7,
+    "county_fips": 17147,
+    "county_name": "Piatt",
+    "county_weights": "{\"17147\": 100}",
+    "county_names_all": "Piatt",
+    "county_fips_all": "17147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

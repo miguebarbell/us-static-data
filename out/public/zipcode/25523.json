@@ -1,0 +1,20 @@
+{
+    "zip": 25523,
+    "lat": 38.27934,
+    "lng": -82.06754,
+    "city": "Hamlin",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2704.0,
+    "density": 26.8,
+    "county_fips": 54043,
+    "county_name": "Lincoln",
+    "county_weights": "{\"54043\": 89.03, \"54079\": 10.97}",
+    "county_names_all": "Lincoln|Putnam",
+    "county_fips_all": "54043|54079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

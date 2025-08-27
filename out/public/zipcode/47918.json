@@ -1,0 +1,20 @@
+{
+    "zip": 47918,
+    "lat": 40.30388,
+    "lng": -87.20628,
+    "city": "Attica",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5159.0,
+    "density": 14.2,
+    "county_fips": 18045,
+    "county_name": "Fountain",
+    "county_weights": "{\"18045\": 59.57, \"18171\": 38.01, \"18157\": 2.42}",
+    "county_names_all": "Fountain|Warren|Tippecanoe",
+    "county_fips_all": "18045|18171|18157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

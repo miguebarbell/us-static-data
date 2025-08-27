@@ -1,0 +1,20 @@
+{
+    "zip": 65787,
+    "lat": 38.07306,
+    "lng": -92.89213,
+    "city": "Roach",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1253.0,
+    "density": 12.6,
+    "county_fips": 29029,
+    "county_name": "Camden",
+    "county_weights": "{\"29029\": 100}",
+    "county_names_all": "Camden",
+    "county_fips_all": "29029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

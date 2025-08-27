@@ -1,0 +1,20 @@
+{
+    "zip": 65543,
+    "lat": 37.47172,
+    "lng": -92.3045,
+    "city": "Lynchburg",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 622.0,
+    "density": 4.0,
+    "county_fips": 29229,
+    "county_name": "Wright",
+    "county_weights": "{\"29229\": 53.35, \"29105\": 46.65}",
+    "county_names_all": "Wright|Laclede",
+    "county_fips_all": "29229|29105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

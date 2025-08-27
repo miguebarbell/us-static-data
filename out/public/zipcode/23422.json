@@ -1,0 +1,20 @@
+{
+    "zip": 23422,
+    "lat": 37.63647,
+    "lng": -75.82397,
+    "city": "Pungoteague",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 195.0,
+    "density": 21.4,
+    "county_fips": 51001,
+    "county_name": "Accomack",
+    "county_weights": "{\"51001\": 100}",
+    "county_names_all": "Accomack",
+    "county_fips_all": "51001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 85609,
+    "lat": 32.06867,
+    "lng": -110.09714,
+    "city": "Dragoon",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 546.0,
+    "density": 1.8,
+    "county_fips": 4003,
+    "county_name": "Cochise",
+    "county_weights": "{\"04003\": 100}",
+    "county_names_all": "Cochise",
+    "county_fips_all": "04003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

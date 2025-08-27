@@ -1,0 +1,20 @@
+{
+    "zip": 10707,
+    "lat": 40.95961,
+    "lng": -73.82291,
+    "city": "Tuckahoe",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9755.0,
+    "density": 2966.4,
+    "county_fips": 36119,
+    "county_name": "Westchester",
+    "county_weights": "{\"36119\": 100}",
+    "county_names_all": "Westchester",
+    "county_fips_all": "36119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

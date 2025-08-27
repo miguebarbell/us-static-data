@@ -1,0 +1,20 @@
+{
+    "zip": 91606,
+    "lat": 34.18655,
+    "lng": -118.38867,
+    "city": "North Hollywood",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43202.0,
+    "density": 5010.6,
+    "county_fips": 6037,
+    "county_name": "Los Angeles",
+    "county_weights": "{\"06037\": 100}",
+    "county_names_all": "Los Angeles",
+    "county_fips_all": "06037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

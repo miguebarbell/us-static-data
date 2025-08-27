@@ -1,0 +1,20 @@
+{
+    "zip": 8822,
+    "lat": 40.52281,
+    "lng": -74.86576,
+    "city": "Flemington",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32002.0,
+    "density": 190.9,
+    "county_fips": 34019,
+    "county_name": "Hunterdon",
+    "county_weights": "{\"34019\": 100}",
+    "county_names_all": "Hunterdon",
+    "county_fips_all": "34019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

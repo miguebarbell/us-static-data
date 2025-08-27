@@ -1,0 +1,20 @@
+{
+    "zip": 6483,
+    "lat": 41.381,
+    "lng": -73.08726,
+    "city": "Seymour",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16799.0,
+    "density": 446.8,
+    "county_fips": 9140,
+    "county_name": "Naugatuck Valley",
+    "county_weights": "{\"09140\": 100}",
+    "county_names_all": "Naugatuck Valley",
+    "county_fips_all": "09140",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65230,
+    "lat": 39.28715,
+    "lng": -92.69218,
+    "city": "Armstrong",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 521.0,
+    "density": 3.1,
+    "county_fips": 29089,
+    "county_name": "Howard",
+    "county_weights": "{\"29089\": 78.67, \"29175\": 21.33}",
+    "county_names_all": "Howard|Randolph",
+    "county_fips_all": "29089|29175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

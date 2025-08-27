@@ -1,0 +1,20 @@
+{
+    "zip": 37354,
+    "lat": 35.50195,
+    "lng": -84.34387,
+    "city": "Madisonville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17421.0,
+    "density": 57.2,
+    "county_fips": 47123,
+    "county_name": "Monroe",
+    "county_weights": "{\"47123\": 97.02, \"47107\": 2.98}",
+    "county_names_all": "Monroe|McMinn",
+    "county_fips_all": "47123|47107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

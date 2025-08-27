@@ -1,0 +1,20 @@
+{
+    "zip": 29479,
+    "lat": 33.3808,
+    "lng": -79.89499,
+    "city": "Saint Stephen",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6287.0,
+    "density": 26.7,
+    "county_fips": 45015,
+    "county_name": "Berkeley",
+    "county_weights": "{\"45015\": 100}",
+    "county_names_all": "Berkeley",
+    "county_fips_all": "45015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

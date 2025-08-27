@@ -1,0 +1,20 @@
+{
+    "zip": 45671,
+    "lat": 38.97339,
+    "lng": -83.23775,
+    "city": "Rarden",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 418.0,
+    "density": 10.8,
+    "county_fips": 39145,
+    "county_name": "Scioto",
+    "county_weights": "{\"39145\": 84.84, \"39131\": 14.72, \"39001\": 0.44}",
+    "county_names_all": "Scioto|Pike|Adams",
+    "county_fips_all": "39145|39131|39001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 76433,
+    "lat": 32.30662,
+    "lng": -98.01096,
+    "city": "Bluff Dale",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2018.0,
+    "density": 6.1,
+    "county_fips": 48143,
+    "county_name": "Erath",
+    "county_weights": "{\"48143\": 75.15, \"48425\": 13.13, \"48221\": 11.72}",
+    "county_names_all": "Erath|Somervell|Hood",
+    "county_fips_all": "48143|48425|48221",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

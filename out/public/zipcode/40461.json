@@ -1,0 +1,20 @@
+{
+    "zip": 40461,
+    "lat": 37.59014,
+    "lng": -84.40849,
+    "city": "Paint Lick",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2564.0,
+    "density": 17.8,
+    "county_fips": 21079,
+    "county_name": "Garrard",
+    "county_weights": "{\"21079\": 65.16, \"21151\": 34.84}",
+    "county_names_all": "Garrard|Madison",
+    "county_fips_all": "21079|21151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 70458,
+    "lat": 30.25864,
+    "lng": -89.79441,
+    "city": "Slidell",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39385.0,
+    "density": 728.2,
+    "county_fips": 22103,
+    "county_name": "St. Tammany",
+    "county_weights": "{\"22103\": 100}",
+    "county_names_all": "St. Tammany",
+    "county_fips_all": "22103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

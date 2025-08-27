@@ -1,0 +1,20 @@
+{
+    "zip": 75886,
+    "lat": 31.78698,
+    "lng": -95.91234,
+    "city": "Tennessee Colony",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2722.0,
+    "density": 213.8,
+    "county_fips": 48001,
+    "county_name": "Anderson",
+    "county_weights": "{\"48001\": 100}",
+    "county_names_all": "Anderson",
+    "county_fips_all": "48001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

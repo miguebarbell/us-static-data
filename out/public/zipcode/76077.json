@@ -1,0 +1,20 @@
+{
+    "zip": 76077,
+    "lat": 32.27886,
+    "lng": -97.70891,
+    "city": "Rainbow",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 809.0,
+    "density": 33.8,
+    "county_fips": 48425,
+    "county_name": "Somervell",
+    "county_weights": "{\"48425\": 100}",
+    "county_names_all": "Somervell",
+    "county_fips_all": "48425",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

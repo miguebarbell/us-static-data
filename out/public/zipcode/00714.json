@@ -1,0 +1,20 @@
+{
+    "zip": 714,
+    "lat": 17.9981,
+    "lng": -66.05635,
+    "city": "Arroyo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15573.0,
+    "density": 400.8,
+    "county_fips": 72015,
+    "county_name": "Arroyo",
+    "county_weights": "{\"72015\": 100}",
+    "county_names_all": "Arroyo",
+    "county_fips_all": "72015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

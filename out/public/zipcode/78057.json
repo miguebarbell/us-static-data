@@ -1,0 +1,20 @@
+{
+    "zip": 78057,
+    "lat": 29.03924,
+    "lng": -99.02185,
+    "city": "Moore",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 509.0,
+    "density": 1.3,
+    "county_fips": 48163,
+    "county_name": "Frio",
+    "county_weights": "{\"48163\": 83.55, \"48325\": 16.45}",
+    "county_names_all": "Frio|Medina",
+    "county_fips_all": "48163|48325",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

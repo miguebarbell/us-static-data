@@ -1,0 +1,20 @@
+{
+    "zip": 26582,
+    "lat": 39.53114,
+    "lng": -80.38767,
+    "city": "Mannington",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3929.0,
+    "density": 17.5,
+    "county_fips": 54049,
+    "county_name": "Marion",
+    "county_weights": "{\"54049\": 97.57, \"54033\": 1.75, \"54061\": 0.68}",
+    "county_names_all": "Marion|Harrison|Monongalia",
+    "county_fips_all": "54049|54033|54061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

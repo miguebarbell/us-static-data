@@ -1,0 +1,20 @@
+{
+    "zip": 95981,
+    "lat": 39.65237,
+    "lng": -121.03447,
+    "city": "Strawberry Valley",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 60.0,
+    "density": 0.4,
+    "county_fips": 6063,
+    "county_name": "Plumas",
+    "county_weights": "{\"06063\": 76.17, \"06115\": 23.83}",
+    "county_names_all": "Plumas|Yuba",
+    "county_fips_all": "06063|06115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

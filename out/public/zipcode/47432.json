@@ -1,0 +1,20 @@
+{
+    "zip": 47432,
+    "lat": 38.49268,
+    "lng": -86.63942,
+    "city": "French Lick",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4721.0,
+    "density": 23.4,
+    "county_fips": 18117,
+    "county_name": "Orange",
+    "county_weights": "{\"18117\": 79.69, \"18037\": 10.7, \"18101\": 9.61}",
+    "county_names_all": "Orange|Dubois|Martin",
+    "county_fips_all": "18117|18037|18101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 17073,
+    "lat": 40.30047,
+    "lng": -76.25924,
+    "city": "Newmanstown",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6064.0,
+    "density": 82.3,
+    "county_fips": 42075,
+    "county_name": "Lebanon",
+    "county_weights": "{\"42075\": 90.46, \"42071\": 9.54}",
+    "county_names_all": "Lebanon|Lancaster",
+    "county_fips_all": "42075|42071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

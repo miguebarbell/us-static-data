@@ -1,0 +1,20 @@
+{
+    "zip": 71238,
+    "lat": 32.36716,
+    "lng": -92.38139,
+    "city": "Eros",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2399.0,
+    "density": 8.6,
+    "county_fips": 22049,
+    "county_name": "Jackson",
+    "county_weights": "{\"22049\": 64.81, \"22073\": 35.19}",
+    "county_names_all": "Jackson|Ouachita",
+    "county_fips_all": "22049|22073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

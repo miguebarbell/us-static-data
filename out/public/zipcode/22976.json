@@ -1,0 +1,20 @@
+{
+    "zip": 22976,
+    "lat": 37.84555,
+    "lng": -79.04036,
+    "city": "Tyro",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 136.0,
+    "density": 2.7,
+    "county_fips": 51125,
+    "county_name": "Nelson",
+    "county_weights": "{\"51125\": 100}",
+    "county_names_all": "Nelson",
+    "county_fips_all": "51125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

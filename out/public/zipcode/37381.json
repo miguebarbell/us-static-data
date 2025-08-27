@@ -1,0 +1,20 @@
+{
+    "zip": 37381,
+    "lat": 35.68533,
+    "lng": -84.8775,
+    "city": "Spring City",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10170.0,
+    "density": 28.8,
+    "county_fips": 47143,
+    "county_name": "Rhea",
+    "county_weights": "{\"47143\": 81.59, \"47007\": 18.41}",
+    "county_names_all": "Rhea|Bledsoe",
+    "county_fips_all": "47143|47007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

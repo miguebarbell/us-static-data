@@ -1,0 +1,20 @@
+{
+    "zip": 71048,
+    "lat": 32.83597,
+    "lng": -92.85071,
+    "city": "Lisbon",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 114.0,
+    "density": 2.0,
+    "county_fips": 22027,
+    "county_name": "Claiborne",
+    "county_weights": "{\"22027\": 100}",
+    "county_names_all": "Claiborne",
+    "county_fips_all": "22027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

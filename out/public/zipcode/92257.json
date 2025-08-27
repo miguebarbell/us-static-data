@@ -1,0 +1,20 @@
+{
+    "zip": 92257,
+    "lat": 33.33976,
+    "lng": -115.52814,
+    "city": "Niland",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2185.0,
+    "density": 3.1,
+    "county_fips": 6025,
+    "county_name": "Imperial",
+    "county_weights": "{\"06025\": 100}",
+    "county_names_all": "Imperial",
+    "county_fips_all": "06025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

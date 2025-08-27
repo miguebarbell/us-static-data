@@ -1,0 +1,20 @@
+{
+    "zip": 88081,
+    "lat": 32.24958,
+    "lng": -106.28821,
+    "city": "Chaparral",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18334.0,
+    "density": 18.8,
+    "county_fips": 35035,
+    "county_name": "Otero",
+    "county_weights": "{\"35035\": 89.75, \"35013\": 10.25}",
+    "county_names_all": "Otero|Do\u00f1a Ana",
+    "county_fips_all": "35035|35013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

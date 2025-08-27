@@ -1,0 +1,20 @@
+{
+    "zip": 99180,
+    "lat": 48.30925,
+    "lng": -117.30663,
+    "city": "Usk",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 613.0,
+    "density": 1.5,
+    "county_fips": 53051,
+    "county_name": "Pend Oreille",
+    "county_weights": "{\"53051\": 100}",
+    "county_names_all": "Pend Oreille",
+    "county_fips_all": "53051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

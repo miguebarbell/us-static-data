@@ -1,0 +1,20 @@
+{
+    "zip": 33574,
+    "lat": 28.33811,
+    "lng": -82.257,
+    "city": "Saint Leo",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1760.0,
+    "density": 2529.5,
+    "county_fips": 12101,
+    "county_name": "Pasco",
+    "county_weights": "{\"12101\": 100}",
+    "county_names_all": "Pasco",
+    "county_fips_all": "12101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

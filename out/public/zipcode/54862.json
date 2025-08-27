@@ -1,0 +1,20 @@
+{
+    "zip": 54862,
+    "lat": 45.80385,
+    "lng": -91.12132,
+    "city": "Ojibwa",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 313.0,
+    "density": 2.1,
+    "county_fips": 55113,
+    "county_name": "Sawyer",
+    "county_weights": "{\"55113\": 100}",
+    "county_names_all": "Sawyer",
+    "county_fips_all": "55113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

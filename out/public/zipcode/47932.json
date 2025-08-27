@@ -1,0 +1,20 @@
+{
+    "zip": 47932,
+    "lat": 40.12764,
+    "lng": -87.40761,
+    "city": "Covington",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5193.0,
+    "density": 18.9,
+    "county_fips": 18045,
+    "county_name": "Fountain",
+    "county_weights": "{\"18045\": 63.78, \"18171\": 19.26, \"18165\": 16.96}",
+    "county_names_all": "Fountain|Warren|Vermillion",
+    "county_fips_all": "18045|18171|18165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

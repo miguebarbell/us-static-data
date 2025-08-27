@@ -1,0 +1,20 @@
+{
+    "zip": 49946,
+    "lat": 46.7189,
+    "lng": -88.33725,
+    "city": "Lanse",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3765.0,
+    "density": 5.9,
+    "county_fips": 26013,
+    "county_name": "Baraga",
+    "county_weights": "{\"26013\": 100}",
+    "county_names_all": "Baraga",
+    "county_fips_all": "26013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

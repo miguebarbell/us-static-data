@@ -1,0 +1,20 @@
+{
+    "zip": 21628,
+    "lat": 39.23577,
+    "lng": -75.92238,
+    "city": "Crumpton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 299.0,
+    "density": 122.9,
+    "county_fips": 24035,
+    "county_name": "Queen Anne's",
+    "county_weights": "{\"24035\": 100}",
+    "county_names_all": "Queen Anne's",
+    "county_fips_all": "24035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

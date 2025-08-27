@@ -1,0 +1,20 @@
+{
+    "zip": 47601,
+    "lat": 38.05301,
+    "lng": -87.25526,
+    "city": "Boonville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13119.0,
+    "density": 39.8,
+    "county_fips": 18173,
+    "county_name": "Warrick",
+    "county_weights": "{\"18173\": 94.23, \"18147\": 5.77}",
+    "county_names_all": "Warrick|Spencer",
+    "county_fips_all": "18173|18147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

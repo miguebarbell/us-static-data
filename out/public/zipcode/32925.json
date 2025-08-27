@@ -1,0 +1,20 @@
+{
+    "zip": 32925,
+    "lat": 28.24272,
+    "lng": -80.62287,
+    "city": "Patrick Air Force Base",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1606.0,
+    "density": 200.3,
+    "county_fips": 12009,
+    "county_name": "Brevard",
+    "county_weights": "{\"12009\": 100}",
+    "county_names_all": "Brevard",
+    "county_fips_all": "12009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

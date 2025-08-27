@@ -1,0 +1,20 @@
+{
+    "zip": 95361,
+    "lat": 37.79342,
+    "lng": -120.77654,
+    "city": "Oakdale",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35024.0,
+    "density": 62.2,
+    "county_fips": 6099,
+    "county_name": "Stanislaus",
+    "county_weights": "{\"06099\": 97.73, \"06077\": 2.27}",
+    "county_names_all": "Stanislaus|San Joaquin",
+    "county_fips_all": "06099|06077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

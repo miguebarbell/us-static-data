@@ -1,0 +1,20 @@
+{
+    "zip": 59316,
+    "lat": 45.33726,
+    "lng": -105.04973,
+    "city": "Boyes",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18.0,
+    "density": 0.1,
+    "county_fips": 30075,
+    "county_name": "Powder River",
+    "county_weights": "{\"30075\": 70.33, \"30011\": 29.67}",
+    "county_names_all": "Powder River|Carter",
+    "county_fips_all": "30075|30011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

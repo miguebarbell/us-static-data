@@ -1,0 +1,20 @@
+{
+    "zip": 93452,
+    "lat": 35.71078,
+    "lng": -121.20396,
+    "city": "San Simeon",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 301.0,
+    "density": 1.0,
+    "county_fips": 6079,
+    "county_name": "San Luis Obispo",
+    "county_weights": "{\"06079\": 100}",
+    "county_names_all": "San Luis Obispo",
+    "county_fips_all": "06079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

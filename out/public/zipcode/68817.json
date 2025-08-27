@@ -1,0 +1,20 @@
+{
+    "zip": 68817,
+    "lat": 41.26125,
+    "lng": -98.7937,
+    "city": "Ashton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 357.0,
+    "density": 1.7,
+    "county_fips": 31163,
+    "county_name": "Sherman",
+    "county_weights": "{\"31163\": 85.77, \"31093\": 14.23}",
+    "county_names_all": "Sherman|Howard",
+    "county_fips_all": "31163|31093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

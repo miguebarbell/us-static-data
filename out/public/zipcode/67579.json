@@ -1,0 +1,20 @@
+{
+    "zip": 67579,
+    "lat": 38.18615,
+    "lng": -98.20861,
+    "city": "Sterling",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2971.0,
+    "density": 5.6,
+    "county_fips": 20159,
+    "county_name": "Rice",
+    "county_weights": "{\"20159\": 59.61, \"20155\": 40.39}",
+    "county_names_all": "Rice|Reno",
+    "county_fips_all": "20159|20155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 93930,
+    "lat": 36.19924,
+    "lng": -121.07282,
+    "city": "King City",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17124.0,
+    "density": 19.3,
+    "county_fips": 6053,
+    "county_name": "Monterey",
+    "county_weights": "{\"06053\": 81.1, \"06069\": 18.9}",
+    "county_names_all": "Monterey|San Benito",
+    "county_fips_all": "06053|06069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

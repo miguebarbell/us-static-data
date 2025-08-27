@@ -1,0 +1,20 @@
+{
+    "zip": 18324,
+    "lat": 41.14712,
+    "lng": -75.0001,
+    "city": "Bushkill",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9591.0,
+    "density": 116.3,
+    "county_fips": 42103,
+    "county_name": "Pike",
+    "county_weights": "{\"42103\": 99.45, \"42089\": 0.55}",
+    "county_names_all": "Pike|Monroe",
+    "county_fips_all": "42103|42089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

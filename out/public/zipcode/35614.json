@@ -1,0 +1,20 @@
+{
+    "zip": 35614,
+    "lat": 34.86433,
+    "lng": -87.08457,
+    "city": "Athens",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7157.0,
+    "density": 42.8,
+    "county_fips": 1083,
+    "county_name": "Limestone",
+    "county_weights": "{\"01083\": 98.32, \"01077\": 1.68}",
+    "county_names_all": "Limestone|Lauderdale",
+    "county_fips_all": "01083|01077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

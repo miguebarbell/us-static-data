@@ -1,0 +1,20 @@
+{
+    "zip": 31738,
+    "lat": 31.01133,
+    "lng": -83.87502,
+    "city": "Coolidge",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2960.0,
+    "density": 18.3,
+    "county_fips": 13275,
+    "county_name": "Thomas",
+    "county_weights": "{\"13275\": 73.56, \"13071\": 26.44}",
+    "county_names_all": "Thomas|Colquitt",
+    "county_fips_all": "13275|13071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

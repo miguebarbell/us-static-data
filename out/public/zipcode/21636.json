@@ -1,0 +1,20 @@
+{
+    "zip": 21636,
+    "lat": 39.0261,
+    "lng": -75.79839,
+    "city": "Goldsboro",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 913.0,
+    "density": 15.0,
+    "county_fips": 24011,
+    "county_name": "Caroline",
+    "county_weights": "{\"24011\": 100}",
+    "county_names_all": "Caroline",
+    "county_fips_all": "24011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

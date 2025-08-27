@@ -1,0 +1,20 @@
+{
+    "zip": 70043,
+    "lat": 29.9571,
+    "lng": -89.96481,
+    "city": "Chalmette",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22461.0,
+    "density": 949.5,
+    "county_fips": 22087,
+    "county_name": "St. Bernard",
+    "county_weights": "{\"22087\": 100}",
+    "county_names_all": "St. Bernard",
+    "county_fips_all": "22087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

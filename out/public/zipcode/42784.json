@@ -1,0 +1,20 @@
+{
+    "zip": 42784,
+    "lat": 37.4503,
+    "lng": -85.92272,
+    "city": "Upton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2948.0,
+    "density": 17.3,
+    "county_fips": 21099,
+    "county_name": "Hart",
+    "county_weights": "{\"21099\": 39.46, \"21093\": 36.34, \"21123\": 24.2}",
+    "county_names_all": "Hart|Hardin|Larue",
+    "county_fips_all": "21099|21093|21123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

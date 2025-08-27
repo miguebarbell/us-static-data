@@ -1,0 +1,20 @@
+{
+    "zip": 64657,
+    "lat": 40.13269,
+    "lng": -94.21292,
+    "city": "McFall",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 329.0,
+    "density": 1.9,
+    "county_fips": 29075,
+    "county_name": "Gentry",
+    "county_weights": "{\"29075\": 53.92, \"29081\": 35.86, \"29061\": 10.22}",
+    "county_names_all": "Gentry|Harrison|Daviess",
+    "county_fips_all": "29075|29081|29061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

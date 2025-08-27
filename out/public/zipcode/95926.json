@@ -1,0 +1,20 @@
+{
+    "zip": 95926,
+    "lat": 39.74573,
+    "lng": -121.84396,
+    "city": "Chico",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42143.0,
+    "density": 2091.9,
+    "county_fips": 6007,
+    "county_name": "Butte",
+    "county_weights": "{\"06007\": 100}",
+    "county_names_all": "Butte",
+    "county_fips_all": "06007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

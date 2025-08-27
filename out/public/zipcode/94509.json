@@ -1,0 +1,20 @@
+{
+    "zip": 94509,
+    "lat": 37.99214,
+    "lng": -121.8142,
+    "city": "Antioch",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 71013.0,
+    "density": 1571.8,
+    "county_fips": 6013,
+    "county_name": "Contra Costa",
+    "county_weights": "{\"06013\": 100}",
+    "county_names_all": "Contra Costa",
+    "county_fips_all": "06013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

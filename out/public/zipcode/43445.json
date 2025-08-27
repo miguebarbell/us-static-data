@@ -1,0 +1,20 @@
+{
+    "zip": 43445,
+    "lat": 41.58644,
+    "lng": -83.29488,
+    "city": "Martin",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 803.0,
+    "density": 15.3,
+    "county_fips": 39123,
+    "county_name": "Ottawa",
+    "county_weights": "{\"39123\": 82.02, \"39095\": 17.98}",
+    "county_names_all": "Ottawa|Lucas",
+    "county_fips_all": "39123|39095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

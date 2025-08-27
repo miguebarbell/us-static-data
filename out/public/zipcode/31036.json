@@ -1,0 +1,20 @@
+{
+    "zip": 31036,
+    "lat": 32.27055,
+    "lng": -83.49597,
+    "city": "Hawkinsville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10726.0,
+    "density": 17.2,
+    "county_fips": 13235,
+    "county_name": "Pulaski",
+    "county_weights": "{\"13235\": 81.94, \"13153\": 16.66, \"13023\": 1.08, \"13091\": 0.32}",
+    "county_names_all": "Pulaski|Houston|Bleckley|Dodge",
+    "county_fips_all": "13235|13153|13023|13091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

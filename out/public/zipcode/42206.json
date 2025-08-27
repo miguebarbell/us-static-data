@@ -1,0 +1,20 @@
+{
+    "zip": 42206,
+    "lat": 36.88221,
+    "lng": -86.72302,
+    "city": "Auburn",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5675.0,
+    "density": 19.2,
+    "county_fips": 21141,
+    "county_name": "Logan",
+    "county_weights": "{\"21141\": 86.31, \"21213\": 12.58, \"21227\": 1.11}",
+    "county_names_all": "Logan|Simpson|Warren",
+    "county_fips_all": "21141|21213|21227",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

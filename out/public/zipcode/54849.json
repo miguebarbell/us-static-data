@@ -1,0 +1,20 @@
+{
+    "zip": 54849,
+    "lat": 46.47881,
+    "lng": -91.71642,
+    "city": "Lake Nebagamon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1826.0,
+    "density": 8.1,
+    "county_fips": 55031,
+    "county_name": "Douglas",
+    "county_weights": "{\"55031\": 100}",
+    "county_names_all": "Douglas",
+    "county_fips_all": "55031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

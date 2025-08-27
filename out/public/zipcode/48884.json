@@ -1,0 +1,20 @@
+{
+    "zip": 48884,
+    "lat": 43.20731,
+    "lng": -85.04249,
+    "city": "Sheridan",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4777.0,
+    "density": 30.1,
+    "county_fips": 26117,
+    "county_name": "Montcalm",
+    "county_weights": "{\"26117\": 100}",
+    "county_names_all": "Montcalm",
+    "county_fips_all": "26117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

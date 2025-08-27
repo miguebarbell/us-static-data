@@ -1,0 +1,20 @@
+{
+    "zip": 32404,
+    "lat": 30.19075,
+    "lng": -85.51122,
+    "city": "Panama City",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42117.0,
+    "density": 120.4,
+    "county_fips": 12005,
+    "county_name": "Bay",
+    "county_weights": "{\"12005\": 100}",
+    "county_names_all": "Bay",
+    "county_fips_all": "12005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

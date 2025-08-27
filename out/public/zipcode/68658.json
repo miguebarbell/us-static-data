@@ -1,0 +1,20 @@
+{
+    "zip": 68658,
+    "lat": 41.19971,
+    "lng": -97.2937,
+    "city": "Rising City",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 628.0,
+    "density": 3.3,
+    "county_fips": 31023,
+    "county_name": "Butler",
+    "county_weights": "{\"31023\": 98.63, \"31143\": 1.37}",
+    "county_names_all": "Butler|Polk",
+    "county_fips_all": "31023|31143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

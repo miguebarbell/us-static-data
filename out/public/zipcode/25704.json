@@ -1,0 +1,20 @@
+{
+    "zip": 25704,
+    "lat": 38.34969,
+    "lng": -82.50693,
+    "city": "Huntington",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14413.0,
+    "density": 180.2,
+    "county_fips": 54099,
+    "county_name": "Wayne",
+    "county_weights": "{\"54099\": 92.69, \"54011\": 7.31}",
+    "county_names_all": "Wayne|Cabell",
+    "county_fips_all": "54099|54011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

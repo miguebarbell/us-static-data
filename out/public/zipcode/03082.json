@@ -1,0 +1,20 @@
+{
+    "zip": 3082,
+    "lat": 42.90197,
+    "lng": -71.77545,
+    "city": "Lyndeborough",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1676.0,
+    "density": 22.4,
+    "county_fips": 33011,
+    "county_name": "Hillsborough",
+    "county_weights": "{\"33011\": 100}",
+    "county_names_all": "Hillsborough",
+    "county_fips_all": "33011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

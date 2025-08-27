@@ -1,0 +1,20 @@
+{
+    "zip": 22125,
+    "lat": 38.68217,
+    "lng": -77.26073,
+    "city": "Occoquan",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 839.0,
+    "density": 2137.4,
+    "county_fips": 51153,
+    "county_name": "Prince William",
+    "county_weights": "{\"51153\": 100}",
+    "county_names_all": "Prince William",
+    "county_fips_all": "51153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

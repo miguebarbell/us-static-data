@@ -1,0 +1,20 @@
+{
+    "zip": 27822,
+    "lat": 35.80402,
+    "lng": -77.83868,
+    "city": "Elm City",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7745.0,
+    "density": 34.1,
+    "county_fips": 37195,
+    "county_name": "Wilson",
+    "county_weights": "{\"37195\": 74.63, \"37127\": 16.58, \"37065\": 8.79}",
+    "county_names_all": "Wilson|Nash|Edgecombe",
+    "county_fips_all": "37195|37127|37065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 75965,
+    "lat": 31.7284,
+    "lng": -94.62629,
+    "city": "Nacogdoches",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18350.0,
+    "density": 91.9,
+    "county_fips": 48347,
+    "county_name": "Nacogdoches",
+    "county_weights": "{\"48347\": 100}",
+    "county_names_all": "Nacogdoches",
+    "county_fips_all": "48347",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

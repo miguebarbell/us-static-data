@@ -1,0 +1,20 @@
+{
+    "zip": 96928,
+    "lat": 13.35626,
+    "lng": 144.65731,
+    "city": "Agat",
+    "state_id": "GU",
+    "state_name": "Guam",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": NaN,
+    "density": NaN,
+    "county_fips": 66010,
+    "county_name": "Guam",
+    "county_weights": "{\"66010\": 100}",
+    "county_names_all": "Guam",
+    "county_fips_all": "66010",
+    "imprecise": false,
+    "military": false,
+    "timezone": "Pacific/Guam"
+}

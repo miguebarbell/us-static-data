@@ -1,0 +1,20 @@
+{
+    "zip": 81146,
+    "lat": 37.64616,
+    "lng": -105.6776,
+    "city": "Mosca",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 779.0,
+    "density": 1.1,
+    "county_fips": 8003,
+    "county_name": "Alamosa",
+    "county_weights": "{\"08003\": 100}",
+    "county_names_all": "Alamosa",
+    "county_fips_all": "08003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

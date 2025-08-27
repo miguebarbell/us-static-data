@@ -1,0 +1,20 @@
+{
+    "zip": 49632,
+    "lat": 44.23993,
+    "lng": -84.97268,
+    "city": "Falmouth",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1010.0,
+    "density": 4.6,
+    "county_fips": 26113,
+    "county_name": "Missaukee",
+    "county_weights": "{\"26113\": 100}",
+    "county_names_all": "Missaukee",
+    "county_fips_all": "26113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

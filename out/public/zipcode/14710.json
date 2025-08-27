@@ -1,0 +1,20 @@
+{
+    "zip": 14710,
+    "lat": 42.08957,
+    "lng": -79.42306,
+    "city": "Ashville",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2951.0,
+    "density": 21.4,
+    "county_fips": 36013,
+    "county_name": "Chautauqua",
+    "county_weights": "{\"36013\": 100}",
+    "county_names_all": "Chautauqua",
+    "county_fips_all": "36013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

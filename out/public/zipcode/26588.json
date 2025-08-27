@@ -1,0 +1,20 @@
+{
+    "zip": 26588,
+    "lat": 39.5738,
+    "lng": -80.15339,
+    "city": "Rivesville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2911.0,
+    "density": 32.6,
+    "county_fips": 54049,
+    "county_name": "Marion",
+    "county_weights": "{\"54049\": 79.13, \"54061\": 20.87}",
+    "county_names_all": "Marion|Monongalia",
+    "county_fips_all": "54049|54061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 58429,
+    "lat": 47.18768,
+    "lng": -98.16282,
+    "city": "Dazey",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 281.0,
+    "density": 0.9,
+    "county_fips": 38003,
+    "county_name": "Barnes",
+    "county_weights": "{\"38003\": 97.71, \"38039\": 2.29}",
+    "county_names_all": "Barnes|Griggs",
+    "county_fips_all": "38003|38039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

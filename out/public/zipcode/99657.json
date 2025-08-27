@@ -1,0 +1,20 @@
+{
+    "zip": 99657,
+    "lat": 61.78916,
+    "lng": -161.42698,
+    "city": "Russian Mission",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 280.0,
+    "density": 0.2,
+    "county_fips": 2158,
+    "county_name": "Kusilvak",
+    "county_weights": "{\"02158\": 100}",
+    "county_names_all": "Kusilvak",
+    "county_fips_all": "02158",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

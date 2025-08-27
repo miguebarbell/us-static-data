@@ -1,0 +1,20 @@
+{
+    "zip": 20707,
+    "lat": 39.09563,
+    "lng": -76.8842,
+    "city": "Laurel",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36549.0,
+    "density": 1115.6,
+    "county_fips": 24033,
+    "county_name": "Prince George's",
+    "county_weights": "{\"24033\": 93.5, \"24031\": 6.5}",
+    "county_names_all": "Prince George's|Montgomery",
+    "county_fips_all": "24033|24031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

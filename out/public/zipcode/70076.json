@@ -1,0 +1,20 @@
+{
+    "zip": 70076,
+    "lat": 30.04945,
+    "lng": -90.63678,
+    "city": "Mount Airy",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 132.0,
+    "density": 44.6,
+    "county_fips": 22095,
+    "county_name": "St. John the Baptist",
+    "county_weights": "{\"22095\": 100}",
+    "county_names_all": "St. John the Baptist",
+    "county_fips_all": "22095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

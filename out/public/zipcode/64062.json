@@ -1,0 +1,20 @@
+{
+    "zip": 64062,
+    "lat": 39.45533,
+    "lng": -94.17244,
+    "city": "Lawson",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6752.0,
+    "density": 30.3,
+    "county_fips": 29177,
+    "county_name": "Ray",
+    "county_weights": "{\"29177\": 73.07, \"29047\": 13.61, \"29049\": 11.0, \"29025\": 2.32}",
+    "county_names_all": "Ray|Clay|Clinton|Caldwell",
+    "county_fips_all": "29177|29047|29049|29025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

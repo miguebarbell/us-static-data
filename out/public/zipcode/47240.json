@@ -1,0 +1,20 @@
+{
+    "zip": 47240,
+    "lat": 39.32394,
+    "lng": -85.48028,
+    "city": "Greensburg",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21514.0,
+    "density": 27.4,
+    "county_fips": 18031,
+    "county_name": "Decatur",
+    "county_weights": "{\"18031\": 95.54, \"18145\": 1.77, \"18047\": 1.44, \"18137\": 0.91, \"18139\": 0.34}",
+    "county_names_all": "Decatur|Shelby|Franklin|Ripley|Rush",
+    "county_fips_all": "18031|18145|18047|18137|18139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

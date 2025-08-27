@@ -1,0 +1,20 @@
+{
+    "zip": 44676,
+    "lat": 40.6891,
+    "lng": -82.03266,
+    "city": "Shreve",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5626.0,
+    "density": 39.1,
+    "county_fips": 39169,
+    "county_name": "Wayne",
+    "county_weights": "{\"39169\": 73.16, \"39075\": 26.84}",
+    "county_names_all": "Wayne|Holmes",
+    "county_fips_all": "39169|39075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

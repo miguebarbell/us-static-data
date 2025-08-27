@@ -1,0 +1,20 @@
+{
+    "zip": 47567,
+    "lat": 38.46954,
+    "lng": -87.30554,
+    "city": "Petersburg",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6187.0,
+    "density": 20.7,
+    "county_fips": 18125,
+    "county_name": "Pike",
+    "county_weights": "{\"18125\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "18125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Petersburg"
+}

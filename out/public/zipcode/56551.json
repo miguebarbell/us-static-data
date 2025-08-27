@@ -1,0 +1,20 @@
+{
+    "zip": 56551,
+    "lat": 46.31856,
+    "lng": -95.45081,
+    "city": "Henning",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2343.0,
+    "density": 8.6,
+    "county_fips": 27111,
+    "county_name": "Otter Tail",
+    "county_weights": "{\"27111\": 100}",
+    "county_names_all": "Otter Tail",
+    "county_fips_all": "27111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

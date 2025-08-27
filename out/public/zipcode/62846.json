@@ -1,0 +1,20 @@
+{
+    "zip": 62846,
+    "lat": 38.15042,
+    "lng": -88.85485,
+    "city": "Ina",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1845.0,
+    "density": 43.4,
+    "county_fips": 17081,
+    "county_name": "Jefferson",
+    "county_weights": "{\"17081\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "17081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

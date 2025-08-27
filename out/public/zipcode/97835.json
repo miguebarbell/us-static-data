@@ -1,0 +1,20 @@
+{
+    "zip": 97835,
+    "lat": 45.8992,
+    "lng": -118.772,
+    "city": "Helix",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 545.0,
+    "density": 1.4,
+    "county_fips": 41059,
+    "county_name": "Umatilla",
+    "county_weights": "{\"41059\": 100}",
+    "county_names_all": "Umatilla",
+    "county_fips_all": "41059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

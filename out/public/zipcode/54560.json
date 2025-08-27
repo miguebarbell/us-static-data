@@ -1,0 +1,20 @@
+{
+    "zip": 54560,
+    "lat": 46.00997,
+    "lng": -89.54365,
+    "city": "Sayner",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 574.0,
+    "density": 7.0,
+    "county_fips": 55125,
+    "county_name": "Vilas",
+    "county_weights": "{\"55125\": 100}",
+    "county_names_all": "Vilas",
+    "county_fips_all": "55125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

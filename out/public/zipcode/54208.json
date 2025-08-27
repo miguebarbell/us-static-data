@@ -1,0 +1,20 @@
+{
+    "zip": 54208,
+    "lat": 44.36239,
+    "lng": -87.79619,
+    "city": "Denmark",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6094.0,
+    "density": 23.7,
+    "county_fips": 55009,
+    "county_name": "Brown",
+    "county_weights": "{\"55009\": 58.68, \"55061\": 29.58, \"55071\": 11.74}",
+    "county_names_all": "Brown|Kewaunee|Manitowoc",
+    "county_fips_all": "55009|55061|55071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 58237,
+    "lat": 48.41522,
+    "lng": -97.40086,
+    "city": "Grafton",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5051.0,
+    "density": 7.8,
+    "county_fips": 38099,
+    "county_name": "Walsh",
+    "county_weights": "{\"38099\": 100}",
+    "county_names_all": "Walsh",
+    "county_fips_all": "38099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

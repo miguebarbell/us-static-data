@@ -1,0 +1,20 @@
+{
+    "zip": 15642,
+    "lat": 40.32045,
+    "lng": -79.72119,
+    "city": "Irwin",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 46727.0,
+    "density": 391.9,
+    "county_fips": 42129,
+    "county_name": "Westmoreland",
+    "county_weights": "{\"42129\": 98.1, \"42003\": 1.9}",
+    "county_names_all": "Westmoreland|Allegheny",
+    "county_fips_all": "42129|42003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

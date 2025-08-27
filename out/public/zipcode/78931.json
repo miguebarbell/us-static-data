@@ -1,0 +1,20 @@
+{
+    "zip": 78931,
+    "lat": 30.03117,
+    "lng": -96.44291,
+    "city": "Bleiblerville",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 204.0,
+    "density": 5.8,
+    "county_fips": 48015,
+    "county_name": "Austin",
+    "county_weights": "{\"48015\": 100}",
+    "county_names_all": "Austin",
+    "county_fips_all": "48015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

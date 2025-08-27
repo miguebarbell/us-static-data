@@ -1,0 +1,20 @@
+{
+    "zip": 38340,
+    "lat": 35.40021,
+    "lng": -88.68226,
+    "city": "Henderson",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12274.0,
+    "density": 27.3,
+    "county_fips": 47023,
+    "county_name": "Chester",
+    "county_weights": "{\"47023\": 87.74, \"47069\": 12.16, \"47109\": 0.1}",
+    "county_names_all": "Chester|Hardeman|McNairy",
+    "county_fips_all": "47023|47069|47109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

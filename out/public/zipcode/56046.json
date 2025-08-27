@@ -1,0 +1,20 @@
+{
+    "zip": 56046,
+    "lat": 43.9678,
+    "lng": -93.26889,
+    "city": "Hope",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 140.0,
+    "density": 27.4,
+    "county_fips": 27147,
+    "county_name": "Steele",
+    "county_weights": "{\"27147\": 100}",
+    "county_names_all": "Steele",
+    "county_fips_all": "27147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

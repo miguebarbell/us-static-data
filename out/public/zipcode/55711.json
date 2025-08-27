@@ -1,0 +1,20 @@
+{
+    "zip": 55711,
+    "lat": 46.84066,
+    "lng": -92.69498,
+    "city": "Brookston",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 518.0,
+    "density": 2.5,
+    "county_fips": 27137,
+    "county_name": "St. Louis",
+    "county_weights": "{\"27137\": 100}",
+    "county_names_all": "St. Louis",
+    "county_fips_all": "27137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

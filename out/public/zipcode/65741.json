@@ -1,0 +1,20 @@
+{
+    "zip": 65741,
+    "lat": 36.79545,
+    "lng": -92.40127,
+    "city": "Rockbridge",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 29153,
+    "county_name": "Ozark",
+    "county_weights": "{\"29153\": 99.9, \"29067\": 0.1}",
+    "county_names_all": "Ozark|Douglas",
+    "county_fips_all": "29153|29067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

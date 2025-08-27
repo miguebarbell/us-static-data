@@ -1,0 +1,20 @@
+{
+    "zip": 58365,
+    "lat": 48.83655,
+    "lng": -99.23626,
+    "city": "Rocklake",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 159.0,
+    "density": 0.3,
+    "county_fips": 38095,
+    "county_name": "Towner",
+    "county_weights": "{\"38095\": 100}",
+    "county_names_all": "Towner",
+    "county_fips_all": "38095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

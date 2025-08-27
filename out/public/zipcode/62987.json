@@ -1,0 +1,20 @@
+{
+    "zip": 62987,
+    "lat": 37.61114,
+    "lng": -88.65695,
+    "city": "Stonefort",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1592.0,
+    "density": 6.7,
+    "county_fips": 17151,
+    "county_name": "Pope",
+    "county_weights": "{\"17151\": 42.19, \"17165\": 39.72, \"17199\": 18.09}",
+    "county_names_all": "Pope|Saline|Williamson",
+    "county_fips_all": "17151|17165|17199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

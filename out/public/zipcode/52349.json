@@ -1,0 +1,20 @@
+{
+    "zip": 52349,
+    "lat": 42.17246,
+    "lng": -92.00566,
+    "city": "Vinton",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7745.0,
+    "density": 20.0,
+    "county_fips": 19011,
+    "county_name": "Benton",
+    "county_weights": "{\"19011\": 100}",
+    "county_names_all": "Benton",
+    "county_fips_all": "19011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

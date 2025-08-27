@@ -1,0 +1,20 @@
+{
+    "zip": 89001,
+    "lat": 37.40035,
+    "lng": -115.39564,
+    "city": "Alamo",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1045.0,
+    "density": 0.8,
+    "county_fips": 32017,
+    "county_name": "Lincoln",
+    "county_weights": "{\"32017\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "32017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

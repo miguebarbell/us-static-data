@@ -1,0 +1,20 @@
+{
+    "zip": 56669,
+    "lat": 48.37718,
+    "lng": -93.22655,
+    "city": "Kabetogama",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 234.0,
+    "density": 0.4,
+    "county_fips": 27071,
+    "county_name": "Koochiching",
+    "county_weights": "{\"27071\": 86.14, \"27137\": 13.86}",
+    "county_names_all": "Koochiching|St. Louis",
+    "county_fips_all": "27071|27137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

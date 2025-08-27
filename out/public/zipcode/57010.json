@@ -1,0 +1,20 @@
+{
+    "zip": 57010,
+    "lat": 42.8119,
+    "lng": -96.82403,
+    "city": "Burbank",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 613.0,
+    "density": 3.8,
+    "county_fips": 46027,
+    "county_name": "Clay",
+    "county_weights": "{\"46027\": 69.56, \"46127\": 30.44}",
+    "county_names_all": "Clay|Union",
+    "county_fips_all": "46027|46127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

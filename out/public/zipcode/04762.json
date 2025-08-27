@@ -1,0 +1,20 @@
+{
+    "zip": 4762,
+    "lat": 46.97574,
+    "lng": -68.12094,
+    "city": "New Sweden",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 517.0,
+    "density": 5.8,
+    "county_fips": 23003,
+    "county_name": "Aroostook",
+    "county_weights": "{\"23003\": 100}",
+    "county_names_all": "Aroostook",
+    "county_fips_all": "23003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 14867,
+    "lat": 42.34243,
+    "lng": -76.61461,
+    "city": "Newfield",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5188.0,
+    "density": 29.6,
+    "county_fips": 36109,
+    "county_name": "Tompkins",
+    "county_weights": "{\"36109\": 97.64, \"36015\": 2.36}",
+    "county_names_all": "Tompkins|Chemung",
+    "county_fips_all": "36109|36015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

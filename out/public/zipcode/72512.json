@@ -1,0 +1,20 @@
+{
+    "zip": 72512,
+    "lat": 36.22326,
+    "lng": -91.7514,
+    "city": "Horseshoe Bend",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2458.0,
+    "density": 44.1,
+    "county_fips": 5065,
+    "county_name": "Izard",
+    "county_weights": "{\"05065\": 99.47, \"05049\": 0.53}",
+    "county_names_all": "Izard|Fulton",
+    "county_fips_all": "05065|05049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

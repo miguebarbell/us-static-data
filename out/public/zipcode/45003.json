@@ -1,0 +1,20 @@
+{
+    "zip": 45003,
+    "lat": 39.58427,
+    "lng": -84.77942,
+    "city": "College Corner",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 666.0,
+    "density": 16.9,
+    "county_fips": 39135,
+    "county_name": "Preble",
+    "county_weights": "{\"39135\": 82.25, \"39017\": 17.75}",
+    "county_names_all": "Preble|Butler",
+    "county_fips_all": "39135|39017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

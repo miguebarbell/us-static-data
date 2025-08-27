@@ -1,0 +1,20 @@
+{
+    "zip": 52203,
+    "lat": 41.81035,
+    "lng": -91.8906,
+    "city": "Amana",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2315.0,
+    "density": 17.0,
+    "county_fips": 19095,
+    "county_name": "Iowa",
+    "county_weights": "{\"19095\": 78.74, \"19103\": 21.26}",
+    "county_names_all": "Iowa|Johnson",
+    "county_fips_all": "19095|19103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

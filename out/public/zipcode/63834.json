@@ -1,0 +1,20 @@
+{
+    "zip": 63834,
+    "lat": 36.91989,
+    "lng": -89.27885,
+    "city": "Charleston",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5218.0,
+    "density": 8.1,
+    "county_fips": 29133,
+    "county_name": "Mississippi",
+    "county_weights": "{\"29133\": 85.25, \"29201\": 14.75}",
+    "county_names_all": "Mississippi|Scott",
+    "county_fips_all": "29133|29201",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

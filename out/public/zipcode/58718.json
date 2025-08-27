@@ -1,0 +1,20 @@
+{
+    "zip": 58718,
+    "lat": 48.31128,
+    "lng": -101.82989,
+    "city": "Berthold",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1137.0,
+    "density": 1.0,
+    "county_fips": 38101,
+    "county_name": "Ward",
+    "county_weights": "{\"38101\": 63.98, \"38061\": 31.91, \"38075\": 4.11}",
+    "county_names_all": "Ward|Mountrail|Renville",
+    "county_fips_all": "38101|38061|38075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

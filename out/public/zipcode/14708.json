@@ -1,0 +1,20 @@
+{
+    "zip": 14708,
+    "lat": 42.01424,
+    "lng": -78.06988,
+    "city": "Alma",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 139.0,
+    "density": 5.9,
+    "county_fips": 36003,
+    "county_name": "Allegany",
+    "county_weights": "{\"36003\": 100}",
+    "county_names_all": "Allegany",
+    "county_fips_all": "36003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

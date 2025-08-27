@@ -1,0 +1,20 @@
+{
+    "zip": 38049,
+    "lat": 35.38689,
+    "lng": -89.544,
+    "city": "Mason",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4319.0,
+    "density": 15.0,
+    "county_fips": 47047,
+    "county_name": "Fayette",
+    "county_weights": "{\"47047\": 62.52, \"47167\": 37.48}",
+    "county_names_all": "Fayette|Tipton",
+    "county_fips_all": "47047|47167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

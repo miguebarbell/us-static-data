@@ -1,0 +1,20 @@
+{
+    "zip": 48438,
+    "lat": 42.91142,
+    "lng": -83.47819,
+    "city": "Goodrich",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7305.0,
+    "density": 88.5,
+    "county_fips": 26049,
+    "county_name": "Genesee",
+    "county_weights": "{\"26049\": 71.42, \"26087\": 28.58}",
+    "county_names_all": "Genesee|Lapeer",
+    "county_fips_all": "26049|26087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

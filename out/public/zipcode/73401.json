@@ -1,0 +1,20 @@
+{
+    "zip": 73401,
+    "lat": 34.21045,
+    "lng": -97.11434,
+    "city": "Ardmore",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36228.0,
+    "density": 39.8,
+    "county_fips": 40019,
+    "county_name": "Carter",
+    "county_weights": "{\"40019\": 96.86, \"40085\": 2.82, \"40069\": 0.32}",
+    "county_names_all": "Carter|Love|Johnston",
+    "county_fips_all": "40019|40085|40069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

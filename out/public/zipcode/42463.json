@@ -1,0 +1,20 @@
+{
+    "zip": 42463,
+    "lat": 37.47897,
+    "lng": -87.86717,
+    "city": "Wheatcroft",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 120.0,
+    "density": 30.3,
+    "county_fips": 21233,
+    "county_name": "Webster",
+    "county_weights": "{\"21233\": 100}",
+    "county_names_all": "Webster",
+    "county_fips_all": "21233",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

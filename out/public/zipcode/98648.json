@@ -1,0 +1,20 @@
+{
+    "zip": 98648,
+    "lat": 45.70563,
+    "lng": -121.9489,
+    "city": "Stevenson",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3353.0,
+    "density": 9.0,
+    "county_fips": 53059,
+    "county_name": "Skamania",
+    "county_weights": "{\"53059\": 100}",
+    "county_names_all": "Skamania",
+    "county_fips_all": "53059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

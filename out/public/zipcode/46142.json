@@ -1,0 +1,20 @@
+{
+    "zip": 46142,
+    "lat": 39.62029,
+    "lng": -86.1764,
+    "city": "Greenwood",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35368.0,
+    "density": 914.1,
+    "county_fips": 18081,
+    "county_name": "Johnson",
+    "county_weights": "{\"18081\": 100}",
+    "county_names_all": "Johnson",
+    "county_fips_all": "18081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

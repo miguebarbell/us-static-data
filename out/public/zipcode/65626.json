@@ -1,0 +1,20 @@
+{
+    "zip": 65626,
+    "lat": 36.59088,
+    "lng": -92.11697,
+    "city": "Caulfield",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1977.0,
+    "density": 7.3,
+    "county_fips": 29153,
+    "county_name": "Ozark",
+    "county_weights": "{\"29153\": 50.43, \"29091\": 49.57}",
+    "county_names_all": "Ozark|Howell",
+    "county_fips_all": "29153|29091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

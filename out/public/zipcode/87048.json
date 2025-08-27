@@ -1,0 +1,20 @@
+{
+    "zip": 87048,
+    "lat": 35.23624,
+    "lng": -106.61977,
+    "city": "Corrales",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9173.0,
+    "density": 322.2,
+    "county_fips": 35043,
+    "county_name": "Sandoval",
+    "county_weights": "{\"35043\": 98.15, \"35001\": 1.85}",
+    "county_names_all": "Sandoval|Bernalillo",
+    "county_fips_all": "35043|35001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

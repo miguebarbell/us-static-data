@@ -1,0 +1,20 @@
+{
+    "zip": 23976,
+    "lat": 36.8482,
+    "lng": -78.5797,
+    "city": "Wylliesburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 128.0,
+    "density": 5.7,
+    "county_fips": 51037,
+    "county_name": "Charlotte",
+    "county_weights": "{\"51037\": 100}",
+    "county_names_all": "Charlotte",
+    "county_fips_all": "51037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

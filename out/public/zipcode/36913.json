@@ -1,0 +1,20 @@
+{
+    "zip": 36913,
+    "lat": 31.96069,
+    "lng": -88.44667,
+    "city": "Melvin",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 56.0,
+    "density": 2.3,
+    "county_fips": 1023,
+    "county_name": "Choctaw",
+    "county_weights": "{\"01023\": 100}",
+    "county_names_all": "Choctaw",
+    "county_fips_all": "01023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

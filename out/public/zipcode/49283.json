@@ -1,0 +1,20 @@
+{
+    "zip": 49283,
+    "lat": 42.20486,
+    "lng": -84.55478,
+    "city": "Spring Arbor",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4597.0,
+    "density": 122.7,
+    "county_fips": 26075,
+    "county_name": "Jackson",
+    "county_weights": "{\"26075\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "26075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

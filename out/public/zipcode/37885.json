@@ -1,0 +1,20 @@
+{
+    "zip": 37885,
+    "lat": 35.50392,
+    "lng": -84.12539,
+    "city": "Vonore",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6120.0,
+    "density": 16.3,
+    "county_fips": 47123,
+    "county_name": "Monroe",
+    "county_weights": "{\"47123\": 97.86, \"47105\": 2.14}",
+    "county_names_all": "Monroe|Loudon",
+    "county_fips_all": "47123|47105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

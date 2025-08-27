@@ -1,0 +1,20 @@
+{
+    "zip": 59442,
+    "lat": 47.93005,
+    "lng": -110.64697,
+    "city": "Fort Benton",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1777.0,
+    "density": 0.9,
+    "county_fips": 30015,
+    "county_name": "Chouteau",
+    "county_weights": "{\"30015\": 100}",
+    "county_names_all": "Chouteau",
+    "county_fips_all": "30015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

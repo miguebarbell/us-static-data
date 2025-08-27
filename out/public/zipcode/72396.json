@@ -1,0 +1,20 @@
+{
+    "zip": 72396,
+    "lat": 35.22966,
+    "lng": -90.83559,
+    "city": "Wynne",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12854.0,
+    "density": 20.4,
+    "county_fips": 5037,
+    "county_name": "Cross",
+    "county_weights": "{\"05037\": 94.76, \"05123\": 5.24}",
+    "county_names_all": "Cross|St. Francis",
+    "county_fips_all": "05037|05123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

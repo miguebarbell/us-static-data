@@ -1,0 +1,20 @@
+{
+    "zip": 79250,
+    "lat": 33.88134,
+    "lng": -101.59881,
+    "city": "Petersburg",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1089.0,
+    "density": 2.6,
+    "county_fips": 48189,
+    "county_name": "Hale",
+    "county_weights": "{\"48189\": 58.05, \"48153\": 19.0, \"48303\": 11.59, \"48107\": 11.36}",
+    "county_names_all": "Hale|Floyd|Lubbock|Crosby",
+    "county_fips_all": "48189|48153|48303|48107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

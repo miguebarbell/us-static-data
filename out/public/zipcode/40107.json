@@ -1,0 +1,20 @@
+{
+    "zip": 40107,
+    "lat": 37.76952,
+    "lng": -85.63798,
+    "city": "Boston",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1981.0,
+    "density": 14.5,
+    "county_fips": 21179,
+    "county_name": "Nelson",
+    "county_weights": "{\"21179\": 100}",
+    "county_names_all": "Nelson",
+    "county_fips_all": "21179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

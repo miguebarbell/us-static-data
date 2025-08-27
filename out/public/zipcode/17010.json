@@ -1,0 +1,20 @@
+{
+    "zip": 17010,
+    "lat": 40.27809,
+    "lng": -76.58335,
+    "city": "Campbelltown",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 170.0,
+    "density": 3139.7,
+    "county_fips": 42075,
+    "county_name": "Lebanon",
+    "county_weights": "{\"42075\": 100}",
+    "county_names_all": "Lebanon",
+    "county_fips_all": "42075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

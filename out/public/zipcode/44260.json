@@ -1,0 +1,20 @@
+{
+    "zip": 44260,
+    "lat": 41.03684,
+    "lng": -81.34079,
+    "city": "Mogadore",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12733.0,
+    "density": 149.0,
+    "county_fips": 39133,
+    "county_name": "Portage",
+    "county_weights": "{\"39133\": 93.7, \"39153\": 5.14, \"39151\": 1.16}",
+    "county_names_all": "Portage|Summit|Stark",
+    "county_fips_all": "39133|39153|39151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

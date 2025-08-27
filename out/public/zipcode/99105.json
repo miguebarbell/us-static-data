@@ -1,0 +1,20 @@
+{
+    "zip": 99105,
+    "lat": 46.9213,
+    "lng": -118.08264,
+    "city": "Benge",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31.0,
+    "density": 0.1,
+    "county_fips": 53001,
+    "county_name": "Adams",
+    "county_weights": "{\"53001\": 100}",
+    "county_names_all": "Adams",
+    "county_fips_all": "53001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

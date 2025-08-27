@@ -1,0 +1,20 @@
+{
+    "zip": 25181,
+    "lat": 38.04962,
+    "lng": -81.63476,
+    "city": "Seth",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1281.0,
+    "density": 8.7,
+    "county_fips": 54005,
+    "county_name": "Boone",
+    "county_weights": "{\"54005\": 100}",
+    "county_names_all": "Boone",
+    "county_fips_all": "54005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

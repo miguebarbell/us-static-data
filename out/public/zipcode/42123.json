@@ -1,0 +1,20 @@
+{
+    "zip": 42123,
+    "lat": 36.82039,
+    "lng": -85.99573,
+    "city": "Austin",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1203.0,
+    "density": 21.1,
+    "county_fips": 21009,
+    "county_name": "Barren",
+    "county_weights": "{\"21009\": 100}",
+    "county_names_all": "Barren",
+    "county_fips_all": "21009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

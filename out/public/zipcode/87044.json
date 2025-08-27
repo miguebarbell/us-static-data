@@ -1,0 +1,20 @@
+{
+    "zip": 87044,
+    "lat": 35.71254,
+    "lng": -106.65652,
+    "city": "Ponderosa",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 252.0,
+    "density": 2.3,
+    "county_fips": 35043,
+    "county_name": "Sandoval",
+    "county_weights": "{\"35043\": 100}",
+    "county_names_all": "Sandoval",
+    "county_fips_all": "35043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

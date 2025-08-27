@@ -1,0 +1,20 @@
+{
+    "zip": 29332,
+    "lat": 34.28329,
+    "lng": -81.97292,
+    "city": "Cross Hill",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3261.0,
+    "density": 27.0,
+    "county_fips": 45059,
+    "county_name": "Laurens",
+    "county_weights": "{\"45059\": 96.7, \"45071\": 3.3}",
+    "county_names_all": "Laurens|Newberry",
+    "county_fips_all": "45059|45071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

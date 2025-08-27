@@ -1,0 +1,20 @@
+{
+    "zip": 28676,
+    "lat": 36.3283,
+    "lng": -80.85722,
+    "city": "State Road",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2863.0,
+    "density": 39.3,
+    "county_fips": 37171,
+    "county_name": "Surry",
+    "county_weights": "{\"37171\": 76.21, \"37193\": 23.79}",
+    "county_names_all": "Surry|Wilkes",
+    "county_fips_all": "37171|37193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

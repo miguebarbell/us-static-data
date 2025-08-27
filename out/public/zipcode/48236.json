@@ -1,0 +1,20 @@
+{
+    "zip": 48236,
+    "lat": 42.42504,
+    "lng": -82.89687,
+    "city": "Grosse Pointe",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31383.0,
+    "density": 1620.4,
+    "county_fips": 26163,
+    "county_name": "Wayne",
+    "county_weights": "{\"26163\": 97.61, \"26099\": 2.39}",
+    "county_names_all": "Wayne|Macomb",
+    "county_fips_all": "26163|26099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

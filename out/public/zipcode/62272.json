@@ -1,0 +1,20 @@
+{
+    "zip": 62272,
+    "lat": 38.00241,
+    "lng": -89.61562,
+    "city": "Percy",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1713.0,
+    "density": 20.5,
+    "county_fips": 17157,
+    "county_name": "Randolph",
+    "county_weights": "{\"17157\": 81.89, \"17145\": 16.97, \"17077\": 1.14}",
+    "county_names_all": "Randolph|Perry|Jackson",
+    "county_fips_all": "17157|17145|17077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

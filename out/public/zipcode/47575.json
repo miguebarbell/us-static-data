@@ -1,0 +1,20 @@
+{
+    "zip": 47575,
+    "lat": 38.32314,
+    "lng": -86.81128,
+    "city": "Saint Anthony",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1118.0,
+    "density": 19.2,
+    "county_fips": 18037,
+    "county_name": "Dubois",
+    "county_weights": "{\"18037\": 100}",
+    "county_names_all": "Dubois",
+    "county_fips_all": "18037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Vincennes"
+}

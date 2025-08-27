@@ -1,0 +1,20 @@
+{
+    "zip": 63623,
+    "lat": 37.67532,
+    "lng": -90.8941,
+    "city": "Belleview",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 795.0,
+    "density": 2.9,
+    "county_fips": 29093,
+    "county_name": "Iron",
+    "county_weights": "{\"29093\": 100}",
+    "county_names_all": "Iron",
+    "county_fips_all": "29093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 62022,
+    "lat": 39.00139,
+    "lng": -90.32972,
+    "city": "Dow",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1073.0,
+    "density": 20.3,
+    "county_fips": 17083,
+    "county_name": "Jersey",
+    "county_weights": "{\"17083\": 100}",
+    "county_names_all": "Jersey",
+    "county_fips_all": "17083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

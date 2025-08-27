@@ -1,0 +1,20 @@
+{
+    "zip": 63637,
+    "lat": 37.70511,
+    "lng": -90.51875,
+    "city": "Doe Run",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 894.0,
+    "density": 17.4,
+    "county_fips": 29187,
+    "county_name": "St. Francois",
+    "county_weights": "{\"29187\": 100}",
+    "county_names_all": "St. Francois",
+    "county_fips_all": "29187",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

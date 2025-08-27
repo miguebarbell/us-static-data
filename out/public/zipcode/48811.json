@@ -1,0 +1,20 @@
+{
+    "zip": 48811,
+    "lat": 43.18226,
+    "lng": -84.85518,
+    "city": "Carson City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7416.0,
+    "density": 46.3,
+    "county_fips": 26117,
+    "county_name": "Montcalm",
+    "county_weights": "{\"26117\": 63.13, \"26057\": 36.87}",
+    "county_names_all": "Montcalm|Gratiot",
+    "county_fips_all": "26117|26057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

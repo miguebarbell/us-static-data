@@ -1,0 +1,20 @@
+{
+    "zip": 36042,
+    "lat": 31.86655,
+    "lng": -86.44897,
+    "city": "Honoraville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1346.0,
+    "density": 6.5,
+    "county_fips": 1041,
+    "county_name": "Crenshaw",
+    "county_weights": "{\"01041\": 50.87, \"01013\": 49.13}",
+    "county_names_all": "Crenshaw|Butler",
+    "county_fips_all": "01041|01013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

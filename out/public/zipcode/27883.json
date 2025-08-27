@@ -1,0 +1,20 @@
+{
+    "zip": 27883,
+    "lat": 35.59141,
+    "lng": -77.80095,
+    "city": "Stantonsburg",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4447.0,
+    "density": 21.8,
+    "county_fips": 37195,
+    "county_name": "Wilson",
+    "county_weights": "{\"37195\": 47.81, \"37079\": 36.65, \"37191\": 15.55}",
+    "county_names_all": "Wilson|Greene|Wayne",
+    "county_fips_all": "37195|37079|37191",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

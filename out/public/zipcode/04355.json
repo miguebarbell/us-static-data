@@ -1,0 +1,20 @@
+{
+    "zip": 4355,
+    "lat": 44.38227,
+    "lng": -69.94915,
+    "city": "Readfield",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2628.0,
+    "density": 34.9,
+    "county_fips": 23011,
+    "county_name": "Kennebec",
+    "county_weights": "{\"23011\": 100}",
+    "county_names_all": "Kennebec",
+    "county_fips_all": "23011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

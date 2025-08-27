@@ -1,0 +1,20 @@
+{
+    "zip": 1938,
+    "lat": 42.68568,
+    "lng": -70.83989,
+    "city": "Ipswich",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13820.0,
+    "density": 166.2,
+    "county_fips": 25009,
+    "county_name": "Essex",
+    "county_weights": "{\"25009\": 100}",
+    "county_names_all": "Essex",
+    "county_fips_all": "25009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

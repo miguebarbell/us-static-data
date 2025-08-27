@@ -1,0 +1,20 @@
+{
+    "zip": 98547,
+    "lat": 46.78622,
+    "lng": -124.01956,
+    "city": "Grayland",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1206.0,
+    "density": 7.6,
+    "county_fips": 53049,
+    "county_name": "Pacific",
+    "county_weights": "{\"53049\": 59.6, \"53027\": 40.4}",
+    "county_names_all": "Pacific|Grays Harbor",
+    "county_fips_all": "53049|53027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

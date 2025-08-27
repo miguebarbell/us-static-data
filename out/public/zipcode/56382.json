@@ -1,0 +1,20 @@
+{
+    "zip": 56382,
+    "lat": 45.9146,
+    "lng": -94.611,
+    "city": "Swanville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1360.0,
+    "density": 7.8,
+    "county_fips": 27097,
+    "county_name": "Morrison",
+    "county_weights": "{\"27097\": 76.2, \"27153\": 23.8}",
+    "county_names_all": "Morrison|Todd",
+    "county_fips_all": "27097|27153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

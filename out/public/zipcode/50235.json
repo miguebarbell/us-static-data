@@ -1,0 +1,20 @@
+{
+    "zip": 50235,
+    "lat": 41.92974,
+    "lng": -94.20873,
+    "city": "Rippey",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 438.0,
+    "density": 3.5,
+    "county_fips": 19073,
+    "county_name": "Greene",
+    "county_weights": "{\"19073\": 85.56, \"19015\": 10.42, \"19049\": 4.02}",
+    "county_names_all": "Greene|Boone|Dallas",
+    "county_fips_all": "19073|19015|19049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

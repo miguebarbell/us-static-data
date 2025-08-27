@@ -1,0 +1,20 @@
+{
+    "zip": 65732,
+    "lat": 37.93938,
+    "lng": -93.16763,
+    "city": "Preston",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1263.0,
+    "density": 8.5,
+    "county_fips": 29085,
+    "county_name": "Hickory",
+    "county_weights": "{\"29085\": 100}",
+    "county_names_all": "Hickory",
+    "county_fips_all": "29085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

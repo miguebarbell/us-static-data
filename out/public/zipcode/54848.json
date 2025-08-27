@@ -1,0 +1,20 @@
+{
+    "zip": 54848,
+    "lat": 45.51546,
+    "lng": -91.10284,
+    "city": "Ladysmith",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5866.0,
+    "density": 11.9,
+    "county_fips": 55107,
+    "county_name": "Rusk",
+    "county_weights": "{\"55107\": 100}",
+    "county_names_all": "Rusk",
+    "county_fips_all": "55107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65724,
+    "lat": 37.83924,
+    "lng": -93.31488,
+    "city": "Pittsburg",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1728.0,
+    "density": 28.9,
+    "county_fips": 29085,
+    "county_name": "Hickory",
+    "county_weights": "{\"29085\": 92.29, \"29167\": 7.71}",
+    "county_names_all": "Hickory|Polk",
+    "county_fips_all": "29085|29167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

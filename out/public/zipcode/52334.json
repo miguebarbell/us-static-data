@@ -1,0 +1,20 @@
+{
+    "zip": 52334,
+    "lat": 41.73084,
+    "lng": -91.94355,
+    "city": "South Amana",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 190.0,
+    "density": 5.4,
+    "county_fips": 19095,
+    "county_name": "Iowa",
+    "county_weights": "{\"19095\": 100}",
+    "county_names_all": "Iowa",
+    "county_fips_all": "19095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

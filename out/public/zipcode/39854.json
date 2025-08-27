@@ -1,0 +1,20 @@
+{
+    "zip": 39854,
+    "lat": 31.86713,
+    "lng": -85.04881,
+    "city": "Georgetown",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2295.0,
+    "density": 7.7,
+    "county_fips": 13239,
+    "county_name": "Quitman",
+    "county_weights": "{\"13239\": 94.03, \"13061\": 5.97}",
+    "county_names_all": "Quitman|Clay",
+    "county_fips_all": "13239|13061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

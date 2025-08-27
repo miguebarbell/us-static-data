@@ -1,0 +1,20 @@
+{
+    "zip": 69357,
+    "lat": 42.0776,
+    "lng": -103.79553,
+    "city": "Mitchell",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3563.0,
+    "density": 3.8,
+    "county_fips": 31165,
+    "county_name": "Sioux",
+    "county_weights": "{\"31165\": 68.56, \"31157\": 31.44}",
+    "county_names_all": "Sioux|Scotts Bluff",
+    "county_fips_all": "31165|31157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

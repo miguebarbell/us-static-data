@@ -1,0 +1,20 @@
+{
+    "zip": 77517,
+    "lat": 29.36253,
+    "lng": -95.1369,
+    "city": "Santa Fe",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5665.0,
+    "density": 83.5,
+    "county_fips": 48167,
+    "county_name": "Galveston",
+    "county_weights": "{\"48167\": 75.18, \"48039\": 24.82}",
+    "county_names_all": "Galveston|Brazoria",
+    "county_fips_all": "48167|48039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

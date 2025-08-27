@@ -1,0 +1,20 @@
+{
+    "zip": 71454,
+    "lat": 31.69334,
+    "lng": -92.86131,
+    "city": "Montgomery",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2922.0,
+    "density": 10.6,
+    "county_fips": 22043,
+    "county_name": "Grant",
+    "county_weights": "{\"22043\": 61.86, \"22127\": 38.14}",
+    "county_names_all": "Grant|Winn",
+    "county_fips_all": "22043|22127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

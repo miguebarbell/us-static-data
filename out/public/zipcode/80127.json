@@ -1,0 +1,20 @@
+{
+    "zip": 80127,
+    "lat": 39.52249,
+    "lng": -105.15773,
+    "city": "Littleton",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43826.0,
+    "density": 254.9,
+    "county_fips": 8059,
+    "county_name": "Jefferson",
+    "county_weights": "{\"08059\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "08059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

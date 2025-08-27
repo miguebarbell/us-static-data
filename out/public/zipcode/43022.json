@@ -1,0 +1,20 @@
+{
+    "zip": 43022,
+    "lat": 40.33765,
+    "lng": -82.34135,
+    "city": "Gambier",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3621.0,
+    "density": 33.2,
+    "county_fips": 39083,
+    "county_name": "Knox",
+    "county_weights": "{\"39083\": 100}",
+    "county_names_all": "Knox",
+    "county_fips_all": "39083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

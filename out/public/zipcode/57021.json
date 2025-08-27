@@ -1,0 +1,20 @@
+{
+    "zip": 57021,
+    "lat": 43.2723,
+    "lng": -96.97797,
+    "city": "Davis",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 356.0,
+    "density": 4.6,
+    "county_fips": 46125,
+    "county_name": "Turner",
+    "county_weights": "{\"46125\": 100}",
+    "county_names_all": "Turner",
+    "county_fips_all": "46125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

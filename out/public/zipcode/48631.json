@@ -1,0 +1,20 @@
+{
+    "zip": 48631,
+    "lat": 43.6849,
+    "lng": -84.00155,
+    "city": "Kawkawlin",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4058.0,
+    "density": 47.6,
+    "county_fips": 26017,
+    "county_name": "Bay",
+    "county_weights": "{\"26017\": 100}",
+    "county_names_all": "Bay",
+    "county_fips_all": "26017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

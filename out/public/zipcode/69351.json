@@ -1,0 +1,20 @@
+{
+    "zip": 69351,
+    "lat": 42.1171,
+    "lng": -102.42096,
+    "city": "Lakeside",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 183.0,
+    "density": 0.1,
+    "county_fips": 31161,
+    "county_name": "Sheridan",
+    "county_weights": "{\"31161\": 59.72, \"31069\": 40.28}",
+    "county_names_all": "Sheridan|Garden",
+    "county_fips_all": "31161|31069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

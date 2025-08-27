@@ -1,0 +1,20 @@
+{
+    "zip": 29053,
+    "lat": 33.82734,
+    "lng": -81.08646,
+    "city": "Gaston",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20818.0,
+    "density": 100.0,
+    "county_fips": 45063,
+    "county_name": "Lexington",
+    "county_weights": "{\"45063\": 70.99, \"45017\": 29.01}",
+    "county_names_all": "Lexington|Calhoun",
+    "county_fips_all": "45063|45017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 88118,
+    "lat": 34.23626,
+    "lng": -103.6645,
+    "city": "Floyd",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 245.0,
+    "density": 0.5,
+    "county_fips": 35041,
+    "county_name": "Roosevelt",
+    "county_weights": "{\"35041\": 82.5, \"35009\": 17.5}",
+    "county_names_all": "Roosevelt|Curry",
+    "county_fips_all": "35041|35009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

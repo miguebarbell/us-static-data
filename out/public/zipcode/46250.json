@@ -1,0 +1,20 @@
+{
+    "zip": 46250,
+    "lat": 39.90399,
+    "lng": -86.06864,
+    "city": "Indianapolis",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17933.0,
+    "density": 894.1,
+    "county_fips": 18097,
+    "county_name": "Marion",
+    "county_weights": "{\"18097\": 99.44, \"18057\": 0.56}",
+    "county_names_all": "Marion|Hamilton",
+    "county_fips_all": "18097|18057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 95333,
+    "lat": 37.2447,
+    "lng": -120.24277,
+    "city": "Le Grand",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3203.0,
+    "density": 10.1,
+    "county_fips": 6047,
+    "county_name": "Merced",
+    "county_weights": "{\"06047\": 100}",
+    "county_names_all": "Merced",
+    "county_fips_all": "06047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

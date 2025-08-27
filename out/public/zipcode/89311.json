@@ -1,0 +1,20 @@
+{
+    "zip": 89311,
+    "lat": 39.16715,
+    "lng": -114.19288,
+    "city": "Baker",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 174.0,
+    "density": 0.1,
+    "county_fips": 32033,
+    "county_name": "White Pine",
+    "county_weights": "{\"32033\": 100}",
+    "county_names_all": "White Pine",
+    "county_fips_all": "32033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

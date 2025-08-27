@@ -1,0 +1,20 @@
+{
+    "zip": 39653,
+    "lat": 31.46055,
+    "lng": -90.86727,
+    "city": "Meadville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2761.0,
+    "density": 4.7,
+    "county_fips": 28037,
+    "county_name": "Franklin",
+    "county_weights": "{\"28037\": 94.21, \"28063\": 3.9, \"28005\": 1.89}",
+    "county_names_all": "Franklin|Jefferson|Amite",
+    "county_fips_all": "28037|28063|28005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

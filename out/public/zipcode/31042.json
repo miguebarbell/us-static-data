@@ -1,0 +1,20 @@
+{
+    "zip": 31042,
+    "lat": 32.74421,
+    "lng": -83.16964,
+    "city": "Irwinton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1546.0,
+    "density": 7.1,
+    "county_fips": 13319,
+    "county_name": "Wilkinson",
+    "county_weights": "{\"13319\": 100}",
+    "county_names_all": "Wilkinson",
+    "county_fips_all": "13319",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

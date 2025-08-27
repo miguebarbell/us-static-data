@@ -1,0 +1,20 @@
+{
+    "zip": 99009,
+    "lat": 48.0253,
+    "lng": -117.24993,
+    "city": "Elk",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4525.0,
+    "density": 21.6,
+    "county_fips": 53063,
+    "county_name": "Spokane",
+    "county_weights": "{\"53063\": 65.59, \"53051\": 34.41}",
+    "county_names_all": "Spokane|Pend Oreille",
+    "county_fips_all": "53063|53051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

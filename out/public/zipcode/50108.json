@@ -1,0 +1,20 @@
+{
+    "zip": 50108,
+    "lat": 40.82479,
+    "lng": -93.9577,
+    "city": "Grand River",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 432.0,
+    "density": 2.0,
+    "county_fips": 19053,
+    "county_name": "Decatur",
+    "county_weights": "{\"19053\": 88.31, \"19039\": 11.69}",
+    "county_names_all": "Decatur|Clarke",
+    "county_fips_all": "19053|19039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 26201,
+    "lat": 39.00082,
+    "lng": -80.20249,
+    "city": "Buckhannon",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19020.0,
+    "density": 41.8,
+    "county_fips": 54097,
+    "county_name": "Upshur",
+    "county_weights": "{\"54097\": 88.01, \"54001\": 8.3, \"54041\": 3.69}",
+    "county_names_all": "Upshur|Barbour|Lewis",
+    "county_fips_all": "54097|54001|54041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

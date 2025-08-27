@@ -1,0 +1,20 @@
+{
+    "zip": 40855,
+    "lat": 36.94931,
+    "lng": -82.89836,
+    "city": "Lynch",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 782.0,
+    "density": 20.2,
+    "county_fips": 21095,
+    "county_name": "Harlan",
+    "county_weights": "{\"21095\": 100}",
+    "county_names_all": "Harlan",
+    "county_fips_all": "21095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

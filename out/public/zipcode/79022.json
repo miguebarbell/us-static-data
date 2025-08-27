@@ -1,0 +1,20 @@
+{
+    "zip": 79022,
+    "lat": 36.10004,
+    "lng": -102.61443,
+    "city": "Dalhart",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10764.0,
+    "density": 2.1,
+    "county_fips": 48111,
+    "county_name": "Dallam",
+    "county_weights": "{\"48111\": 57.8, \"48205\": 42.2}",
+    "county_names_all": "Dallam|Hartley",
+    "county_fips_all": "48111|48205",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

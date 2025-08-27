@@ -1,0 +1,20 @@
+{
+    "zip": 39652,
+    "lat": 31.11034,
+    "lng": -90.46701,
+    "city": "Magnolia",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8522.0,
+    "density": 21.0,
+    "county_fips": 28113,
+    "county_name": "Pike",
+    "county_weights": "{\"28113\": 72.59, \"28005\": 27.41}",
+    "county_names_all": "Pike|Amite",
+    "county_fips_all": "28113|28005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

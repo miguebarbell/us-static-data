@@ -1,0 +1,20 @@
+{
+    "zip": 41630,
+    "lat": 37.46416,
+    "lng": -82.84992,
+    "city": "Garrett",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 938.0,
+    "density": 23.4,
+    "county_fips": 21071,
+    "county_name": "Floyd",
+    "county_weights": "{\"21071\": 54.14, \"21119\": 45.86}",
+    "county_names_all": "Floyd|Knott",
+    "county_fips_all": "21071|21119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 67952,
+    "lat": 37.29886,
+    "lng": -101.13934,
+    "city": "Moscow",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 494.0,
+    "density": 0.9,
+    "county_fips": 20189,
+    "county_name": "Stevens",
+    "county_weights": "{\"20189\": 73.04, \"20175\": 26.96}",
+    "county_names_all": "Stevens|Seward",
+    "county_fips_all": "20189|20175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

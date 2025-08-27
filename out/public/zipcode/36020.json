@@ -1,0 +1,20 @@
+{
+    "zip": 36020,
+    "lat": 32.49616,
+    "lng": -86.31858,
+    "city": "Coosada",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1090.0,
+    "density": 50.0,
+    "county_fips": 1051,
+    "county_name": "Elmore",
+    "county_weights": "{\"01051\": 100}",
+    "county_names_all": "Elmore",
+    "county_fips_all": "01051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

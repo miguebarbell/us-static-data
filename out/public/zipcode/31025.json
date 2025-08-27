@@ -1,0 +1,20 @@
+{
+    "zip": 31025,
+    "lat": 32.33833,
+    "lng": -83.73876,
+    "city": "Elko",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1339.0,
+    "density": 7.8,
+    "county_fips": 13153,
+    "county_name": "Houston",
+    "county_weights": "{\"13153\": 100}",
+    "county_names_all": "Houston",
+    "county_fips_all": "13153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

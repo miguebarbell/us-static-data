@@ -1,0 +1,20 @@
+{
+    "zip": 38569,
+    "lat": 36.10887,
+    "lng": -85.85647,
+    "city": "Lancaster",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 316.0,
+    "density": 9.1,
+    "county_fips": 47159,
+    "county_name": "Smith",
+    "county_weights": "{\"47159\": 52.99, \"47041\": 47.01}",
+    "county_names_all": "Smith|DeKalb",
+    "county_fips_all": "47159|47041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

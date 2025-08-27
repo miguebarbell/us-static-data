@@ -1,0 +1,20 @@
+{
+    "zip": 38545,
+    "lat": 36.23133,
+    "lng": -85.65964,
+    "city": "Bloomington Springs",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1545.0,
+    "density": 25.9,
+    "county_fips": 47087,
+    "county_name": "Jackson",
+    "county_weights": "{\"47087\": 67.2, \"47141\": 32.8}",
+    "county_names_all": "Jackson|Putnam",
+    "county_fips_all": "47087|47141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

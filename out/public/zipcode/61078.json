@@ -1,0 +1,20 @@
+{
+    "zip": 61078,
+    "lat": 42.16729,
+    "lng": -89.73062,
+    "city": "Shannon",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1411.0,
+    "density": 9.8,
+    "county_fips": 17015,
+    "county_name": "Carroll",
+    "county_weights": "{\"17015\": 66.2, \"17177\": 17.54, \"17141\": 16.26}",
+    "county_names_all": "Carroll|Stephenson|Ogle",
+    "county_fips_all": "17015|17177|17141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

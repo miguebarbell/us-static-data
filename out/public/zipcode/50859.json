@@ -1,0 +1,20 @@
+{
+    "zip": 50859,
+    "lat": 41.06505,
+    "lng": -94.60027,
+    "city": "Prescott",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 701.0,
+    "density": 3.4,
+    "county_fips": 19003,
+    "county_name": "Adams",
+    "county_weights": "{\"19003\": 95.38, \"19001\": 4.62}",
+    "county_names_all": "Adams|Adair",
+    "county_fips_all": "19003|19001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

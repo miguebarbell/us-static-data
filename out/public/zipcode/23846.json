@@ -1,0 +1,20 @@
+{
+    "zip": 23846,
+    "lat": 37.05947,
+    "lng": -76.83224,
+    "city": "Elberon",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 487.0,
+    "density": 4.4,
+    "county_fips": 51181,
+    "county_name": "Surry",
+    "county_weights": "{\"51181\": 100}",
+    "county_names_all": "Surry",
+    "county_fips_all": "51181",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

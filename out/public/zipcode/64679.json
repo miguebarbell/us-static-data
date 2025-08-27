@@ -1,0 +1,20 @@
+{
+    "zip": 64679,
+    "lat": 40.23246,
+    "lng": -93.58181,
+    "city": "Spickard",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 861.0,
+    "density": 3.5,
+    "county_fips": 29079,
+    "county_name": "Grundy",
+    "county_weights": "{\"29079\": 88.02, \"29129\": 11.98}",
+    "county_names_all": "Grundy|Mercer",
+    "county_fips_all": "29079|29129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

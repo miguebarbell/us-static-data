@@ -1,0 +1,20 @@
+{
+    "zip": 54840,
+    "lat": 45.7556,
+    "lng": -92.68928,
+    "city": "Grantsburg",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4706.0,
+    "density": 7.1,
+    "county_fips": 55013,
+    "county_name": "Burnett",
+    "county_weights": "{\"55013\": 88.31, \"55095\": 11.69}",
+    "county_names_all": "Burnett|Polk",
+    "county_fips_all": "55013|55095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

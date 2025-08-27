@@ -1,0 +1,20 @@
+{
+    "zip": 27816,
+    "lat": 36.10732,
+    "lng": -78.07245,
+    "city": "Castalia",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2964.0,
+    "density": 17.6,
+    "county_fips": 37069,
+    "county_name": "Franklin",
+    "county_weights": "{\"37069\": 51.81, \"37127\": 48.19}",
+    "county_names_all": "Franklin|Nash",
+    "county_fips_all": "37069|37127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

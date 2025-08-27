@@ -1,0 +1,20 @@
+{
+    "zip": 24609,
+    "lat": 37.02955,
+    "lng": -81.795,
+    "city": "Cedar Bluff",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6848.0,
+    "density": 31.6,
+    "county_fips": 51185,
+    "county_name": "Tazewell",
+    "county_weights": "{\"51185\": 50.43, \"51167\": 49.57}",
+    "county_names_all": "Tazewell|Russell",
+    "county_fips_all": "51185|51167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 80827,
+    "lat": 39.05821,
+    "lng": -105.46272,
+    "city": "Lake George",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 842.0,
+    "density": 1.2,
+    "county_fips": 8093,
+    "county_name": "Park",
+    "county_weights": "{\"08093\": 87.73, \"08119\": 12.27}",
+    "county_names_all": "Park|Teller",
+    "county_fips_all": "08093|08119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

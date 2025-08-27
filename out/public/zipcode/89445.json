@@ -1,0 +1,20 @@
+{
+    "zip": 89445,
+    "lat": 41.06767,
+    "lng": -118.02515,
+    "city": "Winnemucca",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17188.0,
+    "density": 2.4,
+    "county_fips": 32013,
+    "county_name": "Humboldt",
+    "county_weights": "{\"32013\": 73.98, \"32027\": 26.02}",
+    "county_names_all": "Humboldt|Pershing",
+    "county_fips_all": "32013|32027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

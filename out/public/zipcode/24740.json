@@ -1,0 +1,20 @@
+{
+    "zip": 24740,
+    "lat": 37.4042,
+    "lng": -81.10205,
+    "city": "Princeton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16559.0,
+    "density": 208.8,
+    "county_fips": 54055,
+    "county_name": "Mercer",
+    "county_weights": "{\"54055\": 100}",
+    "county_names_all": "Mercer",
+    "county_fips_all": "54055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

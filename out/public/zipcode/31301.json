@@ -1,0 +1,20 @@
+{
+    "zip": 31301,
+    "lat": 31.7581,
+    "lng": -81.60386,
+    "city": "Allenhurst",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4212.0,
+    "density": 92.2,
+    "county_fips": 13179,
+    "county_name": "Liberty",
+    "county_weights": "{\"13179\": 57.45, \"13183\": 42.55}",
+    "county_names_all": "Liberty|Long",
+    "county_fips_all": "13179|13183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

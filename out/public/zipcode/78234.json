@@ -1,0 +1,20 @@
+{
+    "zip": 78234,
+    "lat": 29.46108,
+    "lng": -98.43715,
+    "city": "Jbsa Ft Sam Houston",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6281.0,
+    "density": 476.8,
+    "county_fips": 48029,
+    "county_name": "Bexar",
+    "county_weights": "{\"48029\": 100}",
+    "county_names_all": "Bexar",
+    "county_fips_all": "48029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

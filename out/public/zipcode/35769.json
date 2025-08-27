@@ -1,0 +1,20 @@
+{
+    "zip": 35769,
+    "lat": 34.59255,
+    "lng": -86.09472,
+    "city": "Scottsboro",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9571.0,
+    "density": 58.6,
+    "county_fips": 1071,
+    "county_name": "Jackson",
+    "county_weights": "{\"01071\": 73.36, \"01095\": 26.64}",
+    "county_names_all": "Jackson|Marshall",
+    "county_fips_all": "01071|01095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

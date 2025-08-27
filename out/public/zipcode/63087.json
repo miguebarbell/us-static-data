@@ -1,0 +1,20 @@
+{
+    "zip": 63087,
+    "lat": 38.00888,
+    "lng": -90.45835,
+    "city": "Valles Mines",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1173.0,
+    "density": 27.7,
+    "county_fips": 29187,
+    "county_name": "St. Francois",
+    "county_weights": "{\"29187\": 91.17, \"29099\": 8.83}",
+    "county_names_all": "St. Francois|Jefferson",
+    "county_fips_all": "29187|29099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

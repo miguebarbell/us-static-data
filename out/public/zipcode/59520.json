@@ -1,0 +1,20 @@
+{
+    "zip": 59520,
+    "lat": 48.03822,
+    "lng": -109.93749,
+    "city": "Big Sandy",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1211.0,
+    "density": 0.4,
+    "county_fips": 30015,
+    "county_name": "Chouteau",
+    "county_weights": "{\"30015\": 97.14, \"30005\": 2.33, \"30041\": 0.53}",
+    "county_names_all": "Chouteau|Blaine|Hill",
+    "county_fips_all": "30015|30005|30041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

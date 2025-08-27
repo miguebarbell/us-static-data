@@ -1,0 +1,20 @@
+{
+    "zip": 34974,
+    "lat": 27.15062,
+    "lng": -80.91371,
+    "city": "Okeechobee",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23994.0,
+    "density": 24.6,
+    "county_fips": 12043,
+    "county_name": "Glades",
+    "county_weights": "{\"12043\": 52.13, \"12093\": 22.42, \"12085\": 15.53, \"12055\": 9.92}",
+    "county_names_all": "Glades|Okeechobee|Martin|Highlands",
+    "county_fips_all": "12043|12093|12085|12055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

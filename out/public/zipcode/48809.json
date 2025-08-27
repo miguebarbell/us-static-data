@@ -1,0 +1,20 @@
+{
+    "zip": 48809,
+    "lat": 43.0646,
+    "lng": -85.25712,
+    "city": "Belding",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11292.0,
+    "density": 54.4,
+    "county_fips": 26067,
+    "county_name": "Ionia",
+    "county_weights": "{\"26067\": 77.38, \"26081\": 20.72, \"26117\": 1.9}",
+    "county_names_all": "Ionia|Kent|Montcalm",
+    "county_fips_all": "26067|26081|26117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

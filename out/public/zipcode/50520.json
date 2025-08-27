@@ -1,0 +1,20 @@
+{
+    "zip": 50520,
+    "lat": 42.80524,
+    "lng": -94.39772,
+    "city": "Bradgate",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 156.0,
+    "density": 2.7,
+    "county_fips": 19091,
+    "county_name": "Humboldt",
+    "county_weights": "{\"19091\": 93.43, \"19151\": 6.57}",
+    "county_names_all": "Humboldt|Pocahontas",
+    "county_fips_all": "19091|19151",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

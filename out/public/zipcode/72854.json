@@ -1,0 +1,20 @@
+{
+    "zip": 72854,
+    "lat": 35.69644,
+    "lng": -93.43491,
+    "city": "Ozone",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 582.0,
+    "density": 1.7,
+    "county_fips": 5071,
+    "county_name": "Johnson",
+    "county_weights": "{\"05071\": 64.14, \"05101\": 35.86}",
+    "county_names_all": "Johnson|Newton",
+    "county_fips_all": "05071|05101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

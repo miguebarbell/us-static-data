@@ -1,0 +1,20 @@
+{
+    "zip": 72687,
+    "lat": 36.25628,
+    "lng": -92.68679,
+    "city": "Yellville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6724.0,
+    "density": 9.5,
+    "county_fips": 5089,
+    "county_name": "Marion",
+    "county_weights": "{\"05089\": 99.68, \"05009\": 0.32}",
+    "county_names_all": "Marion|Boone",
+    "county_fips_all": "05089|05009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

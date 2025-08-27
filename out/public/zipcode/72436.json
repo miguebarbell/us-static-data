@@ -1,0 +1,20 @@
+{
+    "zip": 72436,
+    "lat": 36.23574,
+    "lng": -90.48281,
+    "city": "Lafe",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 844.0,
+    "density": 10.6,
+    "county_fips": 5055,
+    "county_name": "Greene",
+    "county_weights": "{\"05055\": 70.61, \"05021\": 29.39}",
+    "county_names_all": "Greene|Clay",
+    "county_fips_all": "05055|05021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

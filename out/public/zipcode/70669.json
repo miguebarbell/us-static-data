@@ -1,0 +1,20 @@
+{
+    "zip": 70669,
+    "lat": 30.24216,
+    "lng": -93.27731,
+    "city": "Westlake",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9183.0,
+    "density": 121.3,
+    "county_fips": 22019,
+    "county_name": "Calcasieu",
+    "county_weights": "{\"22019\": 100}",
+    "county_names_all": "Calcasieu",
+    "county_fips_all": "22019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

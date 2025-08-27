@@ -1,0 +1,20 @@
+{
+    "zip": 61340,
+    "lat": 41.26396,
+    "lng": -89.25123,
+    "city": "Mark",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 497.0,
+    "density": 220.1,
+    "county_fips": 17155,
+    "county_name": "Putnam",
+    "county_weights": "{\"17155\": 100}",
+    "county_names_all": "Putnam",
+    "county_fips_all": "17155",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

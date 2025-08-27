@@ -1,0 +1,20 @@
+{
+    "zip": 40339,
+    "lat": 37.94313,
+    "lng": -84.64107,
+    "city": "Keene",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 272.0,
+    "density": 854.6,
+    "county_fips": 21113,
+    "county_name": "Jessamine",
+    "county_weights": "{\"21113\": 100}",
+    "county_names_all": "Jessamine",
+    "county_fips_all": "21113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

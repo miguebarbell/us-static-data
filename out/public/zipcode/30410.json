@@ -1,0 +1,20 @@
+{
+    "zip": 30410,
+    "lat": 32.18655,
+    "lng": -82.51767,
+    "city": "Ailey",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1699.0,
+    "density": 11.1,
+    "county_fips": 13209,
+    "county_name": "Montgomery",
+    "county_weights": "{\"13209\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "13209",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

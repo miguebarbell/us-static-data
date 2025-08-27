@@ -1,0 +1,20 @@
+{
+    "zip": 28763,
+    "lat": 35.03796,
+    "lng": -83.43215,
+    "city": "Otto",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2525.0,
+    "density": 17.5,
+    "county_fips": 37113,
+    "county_name": "Macon",
+    "county_weights": "{\"37113\": 100}",
+    "county_names_all": "Macon",
+    "county_fips_all": "37113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

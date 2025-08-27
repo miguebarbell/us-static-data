@@ -1,0 +1,20 @@
+{
+    "zip": 70660,
+    "lat": 30.575,
+    "lng": -93.44478,
+    "city": "Singer",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1883.0,
+    "density": 5.0,
+    "county_fips": 22011,
+    "county_name": "Beauregard",
+    "county_weights": "{\"22011\": 100}",
+    "county_names_all": "Beauregard",
+    "county_fips_all": "22011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

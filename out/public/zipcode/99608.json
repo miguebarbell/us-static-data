@@ -1,0 +1,20 @@
+{
+    "zip": 99608,
+    "lat": 57.58454,
+    "lng": -154.32545,
+    "city": "Karluk",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26.0,
+    "density": 0.2,
+    "county_fips": 2150,
+    "county_name": "Kodiak Island",
+    "county_weights": "{\"02150\": 100}",
+    "county_names_all": "Kodiak Island",
+    "county_fips_all": "02150",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

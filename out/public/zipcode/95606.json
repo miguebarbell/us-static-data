@@ -1,0 +1,20 @@
+{
+    "zip": 95606,
+    "lat": 38.75604,
+    "lng": -122.19387,
+    "city": "Brooks",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 230.0,
+    "density": 2.3,
+    "county_fips": 6113,
+    "county_name": "Yolo",
+    "county_weights": "{\"06113\": 98.13, \"06055\": 1.87}",
+    "county_names_all": "Yolo|Napa",
+    "county_fips_all": "06113|06055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 46374,
+    "lat": 41.20616,
+    "lng": -86.895,
+    "city": "San Pierre",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 998.0,
+    "density": 11.1,
+    "county_fips": 18149,
+    "county_name": "Starke",
+    "county_weights": "{\"18149\": 71.8, \"18073\": 15.03, \"18131\": 13.16}",
+    "county_names_all": "Starke|Jasper|Pulaski",
+    "county_fips_all": "18149|18073|18131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Knox"
+}

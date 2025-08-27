@@ -1,0 +1,20 @@
+{
+    "zip": 1757,
+    "lat": 42.15723,
+    "lng": -71.51978,
+    "city": "Milford",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30473.0,
+    "density": 777.4,
+    "county_fips": 25027,
+    "county_name": "Worcester",
+    "county_weights": "{\"25027\": 100}",
+    "county_names_all": "Worcester",
+    "county_fips_all": "25027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

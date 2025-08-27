@@ -1,0 +1,20 @@
+{
+    "zip": 39359,
+    "lat": 32.56852,
+    "lng": -89.33206,
+    "city": "Sebastopol",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 185.0,
+    "density": 63.7,
+    "county_fips": 28123,
+    "county_name": "Scott",
+    "county_weights": "{\"28123\": 100}",
+    "county_names_all": "Scott",
+    "county_fips_all": "28123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

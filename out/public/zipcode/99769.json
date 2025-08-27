@@ -1,0 +1,20 @@
+{
+    "zip": 99769,
+    "lat": 63.67965,
+    "lng": -170.48309,
+    "city": "Savoonga",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 766.0,
+    "density": 50.4,
+    "county_fips": 2180,
+    "county_name": "Nome",
+    "county_weights": "{\"02180\": 100}",
+    "county_names_all": "Nome",
+    "county_fips_all": "02180",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Nome"
+}

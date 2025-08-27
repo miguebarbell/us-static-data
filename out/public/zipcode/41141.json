@@ -1,0 +1,20 @@
+{
+    "zip": 41141,
+    "lat": 38.54381,
+    "lng": -83.13357,
+    "city": "Garrison",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2516.0,
+    "density": 14.4,
+    "county_fips": 21135,
+    "county_name": "Lewis",
+    "county_weights": "{\"21135\": 57.5, \"21089\": 42.5}",
+    "county_names_all": "Lewis|Greenup",
+    "county_fips_all": "21135|21089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

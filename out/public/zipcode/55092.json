@@ -1,0 +1,20 @@
+{
+    "zip": 55092,
+    "lat": 45.33647,
+    "lng": -93.07214,
+    "city": "Wyoming",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11103.0,
+    "density": 127.5,
+    "county_fips": 27003,
+    "county_name": "Anoka",
+    "county_weights": "{\"27003\": 67.16, \"27025\": 32.84}",
+    "county_names_all": "Anoka|Chisago",
+    "county_fips_all": "27003|27025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

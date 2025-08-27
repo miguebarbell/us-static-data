@@ -1,0 +1,20 @@
+{
+    "zip": 7932,
+    "lat": 40.77717,
+    "lng": -74.39246,
+    "city": "Florham Park",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11498.0,
+    "density": 659.2,
+    "county_fips": 34027,
+    "county_name": "Morris",
+    "county_weights": "{\"34027\": 99.74, \"34013\": 0.26}",
+    "county_names_all": "Morris|Essex",
+    "county_fips_all": "34027|34013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 28006,
+    "lat": 35.40664,
+    "lng": -81.0926,
+    "city": "Alexis",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1311.0,
+    "density": 109.9,
+    "county_fips": 37071,
+    "county_name": "Gaston",
+    "county_weights": "{\"37071\": 51.42, \"37109\": 48.58}",
+    "county_names_all": "Gaston|Lincoln",
+    "county_fips_all": "37071|37109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

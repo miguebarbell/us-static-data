@@ -1,0 +1,20 @@
+{
+    "zip": 23102,
+    "lat": 37.71053,
+    "lng": -77.83325,
+    "city": "Maidens",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3323.0,
+    "density": 46.8,
+    "county_fips": 51075,
+    "county_name": "Goochland",
+    "county_weights": "{\"51075\": 76.03, \"51109\": 17.58, \"51085\": 6.39}",
+    "county_names_all": "Goochland|Louisa|Hanover",
+    "county_fips_all": "51075|51109|51085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

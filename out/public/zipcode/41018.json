@@ -1,0 +1,20 @@
+{
+    "zip": 41018,
+    "lat": 39.01546,
+    "lng": -84.60282,
+    "city": "Erlanger",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28707.0,
+    "density": 957.7,
+    "county_fips": 21117,
+    "county_name": "Kenton",
+    "county_weights": "{\"21117\": 77.28, \"21015\": 22.72}",
+    "county_names_all": "Kenton|Boone",
+    "county_fips_all": "21117|21015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 36773,
+    "lat": 32.28252,
+    "lng": -87.38607,
+    "city": "Safford",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 327.0,
+    "density": 1.8,
+    "county_fips": 1047,
+    "county_name": "Dallas",
+    "county_weights": "{\"01047\": 89.41, \"01091\": 10.59}",
+    "county_names_all": "Dallas|Marengo",
+    "county_fips_all": "01047|01091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

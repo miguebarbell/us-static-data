@@ -1,0 +1,20 @@
+{
+    "zip": 87328,
+    "lat": 36.02541,
+    "lng": -109.03638,
+    "city": "Navajo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3017.0,
+    "density": 3.3,
+    "county_fips": 4001,
+    "county_name": "Apache",
+    "county_weights": "{\"04001\": 38.7, \"35031\": 31.58, \"35045\": 29.72}",
+    "county_names_all": "Apache|McKinley|San Juan",
+    "county_fips_all": "04001|35031|35045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

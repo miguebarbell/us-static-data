@@ -1,0 +1,20 @@
+{
+    "zip": 67444,
+    "lat": 38.54759,
+    "lng": -98.12702,
+    "city": "Geneseo",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 604.0,
+    "density": 1.4,
+    "county_fips": 20053,
+    "county_name": "Ellsworth",
+    "county_weights": "{\"20053\": 61.06, \"20159\": 38.94}",
+    "county_names_all": "Ellsworth|Rice",
+    "county_fips_all": "20053|20159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

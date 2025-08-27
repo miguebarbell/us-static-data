@@ -1,0 +1,20 @@
+{
+    "zip": 78384,
+    "lat": 27.73068,
+    "lng": -98.4707,
+    "city": "San Diego",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5656.0,
+    "density": 3.7,
+    "county_fips": 48131,
+    "county_name": "Duval",
+    "county_weights": "{\"48131\": 98.61, \"48249\": 1.39}",
+    "county_names_all": "Duval|Jim Wells",
+    "county_fips_all": "48131|48249",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

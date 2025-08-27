@@ -1,0 +1,20 @@
+{
+    "zip": 83526,
+    "lat": 46.14759,
+    "lng": -116.4169,
+    "city": "Ferdinand",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 288.0,
+    "density": 2.8,
+    "county_fips": 16049,
+    "county_name": "Idaho",
+    "county_weights": "{\"16049\": 100}",
+    "county_names_all": "Idaho",
+    "county_fips_all": "16049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

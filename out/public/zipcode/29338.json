@@ -1,0 +1,20 @@
+{
+    "zip": 29338,
+    "lat": 35.13444,
+    "lng": -82.00172,
+    "city": "Fingerville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 66.0,
+    "density": 163.1,
+    "county_fips": 45083,
+    "county_name": "Spartanburg",
+    "county_weights": "{\"45083\": 100}",
+    "county_names_all": "Spartanburg",
+    "county_fips_all": "45083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

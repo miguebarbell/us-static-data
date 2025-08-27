@@ -1,0 +1,20 @@
+{
+    "zip": 25667,
+    "lat": 37.70619,
+    "lng": -82.2738,
+    "city": "Chattaroy",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 577.0,
+    "density": 110.6,
+    "county_fips": 54059,
+    "county_name": "Mingo",
+    "county_weights": "{\"54059\": 100}",
+    "county_names_all": "Mingo",
+    "county_fips_all": "54059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

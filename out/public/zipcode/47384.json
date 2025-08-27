@@ -1,0 +1,20 @@
+{
+    "zip": 47384,
+    "lat": 39.91365,
+    "lng": -85.55352,
+    "city": "Shirley",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2038.0,
+    "density": 25.2,
+    "county_fips": 18065,
+    "county_name": "Henry",
+    "county_weights": "{\"18065\": 86.25, \"18059\": 13.75}",
+    "county_names_all": "Henry|Hancock",
+    "county_fips_all": "18065|18059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

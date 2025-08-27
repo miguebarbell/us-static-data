@@ -1,0 +1,20 @@
+{
+    "zip": 44089,
+    "lat": 41.38894,
+    "lng": -82.36552,
+    "city": "Vermilion",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15873.0,
+    "density": 177.3,
+    "county_fips": 39043,
+    "county_name": "Erie",
+    "county_weights": "{\"39043\": 62.08, \"39093\": 37.92}",
+    "county_names_all": "Erie|Lorain",
+    "county_fips_all": "39043|39093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

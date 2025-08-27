@@ -1,0 +1,20 @@
+{
+    "zip": 79545,
+    "lat": 32.41806,
+    "lng": -100.57753,
+    "city": "Roscoe",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1778.0,
+    "density": 3.0,
+    "county_fips": 48353,
+    "county_name": "Nolan",
+    "county_weights": "{\"48353\": 81.51, \"48151\": 15.34, \"48415\": 3.15}",
+    "county_names_all": "Nolan|Fisher|Scurry",
+    "county_fips_all": "48353|48151|48415",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

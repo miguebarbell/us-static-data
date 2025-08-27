@@ -1,0 +1,20 @@
+{
+    "zip": 76857,
+    "lat": 31.93361,
+    "lng": -98.93313,
+    "city": "May",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2118.0,
+    "density": 6.3,
+    "county_fips": 48049,
+    "county_name": "Brown",
+    "county_weights": "{\"48049\": 95.86, \"48093\": 4.14}",
+    "county_names_all": "Brown|Comanche",
+    "county_fips_all": "48049|48093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

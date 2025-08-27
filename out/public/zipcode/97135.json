@@ -1,0 +1,20 @@
+{
+    "zip": 97135,
+    "lat": 45.18749,
+    "lng": -123.95494,
+    "city": "Pacific City",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1505.0,
+    "density": 169.2,
+    "county_fips": 41057,
+    "county_name": "Tillamook",
+    "county_weights": "{\"41057\": 100}",
+    "county_names_all": "Tillamook",
+    "county_fips_all": "41057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

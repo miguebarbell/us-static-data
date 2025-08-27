@@ -1,0 +1,20 @@
+{
+    "zip": 75401,
+    "lat": 33.18506,
+    "lng": -96.11556,
+    "city": "Greenville",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21904.0,
+    "density": 78.2,
+    "county_fips": 48231,
+    "county_name": "Hunt",
+    "county_weights": "{\"48231\": 100}",
+    "county_names_all": "Hunt",
+    "county_fips_all": "48231",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43102,
+    "lat": 39.64076,
+    "lng": -82.76118,
+    "city": "Amanda",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3797.0,
+    "density": 25.6,
+    "county_fips": 39045,
+    "county_name": "Fairfield",
+    "county_weights": "{\"39045\": 95.97, \"39073\": 3.45, \"39129\": 0.58}",
+    "county_names_all": "Fairfield|Hocking|Pickaway",
+    "county_fips_all": "39045|39073|39129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

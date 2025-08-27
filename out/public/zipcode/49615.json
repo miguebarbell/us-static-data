@@ -1,0 +1,20 @@
+{
+    "zip": 49615,
+    "lat": 44.97219,
+    "lng": -85.20683,
+    "city": "Bellaire",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4077.0,
+    "density": 23.0,
+    "county_fips": 26009,
+    "county_name": "Antrim",
+    "county_weights": "{\"26009\": 100}",
+    "county_names_all": "Antrim",
+    "county_fips_all": "26009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

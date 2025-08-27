@@ -1,0 +1,20 @@
+{
+    "zip": 53588,
+    "lat": 43.18949,
+    "lng": -90.08201,
+    "city": "Spring Green",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3850.0,
+    "density": 10.6,
+    "county_fips": 55111,
+    "county_name": "Sauk",
+    "county_weights": "{\"55111\": 66.08, \"55049\": 32.93, \"55103\": 0.99}",
+    "county_names_all": "Sauk|Iowa|Richland",
+    "county_fips_all": "55111|55049|55103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

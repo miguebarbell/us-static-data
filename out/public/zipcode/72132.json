@@ -1,0 +1,20 @@
+{
+    "zip": 72132,
+    "lat": 34.44,
+    "lng": -92.19468,
+    "city": "Redfield",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3377.0,
+    "density": 18.9,
+    "county_fips": 5069,
+    "county_name": "Jefferson",
+    "county_weights": "{\"05069\": 57.5, \"05053\": 42.5}",
+    "county_names_all": "Jefferson|Grant",
+    "county_fips_all": "05069|05053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

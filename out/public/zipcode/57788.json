@@ -1,0 +1,20 @@
+{
+    "zip": 57788,
+    "lat": 44.61855,
+    "lng": -103.2167,
+    "city": "Vale",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 632.0,
+    "density": 1.0,
+    "county_fips": 46019,
+    "county_name": "Butte",
+    "county_weights": "{\"46019\": 59.13, \"46093\": 40.87}",
+    "county_names_all": "Butte|Meade",
+    "county_fips_all": "46019|46093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 59721,
+    "lat": 45.85189,
+    "lng": -111.88177,
+    "city": "Cardwell",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 519.0,
+    "density": 1.0,
+    "county_fips": 30043,
+    "county_name": "Jefferson",
+    "county_weights": "{\"30043\": 61.65, \"30057\": 38.35}",
+    "county_names_all": "Jefferson|Madison",
+    "county_fips_all": "30043|30057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

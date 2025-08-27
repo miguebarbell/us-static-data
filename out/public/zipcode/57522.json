@@ -1,0 +1,20 @@
+{
+    "zip": 57522,
+    "lat": 44.51014,
+    "lng": -99.96352,
+    "city": "Blunt",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 474.0,
+    "density": 1.1,
+    "county_fips": 46065,
+    "county_name": "Hughes",
+    "county_weights": "{\"46065\": 69.14, \"46119\": 30.86}",
+    "county_names_all": "Hughes|Sully",
+    "county_fips_all": "46065|46119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

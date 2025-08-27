@@ -1,0 +1,20 @@
+{
+    "zip": 74052,
+    "lat": 36.07076,
+    "lng": -96.5738,
+    "city": "Oilton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 992.0,
+    "density": 43.4,
+    "county_fips": 40037,
+    "county_name": "Creek",
+    "county_weights": "{\"40037\": 100}",
+    "county_names_all": "Creek",
+    "county_fips_all": "40037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

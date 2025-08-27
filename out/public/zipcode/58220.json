@@ -1,0 +1,20 @@
+{
+    "zip": 58220,
+    "lat": 48.79446,
+    "lng": -97.73789,
+    "city": "Cavalier",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2215.0,
+    "density": 4.8,
+    "county_fips": 38067,
+    "county_name": "Pembina",
+    "county_weights": "{\"38067\": 91.8, \"38019\": 8.2}",
+    "county_names_all": "Pembina|Cavalier",
+    "county_fips_all": "38067|38019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

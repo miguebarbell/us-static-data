@@ -1,0 +1,20 @@
+{
+    "zip": 27050,
+    "lat": 36.23608,
+    "lng": -80.40116,
+    "city": "Tobaccoville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3701.0,
+    "density": 57.1,
+    "county_fips": 37067,
+    "county_name": "Forsyth",
+    "county_weights": "{\"37067\": 87.0, \"37169\": 13.0}",
+    "county_names_all": "Forsyth|Stokes",
+    "county_fips_all": "37067|37169",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

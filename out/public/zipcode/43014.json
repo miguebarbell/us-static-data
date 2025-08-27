@@ -1,0 +1,20 @@
+{
+    "zip": 43014,
+    "lat": 40.46646,
+    "lng": -82.25242,
+    "city": "Danville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4185.0,
+    "density": 23.1,
+    "county_fips": 39083,
+    "county_name": "Knox",
+    "county_weights": "{\"39083\": 94.41, \"39031\": 5.05, \"39005\": 0.54}",
+    "county_names_all": "Knox|Coshocton|Ashland",
+    "county_fips_all": "39083|39031|39005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

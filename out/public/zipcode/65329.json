@@ -1,0 +1,20 @@
+{
+    "zip": 65329,
+    "lat": 38.60937,
+    "lng": -92.96132,
+    "city": "Florence",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 417.0,
+    "density": 4.3,
+    "county_fips": 29141,
+    "county_name": "Morgan",
+    "county_weights": "{\"29141\": 100}",
+    "county_names_all": "Morgan",
+    "county_fips_all": "29141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

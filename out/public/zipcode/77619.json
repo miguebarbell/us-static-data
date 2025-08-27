@@ -1,0 +1,20 @@
+{
+    "zip": 77619,
+    "lat": 29.94549,
+    "lng": -93.9165,
+    "city": "Groves",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17021.0,
+    "density": 1207.8,
+    "county_fips": 48245,
+    "county_name": "Jefferson",
+    "county_weights": "{\"48245\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "48245",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

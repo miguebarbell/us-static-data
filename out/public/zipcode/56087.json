@@ -1,0 +1,20 @@
+{
+    "zip": 56087,
+    "lat": 44.24012,
+    "lng": -94.97538,
+    "city": "Springfield",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3240.0,
+    "density": 8.6,
+    "county_fips": 27015,
+    "county_name": "Brown",
+    "county_weights": "{\"27015\": 75.03, \"27127\": 24.97}",
+    "county_names_all": "Brown|Redwood",
+    "county_fips_all": "27015|27127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

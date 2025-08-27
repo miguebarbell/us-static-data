@@ -1,0 +1,20 @@
+{
+    "zip": 38833,
+    "lat": 34.82259,
+    "lng": -88.34274,
+    "city": "Burnsville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2452.0,
+    "density": 18.9,
+    "county_fips": 28141,
+    "county_name": "Tishomingo",
+    "county_weights": "{\"28141\": 77.24, \"28003\": 14.93, \"28117\": 7.83}",
+    "county_names_all": "Tishomingo|Alcorn|Prentiss",
+    "county_fips_all": "28141|28003|28117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

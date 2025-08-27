@@ -1,0 +1,20 @@
+{
+    "zip": 65648,
+    "lat": 37.40297,
+    "lng": -93.15402,
+    "city": "Fair Grove",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6298.0,
+    "density": 31.0,
+    "county_fips": 29077,
+    "county_name": "Greene",
+    "county_weights": "{\"29077\": 58.22, \"29059\": 26.1, \"29225\": 8.11, \"29167\": 7.57}",
+    "county_names_all": "Greene|Dallas|Webster|Polk",
+    "county_fips_all": "29077|29059|29225|29167",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

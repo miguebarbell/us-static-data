@@ -1,0 +1,20 @@
+{
+    "zip": 68059,
+    "lat": 41.06673,
+    "lng": -96.1595,
+    "city": "Springfield",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3354.0,
+    "density": 27.2,
+    "county_fips": 31153,
+    "county_name": "Sarpy",
+    "county_weights": "{\"31153\": 100}",
+    "county_names_all": "Sarpy",
+    "county_fips_all": "31153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

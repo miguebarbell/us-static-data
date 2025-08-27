@@ -1,0 +1,20 @@
+{
+    "zip": 60165,
+    "lat": 41.90328,
+    "lng": -87.88056,
+    "city": "Stone Park",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4504.0,
+    "density": 5091.9,
+    "county_fips": 17031,
+    "county_name": "Cook",
+    "county_weights": "{\"17031\": 100}",
+    "county_names_all": "Cook",
+    "county_fips_all": "17031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

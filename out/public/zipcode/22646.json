@@ -1,0 +1,20 @@
+{
+    "zip": 22646,
+    "lat": 39.07019,
+    "lng": -78.04803,
+    "city": "Millwood",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 51043,
+    "county_name": "Clarke",
+    "county_weights": "{\"51043\": 100}",
+    "county_names_all": "Clarke",
+    "county_fips_all": "51043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

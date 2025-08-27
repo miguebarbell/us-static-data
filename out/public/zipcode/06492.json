@@ -1,0 +1,20 @@
+{
+    "zip": 6492,
+    "lat": 41.45927,
+    "lng": -72.80473,
+    "city": "Wallingford",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44099.0,
+    "density": 428.0,
+    "county_fips": 9170,
+    "county_name": "South Central Connecticut",
+    "county_weights": "{\"09170\": 98.47, \"09140\": 1.53}",
+    "county_names_all": "South Central Connecticut|Naugatuck Valley",
+    "county_fips_all": "09170|09140",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

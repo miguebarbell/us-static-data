@@ -1,0 +1,20 @@
+{
+    "zip": 77871,
+    "lat": 31.05129,
+    "lng": -96.10903,
+    "city": "Normangee",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2744.0,
+    "density": 5.2,
+    "county_fips": 48289,
+    "county_name": "Leon",
+    "county_weights": "{\"48289\": 61.07, \"48313\": 38.93}",
+    "county_names_all": "Leon|Madison",
+    "county_fips_all": "48289|48313",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

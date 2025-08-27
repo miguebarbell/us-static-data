@@ -1,0 +1,20 @@
+{
+    "zip": 51239,
+    "lat": 43.20238,
+    "lng": -96.14522,
+    "city": "Hull",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2947.0,
+    "density": 17.0,
+    "county_fips": 19167,
+    "county_name": "Sioux",
+    "county_weights": "{\"19167\": 92.69, \"19119\": 7.31}",
+    "county_names_all": "Sioux|Lyon",
+    "county_fips_all": "19167|19119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

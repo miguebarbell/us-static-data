@@ -1,0 +1,20 @@
+{
+    "zip": 18064,
+    "lat": 40.75755,
+    "lng": -75.31927,
+    "city": "Nazareth",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27073.0,
+    "density": 271.4,
+    "county_fips": 42095,
+    "county_name": "Northampton",
+    "county_weights": "{\"42095\": 100}",
+    "county_names_all": "Northampton",
+    "county_fips_all": "42095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

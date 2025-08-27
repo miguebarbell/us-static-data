@@ -1,0 +1,20 @@
+{
+    "zip": 75641,
+    "lat": 32.3846,
+    "lng": -94.5757,
+    "city": "Easton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 77.0,
+    "density": 17.7,
+    "county_fips": 48401,
+    "county_name": "Rusk",
+    "county_weights": "{\"48401\": 79.02, \"48183\": 20.98}",
+    "county_names_all": "Rusk|Gregg",
+    "county_fips_all": "48401|48183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

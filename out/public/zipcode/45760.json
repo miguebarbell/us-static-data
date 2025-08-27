@@ -1,0 +1,20 @@
+{
+    "zip": 45760,
+    "lat": 39.01395,
+    "lng": -82.12244,
+    "city": "Middleport",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3682.0,
+    "density": 69.8,
+    "county_fips": 39105,
+    "county_name": "Meigs",
+    "county_weights": "{\"39105\": 93.0, \"39053\": 7.0}",
+    "county_names_all": "Meigs|Gallia",
+    "county_fips_all": "39105|39053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

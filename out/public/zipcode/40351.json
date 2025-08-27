@@ -1,0 +1,20 @@
+{
+    "zip": 40351,
+    "lat": 38.19817,
+    "lng": -83.4133,
+    "city": "Morehead",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22338.0,
+    "density": 32.2,
+    "county_fips": 21205,
+    "county_name": "Rowan",
+    "county_weights": "{\"21205\": 94.01, \"21063\": 5.69, \"21043\": 0.3}",
+    "county_names_all": "Rowan|Elliott|Carter",
+    "county_fips_all": "21205|21063|21043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

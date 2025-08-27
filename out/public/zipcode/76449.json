@@ -1,0 +1,20 @@
+{
+    "zip": 76449,
+    "lat": 32.91592,
+    "lng": -98.32512,
+    "city": "Graford",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2157.0,
+    "density": 4.0,
+    "county_fips": 48363,
+    "county_name": "Palo Pinto",
+    "county_weights": "{\"48363\": 99.2, \"48237\": 0.8}",
+    "county_names_all": "Palo Pinto|Jack",
+    "county_fips_all": "48363|48237",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

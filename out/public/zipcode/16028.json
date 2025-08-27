@@ -1,0 +1,20 @@
+{
+    "zip": 16028,
+    "lat": 40.95684,
+    "lng": -79.63985,
+    "city": "East Brady",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2053.0,
+    "density": 51.1,
+    "county_fips": 42005,
+    "county_name": "Armstrong",
+    "county_weights": "{\"42005\": 92.98, \"42031\": 7.02}",
+    "county_names_all": "Armstrong|Clarion",
+    "county_fips_all": "42005|42031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

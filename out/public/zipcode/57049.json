@@ -1,0 +1,20 @@
+{
+    "zip": 57049,
+    "lat": 42.52486,
+    "lng": -96.50732,
+    "city": "North Sioux City",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7814.0,
+    "density": 212.9,
+    "county_fips": 46127,
+    "county_name": "Union",
+    "county_weights": "{\"46127\": 100}",
+    "county_names_all": "Union",
+    "county_fips_all": "46127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

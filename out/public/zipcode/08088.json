@@ -1,0 +1,20 @@
+{
+    "zip": 8088,
+    "lat": 39.84196,
+    "lng": -74.69075,
+    "city": "Vincentown",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24153.0,
+    "density": 62.0,
+    "county_fips": 34005,
+    "county_name": "Burlington",
+    "county_weights": "{\"34005\": 100}",
+    "county_names_all": "Burlington",
+    "county_fips_all": "34005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

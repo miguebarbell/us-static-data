@@ -1,0 +1,20 @@
+{
+    "zip": 38549,
+    "lat": 36.5617,
+    "lng": -85.15243,
+    "city": "Byrdstown",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4142.0,
+    "density": 21.7,
+    "county_fips": 47137,
+    "county_name": "Pickett",
+    "county_weights": "{\"47137\": 93.7, \"47049\": 4.45, \"21053\": 1.85}",
+    "county_names_all": "Pickett|Fentress|Clinton",
+    "county_fips_all": "47137|47049|21053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

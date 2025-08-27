@@ -1,0 +1,20 @@
+{
+    "zip": 74346,
+    "lat": 36.43427,
+    "lng": -94.75066,
+    "city": "Jay",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8244.0,
+    "density": 14.0,
+    "county_fips": 40041,
+    "county_name": "Delaware",
+    "county_weights": "{\"40041\": 100}",
+    "county_names_all": "Delaware",
+    "county_fips_all": "40041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 30630,
+    "lat": 33.89894,
+    "lng": -83.14366,
+    "city": "Crawford",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2592.0,
+    "density": 22.8,
+    "county_fips": 13221,
+    "county_name": "Oglethorpe",
+    "county_weights": "{\"13221\": 100}",
+    "county_names_all": "Oglethorpe",
+    "county_fips_all": "13221",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

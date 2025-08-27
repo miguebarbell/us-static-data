@@ -1,0 +1,20 @@
+{
+    "zip": 56019,
+    "lat": 44.11476,
+    "lng": -94.89016,
+    "city": "Comfrey",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 767.0,
+    "density": 3.0,
+    "county_fips": 27015,
+    "county_name": "Brown",
+    "county_weights": "{\"27015\": 58.56, \"27033\": 33.3, \"27165\": 8.14}",
+    "county_names_all": "Brown|Cottonwood|Watonwan",
+    "county_fips_all": "27015|27033|27165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

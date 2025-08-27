@@ -1,0 +1,20 @@
+{
+    "zip": 59026,
+    "lat": 45.46385,
+    "lng": -108.78392,
+    "city": "Edgar",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 103.0,
+    "density": 1.8,
+    "county_fips": 30009,
+    "county_name": "Carbon",
+    "county_weights": "{\"30009\": 100}",
+    "county_names_all": "Carbon",
+    "county_fips_all": "30009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

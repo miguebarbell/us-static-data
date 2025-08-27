@@ -1,0 +1,20 @@
+{
+    "zip": 26282,
+    "lat": 38.52022,
+    "lng": -80.14619,
+    "city": "Monterville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 197.0,
+    "density": 1.1,
+    "county_fips": 54083,
+    "county_name": "Randolph",
+    "county_weights": "{\"54083\": 100}",
+    "county_names_all": "Randolph",
+    "county_fips_all": "54083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

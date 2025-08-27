@@ -1,0 +1,20 @@
+{
+    "zip": 80816,
+    "lat": 38.85162,
+    "lng": -105.31591,
+    "city": "Florissant",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6372.0,
+    "density": 13.5,
+    "county_fips": 8119,
+    "county_name": "Teller",
+    "county_weights": "{\"08119\": 62.65, \"08093\": 37.35}",
+    "county_names_all": "Teller|Park",
+    "county_fips_all": "08119|08093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

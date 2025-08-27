@@ -1,0 +1,20 @@
+{
+    "zip": 21851,
+    "lat": 38.07825,
+    "lng": -75.54375,
+    "city": "Pocomoke City",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7252.0,
+    "density": 27.0,
+    "county_fips": 24047,
+    "county_name": "Worcester",
+    "county_weights": "{\"24047\": 80.33, \"24039\": 19.67}",
+    "county_names_all": "Worcester|Somerset",
+    "county_fips_all": "24047|24039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

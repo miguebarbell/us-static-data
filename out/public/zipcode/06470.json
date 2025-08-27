@@ -1,0 +1,20 @@
+{
+    "zip": 6470,
+    "lat": 41.3943,
+    "lng": -73.31918,
+    "city": "Newtown",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15576.0,
+    "density": 161.6,
+    "county_fips": 9190,
+    "county_name": "Western Connecticut",
+    "county_weights": "{\"09190\": 100}",
+    "county_names_all": "Western Connecticut",
+    "county_fips_all": "09190",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

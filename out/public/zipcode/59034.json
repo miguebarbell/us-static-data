@@ -1,0 +1,20 @@
+{
+    "zip": 59034,
+    "lat": 45.70121,
+    "lng": -107.7078,
+    "city": "Hardin",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4972.0,
+    "density": 2.4,
+    "county_fips": 30003,
+    "county_name": "Big Horn",
+    "county_weights": "{\"30003\": 100}",
+    "county_names_all": "Big Horn",
+    "county_fips_all": "30003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

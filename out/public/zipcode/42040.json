@@ -1,0 +1,20 @@
+{
+    "zip": 42040,
+    "lat": 36.62454,
+    "lng": -88.50371,
+    "city": "Farmington",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 983.0,
+    "density": 11.9,
+    "county_fips": 21083,
+    "county_name": "Graves",
+    "county_weights": "{\"21083\": 79.55, \"21035\": 20.45}",
+    "county_names_all": "Graves|Calloway",
+    "county_fips_all": "21083|21035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

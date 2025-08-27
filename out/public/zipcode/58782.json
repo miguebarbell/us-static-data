@@ -1,0 +1,20 @@
+{
+    "zip": 58782,
+    "lat": 48.94055,
+    "lng": -101.71325,
+    "city": "Sherwood",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 440.0,
+    "density": 0.9,
+    "county_fips": 38075,
+    "county_name": "Renville",
+    "county_weights": "{\"38075\": 92.68, \"38009\": 7.32}",
+    "county_names_all": "Renville|Bottineau",
+    "county_fips_all": "38075|38009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

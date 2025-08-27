@@ -1,0 +1,20 @@
+{
+    "zip": 40801,
+    "lat": 36.85692,
+    "lng": -83.25493,
+    "city": "Ages Brookside",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 21095,
+    "county_name": "Harlan",
+    "county_weights": "{\"21095\": 100}",
+    "county_names_all": "Harlan",
+    "county_fips_all": "21095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 30621,
+    "lat": 33.80194,
+    "lng": -83.4791,
+    "city": "Bishop",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6316.0,
+    "density": 53.8,
+    "county_fips": 13219,
+    "county_name": "Oconee",
+    "county_weights": "{\"13219\": 64.77, \"13211\": 35.23}",
+    "county_names_all": "Oconee|Morgan",
+    "county_fips_all": "13219|13211",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

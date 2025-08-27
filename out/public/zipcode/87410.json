@@ -1,0 +1,20 @@
+{
+    "zip": 87410,
+    "lat": 36.86708,
+    "lng": -107.89433,
+    "city": "Aztec",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14372.0,
+    "density": 20.9,
+    "county_fips": 35045,
+    "county_name": "San Juan",
+    "county_weights": "{\"35045\": 100}",
+    "county_names_all": "San Juan",
+    "county_fips_all": "35045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

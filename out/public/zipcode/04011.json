@@ -1,0 +1,20 @@
+{
+    "zip": 4011,
+    "lat": 43.90068,
+    "lng": -69.97607,
+    "city": "Brunswick",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22081.0,
+    "density": 182.3,
+    "county_fips": 23005,
+    "county_name": "Cumberland",
+    "county_weights": "{\"23005\": 100}",
+    "county_names_all": "Cumberland",
+    "county_fips_all": "23005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

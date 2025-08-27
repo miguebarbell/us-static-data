@@ -1,0 +1,20 @@
+{
+    "zip": 53919,
+    "lat": 43.73462,
+    "lng": -88.77564,
+    "city": "Brandon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2308.0,
+    "density": 13.6,
+    "county_fips": 55039,
+    "county_name": "Fond du Lac",
+    "county_weights": "{\"55039\": 100}",
+    "county_names_all": "Fond du Lac",
+    "county_fips_all": "55039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

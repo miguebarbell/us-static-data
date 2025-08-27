@@ -1,0 +1,20 @@
+{
+    "zip": 68784,
+    "lat": 42.25763,
+    "lng": -96.88657,
+    "city": "Wakefield",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1685.0,
+    "density": 5.7,
+    "county_fips": 31051,
+    "county_name": "Dixon",
+    "county_weights": "{\"31051\": 52.49, \"31179\": 44.74, \"31173\": 2.77}",
+    "county_names_all": "Dixon|Wayne|Thurston",
+    "county_fips_all": "31051|31179|31173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

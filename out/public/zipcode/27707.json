@@ -1,0 +1,20 @@
+{
+    "zip": 27707,
+    "lat": 35.95463,
+    "lng": -78.95451,
+    "city": "Durham",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 50865.0,
+    "density": 948.5,
+    "county_fips": 37063,
+    "county_name": "Durham",
+    "county_weights": "{\"37063\": 91.45, \"37135\": 8.55}",
+    "county_names_all": "Durham|Orange",
+    "county_fips_all": "37063|37135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

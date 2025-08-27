@@ -1,0 +1,20 @@
+{
+    "zip": 83602,
+    "lat": 44.09676,
+    "lng": -116.15049,
+    "city": "Banks",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 16015,
+    "county_name": "Boise",
+    "county_weights": "{\"16015\": 100}",
+    "county_names_all": "Boise",
+    "county_fips_all": "16015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

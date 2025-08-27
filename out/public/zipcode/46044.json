@@ -1,0 +1,20 @@
+{
+    "zip": 46044,
+    "lat": 40.2085,
+    "lng": -85.79026,
+    "city": "Frankton",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2646.0,
+    "density": 47.3,
+    "county_fips": 18095,
+    "county_name": "Madison",
+    "county_weights": "{\"18095\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "18095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

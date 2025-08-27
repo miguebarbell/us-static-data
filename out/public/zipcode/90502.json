@@ -1,0 +1,20 @@
+{
+    "zip": 90502,
+    "lat": 33.83497,
+    "lng": -118.29291,
+    "city": "Torrance",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18114.0,
+    "density": 3123.6,
+    "county_fips": 6037,
+    "county_name": "Los Angeles",
+    "county_weights": "{\"06037\": 100}",
+    "county_names_all": "Los Angeles",
+    "county_fips_all": "06037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

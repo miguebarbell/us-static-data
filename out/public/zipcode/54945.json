@@ -1,0 +1,20 @@
+{
+    "zip": 54945,
+    "lat": 44.57604,
+    "lng": -89.13739,
+    "city": "Iola",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3408.0,
+    "density": 12.3,
+    "county_fips": 55135,
+    "county_name": "Waupaca",
+    "county_weights": "{\"55135\": 98.49, \"55097\": 1.51}",
+    "county_names_all": "Waupaca|Portage",
+    "county_fips_all": "55135|55097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

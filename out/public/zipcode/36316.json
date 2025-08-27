@@ -1,0 +1,20 @@
+{
+    "zip": 36316,
+    "lat": 31.17835,
+    "lng": -85.86496,
+    "city": "Chancellor",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2199.0,
+    "density": 15.5,
+    "county_fips": 1061,
+    "county_name": "Geneva",
+    "county_weights": "{\"01061\": 65.39, \"01031\": 34.61}",
+    "county_names_all": "Geneva|Coffee",
+    "county_fips_all": "01061|01031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

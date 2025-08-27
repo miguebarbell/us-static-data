@@ -1,0 +1,20 @@
+{
+    "zip": 77091,
+    "lat": 29.85382,
+    "lng": -95.43969,
+    "city": "Houston",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29135.0,
+    "density": 1579.7,
+    "county_fips": 48201,
+    "county_name": "Harris",
+    "county_weights": "{\"48201\": 100}",
+    "county_names_all": "Harris",
+    "county_fips_all": "48201",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

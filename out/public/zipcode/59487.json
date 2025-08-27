@@ -1,0 +1,20 @@
+{
+    "zip": 59487,
+    "lat": 47.58393,
+    "lng": -111.64592,
+    "city": "Vaughn",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1466.0,
+    "density": 10.3,
+    "county_fips": 30013,
+    "county_name": "Cascade",
+    "county_weights": "{\"30013\": 92.35, \"30099\": 7.65}",
+    "county_names_all": "Cascade|Teton",
+    "county_fips_all": "30013|30099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

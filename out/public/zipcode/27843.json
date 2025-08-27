@@ -1,0 +1,20 @@
+{
+    "zip": 27843,
+    "lat": 35.99332,
+    "lng": -77.39509,
+    "city": "Hobgood",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 976.0,
+    "density": 6.2,
+    "county_fips": 37065,
+    "county_name": "Edgecombe",
+    "county_weights": "{\"37065\": 34.53, \"37117\": 33.07, \"37083\": 32.4}",
+    "county_names_all": "Edgecombe|Martin|Halifax",
+    "county_fips_all": "37065|37117|37083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

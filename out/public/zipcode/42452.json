@@ -1,0 +1,20 @@
+{
+    "zip": 42452,
+    "lat": 37.68531,
+    "lng": -87.53654,
+    "city": "Robards",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1913.0,
+    "density": 12.3,
+    "county_fips": 21101,
+    "county_name": "Henderson",
+    "county_weights": "{\"21101\": 91.69, \"21233\": 8.31}",
+    "county_names_all": "Henderson|Webster",
+    "county_fips_all": "21101|21233",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

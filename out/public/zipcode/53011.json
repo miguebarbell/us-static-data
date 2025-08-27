@@ -1,0 +1,20 @@
+{
+    "zip": 53011,
+    "lat": 43.65755,
+    "lng": -88.08123,
+    "city": "Cascade",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2269.0,
+    "density": 22.9,
+    "county_fips": 55117,
+    "county_name": "Sheboygan",
+    "county_weights": "{\"55117\": 98.66, \"55039\": 1.34}",
+    "county_names_all": "Sheboygan|Fond du Lac",
+    "county_fips_all": "55117|55039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

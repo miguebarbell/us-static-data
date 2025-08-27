@@ -1,0 +1,20 @@
+{
+    "zip": 29654,
+    "lat": 34.46621,
+    "lng": -82.36354,
+    "city": "Honea Path",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9998.0,
+    "density": 32.4,
+    "county_fips": 45007,
+    "county_name": "Anderson",
+    "county_weights": "{\"45007\": 36.74, \"45001\": 29.52, \"45045\": 23.41, \"45059\": 10.33}",
+    "county_names_all": "Anderson|Abbeville|Greenville|Laurens",
+    "county_fips_all": "45007|45001|45045|45059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 36038,
+    "lat": 31.40788,
+    "lng": -86.4869,
+    "city": "Gantt",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 109.0,
+    "density": 227.5,
+    "county_fips": 1039,
+    "county_name": "Covington",
+    "county_weights": "{\"01039\": 100}",
+    "county_names_all": "Covington",
+    "county_fips_all": "01039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

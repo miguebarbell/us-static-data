@@ -1,0 +1,20 @@
+{
+    "zip": 48829,
+    "lat": 43.40027,
+    "lng": -85.02037,
+    "city": "Edmore",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3461.0,
+    "density": 19.7,
+    "county_fips": 26117,
+    "county_name": "Montcalm",
+    "county_weights": "{\"26117\": 96.2, \"26073\": 3.8}",
+    "county_names_all": "Montcalm|Isabella",
+    "county_fips_all": "26117|26073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 34761,
+    "lat": 28.57975,
+    "lng": -81.53386,
+    "city": "Ocoee",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 46313.0,
+    "density": 1024.3,
+    "county_fips": 12095,
+    "county_name": "Orange",
+    "county_weights": "{\"12095\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "12095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

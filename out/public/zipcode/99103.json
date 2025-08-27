@@ -1,0 +1,20 @@
+{
+    "zip": 99103,
+    "lat": 47.73041,
+    "lng": -118.93171,
+    "city": "Almira",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 534.0,
+    "density": 0.9,
+    "county_fips": 53043,
+    "county_name": "Lincoln",
+    "county_weights": "{\"53043\": 76.14, \"53025\": 23.86}",
+    "county_names_all": "Lincoln|Grant",
+    "county_fips_all": "53043|53025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

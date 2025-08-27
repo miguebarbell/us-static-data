@@ -1,0 +1,20 @@
+{
+    "zip": 15744,
+    "lat": 40.91722,
+    "lng": -79.07119,
+    "city": "Hamilton",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 46.0,
+    "density": 21.5,
+    "county_fips": 42065,
+    "county_name": "Jefferson",
+    "county_weights": "{\"42065\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "42065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

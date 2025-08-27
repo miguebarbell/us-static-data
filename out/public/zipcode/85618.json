@@ -1,0 +1,20 @@
+{
+    "zip": 85618,
+    "lat": 32.77631,
+    "lng": -110.69433,
+    "city": "Mammoth",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1347.0,
+    "density": 2.0,
+    "county_fips": 4021,
+    "county_name": "Pinal",
+    "county_weights": "{\"04021\": 100}",
+    "county_names_all": "Pinal",
+    "county_fips_all": "04021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

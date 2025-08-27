@@ -1,0 +1,20 @@
+{
+    "zip": 43420,
+    "lat": 41.35749,
+    "lng": -83.11265,
+    "city": "Fremont",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29400.0,
+    "density": 83.3,
+    "county_fips": 39143,
+    "county_name": "Sandusky",
+    "county_weights": "{\"39143\": 99.8, \"39123\": 0.2}",
+    "county_names_all": "Sandusky|Ottawa",
+    "county_fips_all": "39143|39123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

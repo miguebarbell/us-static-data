@@ -1,0 +1,20 @@
+{
+    "zip": 74438,
+    "lat": 35.51382,
+    "lng": -95.75935,
+    "city": "Hitchita",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 415.0,
+    "density": 7.6,
+    "county_fips": 40091,
+    "county_name": "McIntosh",
+    "county_weights": "{\"40091\": 100}",
+    "county_names_all": "McIntosh",
+    "county_fips_all": "40091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

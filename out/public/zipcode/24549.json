@@ -1,0 +1,20 @@
+{
+    "zip": 24549,
+    "lat": 36.71584,
+    "lng": -79.50632,
+    "city": "Dry Fork",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4117.0,
+    "density": 30.9,
+    "county_fips": 51143,
+    "county_name": "Pittsylvania",
+    "county_weights": "{\"51143\": 100}",
+    "county_names_all": "Pittsylvania",
+    "county_fips_all": "51143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

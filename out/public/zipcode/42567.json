@@ -1,0 +1,20 @@
+{
+    "zip": 42567,
+    "lat": 37.26441,
+    "lng": -84.60454,
+    "city": "Eubank",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5150.0,
+    "density": 22.6,
+    "county_fips": 21199,
+    "county_name": "Pulaski",
+    "county_weights": "{\"21199\": 87.78, \"21137\": 12.22}",
+    "county_names_all": "Pulaski|Lincoln",
+    "county_fips_all": "21199|21137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

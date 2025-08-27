@@ -1,0 +1,20 @@
+{
+    "zip": 99775,
+    "lat": 64.85744,
+    "lng": -147.83483,
+    "city": "Fairbanks",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 707.0,
+    "density": 567.7,
+    "county_fips": 2090,
+    "county_name": "Fairbanks North Star",
+    "county_weights": "{\"02090\": 100}",
+    "county_names_all": "Fairbanks North Star",
+    "county_fips_all": "02090",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

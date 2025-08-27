@@ -1,0 +1,20 @@
+{
+    "zip": 49115,
+    "lat": 41.87537,
+    "lng": -86.63389,
+    "city": "Harbert",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 112.0,
+    "density": 50.8,
+    "county_fips": 26021,
+    "county_name": "Berrien",
+    "county_weights": "{\"26021\": 100}",
+    "county_names_all": "Berrien",
+    "county_fips_all": "26021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

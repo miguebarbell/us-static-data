@@ -1,0 +1,20 @@
+{
+    "zip": 83644,
+    "lat": 43.74823,
+    "lng": -116.58455,
+    "city": "Middleton",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15418.0,
+    "density": 129.9,
+    "county_fips": 16027,
+    "county_name": "Canyon",
+    "county_weights": "{\"16027\": 100}",
+    "county_names_all": "Canyon",
+    "county_fips_all": "16027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

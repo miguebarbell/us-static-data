@@ -1,0 +1,20 @@
+{
+    "zip": 36544,
+    "lat": 30.47436,
+    "lng": -88.234,
+    "city": "Irvington",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10800.0,
+    "density": 102.7,
+    "county_fips": 1097,
+    "county_name": "Mobile",
+    "county_weights": "{\"01097\": 100}",
+    "county_names_all": "Mobile",
+    "county_fips_all": "01097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

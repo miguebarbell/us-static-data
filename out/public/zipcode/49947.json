@@ -1,0 +1,20 @@
+{
+    "zip": 49947,
+    "lat": 46.42589,
+    "lng": -89.60536,
+    "city": "Marenisco",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 593.0,
+    "density": 0.6,
+    "county_fips": 26053,
+    "county_name": "Gogebic",
+    "county_weights": "{\"26053\": 80.38, \"26131\": 19.62}",
+    "county_names_all": "Gogebic|Ontonagon",
+    "county_fips_all": "26053|26131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Menominee"
+}

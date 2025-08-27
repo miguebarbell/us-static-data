@@ -1,0 +1,20 @@
+{
+    "zip": 25981,
+    "lat": 38.08321,
+    "lng": -80.70274,
+    "city": "Quinwood",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 881.0,
+    "density": 5.9,
+    "county_fips": 54025,
+    "county_name": "Greenbrier",
+    "county_weights": "{\"54025\": 72.16, \"54067\": 27.84}",
+    "county_names_all": "Greenbrier|Nicholas",
+    "county_fips_all": "54025|54067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

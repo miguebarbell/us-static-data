@@ -1,0 +1,20 @@
+{
+    "zip": 64093,
+    "lat": 38.79057,
+    "lng": -93.73206,
+    "city": "Warrensburg",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27509.0,
+    "density": 55.8,
+    "county_fips": 29101,
+    "county_name": "Johnson",
+    "county_weights": "{\"29101\": 100}",
+    "county_names_all": "Johnson",
+    "county_fips_all": "29101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

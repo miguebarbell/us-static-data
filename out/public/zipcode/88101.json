@@ -1,0 +1,20 @@
+{
+    "zip": 88101,
+    "lat": 34.50114,
+    "lng": -103.26616,
+    "city": "Clovis",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 45157.0,
+    "density": 32.3,
+    "county_fips": 35009,
+    "county_name": "Curry",
+    "county_weights": "{\"35009\": 98.89, \"35041\": 1.11}",
+    "county_names_all": "Curry|Roosevelt",
+    "county_fips_all": "35009|35041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

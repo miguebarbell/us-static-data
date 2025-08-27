@@ -1,0 +1,20 @@
+{
+    "zip": 73491,
+    "lat": 34.4637,
+    "lng": -97.65845,
+    "city": "Velma",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 763.0,
+    "density": 28.3,
+    "county_fips": 40137,
+    "county_name": "Stephens",
+    "county_weights": "{\"40137\": 100}",
+    "county_names_all": "Stephens",
+    "county_fips_all": "40137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

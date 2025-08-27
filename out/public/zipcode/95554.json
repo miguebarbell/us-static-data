@@ -1,0 +1,20 @@
+{
+    "zip": 95554,
+    "lat": 40.27573,
+    "lng": -123.78414,
+    "city": "Myers Flat",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 352.0,
+    "density": 4.2,
+    "county_fips": 6023,
+    "county_name": "Humboldt",
+    "county_weights": "{\"06023\": 100}",
+    "county_names_all": "Humboldt",
+    "county_fips_all": "06023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

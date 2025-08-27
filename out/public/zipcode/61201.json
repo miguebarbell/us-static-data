@@ -1,0 +1,20 @@
+{
+    "zip": 61201,
+    "lat": 41.47799,
+    "lng": -90.57608,
+    "city": "Rock Island",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 37294.0,
+    "density": 805.6,
+    "county_fips": 17161,
+    "county_name": "Rock Island",
+    "county_weights": "{\"17161\": 100}",
+    "county_names_all": "Rock Island",
+    "county_fips_all": "17161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

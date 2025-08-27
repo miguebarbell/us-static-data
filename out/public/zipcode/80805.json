@@ -1,0 +1,20 @@
+{
+    "zip": 80805,
+    "lat": 39.29378,
+    "lng": -102.44923,
+    "city": "Bethune",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 391.0,
+    "density": 1.1,
+    "county_fips": 8063,
+    "county_name": "Kit Carson",
+    "county_weights": "{\"08063\": 100}",
+    "county_names_all": "Kit Carson",
+    "county_fips_all": "08063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

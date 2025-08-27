@@ -1,0 +1,20 @@
+{
+    "zip": 98606,
+    "lat": 45.72921,
+    "lng": -122.45615,
+    "city": "Brush Prairie",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9431.0,
+    "density": 95.9,
+    "county_fips": 53011,
+    "county_name": "Clark",
+    "county_weights": "{\"53011\": 100}",
+    "county_names_all": "Clark",
+    "county_fips_all": "53011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

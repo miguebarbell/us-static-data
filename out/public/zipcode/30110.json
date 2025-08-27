@@ -1,0 +1,20 @@
+{
+    "zip": 30110,
+    "lat": 33.74071,
+    "lng": -85.137,
+    "city": "Bremen",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14088.0,
+    "density": 75.5,
+    "county_fips": 13143,
+    "county_name": "Haralson",
+    "county_weights": "{\"13143\": 89.43, \"13045\": 10.57}",
+    "county_names_all": "Haralson|Carroll",
+    "county_fips_all": "13143|13045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 54836,
+    "lat": 46.43238,
+    "lng": -92.19225,
+    "city": "Foxboro",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 933.0,
+    "density": 2.6,
+    "county_fips": 55031,
+    "county_name": "Douglas",
+    "county_weights": "{\"55031\": 100}",
+    "county_names_all": "Douglas",
+    "county_fips_all": "55031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

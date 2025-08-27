@@ -1,0 +1,20 @@
+{
+    "zip": 80011,
+    "lat": 39.74393,
+    "lng": -104.78994,
+    "city": "Aurora",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 53334.0,
+    "density": 1008.1,
+    "county_fips": 8001,
+    "county_name": "Adams",
+    "county_weights": "{\"08001\": 55.36, \"08005\": 44.64}",
+    "county_names_all": "Adams|Arapahoe",
+    "county_fips_all": "08001|08005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

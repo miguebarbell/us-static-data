@@ -1,0 +1,20 @@
+{
+    "zip": 68154,
+    "lat": 41.26408,
+    "lng": -96.11665,
+    "city": "Omaha",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23232.0,
+    "density": 1320.6,
+    "county_fips": 31055,
+    "county_name": "Douglas",
+    "county_weights": "{\"31055\": 100}",
+    "county_names_all": "Douglas",
+    "county_fips_all": "31055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

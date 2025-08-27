@@ -1,0 +1,20 @@
+{
+    "zip": 28392,
+    "lat": 34.73467,
+    "lng": -78.79465,
+    "city": "Tar Heel",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1564.0,
+    "density": 16.1,
+    "county_fips": 37017,
+    "county_name": "Bladen",
+    "county_weights": "{\"37017\": 100}",
+    "county_names_all": "Bladen",
+    "county_fips_all": "37017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

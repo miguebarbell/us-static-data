@@ -1,0 +1,20 @@
+{
+    "zip": 49341,
+    "lat": 43.12433,
+    "lng": -85.49246,
+    "city": "Rockford",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39680.0,
+    "density": 181.3,
+    "county_fips": 26081,
+    "county_name": "Kent",
+    "county_weights": "{\"26081\": 100}",
+    "county_names_all": "Kent",
+    "county_fips_all": "26081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

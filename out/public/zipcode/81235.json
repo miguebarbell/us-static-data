@@ -1,0 +1,20 @@
+{
+    "zip": 81235,
+    "lat": 37.99363,
+    "lng": -107.33098,
+    "city": "Lake City",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 845.0,
+    "density": 0.6,
+    "county_fips": 8053,
+    "county_name": "Hinsdale",
+    "county_weights": "{\"08053\": 100}",
+    "county_names_all": "Hinsdale",
+    "county_fips_all": "08053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

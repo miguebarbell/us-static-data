@@ -1,0 +1,20 @@
+{
+    "zip": 1070,
+    "lat": 42.51958,
+    "lng": -72.92504,
+    "city": "Plainfield",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 593.0,
+    "density": 11.5,
+    "county_fips": 25015,
+    "county_name": "Hampshire",
+    "county_weights": "{\"25015\": 99.4, \"25003\": 0.6}",
+    "county_names_all": "Hampshire|Berkshire",
+    "county_fips_all": "25015|25003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

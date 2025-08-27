@@ -1,0 +1,20 @@
+{
+    "zip": 58379,
+    "lat": 47.90707,
+    "lng": -98.81907,
+    "city": "Tokio",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 289.0,
+    "density": 16.5,
+    "county_fips": 38005,
+    "county_name": "Benson",
+    "county_weights": "{\"38005\": 100}",
+    "county_names_all": "Benson",
+    "county_fips_all": "38005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 35130,
+    "lat": 33.63235,
+    "lng": -87.13313,
+    "city": "Quinton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3239.0,
+    "density": 18.6,
+    "county_fips": 1127,
+    "county_name": "Walker",
+    "county_weights": "{\"01127\": 56.03, \"01073\": 43.97}",
+    "county_names_all": "Walker|Jefferson",
+    "county_fips_all": "01127|01073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

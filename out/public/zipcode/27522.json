@@ -1,0 +1,20 @@
+{
+    "zip": 27522,
+    "lat": 36.10565,
+    "lng": -78.67676,
+    "city": "Creedmoor",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13654.0,
+    "density": 72.9,
+    "county_fips": 37077,
+    "county_name": "Granville",
+    "county_weights": "{\"37077\": 84.25, \"37183\": 15.75}",
+    "county_names_all": "Granville|Wake",
+    "county_fips_all": "37077|37183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

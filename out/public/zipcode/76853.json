@@ -1,0 +1,20 @@
+{
+    "zip": 76853,
+    "lat": 31.24774,
+    "lng": -98.39047,
+    "city": "Lometa",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1653.0,
+    "density": 2.3,
+    "county_fips": 48281,
+    "county_name": "Lampasas",
+    "county_weights": "{\"48281\": 87.7, \"48333\": 11.6, \"48411\": 0.7}",
+    "county_names_all": "Lampasas|Mills|San Saba",
+    "county_fips_all": "48281|48333|48411",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

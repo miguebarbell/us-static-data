@@ -1,0 +1,20 @@
+{
+    "zip": 31522,
+    "lat": 31.23595,
+    "lng": -81.35528,
+    "city": "Saint Simons Island",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17603.0,
+    "density": 127.3,
+    "county_fips": 13127,
+    "county_name": "Glynn",
+    "county_weights": "{\"13127\": 100}",
+    "county_names_all": "Glynn",
+    "county_fips_all": "13127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

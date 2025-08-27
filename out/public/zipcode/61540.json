@@ -1,0 +1,20 @@
+{
+    "zip": 61540,
+    "lat": 41.01856,
+    "lng": -89.36867,
+    "city": "Lacon",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2700.0,
+    "density": 19.8,
+    "county_fips": 17123,
+    "county_name": "Marshall",
+    "county_weights": "{\"17123\": 100}",
+    "county_names_all": "Marshall",
+    "county_fips_all": "17123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

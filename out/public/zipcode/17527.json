@@ -1,0 +1,20 @@
+{
+    "zip": 17527,
+    "lat": 40.01495,
+    "lng": -75.99333,
+    "city": "Gap",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6479.0,
+    "density": 119.0,
+    "county_fips": 42071,
+    "county_name": "Lancaster",
+    "county_weights": "{\"42071\": 94.12, \"42029\": 5.88}",
+    "county_names_all": "Lancaster|Chester",
+    "county_fips_all": "42071|42029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

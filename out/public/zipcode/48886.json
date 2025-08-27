@@ -1,0 +1,20 @@
+{
+    "zip": 48886,
+    "lat": 43.41994,
+    "lng": -85.16092,
+    "city": "Six Lakes",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1529.0,
+    "density": 18.8,
+    "county_fips": 26117,
+    "county_name": "Montcalm",
+    "county_weights": "{\"26117\": 95.6, \"26107\": 4.4}",
+    "county_names_all": "Montcalm|Mecosta",
+    "county_fips_all": "26117|26107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

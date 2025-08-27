@@ -1,0 +1,20 @@
+{
+    "zip": 54451,
+    "lat": 45.19131,
+    "lng": -90.40172,
+    "city": "Medford",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11051.0,
+    "density": 12.7,
+    "county_fips": 55119,
+    "county_name": "Taylor",
+    "county_weights": "{\"55119\": 98.3, \"55073\": 1.7}",
+    "county_names_all": "Taylor|Marathon",
+    "county_fips_all": "55119|55073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

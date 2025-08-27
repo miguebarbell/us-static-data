@@ -1,0 +1,20 @@
+{
+    "zip": 30082,
+    "lat": 33.85517,
+    "lng": -84.5373,
+    "city": "Smyrna",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26786.0,
+    "density": 983.3,
+    "county_fips": 13067,
+    "county_name": "Cobb",
+    "county_weights": "{\"13067\": 100}",
+    "county_names_all": "Cobb",
+    "county_fips_all": "13067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 61414,
+    "lat": 41.12597,
+    "lng": -90.15495,
+    "city": "Altona",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 731.0,
+    "density": 5.2,
+    "county_fips": 17095,
+    "county_name": "Knox",
+    "county_weights": "{\"17095\": 78.52, \"17073\": 21.48}",
+    "county_names_all": "Knox|Henry",
+    "county_fips_all": "17095|17073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

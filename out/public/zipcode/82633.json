@@ -1,0 +1,20 @@
+{
+    "zip": 82633,
+    "lat": 42.99525,
+    "lng": -105.39874,
+    "city": "Douglas",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9511.0,
+    "density": 1.4,
+    "county_fips": 56009,
+    "county_name": "Converse",
+    "county_weights": "{\"56009\": 98.96, \"56027\": 1.04}",
+    "county_names_all": "Converse|Niobrara",
+    "county_fips_all": "56009|56027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

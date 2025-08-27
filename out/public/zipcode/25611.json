@@ -1,0 +1,20 @@
+{
+    "zip": 25611,
+    "lat": 37.6832,
+    "lng": -81.87068,
+    "city": "Bruno",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1004.0,
+    "density": 46.7,
+    "county_fips": 54045,
+    "county_name": "Logan",
+    "county_weights": "{\"54045\": 100}",
+    "county_names_all": "Logan",
+    "county_fips_all": "54045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

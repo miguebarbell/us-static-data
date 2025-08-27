@@ -1,0 +1,20 @@
+{
+    "zip": 60142,
+    "lat": 42.17517,
+    "lng": -88.44486,
+    "city": "Huntley",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29452.0,
+    "density": 292.5,
+    "county_fips": 17111,
+    "county_name": "McHenry",
+    "county_weights": "{\"17111\": 72.41, \"17089\": 27.59}",
+    "county_names_all": "McHenry|Kane",
+    "county_fips_all": "17111|17089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

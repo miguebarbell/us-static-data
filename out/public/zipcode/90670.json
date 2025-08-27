@@ -1,0 +1,20 @@
+{
+    "zip": 90670,
+    "lat": 33.93279,
+    "lng": -118.0626,
+    "city": "Santa Fe Springs",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18255.0,
+    "density": 847.1,
+    "county_fips": 6037,
+    "county_name": "Los Angeles",
+    "county_weights": "{\"06037\": 100}",
+    "county_names_all": "Los Angeles",
+    "county_fips_all": "06037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

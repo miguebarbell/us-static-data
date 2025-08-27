@@ -1,0 +1,20 @@
+{
+    "zip": 7860,
+    "lat": 41.0595,
+    "lng": -74.81159,
+    "city": "Newton",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26521.0,
+    "density": 102.2,
+    "county_fips": 34037,
+    "county_name": "Sussex",
+    "county_weights": "{\"34037\": 94.11, \"34041\": 5.89}",
+    "county_names_all": "Sussex|Warren",
+    "county_fips_all": "34037|34041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

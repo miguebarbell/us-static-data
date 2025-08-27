@@ -1,0 +1,20 @@
+{
+    "zip": 97375,
+    "lat": 44.97922,
+    "lng": -122.6021,
+    "city": "Scotts Mills",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1204.0,
+    "density": 9.7,
+    "county_fips": 41047,
+    "county_name": "Marion",
+    "county_weights": "{\"41047\": 78.51, \"41005\": 21.49}",
+    "county_names_all": "Marion|Clackamas",
+    "county_fips_all": "41047|41005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

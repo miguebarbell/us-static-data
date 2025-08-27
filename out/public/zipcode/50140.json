@@ -1,0 +1,20 @@
+{
+    "zip": 50140,
+    "lat": 40.63753,
+    "lng": -93.99198,
+    "city": "Lamoni",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2817.0,
+    "density": 11.7,
+    "county_fips": 19053,
+    "county_name": "Decatur",
+    "county_weights": "{\"19053\": 69.18, \"19159\": 30.82}",
+    "county_names_all": "Decatur|Ringgold",
+    "county_fips_all": "19053|19159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

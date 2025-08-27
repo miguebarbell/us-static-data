@@ -1,0 +1,20 @@
+{
+    "zip": 12914,
+    "lat": 44.93289,
+    "lng": -74.6018,
+    "city": "Bombay",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 892.0,
+    "density": 11.4,
+    "county_fips": 36033,
+    "county_name": "Franklin",
+    "county_weights": "{\"36033\": 83.54, \"36089\": 16.46}",
+    "county_names_all": "Franklin|St. Lawrence",
+    "county_fips_all": "36033|36089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

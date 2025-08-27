@@ -1,0 +1,20 @@
+{
+    "zip": 83544,
+    "lat": 46.49365,
+    "lng": -116.1525,
+    "city": "Orofino",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6476.0,
+    "density": 10.3,
+    "county_fips": 16035,
+    "county_name": "Clearwater",
+    "county_weights": "{\"16035\": 97.36, \"16061\": 2.64}",
+    "county_names_all": "Clearwater|Lewis",
+    "county_fips_all": "16035|16061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

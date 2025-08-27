@@ -1,0 +1,20 @@
+{
+    "zip": 74528,
+    "lat": 34.71644,
+    "lng": -95.723,
+    "city": "Blanco",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 157.0,
+    "density": 2.0,
+    "county_fips": 40121,
+    "county_name": "Pittsburg",
+    "county_weights": "{\"40121\": 100}",
+    "county_names_all": "Pittsburg",
+    "county_fips_all": "40121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

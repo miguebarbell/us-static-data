@@ -1,0 +1,20 @@
+{
+    "zip": 41534,
+    "lat": 37.27748,
+    "lng": -82.49644,
+    "city": "Hellier",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 71.0,
+    "density": 5.6,
+    "county_fips": 21195,
+    "county_name": "Pike",
+    "county_weights": "{\"21195\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "21195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

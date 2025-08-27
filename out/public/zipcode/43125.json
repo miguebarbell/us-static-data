@@ -1,0 +1,20 @@
+{
+    "zip": 43125,
+    "lat": 39.83747,
+    "lng": -82.88588,
+    "city": "Groveport",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14765.0,
+    "density": 181.2,
+    "county_fips": 39049,
+    "county_name": "Franklin",
+    "county_weights": "{\"39049\": 87.04, \"39129\": 12.96}",
+    "county_names_all": "Franklin|Pickaway",
+    "county_fips_all": "39049|39129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49332,
+    "lat": 43.62323,
+    "lng": -85.24468,
+    "city": "Mecosta",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3352.0,
+    "density": 29.1,
+    "county_fips": 26107,
+    "county_name": "Mecosta",
+    "county_weights": "{\"26107\": 100}",
+    "county_names_all": "Mecosta",
+    "county_fips_all": "26107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

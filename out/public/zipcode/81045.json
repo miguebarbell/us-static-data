@@ -1,0 +1,20 @@
+{
+    "zip": 81045,
+    "lat": 38.55956,
+    "lng": -103.16093,
+    "city": "Haswell",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 56.0,
+    "density": 0.1,
+    "county_fips": 8061,
+    "county_name": "Kiowa",
+    "county_weights": "{\"08061\": 58.38, \"08017\": 24.99, \"08073\": 16.63}",
+    "county_names_all": "Kiowa|Cheyenne|Lincoln",
+    "county_fips_all": "08061|08017|08073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

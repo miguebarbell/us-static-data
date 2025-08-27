@@ -1,0 +1,20 @@
+{
+    "zip": 95230,
+    "lat": 37.97361,
+    "lng": -120.86492,
+    "city": "Farmington",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 495.0,
+    "density": 1.4,
+    "county_fips": 6099,
+    "county_name": "Stanislaus",
+    "county_weights": "{\"06099\": 48.49, \"06009\": 30.08, \"06077\": 21.42}",
+    "county_names_all": "Stanislaus|Calaveras|San Joaquin",
+    "county_fips_all": "06099|06009|06077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

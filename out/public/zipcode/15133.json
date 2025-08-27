@@ -1,0 +1,20 @@
+{
+    "zip": 15133,
+    "lat": 40.3257,
+    "lng": -79.86127,
+    "city": "Mckeesport",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6139.0,
+    "density": 703.5,
+    "county_fips": 42003,
+    "county_name": "Allegheny",
+    "county_weights": "{\"42003\": 100}",
+    "county_names_all": "Allegheny",
+    "county_fips_all": "42003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

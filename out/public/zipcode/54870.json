@@ -1,0 +1,20 @@
+{
+    "zip": 54870,
+    "lat": 45.71205,
+    "lng": -91.76967,
+    "city": "Sarona",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1701.0,
+    "density": 8.0,
+    "county_fips": 55129,
+    "county_name": "Washburn",
+    "county_weights": "{\"55129\": 97.4, \"55005\": 2.6}",
+    "county_names_all": "Washburn|Barron",
+    "county_fips_all": "55129|55005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

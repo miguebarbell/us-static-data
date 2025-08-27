@@ -1,0 +1,20 @@
+{
+    "zip": 27909,
+    "lat": 36.29548,
+    "lng": -76.28394,
+    "city": "Elizabeth City",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40878.0,
+    "density": 69.6,
+    "county_fips": 37139,
+    "county_name": "Pasquotank",
+    "county_weights": "{\"37139\": 100}",
+    "county_names_all": "Pasquotank",
+    "county_fips_all": "37139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

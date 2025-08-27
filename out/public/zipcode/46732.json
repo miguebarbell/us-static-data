@@ -1,0 +1,20 @@
+{
+    "zip": 46732,
+    "lat": 41.37697,
+    "lng": -85.62169,
+    "city": "Cromwell",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2434.0,
+    "density": 40.1,
+    "county_fips": 18113,
+    "county_name": "Noble",
+    "county_weights": "{\"18113\": 92.87, \"18085\": 7.13}",
+    "county_names_all": "Noble|Kosciusko",
+    "county_fips_all": "18113|18085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72530,
+    "lat": 35.61381,
+    "lng": -91.95715,
+    "city": "Drasco",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1863.0,
+    "density": 6.5,
+    "county_fips": 5023,
+    "county_name": "Cleburne",
+    "county_weights": "{\"05023\": 94.28, \"05137\": 5.72}",
+    "county_names_all": "Cleburne|Stone",
+    "county_fips_all": "05023|05137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

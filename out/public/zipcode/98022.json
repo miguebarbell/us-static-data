@@ -1,0 +1,20 @@
+{
+    "zip": 98022,
+    "lat": 47.1714,
+    "lng": -121.67958,
+    "city": "Enumclaw",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22135.0,
+    "density": 11.8,
+    "county_fips": 53033,
+    "county_name": "King",
+    "county_weights": "{\"53033\": 61.65, \"53053\": 38.35}",
+    "county_names_all": "King|Pierce",
+    "county_fips_all": "53033|53053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

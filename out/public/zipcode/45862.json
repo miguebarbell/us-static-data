@@ -1,0 +1,20 @@
+{
+    "zip": 45862,
+    "lat": 40.67079,
+    "lng": -84.51356,
+    "city": "Mendon",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1182.0,
+    "density": 12.5,
+    "county_fips": 39107,
+    "county_name": "Mercer",
+    "county_weights": "{\"39107\": 92.4, \"39011\": 7.6}",
+    "county_names_all": "Mercer|Auglaize",
+    "county_fips_all": "39107|39011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

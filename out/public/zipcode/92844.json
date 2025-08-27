@@ -1,0 +1,20 @@
+{
+    "zip": 92844,
+    "lat": 33.76561,
+    "lng": -117.96952,
+    "city": "Garden Grove",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22719.0,
+    "density": 4177.5,
+    "county_fips": 6059,
+    "county_name": "Orange",
+    "county_weights": "{\"06059\": 100}",
+    "county_names_all": "Orange",
+    "county_fips_all": "06059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

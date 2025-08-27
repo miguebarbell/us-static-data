@@ -1,0 +1,20 @@
+{
+    "zip": 98819,
+    "lat": 48.59797,
+    "lng": -119.82327,
+    "city": "Conconully",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 208.0,
+    "density": 0.5,
+    "county_fips": 53047,
+    "county_name": "Okanogan",
+    "county_weights": "{\"53047\": 100}",
+    "county_names_all": "Okanogan",
+    "county_fips_all": "53047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

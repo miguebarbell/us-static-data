@@ -1,0 +1,20 @@
+{
+    "zip": 53572,
+    "lat": 42.96016,
+    "lng": -89.73754,
+    "city": "Mount Horeb",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10441.0,
+    "density": 40.7,
+    "county_fips": 55025,
+    "county_name": "Dane",
+    "county_weights": "{\"55025\": 99.34, \"55045\": 0.66}",
+    "county_names_all": "Dane|Green",
+    "county_fips_all": "55025|55045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

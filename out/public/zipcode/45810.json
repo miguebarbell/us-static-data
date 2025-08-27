@@ -1,0 +1,20 @@
+{
+    "zip": 45810,
+    "lat": 40.77721,
+    "lng": -83.81097,
+    "city": "Ada",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7345.0,
+    "density": 43.3,
+    "county_fips": 39065,
+    "county_name": "Hardin",
+    "county_weights": "{\"39065\": 79.66, \"39063\": 12.22, \"39003\": 8.12}",
+    "county_names_all": "Hardin|Hancock|Allen",
+    "county_fips_all": "39065|39063|39003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

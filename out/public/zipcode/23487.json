@@ -1,0 +1,20 @@
+{
+    "zip": 23487,
+    "lat": 36.85197,
+    "lng": -76.72303,
+    "city": "Windsor",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6238.0,
+    "density": 25.3,
+    "county_fips": 51093,
+    "county_name": "Isle of Wight",
+    "county_weights": "{\"51093\": 100}",
+    "county_names_all": "Isle of Wight",
+    "county_fips_all": "51093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

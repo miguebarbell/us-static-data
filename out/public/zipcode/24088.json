@@ -1,0 +1,20 @@
+{
+    "zip": 24088,
+    "lat": 36.89492,
+    "lng": -80.0798,
+    "city": "Ferrum",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4999.0,
+    "density": 17.2,
+    "county_fips": 51067,
+    "county_name": "Franklin",
+    "county_weights": "{\"51067\": 83.69, \"51141\": 16.31}",
+    "county_names_all": "Franklin|Patrick",
+    "county_fips_all": "51067|51141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

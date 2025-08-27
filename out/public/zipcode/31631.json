@@ -1,0 +1,20 @@
+{
+    "zip": 31631,
+    "lat": 30.71119,
+    "lng": -82.64657,
+    "city": "Fargo",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 592.0,
+    "density": 1.0,
+    "county_fips": 13101,
+    "county_name": "Echols",
+    "county_weights": "{\"13101\": 57.25, \"13065\": 32.48, \"13049\": 8.68, \"13299\": 1.59}",
+    "county_names_all": "Echols|Clinch|Charlton|Ware",
+    "county_fips_all": "13101|13065|13049|13299",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

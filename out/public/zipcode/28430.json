@@ -1,0 +1,20 @@
+{
+    "zip": 28430,
+    "lat": 34.28419,
+    "lng": -78.93333,
+    "city": "Cerro Gordo",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1678.0,
+    "density": 13.8,
+    "county_fips": 37047,
+    "county_name": "Columbus",
+    "county_weights": "{\"37047\": 100}",
+    "county_names_all": "Columbus",
+    "county_fips_all": "37047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 95833,
+    "lat": 38.61529,
+    "lng": -121.51558,
+    "city": "Sacramento",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40205.0,
+    "density": 1919.1,
+    "county_fips": 6067,
+    "county_name": "Sacramento",
+    "county_weights": "{\"06067\": 100}",
+    "county_names_all": "Sacramento",
+    "county_fips_all": "06067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

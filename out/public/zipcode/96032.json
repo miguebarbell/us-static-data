@@ -1,0 +1,20 @@
+{
+    "zip": 96032,
+    "lat": 41.58503,
+    "lng": -122.98291,
+    "city": "Fort Jones",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2629.0,
+    "density": 2.0,
+    "county_fips": 6093,
+    "county_name": "Siskiyou",
+    "county_weights": "{\"06093\": 100}",
+    "county_names_all": "Siskiyou",
+    "county_fips_all": "06093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

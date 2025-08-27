@@ -1,0 +1,20 @@
+{
+    "zip": 35128,
+    "lat": 33.54738,
+    "lng": -86.34596,
+    "city": "Pell City",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10228.0,
+    "density": 56.6,
+    "county_fips": 1115,
+    "county_name": "St. Clair",
+    "county_weights": "{\"01115\": 98.19, \"01117\": 1.81}",
+    "county_names_all": "St. Clair|Shelby",
+    "county_fips_all": "01115|01117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

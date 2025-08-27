@@ -1,0 +1,20 @@
+{
+    "zip": 5736,
+    "lat": 43.60483,
+    "lng": -73.01273,
+    "city": "Center Rutland",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 490.0,
+    "density": 56.0,
+    "county_fips": 50021,
+    "county_name": "Rutland",
+    "county_weights": "{\"50021\": 100}",
+    "county_names_all": "Rutland",
+    "county_fips_all": "50021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

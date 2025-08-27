@@ -1,0 +1,20 @@
+{
+    "zip": 48320,
+    "lat": 42.61274,
+    "lng": -83.33824,
+    "city": "Keego Harbor",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4257.0,
+    "density": 1500.8,
+    "county_fips": 26125,
+    "county_name": "Oakland",
+    "county_weights": "{\"26125\": 100}",
+    "county_names_all": "Oakland",
+    "county_fips_all": "26125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

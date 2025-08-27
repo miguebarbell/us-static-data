@@ -1,0 +1,20 @@
+{
+    "zip": 55046,
+    "lat": 44.44629,
+    "lng": -93.4162,
+    "city": "Lonsdale",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6030.0,
+    "density": 52.2,
+    "county_fips": 27131,
+    "county_name": "Rice",
+    "county_weights": "{\"27131\": 100}",
+    "county_names_all": "Rice",
+    "county_fips_all": "27131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

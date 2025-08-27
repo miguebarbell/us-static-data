@@ -1,0 +1,20 @@
+{
+    "zip": 91708,
+    "lat": 33.95141,
+    "lng": -117.64506,
+    "city": "Chino",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17308.0,
+    "density": 826.2,
+    "county_fips": 6071,
+    "county_name": "San Bernardino",
+    "county_weights": "{\"06071\": 99.86, \"06065\": 0.14}",
+    "county_names_all": "San Bernardino|Riverside",
+    "county_fips_all": "06071|06065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

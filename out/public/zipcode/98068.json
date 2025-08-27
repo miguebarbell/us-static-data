@@ -1,0 +1,20 @@
+{
+    "zip": 98068,
+    "lat": 47.45154,
+    "lng": -121.35795,
+    "city": "Snoqualmie Pass",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 442.0,
+    "density": 0.7,
+    "county_fips": 53037,
+    "county_name": "Kittitas",
+    "county_weights": "{\"53037\": 54.95, \"53033\": 45.05}",
+    "county_names_all": "Kittitas|King",
+    "county_fips_all": "53037|53033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

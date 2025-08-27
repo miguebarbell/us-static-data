@@ -1,0 +1,20 @@
+{
+    "zip": 66614,
+    "lat": 39.01362,
+    "lng": -95.84115,
+    "city": "Topeka",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32586.0,
+    "density": 522.9,
+    "county_fips": 20177,
+    "county_name": "Shawnee",
+    "county_weights": "{\"20177\": 83.86, \"20197\": 16.14}",
+    "county_names_all": "Shawnee|Wabaunsee",
+    "county_fips_all": "20177|20197",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

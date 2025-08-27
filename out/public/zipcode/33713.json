@@ -1,0 +1,20 @@
+{
+    "zip": 33713,
+    "lat": 27.78882,
+    "lng": -82.67753,
+    "city": "Saint Petersburg",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31835.0,
+    "density": 1880.6,
+    "county_fips": 12103,
+    "county_name": "Pinellas",
+    "county_weights": "{\"12103\": 100}",
+    "county_names_all": "Pinellas",
+    "county_fips_all": "12103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43164,
+    "lat": 39.58349,
+    "lng": -83.12009,
+    "city": "Williamsport",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2062.0,
+    "density": 12.8,
+    "county_fips": 39129,
+    "county_name": "Pickaway",
+    "county_weights": "{\"39129\": 91.58, \"39141\": 8.42}",
+    "county_names_all": "Pickaway|Ross",
+    "county_fips_all": "39129|39141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

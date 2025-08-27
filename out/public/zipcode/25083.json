@@ -1,0 +1,20 @@
+{
+    "zip": 25083,
+    "lat": 38.06809,
+    "lng": -81.36118,
+    "city": "Gallagher",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 381.0,
+    "density": 5.4,
+    "county_fips": 54039,
+    "county_name": "Kanawha",
+    "county_weights": "{\"54039\": 62.76, \"54019\": 37.13, \"54081\": 0.11}",
+    "county_names_all": "Kanawha|Fayette|Raleigh",
+    "county_fips_all": "54039|54019|54081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

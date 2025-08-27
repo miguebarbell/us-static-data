@@ -1,0 +1,20 @@
+{
+    "zip": 36075,
+    "lat": 32.38913,
+    "lng": -85.91257,
+    "city": "Shorter",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1895.0,
+    "density": 8.9,
+    "county_fips": 1087,
+    "county_name": "Macon",
+    "county_weights": "{\"01087\": 100}",
+    "county_names_all": "Macon",
+    "county_fips_all": "01087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

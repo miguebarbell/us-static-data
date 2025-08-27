@@ -1,0 +1,20 @@
+{
+    "zip": 47443,
+    "lat": 38.96651,
+    "lng": -87.09059,
+    "city": "Lyons",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1336.0,
+    "density": 10.2,
+    "county_fips": 18055,
+    "county_name": "Greene",
+    "county_weights": "{\"18055\": 100}",
+    "county_names_all": "Greene",
+    "county_fips_all": "18055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

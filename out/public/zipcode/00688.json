@@ -1,0 +1,20 @@
+{
+    "zip": 688,
+    "lat": 18.3807,
+    "lng": -66.62496,
+    "city": "Sabana Hoyos",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10985.0,
+    "density": 130.5,
+    "county_fips": 72013,
+    "county_name": "Arecibo",
+    "county_weights": "{\"72013\": 100}",
+    "county_names_all": "Arecibo",
+    "county_fips_all": "72013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

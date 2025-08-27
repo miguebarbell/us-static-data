@@ -1,0 +1,20 @@
+{
+    "zip": 93276,
+    "lat": 35.31756,
+    "lng": -119.4092,
+    "city": "Tupman",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 175.0,
+    "density": 15.8,
+    "county_fips": 6029,
+    "county_name": "Kern",
+    "county_weights": "{\"06029\": 100}",
+    "county_names_all": "Kern",
+    "county_fips_all": "06029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

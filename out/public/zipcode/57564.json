@@ -1,0 +1,20 @@
+{
+    "zip": 57564,
+    "lat": 44.72401,
+    "lng": -100.0121,
+    "city": "Onida",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 893.0,
+    "density": 0.8,
+    "county_fips": 46119,
+    "county_name": "Sully",
+    "county_weights": "{\"46119\": 97.75, \"46069\": 2.25}",
+    "county_names_all": "Sully|Hyde",
+    "county_fips_all": "46119|46069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

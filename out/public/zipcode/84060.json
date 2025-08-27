@@ -1,0 +1,20 @@
+{
+    "zip": 84060,
+    "lat": 40.6418,
+    "lng": -111.50332,
+    "city": "Park City",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8575.0,
+    "density": 75.6,
+    "county_fips": 49043,
+    "county_name": "Summit",
+    "county_weights": "{\"49043\": 75.57, \"49051\": 24.43}",
+    "county_names_all": "Summit|Wasatch",
+    "county_fips_all": "49043|49051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

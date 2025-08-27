@@ -1,0 +1,20 @@
+{
+    "zip": 77534,
+    "lat": 29.21335,
+    "lng": -95.30387,
+    "city": "Danbury",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3406.0,
+    "density": 31.4,
+    "county_fips": 48039,
+    "county_name": "Brazoria",
+    "county_weights": "{\"48039\": 100}",
+    "county_names_all": "Brazoria",
+    "county_fips_all": "48039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

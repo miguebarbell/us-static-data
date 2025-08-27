@@ -1,0 +1,20 @@
+{
+    "zip": 73075,
+    "lat": 34.75187,
+    "lng": -97.23428,
+    "city": "Pauls Valley",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9478.0,
+    "density": 26.2,
+    "county_fips": 40049,
+    "county_name": "Garvin",
+    "county_weights": "{\"40049\": 100}",
+    "county_names_all": "Garvin",
+    "county_fips_all": "40049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

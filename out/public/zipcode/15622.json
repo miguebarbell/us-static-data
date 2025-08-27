@@ -1,0 +1,20 @@
+{
+    "zip": 15622,
+    "lat": 40.0356,
+    "lng": -79.31724,
+    "city": "Champion",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1052.0,
+    "density": 11.4,
+    "county_fips": 42051,
+    "county_name": "Fayette",
+    "county_weights": "{\"42051\": 36.86, \"42111\": 34.82, \"42129\": 28.32}",
+    "county_names_all": "Fayette|Somerset|Westmoreland",
+    "county_fips_all": "42051|42111|42129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

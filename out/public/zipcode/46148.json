@@ -1,0 +1,20 @@
+{
+    "zip": 46148,
+    "lat": 39.80906,
+    "lng": -85.51296,
+    "city": "Knightstown",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4948.0,
+    "density": 37.4,
+    "county_fips": 18065,
+    "county_name": "Henry",
+    "county_weights": "{\"18065\": 68.29, \"18139\": 31.71}",
+    "county_names_all": "Henry|Rush",
+    "county_fips_all": "18065|18139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

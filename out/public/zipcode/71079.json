@@ -1,0 +1,20 @@
+{
+    "zip": 71079,
+    "lat": 32.94811,
+    "lng": -92.81941,
+    "city": "Summerfield",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 236.0,
+    "density": 2.7,
+    "county_fips": 22027,
+    "county_name": "Claiborne",
+    "county_weights": "{\"22027\": 100}",
+    "county_names_all": "Claiborne",
+    "county_fips_all": "22027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

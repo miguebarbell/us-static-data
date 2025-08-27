@@ -1,0 +1,20 @@
+{
+    "zip": 37376,
+    "lat": 35.04748,
+    "lng": -85.95834,
+    "city": "Sherwood",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 342.0,
+    "density": 1.6,
+    "county_fips": 47051,
+    "county_name": "Franklin",
+    "county_weights": "{\"47051\": 97.31, \"47115\": 2.69}",
+    "county_names_all": "Franklin|Marion",
+    "county_fips_all": "47051|47115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

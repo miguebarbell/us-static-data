@@ -1,0 +1,20 @@
+{
+    "zip": 37143,
+    "lat": 36.13137,
+    "lng": -87.03038,
+    "city": "Pegram",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4149.0,
+    "density": 48.3,
+    "county_fips": 47021,
+    "county_name": "Cheatham",
+    "county_weights": "{\"47021\": 81.41, \"47037\": 18.59}",
+    "county_names_all": "Cheatham|Davidson",
+    "county_fips_all": "47021|47037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 56684,
+    "lat": 47.87109,
+    "lng": -95.70401,
+    "city": "Trail",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 304.0,
+    "density": 0.9,
+    "county_fips": 27119,
+    "county_name": "Polk",
+    "county_weights": "{\"27119\": 62.13, \"27113\": 33.0, \"27125\": 4.87}",
+    "county_names_all": "Polk|Pennington|Red Lake",
+    "county_fips_all": "27119|27113|27125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

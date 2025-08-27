@@ -1,0 +1,20 @@
+{
+    "zip": 79830,
+    "lat": 29.89491,
+    "lng": -103.49925,
+    "city": "Alpine",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7672.0,
+    "density": 2.5,
+    "county_fips": 48043,
+    "county_name": "Brewster",
+    "county_weights": "{\"48043\": 100}",
+    "county_names_all": "Brewster",
+    "county_fips_all": "48043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

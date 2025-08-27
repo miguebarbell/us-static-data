@@ -1,0 +1,20 @@
+{
+    "zip": 29708,
+    "lat": 35.04655,
+    "lng": -80.98604,
+    "city": "Fort Mill",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42931.0,
+    "density": 871.1,
+    "county_fips": 45091,
+    "county_name": "York",
+    "county_weights": "{\"45091\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "45091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

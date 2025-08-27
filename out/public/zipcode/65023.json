@@ -1,0 +1,20 @@
+{
+    "zip": 65023,
+    "lat": 38.65274,
+    "lng": -92.39915,
+    "city": "Centertown",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1546.0,
+    "density": 10.9,
+    "county_fips": 29051,
+    "county_name": "Cole",
+    "county_weights": "{\"29051\": 75.6, \"29135\": 24.4}",
+    "county_names_all": "Cole|Moniteau",
+    "county_fips_all": "29051|29135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

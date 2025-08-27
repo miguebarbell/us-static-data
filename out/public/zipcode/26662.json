@@ -1,0 +1,20 @@
+{
+    "zip": 26662,
+    "lat": 38.25813,
+    "lng": -80.7695,
+    "city": "Canvas",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 645.0,
+    "density": 24.7,
+    "county_fips": 54067,
+    "county_name": "Nicholas",
+    "county_weights": "{\"54067\": 100}",
+    "county_names_all": "Nicholas",
+    "county_fips_all": "54067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

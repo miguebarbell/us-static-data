@@ -1,0 +1,20 @@
+{
+    "zip": 79036,
+    "lat": 35.59727,
+    "lng": -101.54826,
+    "city": "Fritch",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4957.0,
+    "density": 24.1,
+    "county_fips": 48065,
+    "county_name": "Carson",
+    "county_weights": "{\"48065\": 64.26, \"48233\": 28.01, \"48375\": 4.49, \"48341\": 3.24}",
+    "county_names_all": "Carson|Hutchinson|Potter|Moore",
+    "county_fips_all": "48065|48233|48375|48341",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

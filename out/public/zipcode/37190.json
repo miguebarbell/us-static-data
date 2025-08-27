@@ -1,0 +1,20 @@
+{
+    "zip": 37190,
+    "lat": 35.82599,
+    "lng": -86.0424,
+    "city": "Woodbury",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9267.0,
+    "density": 25.8,
+    "county_fips": 47015,
+    "county_name": "Cannon",
+    "county_weights": "{\"47015\": 98.46, \"47177\": 1.54}",
+    "county_names_all": "Cannon|Warren",
+    "county_fips_all": "47015|47177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

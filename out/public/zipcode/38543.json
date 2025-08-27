@@ -1,0 +1,20 @@
+{
+    "zip": 38543,
+    "lat": 36.37514,
+    "lng": -85.15931,
+    "city": "Alpine",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 321.0,
+    "density": 3.0,
+    "county_fips": 47133,
+    "county_name": "Overton",
+    "county_weights": "{\"47133\": 88.08, \"47137\": 11.92}",
+    "county_names_all": "Overton|Pickett",
+    "county_fips_all": "47133|47137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

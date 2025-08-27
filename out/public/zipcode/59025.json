@@ -1,0 +1,20 @@
+{
+    "zip": 59025,
+    "lat": 45.09503,
+    "lng": -106.7178,
+    "city": "Decker",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 41.0,
+    "density": 0.0,
+    "county_fips": 30003,
+    "county_name": "Big Horn",
+    "county_weights": "{\"30003\": 100}",
+    "county_names_all": "Big Horn",
+    "county_fips_all": "30003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

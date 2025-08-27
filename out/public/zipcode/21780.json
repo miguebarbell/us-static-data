@@ -1,0 +1,20 @@
+{
+    "zip": 21780,
+    "lat": 39.67676,
+    "lng": -77.46777,
+    "city": "Sabillasville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1814.0,
+    "density": 31.7,
+    "county_fips": 24021,
+    "county_name": "Frederick",
+    "county_weights": "{\"24021\": 95.78, \"24043\": 4.22}",
+    "county_names_all": "Frederick|Washington",
+    "county_fips_all": "24021|24043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

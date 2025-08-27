@@ -1,0 +1,20 @@
+{
+    "zip": 74572,
+    "lat": 34.63831,
+    "lng": -96.42594,
+    "city": "Tupelo",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 806.0,
+    "density": 7.1,
+    "county_fips": 40029,
+    "county_name": "Coal",
+    "county_weights": "{\"40029\": 83.23, \"40123\": 16.77}",
+    "county_names_all": "Coal|Pontotoc",
+    "county_fips_all": "40029|40123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

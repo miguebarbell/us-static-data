@@ -1,0 +1,20 @@
+{
+    "zip": 26405,
+    "lat": 39.23093,
+    "lng": -79.89076,
+    "city": "Moatsville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 956.0,
+    "density": 5.9,
+    "county_fips": 54001,
+    "county_name": "Barbour",
+    "county_weights": "{\"54001\": 75.41, \"54077\": 24.59}",
+    "county_names_all": "Barbour|Preston",
+    "county_fips_all": "54001|54077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

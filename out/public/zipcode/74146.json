@@ -1,0 +1,20 @@
+{
+    "zip": 74146,
+    "lat": 36.09784,
+    "lng": -95.85344,
+    "city": "Tulsa",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16133.0,
+    "density": 1212.6,
+    "county_fips": 40143,
+    "county_name": "Tulsa",
+    "county_weights": "{\"40143\": 100}",
+    "county_names_all": "Tulsa",
+    "county_fips_all": "40143",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 82210,
+    "lat": 41.73214,
+    "lng": -104.77981,
+    "city": "Chugwater",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 248.0,
+    "density": 0.3,
+    "county_fips": 56031,
+    "county_name": "Platte",
+    "county_weights": "{\"56031\": 74.31, \"56015\": 25.69}",
+    "county_names_all": "Platte|Goshen",
+    "county_fips_all": "56031|56015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

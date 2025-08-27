@@ -1,0 +1,20 @@
+{
+    "zip": 41064,
+    "lat": 38.51462,
+    "lng": -84.07106,
+    "city": "Mount Olivet",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2122.0,
+    "density": 9.7,
+    "county_fips": 21201,
+    "county_name": "Robertson",
+    "county_weights": "{\"21201\": 93.75, \"21023\": 5.43, \"21097\": 0.82}",
+    "county_names_all": "Robertson|Bracken|Harrison",
+    "county_fips_all": "21201|21023|21097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

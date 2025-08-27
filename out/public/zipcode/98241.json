@@ -1,0 +1,20 @@
+{
+    "zip": 98241,
+    "lat": 48.21425,
+    "lng": -121.33219,
+    "city": "Darrington",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2412.0,
+    "density": 2.2,
+    "county_fips": 53061,
+    "county_name": "Snohomish",
+    "county_weights": "{\"53061\": 91.93, \"53057\": 8.07}",
+    "county_names_all": "Snohomish|Skagit",
+    "county_fips_all": "53061|53057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

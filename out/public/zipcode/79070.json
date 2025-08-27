@@ -1,0 +1,20 @@
+{
+    "zip": 79070,
+    "lat": 36.25346,
+    "lng": -100.80731,
+    "city": "Perryton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9655.0,
+    "density": 4.3,
+    "county_fips": 48357,
+    "county_name": "Ochiltree",
+    "county_weights": "{\"48357\": 90.18, \"48393\": 8.51, \"48295\": 1.31}",
+    "county_names_all": "Ochiltree|Roberts|Lipscomb",
+    "county_fips_all": "48357|48393|48295",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

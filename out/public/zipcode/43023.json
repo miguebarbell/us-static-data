@@ -1,0 +1,20 @@
+{
+    "zip": 43023,
+    "lat": 40.07603,
+    "lng": -82.53061,
+    "city": "Granville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15772.0,
+    "density": 121.9,
+    "county_fips": 39089,
+    "county_name": "Licking",
+    "county_weights": "{\"39089\": 100}",
+    "county_names_all": "Licking",
+    "county_fips_all": "39089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

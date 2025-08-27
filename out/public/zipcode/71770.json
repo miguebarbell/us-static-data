@@ -1,0 +1,20 @@
+{
+    "zip": 71770,
+    "lat": 33.38847,
+    "lng": -93.31607,
+    "city": "Waldo",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3379.0,
+    "density": 8.7,
+    "county_fips": 5027,
+    "county_name": "Columbia",
+    "county_weights": "{\"05027\": 73.53, \"05099\": 26.47}",
+    "county_names_all": "Columbia|Nevada",
+    "county_fips_all": "05027|05099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

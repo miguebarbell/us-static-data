@@ -1,0 +1,20 @@
+{
+    "zip": 13155,
+    "lat": 42.65945,
+    "lng": -75.77136,
+    "city": "South Otselic",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 654.0,
+    "density": 10.4,
+    "county_fips": 36017,
+    "county_name": "Chenango",
+    "county_weights": "{\"36017\": 100}",
+    "county_names_all": "Chenango",
+    "county_fips_all": "36017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

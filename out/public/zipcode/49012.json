@@ -1,0 +1,20 @@
+{
+    "zip": 49012,
+    "lat": 42.34626,
+    "lng": -85.34116,
+    "city": "Augusta",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3106.0,
+    "density": 28.4,
+    "county_fips": 26077,
+    "county_name": "Kalamazoo",
+    "county_weights": "{\"26077\": 98.31, \"26025\": 1.69}",
+    "county_names_all": "Kalamazoo|Calhoun",
+    "county_fips_all": "26077|26025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

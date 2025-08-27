@@ -1,0 +1,20 @@
+{
+    "zip": 18470,
+    "lat": 41.732,
+    "lng": -75.53502,
+    "city": "Union Dale",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2296.0,
+    "density": 13.7,
+    "county_fips": 42115,
+    "county_name": "Susquehanna",
+    "county_weights": "{\"42115\": 81.49, \"42127\": 18.51}",
+    "county_names_all": "Susquehanna|Wayne",
+    "county_fips_all": "42115|42127",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

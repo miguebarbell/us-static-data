@@ -1,0 +1,20 @@
+{
+    "zip": 80824,
+    "lat": 39.66302,
+    "lng": -102.49943,
+    "city": "Kirk",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 352.0,
+    "density": 1.0,
+    "county_fips": 8125,
+    "county_name": "Yuma",
+    "county_weights": "{\"08125\": 100}",
+    "county_names_all": "Yuma",
+    "county_fips_all": "08125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

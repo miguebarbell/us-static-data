@@ -1,0 +1,20 @@
+{
+    "zip": 22630,
+    "lat": 38.92909,
+    "lng": -78.18052,
+    "city": "Front Royal",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 35211.0,
+    "density": 111.5,
+    "county_fips": 51187,
+    "county_name": "Warren",
+    "county_weights": "{\"51187\": 97.55, \"51069\": 1.63, \"51043\": 0.63, \"51061\": 0.19}",
+    "county_names_all": "Warren|Frederick|Clarke|Fauquier",
+    "county_fips_all": "51187|51069|51043|51061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

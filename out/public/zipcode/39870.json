@@ -1,0 +1,20 @@
+{
+    "zip": 39870,
+    "lat": 31.31944,
+    "lng": -84.41071,
+    "city": "Newton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1869.0,
+    "density": 3.9,
+    "county_fips": 13007,
+    "county_name": "Baker",
+    "county_weights": "{\"13007\": 100}",
+    "county_names_all": "Baker",
+    "county_fips_all": "13007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

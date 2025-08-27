@@ -1,0 +1,20 @@
+{
+    "zip": 22727,
+    "lat": 38.39626,
+    "lng": -78.30058,
+    "city": "Madison",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5785.0,
+    "density": 21.0,
+    "county_fips": 51113,
+    "county_name": "Madison",
+    "county_weights": "{\"51113\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "51113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

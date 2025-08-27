@@ -1,0 +1,20 @@
+{
+    "zip": 32410,
+    "lat": 29.94805,
+    "lng": -85.41812,
+    "city": "Mexico Beach",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 499.0,
+    "density": 123.5,
+    "county_fips": 12005,
+    "county_name": "Bay",
+    "county_weights": "{\"12005\": 100}",
+    "county_names_all": "Bay",
+    "county_fips_all": "12005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

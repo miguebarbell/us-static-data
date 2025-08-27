@@ -1,0 +1,20 @@
+{
+    "zip": 29321,
+    "lat": 34.71975,
+    "lng": -81.74151,
+    "city": "Buffalo",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3147.0,
+    "density": 30.9,
+    "county_fips": 45087,
+    "county_name": "Union",
+    "county_weights": "{\"45087\": 100}",
+    "county_names_all": "Union",
+    "county_fips_all": "45087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

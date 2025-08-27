@@ -1,0 +1,20 @@
+{
+    "zip": 25044,
+    "lat": 37.91139,
+    "lng": -81.32118,
+    "city": "Clear Creek",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 275.0,
+    "density": 15.9,
+    "county_fips": 54081,
+    "county_name": "Raleigh",
+    "county_weights": "{\"54081\": 100}",
+    "county_names_all": "Raleigh",
+    "county_fips_all": "54081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65778,
+    "lat": 36.52846,
+    "lng": -91.2719,
+    "city": "Myrtle",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 432.0,
+    "density": 4.6,
+    "county_fips": 29149,
+    "county_name": "Oregon",
+    "county_weights": "{\"29149\": 100}",
+    "county_names_all": "Oregon",
+    "county_fips_all": "29149",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

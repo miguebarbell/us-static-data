@@ -1,0 +1,20 @@
+{
+    "zip": 63363,
+    "lat": 38.88187,
+    "lng": -91.45755,
+    "city": "New Florence",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1089.0,
+    "density": 4.9,
+    "county_fips": 29139,
+    "county_name": "Montgomery",
+    "county_weights": "{\"29139\": 96.15, \"29219\": 3.85}",
+    "county_names_all": "Montgomery|Warren",
+    "county_fips_all": "29139|29219",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

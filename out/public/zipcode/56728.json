@@ -1,0 +1,20 @@
+{
+    "zip": 56728,
+    "lat": 48.78736,
+    "lng": -96.99149,
+    "city": "Hallock",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1149.0,
+    "density": 2.3,
+    "county_fips": 27069,
+    "county_name": "Kittson",
+    "county_weights": "{\"27069\": 100}",
+    "county_names_all": "Kittson",
+    "county_fips_all": "27069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

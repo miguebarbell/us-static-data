@@ -1,0 +1,20 @@
+{
+    "zip": 64453,
+    "lat": 40.34471,
+    "lng": -94.46947,
+    "city": "Gentry",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 206.0,
+    "density": 2.0,
+    "county_fips": 29075,
+    "county_name": "Gentry",
+    "county_weights": "{\"29075\": 99.85, \"29227\": 0.15}",
+    "county_names_all": "Gentry|Worth",
+    "county_fips_all": "29075|29227",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

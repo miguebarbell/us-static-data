@@ -1,0 +1,20 @@
+{
+    "zip": 74044,
+    "lat": 36.08964,
+    "lng": -96.38117,
+    "city": "Mannford",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8255.0,
+    "density": 36.3,
+    "county_fips": 40037,
+    "county_name": "Creek",
+    "county_weights": "{\"40037\": 89.88, \"40117\": 10.12}",
+    "county_names_all": "Creek|Pawnee",
+    "county_fips_all": "40037|40117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

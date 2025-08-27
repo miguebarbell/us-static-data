@@ -1,0 +1,20 @@
+{
+    "zip": 78008,
+    "lat": 28.72478,
+    "lng": -98.25911,
+    "city": "Campbellton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 378.0,
+    "density": 1.4,
+    "county_fips": 48013,
+    "county_name": "Atascosa",
+    "county_weights": "{\"48013\": 92.54, \"48297\": 7.46}",
+    "county_names_all": "Atascosa|Live Oak",
+    "county_fips_all": "48013|48297",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

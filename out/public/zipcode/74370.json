@@ -1,0 +1,20 @@
+{
+    "zip": 74370,
+    "lat": 36.76429,
+    "lng": -94.68017,
+    "city": "Wyandotte",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3678.0,
+    "density": 13.1,
+    "county_fips": 40115,
+    "county_name": "Ottawa",
+    "county_weights": "{\"40115\": 92.49, \"40041\": 7.51}",
+    "county_names_all": "Ottawa|Delaware",
+    "county_fips_all": "40115|40041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

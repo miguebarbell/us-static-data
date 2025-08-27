@@ -1,0 +1,20 @@
+{
+    "zip": 70301,
+    "lat": 29.81431,
+    "lng": -90.7411,
+    "city": "Thibodaux",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 48820.0,
+    "density": 66.4,
+    "county_fips": 22057,
+    "county_name": "Lafourche",
+    "county_weights": "{\"22057\": 97.51, \"22007\": 1.66, \"22109\": 0.83}",
+    "county_names_all": "Lafourche|Assumption|Terrebonne",
+    "county_fips_all": "22057|22007|22109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

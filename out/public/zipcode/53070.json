@@ -1,0 +1,20 @@
+{
+    "zip": 53070,
+    "lat": 43.62429,
+    "lng": -87.80872,
+    "city": "Oostburg",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5009.0,
+    "density": 65.6,
+    "county_fips": 55117,
+    "county_name": "Sheboygan",
+    "county_weights": "{\"55117\": 100}",
+    "county_names_all": "Sheboygan",
+    "county_fips_all": "55117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

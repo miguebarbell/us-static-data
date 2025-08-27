@@ -1,0 +1,20 @@
+{
+    "zip": 18702,
+    "lat": 41.21406,
+    "lng": -75.76925,
+    "city": "Wilkes Barre",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 42120.0,
+    "density": 208.3,
+    "county_fips": 42079,
+    "county_name": "Luzerne",
+    "county_weights": "{\"42079\": 100}",
+    "county_names_all": "Luzerne",
+    "county_fips_all": "42079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

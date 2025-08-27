@@ -1,0 +1,20 @@
+{
+    "zip": 64455,
+    "lat": 40.18592,
+    "lng": -95.00594,
+    "city": "Graham",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 310.0,
+    "density": 2.1,
+    "county_fips": 29147,
+    "county_name": "Nodaway",
+    "county_weights": "{\"29147\": 91.04, \"29003\": 8.96}",
+    "county_names_all": "Nodaway|Andrew",
+    "county_fips_all": "29147|29003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 25674,
+    "lat": 37.87114,
+    "lng": -82.34672,
+    "city": "Kermit",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2056.0,
+    "density": 15.5,
+    "county_fips": 54059,
+    "county_name": "Mingo",
+    "county_weights": "{\"54059\": 73.74, \"54099\": 26.26}",
+    "county_names_all": "Mingo|Wayne",
+    "county_fips_all": "54059|54099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 76446,
+    "lat": 32.07572,
+    "lng": -98.35311,
+    "city": "Dublin",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8144.0,
+    "density": 7.6,
+    "county_fips": 48143,
+    "county_name": "Erath",
+    "county_weights": "{\"48143\": 71.29, \"48093\": 28.71}",
+    "county_names_all": "Erath|Comanche",
+    "county_fips_all": "48143|48093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

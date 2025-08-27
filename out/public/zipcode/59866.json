@@ -1,0 +1,20 @@
+{
+    "zip": 59866,
+    "lat": 47.32207,
+    "lng": -115.12329,
+    "city": "Saint Regis",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1152.0,
+    "density": 2.0,
+    "county_fips": 30061,
+    "county_name": "Mineral",
+    "county_weights": "{\"30061\": 90.51, \"30089\": 9.49}",
+    "county_names_all": "Mineral|Sanders",
+    "county_fips_all": "30061|30089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

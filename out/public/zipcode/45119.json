@@ -1,0 +1,20 @@
+{
+    "zip": 45119,
+    "lat": 38.8781,
+    "lng": -83.99927,
+    "city": "Feesburg",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 217.0,
+    "density": 6529.5,
+    "county_fips": 39015,
+    "county_name": "Brown",
+    "county_weights": "{\"39015\": 100}",
+    "county_names_all": "Brown",
+    "county_fips_all": "39015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

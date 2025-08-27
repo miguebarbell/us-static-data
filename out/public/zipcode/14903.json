@@ -1,0 +1,20 @@
+{
+    "zip": 14903,
+    "lat": 42.12372,
+    "lng": -76.87771,
+    "city": "Elmira",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7140.0,
+    "density": 127.4,
+    "county_fips": 36015,
+    "county_name": "Chemung",
+    "county_weights": "{\"36015\": 100}",
+    "county_names_all": "Chemung",
+    "county_fips_all": "36015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

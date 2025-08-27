@@ -1,0 +1,20 @@
+{
+    "zip": 24862,
+    "lat": 37.47905,
+    "lng": -81.9489,
+    "city": "Mohawk",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 602.0,
+    "density": 18.7,
+    "county_fips": 54047,
+    "county_name": "McDowell",
+    "county_weights": "{\"54047\": 100}",
+    "county_names_all": "McDowell",
+    "county_fips_all": "54047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

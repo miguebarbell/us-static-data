@@ -1,0 +1,20 @@
+{
+    "zip": 42456,
+    "lat": 37.51182,
+    "lng": -87.49929,
+    "city": "Slaughters",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1423.0,
+    "density": 7.9,
+    "county_fips": 21233,
+    "county_name": "Webster",
+    "county_weights": "{\"21233\": 63.48, \"21107\": 36.52}",
+    "county_names_all": "Webster|Hopkins",
+    "county_fips_all": "21233|21107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 74350,
+    "lat": 36.46643,
+    "lng": -95.04776,
+    "city": "Langley",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 689.0,
+    "density": 43.8,
+    "county_fips": 40097,
+    "county_name": "Mayes",
+    "county_weights": "{\"40097\": 100}",
+    "county_names_all": "Mayes",
+    "county_fips_all": "40097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

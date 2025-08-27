@@ -1,0 +1,20 @@
+{
+    "zip": 95939,
+    "lat": 39.56755,
+    "lng": -122.60224,
+    "city": "Elk Creek",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 323.0,
+    "density": 0.5,
+    "county_fips": 6021,
+    "county_name": "Glenn",
+    "county_weights": "{\"06021\": 100}",
+    "county_names_all": "Glenn",
+    "county_fips_all": "06021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

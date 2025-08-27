@@ -1,0 +1,20 @@
+{
+    "zip": 79229,
+    "lat": 33.67379,
+    "lng": -100.744,
+    "city": "Dickens",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 284.0,
+    "density": 0.5,
+    "county_fips": 48125,
+    "county_name": "Dickens",
+    "county_weights": "{\"48125\": 100}",
+    "county_names_all": "Dickens",
+    "county_fips_all": "48125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

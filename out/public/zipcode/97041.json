@@ -1,0 +1,20 @@
+{
+    "zip": 97041,
+    "lat": 45.41655,
+    "lng": -121.59617,
+    "city": "Mount Hood Parkdale",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3284.0,
+    "density": 8.0,
+    "county_fips": 41027,
+    "county_name": "Hood River",
+    "county_weights": "{\"41027\": 100}",
+    "county_names_all": "Hood River",
+    "county_fips_all": "41027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

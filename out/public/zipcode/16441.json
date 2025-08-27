@@ -1,0 +1,20 @@
+{
+    "zip": 16441,
+    "lat": 41.9554,
+    "lng": -79.98552,
+    "city": "Waterford",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9485.0,
+    "density": 33.2,
+    "county_fips": 42049,
+    "county_name": "Erie",
+    "county_weights": "{\"42049\": 97.11, \"42039\": 2.89}",
+    "county_names_all": "Erie|Crawford",
+    "county_fips_all": "42049|42039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

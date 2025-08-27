@@ -1,0 +1,20 @@
+{
+    "zip": 87317,
+    "lat": 35.58024,
+    "lng": -108.75244,
+    "city": "Gamerco",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2079.0,
+    "density": 61.7,
+    "county_fips": 35031,
+    "county_name": "McKinley",
+    "county_weights": "{\"35031\": 100}",
+    "county_names_all": "McKinley",
+    "county_fips_all": "35031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 65761,
+    "lat": 36.56974,
+    "lng": -92.72561,
+    "city": "Theodosia",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1383.0,
+    "density": 4.7,
+    "county_fips": 29153,
+    "county_name": "Ozark",
+    "county_weights": "{\"29153\": 61.58, \"29213\": 20.52, \"05089\": 17.9}",
+    "county_names_all": "Ozark|Taney|Marion",
+    "county_fips_all": "29153|29213|05089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

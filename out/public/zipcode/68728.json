@@ -1,0 +1,20 @@
+{
+    "zip": 68728,
+    "lat": 42.38085,
+    "lng": -96.93641,
+    "city": "Concord",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 232.0,
+    "density": 3.7,
+    "county_fips": 31051,
+    "county_name": "Dixon",
+    "county_weights": "{\"31051\": 100}",
+    "county_names_all": "Dixon",
+    "county_fips_all": "31051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 85542,
+    "lat": 33.28633,
+    "lng": -110.30145,
+    "city": "Peridot",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2868.0,
+    "density": 4.4,
+    "county_fips": 4009,
+    "county_name": "Graham",
+    "county_weights": "{\"04009\": 83.74, \"04007\": 16.26}",
+    "county_names_all": "Graham|Gila",
+    "county_fips_all": "04009|04007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

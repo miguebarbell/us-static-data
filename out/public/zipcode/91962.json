@@ -1,0 +1,20 @@
+{
+    "zip": 91962,
+    "lat": 32.79248,
+    "lng": -116.48044,
+    "city": "Pine Valley",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2457.0,
+    "density": 16.2,
+    "county_fips": 6073,
+    "county_name": "San Diego",
+    "county_weights": "{\"06073\": 100}",
+    "county_names_all": "San Diego",
+    "county_fips_all": "06073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

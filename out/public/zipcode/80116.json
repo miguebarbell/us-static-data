@@ -1,0 +1,20 @@
+{
+    "zip": 80116,
+    "lat": 39.30711,
+    "lng": -104.71947,
+    "city": "Franktown",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5393.0,
+    "density": 22.6,
+    "county_fips": 8035,
+    "county_name": "Douglas",
+    "county_weights": "{\"08035\": 100}",
+    "county_names_all": "Douglas",
+    "county_fips_all": "08035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

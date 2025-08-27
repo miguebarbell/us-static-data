@@ -1,0 +1,20 @@
+{
+    "zip": 94564,
+    "lat": 37.98896,
+    "lng": -122.27018,
+    "city": "Pinole",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18835.0,
+    "density": 1064.8,
+    "county_fips": 6013,
+    "county_name": "Contra Costa",
+    "county_weights": "{\"06013\": 100}",
+    "county_names_all": "Contra Costa",
+    "county_fips_all": "06013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

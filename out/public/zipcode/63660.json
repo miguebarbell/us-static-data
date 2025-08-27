@@ -1,0 +1,20 @@
+{
+    "zip": 63660,
+    "lat": 37.91241,
+    "lng": -90.70241,
+    "city": "Mineral Point",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3489.0,
+    "density": 38.3,
+    "county_fips": 29221,
+    "county_name": "Washington",
+    "county_weights": "{\"29221\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "29221",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

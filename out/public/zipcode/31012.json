@@ -1,0 +1,20 @@
+{
+    "zip": 31012,
+    "lat": 32.39422,
+    "lng": -83.17717,
+    "city": "Chester",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2536.0,
+    "density": 17.8,
+    "county_fips": 13091,
+    "county_name": "Dodge",
+    "county_weights": "{\"13091\": 74.72, \"13023\": 22.67, \"13175\": 2.61}",
+    "county_names_all": "Dodge|Bleckley|Laurens",
+    "county_fips_all": "13091|13023|13175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 74552,
+    "lat": 35.11282,
+    "lng": -95.24734,
+    "city": "Kinta",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 918.0,
+    "density": 4.0,
+    "county_fips": 40061,
+    "county_name": "Haskell",
+    "county_weights": "{\"40061\": 99.23, \"40121\": 0.77}",
+    "county_names_all": "Haskell|Pittsburg",
+    "county_fips_all": "40061|40121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

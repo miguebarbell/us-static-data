@@ -1,0 +1,20 @@
+{
+    "zip": 29364,
+    "lat": 34.78846,
+    "lng": -81.46202,
+    "city": "Lockhart",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 525.0,
+    "density": 260.2,
+    "county_fips": 45087,
+    "county_name": "Union",
+    "county_weights": "{\"45087\": 98.88, \"45023\": 1.12}",
+    "county_names_all": "Union|Chester",
+    "county_fips_all": "45087|45023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

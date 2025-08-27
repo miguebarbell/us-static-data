@@ -1,0 +1,20 @@
+{
+    "zip": 29613,
+    "lat": 34.9257,
+    "lng": -82.4384,
+    "city": "Greenville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2301.0,
+    "density": 1408.1,
+    "county_fips": 45045,
+    "county_name": "Greenville",
+    "county_weights": "{\"45045\": 100}",
+    "county_names_all": "Greenville",
+    "county_fips_all": "45045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

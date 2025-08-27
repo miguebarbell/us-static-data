@@ -1,0 +1,20 @@
+{
+    "zip": 23921,
+    "lat": 37.59143,
+    "lng": -78.61413,
+    "city": "Buckingham",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2184.0,
+    "density": 10.3,
+    "county_fips": 51029,
+    "county_name": "Buckingham",
+    "county_weights": "{\"51029\": 100}",
+    "county_names_all": "Buckingham",
+    "county_fips_all": "51029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

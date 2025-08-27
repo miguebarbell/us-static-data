@@ -1,0 +1,20 @@
+{
+    "zip": 54618,
+    "lat": 43.95921,
+    "lng": -90.28967,
+    "city": "Camp Douglas",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2198.0,
+    "density": 8.9,
+    "county_fips": 55057,
+    "county_name": "Juneau",
+    "county_weights": "{\"55057\": 70.73, \"55081\": 29.27}",
+    "county_names_all": "Juneau|Monroe",
+    "county_fips_all": "55057|55081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

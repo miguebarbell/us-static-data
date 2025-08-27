@@ -1,0 +1,20 @@
+{
+    "zip": 39529,
+    "lat": 30.37734,
+    "lng": -89.60211,
+    "city": "Stennis Space Center",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 28045,
+    "county_name": "Hancock",
+    "county_weights": "{\"28045\": 100}",
+    "county_names_all": "Hancock",
+    "county_fips_all": "28045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

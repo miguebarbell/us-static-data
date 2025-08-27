@@ -1,0 +1,20 @@
+{
+    "zip": 32463,
+    "lat": 30.6279,
+    "lng": -85.58728,
+    "city": "Wausau",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 196.0,
+    "density": 168.3,
+    "county_fips": 12133,
+    "county_name": "Washington",
+    "county_weights": "{\"12133\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "12133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

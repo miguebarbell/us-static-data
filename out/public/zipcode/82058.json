@@ -1,0 +1,20 @@
+{
+    "zip": 82058,
+    "lat": 42.13817,
+    "lng": -105.63358,
+    "city": "Garrett",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18.0,
+    "density": 0.0,
+    "county_fips": 56001,
+    "county_name": "Albany",
+    "county_weights": "{\"56001\": 100}",
+    "county_names_all": "Albany",
+    "county_fips_all": "56001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

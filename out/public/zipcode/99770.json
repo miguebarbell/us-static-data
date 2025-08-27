@@ -1,0 +1,20 @@
+{
+    "zip": 99770,
+    "lat": 66.60708,
+    "lng": -160.07136,
+    "city": "Selawik",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 403.0,
+    "density": 13.9,
+    "county_fips": 2188,
+    "county_name": "Northwest Arctic",
+    "county_weights": "{\"02188\": 100}",
+    "county_names_all": "Northwest Arctic",
+    "county_fips_all": "02188",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 84308,
+    "lat": 41.9656,
+    "lng": -111.96681,
+    "city": "Cornish",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 253.0,
+    "density": 7.0,
+    "county_fips": 49005,
+    "county_name": "Cache",
+    "county_weights": "{\"49005\": 100}",
+    "county_names_all": "Cache",
+    "county_fips_all": "49005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

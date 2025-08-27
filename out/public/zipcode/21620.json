@@ -1,0 +1,20 @@
+{
+    "zip": 21620,
+    "lat": 39.20667,
+    "lng": -76.08739,
+    "city": "Chestertown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13533.0,
+    "density": 44.0,
+    "county_fips": 24029,
+    "county_name": "Kent",
+    "county_weights": "{\"24029\": 74.99, \"24035\": 25.01}",
+    "county_names_all": "Kent|Queen Anne's",
+    "county_fips_all": "24029|24035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

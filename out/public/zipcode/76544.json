@@ -1,0 +1,20 @@
+{
+    "zip": 76544,
+    "lat": 31.23134,
+    "lng": -97.75867,
+    "city": "Fort Cavazos",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26896.0,
+    "density": 279.2,
+    "county_fips": 48099,
+    "county_name": "Coryell",
+    "county_weights": "{\"48099\": 79.12, \"48027\": 20.88}",
+    "county_names_all": "Coryell|Bell",
+    "county_fips_all": "48099|48027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

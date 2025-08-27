@@ -1,0 +1,20 @@
+{
+    "zip": 28754,
+    "lat": 35.87696,
+    "lng": -82.51441,
+    "city": "Mars Hill",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9897.0,
+    "density": 43.7,
+    "county_fips": 37115,
+    "county_name": "Madison",
+    "county_weights": "{\"37115\": 94.61, \"37199\": 5.39}",
+    "county_names_all": "Madison|Yancey",
+    "county_fips_all": "37115|37199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

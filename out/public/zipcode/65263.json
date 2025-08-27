@@ -1,0 +1,20 @@
+{
+    "zip": 65263,
+    "lat": 39.45244,
+    "lng": -92.22062,
+    "city": "Madison",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1479.0,
+    "density": 4.5,
+    "county_fips": 29137,
+    "county_name": "Monroe",
+    "county_weights": "{\"29137\": 97.09, \"29175\": 2.91}",
+    "county_names_all": "Monroe|Randolph",
+    "county_fips_all": "29137|29175",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 78151,
+    "lat": 28.86788,
+    "lng": -97.70986,
+    "city": "Runge",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1513.0,
+    "density": 5.4,
+    "county_fips": 48255,
+    "county_name": "Karnes",
+    "county_weights": "{\"48255\": 95.18, \"48123\": 4.82}",
+    "county_names_all": "Karnes|DeWitt",
+    "county_fips_all": "48255|48123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

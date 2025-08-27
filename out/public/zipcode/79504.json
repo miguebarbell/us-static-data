@@ -1,0 +1,20 @@
+{
+    "zip": 79504,
+    "lat": 32.31336,
+    "lng": -99.35271,
+    "city": "Baird",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2995.0,
+    "density": 3.1,
+    "county_fips": 48059,
+    "county_name": "Callahan",
+    "county_weights": "{\"48059\": 94.35, \"48417\": 5.65}",
+    "county_names_all": "Callahan|Shackelford",
+    "county_fips_all": "48059|48417",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

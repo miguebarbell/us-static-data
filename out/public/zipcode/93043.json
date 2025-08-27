@@ -1,0 +1,20 @@
+{
+    "zip": 93043,
+    "lat": 34.17001,
+    "lng": -119.2026,
+    "city": "Port Hueneme Cbc Base",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 549.0,
+    "density": 427.9,
+    "county_fips": 6111,
+    "county_name": "Ventura",
+    "county_weights": "{\"06111\": 100}",
+    "county_names_all": "Ventura",
+    "county_fips_all": "06111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

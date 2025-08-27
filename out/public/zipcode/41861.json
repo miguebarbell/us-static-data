@@ -1,0 +1,20 @@
+{
+    "zip": 41861,
+    "lat": 37.39002,
+    "lng": -82.8264,
+    "city": "Raven",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 288.0,
+    "density": 11.3,
+    "county_fips": 21119,
+    "county_name": "Knott",
+    "county_weights": "{\"21119\": 100}",
+    "county_names_all": "Knott",
+    "county_fips_all": "21119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

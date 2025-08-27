@@ -1,0 +1,20 @@
+{
+    "zip": 44645,
+    "lat": 40.90796,
+    "lng": -81.71845,
+    "city": "Marshallville",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2797.0,
+    "density": 43.9,
+    "county_fips": 39169,
+    "county_name": "Wayne",
+    "county_weights": "{\"39169\": 99.38, \"39151\": 0.34, \"39153\": 0.28}",
+    "county_names_all": "Wayne|Stark|Summit",
+    "county_fips_all": "39169|39151|39153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

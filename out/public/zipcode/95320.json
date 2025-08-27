@@ -1,0 +1,20 @@
+{
+    "zip": 95320,
+    "lat": 37.82453,
+    "lng": -121.01545,
+    "city": "Escalon",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13511.0,
+    "density": 58.8,
+    "county_fips": 6077,
+    "county_name": "San Joaquin",
+    "county_weights": "{\"06077\": 99.84, \"06099\": 0.16}",
+    "county_names_all": "San Joaquin|Stanislaus",
+    "county_fips_all": "06077|06099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

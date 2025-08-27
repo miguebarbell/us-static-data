@@ -1,0 +1,20 @@
+{
+    "zip": 35080,
+    "lat": 33.25508,
+    "lng": -86.91894,
+    "city": "Helena",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19808.0,
+    "density": 165.7,
+    "county_fips": 1117,
+    "county_name": "Shelby",
+    "county_weights": "{\"01117\": 99.51, \"01073\": 0.49}",
+    "county_names_all": "Shelby|Jefferson",
+    "county_fips_all": "01117|01073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

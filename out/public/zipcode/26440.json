@@ -1,0 +1,20 @@
+{
+    "zip": 26440,
+    "lat": 39.32947,
+    "lng": -79.90625,
+    "city": "Thornton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1364.0,
+    "density": 13.1,
+    "county_fips": 54091,
+    "county_name": "Taylor",
+    "county_weights": "{\"54091\": 51.4, \"54077\": 31.4, \"54001\": 17.2}",
+    "county_names_all": "Taylor|Preston|Barbour",
+    "county_fips_all": "54091|54077|54001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

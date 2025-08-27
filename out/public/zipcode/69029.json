@@ -1,0 +1,20 @@
+{
+    "zip": 69029,
+    "lat": 40.68537,
+    "lng": -100.24277,
+    "city": "Farnam",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 293.0,
+    "density": 0.6,
+    "county_fips": 31063,
+    "county_name": "Frontier",
+    "county_weights": "{\"31063\": 52.53, \"31111\": 29.02, \"31047\": 18.45}",
+    "county_names_all": "Frontier|Lincoln|Dawson",
+    "county_fips_all": "31063|31111|31047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

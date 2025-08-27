@@ -1,0 +1,20 @@
+{
+    "zip": 65571,
+    "lat": 37.18501,
+    "lng": -91.64546,
+    "city": "Summersville",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1927.0,
+    "density": 4.0,
+    "county_fips": 29215,
+    "county_name": "Texas",
+    "county_weights": "{\"29215\": 51.2, \"29203\": 48.8}",
+    "county_names_all": "Texas|Shannon",
+    "county_fips_all": "29215|29203",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 42262,
+    "lat": 36.68386,
+    "lng": -87.44714,
+    "city": "Oak Grove",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9646.0,
+    "density": 119.3,
+    "county_fips": 21047,
+    "county_name": "Christian",
+    "county_weights": "{\"21047\": 100}",
+    "county_names_all": "Christian",
+    "county_fips_all": "21047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

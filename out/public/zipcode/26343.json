@@ -1,0 +1,20 @@
+{
+    "zip": 26343,
+    "lat": 38.82665,
+    "lng": -80.39831,
+    "city": "Crawford",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 297.0,
+    "density": 4.2,
+    "county_fips": 54041,
+    "county_name": "Lewis",
+    "county_weights": "{\"54041\": 50.05, \"54097\": 49.95}",
+    "county_names_all": "Lewis|Upshur",
+    "county_fips_all": "54041|54097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

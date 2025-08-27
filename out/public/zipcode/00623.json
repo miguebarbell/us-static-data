@@ -1,0 +1,20 @@
+{
+    "zip": 623,
+    "lat": 18.08429,
+    "lng": -67.15336,
+    "city": "Cabo Rojo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39005.0,
+    "density": 384.2,
+    "county_fips": 72023,
+    "county_name": "Cabo Rojo",
+    "county_weights": "{\"72023\": 100}",
+    "county_names_all": "Cabo Rojo",
+    "county_fips_all": "72023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

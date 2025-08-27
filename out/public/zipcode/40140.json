@@ -1,0 +1,20 @@
+{
+    "zip": 40140,
+    "lat": 37.71867,
+    "lng": -86.29047,
+    "city": "Garfield",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 699.0,
+    "density": 10.0,
+    "county_fips": 21027,
+    "county_name": "Breckinridge",
+    "county_weights": "{\"21027\": 96.5, \"21093\": 3.5}",
+    "county_names_all": "Breckinridge|Hardin",
+    "county_fips_all": "21027|21093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

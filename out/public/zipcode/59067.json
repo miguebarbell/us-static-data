@@ -1,0 +1,20 @@
+{
+    "zip": 59067,
+    "lat": 45.96827,
+    "lng": -109.23433,
+    "city": "Rapelje",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 204.0,
+    "density": 0.3,
+    "county_fips": 30095,
+    "county_name": "Stillwater",
+    "county_weights": "{\"30095\": 100}",
+    "county_names_all": "Stillwater",
+    "county_fips_all": "30095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

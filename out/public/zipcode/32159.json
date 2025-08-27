@@ -1,0 +1,20 @@
+{
+    "zip": 32159,
+    "lat": 28.92456,
+    "lng": -81.90528,
+    "city": "Lady Lake",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30846.0,
+    "density": 394.9,
+    "county_fips": 12069,
+    "county_name": "Lake",
+    "county_weights": "{\"12069\": 85.93, \"12119\": 14.07}",
+    "county_names_all": "Lake|Sumter",
+    "county_fips_all": "12069|12119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

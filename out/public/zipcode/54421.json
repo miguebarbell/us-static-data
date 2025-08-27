@@ -1,0 +1,20 @@
+{
+    "zip": 54421,
+    "lat": 44.89866,
+    "lng": -90.29532,
+    "city": "Colby",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3724.0,
+    "density": 20.6,
+    "county_fips": 55073,
+    "county_name": "Marathon",
+    "county_weights": "{\"55073\": 55.15, \"55019\": 44.85}",
+    "county_names_all": "Marathon|Clark",
+    "county_fips_all": "55073|55019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

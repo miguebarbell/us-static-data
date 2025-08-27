@@ -1,0 +1,20 @@
+{
+    "zip": 80403,
+    "lat": 39.83229,
+    "lng": -105.32013,
+    "city": "Golden",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20789.0,
+    "density": 56.5,
+    "county_fips": 8059,
+    "county_name": "Jefferson",
+    "county_weights": "{\"08059\": 82.13, \"08047\": 12.44, \"08013\": 5.43}",
+    "county_names_all": "Jefferson|Gilpin|Boulder",
+    "county_fips_all": "08059|08047|08013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

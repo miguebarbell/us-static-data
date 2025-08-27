@@ -1,0 +1,20 @@
+{
+    "zip": 4450,
+    "lat": 44.91593,
+    "lng": -68.92797,
+    "city": "Kenduskeag",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1306.0,
+    "density": 30.1,
+    "county_fips": 23019,
+    "county_name": "Penobscot",
+    "county_weights": "{\"23019\": 100}",
+    "county_names_all": "Penobscot",
+    "county_fips_all": "23019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

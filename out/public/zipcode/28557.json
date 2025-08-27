@@ -1,0 +1,20 @@
+{
+    "zip": 28557,
+    "lat": 34.74064,
+    "lng": -76.74566,
+    "city": "Morehead City",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15355.0,
+    "density": 417.8,
+    "county_fips": 37031,
+    "county_name": "Carteret",
+    "county_weights": "{\"37031\": 100}",
+    "county_names_all": "Carteret",
+    "county_fips_all": "37031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

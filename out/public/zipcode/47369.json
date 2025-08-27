@@ -1,0 +1,20 @@
+{
+    "zip": 47369,
+    "lat": 40.50714,
+    "lng": -85.14715,
+    "city": "Pennville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1216.0,
+    "density": 13.4,
+    "county_fips": 18075,
+    "county_name": "Jay",
+    "county_weights": "{\"18075\": 94.8, \"18009\": 5.2}",
+    "county_names_all": "Jay|Blackford",
+    "county_fips_all": "18075|18009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

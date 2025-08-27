@@ -1,0 +1,20 @@
+{
+    "zip": 69352,
+    "lat": 41.80396,
+    "lng": -103.97174,
+    "city": "Lyman",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 672.0,
+    "density": 1.9,
+    "county_fips": 31157,
+    "county_name": "Scotts Bluff",
+    "county_weights": "{\"31157\": 100}",
+    "county_names_all": "Scotts Bluff",
+    "county_fips_all": "31157",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

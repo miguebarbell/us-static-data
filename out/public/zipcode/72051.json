@@ -1,0 +1,20 @@
+{
+    "zip": 72051,
+    "lat": 35.79475,
+    "lng": -92.31501,
+    "city": "Fox",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 604.0,
+    "density": 6.7,
+    "county_fips": 5137,
+    "county_name": "Stone",
+    "county_weights": "{\"05137\": 100}",
+    "county_names_all": "Stone",
+    "county_fips_all": "05137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

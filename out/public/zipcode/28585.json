@@ -1,0 +1,20 @@
+{
+    "zip": 28585,
+    "lat": 35.05264,
+    "lng": -77.41497,
+    "city": "Trenton",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3944.0,
+    "density": 7.5,
+    "county_fips": 37103,
+    "county_name": "Jones",
+    "county_weights": "{\"37103\": 100}",
+    "county_names_all": "Jones",
+    "county_fips_all": "37103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

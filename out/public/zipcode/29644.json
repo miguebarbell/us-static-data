@@ -1,0 +1,20 @@
+{
+    "zip": 29644,
+    "lat": 34.66864,
+    "lng": -82.19714,
+    "city": "Fountain Inn",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22400.0,
+    "density": 105.5,
+    "county_fips": 45045,
+    "county_name": "Greenville",
+    "county_weights": "{\"45045\": 50.14, \"45059\": 49.86}",
+    "county_names_all": "Greenville|Laurens",
+    "county_fips_all": "45045|45059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

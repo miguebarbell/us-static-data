@@ -1,0 +1,20 @@
+{
+    "zip": 4219,
+    "lat": 44.40924,
+    "lng": -70.59285,
+    "city": "Bryant Pond",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1228.0,
+    "density": 7.7,
+    "county_fips": 23017,
+    "county_name": "Oxford",
+    "county_weights": "{\"23017\": 100}",
+    "county_names_all": "Oxford",
+    "county_fips_all": "23017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 98856,
+    "lat": 48.37065,
+    "lng": -120.22762,
+    "city": "Twisp",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2654.0,
+    "density": 2.3,
+    "county_fips": 53047,
+    "county_name": "Okanogan",
+    "county_weights": "{\"53047\": 100}",
+    "county_names_all": "Okanogan",
+    "county_fips_all": "53047",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

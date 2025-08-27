@@ -1,0 +1,20 @@
+{
+    "zip": 21234,
+    "lat": 39.395,
+    "lng": -76.53252,
+    "city": "Parkville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 65010.0,
+    "density": 1879.6,
+    "county_fips": 24005,
+    "county_name": "Baltimore",
+    "county_weights": "{\"24005\": 92.63, \"24510\": 7.37}",
+    "county_names_all": "Baltimore|Baltimore",
+    "county_fips_all": "24005|24510",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

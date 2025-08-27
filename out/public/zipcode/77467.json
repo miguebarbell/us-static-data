@@ -1,0 +1,20 @@
+{
+    "zip": 77467,
+    "lat": 29.23345,
+    "lng": -96.18563,
+    "city": "Pierce",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22.0,
+    "density": 4.4,
+    "county_fips": 48481,
+    "county_name": "Wharton",
+    "county_weights": "{\"48481\": 100}",
+    "county_names_all": "Wharton",
+    "county_fips_all": "48481",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

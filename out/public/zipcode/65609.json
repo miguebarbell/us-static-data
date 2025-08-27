@@ -1,0 +1,20 @@
+{
+    "zip": 65609,
+    "lat": 36.52593,
+    "lng": -92.1609,
+    "city": "Bakersfield",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 814.0,
+    "density": 9.8,
+    "county_fips": 29153,
+    "county_name": "Ozark",
+    "county_weights": "{\"29153\": 71.58, \"29091\": 28.42}",
+    "county_names_all": "Ozark|Howell",
+    "county_fips_all": "29153|29091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

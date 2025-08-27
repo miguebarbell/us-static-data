@@ -1,0 +1,20 @@
+{
+    "zip": 57242,
+    "lat": 44.77352,
+    "lng": -97.35902,
+    "city": "Hazel",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 418.0,
+    "density": 1.9,
+    "county_fips": 46057,
+    "county_name": "Hamlin",
+    "county_weights": "{\"46057\": 79.66, \"46029\": 20.34}",
+    "county_names_all": "Hamlin|Codington",
+    "county_fips_all": "46057|46029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

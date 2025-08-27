@@ -1,0 +1,20 @@
+{
+    "zip": 58772,
+    "lat": 48.96035,
+    "lng": -102.61236,
+    "city": "Portal",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 164.0,
+    "density": 1.1,
+    "county_fips": 38013,
+    "county_name": "Burke",
+    "county_weights": "{\"38013\": 100}",
+    "county_names_all": "Burke",
+    "county_fips_all": "38013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

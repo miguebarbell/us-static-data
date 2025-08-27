@@ -1,0 +1,20 @@
+{
+    "zip": 3046,
+    "lat": 43.10178,
+    "lng": -71.60548,
+    "city": "Dunbarton",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3055.0,
+    "density": 38.2,
+    "county_fips": 33013,
+    "county_name": "Merrimack",
+    "county_weights": "{\"33013\": 100}",
+    "county_names_all": "Merrimack",
+    "county_fips_all": "33013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

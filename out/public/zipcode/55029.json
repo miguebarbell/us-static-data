@@ -1,0 +1,20 @@
+{
+    "zip": 55029,
+    "lat": 45.63573,
+    "lng": -93.20098,
+    "city": "Grandy",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27.0,
+    "density": 40.7,
+    "county_fips": 27059,
+    "county_name": "Isanti",
+    "county_weights": "{\"27059\": 100}",
+    "county_names_all": "Isanti",
+    "county_fips_all": "27059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

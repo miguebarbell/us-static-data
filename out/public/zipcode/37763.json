@@ -1,0 +1,20 @@
+{
+    "zip": 37763,
+    "lat": 35.82344,
+    "lng": -84.49356,
+    "city": "Kingston",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16394.0,
+    "density": 73.7,
+    "county_fips": 47145,
+    "county_name": "Roane",
+    "county_weights": "{\"47145\": 100}",
+    "county_names_all": "Roane",
+    "county_fips_all": "47145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

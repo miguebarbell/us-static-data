@@ -1,0 +1,20 @@
+{
+    "zip": 18626,
+    "lat": 41.41136,
+    "lng": -76.4635,
+    "city": "Laporte",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 502.0,
+    "density": 4.4,
+    "county_fips": 42113,
+    "county_name": "Sullivan",
+    "county_weights": "{\"42113\": 100}",
+    "county_names_all": "Sullivan",
+    "county_fips_all": "42113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

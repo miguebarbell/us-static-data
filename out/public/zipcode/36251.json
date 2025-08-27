@@ -1,0 +1,20 @@
+{
+    "zip": 36251,
+    "lat": 33.22996,
+    "lng": -85.86532,
+    "city": "Ashland",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5146.0,
+    "density": 13.6,
+    "county_fips": 1027,
+    "county_name": "Clay",
+    "county_weights": "{\"01027\": 100}",
+    "county_names_all": "Clay",
+    "county_fips_all": "01027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

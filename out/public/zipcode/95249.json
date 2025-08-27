@@ -1,0 +1,20 @@
+{
+    "zip": 95249,
+    "lat": 38.18986,
+    "lng": -120.61784,
+    "city": "San Andreas",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4696.0,
+    "density": 22.3,
+    "county_fips": 6009,
+    "county_name": "Calaveras",
+    "county_weights": "{\"06009\": 100}",
+    "county_names_all": "Calaveras",
+    "county_fips_all": "06009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

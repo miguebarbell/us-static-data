@@ -1,0 +1,20 @@
+{
+    "zip": 58277,
+    "lat": 47.61403,
+    "lng": -97.83176,
+    "city": "Sharon",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 189.0,
+    "density": 0.9,
+    "county_fips": 38091,
+    "county_name": "Steele",
+    "county_weights": "{\"38091\": 100}",
+    "county_names_all": "Steele",
+    "county_fips_all": "38091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

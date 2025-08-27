@@ -1,0 +1,20 @@
+{
+    "zip": 59756,
+    "lat": 46.17418,
+    "lng": -112.83453,
+    "city": "Warm Springs",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 277.0,
+    "density": 10.4,
+    "county_fips": 30023,
+    "county_name": "Deer Lodge",
+    "county_weights": "{\"30023\": 100}",
+    "county_names_all": "Deer Lodge",
+    "county_fips_all": "30023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

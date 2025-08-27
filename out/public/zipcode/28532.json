@@ -1,0 +1,20 @@
+{
+    "zip": 28532,
+    "lat": 34.88857,
+    "lng": -76.90872,
+    "city": "Havelock",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 19918.0,
+    "density": 46.5,
+    "county_fips": 37049,
+    "county_name": "Craven",
+    "county_weights": "{\"37049\": 100}",
+    "county_names_all": "Craven",
+    "county_fips_all": "37049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

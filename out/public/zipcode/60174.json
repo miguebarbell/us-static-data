@@ -1,0 +1,20 @@
+{
+    "zip": 60174,
+    "lat": 41.92759,
+    "lng": -88.29906,
+    "city": "Saint Charles",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30481.0,
+    "density": 857.8,
+    "county_fips": 17089,
+    "county_name": "Kane",
+    "county_weights": "{\"17089\": 98.67, \"17043\": 1.33}",
+    "county_names_all": "Kane|DuPage",
+    "county_fips_all": "17089|17043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

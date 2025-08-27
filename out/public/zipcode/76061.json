@@ -1,0 +1,20 @@
+{
+    "zip": 76061,
+    "lat": 32.5026,
+    "lng": -97.19813,
+    "city": "Lillian",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 48251,
+    "county_name": "Johnson",
+    "county_weights": "{\"48251\": 100}",
+    "county_names_all": "Johnson",
+    "county_fips_all": "48251",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

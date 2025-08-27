@@ -1,0 +1,20 @@
+{
+    "zip": 76904,
+    "lat": 31.28844,
+    "lng": -100.41695,
+    "city": "San Angelo",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36444.0,
+    "density": 31.9,
+    "county_fips": 48451,
+    "county_name": "Tom Green",
+    "county_weights": "{\"48451\": 92.26, \"48235\": 7.74}",
+    "county_names_all": "Tom Green|Irion",
+    "county_fips_all": "48451|48235",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

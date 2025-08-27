@@ -1,0 +1,20 @@
+{
+    "zip": 12942,
+    "lat": 44.26023,
+    "lng": -73.79523,
+    "city": "Keene",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 462.0,
+    "density": 3.4,
+    "county_fips": 36031,
+    "county_name": "Essex",
+    "county_weights": "{\"36031\": 100}",
+    "county_names_all": "Essex",
+    "county_fips_all": "36031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

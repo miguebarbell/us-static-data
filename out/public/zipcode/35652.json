@@ -1,0 +1,20 @@
+{
+    "zip": 35652,
+    "lat": 34.84742,
+    "lng": -87.31137,
+    "city": "Rogersville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9251.0,
+    "density": 41.9,
+    "county_fips": 1077,
+    "county_name": "Lauderdale",
+    "county_weights": "{\"01077\": 97.89, \"01083\": 2.11}",
+    "county_names_all": "Lauderdale|Limestone",
+    "county_fips_all": "01077|01083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

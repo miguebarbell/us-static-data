@@ -1,0 +1,20 @@
+{
+    "zip": 52655,
+    "lat": 40.84768,
+    "lng": -91.21174,
+    "city": "West Burlington",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4300.0,
+    "density": 94.8,
+    "county_fips": 19057,
+    "county_name": "Des Moines",
+    "county_weights": "{\"19057\": 100}",
+    "county_names_all": "Des Moines",
+    "county_fips_all": "19057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 36860,
+    "lat": 32.26118,
+    "lng": -85.42064,
+    "city": "Hurtsboro",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1611.0,
+    "density": 4.1,
+    "county_fips": 1113,
+    "county_name": "Russell",
+    "county_weights": "{\"01113\": 62.5, \"01087\": 19.35, \"01011\": 18.15}",
+    "county_names_all": "Russell|Macon|Bullock",
+    "county_fips_all": "01113|01087|01011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

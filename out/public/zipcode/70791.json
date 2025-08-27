@@ -1,0 +1,20 @@
+{
+    "zip": 70791,
+    "lat": 30.65013,
+    "lng": -91.15734,
+    "city": "Zachary",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30097.0,
+    "density": 97.6,
+    "county_fips": 22033,
+    "county_name": "East Baton Rouge",
+    "county_weights": "{\"22033\": 96.46, \"22037\": 3.54}",
+    "county_names_all": "East Baton Rouge|East Feliciana",
+    "county_fips_all": "22033|22037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

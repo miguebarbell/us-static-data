@@ -1,0 +1,20 @@
+{
+    "zip": 59414,
+    "lat": 47.5276,
+    "lng": -111.26871,
+    "city": "Black Eagle",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 654.0,
+    "density": 144.8,
+    "county_fips": 30013,
+    "county_name": "Cascade",
+    "county_weights": "{\"30013\": 100}",
+    "county_names_all": "Cascade",
+    "county_fips_all": "30013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

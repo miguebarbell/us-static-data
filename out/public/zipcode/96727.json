@@ -1,0 +1,20 @@
+{
+    "zip": 96727,
+    "lat": 20.00803,
+    "lng": -155.54842,
+    "city": "Honokaa",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4759.0,
+    "density": 9.7,
+    "county_fips": 15001,
+    "county_name": "Hawaii",
+    "county_weights": "{\"15001\": 100}",
+    "county_names_all": "Hawaii",
+    "county_fips_all": "15001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "Pacific/Honolulu"
+}

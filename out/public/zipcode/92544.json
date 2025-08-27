@@ -1,0 +1,20 @@
+{
+    "zip": 92544,
+    "lat": 33.64581,
+    "lng": -116.86033,
+    "city": "Hemet",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 51694.0,
+    "density": 116.9,
+    "county_fips": 6065,
+    "county_name": "Riverside",
+    "county_weights": "{\"06065\": 100}",
+    "county_names_all": "Riverside",
+    "county_fips_all": "06065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

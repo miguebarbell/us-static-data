@@ -1,0 +1,20 @@
+{
+    "zip": 19460,
+    "lat": 40.12674,
+    "lng": -75.5294,
+    "city": "Phoenixville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 43927.0,
+    "density": 491.2,
+    "county_fips": 42029,
+    "county_name": "Chester",
+    "county_weights": "{\"42029\": 81.17, \"42091\": 18.83}",
+    "county_names_all": "Chester|Montgomery",
+    "county_fips_all": "42029|42091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

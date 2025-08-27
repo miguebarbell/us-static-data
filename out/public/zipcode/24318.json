@@ -1,0 +1,20 @@
+{
+    "zip": 24318,
+    "lat": 37.00047,
+    "lng": -81.38658,
+    "city": "Ceres",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 532.0,
+    "density": 2.9,
+    "county_fips": 51021,
+    "county_name": "Bland",
+    "county_weights": "{\"51021\": 66.25, \"51173\": 33.75}",
+    "county_names_all": "Bland|Smyth",
+    "county_fips_all": "51021|51173",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

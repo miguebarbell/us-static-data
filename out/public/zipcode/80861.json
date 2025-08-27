@@ -1,0 +1,20 @@
+{
+    "zip": 80861,
+    "lat": 39.32645,
+    "lng": -102.74844,
+    "city": "Vona",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 281.0,
+    "density": 0.4,
+    "county_fips": 8063,
+    "county_name": "Kit Carson",
+    "county_weights": "{\"08063\": 99.18, \"08125\": 0.82}",
+    "county_names_all": "Kit Carson|Yuma",
+    "county_fips_all": "08063|08125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

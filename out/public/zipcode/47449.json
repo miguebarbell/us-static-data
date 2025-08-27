@@ -1,0 +1,20 @@
+{
+    "zip": 47449,
+    "lat": 38.92672,
+    "lng": -86.9894,
+    "city": "Newberry",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 407.0,
+    "density": 7.4,
+    "county_fips": 18055,
+    "county_name": "Greene",
+    "county_weights": "{\"18055\": 99.89, \"18027\": 0.11}",
+    "county_names_all": "Greene|Daviess",
+    "county_fips_all": "18055|18027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

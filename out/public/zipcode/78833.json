@@ -1,0 +1,20 @@
+{
+    "zip": 78833,
+    "lat": 29.69785,
+    "lng": -99.97248,
+    "city": "Camp Wood",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1173.0,
+    "density": 3.3,
+    "county_fips": 48385,
+    "county_name": "Real",
+    "county_weights": "{\"48385\": 75.99, \"48137\": 23.87, \"48463\": 0.14}",
+    "county_names_all": "Real|Edwards|Uvalde",
+    "county_fips_all": "48385|48137|48463",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

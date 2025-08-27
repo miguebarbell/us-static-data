@@ -1,0 +1,20 @@
+{
+    "zip": 10922,
+    "lat": 41.32794,
+    "lng": -73.99604,
+    "city": "Fort Montgomery",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1072.0,
+    "density": 199.8,
+    "county_fips": 36071,
+    "county_name": "Orange",
+    "county_weights": "{\"36071\": 99.7, \"36087\": 0.3}",
+    "county_names_all": "Orange|Rockland",
+    "county_fips_all": "36071|36087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

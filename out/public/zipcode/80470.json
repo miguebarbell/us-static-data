@@ -1,0 +1,20 @@
+{
+    "zip": 80470,
+    "lat": 39.40104,
+    "lng": -105.34527,
+    "city": "Pine",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3888.0,
+    "density": 14.7,
+    "county_fips": 8059,
+    "county_name": "Jefferson",
+    "county_weights": "{\"08059\": 81.35, \"08093\": 18.65}",
+    "county_names_all": "Jefferson|Park",
+    "county_fips_all": "08059|08093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

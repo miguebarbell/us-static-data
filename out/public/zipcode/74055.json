@@ -1,0 +1,20 @@
+{
+    "zip": 74055,
+    "lat": 36.27735,
+    "lng": -95.81998,
+    "city": "Owasso",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 49895.0,
+    "density": 378.1,
+    "county_fips": 40143,
+    "county_name": "Tulsa",
+    "county_weights": "{\"40143\": 54.46, \"40131\": 45.54}",
+    "county_names_all": "Tulsa|Rogers",
+    "county_fips_all": "40143|40131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

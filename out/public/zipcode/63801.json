@@ -1,0 +1,20 @@
+{
+    "zip": 63801,
+    "lat": 36.89698,
+    "lng": -89.60672,
+    "city": "Sikeston",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22121.0,
+    "density": 40.2,
+    "county_fips": 29201,
+    "county_name": "Scott",
+    "county_weights": "{\"29201\": 57.9, \"29143\": 29.76, \"29207\": 11.01, \"29133\": 1.33}",
+    "county_names_all": "Scott|New Madrid|Stoddard|Mississippi",
+    "county_fips_all": "29201|29143|29207|29133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

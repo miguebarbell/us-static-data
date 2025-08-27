@@ -1,0 +1,20 @@
+{
+    "zip": 12886,
+    "lat": 43.63689,
+    "lng": -73.92654,
+    "city": "Wevertown",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 199.0,
+    "density": 16.1,
+    "county_fips": 36113,
+    "county_name": "Warren",
+    "county_weights": "{\"36113\": 100}",
+    "county_names_all": "Warren",
+    "county_fips_all": "36113",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

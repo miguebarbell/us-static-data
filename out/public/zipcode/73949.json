@@ -1,0 +1,20 @@
+{
+    "zip": 73949,
+    "lat": 36.5929,
+    "lng": -101.98559,
+    "city": "Texhoma",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1472.0,
+    "density": 1.3,
+    "county_fips": 40139,
+    "county_name": "Texas",
+    "county_weights": "{\"40139\": 59.05, \"40025\": 27.32, \"48421\": 13.63}",
+    "county_names_all": "Texas|Cimarron|Sherman",
+    "county_fips_all": "40139|40025|48421",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

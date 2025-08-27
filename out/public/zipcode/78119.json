@@ -1,0 +1,20 @@
+{
+    "zip": 78119,
+    "lat": 28.71739,
+    "lng": -97.91187,
+    "city": "Kenedy",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7023.0,
+    "density": 8.2,
+    "county_fips": 48255,
+    "county_name": "Karnes",
+    "county_weights": "{\"48255\": 54.89, \"48025\": 33.5, \"48297\": 11.61}",
+    "county_names_all": "Karnes|Bee|Live Oak",
+    "county_fips_all": "48255|48025|48297",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

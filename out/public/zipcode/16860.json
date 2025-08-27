@@ -1,0 +1,20 @@
+{
+    "zip": 16860,
+    "lat": 40.94673,
+    "lng": -78.17219,
+    "city": "Munson",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 393.0,
+    "density": 29.9,
+    "county_fips": 42033,
+    "county_name": "Clearfield",
+    "county_weights": "{\"42033\": 76.82, \"42027\": 23.18}",
+    "county_names_all": "Clearfield|Centre",
+    "county_fips_all": "42033|42027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

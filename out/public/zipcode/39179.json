@@ -1,0 +1,20 @@
+{
+    "zip": 39179,
+    "lat": 32.80873,
+    "lng": -90.0984,
+    "city": "Vaughan",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 904.0,
+    "density": 3.9,
+    "county_fips": 28163,
+    "county_name": "Yazoo",
+    "county_weights": "{\"28163\": 100}",
+    "county_names_all": "Yazoo",
+    "county_fips_all": "28163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

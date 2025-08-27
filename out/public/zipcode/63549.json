@@ -1,0 +1,20 @@
+{
+    "zip": 63549,
+    "lat": 40.0167,
+    "lng": -92.49172,
+    "city": "La Plata",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2393.0,
+    "density": 6.8,
+    "county_fips": 29121,
+    "county_name": "Macon",
+    "county_weights": "{\"29121\": 68.49, \"29001\": 29.19, \"29103\": 2.32}",
+    "county_names_all": "Macon|Adair|Knox",
+    "county_fips_all": "29121|29001|29103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

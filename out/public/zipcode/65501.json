@@ -1,0 +1,20 @@
+{
+    "zip": 65501,
+    "lat": 37.47319,
+    "lng": -91.5549,
+    "city": "Jadwin",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 145.0,
+    "density": 2.3,
+    "county_fips": 29065,
+    "county_name": "Dent",
+    "county_weights": "{\"29065\": 100}",
+    "county_names_all": "Dent",
+    "county_fips_all": "29065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 39166,
+    "lat": 33.05161,
+    "lng": -90.48208,
+    "city": "Silver City",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 429.0,
+    "density": 2.9,
+    "county_fips": 28053,
+    "county_name": "Humphreys",
+    "county_weights": "{\"28053\": 100}",
+    "county_names_all": "Humphreys",
+    "county_fips_all": "28053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 56180,
+    "lat": 44.24424,
+    "lng": -95.46655,
+    "city": "Walnut Grove",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1203.0,
+    "density": 3.9,
+    "county_fips": 27127,
+    "county_name": "Redwood",
+    "county_weights": "{\"27127\": 71.44, \"27101\": 15.88, \"27033\": 12.68}",
+    "county_names_all": "Redwood|Murray|Cottonwood",
+    "county_fips_all": "27127|27101|27033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

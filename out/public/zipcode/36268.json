@@ -1,0 +1,20 @@
+{
+    "zip": 36268,
+    "lat": 33.49469,
+    "lng": -85.94016,
+    "city": "Munford",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6022.0,
+    "density": 24.2,
+    "county_fips": 1121,
+    "county_name": "Talladega",
+    "county_weights": "{\"01121\": 89.67, \"01027\": 10.33}",
+    "county_names_all": "Talladega|Clay",
+    "county_fips_all": "01121|01027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

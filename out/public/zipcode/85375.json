@@ -1,0 +1,20 @@
+{
+    "zip": 85375,
+    "lat": 33.6716,
+    "lng": -112.3565,
+    "city": "Sun City West",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27185.0,
+    "density": 847.1,
+    "county_fips": 4013,
+    "county_name": "Maricopa",
+    "county_weights": "{\"04013\": 100}",
+    "county_names_all": "Maricopa",
+    "county_fips_all": "04013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Phoenix"
+}

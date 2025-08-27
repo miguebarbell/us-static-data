@@ -1,0 +1,20 @@
+{
+    "zip": 46550,
+    "lat": 41.44701,
+    "lng": -86.00028,
+    "city": "Nappanee",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12442.0,
+    "density": 67.1,
+    "county_fips": 18039,
+    "county_name": "Elkhart",
+    "county_weights": "{\"18039\": 53.66, \"18085\": 34.97, \"18099\": 6.47, \"18141\": 4.9}",
+    "county_names_all": "Elkhart|Kosciusko|Marshall|St. Joseph",
+    "county_fips_all": "18039|18085|18099|18141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 46072,
+    "lat": 40.28526,
+    "lng": -86.06891,
+    "city": "Tipton",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8751.0,
+    "density": 30.8,
+    "county_fips": 18159,
+    "county_name": "Tipton",
+    "county_weights": "{\"18159\": 100}",
+    "county_names_all": "Tipton",
+    "county_fips_all": "18159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

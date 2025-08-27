@@ -1,0 +1,20 @@
+{
+    "zip": 59062,
+    "lat": 45.15773,
+    "lng": -106.20895,
+    "city": "Otter",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 62.0,
+    "density": 0.1,
+    "county_fips": 30075,
+    "county_name": "Powder River",
+    "county_weights": "{\"30075\": 69.03, \"30087\": 30.97}",
+    "county_names_all": "Powder River|Rosebud",
+    "county_fips_all": "30075|30087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

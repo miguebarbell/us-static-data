@@ -1,0 +1,20 @@
+{
+    "zip": 74061,
+    "lat": 36.53814,
+    "lng": -95.89974,
+    "city": "Ramona",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2379.0,
+    "density": 10.2,
+    "county_fips": 40147,
+    "county_name": "Washington",
+    "county_weights": "{\"40147\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "40147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

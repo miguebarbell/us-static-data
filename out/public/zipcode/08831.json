@@ -1,0 +1,20 @@
+{
+    "zip": 8831,
+    "lat": 40.32908,
+    "lng": -74.43066,
+    "city": "Monroe Township",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 54608.0,
+    "density": 411.0,
+    "county_fips": 34023,
+    "county_name": "Middlesex",
+    "county_weights": "{\"34023\": 100}",
+    "county_names_all": "Middlesex",
+    "county_fips_all": "34023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 27818,
+    "lat": 36.50275,
+    "lng": -77.01394,
+    "city": "Como",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1158.0,
+    "density": 7.3,
+    "county_fips": 37091,
+    "county_name": "Hertford",
+    "county_weights": "{\"37091\": 100}",
+    "county_names_all": "Hertford",
+    "county_fips_all": "37091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

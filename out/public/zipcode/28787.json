@@ -1,0 +1,20 @@
+{
+    "zip": 28787,
+    "lat": 35.72795,
+    "lng": -82.52306,
+    "city": "Weaverville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22685.0,
+    "density": 110.1,
+    "county_fips": 37021,
+    "county_name": "Buncombe",
+    "county_weights": "{\"37021\": 94.62, \"37115\": 5.38}",
+    "county_names_all": "Buncombe|Madison",
+    "county_fips_all": "37021|37115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

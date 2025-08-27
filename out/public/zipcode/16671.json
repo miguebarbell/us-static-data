@@ -1,0 +1,20 @@
+{
+    "zip": 16671,
+    "lat": 40.79414,
+    "lng": -78.40203,
+    "city": "Ramey",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 417.0,
+    "density": 66.0,
+    "county_fips": 42033,
+    "county_name": "Clearfield",
+    "county_weights": "{\"42033\": 100}",
+    "county_names_all": "Clearfield",
+    "county_fips_all": "42033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

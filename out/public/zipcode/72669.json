@@ -1,0 +1,20 @@
+{
+    "zip": 72669,
+    "lat": 36.06477,
+    "lng": -92.87359,
+    "city": "Pindall",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 195.0,
+    "density": 50.3,
+    "county_fips": 5129,
+    "county_name": "Searcy",
+    "county_weights": "{\"05129\": 100}",
+    "county_names_all": "Searcy",
+    "county_fips_all": "05129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

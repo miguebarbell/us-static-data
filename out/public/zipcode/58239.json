@@ -1,0 +1,20 @@
+{
+    "zip": 58239,
+    "lat": 48.93842,
+    "lng": -98.70877,
+    "city": "Hannah",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25.0,
+    "density": 0.1,
+    "county_fips": 38019,
+    "county_name": "Cavalier",
+    "county_weights": "{\"38019\": 100}",
+    "county_names_all": "Cavalier",
+    "county_fips_all": "38019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

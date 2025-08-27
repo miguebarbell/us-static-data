@@ -1,0 +1,20 @@
+{
+    "zip": 8553,
+    "lat": 40.40011,
+    "lng": -74.64051,
+    "city": "Rocky Hill",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 814.0,
+    "density": 514.5,
+    "county_fips": 34035,
+    "county_name": "Somerset",
+    "county_weights": "{\"34035\": 100}",
+    "county_names_all": "Somerset",
+    "county_fips_all": "34035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

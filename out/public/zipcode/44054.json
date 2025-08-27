@@ -1,0 +1,20 @@
+{
+    "zip": 44054,
+    "lat": 41.46419,
+    "lng": -82.0931,
+    "city": "Sheffield Lake",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12733.0,
+    "density": 392.7,
+    "county_fips": 39093,
+    "county_name": "Lorain",
+    "county_weights": "{\"39093\": 100}",
+    "county_names_all": "Lorain",
+    "county_fips_all": "39093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

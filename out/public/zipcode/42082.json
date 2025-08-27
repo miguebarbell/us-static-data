@@ -1,0 +1,20 @@
+{
+    "zip": 42082,
+    "lat": 36.91618,
+    "lng": -88.50092,
+    "city": "Symsonia",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1961.0,
+    "density": 27.4,
+    "county_fips": 21083,
+    "county_name": "Graves",
+    "county_weights": "{\"21083\": 55.12, \"21157\": 30.46, \"21145\": 14.42}",
+    "county_names_all": "Graves|Marshall|McCracken",
+    "county_fips_all": "21083|21157|21145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 88346,
+    "lat": 33.34814,
+    "lng": -105.54073,
+    "city": "Ruidoso Downs",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3087.0,
+    "density": 22.8,
+    "county_fips": 35027,
+    "county_name": "Lincoln",
+    "county_weights": "{\"35027\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "35027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

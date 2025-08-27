@@ -1,0 +1,20 @@
+{
+    "zip": 33460,
+    "lat": 26.61872,
+    "lng": -80.05527,
+    "city": "Lake Worth Beach",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36934.0,
+    "density": 3013.8,
+    "county_fips": 12099,
+    "county_name": "Palm Beach",
+    "county_weights": "{\"12099\": 100}",
+    "county_names_all": "Palm Beach",
+    "county_fips_all": "12099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

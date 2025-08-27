@@ -1,0 +1,20 @@
+{
+    "zip": 69169,
+    "lat": 40.82144,
+    "lng": -101.17663,
+    "city": "Wallace",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 465.0,
+    "density": 0.9,
+    "county_fips": 31111,
+    "county_name": "Lincoln",
+    "county_weights": "{\"31111\": 77.68, \"31135\": 16.37, \"31085\": 5.95}",
+    "county_names_all": "Lincoln|Perkins|Hayes",
+    "county_fips_all": "31111|31135|31085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

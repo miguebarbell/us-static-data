@@ -1,0 +1,20 @@
+{
+    "zip": 48658,
+    "lat": 43.98038,
+    "lng": -83.94072,
+    "city": "Standish",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4806.0,
+    "density": 22.8,
+    "county_fips": 26011,
+    "county_name": "Arenac",
+    "county_weights": "{\"26011\": 89.62, \"26017\": 10.38}",
+    "county_names_all": "Arenac|Bay",
+    "county_fips_all": "26011|26017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

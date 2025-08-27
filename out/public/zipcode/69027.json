@@ -1,0 +1,20 @@
+{
+    "zip": 69027,
+    "lat": 40.49841,
+    "lng": -101.52638,
+    "city": "Enders",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20.0,
+    "density": 0.1,
+    "county_fips": 31029,
+    "county_name": "Chase",
+    "county_weights": "{\"31029\": 92.75, \"31057\": 7.25}",
+    "county_names_all": "Chase|Dundy",
+    "county_fips_all": "31029|31057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

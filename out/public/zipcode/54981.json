@@ -1,0 +1,20 @@
+{
+    "zip": 54981,
+    "lat": 44.32733,
+    "lng": -89.12558,
+    "city": "Waupaca",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15064.0,
+    "density": 44.2,
+    "county_fips": 55135,
+    "county_name": "Waupaca",
+    "county_weights": "{\"55135\": 91.11, \"55097\": 4.91, \"55137\": 3.98}",
+    "county_names_all": "Waupaca|Portage|Waushara",
+    "county_fips_all": "55135|55097|55137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

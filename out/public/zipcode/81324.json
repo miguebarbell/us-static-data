@@ -1,0 +1,20 @@
+{
+    "zip": 81324,
+    "lat": 37.63734,
+    "lng": -109.02911,
+    "city": "Dove Creek",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1639.0,
+    "density": 1.5,
+    "county_fips": 8033,
+    "county_name": "Dolores",
+    "county_weights": "{\"08033\": 52.99, \"49037\": 47.01}",
+    "county_names_all": "Dolores|San Juan",
+    "county_fips_all": "08033|49037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

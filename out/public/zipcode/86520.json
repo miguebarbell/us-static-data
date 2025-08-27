@@ -1,0 +1,20 @@
+{
+    "zip": 86520,
+    "lat": 36.05891,
+    "lng": -109.95208,
+    "city": "Blue Gap",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2185.0,
+    "density": 3.0,
+    "county_fips": 4001,
+    "county_name": "Apache",
+    "county_weights": "{\"04001\": 78.06, \"04017\": 21.94}",
+    "county_names_all": "Apache|Navajo",
+    "county_fips_all": "04001|04017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 12533,
+    "lat": 41.55925,
+    "lng": -73.79401,
+    "city": "Hopewell Junction",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26770.0,
+    "density": 211.5,
+    "county_fips": 36027,
+    "county_name": "Dutchess",
+    "county_weights": "{\"36027\": 92.1, \"36079\": 7.9}",
+    "county_names_all": "Dutchess|Putnam",
+    "county_fips_all": "36027|36079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

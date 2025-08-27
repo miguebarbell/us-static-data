@@ -1,0 +1,20 @@
+{
+    "zip": 32568,
+    "lat": 30.87085,
+    "lng": -87.46792,
+    "city": "McDavid",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3724.0,
+    "density": 7.0,
+    "county_fips": 12033,
+    "county_name": "Escambia",
+    "county_weights": "{\"12033\": 100}",
+    "county_names_all": "Escambia",
+    "county_fips_all": "12033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

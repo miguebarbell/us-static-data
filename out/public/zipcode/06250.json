@@ -1,0 +1,20 @@
+{
+    "zip": 6250,
+    "lat": 41.77434,
+    "lng": -72.19669,
+    "city": "Mansfield Center",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4780.0,
+    "density": 110.4,
+    "county_fips": 9110,
+    "county_name": "Capitol",
+    "county_weights": "{\"09110\": 99.37, \"09150\": 0.63}",
+    "county_names_all": "Capitol|Northeastern Connecticut",
+    "county_fips_all": "09110|09150",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

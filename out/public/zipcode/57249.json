@@ -1,0 +1,20 @@
+{
+    "zip": 57249,
+    "lat": 44.37111,
+    "lng": -97.3646,
+    "city": "Lake Preston",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1007.0,
+    "density": 2.7,
+    "county_fips": 46077,
+    "county_name": "Kingsbury",
+    "county_weights": "{\"46077\": 100}",
+    "county_names_all": "Kingsbury",
+    "county_fips_all": "46077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 28368,
+    "lat": 35.36942,
+    "lng": -79.11331,
+    "city": "Olivia",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 115.0,
+    "density": 129.0,
+    "county_fips": 37085,
+    "county_name": "Harnett",
+    "county_weights": "{\"37085\": 100}",
+    "county_names_all": "Harnett",
+    "county_fips_all": "37085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

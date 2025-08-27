@@ -1,0 +1,20 @@
+{
+    "zip": 7740,
+    "lat": 40.29581,
+    "lng": -73.9919,
+    "city": "Long Branch",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 32330.0,
+    "density": 2365.6,
+    "county_fips": 34025,
+    "county_name": "Monmouth",
+    "county_weights": "{\"34025\": 100}",
+    "county_names_all": "Monmouth",
+    "county_fips_all": "34025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

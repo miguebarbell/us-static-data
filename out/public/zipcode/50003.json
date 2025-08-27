@@ -1,0 +1,20 @@
+{
+    "zip": 50003,
+    "lat": 41.61192,
+    "lng": -94.04352,
+    "city": "Adel",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9536.0,
+    "density": 32.0,
+    "county_fips": 19049,
+    "county_name": "Dallas",
+    "county_weights": "{\"19049\": 100}",
+    "county_names_all": "Dallas",
+    "county_fips_all": "19049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

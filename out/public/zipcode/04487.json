@@ -1,0 +1,20 @@
+{
+    "zip": 4487,
+    "lat": 45.39371,
+    "lng": -68.1006,
+    "city": "Springfield",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 742.0,
+    "density": 1.3,
+    "county_fips": 23019,
+    "county_name": "Penobscot",
+    "county_weights": "{\"23019\": 100}",
+    "county_names_all": "Penobscot",
+    "county_fips_all": "23019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

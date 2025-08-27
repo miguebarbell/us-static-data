@@ -1,0 +1,20 @@
+{
+    "zip": 23092,
+    "lat": 37.59402,
+    "lng": -76.50755,
+    "city": "Locust Hill",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 807.0,
+    "density": 54.1,
+    "county_fips": 51119,
+    "county_name": "Middlesex",
+    "county_weights": "{\"51119\": 100}",
+    "county_names_all": "Middlesex",
+    "county_fips_all": "51119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

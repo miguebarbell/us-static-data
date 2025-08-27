@@ -1,0 +1,20 @@
+{
+    "zip": 76670,
+    "lat": 32.12887,
+    "lng": -96.98836,
+    "city": "Milford",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1921.0,
+    "density": 11.0,
+    "county_fips": 48139,
+    "county_name": "Ellis",
+    "county_weights": "{\"48139\": 62.55, \"48217\": 37.45}",
+    "county_names_all": "Ellis|Hill",
+    "county_fips_all": "48139|48217",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

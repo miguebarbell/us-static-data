@@ -1,0 +1,20 @@
+{
+    "zip": 84034,
+    "lat": 39.99427,
+    "lng": -113.9575,
+    "city": "Ibapah",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 144.0,
+    "density": 0.2,
+    "county_fips": 49045,
+    "county_name": "Tooele",
+    "county_weights": "{\"49045\": 69.79, \"49023\": 21.01, \"32033\": 9.2}",
+    "county_names_all": "Tooele|Juab|White Pine",
+    "county_fips_all": "49045|49023|32033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

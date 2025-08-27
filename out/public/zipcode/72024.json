@@ -1,0 +1,20 @@
+{
+    "zip": 72024,
+    "lat": 34.75168,
+    "lng": -91.74902,
+    "city": "Carlisle",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4142.0,
+    "density": 8.4,
+    "county_fips": 5085,
+    "county_name": "Lonoke",
+    "county_weights": "{\"05085\": 93.29, \"05117\": 6.71}",
+    "county_names_all": "Lonoke|Prairie",
+    "county_fips_all": "05085|05117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

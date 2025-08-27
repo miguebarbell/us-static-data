@@ -1,0 +1,20 @@
+{
+    "zip": 83209,
+    "lat": 42.85782,
+    "lng": -112.42619,
+    "city": "Pocatello",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1042.0,
+    "density": 600.6,
+    "county_fips": 16005,
+    "county_name": "Bannock",
+    "county_weights": "{\"16005\": 100}",
+    "county_names_all": "Bannock",
+    "county_fips_all": "16005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

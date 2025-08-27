@@ -1,0 +1,20 @@
+{
+    "zip": 71835,
+    "lat": 33.66724,
+    "lng": -93.4425,
+    "city": "Emmet",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1127.0,
+    "density": 4.9,
+    "county_fips": 5099,
+    "county_name": "Nevada",
+    "county_weights": "{\"05099\": 81.66, \"05057\": 18.34}",
+    "county_names_all": "Nevada|Hempstead",
+    "county_fips_all": "05099|05057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49791,
+    "lat": 45.48093,
+    "lng": -84.59945,
+    "city": "Topinabee",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 148.0,
+    "density": 109.4,
+    "county_fips": 26031,
+    "county_name": "Cheboygan",
+    "county_weights": "{\"26031\": 100}",
+    "county_names_all": "Cheboygan",
+    "county_fips_all": "26031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

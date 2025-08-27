@@ -1,0 +1,20 @@
+{
+    "zip": 72482,
+    "lat": 36.26933,
+    "lng": -91.36402,
+    "city": "Williford",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1481.0,
+    "density": 8.0,
+    "county_fips": 5135,
+    "county_name": "Sharp",
+    "county_weights": "{\"05135\": 99.72, \"05075\": 0.28}",
+    "county_names_all": "Sharp|Lawrence",
+    "county_fips_all": "05135|05075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

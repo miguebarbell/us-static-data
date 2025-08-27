@@ -1,0 +1,20 @@
+{
+    "zip": 64733,
+    "lat": 38.58016,
+    "lng": -93.8283,
+    "city": "Chilhowee",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1112.0,
+    "density": 5.8,
+    "county_fips": 29101,
+    "county_name": "Johnson",
+    "county_weights": "{\"29101\": 65.87, \"29083\": 34.13}",
+    "county_names_all": "Johnson|Henry",
+    "county_fips_all": "29101|29083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

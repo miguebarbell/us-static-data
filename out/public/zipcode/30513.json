@@ -1,0 +1,20 @@
+{
+    "zip": 30513,
+    "lat": 34.82469,
+    "lng": -84.31891,
+    "city": "Blue Ridge",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11594.0,
+    "density": 30.1,
+    "county_fips": 13111,
+    "county_name": "Fannin",
+    "county_weights": "{\"13111\": 95.22, \"13123\": 4.78}",
+    "county_names_all": "Fannin|Gilmer",
+    "county_fips_all": "13111|13123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

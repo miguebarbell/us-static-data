@@ -1,0 +1,20 @@
+{
+    "zip": 44124,
+    "lat": 41.49999,
+    "lng": -81.46774,
+    "city": "Cleveland",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40046.0,
+    "density": 1020.0,
+    "county_fips": 39035,
+    "county_name": "Cuyahoga",
+    "county_weights": "{\"39035\": 100}",
+    "county_names_all": "Cuyahoga",
+    "county_fips_all": "39035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

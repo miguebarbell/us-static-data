@@ -1,0 +1,20 @@
+{
+    "zip": 96747,
+    "lat": 21.9169,
+    "lng": -159.62788,
+    "city": "Kaumakani",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1361.0,
+    "density": 952.3,
+    "county_fips": 15007,
+    "county_name": "Kauai",
+    "county_weights": "{\"15007\": 100}",
+    "county_names_all": "Kauai",
+    "county_fips_all": "15007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "Pacific/Honolulu"
+}

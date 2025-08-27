@@ -1,0 +1,20 @@
+{
+    "zip": 88342,
+    "lat": 32.38926,
+    "lng": -106.10469,
+    "city": "Orogrande",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9.0,
+    "density": 0.5,
+    "county_fips": 35035,
+    "county_name": "Otero",
+    "county_weights": "{\"35035\": 100}",
+    "county_names_all": "Otero",
+    "county_fips_all": "35035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

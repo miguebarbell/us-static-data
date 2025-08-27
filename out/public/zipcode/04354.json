@@ -1,0 +1,20 @@
+{
+    "zip": 4354,
+    "lat": 44.39602,
+    "lng": -69.42709,
+    "city": "Palermo",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1420.0,
+    "density": 13.5,
+    "county_fips": 23027,
+    "county_name": "Waldo",
+    "county_weights": "{\"23027\": 100}",
+    "county_names_all": "Waldo",
+    "county_fips_all": "23027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

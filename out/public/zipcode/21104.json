@@ -1,0 +1,20 @@
+{
+    "zip": 21104,
+    "lat": 39.35044,
+    "lng": -76.90654,
+    "city": "Marriottsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5786.0,
+    "density": 131.0,
+    "county_fips": 24027,
+    "county_name": "Howard",
+    "county_weights": "{\"24027\": 51.06, \"24013\": 33.87, \"24005\": 15.07}",
+    "county_names_all": "Howard|Carroll|Baltimore",
+    "county_fips_all": "24027|24013|24005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

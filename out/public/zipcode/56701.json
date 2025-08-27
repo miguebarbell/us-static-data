@@ -1,0 +1,20 @@
+{
+    "zip": 56701,
+    "lat": 48.12021,
+    "lng": -96.1994,
+    "city": "Thief River Falls",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12814.0,
+    "density": 12.9,
+    "county_fips": 27113,
+    "county_name": "Pennington",
+    "county_weights": "{\"27113\": 74.4, \"27089\": 23.76, \"27119\": 1.84}",
+    "county_names_all": "Pennington|Marshall|Polk",
+    "county_fips_all": "27113|27089|27119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 63536,
+    "lat": 40.48423,
+    "lng": -92.3574,
+    "city": "Downing",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 941.0,
+    "density": 4.4,
+    "county_fips": 29197,
+    "county_name": "Schuyler",
+    "county_weights": "{\"29197\": 55.07, \"29199\": 44.93}",
+    "county_names_all": "Schuyler|Scotland",
+    "county_fips_all": "29197|29199",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

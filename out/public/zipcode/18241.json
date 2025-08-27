@@ -1,0 +1,20 @@
+{
+    "zip": 18241,
+    "lat": 40.94439,
+    "lng": -76.16492,
+    "city": "Nuremberg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 293.0,
+    "density": 107.2,
+    "county_fips": 42079,
+    "county_name": "Luzerne",
+    "county_weights": "{\"42079\": 96.99, \"42107\": 3.01}",
+    "county_names_all": "Luzerne|Schuylkill",
+    "county_fips_all": "42079|42107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

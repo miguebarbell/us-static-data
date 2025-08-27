@@ -1,0 +1,20 @@
+{
+    "zip": 96114,
+    "lat": 40.2945,
+    "lng": -120.49359,
+    "city": "Janesville",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2797.0,
+    "density": 16.5,
+    "county_fips": 6035,
+    "county_name": "Lassen",
+    "county_weights": "{\"06035\": 100}",
+    "county_names_all": "Lassen",
+    "county_fips_all": "06035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

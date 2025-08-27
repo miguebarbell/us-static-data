@@ -1,0 +1,20 @@
+{
+    "zip": 75926,
+    "lat": 31.23281,
+    "lng": -94.96944,
+    "city": "Apple Springs",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1373.0,
+    "density": 5.9,
+    "county_fips": 48455,
+    "county_name": "Trinity",
+    "county_weights": "{\"48455\": 100}",
+    "county_names_all": "Trinity",
+    "county_fips_all": "48455",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

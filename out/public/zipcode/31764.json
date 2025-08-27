@@ -1,0 +1,20 @@
+{
+    "zip": 31764,
+    "lat": 31.9772,
+    "lng": -84.08135,
+    "city": "Leslie",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1882.0,
+    "density": 9.6,
+    "county_fips": 13261,
+    "county_name": "Sumter",
+    "county_weights": "{\"13261\": 85.91, \"13177\": 14.09}",
+    "county_names_all": "Sumter|Lee",
+    "county_fips_all": "13261|13177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 77581,
+    "lat": 29.5624,
+    "lng": -95.27982,
+    "city": "Pearland",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 50240.0,
+    "density": 787.9,
+    "county_fips": 48039,
+    "county_name": "Brazoria",
+    "county_weights": "{\"48039\": 94.23, \"48201\": 5.77}",
+    "county_names_all": "Brazoria|Harris",
+    "county_fips_all": "48039|48201",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

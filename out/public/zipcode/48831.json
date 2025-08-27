@@ -1,0 +1,20 @@
+{
+    "zip": 48831,
+    "lat": 43.10253,
+    "lng": -84.3744,
+    "city": "Elsie",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3282.0,
+    "density": 17.4,
+    "county_fips": 26037,
+    "county_name": "Clinton",
+    "county_weights": "{\"26037\": 44.67, \"26155\": 33.0, \"26145\": 20.44, \"26057\": 1.89}",
+    "county_names_all": "Clinton|Shiawassee|Saginaw|Gratiot",
+    "county_fips_all": "26037|26155|26145|26057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

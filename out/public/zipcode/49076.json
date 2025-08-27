@@ -1,0 +1,20 @@
+{
+    "zip": 49076,
+    "lat": 42.4309,
+    "lng": -84.88657,
+    "city": "Olivet",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4255.0,
+    "density": 28.8,
+    "county_fips": 26045,
+    "county_name": "Eaton",
+    "county_weights": "{\"26045\": 54.36, \"26025\": 45.64}",
+    "county_names_all": "Eaton|Calhoun",
+    "county_fips_all": "26045|26025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

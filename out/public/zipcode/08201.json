@@ -1,0 +1,20 @@
+{
+    "zip": 8201,
+    "lat": 39.42257,
+    "lng": -74.49511,
+    "city": "Absecon",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10067.0,
+    "density": 680.6,
+    "county_fips": 34001,
+    "county_name": "Atlantic",
+    "county_weights": "{\"34001\": 100}",
+    "county_names_all": "Atlantic",
+    "county_fips_all": "34001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

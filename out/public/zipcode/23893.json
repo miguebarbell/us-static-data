@@ -1,0 +1,20 @@
+{
+    "zip": 23893,
+    "lat": 36.6244,
+    "lng": -77.93658,
+    "city": "White Plains",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 545.0,
+    "density": 9.5,
+    "county_fips": 51025,
+    "county_name": "Brunswick",
+    "county_weights": "{\"51025\": 100}",
+    "county_names_all": "Brunswick",
+    "county_fips_all": "51025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

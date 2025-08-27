@@ -1,0 +1,20 @@
+{
+    "zip": 76657,
+    "lat": 31.43851,
+    "lng": -97.39971,
+    "city": "Mcgregor",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12770.0,
+    "density": 35.6,
+    "county_fips": 48309,
+    "county_name": "McLennan",
+    "county_weights": "{\"48309\": 92.49, \"48099\": 7.51}",
+    "county_names_all": "McLennan|Coryell",
+    "county_fips_all": "48309|48099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 43068,
+    "lat": 39.95667,
+    "lng": -82.78468,
+    "city": "Reynoldsburg",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 59399.0,
+    "density": 1169.7,
+    "county_fips": 39049,
+    "county_name": "Franklin",
+    "county_weights": "{\"39049\": 49.4, \"39089\": 41.71, \"39045\": 8.89}",
+    "county_names_all": "Franklin|Licking|Fairfield",
+    "county_fips_all": "39049|39089|39045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

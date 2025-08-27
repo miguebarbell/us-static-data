@@ -1,0 +1,20 @@
+{
+    "zip": 48415,
+    "lat": 43.27165,
+    "lng": -83.80111,
+    "city": "Birch Run",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8601.0,
+    "density": 51.3,
+    "county_fips": 26145,
+    "county_name": "Saginaw",
+    "county_weights": "{\"26145\": 95.28, \"26157\": 2.85, \"26049\": 1.87}",
+    "county_names_all": "Saginaw|Tuscola|Genesee",
+    "county_fips_all": "26145|26157|26049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

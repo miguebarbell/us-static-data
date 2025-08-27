@@ -1,0 +1,20 @@
+{
+    "zip": 26276,
+    "lat": 39.03201,
+    "lng": -79.75659,
+    "city": "Kerens",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 821.0,
+    "density": 13.7,
+    "county_fips": 54083,
+    "county_name": "Randolph",
+    "county_weights": "{\"54083\": 51.58, \"54093\": 48.42}",
+    "county_names_all": "Randolph|Tucker",
+    "county_fips_all": "54083|54093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

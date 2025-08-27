@@ -1,0 +1,20 @@
+{
+    "zip": 87939,
+    "lat": 33.40339,
+    "lng": -107.36566,
+    "city": "Monticello",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 194.0,
+    "density": 0.3,
+    "county_fips": 35051,
+    "county_name": "Sierra",
+    "county_weights": "{\"35051\": 100}",
+    "county_names_all": "Sierra",
+    "county_fips_all": "35051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

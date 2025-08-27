@@ -1,0 +1,20 @@
+{
+    "zip": 77964,
+    "lat": 29.38023,
+    "lng": -96.84301,
+    "city": "Hallettsville",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8061.0,
+    "density": 5.2,
+    "county_fips": 48285,
+    "county_name": "Lavaca",
+    "county_weights": "{\"48285\": 97.74, \"48089\": 2.26}",
+    "county_names_all": "Lavaca|Colorado",
+    "county_fips_all": "48285|48089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

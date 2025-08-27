@@ -1,0 +1,20 @@
+{
+    "zip": 2916,
+    "lat": 41.84438,
+    "lng": -71.35258,
+    "city": "Rumford",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8725.0,
+    "density": 1269.7,
+    "county_fips": 44007,
+    "county_name": "Providence",
+    "county_weights": "{\"44007\": 100}",
+    "county_names_all": "Providence",
+    "county_fips_all": "44007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

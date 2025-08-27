@@ -1,0 +1,20 @@
+{
+    "zip": 32639,
+    "lat": 29.23092,
+    "lng": -82.72007,
+    "city": "Gulf Hammock",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 229.0,
+    "density": 1.9,
+    "county_fips": 12075,
+    "county_name": "Levy",
+    "county_weights": "{\"12075\": 100}",
+    "county_names_all": "Levy",
+    "county_fips_all": "12075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 63601,
+    "lat": 37.8212,
+    "lng": -90.5439,
+    "city": "Park Hills",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16434.0,
+    "density": 106.3,
+    "county_fips": 29187,
+    "county_name": "St. Francois",
+    "county_weights": "{\"29187\": 100}",
+    "county_names_all": "St. Francois",
+    "county_fips_all": "29187",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

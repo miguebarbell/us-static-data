@@ -1,0 +1,20 @@
+{
+    "zip": 54669,
+    "lat": 43.91171,
+    "lng": -91.09046,
+    "city": "West Salem",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8227.0,
+    "density": 61.5,
+    "county_fips": 55063,
+    "county_name": "La Crosse",
+    "county_weights": "{\"55063\": 100}",
+    "county_names_all": "La Crosse",
+    "county_fips_all": "55063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

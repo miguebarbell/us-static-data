@@ -1,0 +1,20 @@
+{
+    "zip": 67466,
+    "lat": 39.32787,
+    "lng": -97.47905,
+    "city": "Miltonvale",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 665.0,
+    "density": 1.7,
+    "county_fips": 20029,
+    "county_name": "Cloud",
+    "county_weights": "{\"20029\": 58.61, \"20143\": 31.64, \"20027\": 9.75}",
+    "county_names_all": "Cloud|Ottawa|Clay",
+    "county_fips_all": "20029|20143|20027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

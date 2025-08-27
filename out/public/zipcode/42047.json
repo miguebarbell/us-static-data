@@ -1,0 +1,20 @@
+{
+    "zip": 42047,
+    "lat": 37.30061,
+    "lng": -88.39046,
+    "city": "Hampton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 226.0,
+    "density": 4.1,
+    "county_fips": 21139,
+    "county_name": "Livingston",
+    "county_weights": "{\"21139\": 100}",
+    "county_names_all": "Livingston",
+    "county_fips_all": "21139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

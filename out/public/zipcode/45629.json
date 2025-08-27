@@ -1,0 +1,20 @@
+{
+    "zip": 45629,
+    "lat": 38.65221,
+    "lng": -82.81051,
+    "city": "Franklin Furnace",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3127.0,
+    "density": 37.4,
+    "county_fips": 39145,
+    "county_name": "Scioto",
+    "county_weights": "{\"39145\": 99.19, \"39087\": 0.81}",
+    "county_names_all": "Scioto|Lawrence",
+    "county_fips_all": "39145|39087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

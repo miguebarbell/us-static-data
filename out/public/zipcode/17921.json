@@ -1,0 +1,20 @@
+{
+    "zip": 17921,
+    "lat": 40.75422,
+    "lng": -76.35732,
+    "city": "Ashland",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7029.0,
+    "density": 77.5,
+    "county_fips": 42107,
+    "county_name": "Schuylkill",
+    "county_weights": "{\"42107\": 91.46, \"42037\": 8.54}",
+    "county_names_all": "Schuylkill|Columbia",
+    "county_fips_all": "42107|42037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

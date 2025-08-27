@@ -1,0 +1,20 @@
+{
+    "zip": 46157,
+    "lat": 39.55623,
+    "lng": -86.52741,
+    "city": "Monrovia",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4370.0,
+    "density": 55.2,
+    "county_fips": 18109,
+    "county_name": "Morgan",
+    "county_weights": "{\"18109\": 100}",
+    "county_names_all": "Morgan",
+    "county_fips_all": "18109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 5873,
+    "lat": 44.40619,
+    "lng": -72.21841,
+    "city": "West Danville",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 753.0,
+    "density": 11.3,
+    "county_fips": 50005,
+    "county_name": "Caledonia",
+    "county_weights": "{\"50005\": 94.67, \"50023\": 5.33}",
+    "county_names_all": "Caledonia|Washington",
+    "county_fips_all": "50005|50023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

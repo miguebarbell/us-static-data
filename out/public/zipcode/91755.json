@@ -1,0 +1,20 @@
+{
+    "zip": 91755,
+    "lat": 34.04832,
+    "lng": -118.11496,
+    "city": "Monterey Park",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26413.0,
+    "density": 3237.0,
+    "county_fips": 6037,
+    "county_name": "Los Angeles",
+    "county_weights": "{\"06037\": 100}",
+    "county_names_all": "Los Angeles",
+    "county_fips_all": "06037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 17323,
+    "lat": 40.07523,
+    "lng": -77.02669,
+    "city": "Franklintown",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 85.0,
+    "density": 497.0,
+    "county_fips": 42133,
+    "county_name": "York",
+    "county_weights": "{\"42133\": 100}",
+    "county_names_all": "York",
+    "county_fips_all": "42133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 42749,
+    "lat": 37.18983,
+    "lng": -85.87516,
+    "city": "Horse Cave",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4835.0,
+    "density": 20.3,
+    "county_fips": 21099,
+    "county_name": "Hart",
+    "county_weights": "{\"21099\": 80.3, \"21169\": 13.31, \"21009\": 6.39}",
+    "county_names_all": "Hart|Metcalfe|Barren",
+    "county_fips_all": "21099|21169|21009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

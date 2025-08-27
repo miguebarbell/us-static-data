@@ -1,0 +1,20 @@
+{
+    "zip": 42071,
+    "lat": 36.62139,
+    "lng": -88.28291,
+    "city": "Murray",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 30750.0,
+    "density": 56.8,
+    "county_fips": 21035,
+    "county_name": "Calloway",
+    "county_weights": "{\"21035\": 99.47, \"21083\": 0.53}",
+    "county_names_all": "Calloway|Graves",
+    "county_fips_all": "21035|21083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

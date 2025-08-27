@@ -1,0 +1,20 @@
+{
+    "zip": 44272,
+    "lat": 41.08691,
+    "lng": -81.18244,
+    "city": "Rootstown",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6064.0,
+    "density": 96.4,
+    "county_fips": 39133,
+    "county_name": "Portage",
+    "county_weights": "{\"39133\": 100}",
+    "county_names_all": "Portage",
+    "county_fips_all": "39133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

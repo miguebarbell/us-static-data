@@ -1,0 +1,20 @@
+{
+    "zip": 36323,
+    "lat": 31.42702,
+    "lng": -86.07221,
+    "city": "Elba",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8033.0,
+    "density": 13.3,
+    "county_fips": 1031,
+    "county_name": "Coffee",
+    "county_weights": "{\"01031\": 100}",
+    "county_names_all": "Coffee",
+    "county_fips_all": "01031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

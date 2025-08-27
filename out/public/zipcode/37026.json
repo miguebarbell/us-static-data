@@ -1,0 +1,20 @@
+{
+    "zip": 37026,
+    "lat": 35.69578,
+    "lng": -86.10746,
+    "city": "Bradyville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2197.0,
+    "density": 16.6,
+    "county_fips": 47015,
+    "county_name": "Cannon",
+    "county_weights": "{\"47015\": 96.34, \"47031\": 3.66}",
+    "county_names_all": "Cannon|Coffee",
+    "county_fips_all": "47015|47031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 29555,
+    "lat": 33.83864,
+    "lng": -79.46191,
+    "city": "Johnsonville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5804.0,
+    "density": 23.6,
+    "county_fips": 45041,
+    "county_name": "Florence",
+    "county_weights": "{\"45041\": 92.46, \"45089\": 7.54}",
+    "county_names_all": "Florence|Williamsburg",
+    "county_fips_all": "45041|45089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

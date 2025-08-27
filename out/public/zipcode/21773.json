@@ -1,0 +1,20 @@
+{
+    "zip": 21773,
+    "lat": 39.53725,
+    "lng": -77.55301,
+    "city": "Myersville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5619.0,
+    "density": 59.8,
+    "county_fips": 24021,
+    "county_name": "Frederick",
+    "county_weights": "{\"24021\": 100}",
+    "county_names_all": "Frederick",
+    "county_fips_all": "24021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

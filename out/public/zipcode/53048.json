@@ -1,0 +1,20 @@
+{
+    "zip": 53048,
+    "lat": 43.57935,
+    "lng": -88.45554,
+    "city": "Lomira",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3484.0,
+    "density": 50.1,
+    "county_fips": 55027,
+    "county_name": "Dodge",
+    "county_weights": "{\"55027\": 96.35, \"55039\": 3.65}",
+    "county_names_all": "Dodge|Fond du Lac",
+    "county_fips_all": "55027|55039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

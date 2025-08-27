@@ -1,0 +1,20 @@
+{
+    "zip": 63730,
+    "lat": 37.09496,
+    "lng": -89.91841,
+    "city": "Advance",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3667.0,
+    "density": 12.6,
+    "county_fips": 29207,
+    "county_name": "Stoddard",
+    "county_weights": "{\"29207\": 54.56, \"29017\": 33.9, \"29031\": 11.54}",
+    "county_names_all": "Stoddard|Bollinger|Cape Girardeau",
+    "county_fips_all": "29207|29017|29031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

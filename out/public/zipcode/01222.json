@@ -1,0 +1,20 @@
+{
+    "zip": 1222,
+    "lat": 42.06242,
+    "lng": -73.32146,
+    "city": "Ashley Falls",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 611.0,
+    "density": 51.4,
+    "county_fips": 25003,
+    "county_name": "Berkshire",
+    "county_weights": "{\"25003\": 100}",
+    "county_names_all": "Berkshire",
+    "county_fips_all": "25003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

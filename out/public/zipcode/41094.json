@@ -1,0 +1,20 @@
+{
+    "zip": 41094,
+    "lat": 38.88213,
+    "lng": -84.62292,
+    "city": "Walton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14798.0,
+    "density": 135.8,
+    "county_fips": 21015,
+    "county_name": "Boone",
+    "county_weights": "{\"21015\": 62.7, \"21117\": 37.3}",
+    "county_names_all": "Boone|Kenton",
+    "county_fips_all": "21015|21117",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

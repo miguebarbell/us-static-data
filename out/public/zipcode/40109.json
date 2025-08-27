@@ -1,0 +1,20 @@
+{
+    "zip": 40109,
+    "lat": 38.05857,
+    "lng": -85.75469,
+    "city": "Brooks",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2363.0,
+    "density": 68.2,
+    "county_fips": 21029,
+    "county_name": "Bullitt",
+    "county_weights": "{\"21029\": 97.01, \"21111\": 2.99}",
+    "county_names_all": "Bullitt|Jefferson",
+    "county_fips_all": "21029|21111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

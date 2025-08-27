@@ -1,0 +1,20 @@
+{
+    "zip": 42748,
+    "lat": 37.57029,
+    "lng": -85.70952,
+    "city": "Hodgenville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9189.0,
+    "density": 27.7,
+    "county_fips": 21123,
+    "county_name": "Larue",
+    "county_weights": "{\"21123\": 99.81, \"21093\": 0.19}",
+    "county_names_all": "Larue|Hardin",
+    "county_fips_all": "21123|21093",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

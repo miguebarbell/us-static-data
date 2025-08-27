@@ -1,0 +1,20 @@
+{
+    "zip": 30823,
+    "lat": 33.222,
+    "lng": -82.45647,
+    "city": "Stapleton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1507.0,
+    "density": 8.1,
+    "county_fips": 13163,
+    "county_name": "Jefferson",
+    "county_weights": "{\"13163\": 59.18, \"13301\": 24.59, \"13125\": 16.23}",
+    "county_names_all": "Jefferson|Warren|Glascock",
+    "county_fips_all": "13163|13301|13125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

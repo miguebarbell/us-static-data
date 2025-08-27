@@ -1,0 +1,20 @@
+{
+    "zip": 15366,
+    "lat": 40.1598,
+    "lng": -79.974,
+    "city": "Van Voorhis",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 551.0,
+    "density": 583.7,
+    "county_fips": 42125,
+    "county_name": "Washington",
+    "county_weights": "{\"42125\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "42125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

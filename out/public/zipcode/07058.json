@@ -1,0 +1,20 @@
+{
+    "zip": 7058,
+    "lat": 40.86701,
+    "lng": -74.34283,
+    "city": "Pine Brook",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5933.0,
+    "density": 775.0,
+    "county_fips": 34027,
+    "county_name": "Morris",
+    "county_weights": "{\"34027\": 99.77, \"34013\": 0.23}",
+    "county_names_all": "Morris|Essex",
+    "county_fips_all": "34027|34013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

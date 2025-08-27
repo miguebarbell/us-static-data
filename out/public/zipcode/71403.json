@@ -1,0 +1,20 @@
+{
+    "zip": 71403,
+    "lat": 31.21047,
+    "lng": -93.44061,
+    "city": "Anacoco",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3792.0,
+    "density": 11.2,
+    "county_fips": 22115,
+    "county_name": "Vernon",
+    "county_weights": "{\"22115\": 93.11, \"22085\": 6.89}",
+    "county_names_all": "Vernon|Sabine",
+    "county_fips_all": "22115|22085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 62863,
+    "lat": 38.41575,
+    "lng": -87.85526,
+    "city": "Mount Carmel",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9438.0,
+    "density": 24.7,
+    "county_fips": 17185,
+    "county_name": "Wabash",
+    "county_weights": "{\"17185\": 100}",
+    "county_names_all": "Wabash",
+    "county_fips_all": "17185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

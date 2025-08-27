@@ -1,0 +1,20 @@
+{
+    "zip": 97366,
+    "lat": 44.58288,
+    "lng": -124.04748,
+    "city": "South Beach",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2169.0,
+    "density": 78.5,
+    "county_fips": 41041,
+    "county_name": "Lincoln",
+    "county_weights": "{\"41041\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "41041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

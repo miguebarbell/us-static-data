@@ -1,0 +1,20 @@
+{
+    "zip": 70050,
+    "lat": 29.38351,
+    "lng": -89.59601,
+    "city": "Empire",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 22075,
+    "county_name": "Plaquemines",
+    "county_weights": "{\"22075\": 100}",
+    "county_names_all": "Plaquemines",
+    "county_fips_all": "22075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

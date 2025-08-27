@@ -1,0 +1,20 @@
+{
+    "zip": 57342,
+    "lat": 43.24561,
+    "lng": -98.70054,
+    "city": "Geddes",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 350.0,
+    "density": 0.8,
+    "county_fips": 46023,
+    "county_name": "Charles Mix",
+    "county_weights": "{\"46023\": 100}",
+    "county_names_all": "Charles Mix",
+    "county_fips_all": "46023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 16680,
+    "lat": 40.75149,
+    "lng": -78.40254,
+    "city": "Smithmill",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 348.0,
+    "density": 18.3,
+    "county_fips": 42033,
+    "county_name": "Clearfield",
+    "county_weights": "{\"42033\": 99.18, \"42027\": 0.82}",
+    "county_names_all": "Clearfield|Centre",
+    "county_fips_all": "42033|42027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

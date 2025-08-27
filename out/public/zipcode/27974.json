@@ -1,0 +1,20 @@
+{
+    "zip": 27974,
+    "lat": 36.23941,
+    "lng": -76.00264,
+    "city": "Shiloh",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 906.0,
+    "density": 7.7,
+    "county_fips": 37029,
+    "county_name": "Camden",
+    "county_weights": "{\"37029\": 100}",
+    "county_names_all": "Camden",
+    "county_fips_all": "37029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

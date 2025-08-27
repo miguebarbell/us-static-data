@@ -1,0 +1,20 @@
+{
+    "zip": 30742,
+    "lat": 34.93566,
+    "lng": -85.24482,
+    "city": "Fort Oglethorpe",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7749.0,
+    "density": 412.6,
+    "county_fips": 13047,
+    "county_name": "Catoosa",
+    "county_weights": "{\"13047\": 99.87, \"13295\": 0.13}",
+    "county_names_all": "Catoosa|Walker",
+    "county_fips_all": "13047|13295",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

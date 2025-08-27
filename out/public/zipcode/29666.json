@@ -1,0 +1,20 @@
+{
+    "zip": 29666,
+    "lat": 34.12345,
+    "lng": -81.99121,
+    "city": "Ninety Six",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6751.0,
+    "density": 21.3,
+    "county_fips": 45047,
+    "county_name": "Greenwood",
+    "county_weights": "{\"45047\": 94.64, \"45081\": 5.36}",
+    "county_names_all": "Greenwood|Saluda",
+    "county_fips_all": "45047|45081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

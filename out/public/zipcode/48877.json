@@ -1,0 +1,20 @@
+{
+    "zip": 48877,
+    "lat": 43.40068,
+    "lng": -84.84316,
+    "city": "Riverdale",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2078.0,
+    "density": 21.7,
+    "county_fips": 26057,
+    "county_name": "Gratiot",
+    "county_weights": "{\"26057\": 46.02, \"26117\": 41.45, \"26073\": 12.52}",
+    "county_names_all": "Gratiot|Montcalm|Isabella",
+    "county_fips_all": "26057|26117|26073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

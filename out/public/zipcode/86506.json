@@ -1,0 +1,20 @@
+{
+    "zip": 86506,
+    "lat": 35.35206,
+    "lng": -109.25868,
+    "city": "Houck",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1343.0,
+    "density": 1.8,
+    "county_fips": 4001,
+    "county_name": "Apache",
+    "county_weights": "{\"04001\": 100}",
+    "county_names_all": "Apache",
+    "county_fips_all": "04001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

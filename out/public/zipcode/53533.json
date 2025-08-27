@@ -1,0 +1,20 @@
+{
+    "zip": 53533,
+    "lat": 42.99285,
+    "lng": -90.14915,
+    "city": "Dodgeville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7368.0,
+    "density": 20.0,
+    "county_fips": 55049,
+    "county_name": "Iowa",
+    "county_weights": "{\"55049\": 100}",
+    "county_names_all": "Iowa",
+    "county_fips_all": "55049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

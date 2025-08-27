@@ -1,0 +1,20 @@
+{
+    "zip": 18344,
+    "lat": 41.11735,
+    "lng": -75.34442,
+    "city": "Mount Pocono",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3472.0,
+    "density": 171.1,
+    "county_fips": 42089,
+    "county_name": "Monroe",
+    "county_weights": "{\"42089\": 100}",
+    "county_names_all": "Monroe",
+    "county_fips_all": "42089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

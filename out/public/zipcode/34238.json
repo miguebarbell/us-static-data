@@ -1,0 +1,20 @@
+{
+    "zip": 34238,
+    "lat": 27.23049,
+    "lng": -82.4687,
+    "city": "Sarasota",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22808.0,
+    "density": 667.0,
+    "county_fips": 12115,
+    "county_name": "Sarasota",
+    "county_weights": "{\"12115\": 100}",
+    "county_names_all": "Sarasota",
+    "county_fips_all": "12115",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

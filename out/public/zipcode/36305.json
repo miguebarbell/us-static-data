@@ -1,0 +1,20 @@
+{
+    "zip": 36305,
+    "lat": 31.20229,
+    "lng": -85.49798,
+    "city": "Dothan",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17592.0,
+    "density": 219.2,
+    "county_fips": 1069,
+    "county_name": "Houston",
+    "county_weights": "{\"01069\": 65.52, \"01061\": 34.48}",
+    "county_names_all": "Houston|Geneva",
+    "county_fips_all": "01069|01061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

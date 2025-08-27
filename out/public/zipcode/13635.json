@@ -1,0 +1,20 @@
+{
+    "zip": 13635,
+    "lat": 44.29915,
+    "lng": -75.26188,
+    "city": "Edwards",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1283.0,
+    "density": 10.6,
+    "county_fips": 36089,
+    "county_name": "St. Lawrence",
+    "county_weights": "{\"36089\": 100}",
+    "county_names_all": "St. Lawrence",
+    "county_fips_all": "36089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

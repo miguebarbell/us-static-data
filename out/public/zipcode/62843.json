@@ -1,0 +1,20 @@
+{
+    "zip": 62843,
+    "lat": 38.3828,
+    "lng": -88.19893,
+    "city": "Golden Gate",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 97.0,
+    "density": 6.6,
+    "county_fips": 17191,
+    "county_name": "Wayne",
+    "county_weights": "{\"17191\": 100}",
+    "county_names_all": "Wayne",
+    "county_fips_all": "17191",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

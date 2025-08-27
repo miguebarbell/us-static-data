@@ -1,0 +1,20 @@
+{
+    "zip": 62338,
+    "lat": 39.99309,
+    "lng": -91.23889,
+    "city": "Fowler",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1109.0,
+    "density": 12.4,
+    "county_fips": 17001,
+    "county_name": "Adams",
+    "county_weights": "{\"17001\": 100}",
+    "county_names_all": "Adams",
+    "county_fips_all": "17001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

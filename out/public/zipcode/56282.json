@@ -1,0 +1,20 @@
+{
+    "zip": 56282,
+    "lat": 45.03089,
+    "lng": -95.21862,
+    "city": "Raymond",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1443.0,
+    "density": 5.2,
+    "county_fips": 27067,
+    "county_name": "Kandiyohi",
+    "county_weights": "{\"27067\": 67.29, \"27023\": 32.71}",
+    "county_names_all": "Kandiyohi|Chippewa",
+    "county_fips_all": "27067|27023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 70817,
+    "lat": 30.37558,
+    "lng": -90.98026,
+    "city": "Baton Rouge",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33237.0,
+    "density": 505.6,
+    "county_fips": 22033,
+    "county_name": "East Baton Rouge",
+    "county_weights": "{\"22033\": 100}",
+    "county_names_all": "East Baton Rouge",
+    "county_fips_all": "22033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

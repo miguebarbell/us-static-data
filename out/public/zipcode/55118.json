@@ -1,0 +1,20 @@
+{
+    "zip": 55118,
+    "lat": 44.8968,
+    "lng": -93.10365,
+    "city": "Saint Paul",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29396.0,
+    "density": 1084.4,
+    "county_fips": 27037,
+    "county_name": "Dakota",
+    "county_weights": "{\"27037\": 99.87, \"27123\": 0.13}",
+    "county_names_all": "Dakota|Ramsey",
+    "county_fips_all": "27037|27123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 51459,
+    "lat": 42.04495,
+    "lng": -94.63779,
+    "city": "Ralston",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 60.0,
+    "density": 41.9,
+    "county_fips": 19027,
+    "county_name": "Carroll",
+    "county_weights": "{\"19027\": 100}",
+    "county_names_all": "Carroll",
+    "county_fips_all": "19027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

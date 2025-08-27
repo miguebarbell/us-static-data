@@ -1,0 +1,20 @@
+{
+    "zip": 71075,
+    "lat": 32.99349,
+    "lng": -93.49199,
+    "city": "Springhill",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5417.0,
+    "density": 59.4,
+    "county_fips": 22119,
+    "county_name": "Webster",
+    "county_weights": "{\"22119\": 71.39, \"22015\": 28.61}",
+    "county_names_all": "Webster|Bossier",
+    "county_fips_all": "22119|22015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

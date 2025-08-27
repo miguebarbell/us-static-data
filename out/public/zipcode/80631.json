@@ -1,0 +1,20 @@
+{
+    "zip": 80631,
+    "lat": 40.44216,
+    "lng": -104.67809,
+    "city": "Greeley",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 53920.0,
+    "density": 201.0,
+    "county_fips": 8123,
+    "county_name": "Weld",
+    "county_weights": "{\"08123\": 100}",
+    "county_names_all": "Weld",
+    "county_fips_all": "08123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

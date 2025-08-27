@@ -1,0 +1,20 @@
+{
+    "zip": 7040,
+    "lat": 40.73302,
+    "lng": -74.27117,
+    "city": "Maplewood",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25406.0,
+    "density": 2532.1,
+    "county_fips": 34013,
+    "county_name": "Essex",
+    "county_weights": "{\"34013\": 100}",
+    "county_names_all": "Essex",
+    "county_fips_all": "34013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

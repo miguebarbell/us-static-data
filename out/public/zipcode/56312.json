@@ -1,0 +1,20 @@
+{
+    "zip": 56312,
+    "lat": 45.46285,
+    "lng": -94.95323,
+    "city": "Belgrade",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2224.0,
+    "density": 5.0,
+    "county_fips": 27145,
+    "county_name": "Stearns",
+    "county_weights": "{\"27145\": 74.47, \"27067\": 25.53}",
+    "county_names_all": "Stearns|Kandiyohi",
+    "county_fips_all": "27145|27067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

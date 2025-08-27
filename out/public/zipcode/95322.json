@@ -1,0 +1,20 @@
+{
+    "zip": 95322,
+    "lat": 37.17622,
+    "lng": -121.01861,
+    "city": "Gustine",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9013.0,
+    "density": 20.5,
+    "county_fips": 6047,
+    "county_name": "Merced",
+    "county_weights": "{\"06047\": 97.68, \"06099\": 2.32}",
+    "county_names_all": "Merced|Stanislaus",
+    "county_fips_all": "06047|06099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

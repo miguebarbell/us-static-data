@@ -1,0 +1,20 @@
+{
+    "zip": 78027,
+    "lat": 29.98193,
+    "lng": -98.53868,
+    "city": "Kendalia",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 576.0,
+    "density": 3.1,
+    "county_fips": 48259,
+    "county_name": "Kendall",
+    "county_weights": "{\"48259\": 100}",
+    "county_names_all": "Kendall",
+    "county_fips_all": "48259",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

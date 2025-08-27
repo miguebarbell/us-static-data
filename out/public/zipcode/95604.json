@@ -1,0 +1,20 @@
+{
+    "zip": 95604,
+    "lat": 38.9112,
+    "lng": -121.0982,
+    "city": "Auburn",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24.0,
+    "density": 185.6,
+    "county_fips": 6061,
+    "county_name": "Placer",
+    "county_weights": "{\"06061\": 100}",
+    "county_names_all": "Placer",
+    "county_fips_all": "06061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 79322,
+    "lat": 33.65887,
+    "lng": -101.19814,
+    "city": "Crosbyton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1945.0,
+    "density": 2.9,
+    "county_fips": 48107,
+    "county_name": "Crosby",
+    "county_weights": "{\"48107\": 100}",
+    "county_names_all": "Crosby",
+    "county_fips_all": "48107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

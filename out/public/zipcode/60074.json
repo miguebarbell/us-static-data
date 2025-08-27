@@ -1,0 +1,20 @@
+{
+    "zip": 60074,
+    "lat": 42.13179,
+    "lng": -88.02658,
+    "city": "Palatine",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36296.0,
+    "density": 1972.9,
+    "county_fips": 17031,
+    "county_name": "Cook",
+    "county_weights": "{\"17031\": 94.79, \"17097\": 5.21}",
+    "county_names_all": "Cook|Lake",
+    "county_fips_all": "17031|17097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

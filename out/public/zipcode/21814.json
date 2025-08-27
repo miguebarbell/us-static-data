@@ -1,0 +1,20 @@
+{
+    "zip": 21814,
+    "lat": 38.29176,
+    "lng": -75.88669,
+    "city": "Bivalve",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 205.0,
+    "density": 22.2,
+    "county_fips": 24045,
+    "county_name": "Wicomico",
+    "county_weights": "{\"24045\": 100}",
+    "county_names_all": "Wicomico",
+    "county_fips_all": "24045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

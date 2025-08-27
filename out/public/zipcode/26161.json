@@ -1,0 +1,20 @@
+{
+    "zip": 26161,
+    "lat": 39.16789,
+    "lng": -81.2526,
+    "city": "Petroleum",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 490.0,
+    "density": 3.8,
+    "county_fips": 54085,
+    "county_name": "Ritchie",
+    "county_weights": "{\"54085\": 100}",
+    "county_names_all": "Ritchie",
+    "county_fips_all": "54085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

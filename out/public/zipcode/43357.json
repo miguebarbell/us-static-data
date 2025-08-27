@@ -1,0 +1,20 @@
+{
+    "zip": 43357,
+    "lat": 40.25316,
+    "lng": -83.74711,
+    "city": "West Liberty",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4711.0,
+    "density": 26.7,
+    "county_fips": 39091,
+    "county_name": "Logan",
+    "county_weights": "{\"39091\": 56.26, \"39021\": 43.74}",
+    "county_names_all": "Logan|Champaign",
+    "county_fips_all": "39091|39021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

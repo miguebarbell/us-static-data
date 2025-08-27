@@ -1,0 +1,20 @@
+{
+    "zip": 78623,
+    "lat": 29.95973,
+    "lng": -98.21933,
+    "city": "Fischer",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1575.0,
+    "density": 27.2,
+    "county_fips": 48091,
+    "county_name": "Comal",
+    "county_weights": "{\"48091\": 92.25, \"48209\": 7.75}",
+    "county_names_all": "Comal|Hays",
+    "county_fips_all": "48091|48209",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

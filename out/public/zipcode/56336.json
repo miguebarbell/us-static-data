@@ -1,0 +1,20 @@
+{
+    "zip": 56336,
+    "lat": 45.82349,
+    "lng": -94.76175,
+    "city": "Grey Eagle",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1530.0,
+    "density": 12.1,
+    "county_fips": 27153,
+    "county_name": "Todd",
+    "county_weights": "{\"27153\": 97.0, \"27145\": 3.0}",
+    "county_names_all": "Todd|Stearns",
+    "county_fips_all": "27153|27145",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

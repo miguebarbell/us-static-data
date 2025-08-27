@@ -1,0 +1,20 @@
+{
+    "zip": 61373,
+    "lat": 41.4004,
+    "lng": -88.99456,
+    "city": "Utica",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2120.0,
+    "density": 17.4,
+    "county_fips": 17099,
+    "county_name": "LaSalle",
+    "county_weights": "{\"17099\": 100}",
+    "county_names_all": "LaSalle",
+    "county_fips_all": "17099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

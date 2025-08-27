@@ -1,0 +1,20 @@
+{
+    "zip": 48122,
+    "lat": 42.28018,
+    "lng": -83.17819,
+    "city": "Melvindale",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12605.0,
+    "density": 1789.0,
+    "county_fips": 26163,
+    "county_name": "Wayne",
+    "county_weights": "{\"26163\": 100}",
+    "county_names_all": "Wayne",
+    "county_fips_all": "26163",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

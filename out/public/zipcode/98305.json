@@ -1,0 +1,20 @@
+{
+    "zip": 98305,
+    "lat": 48.03148,
+    "lng": -124.22934,
+    "city": "Beaver",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 311.0,
+    "density": 0.5,
+    "county_fips": 53009,
+    "county_name": "Clallam",
+    "county_weights": "{\"53009\": 100}",
+    "county_names_all": "Clallam",
+    "county_fips_all": "53009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

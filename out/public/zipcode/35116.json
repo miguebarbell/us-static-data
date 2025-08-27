@@ -1,0 +1,20 @@
+{
+    "zip": 35116,
+    "lat": 33.73167,
+    "lng": -86.76819,
+    "city": "Morris",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4912.0,
+    "density": 84.2,
+    "county_fips": 1073,
+    "county_name": "Jefferson",
+    "county_weights": "{\"01073\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "01073",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

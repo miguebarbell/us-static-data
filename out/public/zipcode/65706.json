@@ -1,0 +1,20 @@
+{
+    "zip": 65706,
+    "lat": 37.3224,
+    "lng": -92.89421,
+    "city": "Marshfield",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17479.0,
+    "density": 37.5,
+    "county_fips": 29225,
+    "county_name": "Webster",
+    "county_weights": "{\"29225\": 99.85, \"29077\": 0.15}",
+    "county_names_all": "Webster|Greene",
+    "county_fips_all": "29225|29077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

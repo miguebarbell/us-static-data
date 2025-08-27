@@ -1,0 +1,20 @@
+{
+    "zip": 66516,
+    "lat": 39.62193,
+    "lng": -95.7195,
+    "city": "Netawaka",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 311.0,
+    "density": 2.5,
+    "county_fips": 20085,
+    "county_name": "Jackson",
+    "county_weights": "{\"20085\": 70.37, \"20013\": 29.63}",
+    "county_names_all": "Jackson|Brown",
+    "county_fips_all": "20085|20013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

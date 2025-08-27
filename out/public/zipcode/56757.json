@@ -1,0 +1,20 @@
+{
+    "zip": 56757,
+    "lat": 48.47641,
+    "lng": -96.90596,
+    "city": "Stephen",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 845.0,
+    "density": 1.4,
+    "county_fips": 27089,
+    "county_name": "Marshall",
+    "county_weights": "{\"27089\": 94.98, \"27069\": 5.02}",
+    "county_names_all": "Marshall|Kittson",
+    "county_fips_all": "27089|27069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 46979,
+    "lat": 40.42759,
+    "lng": -86.27737,
+    "city": "Russiaville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5026.0,
+    "density": 43.4,
+    "county_fips": 18067,
+    "county_name": "Howard",
+    "county_weights": "{\"18067\": 88.14, \"18023\": 6.5, \"18159\": 5.36}",
+    "county_names_all": "Howard|Clinton|Tipton",
+    "county_fips_all": "18067|18023|18159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

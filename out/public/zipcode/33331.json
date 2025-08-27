@@ -1,0 +1,20 @@
+{
+    "zip": 33331,
+    "lat": 26.0587,
+    "lng": -80.36989,
+    "city": "Fort Lauderdale",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25107.0,
+    "density": 823.8,
+    "county_fips": 12011,
+    "county_name": "Broward",
+    "county_weights": "{\"12011\": 100}",
+    "county_names_all": "Broward",
+    "county_fips_all": "12011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 4481,
+    "lat": 45.24298,
+    "lng": -69.10423,
+    "city": "Sebec",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 487.0,
+    "density": 5.1,
+    "county_fips": 23021,
+    "county_name": "Piscataquis",
+    "county_weights": "{\"23021\": 100}",
+    "county_names_all": "Piscataquis",
+    "county_fips_all": "23021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

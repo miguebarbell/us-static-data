@@ -1,0 +1,20 @@
+{
+    "zip": 58074,
+    "lat": 46.21807,
+    "lng": -96.87603,
+    "city": "Wahpeton",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 44.0,
+    "density": 17.9,
+    "county_fips": 38077,
+    "county_name": "Richland",
+    "county_weights": "{\"38077\": 100}",
+    "county_names_all": "Richland",
+    "county_fips_all": "38077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

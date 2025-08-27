@@ -1,0 +1,20 @@
+{
+    "zip": 38449,
+    "lat": 35.05231,
+    "lng": -86.82954,
+    "city": "Ardmore",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3255.0,
+    "density": 21.5,
+    "county_fips": 47103,
+    "county_name": "Lincoln",
+    "county_weights": "{\"47103\": 52.62, \"47055\": 47.38}",
+    "county_names_all": "Lincoln|Giles",
+    "county_fips_all": "47103|47055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

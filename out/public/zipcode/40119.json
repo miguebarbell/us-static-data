@@ -1,0 +1,20 @@
+{
+    "zip": 40119,
+    "lat": 37.60799,
+    "lng": -86.54925,
+    "city": "Falls Of Rough",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2071.0,
+    "density": 7.4,
+    "county_fips": 21027,
+    "county_name": "Breckinridge",
+    "county_weights": "{\"21027\": 53.12, \"21085\": 42.45, \"21183\": 4.43}",
+    "county_names_all": "Breckinridge|Grayson|Ohio",
+    "county_fips_all": "21027|21085|21183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

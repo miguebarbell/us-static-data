@@ -1,0 +1,20 @@
+{
+    "zip": 42041,
+    "lat": 36.54593,
+    "lng": -88.87456,
+    "city": "Fulton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4584.0,
+    "density": 16.5,
+    "county_fips": 21075,
+    "county_name": "Fulton",
+    "county_weights": "{\"21075\": 49.42, \"21083\": 27.82, \"21105\": 22.76}",
+    "county_names_all": "Fulton|Graves|Hickman",
+    "county_fips_all": "21075|21083|21105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

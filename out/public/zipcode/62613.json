@@ -1,0 +1,20 @@
+{
+    "zip": 62613,
+    "lat": 39.99009,
+    "lng": -89.67036,
+    "city": "Athens",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3659.0,
+    "density": 22.4,
+    "county_fips": 17129,
+    "county_name": "Menard",
+    "county_weights": "{\"17129\": 85.44, \"17167\": 7.32, \"17107\": 7.24}",
+    "county_names_all": "Menard|Sangamon|Logan",
+    "county_fips_all": "17129|17167|17107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

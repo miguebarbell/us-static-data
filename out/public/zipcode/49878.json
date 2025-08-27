@@ -1,0 +1,20 @@
+{
+    "zip": 49878,
+    "lat": 45.95852,
+    "lng": -86.86516,
+    "city": "Rapid River",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3184.0,
+    "density": 2.7,
+    "county_fips": 26041,
+    "county_name": "Delta",
+    "county_weights": "{\"26041\": 97.21, \"26003\": 2.79}",
+    "county_names_all": "Delta|Alger",
+    "county_fips_all": "26041|26003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

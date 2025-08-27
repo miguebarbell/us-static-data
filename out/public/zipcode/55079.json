@@ -1,0 +1,20 @@
+{
+    "zip": 55079,
+    "lat": 45.41385,
+    "lng": -93.03117,
+    "city": "Stacy",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8840.0,
+    "density": 53.6,
+    "county_fips": 27025,
+    "county_name": "Chisago",
+    "county_weights": "{\"27025\": 42.59, \"27059\": 30.71, \"27003\": 26.7}",
+    "county_names_all": "Chisago|Isanti|Anoka",
+    "county_fips_all": "27025|27059|27003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

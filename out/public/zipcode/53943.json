@@ -1,0 +1,20 @@
+{
+    "zip": 53943,
+    "lat": 43.38999,
+    "lng": -90.03018,
+    "city": "Loganville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1291.0,
+    "density": 9.9,
+    "county_fips": 55111,
+    "county_name": "Sauk",
+    "county_weights": "{\"55111\": 100}",
+    "county_names_all": "Sauk",
+    "county_fips_all": "55111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

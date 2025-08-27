@@ -1,0 +1,20 @@
+{
+    "zip": 38922,
+    "lat": 33.93641,
+    "lng": -89.64878,
+    "city": "Coffeeville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3126.0,
+    "density": 5.4,
+    "county_fips": 28161,
+    "county_name": "Yalobusha",
+    "county_weights": "{\"28161\": 80.37, \"28043\": 19.63}",
+    "county_names_all": "Yalobusha|Grenada",
+    "county_fips_all": "28161|28043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

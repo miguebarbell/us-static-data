@@ -1,0 +1,20 @@
+{
+    "zip": 67431,
+    "lat": 38.95833,
+    "lng": -97.01179,
+    "city": "Chapman",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1963.0,
+    "density": 6.2,
+    "county_fips": 20041,
+    "county_name": "Dickinson",
+    "county_weights": "{\"20041\": 100}",
+    "county_names_all": "Dickinson",
+    "county_fips_all": "20041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 28606,
+    "lat": 36.05346,
+    "lng": -81.31413,
+    "city": "Boomer",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1743.0,
+    "density": 15.6,
+    "county_fips": 37193,
+    "county_name": "Wilkes",
+    "county_weights": "{\"37193\": 89.0, \"37027\": 11.0}",
+    "county_names_all": "Wilkes|Caldwell",
+    "county_fips_all": "37193|37027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

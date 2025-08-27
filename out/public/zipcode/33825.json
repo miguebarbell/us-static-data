@@ -1,0 +1,20 @@
+{
+    "zip": 33825,
+    "lat": 27.62704,
+    "lng": -81.44343,
+    "city": "Avon Park",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24974.0,
+    "density": 85.5,
+    "county_fips": 12055,
+    "county_name": "Highlands",
+    "county_weights": "{\"12055\": 65.77, \"12105\": 34.23}",
+    "county_names_all": "Highlands|Polk",
+    "county_fips_all": "12055|12105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 17853,
+    "lat": 40.69212,
+    "lng": -77.01254,
+    "city": "Mount Pleasant Mills",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3047.0,
+    "density": 27.1,
+    "county_fips": 42109,
+    "county_name": "Snyder",
+    "county_weights": "{\"42109\": 81.88, \"42067\": 18.12}",
+    "county_names_all": "Snyder|Juniata",
+    "county_fips_all": "42109|42067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

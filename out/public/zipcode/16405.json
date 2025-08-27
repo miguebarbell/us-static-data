@@ -1,0 +1,20 @@
+{
+    "zip": 16405,
+    "lat": 41.938,
+    "lng": -79.5335,
+    "city": "Columbus",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 557.0,
+    "density": 11.4,
+    "county_fips": 42123,
+    "county_name": "Warren",
+    "county_weights": "{\"42123\": 100}",
+    "county_names_all": "Warren",
+    "county_fips_all": "42123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

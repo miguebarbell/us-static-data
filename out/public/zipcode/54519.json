@@ -1,0 +1,20 @@
+{
+    "zip": 54519,
+    "lat": 46.05355,
+    "lng": -89.26877,
+    "city": "Conover",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1293.0,
+    "density": 5.8,
+    "county_fips": 55125,
+    "county_name": "Vilas",
+    "county_weights": "{\"55125\": 100}",
+    "county_names_all": "Vilas",
+    "county_fips_all": "55125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

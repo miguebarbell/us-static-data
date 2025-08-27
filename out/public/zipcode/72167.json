@@ -1,0 +1,20 @@
+{
+    "zip": 72167,
+    "lat": 34.42223,
+    "lng": -92.65477,
+    "city": "Traskwood",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1567.0,
+    "density": 15.5,
+    "county_fips": 5125,
+    "county_name": "Saline",
+    "county_weights": "{\"05125\": 46.1, \"05053\": 35.04, \"05059\": 18.86}",
+    "county_names_all": "Saline|Grant|Hot Spring",
+    "county_fips_all": "05125|05053|05059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

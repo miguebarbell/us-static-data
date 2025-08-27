@@ -1,0 +1,20 @@
+{
+    "zip": 31757,
+    "lat": 30.87291,
+    "lng": -83.89945,
+    "city": "Thomasville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11787.0,
+    "density": 53.8,
+    "county_fips": 13275,
+    "county_name": "Thomas",
+    "county_weights": "{\"13275\": 100}",
+    "county_names_all": "Thomas",
+    "county_fips_all": "13275",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

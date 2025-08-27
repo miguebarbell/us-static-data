@@ -1,0 +1,20 @@
+{
+    "zip": 4096,
+    "lat": 43.7978,
+    "lng": -70.1719,
+    "city": "Yarmouth",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9006.0,
+    "density": 259.4,
+    "county_fips": 23005,
+    "county_name": "Cumberland",
+    "county_weights": "{\"23005\": 100}",
+    "county_names_all": "Cumberland",
+    "county_fips_all": "23005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

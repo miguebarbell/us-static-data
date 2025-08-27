@@ -1,0 +1,20 @@
+{
+    "zip": 24014,
+    "lat": 37.22427,
+    "lng": -79.91282,
+    "city": "Roanoke",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 15443.0,
+    "density": 218.4,
+    "county_fips": 51161,
+    "county_name": "Roanoke",
+    "county_weights": "{\"51161\": 72.0, \"51770\": 28.0}",
+    "county_names_all": "Roanoke|Roanoke",
+    "county_fips_all": "51161|51770",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

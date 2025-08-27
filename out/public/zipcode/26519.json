@@ -1,0 +1,20 @@
+{
+    "zip": 26519,
+    "lat": 39.55179,
+    "lng": -79.63212,
+    "city": "Albright",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2126.0,
+    "density": 13.6,
+    "county_fips": 54077,
+    "county_name": "Preston",
+    "county_weights": "{\"54077\": 100}",
+    "county_names_all": "Preston",
+    "county_fips_all": "54077",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

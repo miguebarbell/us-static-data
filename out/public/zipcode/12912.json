@@ -1,0 +1,20 @@
+{
+    "zip": 12912,
+    "lat": 44.46233,
+    "lng": -73.74201,
+    "city": "Au Sable Forks",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1860.0,
+    "density": 7.5,
+    "county_fips": 36019,
+    "county_name": "Clinton",
+    "county_weights": "{\"36019\": 77.09, \"36031\": 22.91}",
+    "county_names_all": "Clinton|Essex",
+    "county_fips_all": "36019|36031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

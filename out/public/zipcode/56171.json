@@ -1,0 +1,20 @@
+{
+    "zip": 56171,
+    "lat": 43.66902,
+    "lng": -94.75925,
+    "city": "Sherburn",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1527.0,
+    "density": 6.6,
+    "county_fips": 27091,
+    "county_name": "Martin",
+    "county_weights": "{\"27091\": 100}",
+    "county_names_all": "Martin",
+    "county_fips_all": "27091",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

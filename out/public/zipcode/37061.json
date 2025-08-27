@@ -1,0 +1,20 @@
+{
+    "zip": 37061,
+    "lat": 36.28918,
+    "lng": -87.66528,
+    "city": "Erin",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5193.0,
+    "density": 22.6,
+    "county_fips": 47083,
+    "county_name": "Houston",
+    "county_weights": "{\"47083\": 98.55, \"47125\": 0.9, \"47161\": 0.55}",
+    "county_names_all": "Houston|Montgomery|Stewart",
+    "county_fips_all": "47083|47125|47161",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

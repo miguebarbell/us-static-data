@@ -1,0 +1,20 @@
+{
+    "zip": 71040,
+    "lat": 32.78564,
+    "lng": -93.01238,
+    "city": "Homer",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7705.0,
+    "density": 10.1,
+    "county_fips": 22027,
+    "county_name": "Claiborne",
+    "county_weights": "{\"22027\": 100}",
+    "county_names_all": "Claiborne",
+    "county_fips_all": "22027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

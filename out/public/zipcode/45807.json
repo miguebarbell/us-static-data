@@ -1,0 +1,20 @@
+{
+    "zip": 45807,
+    "lat": 40.8072,
+    "lng": -84.16699,
+    "city": "Lima",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11631.0,
+    "density": 59.5,
+    "county_fips": 39003,
+    "county_name": "Allen",
+    "county_weights": "{\"39003\": 100}",
+    "county_names_all": "Allen",
+    "county_fips_all": "39003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

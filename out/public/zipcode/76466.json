@@ -1,0 +1,20 @@
+{
+    "zip": 76466,
+    "lat": 32.42887,
+    "lng": -98.7332,
+    "city": "Olden",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 620.0,
+    "density": 67.2,
+    "county_fips": 48133,
+    "county_name": "Eastland",
+    "county_weights": "{\"48133\": 100}",
+    "county_names_all": "Eastland",
+    "county_fips_all": "48133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

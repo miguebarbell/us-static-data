@@ -1,0 +1,20 @@
+{
+    "zip": 37076,
+    "lat": 36.14512,
+    "lng": -86.57977,
+    "city": "Hermitage",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 38124.0,
+    "density": 529.3,
+    "county_fips": 47037,
+    "county_name": "Davidson",
+    "county_weights": "{\"47037\": 93.14, \"47189\": 6.86}",
+    "county_names_all": "Davidson|Wilson",
+    "county_fips_all": "47037|47189",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

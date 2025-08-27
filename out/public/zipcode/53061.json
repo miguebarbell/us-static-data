@@ -1,0 +1,20 @@
+{
+    "zip": 53061,
+    "lat": 43.94588,
+    "lng": -88.11803,
+    "city": "New Holstein",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4958.0,
+    "density": 44.9,
+    "county_fips": 55015,
+    "county_name": "Calumet",
+    "county_weights": "{\"55015\": 82.03, \"55039\": 17.02, \"55071\": 0.95}",
+    "county_names_all": "Calumet|Fond du Lac|Manitowoc",
+    "county_fips_all": "55015|55039|55071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

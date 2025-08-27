@@ -1,0 +1,20 @@
+{
+    "zip": 26136,
+    "lat": 38.96553,
+    "lng": -81.11478,
+    "city": "Big Bend",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 266.0,
+    "density": 6.3,
+    "county_fips": 54013,
+    "county_name": "Calhoun",
+    "county_weights": "{\"54013\": 100}",
+    "county_names_all": "Calhoun",
+    "county_fips_all": "54013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

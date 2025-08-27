@@ -1,0 +1,20 @@
+{
+    "zip": 32094,
+    "lat": 30.19797,
+    "lng": -82.82767,
+    "city": "Wellborn",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3929.0,
+    "density": 27.0,
+    "county_fips": 12121,
+    "county_name": "Suwannee",
+    "county_weights": "{\"12121\": 88.48, \"12023\": 11.52}",
+    "county_names_all": "Suwannee|Columbia",
+    "county_fips_all": "12121|12023",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

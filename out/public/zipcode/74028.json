@@ -1,0 +1,20 @@
+{
+    "zip": 74028,
+    "lat": 35.79554,
+    "lng": -96.52259,
+    "city": "Depew",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1574.0,
+    "density": 6.0,
+    "county_fips": 40037,
+    "county_name": "Creek",
+    "county_weights": "{\"40037\": 99.42, \"40081\": 0.58}",
+    "county_names_all": "Creek|Lincoln",
+    "county_fips_all": "40037|40081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

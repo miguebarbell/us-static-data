@@ -1,0 +1,20 @@
+{
+    "zip": 68376,
+    "lat": 40.171,
+    "lng": -95.93809,
+    "city": "Humboldt",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1127.0,
+    "density": 2.8,
+    "county_fips": 31147,
+    "county_name": "Richardson",
+    "county_weights": "{\"31147\": 82.47, \"31127\": 10.33, \"31133\": 7.2}",
+    "county_names_all": "Richardson|Nemaha|Pawnee",
+    "county_fips_all": "31147|31127|31133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

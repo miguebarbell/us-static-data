@@ -1,0 +1,20 @@
+{
+    "zip": 96010,
+    "lat": 40.89735,
+    "lng": -123.24365,
+    "city": "Big Bar",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 119.0,
+    "density": 0.1,
+    "county_fips": 6105,
+    "county_name": "Trinity",
+    "county_weights": "{\"06105\": 100}",
+    "county_names_all": "Trinity",
+    "county_fips_all": "06105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

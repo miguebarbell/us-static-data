@@ -1,0 +1,20 @@
+{
+    "zip": 80027,
+    "lat": 39.9508,
+    "lng": -105.16354,
+    "city": "Louisville",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 33998.0,
+    "density": 704.7,
+    "county_fips": 8013,
+    "county_name": "Boulder",
+    "county_weights": "{\"08013\": 100}",
+    "county_names_all": "Boulder",
+    "county_fips_all": "08013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

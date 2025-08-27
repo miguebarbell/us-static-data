@@ -1,0 +1,20 @@
+{
+    "zip": 50464,
+    "lat": 43.25146,
+    "lng": -93.0765,
+    "city": "Plymouth",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 573.0,
+    "density": 9.0,
+    "county_fips": 19033,
+    "county_name": "Cerro Gordo",
+    "county_weights": "{\"19033\": 54.98, \"19195\": 42.36, \"19131\": 2.66}",
+    "county_names_all": "Cerro Gordo|Worth|Mitchell",
+    "county_fips_all": "19033|19195|19131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

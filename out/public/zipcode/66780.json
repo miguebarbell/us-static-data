@@ -1,0 +1,20 @@
+{
+    "zip": 66780,
+    "lat": 37.60895,
+    "lng": -95.05881,
+    "city": "Walnut",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 624.0,
+    "density": 2.3,
+    "county_fips": 20037,
+    "county_name": "Crawford",
+    "county_weights": "{\"20037\": 62.91, \"20133\": 27.24, \"20011\": 9.85}",
+    "county_names_all": "Crawford|Neosho|Bourbon",
+    "county_fips_all": "20037|20133|20011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

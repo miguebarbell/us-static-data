@@ -1,0 +1,20 @@
+{
+    "zip": 97014,
+    "lat": 45.61354,
+    "lng": -121.87405,
+    "city": "Cascade Locks",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1617.0,
+    "density": 4.3,
+    "county_fips": 41027,
+    "county_name": "Hood River",
+    "county_weights": "{\"41027\": 66.24, \"41051\": 33.76}",
+    "county_names_all": "Hood River|Multnomah",
+    "county_fips_all": "41027|41051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

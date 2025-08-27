@@ -1,0 +1,20 @@
+{
+    "zip": 81241,
+    "lat": 38.62675,
+    "lng": -106.48848,
+    "city": "Pitkin",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 166.0,
+    "density": 1.6,
+    "county_fips": 8051,
+    "county_name": "Gunnison",
+    "county_weights": "{\"08051\": 100}",
+    "county_names_all": "Gunnison",
+    "county_fips_all": "08051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72956,
+    "lat": 35.46895,
+    "lng": -94.3489,
+    "city": "Van Buren",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 34102.0,
+    "density": 126.9,
+    "county_fips": 5033,
+    "county_name": "Crawford",
+    "county_weights": "{\"05033\": 99.85, \"05131\": 0.15}",
+    "county_names_all": "Crawford|Sebastian",
+    "county_fips_all": "05033|05131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

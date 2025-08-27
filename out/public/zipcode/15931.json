@@ -1,0 +1,20 @@
+{
+    "zip": 15931,
+    "lat": 40.51612,
+    "lng": -78.76225,
+    "city": "Ebensburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8852.0,
+    "density": 42.0,
+    "county_fips": 42021,
+    "county_name": "Cambria",
+    "county_weights": "{\"42021\": 100}",
+    "county_names_all": "Cambria",
+    "county_fips_all": "42021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

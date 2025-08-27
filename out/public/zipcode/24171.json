@@ -1,0 +1,20 @@
+{
+    "zip": 24171,
+    "lat": 36.67095,
+    "lng": -80.23835,
+    "city": "Stuart",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7713.0,
+    "density": 15.0,
+    "county_fips": 51141,
+    "county_name": "Patrick",
+    "county_weights": "{\"51141\": 100}",
+    "county_names_all": "Patrick",
+    "county_fips_all": "51141",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 97145,
+    "lat": 45.84357,
+    "lng": -123.9516,
+    "city": "Tolovana Park",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 307.0,
+    "density": 46.5,
+    "county_fips": 41007,
+    "county_name": "Clatsop",
+    "county_weights": "{\"41007\": 100}",
+    "county_names_all": "Clatsop",
+    "county_fips_all": "41007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

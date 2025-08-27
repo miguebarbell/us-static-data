@@ -1,0 +1,20 @@
+{
+    "zip": 41472,
+    "lat": 37.94179,
+    "lng": -83.22334,
+    "city": "West Liberty",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10703.0,
+    "density": 15.3,
+    "county_fips": 21175,
+    "county_name": "Morgan",
+    "county_weights": "{\"21175\": 99.13, \"21063\": 0.87}",
+    "county_names_all": "Morgan|Elliott",
+    "county_fips_all": "21175|21063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

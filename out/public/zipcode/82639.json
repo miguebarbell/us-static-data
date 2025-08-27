@@ -1,0 +1,20 @@
+{
+    "zip": 82639,
+    "lat": 43.73555,
+    "lng": -106.6978,
+    "city": "Kaycee",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 649.0,
+    "density": 0.2,
+    "county_fips": 56019,
+    "county_name": "Johnson",
+    "county_weights": "{\"56019\": 94.35, \"56025\": 5.65}",
+    "county_names_all": "Johnson|Natrona",
+    "county_fips_all": "56019|56025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

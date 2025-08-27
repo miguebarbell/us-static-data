@@ -1,0 +1,20 @@
+{
+    "zip": 68428,
+    "lat": 40.97244,
+    "lng": -96.79624,
+    "city": "Raymond",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1370.0,
+    "density": 9.3,
+    "county_fips": 31109,
+    "county_name": "Lancaster",
+    "county_weights": "{\"31109\": 95.75, \"31159\": 4.25}",
+    "county_names_all": "Lancaster|Seward",
+    "county_fips_all": "31109|31159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

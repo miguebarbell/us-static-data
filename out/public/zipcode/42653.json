@@ -1,0 +1,20 @@
+{
+    "zip": 42653,
+    "lat": 36.78117,
+    "lng": -84.4618,
+    "city": "Whitley City",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3911.0,
+    "density": 18.6,
+    "county_fips": 21147,
+    "county_name": "McCreary",
+    "county_weights": "{\"21147\": 100}",
+    "county_names_all": "McCreary",
+    "county_fips_all": "21147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

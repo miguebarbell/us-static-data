@@ -1,0 +1,20 @@
+{
+    "zip": 54447,
+    "lat": 45.09061,
+    "lng": -90.72911,
+    "city": "Lublin",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 479.0,
+    "density": 4.1,
+    "county_fips": 55119,
+    "county_name": "Taylor",
+    "county_weights": "{\"55119\": 100}",
+    "county_names_all": "Taylor",
+    "county_fips_all": "55119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

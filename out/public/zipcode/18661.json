@@ -1,0 +1,20 @@
+{
+    "zip": 18661,
+    "lat": 41.08435,
+    "lng": -75.75666,
+    "city": "White Haven",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5541.0,
+    "density": 17.6,
+    "county_fips": 42079,
+    "county_name": "Luzerne",
+    "county_weights": "{\"42079\": 67.27, \"42025\": 32.73}",
+    "county_names_all": "Luzerne|Carbon",
+    "county_fips_all": "42079|42025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 16822,
+    "lat": 41.15813,
+    "lng": -77.71441,
+    "city": "Beech Creek",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1898.0,
+    "density": 7.3,
+    "county_fips": 42035,
+    "county_name": "Clinton",
+    "county_weights": "{\"42035\": 95.72, \"42027\": 4.28}",
+    "county_names_all": "Clinton|Centre",
+    "county_fips_all": "42035|42027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

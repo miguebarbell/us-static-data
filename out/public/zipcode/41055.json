@@ -1,0 +1,20 @@
+{
+    "zip": 41055,
+    "lat": 38.51787,
+    "lng": -83.86995,
+    "city": "Mayslick",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1611.0,
+    "density": 9.3,
+    "county_fips": 21161,
+    "county_name": "Mason",
+    "county_weights": "{\"21161\": 89.11, \"21069\": 6.73, \"21201\": 4.16}",
+    "county_names_all": "Mason|Fleming|Robertson",
+    "county_fips_all": "21161|21069|21201",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

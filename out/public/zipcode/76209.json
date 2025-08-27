@@ -1,0 +1,20 @@
+{
+    "zip": 76209,
+    "lat": 33.2315,
+    "lng": -97.11,
+    "city": "Denton",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 27859.0,
+    "density": 1616.6,
+    "county_fips": 48121,
+    "county_name": "Denton",
+    "county_weights": "{\"48121\": 100}",
+    "county_names_all": "Denton",
+    "county_fips_all": "48121",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

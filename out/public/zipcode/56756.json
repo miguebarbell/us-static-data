@@ -1,0 +1,20 @@
+{
+    "zip": 56756,
+    "lat": 48.90302,
+    "lng": -95.56388,
+    "city": "Salol",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 614.0,
+    "density": 1.8,
+    "county_fips": 27135,
+    "county_name": "Roseau",
+    "county_weights": "{\"27135\": 100}",
+    "county_names_all": "Roseau",
+    "county_fips_all": "27135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

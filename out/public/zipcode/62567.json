@@ -1,0 +1,20 @@
+{
+    "zip": 62567,
+    "lat": 39.64668,
+    "lng": -89.19082,
+    "city": "Stonington",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 861.0,
+    "density": 8.4,
+    "county_fips": 17021,
+    "county_name": "Christian",
+    "county_weights": "{\"17021\": 100}",
+    "county_names_all": "Christian",
+    "county_fips_all": "17021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

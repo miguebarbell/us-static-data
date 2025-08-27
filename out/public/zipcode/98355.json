@@ -1,0 +1,20 @@
+{
+    "zip": 98355,
+    "lat": 46.69179,
+    "lng": -122.03978,
+    "city": "Mineral",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 699.0,
+    "density": 1.6,
+    "county_fips": 53041,
+    "county_name": "Lewis",
+    "county_weights": "{\"53041\": 100}",
+    "county_names_all": "Lewis",
+    "county_fips_all": "53041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

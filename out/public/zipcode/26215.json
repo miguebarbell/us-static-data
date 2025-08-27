@@ -1,0 +1,20 @@
+{
+    "zip": 26215,
+    "lat": 38.71931,
+    "lng": -80.37915,
+    "city": "Cleveland",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 122.0,
+    "density": 11.3,
+    "county_fips": 54101,
+    "county_name": "Webster",
+    "county_weights": "{\"54101\": 99.85, \"54041\": 0.15}",
+    "county_names_all": "Webster|Lewis",
+    "county_fips_all": "54101|54041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 55358,
+    "lat": 45.24637,
+    "lng": -94.00049,
+    "city": "Maple Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5266.0,
+    "density": 37.3,
+    "county_fips": 27171,
+    "county_name": "Wright",
+    "county_weights": "{\"27171\": 100}",
+    "county_names_all": "Wright",
+    "county_fips_all": "27171",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

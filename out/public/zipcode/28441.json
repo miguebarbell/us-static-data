@@ -1,0 +1,20 @@
+{
+    "zip": 28441,
+    "lat": 34.79047,
+    "lng": -78.4355,
+    "city": "Garland",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2913.0,
+    "density": 7.8,
+    "county_fips": 37163,
+    "county_name": "Sampson",
+    "county_weights": "{\"37163\": 52.91, \"37017\": 47.09}",
+    "county_names_all": "Sampson|Bladen",
+    "county_fips_all": "37163|37017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

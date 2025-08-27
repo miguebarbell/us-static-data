@@ -1,0 +1,20 @@
+{
+    "zip": 49780,
+    "lat": 46.20913,
+    "lng": -84.6854,
+    "city": "Rudyard",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1606.0,
+    "density": 2.3,
+    "county_fips": 26033,
+    "county_name": "Chippewa",
+    "county_weights": "{\"26033\": 74.57, \"26097\": 25.43}",
+    "county_names_all": "Chippewa|Mackinac",
+    "county_fips_all": "26033|26097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

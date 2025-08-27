@@ -1,0 +1,20 @@
+{
+    "zip": 61872,
+    "lat": 39.93586,
+    "lng": -88.38018,
+    "city": "Sadorus",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 613.0,
+    "density": 6.5,
+    "county_fips": 17019,
+    "county_name": "Champaign",
+    "county_weights": "{\"17019\": 90.25, \"17041\": 9.75}",
+    "county_names_all": "Champaign|Douglas",
+    "county_fips_all": "17019|17041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

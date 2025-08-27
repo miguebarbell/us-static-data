@@ -1,0 +1,20 @@
+{
+    "zip": 18636,
+    "lat": 41.41215,
+    "lng": -76.08859,
+    "city": "Noxen",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1588.0,
+    "density": 16.3,
+    "county_fips": 42131,
+    "county_name": "Wyoming",
+    "county_weights": "{\"42131\": 88.29, \"42079\": 11.71}",
+    "county_names_all": "Wyoming|Luzerne",
+    "county_fips_all": "42131|42079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 93015,
+    "lat": 34.40969,
+    "lng": -118.87807,
+    "city": "Fillmore",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18917.0,
+    "density": 78.7,
+    "county_fips": 6111,
+    "county_name": "Ventura",
+    "county_weights": "{\"06111\": 100}",
+    "county_names_all": "Ventura",
+    "county_fips_all": "06111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

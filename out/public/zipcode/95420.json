@@ -1,0 +1,20 @@
+{
+    "zip": 95420,
+    "lat": 39.35638,
+    "lng": -123.76832,
+    "city": "Caspar",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 349.0,
+    "density": 18.5,
+    "county_fips": 6045,
+    "county_name": "Mendocino",
+    "county_weights": "{\"06045\": 100}",
+    "county_names_all": "Mendocino",
+    "county_fips_all": "06045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

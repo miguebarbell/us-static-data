@@ -1,0 +1,20 @@
+{
+    "zip": 24910,
+    "lat": 37.74173,
+    "lng": -80.66835,
+    "city": "Alderson",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4556.0,
+    "density": 13.1,
+    "county_fips": 54025,
+    "county_name": "Greenbrier",
+    "county_weights": "{\"54025\": 44.38, \"54089\": 32.59, \"54063\": 23.03}",
+    "county_names_all": "Greenbrier|Summers|Monroe",
+    "county_fips_all": "54025|54089|54063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

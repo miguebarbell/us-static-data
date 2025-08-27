@@ -1,0 +1,20 @@
+{
+    "zip": 4449,
+    "lat": 44.99761,
+    "lng": -68.88357,
+    "city": "Hudson",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1144.0,
+    "density": 11.8,
+    "county_fips": 23019,
+    "county_name": "Penobscot",
+    "county_weights": "{\"23019\": 100}",
+    "county_names_all": "Penobscot",
+    "county_fips_all": "23019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

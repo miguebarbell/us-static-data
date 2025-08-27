@@ -1,0 +1,20 @@
+{
+    "zip": 61336,
+    "lat": 41.1073,
+    "lng": -89.21727,
+    "city": "Magnolia",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 522.0,
+    "density": 5.4,
+    "county_fips": 17155,
+    "county_name": "Putnam",
+    "county_weights": "{\"17155\": 56.9, \"17123\": 43.1}",
+    "county_names_all": "Putnam|Marshall",
+    "county_fips_all": "17155|17123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

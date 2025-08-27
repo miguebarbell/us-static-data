@@ -1,0 +1,20 @@
+{
+    "zip": 64029,
+    "lat": 39.00634,
+    "lng": -94.21473,
+    "city": "Grain Valley",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21643.0,
+    "density": 262.6,
+    "county_fips": 29095,
+    "county_name": "Jackson",
+    "county_weights": "{\"29095\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "29095",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

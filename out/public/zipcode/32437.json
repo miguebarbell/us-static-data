@@ -1,0 +1,20 @@
+{
+    "zip": 32437,
+    "lat": 30.43315,
+    "lng": -85.90694,
+    "city": "Ebro",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 530.0,
+    "density": 5.9,
+    "county_fips": 12133,
+    "county_name": "Washington",
+    "county_weights": "{\"12133\": 77.53, \"12005\": 22.47}",
+    "county_names_all": "Washington|Bay",
+    "county_fips_all": "12133|12005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

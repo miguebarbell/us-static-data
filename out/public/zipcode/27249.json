@@ -1,0 +1,20 @@
+{
+    "zip": 27249,
+    "lat": 36.16014,
+    "lng": -79.58134,
+    "city": "Gibsonville",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13081.0,
+    "density": 84.4,
+    "county_fips": 37081,
+    "county_name": "Guilford",
+    "county_weights": "{\"37081\": 79.77, \"37001\": 8.89, \"37157\": 8.28, \"37033\": 3.06}",
+    "county_names_all": "Guilford|Alamance|Rockingham|Caswell",
+    "county_fips_all": "37081|37001|37157|37033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

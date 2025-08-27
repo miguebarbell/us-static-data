@@ -1,0 +1,20 @@
+{
+    "zip": 14756,
+    "lat": 42.19708,
+    "lng": -79.42373,
+    "city": "Maple Springs",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 36013,
+    "county_name": "Chautauqua",
+    "county_weights": "{\"36013\": 100}",
+    "county_names_all": "Chautauqua",
+    "county_fips_all": "36013",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

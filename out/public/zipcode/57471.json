@@ -1,0 +1,20 @@
+{
+    "zip": 57471,
+    "lat": 45.40967,
+    "lng": -99.31359,
+    "city": "Roscoe",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 514.0,
+    "density": 0.5,
+    "county_fips": 46045,
+    "county_name": "Edmunds",
+    "county_weights": "{\"46045\": 96.31, \"46089\": 3.69}",
+    "county_names_all": "Edmunds|McPherson",
+    "county_fips_all": "46045|46089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 28396,
+    "lat": 34.93948,
+    "lng": -79.40971,
+    "city": "Wagram",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2384.0,
+    "density": 16.9,
+    "county_fips": 37165,
+    "county_name": "Scotland",
+    "county_weights": "{\"37165\": 100}",
+    "county_names_all": "Scotland",
+    "county_fips_all": "37165",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

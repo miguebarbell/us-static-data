@@ -1,0 +1,20 @@
+{
+    "zip": 80482,
+    "lat": 39.90429,
+    "lng": -105.78404,
+    "city": "Winter Park",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1237.0,
+    "density": 3.4,
+    "county_fips": 8049,
+    "county_name": "Grand",
+    "county_weights": "{\"08049\": 100}",
+    "county_names_all": "Grand",
+    "county_fips_all": "08049",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

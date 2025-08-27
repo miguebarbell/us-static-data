@@ -1,0 +1,20 @@
+{
+    "zip": 96764,
+    "lat": 19.97766,
+    "lng": -155.23985,
+    "city": "Laupahoehoe",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 570.0,
+    "density": 90.6,
+    "county_fips": 15001,
+    "county_name": "Hawaii",
+    "county_weights": "{\"15001\": 100}",
+    "county_names_all": "Hawaii",
+    "county_fips_all": "15001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "Pacific/Honolulu"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 78638,
+    "lat": 29.65821,
+    "lng": -97.79595,
+    "city": "Kingsbury",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2064.0,
+    "density": 6.8,
+    "county_fips": 48187,
+    "county_name": "Guadalupe",
+    "county_weights": "{\"48187\": 98.34, \"48177\": 1.66}",
+    "county_names_all": "Guadalupe|Gonzales",
+    "county_fips_all": "48187|48177",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

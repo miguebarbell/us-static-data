@@ -1,0 +1,20 @@
+{
+    "zip": 42712,
+    "lat": 37.56098,
+    "lng": -86.15791,
+    "city": "Big Clifty",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1787.0,
+    "density": 12.7,
+    "county_fips": 21093,
+    "county_name": "Hardin",
+    "county_weights": "{\"21093\": 52.39, \"21085\": 47.61}",
+    "county_names_all": "Hardin|Grayson",
+    "county_fips_all": "21093|21085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

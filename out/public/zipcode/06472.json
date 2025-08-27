@@ -1,0 +1,20 @@
+{
+    "zip": 6472,
+    "lat": 41.38416,
+    "lng": -72.77911,
+    "city": "Northford",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6414.0,
+    "density": 154.2,
+    "county_fips": 9170,
+    "county_name": "South Central Connecticut",
+    "county_weights": "{\"09170\": 100}",
+    "county_names_all": "South Central Connecticut",
+    "county_fips_all": "09170",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

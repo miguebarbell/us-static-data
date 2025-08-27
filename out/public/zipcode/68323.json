@@ -1,0 +1,20 @@
+{
+    "zip": 68323,
+    "lat": 40.13197,
+    "lng": -96.37034,
+    "city": "Burchard",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 282.0,
+    "density": 1.0,
+    "county_fips": 31133,
+    "county_name": "Pawnee",
+    "county_weights": "{\"31133\": 100}",
+    "county_names_all": "Pawnee",
+    "county_fips_all": "31133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

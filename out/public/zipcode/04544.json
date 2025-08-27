@@ -1,0 +1,20 @@
+{
+    "zip": 4544,
+    "lat": 43.83316,
+    "lng": -69.58997,
+    "city": "East Boothbay",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 872.0,
+    "density": 89.6,
+    "county_fips": 23015,
+    "county_name": "Lincoln",
+    "county_weights": "{\"23015\": 100}",
+    "county_names_all": "Lincoln",
+    "county_fips_all": "23015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

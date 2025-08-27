@@ -1,0 +1,20 @@
+{
+    "zip": 56058,
+    "lat": 44.44424,
+    "lng": -93.91441,
+    "city": "Le Sueur",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6080.0,
+    "density": 18.5,
+    "county_fips": 27079,
+    "county_name": "Le Sueur",
+    "county_weights": "{\"27079\": 63.23, \"27143\": 25.51, \"27103\": 11.26}",
+    "county_names_all": "Le Sueur|Sibley|Nicollet",
+    "county_fips_all": "27079|27143|27103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

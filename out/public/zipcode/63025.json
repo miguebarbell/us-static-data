@@ -1,0 +1,20 @@
+{
+    "zip": 63025,
+    "lat": 38.4896,
+    "lng": -90.61666,
+    "city": "Eureka",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18483.0,
+    "density": 171.2,
+    "county_fips": 29189,
+    "county_name": "St. Louis",
+    "county_weights": "{\"29189\": 57.35, \"29099\": 42.65}",
+    "county_names_all": "St. Louis|Jefferson",
+    "county_fips_all": "29189|29099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

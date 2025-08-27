@@ -1,0 +1,20 @@
+{
+    "zip": 59739,
+    "lat": 44.65378,
+    "lng": -112.16963,
+    "city": "Lima",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 303.0,
+    "density": 0.1,
+    "county_fips": 30001,
+    "county_name": "Beaverhead",
+    "county_weights": "{\"30001\": 100}",
+    "county_names_all": "Beaverhead",
+    "county_fips_all": "30001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

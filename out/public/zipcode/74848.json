@@ -1,0 +1,20 @@
+{
+    "zip": 74848,
+    "lat": 35.08197,
+    "lng": -96.34804,
+    "city": "Holdenville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7965.0,
+    "density": 11.9,
+    "county_fips": 40063,
+    "county_name": "Hughes",
+    "county_weights": "{\"40063\": 97.48, \"40133\": 2.52}",
+    "county_names_all": "Hughes|Seminole",
+    "county_fips_all": "40063|40133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

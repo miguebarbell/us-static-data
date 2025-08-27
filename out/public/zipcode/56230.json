@@ -1,0 +1,20 @@
+{
+    "zip": 56230,
+    "lat": 44.79284,
+    "lng": -95.09288,
+    "city": "Danube",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 746.0,
+    "density": 4.6,
+    "county_fips": 27129,
+    "county_name": "Renville",
+    "county_weights": "{\"27129\": 100}",
+    "county_names_all": "Renville",
+    "county_fips_all": "27129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

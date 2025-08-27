@@ -1,0 +1,20 @@
+{
+    "zip": 59082,
+    "lat": 45.84041,
+    "lng": -110.29227,
+    "city": "Springdale",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20.0,
+    "density": 0.2,
+    "county_fips": 30067,
+    "county_name": "Park",
+    "county_weights": "{\"30067\": 65.8, \"30097\": 34.2}",
+    "county_names_all": "Park|Sweet Grass",
+    "county_fips_all": "30067|30097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

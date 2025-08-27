@@ -1,0 +1,20 @@
+{
+    "zip": 56474,
+    "lat": 46.72238,
+    "lng": -94.39597,
+    "city": "Pine River",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4471.0,
+    "density": 7.5,
+    "county_fips": 27021,
+    "county_name": "Cass",
+    "county_weights": "{\"27021\": 70.47, \"27035\": 29.53}",
+    "county_names_all": "Cass|Crow Wing",
+    "county_fips_all": "27021|27035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

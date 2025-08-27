@@ -1,0 +1,20 @@
+{
+    "zip": 16732,
+    "lat": 41.85921,
+    "lng": -78.60843,
+    "city": "Gifford",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 253.0,
+    "density": 16.0,
+    "county_fips": 42083,
+    "county_name": "McKean",
+    "county_weights": "{\"42083\": 100}",
+    "county_names_all": "McKean",
+    "county_fips_all": "42083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

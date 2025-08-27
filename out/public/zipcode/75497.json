@@ -1,0 +1,20 @@
+{
+    "zip": 75497,
+    "lat": 32.92098,
+    "lng": -95.5764,
+    "city": "Yantis",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3794.0,
+    "density": 23.3,
+    "county_fips": 48499,
+    "county_name": "Wood",
+    "county_weights": "{\"48499\": 80.43, \"48223\": 19.4, \"48379\": 0.17}",
+    "county_names_all": "Wood|Hopkins|Rains",
+    "county_fips_all": "48499|48223|48379",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

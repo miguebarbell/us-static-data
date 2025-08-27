@@ -1,0 +1,20 @@
+{
+    "zip": 15081,
+    "lat": 40.57471,
+    "lng": -80.23614,
+    "city": "South Heights",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 343.0,
+    "density": 427.3,
+    "county_fips": 42007,
+    "county_name": "Beaver",
+    "county_weights": "{\"42007\": 100}",
+    "county_names_all": "Beaver",
+    "county_fips_all": "42007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

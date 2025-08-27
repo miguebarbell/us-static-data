@@ -1,0 +1,20 @@
+{
+    "zip": 24167,
+    "lat": 37.24718,
+    "lng": -80.7345,
+    "city": "Staffordsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 231.0,
+    "density": 14.4,
+    "county_fips": 51071,
+    "county_name": "Giles",
+    "county_weights": "{\"51071\": 100}",
+    "county_names_all": "Giles",
+    "county_fips_all": "51071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

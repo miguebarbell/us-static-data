@@ -1,0 +1,20 @@
+{
+    "zip": 28645,
+    "lat": 35.97778,
+    "lng": -81.54371,
+    "city": "Lenoir",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 46237.0,
+    "density": 54.2,
+    "county_fips": 37027,
+    "county_name": "Caldwell",
+    "county_weights": "{\"37027\": 95.75, \"37189\": 2.43, \"37023\": 1.1, \"37193\": 0.72}",
+    "county_names_all": "Caldwell|Watauga|Burke|Wilkes",
+    "county_fips_all": "37027|37189|37023|37193",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

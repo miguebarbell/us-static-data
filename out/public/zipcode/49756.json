@@ -1,0 +1,20 @@
+{
+    "zip": 49756,
+    "lat": 44.81482,
+    "lng": -84.27339,
+    "city": "Lewiston",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3965.0,
+    "density": 8.0,
+    "county_fips": 26135,
+    "county_name": "Oscoda",
+    "county_weights": "{\"26135\": 60.72, \"26119\": 34.83, \"26039\": 2.52, \"26137\": 1.93}",
+    "county_names_all": "Oscoda|Montmorency|Crawford|Otsego",
+    "county_fips_all": "26135|26119|26039|26137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

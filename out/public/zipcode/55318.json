@@ -1,0 +1,20 @@
+{
+    "zip": 55318,
+    "lat": 44.81169,
+    "lng": -93.63703,
+    "city": "Chaska",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29884.0,
+    "density": 289.0,
+    "county_fips": 27019,
+    "county_name": "Carver",
+    "county_weights": "{\"27019\": 100}",
+    "county_names_all": "Carver",
+    "county_fips_all": "27019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

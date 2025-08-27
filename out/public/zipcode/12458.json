@@ -1,0 +1,20 @@
+{
+    "zip": 12458,
+    "lat": 41.82273,
+    "lng": -74.41666,
+    "city": "Napanoch",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3195.0,
+    "density": 31.2,
+    "county_fips": 36111,
+    "county_name": "Ulster",
+    "county_weights": "{\"36111\": 93.66, \"36105\": 6.34}",
+    "county_names_all": "Ulster|Sullivan",
+    "county_fips_all": "36111|36105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

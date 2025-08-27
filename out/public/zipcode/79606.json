@@ -1,0 +1,20 @@
+{
+    "zip": 79606,
+    "lat": 32.35477,
+    "lng": -99.83139,
+    "city": "Abilene",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29428.0,
+    "density": 163.4,
+    "county_fips": 48441,
+    "county_name": "Taylor",
+    "county_weights": "{\"48441\": 100}",
+    "county_names_all": "Taylor",
+    "county_fips_all": "48441",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

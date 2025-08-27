@@ -1,0 +1,20 @@
+{
+    "zip": 23140,
+    "lat": 37.43852,
+    "lng": -77.04818,
+    "city": "Providence Forge",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7533.0,
+    "density": 40.2,
+    "county_fips": 51127,
+    "county_name": "New Kent",
+    "county_weights": "{\"51127\": 57.97, \"51036\": 42.03}",
+    "county_names_all": "New Kent|Charles City",
+    "county_fips_all": "51127|51036",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

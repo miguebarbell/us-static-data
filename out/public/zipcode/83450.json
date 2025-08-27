@@ -1,0 +1,20 @@
+{
+    "zip": 83450,
+    "lat": 43.8463,
+    "lng": -112.41356,
+    "city": "Terreton",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1239.0,
+    "density": 3.7,
+    "county_fips": 16051,
+    "county_name": "Jefferson",
+    "county_weights": "{\"16051\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "16051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

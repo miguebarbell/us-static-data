@@ -1,0 +1,20 @@
+{
+    "zip": 17880,
+    "lat": 40.89109,
+    "lng": -77.12383,
+    "city": "Swengel",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7.0,
+    "density": 62.2,
+    "county_fips": 42119,
+    "county_name": "Union",
+    "county_weights": "{\"42119\": 100}",
+    "county_names_all": "Union",
+    "county_fips_all": "42119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

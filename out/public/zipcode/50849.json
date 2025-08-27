@@ -1,0 +1,20 @@
+{
+    "zip": 50849,
+    "lat": 41.30004,
+    "lng": -94.40176,
+    "city": "Greenfield",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2427.0,
+    "density": 8.2,
+    "county_fips": 19001,
+    "county_name": "Adair",
+    "county_weights": "{\"19001\": 100}",
+    "county_names_all": "Adair",
+    "county_fips_all": "19001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

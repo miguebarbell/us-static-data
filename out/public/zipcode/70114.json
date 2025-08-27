@@ -1,0 +1,20 @@
+{
+    "zip": 70114,
+    "lat": 29.93704,
+    "lng": -90.0321,
+    "city": "New Orleans",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 22132.0,
+    "density": 1690.9,
+    "county_fips": 22071,
+    "county_name": "Orleans",
+    "county_weights": "{\"22071\": 100}",
+    "county_names_all": "Orleans",
+    "county_fips_all": "22071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

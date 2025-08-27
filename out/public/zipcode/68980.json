@@ -1,0 +1,20 @@
+{
+    "zip": 68980,
+    "lat": 40.68213,
+    "lng": -98.25814,
+    "city": "Trumbull",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 452.0,
+    "density": 4.7,
+    "county_fips": 31035,
+    "county_name": "Clay",
+    "county_weights": "{\"31035\": 46.5, \"31001\": 26.64, \"31081\": 18.87, \"31079\": 7.99}",
+    "county_names_all": "Clay|Adams|Hamilton|Hall",
+    "county_fips_all": "31035|31001|31081|31079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

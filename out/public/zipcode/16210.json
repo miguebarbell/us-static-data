@@ -1,0 +1,20 @@
+{
+    "zip": 16210,
+    "lat": 40.89697,
+    "lng": -79.519,
+    "city": "Adrian",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 569.0,
+    "density": 9.8,
+    "county_fips": 42005,
+    "county_name": "Armstrong",
+    "county_weights": "{\"42005\": 100}",
+    "county_names_all": "Armstrong",
+    "county_fips_all": "42005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

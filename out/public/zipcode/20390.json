@@ -1,0 +1,20 @@
+{
+    "zip": 20390,
+    "lat": 38.87902,
+    "lng": -76.99375,
+    "city": "Washington",
+    "state_id": "DC",
+    "state_name": "District of Columbia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 298.0,
+    "density": 27251.9,
+    "county_fips": 11001,
+    "county_name": "District of Columbia",
+    "county_weights": "{\"11001\": 100}",
+    "county_names_all": "District of Columbia",
+    "county_fips_all": "11001",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

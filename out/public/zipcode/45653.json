@@ -1,0 +1,20 @@
+{
+    "zip": 45653,
+    "lat": 38.88976,
+    "lng": -82.82306,
+    "city": "Minford",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3742.0,
+    "density": 33.8,
+    "county_fips": 39145,
+    "county_name": "Scioto",
+    "county_weights": "{\"39145\": 98.73, \"39079\": 1.27}",
+    "county_names_all": "Scioto|Jackson",
+    "county_fips_all": "39145|39079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

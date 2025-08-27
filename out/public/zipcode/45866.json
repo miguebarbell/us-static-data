@@ -1,0 +1,20 @@
+{
+    "zip": 45866,
+    "lat": 40.48905,
+    "lng": -84.54969,
+    "city": "Montezuma",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 100.0,
+    "density": 377.7,
+    "county_fips": 39107,
+    "county_name": "Mercer",
+    "county_weights": "{\"39107\": 100}",
+    "county_names_all": "Mercer",
+    "county_fips_all": "39107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

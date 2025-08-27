@@ -1,0 +1,20 @@
+{
+    "zip": 90211,
+    "lat": 34.06498,
+    "lng": -118.38293,
+    "city": "Beverly Hills",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 8871.0,
+    "density": 4891.9,
+    "county_fips": 6037,
+    "county_name": "Los Angeles",
+    "county_weights": "{\"06037\": 100}",
+    "county_names_all": "Los Angeles",
+    "county_fips_all": "06037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

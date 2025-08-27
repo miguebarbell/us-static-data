@@ -1,0 +1,20 @@
+{
+    "zip": 26147,
+    "lat": 38.91368,
+    "lng": -81.07629,
+    "city": "Grantsville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1873.0,
+    "density": 15.7,
+    "county_fips": 54013,
+    "county_name": "Calhoun",
+    "county_weights": "{\"54013\": 92.32, \"54021\": 7.68}",
+    "county_names_all": "Calhoun|Gilmer",
+    "county_fips_all": "54013|54021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

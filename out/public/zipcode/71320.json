@@ -1,0 +1,20 @@
+{
+    "zip": 71320,
+    "lat": 31.09114,
+    "lng": -91.76985,
+    "city": "Bordelonville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 108.0,
+    "density": 0.8,
+    "county_fips": 22009,
+    "county_name": "Avoyelles",
+    "county_weights": "{\"22009\": 100}",
+    "county_names_all": "Avoyelles",
+    "county_fips_all": "22009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

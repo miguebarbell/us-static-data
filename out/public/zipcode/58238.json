@@ -1,0 +1,20 @@
+{
+    "zip": 58238,
+    "lat": 48.77953,
+    "lng": -97.39791,
+    "city": "Hamilton",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 145.0,
+    "density": 0.6,
+    "county_fips": 38067,
+    "county_name": "Pembina",
+    "county_weights": "{\"38067\": 100}",
+    "county_names_all": "Pembina",
+    "county_fips_all": "38067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

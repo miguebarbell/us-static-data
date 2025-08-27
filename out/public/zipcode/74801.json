@@ -1,0 +1,20 @@
+{
+    "zip": 74801,
+    "lat": 35.31749,
+    "lng": -96.96824,
+    "city": "Shawnee",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 21804.0,
+    "density": 113.6,
+    "county_fips": 40125,
+    "county_name": "Pottawatomie",
+    "county_weights": "{\"40125\": 100}",
+    "county_names_all": "Pottawatomie",
+    "county_fips_all": "40125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

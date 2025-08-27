@@ -1,0 +1,20 @@
+{
+    "zip": 76439,
+    "lat": 32.6176,
+    "lng": -97.92708,
+    "city": "Dennis",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 0.0,
+    "density": 0.0,
+    "county_fips": 48367,
+    "county_name": "Parker",
+    "county_weights": "{\"48367\": 100}",
+    "county_names_all": "Parker",
+    "county_fips_all": "48367",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

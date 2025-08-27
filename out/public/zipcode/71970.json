@@ -1,0 +1,20 @@
+{
+    "zip": 71970,
+    "lat": 34.66686,
+    "lng": -93.49024,
+    "city": "Story",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 665.0,
+    "density": 3.4,
+    "county_fips": 5097,
+    "county_name": "Montgomery",
+    "county_weights": "{\"05097\": 100}",
+    "county_names_all": "Montgomery",
+    "county_fips_all": "05097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

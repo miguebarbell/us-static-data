@@ -1,0 +1,20 @@
+{
+    "zip": 46528,
+    "lat": 41.60698,
+    "lng": -85.786,
+    "city": "Goshen",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 26356.0,
+    "density": 140.4,
+    "county_fips": 18039,
+    "county_name": "Elkhart",
+    "county_weights": "{\"18039\": 100}",
+    "county_names_all": "Elkhart",
+    "county_fips_all": "18039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

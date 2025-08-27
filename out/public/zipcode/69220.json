@@ -1,0 +1,20 @@
+{
+    "zip": 69220,
+    "lat": 42.92256,
+    "lng": -100.17198,
+    "city": "Sparks",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 71.0,
+    "density": 0.3,
+    "county_fips": 31103,
+    "county_name": "Keya Paha",
+    "county_weights": "{\"31103\": 66.08, \"31031\": 33.92}",
+    "county_names_all": "Keya Paha|Cherry",
+    "county_fips_all": "31103|31031",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

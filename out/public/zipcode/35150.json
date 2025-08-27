@@ -1,0 +1,20 @@
+{
+    "zip": 35150,
+    "lat": 33.18581,
+    "lng": -86.24454,
+    "city": "Sylacauga",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17118.0,
+    "density": 108.2,
+    "county_fips": 1121,
+    "county_name": "Talladega",
+    "county_weights": "{\"01121\": 97.31, \"01037\": 2.28, \"01027\": 0.41}",
+    "county_names_all": "Talladega|Coosa|Clay",
+    "county_fips_all": "01121|01037|01027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

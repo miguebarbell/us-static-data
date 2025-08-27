@@ -1,0 +1,20 @@
+{
+    "zip": 30147,
+    "lat": 34.13751,
+    "lng": -85.21877,
+    "city": "Lindale",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4855.0,
+    "density": 99.4,
+    "county_fips": 13115,
+    "county_name": "Floyd",
+    "county_weights": "{\"13115\": 92.54, \"13233\": 7.46}",
+    "county_names_all": "Floyd|Polk",
+    "county_fips_all": "13115|13233",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

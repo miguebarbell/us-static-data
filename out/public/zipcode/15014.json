@@ -1,0 +1,20 @@
+{
+    "zip": 15014,
+    "lat": 40.60859,
+    "lng": -79.74149,
+    "city": "Brackenridge",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3109.0,
+    "density": 2460.9,
+    "county_fips": 42003,
+    "county_name": "Allegheny",
+    "county_weights": "{\"42003\": 100}",
+    "county_names_all": "Allegheny",
+    "county_fips_all": "42003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

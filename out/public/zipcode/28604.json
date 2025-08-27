@@ -1,0 +1,20 @@
+{
+    "zip": 28604,
+    "lat": 36.17701,
+    "lng": -81.84745,
+    "city": "Banner Elk",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7280.0,
+    "density": 40.9,
+    "county_fips": 37189,
+    "county_name": "Watauga",
+    "county_weights": "{\"37189\": 57.65, \"37011\": 42.35}",
+    "county_names_all": "Watauga|Avery",
+    "county_fips_all": "37189|37011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

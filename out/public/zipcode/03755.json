@@ -1,0 +1,20 @@
+{
+    "zip": 3755,
+    "lat": 43.72377,
+    "lng": -72.19563,
+    "city": "Hanover",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10563.0,
+    "density": 139.7,
+    "county_fips": 33009,
+    "county_name": "Grafton",
+    "county_weights": "{\"33009\": 100}",
+    "county_names_all": "Grafton",
+    "county_fips_all": "33009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

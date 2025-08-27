@@ -1,0 +1,20 @@
+{
+    "zip": 54806,
+    "lat": 46.54784,
+    "lng": -90.85061,
+    "city": "Ashland",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 11708.0,
+    "density": 15.6,
+    "county_fips": 55003,
+    "county_name": "Ashland",
+    "county_weights": "{\"55003\": 66.88, \"55007\": 33.12}",
+    "county_names_all": "Ashland|Bayfield",
+    "county_fips_all": "55003|55007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

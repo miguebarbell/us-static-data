@@ -1,0 +1,20 @@
+{
+    "zip": 28630,
+    "lat": 35.82771,
+    "lng": -81.41998,
+    "city": "Granite Falls",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20400.0,
+    "density": 129.2,
+    "county_fips": 37027,
+    "county_name": "Caldwell",
+    "county_weights": "{\"37027\": 98.56, \"37003\": 1.44}",
+    "county_names_all": "Caldwell|Alexander",
+    "county_fips_all": "37027|37003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

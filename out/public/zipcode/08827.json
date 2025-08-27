@@ -1,0 +1,20 @@
+{
+    "zip": 8827,
+    "lat": 40.66775,
+    "lng": -74.97351,
+    "city": "Hampton",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4139.0,
+    "density": 88.3,
+    "county_fips": 34019,
+    "county_name": "Hunterdon",
+    "county_weights": "{\"34019\": 90.27, \"34041\": 9.73}",
+    "county_names_all": "Hunterdon|Warren",
+    "county_fips_all": "34019|34041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 32337,
+    "lat": 30.48307,
+    "lng": -84.02104,
+    "city": "Lloyd",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 83.0,
+    "density": 211.6,
+    "county_fips": 12065,
+    "county_name": "Jefferson",
+    "county_weights": "{\"12065\": 100}",
+    "county_names_all": "Jefferson",
+    "county_fips_all": "12065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

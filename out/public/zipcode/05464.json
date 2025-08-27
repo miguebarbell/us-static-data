@@ -1,0 +1,20 @@
+{
+    "zip": 5464,
+    "lat": 44.65469,
+    "lng": -72.81897,
+    "city": "Jeffersonville",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3125.0,
+    "density": 21.4,
+    "county_fips": 50015,
+    "county_name": "Lamoille",
+    "county_weights": "{\"50015\": 75.39, \"50011\": 24.61}",
+    "county_names_all": "Lamoille|Franklin",
+    "county_fips_all": "50015|50011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

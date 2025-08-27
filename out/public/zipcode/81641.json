@@ -1,0 +1,20 @@
+{
+    "zip": 81641,
+    "lat": 40.09112,
+    "lng": -107.84699,
+    "city": "Meeker",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3578.0,
+    "density": 0.8,
+    "county_fips": 8103,
+    "county_name": "Rio Blanco",
+    "county_weights": "{\"08103\": 83.0, \"08081\": 17.0}",
+    "county_names_all": "Rio Blanco|Moffat",
+    "county_fips_all": "08103|08081",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

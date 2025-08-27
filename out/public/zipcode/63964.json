@@ -1,0 +1,20 @@
+{
+    "zip": 63964,
+    "lat": 37.23954,
+    "lng": -90.39662,
+    "city": "Silva",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 664.0,
+    "density": 3.7,
+    "county_fips": 29223,
+    "county_name": "Wayne",
+    "county_weights": "{\"29223\": 95.32, \"29123\": 4.68}",
+    "county_names_all": "Wayne|Madison",
+    "county_fips_all": "29223|29123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

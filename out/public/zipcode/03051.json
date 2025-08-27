@@ -1,0 +1,20 @@
+{
+    "zip": 3051,
+    "lat": 42.76394,
+    "lng": -71.40716,
+    "city": "Hudson",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25476.0,
+    "density": 347.8,
+    "county_fips": 33011,
+    "county_name": "Hillsborough",
+    "county_weights": "{\"33011\": 100}",
+    "county_names_all": "Hillsborough",
+    "county_fips_all": "33011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

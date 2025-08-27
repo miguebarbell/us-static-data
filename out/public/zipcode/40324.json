@@ -1,0 +1,20 @@
+{
+    "zip": 40324,
+    "lat": 38.24786,
+    "lng": -84.54956,
+    "city": "Georgetown",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 52173.0,
+    "density": 129.9,
+    "county_fips": 21209,
+    "county_name": "Scott",
+    "county_weights": "{\"21209\": 96.06, \"21017\": 2.2, \"21067\": 1.74}",
+    "county_names_all": "Scott|Bourbon|Fayette",
+    "county_fips_all": "21209|21017|21067",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

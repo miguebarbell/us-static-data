@@ -1,0 +1,20 @@
+{
+    "zip": 48081,
+    "lat": 42.4955,
+    "lng": -82.89912,
+    "city": "Saint Clair Shores",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 20254.0,
+    "density": 1999.8,
+    "county_fips": 26099,
+    "county_name": "Macomb",
+    "county_weights": "{\"26099\": 100}",
+    "county_names_all": "Macomb",
+    "county_fips_all": "26099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 54977,
+    "lat": 44.45696,
+    "lng": -89.16471,
+    "city": "Scandinavia",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1448.0,
+    "density": 14.6,
+    "county_fips": 55135,
+    "county_name": "Waupaca",
+    "county_weights": "{\"55135\": 88.17, \"55097\": 11.83}",
+    "county_names_all": "Waupaca|Portage",
+    "county_fips_all": "55135|55097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

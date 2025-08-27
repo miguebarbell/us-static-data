@@ -1,0 +1,20 @@
+{
+    "zip": 17221,
+    "lat": 40.05796,
+    "lng": -77.82019,
+    "city": "Fannettsburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 496.0,
+    "density": 16.5,
+    "county_fips": 42055,
+    "county_name": "Franklin",
+    "county_weights": "{\"42055\": 100}",
+    "county_names_all": "Franklin",
+    "county_fips_all": "42055",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

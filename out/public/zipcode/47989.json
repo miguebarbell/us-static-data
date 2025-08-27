@@ -1,0 +1,20 @@
+{
+    "zip": 47989,
+    "lat": 39.88871,
+    "lng": -87.05243,
+    "city": "Waveland",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1243.0,
+    "density": 12.0,
+    "county_fips": 18107,
+    "county_name": "Montgomery",
+    "county_weights": "{\"18107\": 65.39, \"18121\": 32.85, \"18133\": 1.76}",
+    "county_names_all": "Montgomery|Parke|Putnam",
+    "county_fips_all": "18107|18121|18133",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

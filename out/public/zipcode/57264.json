@@ -1,0 +1,20 @@
+{
+    "zip": 57264,
+    "lat": 45.10863,
+    "lng": -96.80254,
+    "city": "Stockholm",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 174.0,
+    "density": 1.5,
+    "county_fips": 46051,
+    "county_name": "Grant",
+    "county_weights": "{\"46051\": 100}",
+    "county_names_all": "Grant",
+    "county_fips_all": "46051",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

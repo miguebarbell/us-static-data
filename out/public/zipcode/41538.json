@@ -1,0 +1,20 @@
+{
+    "zip": 41538,
+    "lat": 37.30338,
+    "lng": -82.58891,
+    "city": "Jonancy",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 350.0,
+    "density": 48.2,
+    "county_fips": 21195,
+    "county_name": "Pike",
+    "county_weights": "{\"21195\": 100}",
+    "county_names_all": "Pike",
+    "county_fips_all": "21195",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

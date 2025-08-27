@@ -1,0 +1,20 @@
+{
+    "zip": 83250,
+    "lat": 42.67228,
+    "lng": -112.20865,
+    "city": "Mccammon",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1936.0,
+    "density": 8.8,
+    "county_fips": 16005,
+    "county_name": "Bannock",
+    "county_weights": "{\"16005\": 100}",
+    "county_names_all": "Bannock",
+    "county_fips_all": "16005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Boise"
+}

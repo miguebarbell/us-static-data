@@ -1,0 +1,20 @@
+{
+    "zip": 59538,
+    "lat": 48.02231,
+    "lng": -107.8657,
+    "city": "Malta",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2842.0,
+    "density": 0.4,
+    "county_fips": 30071,
+    "county_name": "Phillips",
+    "county_weights": "{\"30071\": 100}",
+    "county_names_all": "Phillips",
+    "county_fips_all": "30071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

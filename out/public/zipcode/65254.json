@@ -1,0 +1,20 @@
+{
+    "zip": 65254,
+    "lat": 39.21228,
+    "lng": -92.85351,
+    "city": "Glasgow",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1808.0,
+    "density": 6.7,
+    "county_fips": 29089,
+    "county_name": "Howard",
+    "county_weights": "{\"29089\": 67.26, \"29041\": 32.74}",
+    "county_names_all": "Howard|Chariton",
+    "county_fips_all": "29089|29041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

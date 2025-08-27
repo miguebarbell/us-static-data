@@ -1,0 +1,20 @@
+{
+    "zip": 37185,
+    "lat": 36.07118,
+    "lng": -87.8392,
+    "city": "Waverly",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9120.0,
+    "density": 15.7,
+    "county_fips": 47085,
+    "county_name": "Humphreys",
+    "county_weights": "{\"47085\": 99.73, \"47083\": 0.27}",
+    "county_names_all": "Humphreys|Houston",
+    "county_fips_all": "47085|47083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

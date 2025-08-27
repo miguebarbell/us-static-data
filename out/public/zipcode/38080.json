@@ -1,0 +1,20 @@
+{
+    "zip": 38080,
+    "lat": 36.20295,
+    "lng": -89.52142,
+    "city": "Ridgely",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2492.0,
+    "density": 6.9,
+    "county_fips": 47095,
+    "county_name": "Lake",
+    "county_weights": "{\"47095\": 52.4, \"47045\": 45.37, \"47131\": 2.23}",
+    "county_names_all": "Lake|Dyer|Obion",
+    "county_fips_all": "47095|47045|47131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

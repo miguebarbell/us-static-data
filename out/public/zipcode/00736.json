@@ -1,0 +1,20 @@
+{
+    "zip": 736,
+    "lat": 18.10736,
+    "lng": -66.14994,
+    "city": "Cayey",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 45528.0,
+    "density": 320.2,
+    "county_fips": 72035,
+    "county_name": "Cayey",
+    "county_weights": "{\"72035\": 92.47, \"72041\": 7.53}",
+    "county_names_all": "Cayey|Cidra",
+    "county_fips_all": "72035|72041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

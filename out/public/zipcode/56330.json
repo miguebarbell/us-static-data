@@ -1,0 +1,20 @@
+{
+    "zip": 56330,
+    "lat": 45.75018,
+    "lng": -93.75117,
+    "city": "Foreston",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2063.0,
+    "density": 20.2,
+    "county_fips": 27095,
+    "county_name": "Mille Lacs",
+    "county_weights": "{\"27095\": 62.62, \"27009\": 37.38}",
+    "county_names_all": "Mille Lacs|Benton",
+    "county_fips_all": "27095|27009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

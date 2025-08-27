@@ -1,0 +1,20 @@
+{
+    "zip": 43724,
+    "lat": 39.73267,
+    "lng": -81.5166,
+    "city": "Caldwell",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9007.0,
+    "density": 22.4,
+    "county_fips": 39121,
+    "county_name": "Noble",
+    "county_weights": "{\"39121\": 93.96, \"39115\": 5.81, \"39059\": 0.23}",
+    "county_names_all": "Noble|Morgan|Guernsey",
+    "county_fips_all": "39121|39115|39059",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 47959,
+    "lat": 40.86603,
+    "lng": -86.89786,
+    "city": "Monon",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2557.0,
+    "density": 14.5,
+    "county_fips": 18181,
+    "county_name": "White",
+    "county_weights": "{\"18181\": 85.23, \"18073\": 11.71, \"18131\": 3.06}",
+    "county_names_all": "White|Jasper|Pulaski",
+    "county_fips_all": "18181|18073|18131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

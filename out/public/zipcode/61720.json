@@ -1,0 +1,20 @@
+{
+    "zip": 61720,
+    "lat": 40.55228,
+    "lng": -88.50498,
+    "city": "Anchor",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 347.0,
+    "density": 4.5,
+    "county_fips": 17113,
+    "county_name": "McLean",
+    "county_weights": "{\"17113\": 87.22, \"17053\": 12.78}",
+    "county_names_all": "McLean|Ford",
+    "county_fips_all": "17113|17053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 78564,
+    "lat": 26.67801,
+    "lng": -99.13171,
+    "city": "Lopeno",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 51.0,
+    "density": 1.0,
+    "county_fips": 48505,
+    "county_name": "Zapata",
+    "county_weights": "{\"48505\": 100}",
+    "county_names_all": "Zapata",
+    "county_fips_all": "48505",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

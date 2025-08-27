@@ -1,0 +1,20 @@
+{
+    "zip": 3590,
+    "lat": 44.74195,
+    "lng": -71.51485,
+    "city": "North Stratford",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1140.0,
+    "density": 4.0,
+    "county_fips": 33007,
+    "county_name": "Coos",
+    "county_weights": "{\"33007\": 100}",
+    "county_names_all": "Coos",
+    "county_fips_all": "33007",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

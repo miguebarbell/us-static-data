@@ -1,0 +1,20 @@
+{
+    "zip": 738,
+    "lat": 18.31793,
+    "lng": -65.66793,
+    "city": "Fajardo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 29797.0,
+    "density": 388.4,
+    "county_fips": 72053,
+    "county_name": "Fajardo",
+    "county_weights": "{\"72053\": 99.58, \"72037\": 0.42}",
+    "county_names_all": "Fajardo|Ceiba",
+    "county_fips_all": "72053|72037",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 56601,
+    "lat": 47.50985,
+    "lng": -94.84921,
+    "city": "Bemidji",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 34700.0,
+    "density": 36.1,
+    "county_fips": 27007,
+    "county_name": "Beltrami",
+    "county_weights": "{\"27007\": 83.98, \"27057\": 16.02}",
+    "county_names_all": "Beltrami|Hubbard",
+    "county_fips_all": "27007|27057",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

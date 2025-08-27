@@ -1,0 +1,20 @@
+{
+    "zip": 48360,
+    "lat": 42.74903,
+    "lng": -83.26789,
+    "city": "Lake Orion",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 12250.0,
+    "density": 415.9,
+    "county_fips": 26125,
+    "county_name": "Oakland",
+    "county_weights": "{\"26125\": 100}",
+    "county_names_all": "Oakland",
+    "county_fips_all": "26125",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

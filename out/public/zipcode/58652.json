@@ -1,0 +1,20 @@
+{
+    "zip": 58652,
+    "lat": 46.88854,
+    "lng": -102.27037,
+    "city": "Richardton",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1224.0,
+    "density": 1.2,
+    "county_fips": 38089,
+    "county_name": "Stark",
+    "county_weights": "{\"38089\": 72.43, \"38025\": 27.57}",
+    "county_names_all": "Stark|Dunn",
+    "county_fips_all": "38089|38025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

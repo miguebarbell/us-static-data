@@ -1,0 +1,20 @@
+{
+    "zip": 71375,
+    "lat": 31.84632,
+    "lng": -91.47226,
+    "city": "Waterproof",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1090.0,
+    "density": 3.2,
+    "county_fips": 22107,
+    "county_name": "Tensas",
+    "county_weights": "{\"22107\": 100}",
+    "county_names_all": "Tensas",
+    "county_fips_all": "22107",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

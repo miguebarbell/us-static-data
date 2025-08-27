@@ -1,0 +1,20 @@
+{
+    "zip": 97001,
+    "lat": 44.93328,
+    "lng": -120.64169,
+    "city": "Antelope",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 373.0,
+    "density": 0.5,
+    "county_fips": 41065,
+    "county_name": "Wasco",
+    "county_weights": "{\"41065\": 100}",
+    "county_names_all": "Wasco",
+    "county_fips_all": "41065",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

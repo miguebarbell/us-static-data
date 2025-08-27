@@ -1,0 +1,20 @@
+{
+    "zip": 75495,
+    "lat": 33.43246,
+    "lng": -96.55041,
+    "city": "Van Alstyne",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 10451.0,
+    "density": 59.6,
+    "county_fips": 48181,
+    "county_name": "Grayson",
+    "county_weights": "{\"48181\": 94.46, \"48085\": 5.54}",
+    "county_names_all": "Grayson|Collin",
+    "county_fips_all": "48181|48085",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

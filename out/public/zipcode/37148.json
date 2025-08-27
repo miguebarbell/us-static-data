@@ -1,0 +1,20 @@
+{
+    "zip": 37148,
+    "lat": 36.57694,
+    "lng": -86.50224,
+    "city": "Portland",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25421.0,
+    "density": 74.4,
+    "county_fips": 47165,
+    "county_name": "Sumner",
+    "county_weights": "{\"47165\": 85.19, \"47147\": 14.81}",
+    "county_names_all": "Sumner|Robertson",
+    "county_fips_all": "47165|47147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

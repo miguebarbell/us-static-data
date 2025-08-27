@@ -1,0 +1,20 @@
+{
+    "zip": 93657,
+    "lat": 36.78853,
+    "lng": -119.4378,
+    "city": "Sanger",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 36536.0,
+    "density": 62.5,
+    "county_fips": 6019,
+    "county_name": "Fresno",
+    "county_weights": "{\"06019\": 100}",
+    "county_names_all": "Fresno",
+    "county_fips_all": "06019",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

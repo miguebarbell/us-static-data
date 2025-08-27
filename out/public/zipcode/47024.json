@@ -1,0 +1,20 @@
+{
+    "zip": 47024,
+    "lat": 39.47611,
+    "lng": -85.19724,
+    "city": "Laurel",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2909.0,
+    "density": 17.1,
+    "county_fips": 18047,
+    "county_name": "Franklin",
+    "county_weights": "{\"18047\": 99.05, \"18041\": 0.95}",
+    "county_names_all": "Franklin|Fayette",
+    "county_fips_all": "18047|18041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

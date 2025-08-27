@@ -1,0 +1,20 @@
+{
+    "zip": 49415,
+    "lat": 43.15238,
+    "lng": -86.1166,
+    "city": "Fruitport",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6296.0,
+    "density": 88.0,
+    "county_fips": 26121,
+    "county_name": "Muskegon",
+    "county_weights": "{\"26121\": 91.8, \"26139\": 8.2}",
+    "county_names_all": "Muskegon|Ottawa",
+    "county_fips_all": "26121|26139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

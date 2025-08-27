@@ -1,0 +1,20 @@
+{
+    "zip": 603,
+    "lat": 18.45744,
+    "lng": -67.12225,
+    "city": "Aguadilla",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 48317.0,
+    "density": 543.1,
+    "county_fips": 72005,
+    "county_name": "Aguadilla",
+    "county_weights": "{\"72005\": 99.76, \"72099\": 0.24}",
+    "county_names_all": "Aguadilla|Moca",
+    "county_fips_all": "72005|72099",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Puerto_Rico"
+}

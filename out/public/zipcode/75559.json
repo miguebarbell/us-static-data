@@ -1,0 +1,20 @@
+{
+    "zip": 75559,
+    "lat": 33.49929,
+    "lng": -94.63931,
+    "city": "De Kalb",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5276.0,
+    "density": 7.0,
+    "county_fips": 48037,
+    "county_name": "Bowie",
+    "county_weights": "{\"48037\": 91.92, \"48387\": 8.08}",
+    "county_names_all": "Bowie|Red River",
+    "county_fips_all": "48037|48387",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

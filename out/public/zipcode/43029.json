@@ -1,0 +1,20 @@
+{
+    "zip": 43029,
+    "lat": 40.09598,
+    "lng": -83.45408,
+    "city": "Irwin",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 524.0,
+    "density": 8.6,
+    "county_fips": 39097,
+    "county_name": "Madison",
+    "county_weights": "{\"39097\": 78.68, \"39159\": 21.32}",
+    "county_names_all": "Madison|Union",
+    "county_fips_all": "39097|39159",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 25213,
+    "lat": 38.50776,
+    "lng": -81.91796,
+    "city": "Winfield",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6274.0,
+    "density": 67.5,
+    "county_fips": 54079,
+    "county_name": "Putnam",
+    "county_weights": "{\"54079\": 100}",
+    "county_names_all": "Putnam",
+    "county_fips_all": "54079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

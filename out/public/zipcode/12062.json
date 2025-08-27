@@ -1,0 +1,20 @@
+{
+    "zip": 12062,
+    "lat": 42.52871,
+    "lng": -73.501,
+    "city": "East Nassau",
+    "state_id": "NY",
+    "state_name": "New York",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1723.0,
+    "density": 20.0,
+    "county_fips": 36083,
+    "county_name": "Rensselaer",
+    "county_weights": "{\"36083\": 90.47, \"36021\": 9.53}",
+    "county_names_all": "Rensselaer|Columbia",
+    "county_fips_all": "36083|36021",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

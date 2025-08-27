@@ -1,0 +1,20 @@
+{
+    "zip": 43151,
+    "lat": 39.73317,
+    "lng": -83.47661,
+    "city": "Sedalia",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 223.0,
+    "density": 331.4,
+    "county_fips": 39097,
+    "county_name": "Madison",
+    "county_weights": "{\"39097\": 100}",
+    "county_names_all": "Madison",
+    "county_fips_all": "39097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

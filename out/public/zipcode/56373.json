@@ -1,0 +1,20 @@
+{
+    "zip": 56373,
+    "lat": 45.85456,
+    "lng": -94.23789,
+    "city": "Royalton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3248.0,
+    "density": 12.6,
+    "county_fips": 27097,
+    "county_name": "Morrison",
+    "county_weights": "{\"27097\": 90.35, \"27009\": 9.65}",
+    "county_names_all": "Morrison|Benton",
+    "county_fips_all": "27097|27009",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

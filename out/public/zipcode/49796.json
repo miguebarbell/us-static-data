@@ -1,0 +1,20 @@
+{
+    "zip": 49796,
+    "lat": 45.27407,
+    "lng": -84.94712,
+    "city": "Walloon Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 316.0,
+    "density": 77.1,
+    "county_fips": 26029,
+    "county_name": "Charlevoix",
+    "county_weights": "{\"26029\": 100}",
+    "county_names_all": "Charlevoix",
+    "county_fips_all": "26029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

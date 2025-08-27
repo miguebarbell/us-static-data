@@ -1,0 +1,20 @@
+{
+    "zip": 88337,
+    "lat": 32.99141,
+    "lng": -105.89025,
+    "city": "La Luz",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1945.0,
+    "density": 18.6,
+    "county_fips": 35035,
+    "county_name": "Otero",
+    "county_weights": "{\"35035\": 100}",
+    "county_names_all": "Otero",
+    "county_fips_all": "35035",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

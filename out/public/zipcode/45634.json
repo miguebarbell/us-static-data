@@ -1,0 +1,20 @@
+{
+    "zip": 45634,
+    "lat": 39.17891,
+    "lng": -82.49037,
+    "city": "Hamden",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1562.0,
+    "density": 17.4,
+    "county_fips": 39163,
+    "county_name": "Vinton",
+    "county_weights": "{\"39163\": 98.65, \"39079\": 1.35}",
+    "county_names_all": "Vinton|Jackson",
+    "county_fips_all": "39163|39079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

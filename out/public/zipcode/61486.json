@@ -1,0 +1,20 @@
+{
+    "zip": 61486,
+    "lat": 41.19609,
+    "lng": -90.57614,
+    "city": "Viola",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1429.0,
+    "density": 12.7,
+    "county_fips": 17131,
+    "county_name": "Mercer",
+    "county_weights": "{\"17131\": 100}",
+    "county_names_all": "Mercer",
+    "county_fips_all": "17131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

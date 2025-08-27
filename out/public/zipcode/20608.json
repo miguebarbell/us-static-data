@@ -1,0 +1,20 @@
+{
+    "zip": 20608,
+    "lat": 38.58638,
+    "lng": -76.70702,
+    "city": "Aquasco",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 629.0,
+    "density": 13.7,
+    "county_fips": 24033,
+    "county_name": "Prince George's",
+    "county_weights": "{\"24033\": 100}",
+    "county_names_all": "Prince George's",
+    "county_fips_all": "24033",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

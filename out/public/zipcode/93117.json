@@ -1,0 +1,20 @@
+{
+    "zip": 93117,
+    "lat": 34.49102,
+    "lng": -120.08201,
+    "city": "Goleta",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 52225.0,
+    "density": 120.0,
+    "county_fips": 6083,
+    "county_name": "Santa Barbara",
+    "county_weights": "{\"06083\": 100}",
+    "county_names_all": "Santa Barbara",
+    "county_fips_all": "06083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 55772,
+    "lat": 48.11019,
+    "lng": -93.10032,
+    "city": "Nett Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 83.0,
+    "density": 155.8,
+    "county_fips": 27071,
+    "county_name": "Koochiching",
+    "county_weights": "{\"27071\": 94.45, \"27137\": 5.55}",
+    "county_names_all": "Koochiching|St. Louis",
+    "county_fips_all": "27071|27137",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

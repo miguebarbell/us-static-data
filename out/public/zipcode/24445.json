@@ -1,0 +1,20 @@
+{
+    "zip": 24445,
+    "lat": 37.96615,
+    "lng": -79.88013,
+    "city": "Hot Springs",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2395.0,
+    "density": 9.6,
+    "county_fips": 51017,
+    "county_name": "Bath",
+    "county_weights": "{\"51017\": 79.14, \"51005\": 20.86}",
+    "county_names_all": "Bath|Alleghany",
+    "county_fips_all": "51017|51005",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

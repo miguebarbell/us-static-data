@@ -1,0 +1,20 @@
+{
+    "zip": 39426,
+    "lat": 30.65375,
+    "lng": -89.65709,
+    "city": "Carriere",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17555.0,
+    "density": 37.1,
+    "county_fips": 28109,
+    "county_name": "Pearl River",
+    "county_weights": "{\"28109\": 89.75, \"28045\": 10.25}",
+    "county_names_all": "Pearl River|Hancock",
+    "county_fips_all": "28109|28045",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

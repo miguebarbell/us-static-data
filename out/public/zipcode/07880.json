@@ -1,0 +1,20 @@
+{
+    "zip": 7880,
+    "lat": 40.874,
+    "lng": -74.88503,
+    "city": "Vienna",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 195.0,
+    "density": 68.5,
+    "county_fips": 34041,
+    "county_name": "Warren",
+    "county_weights": "{\"34041\": 100}",
+    "county_names_all": "Warren",
+    "county_fips_all": "34041",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

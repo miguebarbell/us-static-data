@@ -1,0 +1,20 @@
+{
+    "zip": 31566,
+    "lat": 31.18357,
+    "lng": -81.8084,
+    "city": "Waynesville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4007.0,
+    "density": 23.7,
+    "county_fips": 13025,
+    "county_name": "Brantley",
+    "county_weights": "{\"13025\": 79.44, \"13127\": 13.61, \"13039\": 6.95}",
+    "county_names_all": "Brantley|Glynn|Camden",
+    "county_fips_all": "13025|13127|13039",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

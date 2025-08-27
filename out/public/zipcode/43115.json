@@ -1,0 +1,20 @@
+{
+    "zip": 43115,
+    "lat": 39.48989,
+    "lng": -83.16579,
+    "city": "Clarksburg",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1840.0,
+    "density": 16.0,
+    "county_fips": 39141,
+    "county_name": "Ross",
+    "county_weights": "{\"39141\": 83.27, \"39129\": 16.73}",
+    "county_names_all": "Ross|Pickaway",
+    "county_fips_all": "39141|39129",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

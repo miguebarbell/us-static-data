@@ -1,0 +1,20 @@
+{
+    "zip": 68461,
+    "lat": 40.76682,
+    "lng": -96.51419,
+    "city": "Walton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 732.0,
+    "density": 12.0,
+    "county_fips": 31109,
+    "county_name": "Lancaster",
+    "county_weights": "{\"31109\": 100}",
+    "county_names_all": "Lancaster",
+    "county_fips_all": "31109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

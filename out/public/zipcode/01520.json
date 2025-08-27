@@ -1,0 +1,20 @@
+{
+    "zip": 1520,
+    "lat": 42.33685,
+    "lng": -71.85181,
+    "city": "Holden",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16864.0,
+    "density": 345.9,
+    "county_fips": 25027,
+    "county_name": "Worcester",
+    "county_weights": "{\"25027\": 100}",
+    "county_names_all": "Worcester",
+    "county_fips_all": "25027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

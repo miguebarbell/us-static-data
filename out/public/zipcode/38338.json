@@ -1,0 +1,20 @@
+{
+    "zip": 38338,
+    "lat": 35.87483,
+    "lng": -88.84863,
+    "city": "Gibson",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 67.0,
+    "density": 255.7,
+    "county_fips": 47053,
+    "county_name": "Gibson",
+    "county_weights": "{\"47053\": 100}",
+    "county_names_all": "Gibson",
+    "county_fips_all": "47053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

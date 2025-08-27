@@ -1,0 +1,20 @@
+{
+    "zip": 91377,
+    "lat": 34.1847,
+    "lng": -118.76652,
+    "city": "Oak Park",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13656.0,
+    "density": 977.4,
+    "county_fips": 6111,
+    "county_name": "Ventura",
+    "county_weights": "{\"06111\": 100}",
+    "county_names_all": "Ventura",
+    "county_fips_all": "06111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

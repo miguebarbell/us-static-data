@@ -1,0 +1,20 @@
+{
+    "zip": 66052,
+    "lat": 39.00998,
+    "lng": -95.04678,
+    "city": "Linwood",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2104.0,
+    "density": 19.9,
+    "county_fips": 20103,
+    "county_name": "Leavenworth",
+    "county_weights": "{\"20103\": 100}",
+    "county_names_all": "Leavenworth",
+    "county_fips_all": "20103",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

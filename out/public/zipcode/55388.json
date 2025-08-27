@@ -1,0 +1,20 @@
+{
+    "zip": 55388,
+    "lat": 44.95,
+    "lng": -93.84729,
+    "city": "Watertown",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 5974.0,
+    "density": 61.3,
+    "county_fips": 27019,
+    "county_name": "Carver",
+    "county_weights": "{\"27019\": 80.01, \"27171\": 15.15, \"27053\": 4.84}",
+    "county_names_all": "Carver|Wright|Hennepin",
+    "county_fips_all": "27019|27171|27053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 58559,
+    "lat": 47.4849,
+    "lng": -100.71295,
+    "city": "Mercer",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 393.0,
+    "density": 0.9,
+    "county_fips": 38055,
+    "county_name": "McLean",
+    "county_weights": "{\"38055\": 73.37, \"38083\": 26.63}",
+    "county_names_all": "McLean|Sheridan",
+    "county_fips_all": "38055|38083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

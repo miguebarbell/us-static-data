@@ -1,0 +1,20 @@
+{
+    "zip": 31316,
+    "lat": 31.7183,
+    "lng": -81.73457,
+    "city": "Ludowici",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 13421.0,
+    "density": 18.1,
+    "county_fips": 13183,
+    "county_name": "Long",
+    "county_weights": "{\"13183\": 100}",
+    "county_names_all": "Long",
+    "county_fips_all": "13183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

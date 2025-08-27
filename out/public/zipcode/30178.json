@@ -1,0 +1,20 @@
+{
+    "zip": 30178,
+    "lat": 34.09709,
+    "lng": -84.97051,
+    "city": "Taylorsville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4202.0,
+    "density": 27.5,
+    "county_fips": 13015,
+    "county_name": "Bartow",
+    "county_weights": "{\"13015\": 60.87, \"13233\": 22.37, \"13223\": 16.76}",
+    "county_names_all": "Bartow|Polk|Paulding",
+    "county_fips_all": "13015|13233|13223",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

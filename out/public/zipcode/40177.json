@@ -1,0 +1,20 @@
+{
+    "zip": 40177,
+    "lat": 38.0009,
+    "lng": -85.92502,
+    "city": "West Point",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1627.0,
+    "density": 40.6,
+    "county_fips": 21029,
+    "county_name": "Bullitt",
+    "county_weights": "{\"21029\": 48.44, \"21093\": 44.38, \"21111\": 7.18}",
+    "county_names_all": "Bullitt|Hardin|Jefferson",
+    "county_fips_all": "21029|21093|21111",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

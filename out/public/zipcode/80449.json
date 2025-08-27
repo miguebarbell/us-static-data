@@ -1,0 +1,20 @@
+{
+    "zip": 80449,
+    "lat": 38.93059,
+    "lng": -105.79169,
+    "city": "Hartsel",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1024.0,
+    "density": 0.9,
+    "county_fips": 8093,
+    "county_name": "Park",
+    "county_weights": "{\"08093\": 97.52, \"08015\": 2.48}",
+    "county_names_all": "Park|Chaffee",
+    "county_fips_all": "08093|08015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 31038,
+    "lat": 33.15554,
+    "lng": -83.61644,
+    "city": "Hillsboro",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 838.0,
+    "density": 2.9,
+    "county_fips": 13169,
+    "county_name": "Jones",
+    "county_weights": "{\"13169\": 58.52, \"13159\": 32.49, \"13237\": 8.99}",
+    "county_names_all": "Jones|Jasper|Putnam",
+    "county_fips_all": "13169|13159|13237",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

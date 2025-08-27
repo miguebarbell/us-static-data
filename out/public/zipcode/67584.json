@@ -1,0 +1,20 @@
+{
+    "zip": 67584,
+    "lat": 38.6847,
+    "lng": -100.16072,
+    "city": "Utica",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 150.0,
+    "density": 0.2,
+    "county_fips": 20135,
+    "county_name": "Ness",
+    "county_weights": "{\"20135\": 45.4, \"20195\": 25.47, \"20063\": 21.08, \"20101\": 8.05}",
+    "county_names_all": "Ness|Trego|Gove|Lane",
+    "county_fips_all": "20135|20195|20063|20101",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 99714,
+    "lat": 64.4368,
+    "lng": -146.69689,
+    "city": "Salcha",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1282.0,
+    "density": 1.4,
+    "county_fips": 2090,
+    "county_name": "Fairbanks North Star",
+    "county_weights": "{\"02090\": 100}",
+    "county_names_all": "Fairbanks North Star",
+    "county_fips_all": "02090",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

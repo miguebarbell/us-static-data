@@ -1,0 +1,20 @@
+{
+    "zip": 15668,
+    "lat": 40.46352,
+    "lng": -79.67168,
+    "city": "Murrysville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14477.0,
+    "density": 249.7,
+    "county_fips": 42129,
+    "county_name": "Westmoreland",
+    "county_weights": "{\"42129\": 99.77, \"42003\": 0.23}",
+    "county_names_all": "Westmoreland|Allegheny",
+    "county_fips_all": "42129|42003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

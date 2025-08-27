@@ -1,0 +1,20 @@
+{
+    "zip": 18092,
+    "lat": 40.46844,
+    "lng": -75.51372,
+    "city": "Zionsville",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3246.0,
+    "density": 83.4,
+    "county_fips": 42077,
+    "county_name": "Lehigh",
+    "county_weights": "{\"42077\": 92.44, \"42011\": 7.56}",
+    "county_names_all": "Lehigh|Berks",
+    "county_fips_all": "42077|42011",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

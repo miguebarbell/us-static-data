@@ -1,0 +1,20 @@
+{
+    "zip": 60932,
+    "lat": 40.46513,
+    "lng": -87.80013,
+    "city": "East Lynn",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 394.0,
+    "density": 464.7,
+    "county_fips": 17183,
+    "county_name": "Vermilion",
+    "county_weights": "{\"17183\": 100}",
+    "county_names_all": "Vermilion",
+    "county_fips_all": "17183",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

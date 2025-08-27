@@ -1,0 +1,20 @@
+{
+    "zip": 53027,
+    "lat": 43.31697,
+    "lng": -88.37356,
+    "city": "Hartford",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 23201.0,
+    "density": 98.5,
+    "county_fips": 55131,
+    "county_name": "Washington",
+    "county_weights": "{\"55131\": 82.84, \"55027\": 17.16}",
+    "county_names_all": "Washington|Dodge",
+    "county_fips_all": "55131|55027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

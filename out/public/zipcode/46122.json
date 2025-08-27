@@ -1,0 +1,20 @@
+{
+    "zip": 46122,
+    "lat": 39.76822,
+    "lng": -86.5475,
+    "city": "Danville",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 16343.0,
+    "density": 71.4,
+    "county_fips": 18063,
+    "county_name": "Hendricks",
+    "county_weights": "{\"18063\": 100}",
+    "county_names_all": "Hendricks",
+    "county_fips_all": "18063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

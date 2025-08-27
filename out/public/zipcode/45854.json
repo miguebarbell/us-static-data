@@ -1,0 +1,20 @@
+{
+    "zip": 45854,
+    "lat": 40.7582,
+    "lng": -83.95231,
+    "city": "Lafayette",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 339.0,
+    "density": 341.1,
+    "county_fips": 39003,
+    "county_name": "Allen",
+    "county_weights": "{\"39003\": 100}",
+    "county_names_all": "Allen",
+    "county_fips_all": "39003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 54247,
+    "lat": 44.19686,
+    "lng": -87.78564,
+    "city": "Whitelaw",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2594.0,
+    "density": 30.4,
+    "county_fips": 55071,
+    "county_name": "Manitowoc",
+    "county_weights": "{\"55071\": 100}",
+    "county_names_all": "Manitowoc",
+    "county_fips_all": "55071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

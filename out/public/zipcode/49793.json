@@ -1,0 +1,20 @@
+{
+    "zip": 49793,
+    "lat": 46.21221,
+    "lng": -85.04417,
+    "city": "Trout Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 158.0,
+    "density": 0.7,
+    "county_fips": 26033,
+    "county_name": "Chippewa",
+    "county_weights": "{\"26033\": 79.41, \"26097\": 20.59}",
+    "county_names_all": "Chippewa|Mackinac",
+    "county_fips_all": "26033|26097",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Detroit"
+}

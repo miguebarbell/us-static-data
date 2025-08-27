@@ -1,0 +1,20 @@
+{
+    "zip": 24635,
+    "lat": 37.30683,
+    "lng": -81.34962,
+    "city": "Pocahontas",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 836.0,
+    "density": 48.2,
+    "county_fips": 51185,
+    "county_name": "Tazewell",
+    "county_weights": "{\"51185\": 100}",
+    "county_names_all": "Tazewell",
+    "county_fips_all": "51185",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 72662,
+    "lat": 36.43184,
+    "lng": -93.18297,
+    "city": "Omaha",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2935.0,
+    "density": 9.6,
+    "county_fips": 5009,
+    "county_name": "Boone",
+    "county_weights": "{\"05009\": 98.59, \"05015\": 1.41}",
+    "county_names_all": "Boone|Carroll",
+    "county_fips_all": "05009|05015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

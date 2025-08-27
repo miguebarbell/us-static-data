@@ -1,0 +1,20 @@
+{
+    "zip": 29203,
+    "lat": 34.10198,
+    "lng": -81.04009,
+    "city": "Columbia",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 40811.0,
+    "density": 253.1,
+    "county_fips": 45079,
+    "county_name": "Richland",
+    "county_weights": "{\"45079\": 100}",
+    "county_names_all": "Richland",
+    "county_fips_all": "45079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

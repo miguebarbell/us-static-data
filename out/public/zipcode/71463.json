@@ -1,0 +1,20 @@
+{
+    "zip": 71463,
+    "lat": 30.80854,
+    "lng": -92.64853,
+    "city": "Oakdale",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9007.0,
+    "density": 13.8,
+    "county_fips": 22003,
+    "county_name": "Allen",
+    "county_weights": "{\"22003\": 59.92, \"22039\": 29.58, \"22079\": 10.5}",
+    "county_names_all": "Allen|Evangeline|Rapides",
+    "county_fips_all": "22003|22039|22079",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

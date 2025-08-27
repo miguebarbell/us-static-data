@@ -1,0 +1,20 @@
+{
+    "zip": 37018,
+    "lat": 35.64255,
+    "lng": -86.19876,
+    "city": "Beechgrove",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2459.0,
+    "density": 23.6,
+    "county_fips": 47031,
+    "county_name": "Coffee",
+    "county_weights": "{\"47031\": 90.59, \"47003\": 9.41}",
+    "county_names_all": "Coffee|Bedford",
+    "county_fips_all": "47031|47003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

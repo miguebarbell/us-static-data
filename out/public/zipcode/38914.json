@@ -1,0 +1,20 @@
+{
+    "zip": 38914,
+    "lat": 33.86466,
+    "lng": -89.46453,
+    "city": "Big Creek",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 586.0,
+    "density": 4.6,
+    "county_fips": 28013,
+    "county_name": "Calhoun",
+    "county_weights": "{\"28013\": 93.62, \"28043\": 6.38}",
+    "county_names_all": "Calhoun|Grenada",
+    "county_fips_all": "28013|28043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

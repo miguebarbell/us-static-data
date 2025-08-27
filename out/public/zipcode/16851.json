@@ -1,0 +1,20 @@
+{
+    "zip": 16851,
+    "lat": 40.81229,
+    "lng": -77.80132,
+    "city": "Lemont",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 993.0,
+    "density": 205.7,
+    "county_fips": 42027,
+    "county_name": "Centre",
+    "county_weights": "{\"42027\": 100}",
+    "county_names_all": "Centre",
+    "county_fips_all": "42027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

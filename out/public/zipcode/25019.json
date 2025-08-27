@@ -1,0 +1,20 @@
+{
+    "zip": 25019,
+    "lat": 38.37663,
+    "lng": -81.08955,
+    "city": "Bickmore",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 586.0,
+    "density": 9.2,
+    "county_fips": 54015,
+    "county_name": "Clay",
+    "county_weights": "{\"54015\": 100}",
+    "county_names_all": "Clay",
+    "county_fips_all": "54015",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

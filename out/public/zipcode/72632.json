@@ -1,0 +1,20 @@
+{
+    "zip": 72632,
+    "lat": 36.37248,
+    "lng": -93.74355,
+    "city": "Eureka Springs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4550.0,
+    "density": 18.0,
+    "county_fips": 5015,
+    "county_name": "Carroll",
+    "county_weights": "{\"05015\": 97.81, \"05087\": 2.19}",
+    "county_names_all": "Carroll|Madison",
+    "county_fips_all": "05015|05087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

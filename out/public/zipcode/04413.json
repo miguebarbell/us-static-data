@@ -1,0 +1,20 @@
+{
+    "zip": 4413,
+    "lat": 45.55647,
+    "lng": -67.8274,
+    "city": "Brookton",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 225.0,
+    "density": 0.6,
+    "county_fips": 23029,
+    "county_name": "Washington",
+    "county_weights": "{\"23029\": 100}",
+    "county_names_all": "Washington",
+    "county_fips_all": "23029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 62557,
+    "lat": 39.39974,
+    "lng": -89.10503,
+    "city": "Pana",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 6859.0,
+    "density": 22.7,
+    "county_fips": 17021,
+    "county_name": "Christian",
+    "county_weights": "{\"17021\": 73.64, \"17173\": 21.36, \"17135\": 5.0}",
+    "county_names_all": "Christian|Shelby|Montgomery",
+    "county_fips_all": "17021|17173|17135",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

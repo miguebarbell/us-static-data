@@ -1,0 +1,20 @@
+{
+    "zip": 72059,
+    "lat": 35.15455,
+    "lng": -91.34209,
+    "city": "Gregory",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 17.0,
+    "density": 270.1,
+    "county_fips": 5147,
+    "county_name": "Woodruff",
+    "county_weights": "{\"05147\": 100}",
+    "county_names_all": "Woodruff",
+    "county_fips_all": "05147",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

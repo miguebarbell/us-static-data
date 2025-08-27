@@ -1,0 +1,20 @@
+{
+    "zip": 7514,
+    "lat": 40.92596,
+    "lng": -74.14452,
+    "city": "Paterson",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 18912.0,
+    "density": 7872.0,
+    "county_fips": 34031,
+    "county_name": "Passaic",
+    "county_weights": "{\"34031\": 99.76, \"34003\": 0.24}",
+    "county_names_all": "Passaic|Bergen",
+    "county_fips_all": "34031|34003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

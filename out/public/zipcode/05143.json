@@ -1,0 +1,20 @@
+{
+    "zip": 5143,
+    "lat": 43.26267,
+    "lng": -72.63095,
+    "city": "Chester",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4916.0,
+    "density": 16.6,
+    "county_fips": 50027,
+    "county_name": "Windsor",
+    "county_weights": "{\"50027\": 77.14, \"50025\": 22.86}",
+    "county_names_all": "Windsor|Windham",
+    "county_fips_all": "50027|50025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

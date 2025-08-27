@@ -1,0 +1,20 @@
+{
+    "zip": 39439,
+    "lat": 31.85865,
+    "lng": -89.00227,
+    "city": "Heidelberg",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4497.0,
+    "density": 12.7,
+    "county_fips": 28061,
+    "county_name": "Jasper",
+    "county_weights": "{\"28061\": 67.13, \"28067\": 19.03, \"28023\": 6.96, \"28153\": 6.88}",
+    "county_names_all": "Jasper|Jones|Clarke|Wayne",
+    "county_fips_all": "28061|28067|28023|28153",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

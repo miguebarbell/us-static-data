@@ -1,0 +1,20 @@
+{
+    "zip": 57775,
+    "lat": 44.08368,
+    "lng": -102.00607,
+    "city": "Quinn",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 396.0,
+    "density": 0.5,
+    "county_fips": 46103,
+    "county_name": "Pennington",
+    "county_weights": "{\"46103\": 45.53, \"46055\": 40.35, \"46071\": 14.13}",
+    "county_names_all": "Pennington|Haakon|Jackson",
+    "county_fips_all": "46103|46055|46071",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Denver"
+}

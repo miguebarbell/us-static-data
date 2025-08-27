@@ -1,0 +1,20 @@
+{
+    "zip": 61925,
+    "lat": 39.72444,
+    "lng": -88.83548,
+    "city": "Dalton City",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1037.0,
+    "density": 9.1,
+    "county_fips": 17115,
+    "county_name": "Macon",
+    "county_weights": "{\"17115\": 74.77, \"17139\": 25.23}",
+    "county_names_all": "Macon|Moultrie",
+    "county_fips_all": "17115|17139",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

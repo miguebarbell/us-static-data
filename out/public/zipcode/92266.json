@@ -1,0 +1,20 @@
+{
+    "zip": 92266,
+    "lat": 33.17507,
+    "lng": -114.92594,
+    "city": "Palo Verde",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 152.0,
+    "density": 0.0,
+    "county_fips": 6025,
+    "county_name": "Imperial",
+    "county_weights": "{\"06025\": 100}",
+    "county_names_all": "Imperial",
+    "county_fips_all": "06025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 36853,
+    "lat": 32.80557,
+    "lng": -85.76809,
+    "city": "Dadeville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 9110.0,
+    "density": 19.3,
+    "county_fips": 1123,
+    "county_name": "Tallapoosa",
+    "county_weights": "{\"01123\": 100}",
+    "county_names_all": "Tallapoosa",
+    "county_fips_all": "01123",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

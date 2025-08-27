@@ -1,0 +1,20 @@
+{
+    "zip": 95375,
+    "lat": 38.21493,
+    "lng": -119.97031,
+    "city": "Strawberry",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 65.0,
+    "density": 1.8,
+    "county_fips": 6109,
+    "county_name": "Tuolumne",
+    "county_weights": "{\"06109\": 100}",
+    "county_names_all": "Tuolumne",
+    "county_fips_all": "06109",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

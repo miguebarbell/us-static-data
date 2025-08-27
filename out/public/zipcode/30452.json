@@ -1,0 +1,20 @@
+{
+    "zip": 30452,
+    "lat": 32.31706,
+    "lng": -81.89417,
+    "city": "Register",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1466.0,
+    "density": 9.8,
+    "county_fips": 13031,
+    "county_name": "Bulloch",
+    "county_weights": "{\"13031\": 92.64, \"13109\": 6.68, \"13043\": 0.68}",
+    "county_names_all": "Bulloch|Evans|Candler",
+    "county_fips_all": "13031|13109|13043",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

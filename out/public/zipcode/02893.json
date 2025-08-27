@@ -1,0 +1,20 @@
+{
+    "zip": 2893,
+    "lat": 41.69856,
+    "lng": -71.51566,
+    "city": "West Warwick",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31025.0,
+    "density": 1529.4,
+    "county_fips": 44003,
+    "county_name": "Kent",
+    "county_weights": "{\"44003\": 100}",
+    "county_names_all": "Kent",
+    "county_fips_all": "44003",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

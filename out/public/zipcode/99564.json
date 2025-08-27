@@ -1,0 +1,20 @@
+{
+    "zip": 99564,
+    "lat": 56.30032,
+    "lng": -158.41315,
+    "city": "Chignik",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 28.0,
+    "density": 1.0,
+    "county_fips": 2164,
+    "county_name": "Lake and Peninsula",
+    "county_weights": "{\"02164\": 100}",
+    "county_names_all": "Lake and Peninsula",
+    "county_fips_all": "02164",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Anchorage"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 36350,
+    "lat": 31.3435,
+    "lng": -85.49669,
+    "city": "Midland City",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 7675.0,
+    "density": 38.3,
+    "county_fips": 1045,
+    "county_name": "Dale",
+    "county_weights": "{\"01045\": 97.76, \"01069\": 2.24}",
+    "county_names_all": "Dale|Houston",
+    "county_fips_all": "01045|01069",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

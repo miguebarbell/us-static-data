@@ -1,0 +1,20 @@
+{
+    "zip": 72930,
+    "lat": 35.43248,
+    "lng": -94.00737,
+    "city": "Cecil",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 216.0,
+    "density": 2.2,
+    "county_fips": 5047,
+    "county_name": "Franklin",
+    "county_weights": "{\"05047\": 73.77, \"05131\": 26.23}",
+    "county_names_all": "Franklin|Sebastian",
+    "county_fips_all": "05047|05131",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

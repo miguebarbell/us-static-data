@@ -1,0 +1,20 @@
+{
+    "zip": 75555,
+    "lat": 32.94564,
+    "lng": -94.13696,
+    "city": "Bivins",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1508.0,
+    "density": 4.8,
+    "county_fips": 48067,
+    "county_name": "Cass",
+    "county_weights": "{\"48067\": 91.2, \"48315\": 8.8}",
+    "county_names_all": "Cass|Marion",
+    "county_fips_all": "48067|48315",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

@@ -1,0 +1,20 @@
+{
+    "zip": 49959,
+    "lat": 46.46987,
+    "lng": -89.99803,
+    "city": "Ramsay",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 261.0,
+    "density": 100.6,
+    "county_fips": 26053,
+    "county_name": "Gogebic",
+    "county_weights": "{\"26053\": 100}",
+    "county_names_all": "Gogebic",
+    "county_fips_all": "26053",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Menominee"
+}

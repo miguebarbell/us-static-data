@@ -1,0 +1,20 @@
+{
+    "zip": 68454,
+    "lat": 40.69275,
+    "lng": -96.28686,
+    "city": "Unadilla",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 641.0,
+    "density": 4.4,
+    "county_fips": 31131,
+    "county_name": "Otoe",
+    "county_weights": "{\"31131\": 98.25, \"31025\": 1.75}",
+    "county_names_all": "Otoe|Cass",
+    "county_fips_all": "31131|31025",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

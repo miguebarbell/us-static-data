@@ -1,0 +1,20 @@
+{
+    "zip": 58552,
+    "lat": 46.26042,
+    "lng": -100.29955,
+    "city": "Linton",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1460.0,
+    "density": 1.1,
+    "county_fips": 38029,
+    "county_name": "Emmons",
+    "county_weights": "{\"38029\": 100}",
+    "county_names_all": "Emmons",
+    "county_fips_all": "38029",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

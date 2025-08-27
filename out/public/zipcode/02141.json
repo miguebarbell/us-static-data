@@ -1,0 +1,20 @@
+{
+    "zip": 2141,
+    "lat": 42.37041,
+    "lng": -71.08218,
+    "city": "Cambridge",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14677.0,
+    "density": 9308.6,
+    "county_fips": 25017,
+    "county_name": "Middlesex",
+    "county_weights": "{\"25017\": 100}",
+    "county_names_all": "Middlesex",
+    "county_fips_all": "25017",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

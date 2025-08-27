@@ -1,0 +1,20 @@
+{
+    "zip": 58843,
+    "lat": 48.23141,
+    "lng": -103.38142,
+    "city": "Epping",
+    "state_id": "ND",
+    "state_name": "North Dakota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 799.0,
+    "density": 1.4,
+    "county_fips": 38105,
+    "county_name": "Williams",
+    "county_weights": "{\"38105\": 100}",
+    "county_names_all": "Williams",
+    "county_fips_all": "38105",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

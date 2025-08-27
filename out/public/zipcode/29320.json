@@ -1,0 +1,20 @@
+{
+    "zip": 29320,
+    "lat": 34.95847,
+    "lng": -81.9922,
+    "city": "Arcadia",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 526.0,
+    "density": 328.8,
+    "county_fips": 45083,
+    "county_name": "Spartanburg",
+    "county_weights": "{\"45083\": 100}",
+    "county_names_all": "Spartanburg",
+    "county_fips_all": "45083",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

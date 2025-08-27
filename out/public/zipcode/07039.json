@@ -1,0 +1,20 @@
+{
+    "zip": 7039,
+    "lat": 40.78554,
+    "lng": -74.32909,
+    "city": "Livingston",
+    "state_id": "NJ",
+    "state_name": "New Jersey",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 31128.0,
+    "density": 872.7,
+    "county_fips": 34013,
+    "county_name": "Essex",
+    "county_weights": "{\"34013\": 99.84, \"34027\": 0.16}",
+    "county_names_all": "Essex|Morris",
+    "county_fips_all": "34013|34027",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/New_York"
+}

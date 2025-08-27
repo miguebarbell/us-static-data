@@ -1,0 +1,20 @@
+{
+    "zip": 79057,
+    "lat": 35.20638,
+    "lng": -100.62157,
+    "city": "Mclean",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 1075.0,
+    "density": 1.1,
+    "county_fips": 48179,
+    "county_name": "Gray",
+    "county_weights": "{\"48179\": 44.27, \"48129\": 35.62, \"48483\": 13.86, \"48087\": 6.25}",
+    "county_names_all": "Gray|Donley|Wheeler|Collingsworth",
+    "county_fips_all": "48179|48129|48483|48087",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

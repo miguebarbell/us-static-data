@@ -1,0 +1,20 @@
+{
+    "zip": 98077,
+    "lat": 47.75263,
+    "lng": -122.05754,
+    "city": "Woodinville",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 14407.0,
+    "density": 321.8,
+    "county_fips": 53033,
+    "county_name": "King",
+    "county_weights": "{\"53033\": 85.05, \"53061\": 14.95}",
+    "county_names_all": "King|Snohomish",
+    "county_fips_all": "53033|53061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

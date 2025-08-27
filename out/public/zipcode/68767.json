@@ -1,0 +1,20 @@
+{
+    "zip": 68767,
+    "lat": 42.1969,
+    "lng": -97.53622,
+    "city": "Pierce",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3389.0,
+    "density": 6.8,
+    "county_fips": 31139,
+    "county_name": "Pierce",
+    "county_weights": "{\"31139\": 98.85, \"31179\": 1.15}",
+    "county_names_all": "Pierce|Wayne",
+    "county_fips_all": "31139|31179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

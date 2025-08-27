@@ -1,0 +1,20 @@
+{
+    "zip": 95668,
+    "lat": 38.82708,
+    "lng": -121.49378,
+    "city": "Pleasant Grove",
+    "state_id": "CA",
+    "state_name": "California",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 540.0,
+    "density": 3.2,
+    "county_fips": 6101,
+    "county_name": "Sutter",
+    "county_weights": "{\"06101\": 69.73, \"06061\": 30.27}",
+    "county_names_all": "Sutter|Placer",
+    "county_fips_all": "06101|06061",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Los_Angeles"
+}

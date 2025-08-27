@@ -1,0 +1,20 @@
+{
+    "zip": 60110,
+    "lat": 42.12296,
+    "lng": -88.2883,
+    "city": "Carpentersville",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 39028.0,
+    "density": 1796.2,
+    "county_fips": 17089,
+    "county_name": "Kane",
+    "county_weights": "{\"17089\": 100}",
+    "county_names_all": "Kane",
+    "county_fips_all": "17089",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

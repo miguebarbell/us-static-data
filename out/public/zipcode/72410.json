@@ -1,0 +1,20 @@
+{
+    "zip": 72410,
+    "lat": 35.93854,
+    "lng": -91.09432,
+    "city": "Alicia",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 429.0,
+    "density": 2.1,
+    "county_fips": 5075,
+    "county_name": "Lawrence",
+    "county_weights": "{\"05075\": 100}",
+    "county_names_all": "Lawrence",
+    "county_fips_all": "05075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

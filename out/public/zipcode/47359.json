@@ -1,0 +1,20 @@
+{
+    "zip": 47359,
+    "lat": 40.55203,
+    "lng": -85.28642,
+    "city": "Montpelier",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 3688.0,
+    "density": 25.0,
+    "county_fips": 18009,
+    "county_name": "Blackford",
+    "county_weights": "{\"18009\": 62.73, \"18179\": 37.27}",
+    "county_names_all": "Blackford|Wells",
+    "county_fips_all": "18009|18179",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Indiana/Indianapolis"
+}

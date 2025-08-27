@@ -1,0 +1,20 @@
+{
+    "zip": 79259,
+    "lat": 34.36243,
+    "lng": -100.45594,
+    "city": "Tell",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 25.0,
+    "density": 0.2,
+    "county_fips": 48191,
+    "county_name": "Hall",
+    "county_weights": "{\"48191\": 77.41, \"48075\": 22.59}",
+    "county_names_all": "Hall|Childress",
+    "county_fips_all": "48191|48075",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

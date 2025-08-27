@@ -1,0 +1,20 @@
+{
+    "zip": 71073,
+    "lat": 32.5241,
+    "lng": -93.30547,
+    "city": "Sibley",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 2686.0,
+    "density": 34.7,
+    "county_fips": 22119,
+    "county_name": "Webster",
+    "county_weights": "{\"22119\": 100}",
+    "county_names_all": "Webster",
+    "county_fips_all": "22119",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

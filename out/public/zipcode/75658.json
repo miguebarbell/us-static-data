@@ -1,0 +1,20 @@
+{
+    "zip": 75658,
+    "lat": 32.17545,
+    "lng": -94.90362,
+    "city": "Joinerville",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 24.0,
+    "density": 7.8,
+    "county_fips": 48401,
+    "county_name": "Rusk",
+    "county_weights": "{\"48401\": 100}",
+    "county_names_all": "Rusk",
+    "county_fips_all": "48401",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}

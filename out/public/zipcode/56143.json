@@ -1,0 +1,20 @@
+{
+    "zip": 56143,
+    "lat": 43.62803,
+    "lng": -95.00759,
+    "city": "Jackson",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "zcta": true,
+    "parent_zcta": NaN,
+    "population": 4529.0,
+    "density": 9.3,
+    "county_fips": 27063,
+    "county_name": "Jackson",
+    "county_weights": "{\"27063\": 100}",
+    "county_names_all": "Jackson",
+    "county_fips_all": "27063",
+    "imprecise": false,
+    "military": false,
+    "timezone": "America/Chicago"
+}
