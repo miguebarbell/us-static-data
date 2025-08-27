@@ -1,12 +1,12 @@
 #!/bin/bash
 
-mkdir ./doc
+mkdir ./docs
 cd out/ || exit
 bun run build
 cd ..
 rm -r ./doc
 mv ./out/dist .
-mv ./dist ./doc
-git add ./doc
+mv ./dist ./docs
+git add ./docs
 git commit -am "[DEPLOY] $(date)"
 git push
